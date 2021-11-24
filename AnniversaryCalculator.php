@@ -27,6 +27,7 @@ class ANNIVERSARY_CALCULATOR {
 
     private string $responseContentType;
     private string $acceptHeader        = "";
+    private string $table;
     private array $parameterData        = [];
     private array $requestHeaders       = [];
     private mysqli $mysqli;
@@ -152,6 +153,7 @@ class ANNIVERSARY_CALCULATOR {
 
         $mysqli->set_charset( "utf8" );
         $this->mysqli = $mysqli;
+        $this->table = defined('TABLE') ? TABLE : 'anniversari';
         $this->RESPONSE->Messages[] = "Connected to Database";
     }
 
@@ -195,7 +197,7 @@ class ANNIVERSARY_CALCULATOR {
 
     private function dbWalk() {
 
-        $result = $this->mysqli->query("SELECT * FROM anniversari ORDER BY MESE, GIORNO");
+        $result = $this->mysqli->query("SELECT * FROM {$this->table} ORDER BY MESE, GIORNO");
         while( $row = $result->fetch_assoc() ){
             $litEvent = new LitEvent( $row );
             if( $litEvent->anno !== null && $this->isAnniversary( $litEvent ) ) {
