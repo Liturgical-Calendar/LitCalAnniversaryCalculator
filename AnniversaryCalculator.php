@@ -157,7 +157,8 @@ class ANNIVERSARY_CALCULATOR {
 
     private function isAnniversary( LitEvent $litEvent ) : bool {
 
-        $yearDiff = $litEvent->anno - $this->parameterData["YEAR"];
+        $yearDiff = $this->parameterData["YEAR"] - $litEvent->anno;
+        $litEvent->setYearDiff( $yearDiff );
 
         foreach( LitEvent::ANNIVERSARY as $key => $value ) {
 

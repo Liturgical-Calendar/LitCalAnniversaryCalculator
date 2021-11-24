@@ -57,6 +57,8 @@ class LitEvent {
     public array $ambito;
     public string|null $note;
     public string|null $anniversario;
+    public string|null $patronato;
+    public int $yearDiff;
 
     function __construct( array $rowData ){
         $this->idx                  = $rowData["IDX"];
@@ -73,10 +75,15 @@ class LitEvent {
         $this->luoghi               = $rowData["LUOGHI"];
         $this->ambito               = explode( ",", $rowData["AMBITO"] );
         $this->note                 = $rowData["NOTE"];
+        $this->patronato            = $rowData["PATRONO"];
     }
 
     public function setAnniversary( int $anniv ) {
         $this->anniversario = array_search( $anniv, self::ANNIVERSARY );
+    }
+
+    public function setYearDiff( int $yearDiff ) {
+        $this->yearDiff = $yearDiff;
     }
 
 }
