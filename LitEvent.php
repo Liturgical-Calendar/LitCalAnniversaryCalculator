@@ -73,7 +73,7 @@ class LitEvent {
         $this->luogoSepoltura       = $rowData["LUOGO_SEPOLTURA"];
         $this->santuarioPrincipale  = $rowData["SANTUARIO_PRINCIPALE"];
         $this->luoghi               = $rowData["LUOGHI"];
-        $this->ambito               = explode( ",", $rowData["AMBITO"] );
+        $this->ambito               = $rowData["AMBITO"] ? explode( ",", $rowData["AMBITO"] ) : [];
         $this->note                 = $rowData["NOTE"];
         $this->patronato            = $rowData["PATRONO"];
     }
