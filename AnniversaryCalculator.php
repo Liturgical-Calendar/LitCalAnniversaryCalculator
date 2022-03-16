@@ -72,7 +72,7 @@ class ANNIVERSARY_CALCULATOR {
     }
 
     private static function validateRequestContentType() {
-        if( isset( $_SERVER['CONTENT_TYPE'] ) && !in_array( $_SERVER['CONTENT_TYPE'], self::ALLOWED_CONTENT_TYPES ) ){
+        if( isset( $_SERVER['CONTENT_TYPE'] ) && $_SERVER['CONTENT_TYPE'] !== '' && !in_array( $_SERVER['CONTENT_TYPE'], self::ALLOWED_CONTENT_TYPES ) ){
             header( $_SERVER["SERVER_PROTOCOL"]." 415 Unsupported Media Type", true, 415 );
             die( '{"error":"You seem to be forming a strange kind of request? Allowed Content Types are '.implode( ' and ',self::ALLOWED_CONTENT_TYPES ).', but your Content Type was '.$_SERVER['CONTENT_TYPE'].'"}' );
         }
