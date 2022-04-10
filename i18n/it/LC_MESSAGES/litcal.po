@@ -1,14 +1,13 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# John R. D'Orazio <priest@johnromanodorazio.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-10 16:24+0000\n"
-"PO-Revision-Date: 2022-04-10 15:42+0000\n"
+"PO-Revision-Date: 2022-04-10 16:25+0000\n"
 "Last-Translator: John R. D'Orazio <priest@johnromanodorazio.com>\n"
 "Language-Team: Italian <https://translate.johnromanodorazio.com/projects/"
 "liturgical-calendar/anniversary-calculator/it/>\n"
@@ -50,20 +49,20 @@ msgstr "altro"
 
 #: includes/enums/AreaInterest.php:19
 msgid "rome"
-msgstr ""
+msgstr "roma"
 
 #: includes/enums/AreaInterest.php:20
 msgid "italy"
-msgstr ""
+msgstr "italia"
 
 #: includes/enums/AreaInterest.php:21
 msgid "world"
-msgstr ""
+msgstr "mondo"
 
 #: includes/enums/AreaInterest.php:22
 msgid "biblical"
-msgstr ""
+msgstr "biblici"
 
 #: includes/enums/AreaInterest.php:23
 msgid "marian"
-msgstr ""
+msgstr "mariani"
