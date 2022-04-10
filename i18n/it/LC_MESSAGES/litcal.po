@@ -8,39 +8,42 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-10 17:18+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-04-10 15:42+0000\n"
+"Last-Translator: John R. D'Orazio <priest@johnromanodorazio.com>\n"
+"Language-Team: Italian <https://translate.johnromanodorazio.com/projects/"
+"liturgical-calendar/anniversary-calculator/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.10.1\n"
 
 #: includes/enums/AnnivType.php:21
 msgid "birth"
-msgstr ""
+msgstr "nascita"
 
 #: includes/enums/AnnivType.php:22
 msgid "death"
-msgstr ""
+msgstr "morte"
 
 #: includes/enums/AnnivType.php:23
 msgid "canonization"
-msgstr ""
+msgstr "canonizzazione"
 
 #: includes/enums/AnnivType.php:24
 msgid "doctor"
-msgstr ""
+msgstr "dottore"
 
 #: includes/enums/AnnivType.php:25
 msgid "dedication"
-msgstr ""
+msgstr "dedicazione"
 
 #. translators: term "translation" refers to the transferral of the relics of a saint
 #: includes/enums/AnnivType.php:27
 msgid "translation"
-msgstr ""
+msgstr "traslazione"
 
 #: includes/enums/AnnivType.php:28
 msgid "other"
-msgstr ""
+msgstr "altro"
