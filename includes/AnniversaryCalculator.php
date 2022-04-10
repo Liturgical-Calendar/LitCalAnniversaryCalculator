@@ -1,7 +1,5 @@
 <?php
-
-include 'LitEvent.php';
-define( "LITCALVERIFICATION", "for security purposes" );
+include_once( 'includes/LitEvent.php' );
 
 class ANNIVERSARY_CALCULATOR {
 
@@ -9,6 +7,7 @@ class ANNIVERSARY_CALCULATOR {
     const ALLOWED_ACCEPT_HEADERS             = [ "application/json", "application/xml", "text/html" ];
     const ALLOWED_CONTENT_TYPES              = [ "application/json", "application/x-www-form-urlencoded" ];
     const ALLOWED_REQUEST_METHODS            = [ "GET", "POST" ];
+    const ALLOWED_LOCALES                    = [ "en", "it" ]; //, "es", "fr", "de", "pt"
 
     const RECURRING = [
         "STAGNO",
@@ -22,7 +21,19 @@ class ANNIVERSARY_CALCULATOR {
         "PLATINO",
         "QUERCIA",
         "GRANITO",
-        "CENTENARIO"
+        "CENTENARIO",
+        "ALUMINUM",
+        "PORCELAIN",
+        "SILVER",
+        "PEARL",
+        "RUBY",
+        "GOLD",
+        "DIAMOND",
+        "IRON",
+        "PLATINUM",
+        "OAK",
+        "GRANITE",
+        "CENTENARY"
     ];
 
     private string $responseContentType;
@@ -30,7 +41,6 @@ class ANNIVERSARY_CALCULATOR {
     private string $table;
     private array $parameterData        = [];
     private array $requestHeaders       = [];
-    private mysqli $mysqli;
     private object $RESPONSE;
 
     function __construct() {
@@ -48,9 +58,9 @@ class ANNIVERSARY_CALCULATOR {
         self::validateRequestContentType();
 
         $this->initParameterData();
+        $this->prepareL10N();
         $this->setReponseContentTypeHeader();
-        $this->dbConnect();
-        $this->dbWalk();
+        $this->readData();
         $this->outputResults();
     }
 
@@ -112,8 +122,26 @@ class ANNIVERSARY_CALCULATOR {
             die( '{"error":"Parametro YEAR non impostato o non valido"}' );
         }
 
+        if( isset( $this->parameterData["LOCALE"] ) && in_array( strtolower( $this->parameterData["LOCALE"] ), self::ALLOWED_LOCALES ) ) {
+            $this->parameterData["LOCALE"] = strtolower( $this->parameterData["LOCALE"] );
+        } else {
+            $this->parameterData["LOCALE"] = "en";
+        }
+
         $this->responseContentType = ( isset( $this->parameterData["return"] ) && in_array( strtolower( $this->parameterData["return"] ), self::ALLOWED_RETURN_TYPES ) ) ? strtolower( $this->parameterData["return"] ) : ( $this->acceptHeader !== "" ? ( string ) self::ALLOWED_RETURN_TYPES[array_search( $this->requestHeaders["Accept"], self::ALLOWED_ACCEPT_HEADERS )] : ( string ) self::ALLOWED_RETURN_TYPES[0] );
         $this->RESPONSE->Messages[] = "parameter data initialized";
+    }
+
+    private function prepareL10N() : void {
+        $localeArray = [
+            $this->parameterData["LOCALE"] . '_' . strtoupper( $this->parameterData["LOCALE"] ) . '.utf8',
+            $this->parameterData["LOCALE"] . '_' . strtoupper( $this->parameterData["LOCALE"] ) . '.UTF-8',
+            $this->parameterData["LOCALE"] . '_' . strtoupper( $this->parameterData["LOCALE"] ),
+            $this->parameterData["LOCALE"]
+        ];
+        setlocale( LC_ALL, $localeArray );
+        bindtextdomain("litcal", "i18n");
+        textdomain("litcal");
     }
 
     private function setReponseContentTypeHeader() {
@@ -133,29 +161,46 @@ class ANNIVERSARY_CALCULATOR {
         $this->RESPONSE->Messages[] = "Response Content-Type header set";
     }
 
-    private function dbConnect() {
+    private function readData() {
+        if( file_exists( "./data/LITURGY__anniversari.json" ) ) {
+            if( file_exists( "./data/i18n/{$this->parameterData["LOCALE"]}.json" ) ) {
+                $lclData = json_decode( file_get_contents( "./data/i18n/{$this->parameterData["LOCALE"]}.json" ) );
+                $results = json_decode( file_get_contents( "./data/LITURGY__anniversari.json" ) );
+                $this->RESPONSE->Messages[] = "localized data events loaded: " . count(get_object_vars( $lclData ));
+                $this->RESPONSE->Messages[] = "base data events loaded: " . count( $results );
+                foreach( $lclData as $label => $lclRow ) {
+                    list( $TAG, $IDX ) = explode( "_", $label );
+                    foreach( $results as $idx => $obj ) {
+                        if( $obj->TAG === $TAG && $obj->IDX === intval( $IDX ) ) {
+                            $litEvent = new LitEvent( array_merge( (array) $results[$idx], (array) $lclRow ), $this->parameterData["LOCALE"] );
+                            if( $litEvent->year !== null && $this->isAnniversary( $litEvent ) ) {
+                                $this->RESPONSE->LitEvents[] = $litEvent;
+                            }
+                        }
+                    }
 
-        $dbCredentials = "dbcredentials.php";
-        //search for the database credentials file at least three levels up...
-        if( file_exists( $dbCredentials ) ){
-            include_once( $dbCredentials );
-        } else if ( file_exists( "../{$dbCredentials}" ) ){
-            include_once( "../{$dbCredentials}" );
-        } else if ( file_exists( "../../{$dbCredentials}" ) ){
-            include_once( "../../{$dbCredentials}" );
+                    $props = [
+                        "month" => 2,
+                        "day"   => 1
+                    ];
+                    usort( $this->RESPONSE->LitEvents, function($a, $b) use ($props){
+                        foreach( $props as $key => $val ){
+                            if( $a->$key == $b->$key ) continue;
+                            return $a->$key > $b->$key ? $val : -($val);
+                        }
+                        return 0;
+                    });
+
+                }
+                $this->RESPONSE->Messages[] = count($this->RESPONSE->LitEvents) . " data rows calculated";
+            } else {
+                $this->RESPONSE->Messages[] = "missing file ./data/i18n/{$this->parameterData["LOCALE"]}.json";
+            }
+        } else {
+            $this->RESPONSE->Messages[] = "missing file ./data/LITURGY__anniversari.json";
         }
-
-        $mysqli = new mysqli( SERVER, DBUSER, DBPASS, DATABASE );
-
-        if ( $mysqli->connect_errno ) {
-            die( '{"error":"Failed to connect to the database: ' . $mysqli->connect_error . '"}' );
-        }
-
-        $mysqli->set_charset( "utf8" );
-        $this->mysqli = $mysqli;
-        $this->table = defined('TABLE') ? TABLE : 'anniversari';
-        $this->RESPONSE->Messages[] = "Connected to Database";
     }
+
 
     private function isAnniversary( LitEvent $litEvent ) : bool {
 
@@ -166,10 +211,10 @@ class ANNIVERSARY_CALCULATOR {
 
             if ( in_array( $key, self::RECURRING ) ) {
 
-                if( $key === "CENTENARIO" ) {
+                if( $key === "CENTENARY" ) {
 
-                    if( $yearDiff % LitEvent::ANNIVERSARY["CENTENARIO"] === 0 ) {
-                        $litEvent->setAnniversary( LitEvent::ANNIVERSARY["CENTENARIO"] );
+                    if( $yearDiff % LitEvent::ANNIVERSARY["CENTENARY"] === 0 ) {
+                        $litEvent->setAnniversary( LitEvent::ANNIVERSARY["CENTENARY"] );
                         return true;
                     }
 
@@ -195,25 +240,9 @@ class ANNIVERSARY_CALCULATOR {
 
     }
 
-    private function dbWalk() {
-
-        $result = $this->mysqli->query("SELECT * FROM {$this->table} ORDER BY MESE, GIORNO");
-        while( $row = $result->fetch_assoc() ){
-            $litEvent = new LitEvent( $row );
-            if( $litEvent->anno !== null && $this->isAnniversary( $litEvent ) ) {
-                $this->RESPONSE->LitEvents[] = $litEvent;
-            }
-        }
-        $this->RESPONSE->Messages[] = "database rows calculated";
-    }
-
     private function outputResults() {
 
         echo json_encode( $this->RESPONSE, JSON_UNESCAPED_UNICODE );
-
-        if ( $this->mysqli && $this->mysqli->thread_id ) {
-            $this->mysqli->close();
-        }
         exit( 0 );
 
     }
