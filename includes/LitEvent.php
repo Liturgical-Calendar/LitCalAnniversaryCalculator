@@ -1,5 +1,6 @@
 <?php
 include_once( 'includes/enums/AnnivType.php' );
+include_once( 'includes/enums/AreaInterest.php' );
 
 class LitEvent {
 
@@ -65,7 +66,7 @@ class LitEvent {
     public string|null $luogoSepoltura;
     public string|null $santuarioPrincipale;
     public string|null $luoghi;
-    public array $ambito;
+    public array $ambitoDiInteresse;
     public string|null $note;
     public string|null $anniversario;
     public string|null $patronato;
@@ -82,13 +83,14 @@ class LitEvent {
     public string|null $placeOfBurial;
     public string|null $mainShrine;
     public string|null $places;
-    public array $area;
+    public array $areaOfInterest;
     public string|null $notes;
     public string|null $anniversary;
     public string|null $patronage;
 
     function __construct( array $rowData, string $locale ){
         $AnnivType                  = new AnnivType( $locale );
+        $AreaInterest               = new AreaInterest( $locale );
 
         $this->idx                  = $rowData["IDX"];
         $this->tag                  = $rowData["TAG"];
@@ -104,7 +106,7 @@ class LitEvent {
         $this->luogoSepoltura       = $rowData["PLACE_OF_BURIAL"];
         $this->santuarioPrincipale  = $rowData["MAIN_SHRINE"];
         $this->luoghi               = $rowData["PLACES"];
-        $this->ambito               = $rowData["AREA"] ? explode( ",", $rowData["AREA"] ) : [];
+        $this->ambitoDiInteresse    = $rowData["AREA"] ? $AreaInterest->i18n( explode( ",", $rowData["AREA"] ) ) : [];
         $this->note                 = $rowData["NOTES"];
         $this->patronato            = $rowData["PATRONAGE"];
 
@@ -119,7 +121,7 @@ class LitEvent {
         $this->placeOfBurial       = $rowData["PLACE_OF_BURIAL"];
         $this->mainShrine          = $rowData["MAIN_SHRINE"];
         $this->places              = $rowData["PLACES"];
-        $this->area                = $rowData["AREA"] ? explode( ",", $rowData["AREA"] ) : [];
+        $this->areaOfInterest      = $rowData["AREA"] ? $AreaInterest->i18n( explode( ",", $rowData["AREA"] ) ) : [];
         $this->notes               = $rowData["NOTES"];
         $this->patronage           = $rowData["PATRONAGE"];
 
