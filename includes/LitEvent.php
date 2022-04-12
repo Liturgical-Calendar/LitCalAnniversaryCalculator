@@ -1,6 +1,7 @@
 <?php
 include_once( 'includes/enums/AnnivType.php' );
 include_once( 'includes/enums/AreaInterest.php' );
+include_once( 'includes/enums/LitCalendar.php' );
 
 class LitEvent {
 
@@ -91,6 +92,7 @@ class LitEvent {
     function __construct( array $rowData, string $locale ){
         $AnnivType                  = new AnnivType( $locale );
         $AreaInterest               = new AreaInterest( $locale );
+        $LitCalendar                = new LitCalendar( $locale );
 
         $this->idx                  = $rowData["IDX"];
         $this->tag                  = $rowData["TAG"];
@@ -100,7 +102,7 @@ class LitEvent {
         $this->anno                 = $rowData["YEAR"];
         $this->mese                 = $rowData["MONTH"];
         $this->giorno               = $rowData["DAY"];
-        $this->calendario           = $rowData["CALENDAR"];
+        $this->calendario           = $LitCalendar->i18n( $rowData["CALENDAR"] );
         $this->luogoNascita         = $rowData["PLACE_OF_BIRTH"];
         $this->luogoMorte           = $rowData["PLACE_OF_DEATH"];
         $this->luogoSepoltura       = $rowData["PLACE_OF_BURIAL"];
@@ -115,7 +117,7 @@ class LitEvent {
         $this->year                = $rowData["YEAR"];
         $this->month               = $rowData["MONTH"];
         $this->day                 = $rowData["DAY"];
-        $this->calendar            = $rowData["CALENDAR"];
+        $this->calendar            = $LitCalendar->i18n( $rowData["CALENDAR"] );
         $this->placeOfBirth        = $rowData["PLACE_OF_BIRTH"];
         $this->placeOfDeath        = $rowData["PLACE_OF_DEATH"];
         $this->placeOfBurial       = $rowData["PLACE_OF_BURIAL"];

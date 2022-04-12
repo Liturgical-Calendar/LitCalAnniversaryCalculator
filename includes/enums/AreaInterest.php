@@ -1,6 +1,6 @@
 <?php
 
-class AnnivType {
+class AreaInterest {
     const ROME      = "rome";       // ROMA CRISTIANA
     const ITALY     = "italy";      // ITALIA CRISTIANA
     const WORLD     = "world";      // IRC

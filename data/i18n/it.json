@@ -1,7 +1,6 @@
 {
     "StsBasilGreg_1": {
         "SUBJECT": "San Basilio Magno",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Cappadocia (Turchia)",
         "PLACE_OF_DEATH": "Kayseri, Turchia",
         "PLACE_OF_BIRTH": "Cesarea di Cappadocia, attuale Kayseri, Turchia",
@@ -12,7 +11,6 @@
     },
     "StRayPenyafort_2": {
         "SUBJECT": "San Raimondo di Peñafort, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Barcellona (Spagna)",
         "PLACE_OF_DEATH": "Barcellona, Spagna",
         "PLACE_OF_BIRTH": "Santa Margarida i els Monjos, Spagna",
@@ -23,7 +21,6 @@
     },
     "StHilaryPoitiers_3": {
         "SUBJECT": "Sant'Ilario di Poitiers, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Francia",
         "PLACE_OF_DEATH": "Poitiers, Francia",
         "PLACE_OF_BIRTH": "Poitiers, Francia",
@@ -34,7 +31,6 @@
     },
     "StAnthonyEgypt_4": {
         "SUBJECT": "Sant'Antonio di Egitto, abate",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Egitto, Francia",
         "PLACE_OF_DEATH": "Mount Colzim, Egypt",
         "PLACE_OF_BIRTH": "Coma, attuale Qiman el-Arus, Egitto",
@@ -45,7 +41,6 @@
     },
     "StFabianPope_5": {
         "SUBJECT": "San Fabiano, papa e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma",
         "PLACE_OF_DEATH": "Roma",
         "PLACE_OF_BIRTH": "Roma",
@@ -56,7 +51,6 @@
     },
     "StSebastian_6": {
         "SUBJECT": "San Sebastiano, martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Chiesa di San Sebastiano, Narbona (Francia); Basilica e Catacombe di San Sebastiano (Roma)",
         "PLACE_OF_DEATH": "Roma",
         "PLACE_OF_BIRTH": "Narbona, Francia\r\nhttps://www.google.com/maps/@43.186026,3.0067009,3a,90y,93.51h,99.16t/data=!3m6!1e1!3m4!1sboQV0f52ww1JNPTccgwatg!2e0!7i16384!8i8192",
@@ -67,7 +61,6 @@
     },
     "StAgnes_7": {
         "SUBJECT": "Sant'Agnese, vergine e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma",
         "PLACE_OF_DEATH": "Basilica di Sant'Agnese in Agone, Roma",
         "PLACE_OF_BIRTH": "Roma",
@@ -78,7 +71,6 @@
     },
     "StVincentDeacon_8": {
         "SUBJECT": "San Vincenzo, diacono e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Valencia (Spagna), Lisbona (Portogallo), Acate (Ragusa, Italia)",
         "PLACE_OF_DEATH": "Valencia, Spagna",
         "PLACE_OF_BIRTH": "Huesca / Valencia / Saragozza",
@@ -89,7 +81,6 @@
     },
     "StFrancisDeSales_9": {
         "SUBJECT": "San Francesco di Sales, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Lione, Francia",
         "PLACE_OF_BIRTH": "Sales (Francia)",
@@ -100,7 +91,6 @@
     },
     "StsPeterPaulAp_10": {
         "SUBJECT": "San Paolo, apostolo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Chiesa di San Paolo alla Regola, Roma\r\nChiesa di Santa Maria in Via Lata, Roma;\r\nGRECIA;\r\nTURCHIA",
         "PLACE_OF_DEATH": "Santuario delle Tre Fontane, Roma",
         "PLACE_OF_BIRTH": "Tarso (Turchia)\r\nhttps://www.google.com/maps/place/36%C2%B055'00.0%22N+34%C2%B054'00.0%22E/@36.9546925,34.8770442,11.25z/data=!4m5!3m4!1s0x0:0x0!8m2!3d36.916667!4d34.9",
@@ -111,7 +101,6 @@
     },
     "StsTimothyTitus_11": {
         "SUBJECT": "San Timoteo, vescovo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Listra, Efeso (Turchia); Termoli (Italia)",
         "PLACE_OF_DEATH": "Efeso, Macedonia, Grecia",
         "PLACE_OF_BIRTH": "Listra (vicino all'attuale Konya, antico Iconium, Turchia)",
@@ -122,7 +111,6 @@
     },
     "StAngelaMerici_12": {
         "SUBJECT": "Sant'Angela Merici, vergine",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Desenzano sul Garda, Brescia (Italia)\r\nhttp://www.angelamerici.org/luoghi/\r\nhttp://www.angelamerici.it/news_schede.php?testata=Casa%20di%20santa%20Angela&get_id=6",
         "PLACE_OF_DEATH": "Brescia, Italia",
         "PLACE_OF_BIRTH": "Desenzano sul Garda (Italia)",
@@ -133,7 +121,6 @@
     },
     "StThomasAquinas_13": {
         "SUBJECT": "San Tommaso d'Aquino, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roccasecca,Fossanova (Italia), Tolosa (Francia)",
         "PLACE_OF_DEATH": "Abbazia di Fossanova a Priverno, Latina, Italia",
         "PLACE_OF_BIRTH": "Roccasecca (Frosinone, Italia)",
@@ -144,7 +131,6 @@
     },
     "StJohnBosco_14": {
         "SUBJECT": "San Giovanni Bosco, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Basilica Maria Ausiliatrice (Valdocco, Torino), Basilica Sacro Cuore (Roma)",
         "PLACE_OF_DEATH": "Torino, Italia",
         "PLACE_OF_BIRTH": "Castelnuovo d'Asti (Italia)",
@@ -155,7 +141,6 @@
     },
     "StBlase_16": {
         "SUBJECT": "San Biagio, vescovo e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Sivas (Turchia); Maratea (Italia)",
         "PLACE_OF_DEATH": "Sebaste, Armenia (attuale Sivas, Turchia)",
         "PLACE_OF_BIRTH": "Sebaste, Armenia (attuale Sivas, Turchia)",
@@ -166,7 +151,6 @@
     },
     "StAnsgar_17": {
         "SUBJECT": "Sant'Ansgario (Oscar), vescovo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Francia, Germania, Danimarca, Svezia",
         "PLACE_OF_DEATH": "Brema, Germania",
         "PLACE_OF_BIRTH": "Amiens (Francia)",
@@ -177,7 +161,6 @@
     },
     "StAgatha_18": {
         "SUBJECT": "Sant'Agata, vergine e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Catania (Sicilia, Italia), Roma, Chiesa di Santa Sofia a Costantinopoli (odierno Istanbul, Turchia)",
         "PLACE_OF_DEATH": "Catania, Sicilia, Italia",
         "PLACE_OF_BIRTH": "Catania (Sicilia, Italia)",
@@ -188,7 +171,6 @@
     },
     "StsPaulMiki_19": {
         "SUBJECT": "Santi Paolo Miki e compagni, martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Nagasaki, Giappone",
         "PLACE_OF_BIRTH": "Kyoto (Giappone)",
@@ -199,7 +181,6 @@
     },
     "StJeromeEmiliani_20": {
         "SUBJECT": "San Girolamo Emiliani",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Somasca, Italia",
         "PLACE_OF_DEATH": "Somasca, Lecco, Italia",
         "PLACE_OF_BIRTH": "Venezia (Italia)",
@@ -210,7 +191,6 @@
     },
     "StScholastica_21": {
         "SUBJECT": "Santa Scolastica, vergine",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Norica, Montecassino, Subiaco (Italia)",
         "PLACE_OF_DEATH": "Montecassino, Frosinone, Italia",
         "PLACE_OF_BIRTH": "Norcia (Perugia, Italia)",
@@ -221,7 +201,6 @@
     },
     "LadyLourdes_22": {
         "SUBJECT": "Beata Maria Vergine di Lourdes",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -232,7 +211,6 @@
     },
     "StsCyrilMethodius_23": {
         "SUBJECT": "San Cirillo, monaco",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Salonicco (Grecia), Roma (Italia)",
         "PLACE_OF_DEATH": "Roma",
         "PLACE_OF_BIRTH": "Salonicco (Grecia)",
@@ -243,7 +221,6 @@
     },
     "SevenHolyFounders_24": {
         "SUBJECT": "Santi Sette Fondatori dei Servi della Beata Maria Vergine",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Montesenario",
         "PLACE_OF_BIRTH": "Firenze",
@@ -254,7 +231,6 @@
     },
     "StPeterDamian_25": {
         "SUBJECT": "San Pier Damiani, vescovo e dottore della Chiesa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Faenza",
         "PLACE_OF_BIRTH": "Ravenna",
@@ -265,7 +241,6 @@
     },
     "ChairStPeter_26": {
         "SUBJECT": "Cattedra di San Pietro, apostolo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Betsaida, Palestina Romana",
@@ -276,7 +251,6 @@
     },
     "StPolycarp_27": {
         "SUBJECT": "San Policarpo, vescovo e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Smirna, Turchia",
         "PLACE_OF_BIRTH": "Smirna, Turchia",
@@ -287,7 +261,6 @@
     },
     "StCasimir_28": {
         "SUBJECT": "San Casimiro",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Hrodna (Bielorussia)",
         "PLACE_OF_BIRTH": "Cracovia",
@@ -298,7 +271,6 @@
     },
     "StsPerpetuaFelicity_29": {
         "SUBJECT": "Sante Perpetua e Felicita, martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Cartagine - Tunisi (Tunisia)",
         "PLACE_OF_BIRTH": "Cartagine - Tunisi (Tunisia)",
@@ -309,7 +281,6 @@
     },
     "StJohnGod_30": {
         "SUBJECT": "San Giovanni di Dio, religioso",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Granada (Spagna)",
         "PLACE_OF_BIRTH": "Montemor-o-Novo (Portogallo)",
@@ -320,7 +291,6 @@
     },
     "StFrancesRome_31": {
         "SUBJECT": "Santa Francesca Romana, religiosa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Roma",
         "PLACE_OF_BIRTH": "Roma",
@@ -331,7 +301,6 @@
     },
     "StPatrick_32": {
         "SUBJECT": "San Patrizio, vescovo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Downpatrick (Irlanda del Nord)",
         "PLACE_OF_BIRTH": "Old Kilpatrick (Scozia)",
@@ -342,7 +311,6 @@
     },
     "StCyrilJerusalem_33": {
         "SUBJECT": "San Cirillo di Gerusalemme, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Gerusalemme",
         "PLACE_OF_BIRTH": "Gerusalemme",
@@ -353,7 +321,6 @@
     },
     "StJoseph_34": {
         "SUBJECT": "San Giuseppe Sposo della Beata Vergine Maria",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -364,7 +331,6 @@
     },
     "StTuribius_35": {
         "SUBJECT": "San Turibio di Mogrovejo, vescovo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Zaña (Perù)",
         "PLACE_OF_BIRTH": "Mayorga (Spagna)",
@@ -375,7 +341,6 @@
     },
     "StFrancisPaola_37": {
         "SUBJECT": "San Francesco da Paola, eremita",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Castello di Plessis-lez-Tours (La Riche, Francia)",
         "PLACE_OF_BIRTH": "Paola (Cosenza)",
@@ -386,7 +351,6 @@
     },
     "StIsidore_38": {
         "SUBJECT": "Sant'Isidoro, vescovo e dottore della Chiesa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Siviglia (Spagna)",
         "PLACE_OF_BIRTH": "Cartagena (Spagna)",
@@ -397,7 +361,6 @@
     },
     "StVincentFerrer_39": {
         "SUBJECT": "San Vincenzo Ferrer, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Vannes, Francia",
         "PLACE_OF_BIRTH": "València, Spagna",
@@ -408,7 +371,6 @@
     },
     "StJohnBaptistDeLaSalle_40": {
         "SUBJECT": "San Giovanni Battista de la Salle, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Saint Yon presso Rouen, Francia",
         "PLACE_OF_BIRTH": "Reims, Francia",
@@ -419,7 +381,6 @@
     },
     "StStanislaus_41": {
         "SUBJECT": "San Stanislao, vescovo e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Cracovia, Polonia",
         "PLACE_OF_BIRTH": "Szczepanowice, Polonia",
@@ -430,7 +391,6 @@
     },
     "StMartinPope_42": {
         "SUBJECT": "San Martino I, papa e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Cherson (attuale Akherson), Ucraina",
         "PLACE_OF_BIRTH": "Todi, Perugia, Italia",
@@ -441,7 +401,6 @@
     },
     "StAnselm_43": {
         "SUBJECT": "Sant'Anselmo di Canterbury, vescovo e dottore della Chiesa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Canterbury, Regno Unito",
         "PLACE_OF_BIRTH": "Aosta, Italia",
@@ -452,7 +411,6 @@
     },
     "StGeorge_44": {
         "SUBJECT": "San Giorgio, martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Nicomedia (attuale İzmit), Turchia | oppure | Lidda (attuale Lod) - Tel Aviv, Israele",
         "PLACE_OF_BIRTH": "Cappadocia, Turchia",
@@ -463,7 +421,6 @@
     },
     "StFidelisSigmaringen_45": {
         "SUBJECT": "San Fedele di Sigmaringen, sacerdote e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Austria; Svizzera",
         "PLACE_OF_DEATH": "Seewis im Prättigau, Svizzera",
         "PLACE_OF_BIRTH": "Sigmaringen, Germania",
@@ -474,7 +431,6 @@
     },
     "StMarkEvangelist_46": {
         "SUBJECT": "San Marco Evangelista",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Venezia, Alessandria, Cairo, Roma",
         "PLACE_OF_DEATH": "Alessandria, Egitto",
         "PLACE_OF_BIRTH": "Palestina o Cipro",
@@ -485,7 +441,6 @@
     },
     "StPeterChanel_47": {
         "SUBJECT": "San Pietro Chanel, sacerdote e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Futuna, Oceania francese",
         "PLACE_OF_BIRTH": "Montrevel-en-Bresse, Francia,",
@@ -496,7 +451,6 @@
     },
     "StCatherineSiena_48": {
         "SUBJECT": "Santa Caterina da Siena, vergine e dottore della Chiesa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Siena, Roma",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Siena, Italia",
@@ -507,7 +461,6 @@
     },
     "StPiusV_49": {
         "SUBJECT": "San Pio V, papa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Bosco Marengo, Alessandria, Italia",
@@ -518,7 +471,6 @@
     },
     "StJosephWorker_50": {
         "SUBJECT": "San Giuseppe Lavoratore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -529,7 +481,6 @@
     },
     "StAthanasius_51": {
         "SUBJECT": "Sant'Atanasio, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Alessandria d'Egitto",
         "PLACE_OF_DEATH": "Alessandria, Egitto",
         "PLACE_OF_BIRTH": "Alessandria, Egitto",
@@ -540,7 +491,6 @@
     },
     "StsPhilipJames_52": {
         "SUBJECT": "Santi Filippo e Giacomo, apostoli",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma; Gerusalemme; Hierapolis (attuale Pammukale), Turchia",
         "PLACE_OF_DEATH": "Hierapolis (attuale Pammukale), Turchia; e Gerusalemme",
         "PLACE_OF_BIRTH": "Betsaida",
@@ -551,7 +501,6 @@
     },
     "StsNereusAchilleus_53": {
         "SUBJECT": "Santi Nereo e Achilleo, martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia",
         "PLACE_OF_DEATH": "Roma",
         "PLACE_OF_BIRTH": null,
@@ -562,7 +511,6 @@
     },
     "StPancras_54": {
         "SUBJECT": "San Pancrazio, martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia",
         "PLACE_OF_DEATH": "Roma",
         "PLACE_OF_BIRTH": null,
@@ -573,7 +521,6 @@
     },
     "StMatthiasAp_55": {
         "SUBJECT": "San Mattia, apostolo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Padova, Italia;\nTreviri, Germania",
         "PLACE_OF_DEATH": "Gerusalemme",
         "PLACE_OF_BIRTH": "Giudea Romana",
@@ -584,7 +531,6 @@
     },
     "StJohnIPope_56": {
         "SUBJECT": "San Giovanni I, papa e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Ravenna, Roma",
         "PLACE_OF_DEATH": "Ravenna, Italia",
         "PLACE_OF_BIRTH": "Siena o Chiusdino o Anghiari, Toscana, Italia",
@@ -595,7 +541,6 @@
     },
     "StBernardineSiena_57": {
         "SUBJECT": "San Bernardino da Siena, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "L'Aquila, Italia",
         "PLACE_OF_DEATH": "L'Aquila, Italia",
         "PLACE_OF_BIRTH": "Massa Marittima, Grosseto, Italia",
@@ -606,7 +551,6 @@
     },
     "StBedeVenerable_58": {
         "SUBJECT": "San Beda il Venerabile, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Durham, Regno Unito",
         "PLACE_OF_DEATH": "Jarrow, Regno Unito",
         "PLACE_OF_BIRTH": "Northumbria, Regno Unito",
@@ -617,7 +561,6 @@
     },
     "StGregoryVII_59": {
         "SUBJECT": "San Gregorio VII, papa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Salerno, Italia",
         "PLACE_OF_DEATH": "Salerno, Italia",
         "PLACE_OF_BIRTH": "Sovana, Italia",
@@ -628,7 +571,6 @@
     },
     "StMaryMagdalenePazzi_60": {
         "SUBJECT": "Santa Maria Maddalena de Pazzi, vergine",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Firenze, Italia",
         "PLACE_OF_DEATH": "Firenze, Italia",
         "PLACE_OF_BIRTH": "Firenze, Italia",
@@ -639,7 +581,6 @@
     },
     "StPhilipNeri_61": {
         "SUBJECT": "San Filippo Neri, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Firenze, Italia",
@@ -650,7 +591,6 @@
     },
     "StAugustineCanterbury_62": {
         "SUBJECT": "Sant'Agostino di Canterbury, vescovo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Canterbury, Regno Unito",
         "PLACE_OF_DEATH": "Canterbury, Regno Unito",
         "PLACE_OF_BIRTH": "Roma, Italia",
@@ -661,7 +601,6 @@
     },
     "Visitation_63": {
         "SUBJECT": "Visitazione della Beata Vergine Maria",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -672,7 +611,6 @@
     },
     "StJustinMartyr_64": {
         "SUBJECT": "San Giustino martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Nablus, Palestina",
@@ -683,7 +621,6 @@
     },
     "StsMarcellinusPeter_65": {
         "SUBJECT": "Santi Marcellino e Pietro, martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": null,
@@ -694,7 +631,6 @@
     },
     "StsCharlesLwanga_66": {
         "SUBJECT": "Santi Carlo Lwanga e compagni, martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Namugongo, Uganda",
         "PLACE_OF_DEATH": "Kampala, Uganda",
         "PLACE_OF_BIRTH": null,
@@ -705,7 +641,6 @@
     },
     "StBoniface_67": {
         "SUBJECT": "San Bonifacio, vescovo e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Fulda, Germania",
         "PLACE_OF_DEATH": "Dokkum, Paesi Bassi",
         "PLACE_OF_BIRTH": "Wessex, Regno Unito",
@@ -716,7 +651,6 @@
     },
     "StNorbert_68": {
         "SUBJECT": "San Norberto",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Praga, Repubblica Ceca",
         "PLACE_OF_DEATH": "Magdeburgo, Germania",
         "PLACE_OF_BIRTH": "Xanten, Germania",
@@ -727,7 +661,6 @@
     },
     "StEphrem_69": {
         "SUBJECT": "Sant'Efrem, diacono e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Edessa (attuale Şanliurfa), Turchia",
         "PLACE_OF_BIRTH": "Nisibi (attuale Nusaybin), Turchia",
@@ -738,7 +671,6 @@
     },
     "StBarnabasAp_70": {
         "SUBJECT": "San Barnaba, apostolo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Cipro",
         "PLACE_OF_BIRTH": "Cipro",
@@ -749,7 +681,6 @@
     },
     "StAnthonyPadua_71": {
         "SUBJECT": "Sant'Antonio di Padova, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Lisbona, Portogallo; Eremo di Montepaolo, Forli'; Rimini; Padova",
         "PLACE_OF_DEATH": "Padova, Italia",
         "PLACE_OF_BIRTH": "Lisbona, Portogallo",
@@ -760,7 +691,6 @@
     },
     "StRomuald_72": {
         "SUBJECT": "San Romualdo, abate",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Fabriano, Italia; Jesi, Italia; Camaldoli, Arezzo; Abbazia di Santa Maria di Sitria, Monte Cucco; Valdicastro",
         "PLACE_OF_DEATH": "Abbazia di San Salvatore in Valdicastro, Ancona, Italia",
         "PLACE_OF_BIRTH": "Ravenna, Italia",
@@ -771,7 +701,6 @@
     },
     "StAloysiusGonzaga_73": {
         "SUBJECT": "San Luigi Gonzaga, religioso",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Castiglione delle Stiviere; Roma",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Castiglione delle Stiviere, Mantova, Italia",
@@ -782,7 +711,6 @@
     },
     "StPaulinusNola_74": {
         "SUBJECT": "San Paolino da Nola, vescovo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Nola, Italia",
         "PLACE_OF_DEATH": "Nola, Italia",
         "PLACE_OF_BIRTH": "Bordeaux, Francia",
@@ -793,7 +721,6 @@
     },
     "StsJohnFisherThomasMore_75": {
         "SUBJECT": "Santi Giovanni Fisher, vescovo e martire e Tommaso Moro, martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Londra, Regno Unito",
         "PLACE_OF_DEATH": "Londra, Regno Unito",
         "PLACE_OF_BIRTH": "rispettivamente Beverley e Londra, Regno Unito",
@@ -804,7 +731,6 @@
     },
     "NativityJohnBaptist_76": {
         "SUBJECT": "Natività di San Giovanni Battista",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Sebaste, Palestina; Macheronte, Giordania; Roma, Italia",
         "PLACE_OF_DEATH": "Macheronte, Giordania",
         "PLACE_OF_BIRTH": "Ein Kerem, Palestina / Israele",
@@ -815,7 +741,6 @@
     },
     "StCyrilAlexandria_77": {
         "SUBJECT": "San Cirillo di Alessandria, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Alessandria, Egitto",
         "PLACE_OF_BIRTH": "Teodosia (attuale el-Mahalla el-Kubra), Egitto",
@@ -826,7 +751,6 @@
     },
     "StIrenaeus_78": {
         "SUBJECT": "Sant'Ireneo, vescovo e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Lione, Francia",
         "PLACE_OF_DEATH": "Lione, Francia",
         "PLACE_OF_BIRTH": "Smirne, Turchia",
@@ -837,7 +761,6 @@
     },
     "StsPeterPaulAp_79": {
         "SUBJECT": "San Pietro, apostolo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "San Pietro in Montorio, Roma\r\nSan Pietro in Vincoli, Roma\r\nSanta Pudenziana, Roma",
         "PLACE_OF_DEATH": "Roma",
         "PLACE_OF_BIRTH": "Betsaida, Lago di Galilea, attuale Israele",
@@ -848,7 +771,6 @@
     },
     "FirstMartyrsRome_80": {
         "SUBJECT": "Santi Primi Martiri della Chiesa Romana",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma",
         "PLACE_OF_DEATH": "Roma",
         "PLACE_OF_BIRTH": null,
@@ -859,7 +781,6 @@
     },
     "StThomasAp_81": {
         "SUBJECT": "San Tommaso Apostolo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Ortona, Italia; Chennai, India",
         "PLACE_OF_DEATH": "Mylapore, India",
         "PLACE_OF_BIRTH": "Galilea, Palestina Romana",
@@ -870,7 +791,6 @@
     },
     "StElizabethPortugal_82": {
         "SUBJECT": "Sant'Elisabetta da Portogallo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Coimbra, Portogallo",
         "PLACE_OF_DEATH": "Estremoz, Portogallo",
         "PLACE_OF_BIRTH": "Aragona, Spagna",
@@ -881,7 +801,6 @@
     },
     "StAnthonyZaccaria_83": {
         "SUBJECT": "Sant'Antonio Zaccaria, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Cremona, Italia; Milano, Italia",
         "PLACE_OF_DEATH": "Cremona, Italia",
         "PLACE_OF_BIRTH": "Cremona, Italia",
@@ -892,7 +811,6 @@
     },
     "StMariaGoretti_84": {
         "SUBJECT": "Santa Maria Goretti, vergine e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Corinaldo, Italia; Nettuno, Italia",
         "PLACE_OF_DEATH": "Nettuno (RM), Italia",
         "PLACE_OF_BIRTH": "Corinaldo (Ancona), Italia",
@@ -903,7 +821,6 @@
     },
     "StBenedict_85": {
         "SUBJECT": "San Benedetto, abate",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Montecassino, Italia; Norcia, Italia; Subiaco, Italia",
         "PLACE_OF_DEATH": "Montecassino, Italia",
         "PLACE_OF_BIRTH": "Norcia, Italia",
@@ -914,7 +831,6 @@
     },
     "StHenry_86": {
         "SUBJECT": "Sant'Enrico",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Bamberga, Germania",
         "PLACE_OF_DEATH": "Gottinga, Germania",
         "PLACE_OF_BIRTH": "Bad Abbach o Hildesheim, Germania",
@@ -925,7 +841,6 @@
     },
     "StCamillusDeLellis_87": {
         "SUBJECT": "San Camillo de Lellis, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Bucchianico, Italia; Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Bucchianico (Chieti), Italia",
@@ -936,7 +851,6 @@
     },
     "StBonaventure_88": {
         "SUBJECT": "San Bonaventura, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Lione, Francia; Bagnoregio, Italia",
         "PLACE_OF_DEATH": "Lione, Francia",
         "PLACE_OF_BIRTH": "Civita di Bagnoregio, Viterbo",
@@ -947,7 +861,6 @@
     },
     "LadyMountCarmel_89": {
         "SUBJECT": "Beata Maria Vergine del Monte Carmelo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -958,7 +871,6 @@
     },
     "StLawrenceBrindisi_90": {
         "SUBJECT": "San Lorenzo da Brindisi, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Chiesa di Santa Maria degli Angeli, Brindisi, Italia; Lisbona, Portogallo; Villafranca del Bierzo, Spagna",
         "PLACE_OF_DEATH": "Lisbona, Portogallo",
         "PLACE_OF_BIRTH": "Brindisi, Italia",
@@ -969,7 +881,6 @@
     },
     "StMaryMagdalene_91": {
         "SUBJECT": "Santa Maria Maddalena",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Basilica di Santa Maria Maddalena a Saint-Maximin-la-Sainte-Baume, Francia; Basilica di Santa Maria Maddalena a Vezelay, Francia; Basilica di San Giovanni de' Fiorentini a Roma, Italia",
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": "Magdala, Palestina Romana",
@@ -980,7 +891,6 @@
     },
     "StBridget_92": {
         "SUBJECT": "Santa Brigida, religiosa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Chiesa di Santa Brigida a Vadstena, Svezia; Chiesa di Santa Brigida a Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Finsta, Svezia",
@@ -991,7 +901,6 @@
     },
     "StJamesAp_93": {
         "SUBJECT": "San Giacomo, apostolo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Gerusalemme",
         "PLACE_OF_BIRTH": "Betsaida",
@@ -1002,7 +911,6 @@
     },
     "StsJoachimAnne_94": {
         "SUBJECT": "Santi Gioacchino e Anna",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Gerusalemme",
         "PLACE_OF_BIRTH": "rispettivamente Betlemme / Gerusalemme; Sefforis",
@@ -1013,7 +921,6 @@
     },
     "StMartha_95": {
         "SUBJECT": "Santa Marta",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": "Betania",
@@ -1024,7 +931,6 @@
     },
     "StPeterChrysologus_96": {
         "SUBJECT": "San Pietro Crisologo, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Ravenna, Italia",
         "PLACE_OF_BIRTH": "Imola, Italia",
@@ -1035,7 +941,6 @@
     },
     "StIgnatiusLoyola_97": {
         "SUBJECT": "Sant'Ignazio da Loyola, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Loyola, Spagna; Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Loyola, Spagna",
@@ -1046,7 +951,6 @@
     },
     "StAlphonsusMariaDeLiguori_98": {
         "SUBJECT": "Sant'Alfonso Maria de Liguori, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Marianella, Napoli; Pagani, Salerno",
         "PLACE_OF_DEATH": "Pagani (Salerno), Italia",
         "PLACE_OF_BIRTH": "Marianella (Napoli),Italia",
@@ -1057,7 +961,6 @@
     },
     "StEusebius_99": {
         "SUBJECT": "Sant'Eusebio di Vercelli, vescovo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Vercelli, Italia",
         "PLACE_OF_DEATH": "Vercelli, Italia",
         "PLACE_OF_BIRTH": "Sardegna, Italia",
@@ -1068,7 +971,6 @@
     },
     "StJeanVianney_100": {
         "SUBJECT": "San Giovanni Vianney (il Curato d'Ars), sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Ars, Francia",
         "PLACE_OF_DEATH": "Ars, Francia",
         "PLACE_OF_BIRTH": "Dardilly, Francia",
@@ -1079,7 +981,6 @@
     },
     "DedicationStMaryMajor_101": {
         "SUBJECT": "Dedicazione della Basilica di Santa Maria Maggiore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma",
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -1090,7 +991,6 @@
     },
     "Transfiguration_102": {
         "SUBJECT": "Trasfigurazione del Signore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -1101,7 +1001,6 @@
     },
     "StSixtusIIPope_103": {
         "SUBJECT": "Santi Sisto II, papa, e compagni martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Grecia",
@@ -1112,7 +1011,6 @@
     },
     "StCajetan_104": {
         "SUBJECT": "San Gaetano, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Napoli, Italia",
         "PLACE_OF_DEATH": "Napoli, Italia",
         "PLACE_OF_BIRTH": "Vicenza, Italia",
@@ -1123,7 +1021,6 @@
     },
     "StDominic_105": {
         "SUBJECT": "San Domenico, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Bologna, Italia",
         "PLACE_OF_DEATH": "Bologna, Italia",
         "PLACE_OF_BIRTH": "Caleruega, Spagna",
@@ -1134,7 +1031,6 @@
     },
     "StLawrenceDeacon_106": {
         "SUBJECT": "San Lorenzo, diacono e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Chiesa di San Lorenzo in Panisperna, Roma, Italia",
         "PLACE_OF_BIRTH": "Valencia o Huesca, Spagna",
@@ -1145,7 +1041,6 @@
     },
     "StClare_107": {
         "SUBJECT": "Santa Chiara, vergine",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Assisi, Italia",
         "PLACE_OF_DEATH": "Assisi, Italia",
         "PLACE_OF_BIRTH": "Assisi, Italia",
@@ -1156,7 +1051,6 @@
     },
     "StJaneFrancesDeChantal_108": {
         "SUBJECT": "Santa Giovanna Francesca de Chantal, religiosa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Annecy, Francia",
         "PLACE_OF_DEATH": "Moulins, Francia",
         "PLACE_OF_BIRTH": "Dijon, Francia",
@@ -1167,7 +1061,6 @@
     },
     "StsPontianHippolytus_109": {
         "SUBJECT": "Santi Ponziano, papa, e Ippolito, sacerdote, martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia",
         "PLACE_OF_DEATH": "Sardegna, Italia",
         "PLACE_OF_BIRTH": null,
@@ -1178,7 +1071,6 @@
     },
     "Assumption_110": {
         "SUBJECT": "Assunzione della Beata Vergine Maria",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Chiesa della Dormizione, Gerusalemme",
         "PLACE_OF_BIRTH": "Gerusalemme / Nazareth",
@@ -1189,7 +1081,6 @@
     },
     "StStephenHungary_111": {
         "SUBJECT": "Santo Stefano di Ungheria",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Budapest, Ungheria",
         "PLACE_OF_DEATH": "Buda, Ungheria",
         "PLACE_OF_BIRTH": "Esztergom, Ungheria",
@@ -1200,7 +1091,6 @@
     },
     "StJohnEudes_112": {
         "SUBJECT": "San Giovanni Eudes, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Caen, Francia",
         "PLACE_OF_DEATH": "Caen, Francia",
         "PLACE_OF_BIRTH": "Ri, Francia",
@@ -1211,7 +1101,6 @@
     },
     "StBernardClairvaux_113": {
         "SUBJECT": "San Bernardo di Chiaravalle, abate e dottore della Chiesa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Chiaravalle, Francia; Troyes, Francia",
         "PLACE_OF_DEATH": "Clairvaux, Francia",
         "PLACE_OF_BIRTH": "Fontaine-lès-Dijon, Francia",
@@ -1222,7 +1111,6 @@
     },
     "StPiusX_114": {
         "SUBJECT": "San Pio X, papa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Riese, Treviso, Italia",
@@ -1233,7 +1121,6 @@
     },
     "QueenshipMary_115": {
         "SUBJECT": "Beata Maria Vergine Regina",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -1244,7 +1131,6 @@
     },
     "StRoseLima_116": {
         "SUBJECT": "Santa Rosa da Lima, vergine",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Lima, Perù",
         "PLACE_OF_BIRTH": "Lima, Perù",
@@ -1255,7 +1141,6 @@
     },
     "StBartholomewAp_117": {
         "SUBJECT": "San Bartolomeo, apostolo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia; Benevento, Italia; Francoforte, Germania; Colonia, Germania; Canterbury, Inghilterra",
         "PLACE_OF_DEATH": "Albanopolis (Armenia), o Baku (Azerbaigian)",
         "PLACE_OF_BIRTH": "Cana di Galilea",
@@ -1266,7 +1151,6 @@
     },
     "StLouis_118": {
         "SUBJECT": "San Luigi IX",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Monreale, Sicilia, Italia; Saint-Denis, Francia",
         "PLACE_OF_DEATH": "Tunisi, Tunisia",
         "PLACE_OF_BIRTH": "Poissy; Francia",
@@ -1277,7 +1161,6 @@
     },
     "StJosephCalasanz_119": {
         "SUBJECT": "San Giuseppe da Calasanzio, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Peralta de la Sal, Spagna",
@@ -1288,7 +1171,6 @@
     },
     "StMonica_120": {
         "SUBJECT": "Santa Monica",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Ostia, Italia",
         "PLACE_OF_BIRTH": "Tagaste (attuale Souk Ahras), Algeria",
@@ -1299,7 +1181,6 @@
     },
     "StAugustineHippo_121": {
         "SUBJECT": "Sant'Agostino di Ippona, vescovo e dottore della Chiesa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Souk Ahras, Annaba (Algeria); Roma; sepolto Basilica di San Pietro in Ciel d'Oro (Pavia, Italia)",
         "PLACE_OF_DEATH": "Ippona, Annaba, Algeria",
         "PLACE_OF_BIRTH": "Tagaste (attualmente Souk Ahras, Algeria)",
@@ -1310,7 +1191,6 @@
     },
     "BeheadingJohnBaptist_122": {
         "SUBJECT": "Martirio di San Giovanni Battista",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Macheronte, Giordania",
         "PLACE_OF_BIRTH": "Ein Kerem",
@@ -1321,7 +1201,6 @@
     },
     "StGregoryGreat_123": {
         "SUBJECT": "San Gregorio Magno, papa e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Roma, Italia",
@@ -1332,7 +1211,6 @@
     },
     "NativityVirginMary_124": {
         "SUBJECT": "Natività della Beata Vergine Maria",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Gerusalemme",
         "PLACE_OF_BIRTH": "Gerusalemme o Sefforis",
@@ -1343,7 +1221,6 @@
     },
     "StJohnChrysostom_125": {
         "SUBJECT": "San Giovanni Crisostomo, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Antakya (Turchia), Comana Pontica (Turchia), Istanbul (Turchia)",
         "PLACE_OF_DEATH": "Comana Pontica, Turchia",
         "PLACE_OF_BIRTH": "Antiochia di Siria (attuale Antakya), Turchia",
@@ -1354,7 +1231,6 @@
     },
     "ExaltationCross_126": {
         "SUBJECT": "Esaltazione della Santa Croce",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -1365,7 +1241,6 @@
     },
     "LadySorrows_127": {
         "SUBJECT": "Beata Vergine Maria Addolorata",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -1376,7 +1251,6 @@
     },
     "StsCorneliusCyprian_128": {
         "SUBJECT": "Santi Cornelio, papa, e Cipriano, vescovo, martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia; Cartagine, Tunisia",
         "PLACE_OF_DEATH": "Civitavecchia, e Sesti (Cartagine)",
         "PLACE_OF_BIRTH": "Roma, e Cartagine",
@@ -1387,7 +1261,6 @@
     },
     "StRobertBellarmine_129": {
         "SUBJECT": "San Roberto Bellarmino, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Montepulciano, Siena, Italia",
@@ -1398,7 +1271,6 @@
     },
     "StJanuarius_130": {
         "SUBJECT": "San Gennaro, vescovo e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Napoli, Italia; Benevento, Italia",
         "PLACE_OF_DEATH": "Pozzuoli, Italia",
         "PLACE_OF_BIRTH": "Benevento, Italia",
@@ -1409,7 +1281,6 @@
     },
     "StMatthewEvangelist_131": {
         "SUBJECT": "San Matteo apostolo ed evangelista",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Salerno, Italia",
         "PLACE_OF_DEATH": "Hierapolis (attuale Pamukkale), Turchia; oppure Etiopia",
         "PLACE_OF_BIRTH": "Cafarnao, Israele",
@@ -1420,7 +1291,6 @@
     },
     "StsCosmasDamian_132": {
         "SUBJECT": "Santi Cosma e Damiano, martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Cirro, Siria",
         "PLACE_OF_BIRTH": "Egea (oggi Yumurtalık), Turchia",
@@ -1431,7 +1301,6 @@
     },
     "StVincentDePaul_133": {
         "SUBJECT": "San Vincenzo de Paoli, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Parigi, Francia",
         "PLACE_OF_DEATH": "Parigi, Francia",
         "PLACE_OF_BIRTH": "Puy-Saint-Vincent, Francia",
@@ -1442,7 +1311,6 @@
     },
     "StWenceslaus_134": {
         "SUBJECT": "San Venceslao, martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Praga, Repubblica Ceca",
         "PLACE_OF_DEATH": "Starà Boleslav, Repubblica Ceca",
         "PLACE_OF_BIRTH": "Praga, Repubblica Ceca",
@@ -1453,7 +1321,6 @@
     },
     "StsArchangels_135": {
         "SUBJECT": "Santi Michele, Gabriele e Raffaele, arcangeli",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -1464,7 +1331,6 @@
     },
     "StJerome_136": {
         "SUBJECT": "San Girolamo, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia; Betlemme, Palestina",
         "PLACE_OF_DEATH": "Betlemme, Palestina",
         "PLACE_OF_BIRTH": "Stridone, antica Dalmazia",
@@ -1475,7 +1341,6 @@
     },
     "StThereseChildJesus_137": {
         "SUBJECT": "Santa Teresa di Gesù Bambino, vergine e dottore della Chiesa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Alençcon, Francia; Lisieux, Francia",
         "PLACE_OF_DEATH": "Lisieux, Francia",
         "PLACE_OF_BIRTH": "Alençon, Francia",
@@ -1486,7 +1351,6 @@
     },
     "GuardianAngels_138": {
         "SUBJECT": "Santi Angeli Custodi",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -1497,7 +1361,6 @@
     },
     "StFrancisAssisi_139": {
         "SUBJECT": "San Francesco d'Assisi",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Assisi, Italia",
         "PLACE_OF_DEATH": "Assisi, Italia",
         "PLACE_OF_BIRTH": "Assisi, Italia",
@@ -1508,7 +1371,6 @@
     },
     "StBruno_140": {
         "SUBJECT": "San Bruno, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Chartreuse (Grenoble), Francia; Serra San Bruno, Italia",
         "PLACE_OF_DEATH": "Serra San Bruno, Catanzaro, Italia",
         "PLACE_OF_BIRTH": "Colonia, Germania",
@@ -1519,7 +1381,6 @@
     },
     "LadyRosary_141": {
         "SUBJECT": "Beata Maria Vergine del Rosario",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -1530,7 +1391,6 @@
     },
     "StDenis_142": {
         "SUBJECT": "San Dionigi, vescovo, e compagni, martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Parigi, Francia",
         "PLACE_OF_DEATH": "Parigi, Francia",
         "PLACE_OF_BIRTH": null,
@@ -1541,7 +1401,6 @@
     },
     "StJohnLeonardi_143": {
         "SUBJECT": "San Giovanni Leonardi, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Diecimo (Lucca), Italia",
@@ -1552,7 +1411,6 @@
     },
     "StCallistusIPope_144": {
         "SUBJECT": "San Callisto I, papa e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": null,
@@ -1563,7 +1421,6 @@
     },
     "StTeresaJesus_145": {
         "SUBJECT": "Santa Teresa d'Avila, vergine e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Avila, Spagna; Alba de Tormes, Spagna",
         "PLACE_OF_DEATH": "Alba de Tormes, Spagna",
         "PLACE_OF_BIRTH": "Avila, Spagna",
@@ -1574,7 +1431,6 @@
     },
     "StHedwig_146": {
         "SUBJECT": "Sant'Edvige, religiosa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Trzebnica, Polonia",
         "PLACE_OF_DEATH": "Trzebnica, Polonia",
         "PLACE_OF_BIRTH": "Andechs, Baviera",
@@ -1585,7 +1441,6 @@
     },
     "StMargaretAlacoque_147": {
         "SUBJECT": "Santa Margherita Maria Alacoque, vergine",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Paray-le-Monial, Francia",
         "PLACE_OF_DEATH": "Paray-le-Monial,Francia",
         "PLACE_OF_BIRTH": "Verosvres, Francia",
@@ -1596,7 +1451,6 @@
     },
     "StIgnatiusAntioch_148": {
         "SUBJECT": "Sant'Ignazio di Antiochia, vescovo e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Antiochia di Siria (attuale Antakya), Turchia",
@@ -1607,7 +1461,6 @@
     },
     "StLukeEvangelist_149": {
         "SUBJECT": "San Luca Evangelista",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia; Padova, Italia",
         "PLACE_OF_DEATH": "Tebe, Grecia",
         "PLACE_OF_BIRTH": "Antiochia di Siria (attuale Antakya), Turchia",
@@ -1618,7 +1471,6 @@
     },
     "StsJeanBrebeuf_150": {
         "SUBJECT": "Santi Giovanni Brebeuf e Isacco Jogues, sacerdoti e compagni martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Midland, Canada; Auriesville, New York, USA",
         "PLACE_OF_DEATH": "Midland, Canada",
         "PLACE_OF_BIRTH": "Condé-sur-Vire, Francia",
@@ -1629,7 +1481,6 @@
     },
     "StPaulCross_151": {
         "SUBJECT": "San Paolo della Croce, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Ovada, Alessandraia, Italia; Monte Argentario, Italia; Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Ovada, Alessandria, Italia",
@@ -1640,7 +1491,6 @@
     },
     "StJohnCapistrano_152": {
         "SUBJECT": "San Giovanni da Capestrano, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Ilok, Croazia; Capestrano, Italia",
         "PLACE_OF_DEATH": "Ilok, Croazia",
         "PLACE_OF_BIRTH": "Capestrano, L'Aquila, Italia",
@@ -1651,7 +1501,6 @@
     },
     "StAnthonyMaryClaret_153": {
         "SUBJECT": "Sant'Antonio Maria Claret, vescovo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Vic, Spagna; Santiago di Cuba",
         "PLACE_OF_DEATH": "Fontfroide, Francia",
         "PLACE_OF_BIRTH": "Sallent, Spagna",
@@ -1662,7 +1511,6 @@
     },
     "StSimonStJudeAp_154": {
         "SUBJECT": "Santi Simone e Giuda, apostoli",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia; Lanciano, Italia",
         "PLACE_OF_DEATH": "Persia",
         "PLACE_OF_BIRTH": "Simone: presumibilmente Cana; Giuda Taddeo non si sa",
@@ -1673,7 +1521,6 @@
     },
     "AllSaints_155": {
         "SUBJECT": "Tutti i Santi",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -1684,7 +1531,6 @@
     },
     "AllSouls_156": {
         "SUBJECT": "Commemorazione di tutti i defunti",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -1695,7 +1541,6 @@
     },
     "StMartinPorres_157": {
         "SUBJECT": "San Martino de Porres, religioso",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Lima, Perù",
         "PLACE_OF_DEATH": "Lima, Perù",
         "PLACE_OF_BIRTH": "Lima, Perù",
@@ -1706,7 +1551,6 @@
     },
     "StCharlesBorromeo_158": {
         "SUBJECT": "San Carlo Borromeo, vescovo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Milano, Italia",
         "PLACE_OF_DEATH": "Milano, Italia",
         "PLACE_OF_BIRTH": "Arona, Novara, Italia",
@@ -1717,7 +1561,6 @@
     },
     "DedicationLateran_159": {
         "SUBJECT": "Dedicazione della Basilica lateranense",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -1728,7 +1571,6 @@
     },
     "StLeoGreat_160": {
         "SUBJECT": "San Leone Magno, papa e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Volterra o Anghiara, Italia",
@@ -1739,7 +1581,6 @@
     },
     "StMartinTours_161": {
         "SUBJECT": "San Martino di Tours, vescovo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Candes-Saint-Martin, Francia",
         "PLACE_OF_BIRTH": "Sabaria (attuale Szombathely), Ungheria",
@@ -1750,7 +1591,6 @@
     },
     "StJosaphat_162": {
         "SUBJECT": "San Giosafat, vescovo e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Vicebsk, Bielorussia",
         "PLACE_OF_BIRTH": "Volodymyr-Volyn'kyj, Ucraina",
@@ -1761,7 +1601,6 @@
     },
     "StAlbertGreat_163": {
         "SUBJECT": "Sant'Alberto Magno, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Colonia, Germania",
         "PLACE_OF_DEATH": "Colonia, Germania",
         "PLACE_OF_BIRTH": "Lauingen, Germania",
@@ -1772,7 +1611,6 @@
     },
     "StMargaretScotland_164": {
         "SUBJECT": "Santa Margherita di Scozia",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Abbazia di Dunfermline, Scozia; Abbazia di Iona, Scozia",
         "PLACE_OF_DEATH": "Edimburgo, Regno Unito",
         "PLACE_OF_BIRTH": "Nádasd, Ungheria",
@@ -1783,7 +1621,6 @@
     },
     "StGertrudeGreat_165": {
         "SUBJECT": "Santa Gertrude, vergine",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Kloster Helfta, Eisleben, Germania",
         "PLACE_OF_BIRTH": "Eisleben, Germania",
@@ -1794,7 +1631,6 @@
     },
     "StElizabethHungary_166": {
         "SUBJECT": "Sant'Elisabetta di Ungheria, religiosa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Marburg, Germania",
         "PLACE_OF_DEATH": "Marburg, Germania",
         "PLACE_OF_BIRTH": "Ungheria",
@@ -1805,7 +1641,6 @@
     },
     "DedicationStsPeterPaul_167": {
         "SUBJECT": "Dedicazione delle basiliche dei Santi Pietro e Paolo, apostoli",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -1816,7 +1651,6 @@
     },
     "PresentationMary_168": {
         "SUBJECT": "Presentazione della Beata Vergine Maria",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Chiesa della Dormizione, Gerusalemme",
         "PLACE_OF_BIRTH": "Gerusalemme / Nazareth",
@@ -1827,7 +1661,6 @@
     },
     "StCecilia_169": {
         "SUBJECT": "Santa Cecilia, vergine e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Roma, Italia",
@@ -1838,7 +1671,6 @@
     },
     "StClementIPope_170": {
         "SUBJECT": "San Clemente I, papa e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia; Sebastopoli - Cherson, Crimea",
         "PLACE_OF_DEATH": "Cherson, Crimea",
         "PLACE_OF_BIRTH": "Roma",
@@ -1849,7 +1681,6 @@
     },
     "StColumban_171": {
         "SUBJECT": "San Colombano, abate",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Bobbio, Italia",
         "PLACE_OF_DEATH": "Bobbio, Piacenza, Italia",
         "PLACE_OF_BIRTH": "Monte Leinster, Irlanda",
@@ -1860,7 +1691,6 @@
     },
     "StAndrewAp_172": {
         "SUBJECT": "Sant'Andrea apostolo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Patrasso, Grecia",
         "PLACE_OF_BIRTH": "Betsaida, Galilea",
@@ -1871,7 +1701,6 @@
     },
     "StFrancisXavier_173": {
         "SUBJECT": "San Francesco Saverio, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Cina; India",
         "PLACE_OF_DEATH": "Isola di Shangchuan, Cina",
         "PLACE_OF_BIRTH": "Javier, Spagna",
@@ -1882,7 +1711,6 @@
     },
     "StJohnDamascene_174": {
         "SUBJECT": "San Giovanni Damasceno, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Palestina",
         "PLACE_OF_DEATH": "Gerusalemme",
         "PLACE_OF_BIRTH": "Siria",
@@ -1893,7 +1721,6 @@
     },
     "StNicholas_175": {
         "SUBJECT": "San Nicola, vescovo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Bari; Venezia",
         "PLACE_OF_DEATH": "Myra (attuale Demre, Turchia)",
         "PLACE_OF_BIRTH": "Patara di Licia, Turchia",
@@ -1904,7 +1731,6 @@
     },
     "StAmbrose_176": {
         "SUBJECT": "Sant'Ambrogio, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Treviri (Germania), Milano (Italia)",
         "PLACE_OF_DEATH": "Milano, Italia",
         "PLACE_OF_BIRTH": "Treviri, Germania",
@@ -1915,7 +1741,6 @@
     },
     "ImmaculateConception_177": {
         "SUBJECT": "Immacolata Concezione della Beata Vergine Maria",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -1926,7 +1751,6 @@
     },
     "StDamasusIPope_178": {
         "SUBJECT": "San Damaso I, papa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Roma, Italia",
@@ -1937,7 +1761,6 @@
     },
     "StLucySyracuse_179": {
         "SUBJECT": "Santa Lucia, vergine e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Siracusa; Venezia",
         "PLACE_OF_DEATH": "Siracusa, Sicilia, Italia",
         "PLACE_OF_BIRTH": "Siracusa, Sicilia, Italia",
@@ -1948,7 +1771,6 @@
     },
     "StJohnCross_180": {
         "SUBJECT": "San Giovanni della Croce, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Segovia, Spagna",
         "PLACE_OF_DEATH": "Ubeda, Spagna",
         "PLACE_OF_BIRTH": "Fontiveros, Spagna",
@@ -1959,7 +1781,6 @@
     },
     "StPeterCanisius_181": {
         "SUBJECT": "San Pietro Canisio, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Friburgo, Svizzera",
         "PLACE_OF_DEATH": "Friburgo, Svizzera",
         "PLACE_OF_BIRTH": "Nimega, Paesi Bassi",
@@ -1970,7 +1791,6 @@
     },
     "StJohnKanty_182": {
         "SUBJECT": "San Giovanni da Kęty, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Cracovia, Polonia",
         "PLACE_OF_DEATH": "Cracovia, Polonia",
         "PLACE_OF_BIRTH": "Kęty, Polonia",
@@ -1981,7 +1801,6 @@
     },
     "StStephenProtomartyr_183": {
         "SUBJECT": "Santo Stefano, protomartire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Gerusalemme",
         "PLACE_OF_BIRTH": null,
@@ -1992,7 +1811,6 @@
     },
     "StJohnEvangelist_184": {
         "SUBJECT": "San Giovanni apostolo ed evangelista",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Efeso",
         "PLACE_OF_BIRTH": "Betsaida",
@@ -2003,7 +1821,6 @@
     },
     "HolyInnocents_185": {
         "SUBJECT": "Santi Innocenti, martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -2014,7 +1831,6 @@
     },
     "StThomasBecket_186": {
         "SUBJECT": "San Tommaso Becket, vescovo e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Canterbury, Regno Unito",
         "PLACE_OF_DEATH": "Canterbury, Regno Unito",
         "PLACE_OF_BIRTH": "Londra, Regno Unito",
@@ -2025,7 +1841,6 @@
     },
     "StSylvesterIPope_187": {
         "SUBJECT": "San Silvestro I, papa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": null,
@@ -2036,7 +1851,6 @@
     },
     "NameJesus_188": {
         "SUBJECT": "Santissimo Nome di Gesù",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -2047,7 +1861,6 @@
     },
     "StJosephineBakhita_189": {
         "SUBJECT": "Santa Giuseppina Bakhita, vergine",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Schio (Vicenza, Italia)",
         "PLACE_OF_BIRTH": "Darfur (Sudan)",
@@ -2058,7 +1871,6 @@
     },
     "StAdalbert_190": {
         "SUBJECT": "Sant'Adalberto, vescovo e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Gniezno, Polonia;\nPraga, Repubblica Ceca;\nRoma",
         "PLACE_OF_DEATH": "Tenkitten, attuale\nBeregowoje, Russia",
         "PLACE_OF_BIRTH": "Libice nad Cidlinou, Repubblica Ceca",
@@ -2069,7 +1881,6 @@
     },
     "StLouisGrignionMontfort_191": {
         "SUBJECT": "San Luigi Grignion de Montfort",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Francia",
         "PLACE_OF_DEATH": "Saint-Laurent-sur-\nSèvre, Francia",
         "PLACE_OF_BIRTH": "Montfort-sur-Meu, Francia",
@@ -2080,7 +1891,6 @@
     },
     "LadyFatima_192": {
         "SUBJECT": "Beata Vergine Maria di Fatima",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Fatima, Portogallo",
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -2091,7 +1901,6 @@
     },
     "StChristopherMagallanes_193": {
         "SUBJECT": "San Cristoforo Magallanes e compagni martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Jalisco, Messico",
         "PLACE_OF_DEATH": "Colotlán, Messico",
         "PLACE_OF_BIRTH": "Totatiche, Messico",
@@ -2102,7 +1911,6 @@
     },
     "StRitaCascia_194": {
         "SUBJECT": "Santa Rita da Cascia, religiosa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Cascita, Italia",
         "PLACE_OF_DEATH": "Cascia, Italia",
         "PLACE_OF_BIRTH": "Roccaporena, Italia",
@@ -2113,7 +1921,6 @@
     },
     "StAugustineZhaoRong_195": {
         "SUBJECT": "Santi Agostino Zhao Rong e compagni martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Hong Kong, Cina",
         "PLACE_OF_DEATH": "Chengdu, Cina",
         "PLACE_OF_BIRTH": "Wuchuan, Cina",
@@ -2124,7 +1931,6 @@
     },
     "StApollinaris_196": {
         "SUBJECT": "Sant'Apollinare, vescovo e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Sant'Apollinare in Classe; Sant'Apollinare Nuovo, Ravenna; Apollinariskirche a Remagen, Germania; Chiesa di San Lamberto a Dusseldorf, Germania",
         "PLACE_OF_DEATH": "Classe (Ravenna), Italia",
         "PLACE_OF_BIRTH": "Antiochia di Siria",
@@ -2135,7 +1941,6 @@
     },
     "StSharbelMakhluf_197": {
         "SUBJECT": "San Charbel Makhluf, eremita",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Annaya, Libano",
         "PLACE_OF_DEATH": "Annaya, Libano",
         "PLACE_OF_BIRTH": "Bekaa Kafra, Libano",
@@ -2146,7 +1951,6 @@
     },
     "StPeterJulianEymard_198": {
         "SUBJECT": "San Pier Giuliano Eymard, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "https://eymardianplaces.com/",
         "PLACE_OF_DEATH": "La Mure, Francia",
         "PLACE_OF_BIRTH": "La Mure, Francia",
@@ -2157,7 +1961,6 @@
     },
     "StEdithStein_199": {
         "SUBJECT": "Santa Teresa Benedetta della Croce (Edith Stein), vergine e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Colonia, Germania; Auschwitz, Polonia",
         "PLACE_OF_DEATH": "Auschwitz, Polonia",
         "PLACE_OF_BIRTH": "Breslavia, Polonia",
@@ -2168,7 +1971,6 @@
     },
     "StMaximilianKolbe_200": {
         "SUBJECT": "San Massimiliano Kolbe, sacerdote e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Auschwitz; Niepokalanow, Polonia; Nagasaki, Giappone; Roma",
         "PLACE_OF_DEATH": "Auschwitz, Polonia",
         "PLACE_OF_BIRTH": "Zduńska Wola, Polonia",
@@ -2179,7 +1981,6 @@
     },
     "StPeterClaver_201": {
         "SUBJECT": "San Pietro Claver, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Cartagena, Colombia",
         "PLACE_OF_BIRTH": "Verdú, Spagna",
@@ -2190,7 +1991,6 @@
     },
     "HolyNameMary_202": {
         "SUBJECT": "Santissimo Nome di Maria",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -2201,7 +2001,6 @@
     },
     "StAndrewKimTaegon_203": {
         "SUBJECT": "Santi Andrea Kim Taegon, sacerdote, Paolo Chong Hasang e compagni martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Seoul, Corea del Sud",
         "PLACE_OF_DEATH": "Saenamteo, Seoul, Corea del Sud",
         "PLACE_OF_BIRTH": "Solmoi (Seoul), Corea del Sud",
@@ -2212,7 +2011,6 @@
     },
     "StsLawrenceRuiz_204": {
         "SUBJECT": "Santi Lorenzo Ruiz e compagni martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Manila, Filippine; Nagasaki, Giappone",
         "PLACE_OF_DEATH": "Nagasaki, Giappone",
         "PLACE_OF_BIRTH": "Binondo (attuale Manila), Filippine",
@@ -2223,7 +2021,6 @@
     },
     "StAndrewDungLac_205": {
         "SUBJECT": "Sant'Andrea Dung-Lac e compagni martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Hanoi, Vietnam; Hà Nam, Vietnam",
         "PLACE_OF_DEATH": "Hanoi, Vietnam",
         "PLACE_OF_BIRTH": "Bac Ninh, Vietnam",
@@ -2234,7 +2031,6 @@
     },
     "StCatherineAlexandria_206": {
         "SUBJECT": "Santa Caterina da Alessandria, vergine e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Alessandria, Egitto",
         "PLACE_OF_BIRTH": "Alessandria, Egitto",
@@ -2245,7 +2041,6 @@
     },
     "StsBasilGreg_207": {
         "SUBJECT": "San Gregorio Nazianzeno",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Cappadocia, Costantinopoli (Turchia), Roma (Italia)",
         "PLACE_OF_DEATH": "Costantinopoli (attuale Istanbul), Turchia",
         "PLACE_OF_BIRTH": "Nazianzo, nell’attuale Turchia",
@@ -2256,7 +2051,6 @@
     },
     "StRayPenyafort_208": {
         "SUBJECT": "San Raimondo di Peñafort, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Barcellona (Spagna)",
         "PLACE_OF_DEATH": "Barcellona, Spagna",
         "PLACE_OF_BIRTH": "Santa Margarida i els Monjos, Spagna",
@@ -2267,7 +2061,6 @@
     },
     "StThomasAquinas_212": {
         "SUBJECT": "San Tommaso d'Aquino, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roccasecca,Fossanova (Italia), Tolosa (Francia)",
         "PLACE_OF_DEATH": "Abbazia di Fossanova a Priverno, Latina, Italia",
         "PLACE_OF_BIRTH": "Roccasecca (Frosinone, Italia)",
@@ -2278,7 +2071,6 @@
     },
     "StsTimothyTitus_216": {
         "SUBJECT": "San Tito, vescovo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Creta",
         "PLACE_OF_DEATH": "Gortina, Creta",
         "PLACE_OF_BIRTH": null,
@@ -2289,7 +2081,6 @@
     },
     "StAngelaMerici_217": {
         "SUBJECT": "Sant'Angela Merici, vergine",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Desenzano sul Garda, Brescia (Italia)\r\nhttp://www.angelamerici.org/luoghi/\r\nhttp://www.angelamerici.it/news_schede.php?testata=Casa%20di%20santa%20Angela&get_id=6",
         "PLACE_OF_DEATH": "Brescia, Italia",
         "PLACE_OF_BIRTH": "Desenzano sul Garda (Italia)",
@@ -2300,7 +2091,6 @@
     },
     "StThomasAquinas_218": {
         "SUBJECT": "San Tommaso d'Aquino, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roccasecca,Fossanova (Italia), Tolosa (Francia)",
         "PLACE_OF_DEATH": "Abbazia di Fossanova a Priverno, Latina, Italia",
         "PLACE_OF_BIRTH": "Roccasecca (Frosinone, Italia)",
@@ -2311,7 +2101,6 @@
     },
     "StThomasAquinas_219": {
         "SUBJECT": "San Tommaso d'Aquino, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roccasecca,Fossanova (Italia), Tolosa (Francia)",
         "PLACE_OF_DEATH": "Abbazia di Fossanova a Priverno, Latina, Italia",
         "PLACE_OF_BIRTH": "Roccasecca (Frosinone, Italia)",
@@ -2322,7 +2111,6 @@
     },
     "StFrancisDeSales_220": {
         "SUBJECT": "San Francesco di Sales, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Lione, Francia",
         "PLACE_OF_BIRTH": "Sales (Francia)",
@@ -2333,7 +2121,6 @@
     },
     "StJohnBosco_221": {
         "SUBJECT": "San Giovanni Bosco, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Basilica Maria Ausiliatrice (Valdocco, Torino), Basilica Sacro Cuore (Roma)",
         "PLACE_OF_DEATH": "Torino, Italia",
         "PLACE_OF_BIRTH": "Castelnuovo d'Asti (Italia)",
@@ -2344,7 +2131,6 @@
     },
     "StsPaulMiki_222": {
         "SUBJECT": "Santi Paolo Miki e compagni, martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Nagasaki, Giappone",
         "PLACE_OF_BIRTH": "Kyoto (Giappone)",
@@ -2355,7 +2141,6 @@
     },
     "StJeromeEmiliani_223": {
         "SUBJECT": "San Girolamo Emiliani",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Somasca, Lecco, Italia",
         "PLACE_OF_BIRTH": "Venezia (Italia)",
@@ -2366,7 +2151,6 @@
     },
     "StsCyrilMethodius_224": {
         "SUBJECT": "San Metodio, vescovo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Salonicco (Grecia), Velehrad (Repubblica Ceca)",
         "PLACE_OF_DEATH": "Velehrad, Repubblica Ceca",
         "PLACE_OF_BIRTH": "Salonicco (Grecia)",
@@ -2377,7 +2161,6 @@
     },
     "StPeterDamian_225": {
         "SUBJECT": "San Pier Damiani, vescovo e dottore della Chiesa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Faenza",
         "PLACE_OF_BIRTH": "Ravenna",
@@ -2388,7 +2171,6 @@
     },
     "SevenHolyFounders_240": {
         "SUBJECT": "Santi Sette Fondatori dei Servi della Beata Maria Vergine",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Montesenario",
         "PLACE_OF_BIRTH": "Firenze",
@@ -2399,7 +2181,6 @@
     },
     "StCasimir_244": {
         "SUBJECT": "San Casimiro",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Hrodna (Bielorussia)",
         "PLACE_OF_BIRTH": "Cracovia",
@@ -2410,7 +2191,6 @@
     },
     "StJohnGod_246": {
         "SUBJECT": "San Giovanni di Dio, religioso",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Granada (Spagna)",
         "PLACE_OF_BIRTH": "Montemor-o-Novo (Portogallo)",
@@ -2421,7 +2201,6 @@
     },
     "StFrancesRome_247": {
         "SUBJECT": "Santa Francesca Romana, religiosa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Roma",
         "PLACE_OF_BIRTH": "Roma",
@@ -2432,7 +2211,6 @@
     },
     "StTuribius_251": {
         "SUBJECT": "San Turibio di Mogrovejo, vescovo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Zaña (Perù)",
         "PLACE_OF_BIRTH": "Mayorga (Spagna)",
@@ -2443,7 +2221,6 @@
     },
     "StFrancisPaola_252": {
         "SUBJECT": "San Francesco da Paola, eremita",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Castello di Plessis-lez-Tours (La Riche, Francia)",
         "PLACE_OF_BIRTH": "Paola (Cosenza)",
@@ -2454,7 +2231,6 @@
     },
     "StVincentFerrer_254": {
         "SUBJECT": "San Vincenzo Ferrer, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Vannes, Francia",
         "PLACE_OF_BIRTH": "València, Spagna",
@@ -2465,7 +2241,6 @@
     },
     "StJohnBaptistDeLaSalle_255": {
         "SUBJECT": "San Giovanni Battista de la Salle, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Saint Yon presso Rouen, Francia",
         "PLACE_OF_BIRTH": "Reims, Francia",
@@ -2476,7 +2251,6 @@
     },
     "StStanislaus_256": {
         "SUBJECT": "San Stanislao, vescovo e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Cracovia, Polonia",
         "PLACE_OF_BIRTH": "Szczepanowice, Polonia",
@@ -2487,7 +2261,6 @@
     },
     "StAugustineCanterbury_258": {
         "SUBJECT": "Sant'Anselmo di Canterbury, vescovo e dottore della Chiesa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Canterbury, Regno Unito",
         "PLACE_OF_BIRTH": "Aosta, Italia",
@@ -2498,7 +2271,6 @@
     },
     "StFidelisSigmaringen_260": {
         "SUBJECT": "San Fedele di Sigmaringen, sacerdote e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Seewis im Prättigau, Svizzera",
         "PLACE_OF_BIRTH": "Sigmaringen, Germania",
@@ -2509,7 +2281,6 @@
     },
     "StPeterChanel_262": {
         "SUBJECT": "San Pietro Chanel, sacerdote e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Futuna, Oceania francese",
         "PLACE_OF_BIRTH": "Montrevel-en-Bresse, Francia,",
@@ -2520,7 +2291,6 @@
     },
     "StCatherineSiena_263": {
         "SUBJECT": "Santa Caterina da Siena, vergine e dottore della Chiesa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Siena, Roma",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Siena, Italia",
@@ -2531,7 +2301,6 @@
     },
     "StPiusV_264": {
         "SUBJECT": "San Pio V, papa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Bosco Marengo, Alessandria, Italia",
@@ -2542,7 +2311,6 @@
     },
     "StBernardineSiena_272": {
         "SUBJECT": "San Bernardino da Siena, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "L'Aquila, Italia",
         "PLACE_OF_DEATH": "L'Aquila, Italia",
         "PLACE_OF_BIRTH": "Massa Marittima, Grosseto, Italia",
@@ -2553,7 +2321,6 @@
     },
     "StGregoryVII_274": {
         "SUBJECT": "San Gregorio VII, papa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Salerno, Italia",
         "PLACE_OF_DEATH": "Salerno, Italia",
         "PLACE_OF_BIRTH": "Sovana, Italia",
@@ -2564,7 +2331,6 @@
     },
     "StMaryMagdalenePazzi_275": {
         "SUBJECT": "Santa Maria Maddalena de Pazzi, vergine",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Firenze, Italia",
         "PLACE_OF_DEATH": "Firenze, Italia",
         "PLACE_OF_BIRTH": "Firenze, Italia",
@@ -2575,7 +2341,6 @@
     },
     "StPhilipNeri_276": {
         "SUBJECT": "San Filippo Neri, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Firenze, Italia",
@@ -2586,7 +2351,6 @@
     },
     "StsCharlesLwanga_281": {
         "SUBJECT": "Santi Carlo Lwanga e compagni, martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Namugongo, Uganda",
         "PLACE_OF_DEATH": "Kampala, Uganda",
         "PLACE_OF_BIRTH": null,
@@ -2597,7 +2361,6 @@
     },
     "StNorbert_283": {
         "SUBJECT": "San Norberto",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Praga, Repubblica Ceca",
         "PLACE_OF_DEATH": "Magdeburgo, Germania",
         "PLACE_OF_BIRTH": "Xanten, Germania",
@@ -2608,7 +2371,6 @@
     },
     "StAnthonyPadua_286": {
         "SUBJECT": "Sant'Antonio di Padova, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Lisbona, Portogallo; Eremo di Montepaolo, Forli'; Rimini; Padova",
         "PLACE_OF_DEATH": "Padova, Italia",
         "PLACE_OF_BIRTH": "Lisbona, Portogallo",
@@ -2619,7 +2381,6 @@
     },
     "StRomuald_287": {
         "SUBJECT": "San Romualdo, abate",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Fabriano, Italia; Jesi, Italia; Camaldoli, Arezzo; Abbazia di Santa Maria di Sitria, Monte Cucco; Valdicastro",
         "PLACE_OF_DEATH": "Abbazia di San Salvatore in Valdicastro, Ancona, Italia",
         "PLACE_OF_BIRTH": "Ravenna, Italia",
@@ -2630,7 +2391,6 @@
     },
     "StAloysiusGonzaga_288": {
         "SUBJECT": "San Luigi Gonzaga, religioso",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Castiglione delle Stiviere; Roma",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Castiglione delle Stiviere, Mantova, Italia",
@@ -2641,7 +2401,6 @@
     },
     "StsJohnFisherThomasMore_290": {
         "SUBJECT": "Santi Giovanni Fisher, vescovo e martire e Tommaso Moro, martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Londra, Regno Unito",
         "PLACE_OF_DEATH": "Londra, Regno Unito",
         "PLACE_OF_BIRTH": "rispettivamente Beverley e Londra, Regno Unito",
@@ -2652,7 +2411,6 @@
     },
     "StElizabethPortugal_297": {
         "SUBJECT": "Sant'Elisabetta da Portogallo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Coimbra, Portogallo",
         "PLACE_OF_DEATH": "Estremoz, Portogallo",
         "PLACE_OF_BIRTH": "Aragona, Spagna",
@@ -2663,7 +2421,6 @@
     },
     "StAnthonyZaccaria_298": {
         "SUBJECT": "Sant'Antonio Zaccaria, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Cremona, Italia; Milano, Italia",
         "PLACE_OF_DEATH": "Cremona, Italia",
         "PLACE_OF_BIRTH": "Cremona, Italia",
@@ -2674,7 +2431,6 @@
     },
     "StMariaGoretti_299": {
         "SUBJECT": "Santa Maria Goretti, vergine e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Corinaldo, Italia; Nettuno, Italia",
         "PLACE_OF_DEATH": "Nettuno (RM), Italia",
         "PLACE_OF_BIRTH": "Corinaldo (Ancona), Italia",
@@ -2685,7 +2441,6 @@
     },
     "StHenry_301": {
         "SUBJECT": "Sant'Enrico",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Bamberga, Germania",
         "PLACE_OF_DEATH": "Gottinga, Germania",
         "PLACE_OF_BIRTH": "Bad Abbach o Hildesheim, Germania",
@@ -2696,7 +2451,6 @@
     },
     "StCamillusDeLellis_302": {
         "SUBJECT": "San Camillo de Lellis, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Bucchianico, Italia; Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Bucchianico (Chieti), Italia",
@@ -2707,7 +2461,6 @@
     },
     "StBonaventure_303": {
         "SUBJECT": "San Bonaventura, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Lione, Francia; Bagnoregio, Italia",
         "PLACE_OF_DEATH": "Lione, Francia",
         "PLACE_OF_BIRTH": "Civita di Bagnoregio, Viterbo",
@@ -2718,7 +2471,6 @@
     },
     "StLawrenceBrindisi_305": {
         "SUBJECT": "San Lorenzo da Brindisi, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Chiesa di Santa Maria degli Angeli, Brindisi, Italia; Lisbona, Portogallo; Villafranca del Bierzo, Spagna",
         "PLACE_OF_DEATH": "Lisbona, Portogallo",
         "PLACE_OF_BIRTH": "Brindisi, Italia",
@@ -2729,7 +2481,6 @@
     },
     "StBridget_307": {
         "SUBJECT": "Santa Brigida, religiosa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Chiesa di Santa Brigida a Vadstena, Svezia; Chiesa di Santa Brigida a Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Finsta, Svezia",
@@ -2740,7 +2491,6 @@
     },
     "StIgnatiusLoyola_312": {
         "SUBJECT": "Sant'Ignazio da Loyola, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Loyola, Spagna; Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Loyola, Spagna",
@@ -2751,7 +2501,6 @@
     },
     "StAlphonsusMariaDeLiguori_313": {
         "SUBJECT": "Sant'Alfonso Maria de Liguori, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Marianella, Napoli; Pagani, Salerno",
         "PLACE_OF_DEATH": "Pagani (Salerno), Italia",
         "PLACE_OF_BIRTH": "Marianella (Napoli),Italia",
@@ -2762,7 +2511,6 @@
     },
     "StJeanVianney_315": {
         "SUBJECT": "San Giovanni Vianney (il Curato d'Ars), sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Ars, Francia",
         "PLACE_OF_DEATH": "Ars, Francia",
         "PLACE_OF_BIRTH": "Dardilly, Francia",
@@ -2773,7 +2521,6 @@
     },
     "StCajetan_319": {
         "SUBJECT": "San Gaetano, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Napoli, Italia",
         "PLACE_OF_DEATH": "Napoli, Italia",
         "PLACE_OF_BIRTH": "Vicenza, Italia",
@@ -2784,7 +2531,6 @@
     },
     "StDominic_320": {
         "SUBJECT": "San Domenico, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Bologna, Italia",
         "PLACE_OF_DEATH": "Bologna, Italia",
         "PLACE_OF_BIRTH": "Caleruega, Spagna",
@@ -2795,7 +2541,6 @@
     },
     "StClare_322": {
         "SUBJECT": "Santa Chiara, vergine",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Assisi, Italia",
         "PLACE_OF_DEATH": "Assisi, Italia",
         "PLACE_OF_BIRTH": "Assisi, Italia",
@@ -2806,7 +2551,6 @@
     },
     "StJaneFrancesDeChantal_323": {
         "SUBJECT": "Santa Giovanna Francesca de Chantal, religiosa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Annecy, Francia",
         "PLACE_OF_DEATH": "Moulins, Francia",
         "PLACE_OF_BIRTH": "Dijon, Francia",
@@ -2817,7 +2561,6 @@
     },
     "StStephenHungary_326": {
         "SUBJECT": "Santo Stefano di Ungheria",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Budapest, Ungheria",
         "PLACE_OF_DEATH": "Buda, Ungheria",
         "PLACE_OF_BIRTH": "Esztergom, Ungheria",
@@ -2828,7 +2571,6 @@
     },
     "StJohnEudes_327": {
         "SUBJECT": "San Giovanni Eudes, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Caen, Francia",
         "PLACE_OF_DEATH": "Caen, Francia",
         "PLACE_OF_BIRTH": "Ri, Francia",
@@ -2839,7 +2581,6 @@
     },
     "StBernardClairvaux_328": {
         "SUBJECT": "San Bernardo di Chiaravalle, abate e dottore della Chiesa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Chiaravalle, Francia; Troyes, Francia",
         "PLACE_OF_DEATH": "Clairvaux, Francia",
         "PLACE_OF_BIRTH": "Fontaine-lès-Dijon, Francia",
@@ -2850,7 +2591,6 @@
     },
     "StPiusX_329": {
         "SUBJECT": "San Pio X, papa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Riese, Treviso, Italia",
@@ -2861,7 +2601,6 @@
     },
     "StRoseLima_331": {
         "SUBJECT": "Santa Rosa da Lima, vergine",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Lima, Perù",
         "PLACE_OF_BIRTH": "Lima, Perù",
@@ -2872,7 +2611,6 @@
     },
     "StLouis_333": {
         "SUBJECT": "San Luigi IX",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Monreale, Sicilia, Italia; Saint-Denis, Francia",
         "PLACE_OF_DEATH": "Tunisi, Tunisia",
         "PLACE_OF_BIRTH": "Poissy; Francia",
@@ -2883,7 +2621,6 @@
     },
     "StJosephCalasanz_334": {
         "SUBJECT": "San Giuseppe da Calasanzio, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Peralta de la Sal, Spagna",
@@ -2894,7 +2631,6 @@
     },
     "StRobertBellarmine_344": {
         "SUBJECT": "San Roberto Bellarmino, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Montepulciano, Siena, Italia",
@@ -2905,7 +2641,6 @@
     },
     "StVincentDePaul_348": {
         "SUBJECT": "San Vincenzo de Paoli, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Parigi, Francia",
         "PLACE_OF_DEATH": "Parigi, Francia",
         "PLACE_OF_BIRTH": "Puy-Saint-Vincent, Francia",
@@ -2916,7 +2651,6 @@
     },
     "StThereseChildJesus_352": {
         "SUBJECT": "Santa Teresa di Gesù Bambino, vergine",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Lisieux, Francia",
         "PLACE_OF_BIRTH": "Alençon, Francia",
@@ -2927,7 +2661,6 @@
     },
     "StFrancisAssisi_354": {
         "SUBJECT": "San Francesco d'Assisi",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Assisi, Italia",
         "PLACE_OF_DEATH": "Assisi, Italia",
         "PLACE_OF_BIRTH": "Assisi, Italia",
@@ -2938,7 +2671,6 @@
     },
     "StBruno_355": {
         "SUBJECT": "San Bruno, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Chartreuse (Grenoble), Francia; Serra San Bruno, Italia",
         "PLACE_OF_DEATH": "Serra San Bruno, Catanzaro, Italia",
         "PLACE_OF_BIRTH": "Colonia, Germania",
@@ -2949,7 +2681,6 @@
     },
     "StJohnLeonardi_358": {
         "SUBJECT": "San Giovanni Leonardi, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Diecimo (Lucca), Italia",
@@ -2960,7 +2691,6 @@
     },
     "StTeresaJesus_360": {
         "SUBJECT": "Santa Teresa d'Avila, vergine e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Avila, Spagna; Alba de Tormes, Spagna",
         "PLACE_OF_DEATH": "Alba de Tormes, Spagna",
         "PLACE_OF_BIRTH": "Avila, Spagna",
@@ -2971,7 +2701,6 @@
     },
     "StHedwig_361": {
         "SUBJECT": "Sant'Edvige, religiosa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Trzebnica, Polonia",
         "PLACE_OF_DEATH": "Trzebnica, Polonia",
         "PLACE_OF_BIRTH": "Andechs, Baviera",
@@ -2982,7 +2711,6 @@
     },
     "StMargaretAlacoque_362": {
         "SUBJECT": "Santa Margherita Maria Alacoque, vergine",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Paray-le-Monial, Francia",
         "PLACE_OF_DEATH": "Paray-le-Monial,Francia",
         "PLACE_OF_BIRTH": "Verosvres, Francia",
@@ -2993,7 +2721,6 @@
     },
     "StsJeanBrebeuf_365": {
         "SUBJECT": "Santi Giovanni Brebeuf e Isacco Jogues, sacerdoti e compagni martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Midland, Canada; Auriesville, New York, USA",
         "PLACE_OF_DEATH": "Midland, Canada",
         "PLACE_OF_BIRTH": "Condé-sur-Vire, Francia",
@@ -3004,7 +2731,6 @@
     },
     "StPaulCross_366": {
         "SUBJECT": "San Paolo della Croce, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Ovada, Alessandraia, Italia; Monte Argentario, Italia; Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Ovada, Alessandria, Italia",
@@ -3015,7 +2741,6 @@
     },
     "StJohnCapistrano_367": {
         "SUBJECT": "San Giovanni da Capestrano, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Ilok, Croazia; Capestrano, Italia",
         "PLACE_OF_DEATH": "Ilok, Croazia",
         "PLACE_OF_BIRTH": "Capestrano, L'Aquila, Italia",
@@ -3026,7 +2751,6 @@
     },
     "StAnthonyMaryClaret_368": {
         "SUBJECT": "Sant'Antonio Maria Claret, vescovo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Vic, Spagna; Santiago di Cuba",
         "PLACE_OF_DEATH": "Fontfroide, Francia",
         "PLACE_OF_BIRTH": "Sallent, Spagna",
@@ -3037,7 +2761,6 @@
     },
     "StMartinPorres_372": {
         "SUBJECT": "San Martino de Porres, religioso",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Lima, Perù",
         "PLACE_OF_DEATH": "Lima, Perù",
         "PLACE_OF_BIRTH": "Lima, Perù",
@@ -3048,7 +2771,6 @@
     },
     "StCharlesBorromeo_373": {
         "SUBJECT": "San Carlo Borromeo, vescovo",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Milano, Italia",
         "PLACE_OF_DEATH": "Milano, Italia",
         "PLACE_OF_BIRTH": "Arona, Novara, Italia",
@@ -3059,7 +2781,6 @@
     },
     "StJosaphat_377": {
         "SUBJECT": "San Giosafat, vescovo e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Vicebsk, Bielorussia",
         "PLACE_OF_BIRTH": "Volodymyr-Volyn'kyj, Ucraina",
@@ -3070,7 +2791,6 @@
     },
     "StAlbertGreat_378": {
         "SUBJECT": "Sant'Alberto Magno, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Colonia, Germania",
         "PLACE_OF_DEATH": "Colonia, Germania",
         "PLACE_OF_BIRTH": "Lauingen, Germania",
@@ -3081,7 +2801,6 @@
     },
     "StMargaretScotland_379": {
         "SUBJECT": "Santa Margherita di Scozia",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Abbazia di Dunfermline, Scozia; Abbazia di Iona, Scozia",
         "PLACE_OF_DEATH": "Edimburgo, Regno Unito",
         "PLACE_OF_BIRTH": "Nádasd, Ungheria",
@@ -3092,7 +2811,6 @@
     },
     "StGertrudeGreat_380": {
         "SUBJECT": "Santa Gertrude, vergine",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Kloster Helfta, Eisleben, Germania",
         "PLACE_OF_BIRTH": "Eisleben, Germania",
@@ -3103,7 +2821,6 @@
     },
     "StElizabethHungary_381": {
         "SUBJECT": "Sant'Elisabetta di Ungheria, religiosa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Marburg, Germania",
         "PLACE_OF_DEATH": "Marburg, Germania",
         "PLACE_OF_BIRTH": "Ungheria",
@@ -3114,7 +2831,6 @@
     },
     "StFrancisXavier_388": {
         "SUBJECT": "San Francesco Saverio, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Cina; India",
         "PLACE_OF_DEATH": "Isola di Shangchuan, Cina",
         "PLACE_OF_BIRTH": "Javier, Spagna",
@@ -3125,7 +2841,6 @@
     },
     "StJohnCross_395": {
         "SUBJECT": "San Giovanni della Croce, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Segovia, Spagna",
         "PLACE_OF_DEATH": "Ubeda, Spagna",
         "PLACE_OF_BIRTH": "Fontiveros, Spagna",
@@ -3136,7 +2851,6 @@
     },
     "StPeterCanisius_396": {
         "SUBJECT": "San Pietro Canisio, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Friburgo, Svizzera",
         "PLACE_OF_DEATH": "Friburgo, Svizzera",
         "PLACE_OF_BIRTH": "Nimega, Paesi Bassi",
@@ -3147,7 +2861,6 @@
     },
     "StJohnKanty_397": {
         "SUBJECT": "San Giovanni da Kęty, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Cracovia, Polonia",
         "PLACE_OF_DEATH": "Cracovia, Polonia",
         "PLACE_OF_BIRTH": "Kęty, Polonia",
@@ -3158,7 +2871,6 @@
     },
     "StThomasBecket_401": {
         "SUBJECT": "San Tommaso Becket, vescovo e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Canterbury, Regno Unito",
         "PLACE_OF_DEATH": "Canterbury, Regno Unito",
         "PLACE_OF_BIRTH": "Londra, Regno Unito",
@@ -3169,7 +2881,6 @@
     },
     "StJosephineBakhita_404": {
         "SUBJECT": "Santa Giuseppina Bakhita, vergine",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Schio (Vicenza, Italia)",
         "PLACE_OF_BIRTH": "Darfur (Sudan)",
@@ -3180,7 +2891,6 @@
     },
     "StLouisGrignionMontfort_406": {
         "SUBJECT": "San Luigi Grignion de Montfort",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Francia",
         "PLACE_OF_DEATH": "Saint-Laurent-sur-\nSèvre, Francia",
         "PLACE_OF_BIRTH": "Montfort-sur-Meu, Francia",
@@ -3191,7 +2901,6 @@
     },
     "StChristopherMagallanes_408": {
         "SUBJECT": "San Cristoforo Magallanes e compagni martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Jalisco, Messico",
         "PLACE_OF_DEATH": "Colotlán, Messico",
         "PLACE_OF_BIRTH": "Totatiche, Messico",
@@ -3202,7 +2911,6 @@
     },
     "StRitaCascia_409": {
         "SUBJECT": "Santa Rita da Cascia, religiosa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Cascita, Italia",
         "PLACE_OF_DEATH": "Cascia, Italia",
         "PLACE_OF_BIRTH": "Roccaporena, Italia",
@@ -3213,7 +2921,6 @@
     },
     "StAugustineZhaoRong_410": {
         "SUBJECT": "Santi Agostino Zhao Rong e compagni martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Hong Kong, Cina",
         "PLACE_OF_DEATH": "Chengdu, Cina",
         "PLACE_OF_BIRTH": "Wuchuan, Cina",
@@ -3224,7 +2931,6 @@
     },
     "StSharbelMakhluf_412": {
         "SUBJECT": "San Charbel Makhluf, eremita",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Annaya, Libano",
         "PLACE_OF_DEATH": "Annaya, Libano",
         "PLACE_OF_BIRTH": "Bekaa Kafra, Libano",
@@ -3235,7 +2941,6 @@
     },
     "StPeterJulianEymard_413": {
         "SUBJECT": "San Pier Giuliano Eymard, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "https://eymardianplaces.com/",
         "PLACE_OF_DEATH": "La Mure, Francia",
         "PLACE_OF_BIRTH": "La Mure, Francia",
@@ -3246,7 +2951,6 @@
     },
     "StEdithStein_414": {
         "SUBJECT": "Santa Teresa Benedetta della Croce (Edith Stein), vergine e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Colonia, Germania; Auschwitz, Polonia",
         "PLACE_OF_DEATH": "Auschwitz, Polonia",
         "PLACE_OF_BIRTH": "Breslavia, Polonia",
@@ -3257,7 +2961,6 @@
     },
     "StMaximilianKolbe_415": {
         "SUBJECT": "San Massimiliano Kolbe, sacerdote e martire",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Auschwitz; Niepokalanow, Polonia; Nagasaki, Giappone; Roma",
         "PLACE_OF_DEATH": "Auschwitz, Polonia",
         "PLACE_OF_BIRTH": "Zduńska Wola, Polonia",
@@ -3268,7 +2971,6 @@
     },
     "StPeterClaver_416": {
         "SUBJECT": "San Pietro Claver, sacerdote",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Cartagena, Colombia",
         "PLACE_OF_BIRTH": "Verdú, Spagna",
@@ -3279,7 +2981,6 @@
     },
     "StAndrewKimTaegon_418": {
         "SUBJECT": "Santi Andrea Kim Taegon, sacerdote, Paolo Chong Hasang e compagni martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Seoul, Corea del Sud",
         "PLACE_OF_DEATH": "Saenamteo, Seoul, Corea del Sud",
         "PLACE_OF_BIRTH": "Solmoi (Seoul), Corea del Sud",
@@ -3290,7 +2991,6 @@
     },
     "StsLawrenceRuiz_419": {
         "SUBJECT": "Santi Lorenzo Ruiz e compagni martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Manila, Filippine; Nagasaki, Giappone",
         "PLACE_OF_DEATH": "Nagasaki, Giappone",
         "PLACE_OF_BIRTH": "Binondo (attuale Manila), Filippine",
@@ -3301,7 +3001,6 @@
     },
     "StAndrewDungLac_420": {
         "SUBJECT": "Sant'Andrea Dung-Lac e compagni martiri",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Hanoi, Vietnam; Hà Nam, Vietnam",
         "PLACE_OF_DEATH": "Hanoi, Vietnam",
         "PLACE_OF_BIRTH": "Bac Ninh, Vietnam",
@@ -3312,7 +3011,6 @@
     },
     "StFrancisDeSales_482": {
         "SUBJECT": "San Francesco di Sales, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Lione, Francia",
         "PLACE_OF_BIRTH": "Sales (Francia)",
@@ -3323,7 +3021,6 @@
     },
     "StAugustineCanterbury_485": {
         "SUBJECT": "Sant'Anselmo di Canterbury, vescovo e dottore della Chiesa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Canterbury, Regno Unito",
         "PLACE_OF_BIRTH": "Aosta, Italia",
@@ -3334,7 +3031,6 @@
     },
     "StCatherineSiena_486": {
         "SUBJECT": "Santa Caterina da Siena, vergine e dottore della Chiesa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Siena, Roma",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Siena, Italia",
@@ -3345,7 +3041,6 @@
     },
     "StAnthonyPadua_489": {
         "SUBJECT": "Sant'Antonio di Padova, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Lisbona, Portogallo; Eremo di Montepaolo, Forli'; Rimini; Padova",
         "PLACE_OF_DEATH": "Padova, Italia",
         "PLACE_OF_BIRTH": "Lisbona, Portogallo",
@@ -3356,7 +3051,6 @@
     },
     "StBonaventure_491": {
         "SUBJECT": "San Bonaventura, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Lione, Francia; Bagnoregio, Italia",
         "PLACE_OF_DEATH": "Lione, Francia",
         "PLACE_OF_BIRTH": "Civita di Bagnoregio, Viterbo",
@@ -3367,7 +3061,6 @@
     },
     "StLawrenceBrindisi_492": {
         "SUBJECT": "San Lorenzo da Brindisi, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Chiesa di Santa Maria degli Angeli, Brindisi, Italia; Lisbona, Portogallo; Villafranca del Bierzo, Spagna",
         "PLACE_OF_DEATH": "Lisbona, Portogallo",
         "PLACE_OF_BIRTH": "Brindisi, Italia",
@@ -3378,7 +3071,6 @@
     },
     "StAlphonsusMariaDeLiguori_494": {
         "SUBJECT": "Sant'Alfonso Maria de Liguori, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Marianella, Napoli; Pagani, Salerno",
         "PLACE_OF_DEATH": "Pagani (Salerno), Italia",
         "PLACE_OF_BIRTH": "Marianella (Napoli),Italia",
@@ -3389,7 +3081,6 @@
     },
     "StBernardClairvaux_495": {
         "SUBJECT": "San Bernardo di Chiaravalle, abate e dottore della Chiesa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Chiaravalle, Francia; Troyes, Francia",
         "PLACE_OF_DEATH": "Clairvaux, Francia",
         "PLACE_OF_BIRTH": "Fontaine-lès-Dijon, Francia",
@@ -3400,7 +3091,6 @@
     },
     "StRobertBellarmine_497": {
         "SUBJECT": "San Roberto Bellarmino, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Montepulciano, Siena, Italia",
@@ -3411,7 +3101,6 @@
     },
     "StTeresaJesus_499": {
         "SUBJECT": "Santa Teresa d'Avila, vergine e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Avila, Spagna; Alba de Tormes, Spagna",
         "PLACE_OF_DEATH": "Alba de Tormes, Spagna",
         "PLACE_OF_BIRTH": "Avila, Spagna",
@@ -3422,7 +3111,6 @@
     },
     "StAlbertGreat_501": {
         "SUBJECT": "Sant'Alberto Magno, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Colonia, Germania",
         "PLACE_OF_DEATH": "Colonia, Germania",
         "PLACE_OF_BIRTH": "Lauingen, Germania",
@@ -3433,7 +3121,6 @@
     },
     "StJohnCross_503": {
         "SUBJECT": "San Giovanni della Croce, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Segovia, Spagna",
         "PLACE_OF_DEATH": "Ubeda, Spagna",
         "PLACE_OF_BIRTH": "Fontiveros, Spagna",
@@ -3444,7 +3131,6 @@
     },
     "StPeterCanisius_504": {
         "SUBJECT": "San Pietro Canisio, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Friburgo, Svizzera",
         "PLACE_OF_DEATH": "Friburgo, Svizzera",
         "PLACE_OF_BIRTH": "Nimega, Paesi Bassi",
@@ -3455,7 +3141,6 @@
     },
     "StPaulVI_544": {
         "SUBJECT": "San Paolo VI, Papa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Concesio, Milano, Roma",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Concesio, Italia",
@@ -3466,7 +3151,6 @@
     },
     "StPaulVI_545": {
         "SUBJECT": "San Paolo VI, Papa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Concesio, Milano, Roma",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Concesio, Italia",
@@ -3477,7 +3161,6 @@
     },
     "StPioPietrelcina_546": {
         "SUBJECT": "San Pio da Pietrelcina (Padre Pio), presbitero",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Pietrelcina, Italia; San Giovanni Rotondo, Italia",
         "PLACE_OF_DEATH": "San Giovanni Rotondo, Foggia, Italia",
         "PLACE_OF_BIRTH": "Pietrelcina, Benevento, Italia",
@@ -3488,7 +3171,6 @@
     },
     "StPioPietrelcina_547": {
         "SUBJECT": "San Pio da Pietrelcina (Padre Pio), presbitero",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Pietrelcina, Italia; San Giovanni Rotondo, Italia",
         "PLACE_OF_DEATH": "San Giovanni Rotondo, Foggia, Italia",
         "PLACE_OF_BIRTH": "Pietrelcina, Benevento, Italia",
@@ -3499,7 +3181,6 @@
     },
     "StJohnXXIII_548": {
         "SUBJECT": "San Giovanni XXIII, papa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Sotto il Monte, Bergamo, Italia; Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Sotto il Monte (Bergamo), Italia",
@@ -3510,7 +3191,6 @@
     },
     "StJohnXXIII_549": {
         "SUBJECT": "San Giovanni XXIII, papa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Sotto il Monte, Bergamo, Italia; Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Sotto il Monte (Bergamo), Italia",
@@ -3543,7 +3223,6 @@
     },
     "JuanDiego_552": {
         "SUBJECT": "San Giovanni Diego Cuauhtlatoatzin",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Città del Messico, Messico",
         "PLACE_OF_DEATH": "Città del Messico, Messico",
         "PLACE_OF_BIRTH": "Cuautitlán, Messico",
@@ -3554,7 +3233,6 @@
     },
     "JuanDiego_553": {
         "SUBJECT": "San Giovanni Diego Cuauhtlatoatzin",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Città del Messico, Messico",
         "PLACE_OF_DEATH": "Città del Messico, Messico",
         "PLACE_OF_BIRTH": "Cuautitlán, Messico",
@@ -3576,7 +3254,6 @@
     },
     "LadyLoreto_555": {
         "SUBJECT": "Beata Vergine Maria di Guadalupe",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Città del Messico, Messico",
         "PLACE_OF_DEATH": null,
         "PLACE_OF_BIRTH": null,
@@ -3588,7 +3265,6 @@
     "StFaustinaKowalska_557": {
         "SUBJECT": "Santa Faustina Kowalska",
         "EVENT_DATE": "1938-10-05",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Cracovia, Polonia",
         "PLACE_OF_DEATH": "Cracovia, Polonia",
         "PLACE_OF_BIRTH": "Głogowiec, Polonia",
@@ -3600,7 +3276,6 @@
     "StFaustinaKowalska_558": {
         "SUBJECT": "Santa Faustina Kowalska",
         "EVENT_DATE": "2000-04-30",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Cracovia, Polonia",
         "PLACE_OF_DEATH": "Cracovia, Polonia",
         "PLACE_OF_BIRTH": "Głogowiec, Polonia",
@@ -3611,7 +3286,6 @@
     },
     "StGregoryNarek_559": {
         "SUBJECT": "San Gregorio di Narek",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Sivas, Turchia; Naravank - Yemişlik, Turchia",
         "PLACE_OF_DEATH": "Narekavank, Turchia",
         "PLACE_OF_BIRTH": "Yemişlik, Turchia",
@@ -3623,7 +3297,6 @@
     "StGregoryNarek_560": {
         "SUBJECT": "San Gregorio di Narek",
         "EVENT_DATE": "2015-04-12",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Sivas, Turchia; Naravank - Yemişlik, Turchia",
         "PLACE_OF_DEATH": "Narekavank, Turchia",
         "PLACE_OF_BIRTH": "Yemişlik, Turchia",
@@ -3635,7 +3308,6 @@
     "StJohnAvila_561": {
         "SUBJECT": "San Giovanni d'Avila",
         "EVENT_DATE": "1569-05-10",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Montilla, Spagna",
         "PLACE_OF_DEATH": "Montilla, Spagna",
         "PLACE_OF_BIRTH": "Almodóvar del Campo, Spagna",
@@ -3647,7 +3319,6 @@
     "StJohnAvila_562": {
         "SUBJECT": "San Giovanni d'Avila",
         "EVENT_DATE": "1970-05-31",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Montilla, Spagna",
         "PLACE_OF_DEATH": "Montilla, Spagna",
         "PLACE_OF_BIRTH": "Almodóvar del Campo, Spagna",
@@ -3659,7 +3330,6 @@
     "StJohnAvila_563": {
         "SUBJECT": "San Giovanni d'Avila",
         "EVENT_DATE": "2012-10-07",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Montilla, Spagna",
         "PLACE_OF_DEATH": "Montilla, Spagna",
         "PLACE_OF_BIRTH": "Almodóvar del Campo, Spagna",
@@ -3671,7 +3341,6 @@
     "StHildegardBingen_564": {
         "SUBJECT": "Santa Ildegarda di Bingen",
         "EVENT_DATE": "1179-09-17",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Monastero di Rupertsberg (attuale museo della società Wurth); Abbazia di Disibodenberg, Odernheim am Glan, Germania; Abbazia di Santa Ildegarda ad Eibingen, Rüdesheim am Rhein, Germania",
         "PLACE_OF_DEATH": "Bingen am Rhein, Germania",
         "PLACE_OF_BIRTH": "Bermersheim vor der Höhe, Germania",
@@ -3683,7 +3352,6 @@
     "StHildegardBingen_565": {
         "SUBJECT": "Santa Ildegarda di Bingen",
         "EVENT_DATE": "2012-05-10",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Monastero di Rupertsberg (attuale museo della società Wurth); Abbazia di Disibodenberg, Odernheim am Glan, Germania; Abbazia di Santa Ildegarda ad Eibingen, Rüdesheim am Rhein, Germania",
         "PLACE_OF_DEATH": "Bingen am Rhein, Germania",
         "PLACE_OF_BIRTH": "Bermersheim vor der Höhe, Germania",
@@ -3695,7 +3363,6 @@
     "StHildegardBingen_566": {
         "SUBJECT": "Santa Ildegarda di Bingen",
         "EVENT_DATE": "2012-10-07",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Monastero di Rupertsberg (attuale museo della società Wurth); Abbazia di Disibodenberg, Odernheim am Glan, Germania; Abbazia di Santa Ildegarda ad Eibingen, Rüdesheim am Rhein, Germania",
         "PLACE_OF_DEATH": "Bingen am Rhein, Germania",
         "PLACE_OF_BIRTH": "Bermersheim vor der Höhe, Germania",
@@ -3707,7 +3374,6 @@
     "StThereseChildJesus_567": {
         "SUBJECT": "Santa Teresa di Gesù Bambino, vergine",
         "EVENT_DATE": "1997-10-19",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Lisieux, Francia",
         "PLACE_OF_BIRTH": "Alençon, Francia",
@@ -3718,7 +3384,6 @@
     },
     "StAmbrose_568": {
         "SUBJECT": "Sant'Ambrogio, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Treviri (Germania), Milano (Italia)",
         "PLACE_OF_DEATH": "Milano, Italia",
         "PLACE_OF_BIRTH": "Treviri, Germania",
@@ -3729,7 +3394,6 @@
     },
     "StAugustineHippo_569": {
         "SUBJECT": "Sant'Agostino di Ippona, vescovo e dottore della Chiesa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Souk Ahras, Annaba (Algeria); Roma; sepolto Basilica di San Pietro in Ciel d'Oro (Pavia, Italia)",
         "PLACE_OF_DEATH": "Ippona, Annaba, Algeria",
         "PLACE_OF_BIRTH": "Tagaste (attualmente Souk Ahras, Algeria)",
@@ -3740,7 +3404,6 @@
     },
     "StJerome_570": {
         "SUBJECT": "San Girolamo, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia; Betlemme, Palestina",
         "PLACE_OF_DEATH": "Betlemme, Palestina",
         "PLACE_OF_BIRTH": "Stridone, antica Dalmazia",
@@ -3751,7 +3414,6 @@
     },
     "StGregoryGreat_571": {
         "SUBJECT": "San Gregorio Magno, papa e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Roma, Italia",
@@ -3762,7 +3424,6 @@
     },
     "StJohnChrysostom_572": {
         "SUBJECT": "San Giovanni Crisostomo, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Antakya (Turchia), Comana Pontica (Turchia), Istanbul (Turchia)",
         "PLACE_OF_DEATH": "Comana Pontica, Turchia",
         "PLACE_OF_BIRTH": "Antiochia di Siria (attuale Antakya), Turchia",
@@ -3773,7 +3434,6 @@
     },
     "StsBasilGreg_573": {
         "SUBJECT": "San Basilio Magno",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Cappadocia (Turchia)",
         "PLACE_OF_DEATH": "Kayseri, Turchia",
         "PLACE_OF_BIRTH": "Cesarea di Cappadocia, attuale Kayseri, Turchia",
@@ -3784,7 +3444,6 @@
     },
     "StsBasilGreg_574": {
         "SUBJECT": "San Gregorio Nazianzeno",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Cappadocia, Costantinopoli (Turchia), Roma (Italia)",
         "PLACE_OF_DEATH": "Costantinopoli (attuale Istanbul), Turchia",
         "PLACE_OF_BIRTH": "Nazianzo, nell’attuale Turchia",
@@ -3795,7 +3454,6 @@
     },
     "StAthanasius_575": {
         "SUBJECT": "Sant'Atanasio, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Alessandria d'Egitto",
         "PLACE_OF_DEATH": "Alessandria, Egitto",
         "PLACE_OF_BIRTH": "Alessandria, Egitto",
@@ -3806,7 +3464,6 @@
     },
     "StIsidore_576": {
         "SUBJECT": "Sant'Isidoro, vescovo e dottore della Chiesa",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Siviglia (Spagna)",
         "PLACE_OF_BIRTH": "Cartagena (Spagna)",
@@ -3817,7 +3474,6 @@
     },
     "StPeterChrysologus_577": {
         "SUBJECT": "San Pietro Crisologo, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Ravenna, Italia",
         "PLACE_OF_BIRTH": "Imola, Italia",
@@ -3828,7 +3484,6 @@
     },
     "StLeoGreat_578": {
         "SUBJECT": "San Leone Magno, papa e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Roma, Italia",
         "PLACE_OF_DEATH": "Roma, Italia",
         "PLACE_OF_BIRTH": "Volterra o Anghiara, Italia",
@@ -3839,7 +3494,6 @@
     },
     "StHilaryPoitiers_579": {
         "SUBJECT": "Sant'Ilario di Poitiers, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Francia",
         "PLACE_OF_DEATH": "Poitiers, Francia",
         "PLACE_OF_BIRTH": "Poitiers, Francia",
@@ -3850,7 +3504,6 @@
     },
     "StCyrilAlexandria_580": {
         "SUBJECT": "San Cirillo di Alessandria, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Alessandria, Egitto",
         "PLACE_OF_BIRTH": "Teodosia (attuale el-Mahalla el-Kubra), Egitto",
@@ -3861,7 +3514,6 @@
     },
     "StCyrilJerusalem_581": {
         "SUBJECT": "San Cirillo di Gerusalemme, vescovo e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Gerusalemme",
         "PLACE_OF_BIRTH": "Gerusalemme",
@@ -3872,7 +3524,6 @@
     },
     "StJohnDamascene_582": {
         "SUBJECT": "San Giovanni Damasceno, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Palestina",
         "PLACE_OF_DEATH": "Gerusalemme",
         "PLACE_OF_BIRTH": "Siria",
@@ -3883,7 +3534,6 @@
     },
     "StBedeVenerable_583": {
         "SUBJECT": "San Beda il Venerabile, sacerdote e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": "Durham, Regno Unito",
         "PLACE_OF_DEATH": "Jarrow, Regno Unito",
         "PLACE_OF_BIRTH": "Northumbria, Regno Unito",
@@ -3894,7 +3544,6 @@
     },
     "StEphrem_584": {
         "SUBJECT": "Sant'Efrem, diacono e dottore",
-        "CALENDAR": "UNIVERSALE",
         "PLACES": null,
         "PLACE_OF_DEATH": "Edessa (attuale Şanliurfa), Turchia",
         "PLACE_OF_BIRTH": "Nisibi (attuale Nusaybin), Turchia",
