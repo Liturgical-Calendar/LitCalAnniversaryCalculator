@@ -5339,7 +5339,7 @@
     },
     {
         "IDX": 544,
-        "TAG": null,
+        "TAG": "StPaulVI",
         "ANNIVERSARY": "death",
         "EVENT_DATE": null,
         "AREA": "rome,italy",
@@ -5356,7 +5356,7 @@
     },
     {
         "IDX": 545,
-        "TAG": null,
+        "TAG": "StPaulVI",
         "ANNIVERSARY": "canonization",
         "EVENT_DATE": null,
         "AREA": "rome,italy",
@@ -5373,7 +5373,7 @@
     },
     {
         "IDX": 546,
-        "TAG": null,
+        "TAG": "StPioPietrelcina",
         "ANNIVERSARY": "death",
         "EVENT_DATE": null,
         "AREA": "italy",
@@ -5390,7 +5390,7 @@
     },
     {
         "IDX": 547,
-        "TAG": null,
+        "TAG": "StPioPietrelcina",
         "ANNIVERSARY": "canonization",
         "EVENT_DATE": null,
         "AREA": "italy",
@@ -5407,7 +5407,7 @@
     },
     {
         "IDX": 548,
-        "TAG": null,
+        "TAG": "StJohnXXIII",
         "ANNIVERSARY": "death",
         "EVENT_DATE": null,
         "AREA": "rome,italy",
@@ -5424,7 +5424,7 @@
     },
     {
         "IDX": 549,
-        "TAG": null,
+        "TAG": "StJohnXXIII",
         "ANNIVERSARY": "canonization",
         "EVENT_DATE": null,
         "AREA": "rome,italy",
@@ -5441,7 +5441,7 @@
     },
     {
         "IDX": 550,
-        "TAG": null,
+        "TAG": "StJohnPaulII",
         "ANNIVERSARY": "death",
         "EVENT_DATE": null,
         "AREA": "rome,world,marian",
@@ -5458,7 +5458,7 @@
     },
     {
         "IDX": 551,
-        "TAG": null,
+        "TAG": "StJohnPaulII",
         "ANNIVERSARY": "canonization",
         "EVENT_DATE": null,
         "AREA": "rome,world,marian",
@@ -5475,7 +5475,7 @@
     },
     {
         "IDX": 552,
-        "TAG": null,
+        "TAG": "JuanDiego",
         "ANNIVERSARY": "death",
         "EVENT_DATE": null,
         "AREA": "world,marian",
@@ -5492,7 +5492,7 @@
     },
     {
         "IDX": 553,
-        "TAG": null,
+        "TAG": "JuanDiego",
         "ANNIVERSARY": "canonization",
         "EVENT_DATE": null,
         "AREA": "world,marian",
@@ -5509,7 +5509,7 @@
     },
     {
         "IDX": 554,
-        "TAG": null,
+        "TAG": "LadyLoreto",
         "ANNIVERSARY": "translation",
         "EVENT_DATE": null,
         "AREA": "italy",
@@ -5526,7 +5526,7 @@
     },
     {
         "IDX": 555,
-        "TAG": null,
+        "TAG": "LadyLoreto",
         "ANNIVERSARY": "other",
         "EVENT_DATE": null,
         "AREA": "world,marian",
@@ -5543,7 +5543,7 @@
     },
     {
         "IDX": 557,
-        "TAG": null,
+        "TAG": "StFaustinaKowalska",
         "ANNIVERSARY": "death",
         "EVENT_DATE": "1938-10-05",
         "AREA": "world",
@@ -5560,7 +5560,7 @@
     },
     {
         "IDX": 558,
-        "TAG": null,
+        "TAG": "StFaustinaKowalska",
         "ANNIVERSARY": "canonization",
         "EVENT_DATE": "2000-04-30",
         "AREA": "world",
@@ -5577,7 +5577,7 @@
     },
     {
         "IDX": 559,
-        "TAG": null,
+        "TAG": "StGregoryNarek",
         "ANNIVERSARY": "death",
         "EVENT_DATE": null,
         "AREA": "world",
@@ -5594,7 +5594,7 @@
     },
     {
         "IDX": 560,
-        "TAG": null,
+        "TAG": "StGregoryNarek",
         "ANNIVERSARY": "doctor",
         "EVENT_DATE": "2015-04-12",
         "AREA": "world",
@@ -5611,7 +5611,7 @@
     },
     {
         "IDX": 561,
-        "TAG": null,
+        "TAG": "StJohnAvila",
         "ANNIVERSARY": "death",
         "EVENT_DATE": "1569-05-10",
         "AREA": "world",
@@ -5628,7 +5628,7 @@
     },
     {
         "IDX": 562,
-        "TAG": null,
+        "TAG": "StJohnAvila",
         "ANNIVERSARY": "canonization",
         "EVENT_DATE": "1970-05-31",
         "AREA": "world",
@@ -5645,7 +5645,7 @@
     },
     {
         "IDX": 563,
-        "TAG": null,
+        "TAG": "StJohnAvila",
         "ANNIVERSARY": "doctor",
         "EVENT_DATE": "2012-10-07",
         "AREA": "world",
@@ -5662,7 +5662,7 @@
     },
     {
         "IDX": 564,
-        "TAG": null,
+        "TAG": "StHildegardBingen",
         "ANNIVERSARY": "death",
         "EVENT_DATE": "1179-09-17",
         "AREA": "world",
@@ -5679,7 +5679,7 @@
     },
     {
         "IDX": 565,
-        "TAG": null,
+        "TAG": "StHildegardBingen",
         "ANNIVERSARY": "canonization",
         "EVENT_DATE": "2012-05-10",
         "AREA": "world",
@@ -5696,7 +5696,7 @@
     },
     {
         "IDX": 566,
-        "TAG": null,
+        "TAG": "StHildegardBingen",
         "ANNIVERSARY": "doctor",
         "EVENT_DATE": "2012-10-07",
         "AREA": "world",
