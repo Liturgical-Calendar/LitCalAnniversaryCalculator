@@ -1,82 +1,84 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# John R. D'Orazio <priest@johnromanodorazio.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-12 14:37+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-04-12 14:57+0000\n"
+"Last-Translator: John R. D'Orazio <priest@johnromanodorazio.com>\n"
+"Language-Team: French <https://translate.johnromanodorazio.com/projects/"
+"liturgical-calendar/anniversary-calculator/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.10.1\n"
 
 #: includes/enums/AnnivType.php:21
 msgid "birth"
-msgstr ""
+msgstr "naissance"
 
 #: includes/enums/AnnivType.php:22
 msgid "death"
-msgstr ""
+msgstr "mort"
 
 #: includes/enums/AnnivType.php:23
 msgid "canonization"
-msgstr ""
+msgstr "canonisation"
 
 #: includes/enums/AnnivType.php:24
 msgid "doctor"
-msgstr ""
+msgstr "docteur"
 
 #: includes/enums/AnnivType.php:25
 msgid "dedication"
-msgstr ""
+msgstr "dédicace"
 
 #. translators: term "translation" refers to the transferral of the relics of a saint
 #: includes/enums/AnnivType.php:27
 msgid "translation"
-msgstr ""
+msgstr "traduction"
 
 #: includes/enums/AnnivType.php:28
 msgid "other"
-msgstr ""
+msgstr "autre"
 
 #: includes/enums/AreaInterest.php:19
 msgid "rome"
-msgstr ""
+msgstr "rome"
 
 #: includes/enums/AreaInterest.php:20
 msgid "italy"
-msgstr ""
+msgstr "italie"
 
 #: includes/enums/AreaInterest.php:21
 msgid "world"
-msgstr ""
+msgstr "monde"
 
 #: includes/enums/AreaInterest.php:22
 msgid "biblical"
-msgstr ""
+msgstr "bibliques"
 
 #: includes/enums/AreaInterest.php:23
 msgid "marian"
-msgstr ""
+msgstr "mariaux"
 
 #: includes/enums/LitCalendar.php:18
 msgid "universal"
-msgstr ""
+msgstr "universel"
 
 #: includes/enums/LitCalendar.php:19
 msgid "national"
-msgstr ""
+msgstr "national"
 
 #: includes/enums/LitCalendar.php:20
 msgid "diocesan"
-msgstr ""
+msgstr "diocésain"
 
 #: includes/enums/LitCalendar.php:21
 msgid "wide_area"
-msgstr ""
+msgstr "zone_étendue"
