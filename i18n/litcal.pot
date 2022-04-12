@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-10 16:24+0000\n"
+"POT-Creation-Date: 2022-04-12 14:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -64,4 +64,20 @@ msgstr ""
 
 #: includes/enums/AreaInterest.php:23
 msgid "marian"
+msgstr ""
+
+#: includes/enums/LitCalendar.php:18
+msgid "universal"
+msgstr ""
+
+#: includes/enums/LitCalendar.php:19
+msgid "national"
+msgstr ""
+
+#: includes/enums/LitCalendar.php:20
+msgid "diocesan"
+msgstr ""
+
+#: includes/enums/LitCalendar.php:21
+msgid "wide_area"
 msgstr ""
