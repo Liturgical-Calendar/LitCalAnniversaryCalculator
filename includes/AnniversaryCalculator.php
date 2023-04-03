@@ -38,14 +38,15 @@ class ANNIVERSARY_CALCULATOR {
 
     private string $responseContentType;
     private string $acceptHeader        = "";
-    private string $table;
+    //private string $table;
     private array $parameterData        = [];
     private array $requestHeaders       = [];
     private object $RESPONSE;
+    //private string|false $jsonEncodedRequestHeaders = "";
 
     function __construct() {
         $this->requestHeaders = getallheaders();
-        $this->jsonEncodedRequestHeaders = json_encode( $this->requestHeaders );
+        //$this->jsonEncodedRequestHeaders = json_encode( $this->requestHeaders );
         $this->acceptHeader = isset( $this->requestHeaders["Accept"] ) && in_array( $this->requestHeaders["Accept"], self::ALLOWED_ACCEPT_HEADERS ) ? ( string ) $this->requestHeaders["Accept"] : "";
         $this->RESPONSE = new stdClass();
         $this->RESPONSE->LitEvents = [];

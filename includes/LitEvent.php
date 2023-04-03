@@ -57,6 +57,7 @@ class LitEvent {
     public string $tag;
 
     public string $soggetto;
+    public string $tipoRicorrenza;
     public string|null $ricorrenza;
     public int|null $anno;
     public int $mese;
@@ -74,6 +75,7 @@ class LitEvent {
     public int $yearDiff;
 
     public string $subject;
+    public string $anniversaryType;
     public string|null $anniversaryName;
     public int|null $year;
     public int $month;
