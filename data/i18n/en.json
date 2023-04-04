@@ -114,13 +114,13 @@
         "PLACES": "Desenzano sul Garda, Brescia (Italy) http://www.angelamerici.org/luoghi/ http://www.angelamerici.it/news_schede.php?testata=Casa%20di%20santa%20Angela&get_id=6",
         "PLACE_OF_DEATH": "Brescia, Italy",
         "PLACE_OF_BIRTH": "Desenzano sul Garda (Italy)",
-        "PLACE_OF_BURIAL": "",
+        "PLACE_OF_BURIAL": "Church of Saint Angela Merici (Saint Afra), Brescia (Italy)",
         "NOTES": "",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Church of Saint Angela Merici (Saint Afra), Brescia (Italy)"
     },
     "StThomasAquinas_13": {
-        "SUBJECT": "",
+        "SUBJECT": "Saint Thomas Aquinas, priest and doctor",
         "PLACES": "",
         "PLACE_OF_DEATH": "",
         "PLACE_OF_BIRTH": "",
@@ -130,7 +130,7 @@
         "MAIN_SHRINE": ""
     },
     "StJohnBosco_14": {
-        "SUBJECT": "",
+        "SUBJECT": "Saint John Bosco, priest",
         "PLACES": "",
         "PLACE_OF_DEATH": "",
         "PLACE_OF_BIRTH": "",
@@ -140,7 +140,7 @@
         "MAIN_SHRINE": ""
     },
     "StBlase_16": {
-        "SUBJECT": "",
+        "SUBJECT": "Saint Blaise, bishop and martyr",
         "PLACES": "",
         "PLACE_OF_DEATH": "",
         "PLACE_OF_BIRTH": "",
@@ -150,21 +150,21 @@
         "MAIN_SHRINE": ""
     },
     "StAnsgar_17": {
-        "SUBJECT": "",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
+        "SUBJECT": "Saint Oscar, bishop",
+        "PLACES": "France, Germany, Denmark, Sweden",
+        "PLACE_OF_DEATH": "Brema, Germany",
+        "PLACE_OF_BIRTH": "Amiens (France)",
+        "PLACE_OF_BURIAL": "Hamburg",
         "NOTES": "",
         "PATRONAGE": "",
         "MAIN_SHRINE": ""
     },
     "StAgatha_18": {
-        "SUBJECT": "",
+        "SUBJECT": "Saint Agatha, virgin and martyr",
         "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
+        "PLACE_OF_DEATH": "Catania, Sicily, Italy",
+        "PLACE_OF_BIRTH": "Catania (Sicily, Italy)",
+        "PLACE_OF_BURIAL": "Catania, Constantinople",
         "NOTES": "",
         "PATRONAGE": "",
         "MAIN_SHRINE": ""
