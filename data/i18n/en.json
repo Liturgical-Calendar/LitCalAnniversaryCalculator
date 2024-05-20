@@ -6,8 +6,8 @@
         "PLACE_OF_BIRTH": "Caesarea of Cappadocia, modern day Kayseri, Turkey",
         "PLACE_OF_BURIAL": "St. George's Cathedral, Istanbul, Turkey",
         "NOTES": "Died Jan 1st, the liturgical memorial is the next day Jan 2nd",
-        "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "PATRONAGE": "of Russia, of monks, of hospital administrators, of poets",
+        "MAIN_SHRINE": "Ptochoptopheion or Basileiade (Cesarea Mazaca, now Kayseri, Cappadocia)"
     },
     "StRayPenyafort_2": {
         "SUBJECT": "Saint Raymond of Penyafort, Priest",
@@ -16,8 +16,8 @@
         "PLACE_OF_BIRTH": "Santa Margarida i els Monjos, Spain",
         "PLACE_OF_BURIAL": "Cathedral of the Holy Cross and Saint Eulalia, Barcellona",
         "NOTES": "The liturgical memorial is set for the following day Jan 7th",
-        "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "PATRONAGE": "of lawyers and law faculties of all state universities",
+        "MAIN_SHRINE": "Cathedral of the Holy Cross and Saint Eulalia, Barcellona"
     },
     "StHilaryPoitiers_3": {
         "SUBJECT": "Saint Hilary, Bishop and Doctor of the Church",
@@ -26,8 +26,8 @@
         "PLACE_OF_BIRTH": "Poitiers, France",
         "PLACE_OF_BURIAL": "Church of Saint-Hilaire le Grand, Poitiers (UNESCO World Heritage)",
         "NOTES": "Hilary (Poitiers, France, 310/320 - 367/368), bishop of his hometown, defended faith in the full divinity of the Son, affirmed by the Council of Nicaea, with high-profile writings (including above all the treatise De Trinitate). (325) against the Arius heresy. For his firm opposition to the pro-Arian orientations of the imperial court he was persecuted and exiled. He is mentioned in the Geronian Martyrology (5th-6th century) on 13 January. The church of Saint-Hilaire le Grand is a Catholic church in Poitiers, in the Vienne department, dedicated to Saint Hilary of Poitiers. In 1840 it was declared a Historical Monument of France and since 1998 it has also been classified as a World Heritage Site by UNESCO, as a stop on the Camino de Santiago de Compostela along the Via Turonensis.",
-        "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "PATRONAGE": "Parma, Veruno (NO), Casorate Sempione (VA), Marnate (VA), Mutignano (TE), Bedero Valcuvia (VA), Titignano (PI), Argusto (CZ), Gignod (AO)",
+        "MAIN_SHRINE": "Church of Saint Hilary the Great, Poitiers"
     },
     "StAnthonyEgypt_4": {
         "SUBJECT": "Saint Anthony, Abbot",
@@ -36,8 +36,8 @@
         "PLACE_OF_BIRTH": "Coma, modern day Qiman el-Arus, Egypt",
         "PLACE_OF_BURIAL": "Saint Antoine l'Abbaye, France",
         "NOTES": "Antonio (Coma, present day Qiman el-Arus, Egypt, c. 251-356) is considered the father of monasticism. Following the evangelical exhortations - \"If you want to be perfect, go, sell what you have, give it to the poor and you will have a treasure in heaven\" (Mt 19:21) -, he went into the desert. Here he fought against Satan, he was thaumaturge and authoritative guide for his disciples and for many other people who flocked to him. Athanasius, patriarch of Alexandria, in recounting the story of Anthony, a few years after his death, gave wide resonance to his model of life. Copts, Sirians and Byzantines also remember the dies natalis on January 17th. Stop on the way to Santiago de Compostela, the village of Saint-Antoine-l'Abbaye, included in the list of the most beautiful villages in France, will delight lovers of architectural heritage with ancient half-timbered houses, a medieval structure for the covered market and the abbey founded in 1297 by the order of Sant'Antonio to house the relics of Sant'Antonio Abate, also known as Sant'Antonio d'Egitto. Of its rich religious past, Saint-Antoine-l'Abbaye still preserves a truly noteworthy building: the abbey church of Sant'Antonio, built between the 13th and 15th centuries. Classified as a historic monument, this Gothic-style construction features a magnificent carved portal. Inside, pilgrims and visitors will be able to admire murals, walnut stalls, Aubusson tapestries, the monumental high altar which houses the reliquary of Sant'Antonio Abate, and an organ from the period between the 17th and 18th centuries. Also not to be missed is the treasure of the hospitable order of the canons of Sant'Antonio Abate, in the sacristy of the church, which consists of reliquaries, vestments, surgical instruments and an ivory Christ. The departmental museum of Saint-Antoine-l'Abbaye, located in the old novitiate, offers exhibitions on the Middle Ages, on the abbey and on the hospitable order of the canons of Sant'Antonio Abate. The visit ends with the medieval garden in the courtyard of the Great Stables.",
-        "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "PATRONAGE": "of animals, especially domestic ones; of livestock, and of butchers",
+        "MAIN_SHRINE": "Monastery of Saint Anthony in the Red Sea Governorate https://goo.gl/maps/37NAnKPHCWAaxw4Q9"
     },
     "StFabianPope_5": {
         "SUBJECT": "Saint Fabian, Pope and Martyr",
@@ -57,7 +57,7 @@
         "PLACE_OF_BURIAL": "Catacombs of Saint Sebastian (Rome)",
         "NOTES": "Sebastian, esteeming fidelity to Christ above any military honor, accepted to be disbarred from the army and suffered death during the persecution of Diocletian (303-305). He was buried in the Roman catacombs that took their name from him. The Depositio martyrum (336) remembers this on January 20.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Basilica of Saint Sebastian, Rome"
     },
     "StAgnes_7": {
         "SUBJECT": "Saint Agnes, Virgin and Martyr",
@@ -67,7 +67,7 @@
         "PLACE_OF_BURIAL": "Basilica of Saint Agnes Outside the Walls",
         "NOTES": "Agnes, a Roman, still an adolescent, placed in the alternative between remaining faithful to Christ and saving her life, chose the heavenly Spouse without hesitation, joining him with martyrdom (mid-3rd century). The very popular story of her passion was collected as early as the fourth century by Pope Damasus. Saint Ambrose and Saint Augustine indicated her as a shining model of a Christian virgin. According to the Depositio martyrum (336), her memory was celebrated on January 21 in Rome in the cemetery of the same name on Via Nomentana. Her name is mentioned in the Roman Canon.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Basilica of Saint Agnes Outside the Walls"
     },
     "StVincentDeacon_8": {
         "SUBJECT": "Saint Vincent, Deacon and Martyr",
@@ -115,39 +115,39 @@
         "PLACE_OF_DEATH": "Brescia, Italy",
         "PLACE_OF_BIRTH": "Desenzano sul Garda (Italy)",
         "PLACE_OF_BURIAL": "Church of Saint Angela Merici (Saint Afra), Brescia (Italy)",
-        "NOTES": "",
+        "NOTES": "Angela Merici (Desenzano del Garda, 1470 - Brescia, 1540) founded the Company of St. Ursula in Brescia in 1535, an institution of consecrated life in the world, endowing it with its own Rule. The Memories and the Testament reveal a deep evangelical spirit and intense spiritual life. The spread of the Company and the birth of the various Institutes of Ursuline Sisters have spread the veneration of the saint throughout the world. She was canonized by Pius VII in 1807.",
         "PATRONAGE": "",
         "MAIN_SHRINE": "Church of Saint Angela Merici (Saint Afra), Brescia (Italy)"
     },
     "StThomasAquinas_13": {
         "SUBJECT": "Saint Thomas Aquinas, priest and doctor",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "PLACES": "Roccasecca, Fossanova (Italy), Toulouse (France)",
+        "PLACE_OF_DEATH": "Abbey of Fossanova in Priverno, Latina, Italy",
+        "PLACE_OF_BIRTH": "Roccasecca (Frosinone, Italy)",
+        "PLACE_OF_BURIAL": "Toulouse (France)",
+        "NOTES": "Tommaso (Roccasecca near Aquino, Frosinone, 1224/1225 - Fossanova, Latina, March 7, 1274), after an initial formation in the monastery of Montecassino, became a disciple of St. Albert the Great. Upon entering the Order of Preachers (Dominicans), he became an innovative teacher in Paris, Rome, and Naples, formulating an original theological method based on the alliance between faith and reason. Among his many works, the Summa Theologiae is celebrated as a systematic and ingenious presentation of traditional doctrine. His influence on philosophical and theological thought in the subsequent centuries was decisive. On January 28th, his remains were transferred to the Dominican convent in Toulouse (France) in 1369.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Church of the Jacobins (Toulouse)"
     },
     "StJohnBosco_14": {
         "SUBJECT": "Saint John Bosco, priest",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "PLACES": "Basilica of Mary Help of Christians (Valdocco, Turin), Basilica of the Sacred Heart (Rome)",
+        "PLACE_OF_DEATH": "Turin, Italy",
+        "PLACE_OF_BIRTH": "Castelnuovo d'Asti (Italy)",
+        "PLACE_OF_BURIAL": "Basilica of Mary Help of Christians, Turin (Italy)",
+        "NOTES": "Giovanni Bosco (Castelnuovo d’Asti, 16th August 1815 - Turin, 31st January 1888), a priest in Turin, dedicated himself to the care of the numerous young people who flocked to the Piedmontese capital following the first industrial urbanization. He opened a place of meeting, human and professional formation for them, called the \"oratory\". In his educational method, he drew inspiration from the kindness of St. Francis de Sales, to whom he dedicated his new congregation (Society of St. Francis de Sales, or Salesians), and with which he associated, with the help of St. Mary Dominique Mazzarello, the Daughters of Mary Help of Christians.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Basilica of Mary Help of Christians, Turin (Italy)"
     },
     "StBlase_16": {
         "SUBJECT": "Saint Blaise, bishop and martyr",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "PLACES": "Sivas (Turkey); Maratea (Italy)",
+        "PLACE_OF_DEATH": "Sebaste, Armenia (currently Sivas, Turkey)",
+        "PLACE_OF_BIRTH": "Sebaste, Armenia (currently Sivas, Turkey)",
+        "PLACE_OF_BURIAL": "Basilica of Saint Blaise in Maratea (Italy)",
+        "NOTES": "Blaise (4th century), according to tradition, was the bishop of Sebaste in Armenia (now Sivas, Turkey), where he suffered martyrdom. He is highly revered in the rural world, also for the healings attributed to him.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Basilica of Saint Blaise in Maratea (Italy)"
     },
     "StAnsgar_17": {
         "SUBJECT": "Saint Oscar, bishop",
@@ -155,77 +155,77 @@
         "PLACE_OF_DEATH": "Brema, Germany",
         "PLACE_OF_BIRTH": "Amiens (France)",
         "PLACE_OF_BURIAL": "Hamburg",
-        "NOTES": "",
+        "NOTES": "Ansgar (Germany, 801 - February 3, 865), a monk of the abbey of Corbie (France), and later a teacher at the abbey of Corvey (Germany), promoted the spread of the Gospel in Denmark and Sweden. He was the first bishop of Hamburg (831), to which the see of Bremen was later united (848). Pope Gregory IV appointed him as archbishop and papal legate for the Danes and the Swedes.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "The relics are located in Hamburg in two churches: Cathedral of the Blessed Virgin Mary (Germ.: Domkirche St. Marien) and Parish Church of St. Oscar and St. Bernard (Germ:. Pfarrkirche St. Ansgar und St. Bernhard)."
     },
     "StAgatha_18": {
         "SUBJECT": "Saint Agatha, virgin and martyr",
-        "PLACES": "",
+        "PLACES": "Catania (Sicily, Italy), Rome, Church of Hagia Sofia in Constantinople (modern-day Istanbul, Turkey)",
         "PLACE_OF_DEATH": "Catania, Sicily, Italy",
         "PLACE_OF_BIRTH": "Catania (Sicily, Italy)",
         "PLACE_OF_BURIAL": "Catania, Constantinople",
-        "NOTES": "",
+        "NOTES": "Agata was a martyr in Catania, probably during the persecution of Decius (251). Her cult began to spread in the 5th century, when Pope Symmachus dedicated a basilica to her on the Via Aurelia. The anniversary of her death is commemorated on February 5th in the Geronian Martyrology (5th-6th century); her name is included in the Roman Canon. In 1040, General George Maniakes, sent by the Byzantine Emperor Michael IV the Paphlagonian to reconquer Sicily, which had been part of the Emirate of Sicily since 945, took the relics of Saint Agatha from the city, which were zealously housed in the original temple. The relics were kept in the cathedral basilica of Hagia Sophia and remained in Constantinople for eighty-six years. Are there any remains of the church dedicated by Pope Symmachus on the Via Aurelia? St. Agatha in Fundo Lardario. There is a church dedicated to her in Rome from the 5th century: https://en.wikipedia.org/wiki/Sant%27Agata_de%27_Goti,_Rome",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "The Cathedral of Saint Agatha in Catania (https://en.wikipedia.org/wiki/Catania_Cathedral)"
     },
     "StsPaulMiki_19": {
-        "SUBJECT": "",
+        "SUBJECT": "Saints Paul Miki and companions, martyrs",
         "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
+        "PLACE_OF_DEATH": "Nagasaki, Japan",
+        "PLACE_OF_BIRTH": "Kyoto (Japan)",
         "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "NOTES": "Paolo Miki (Kyoto, Japan, 1556 - Nagasaki, February 5, 1597), a Jesuit, was a victim of the persecution ordered by the Japanese emperor against Christians, fearing that their increase would pose a threat to the country's autonomy. Along with him, twenty-five other Christians, both laypeople and religious (Jesuits and Franciscans), were also crucified.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "https://en.wikipedia.org/wiki/Twenty-Six_Martyrs_Museum_and_Monument; Museum and monument of the twenty-six martyrs of Nagasaki. For more information, visit https://www.japan-guide.com/e/e4417.html"
     },
     "StJeromeEmiliani_20": {
-        "SUBJECT": "",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "SUBJECT": "Saint Jerome Emiliani",
+        "PLACES": "Somasca, Italy",
+        "PLACE_OF_DEATH": "Somasca, Lecco, Italy",
+        "PLACE_OF_BIRTH": "Venice (Italy)",
+        "PLACE_OF_BURIAL": "Sanctuary of Saint Jerome Emiliani in Vercurago di Somasca (Lecco, Italy)",
+        "NOTES": "Jerome Miani, or Emiliani (Venice, 1486 - Somasca, Lecco, 8 February 1537), a nobleman of the Serenissima, was taken prisoner and miraculously freed. He dedicated himself to serving the poor and the sick, caring for orphans and prostitutes. After working in various cities, he founded the \"Company of the Servants of the Poor\" in Somasca, later known as the Clerics Regular of Somasca.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Basilica of Saint Bartholomew and Saint Jerome Emiliani, Somasca (Lecco, Italy)"
     },
     "StScholastica_21": {
-        "SUBJECT": "",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "SUBJECT": "Saint Scholastica, virgin",
+        "PLACES": "Norcia, Montecassino, Subiaco (Italy)",
+        "PLACE_OF_DEATH": "Montecassino, Frosinone, Italy",
+        "PLACE_OF_BIRTH": "Norcia (Perugia, Italy)",
+        "PLACE_OF_BURIAL": "Montecassino Abbey",
+        "NOTES": "Scholastica (Norcia, Perugia, ca. 480 - Montecassino, Frosinone, ca. 547) is traditionally identified as the sister of St. Benedict. The Dialogues of Gregory the Great describe her as a virgin devoted to contemplation, wise in prioritizing charity over every human rule. She is commemorated on February 10th in the Marble Calendar of Naples (9th century) and in the Martyrology of Usuard (ca. 870).",
         "PATRONAGE": "",
         "MAIN_SHRINE": ""
     },
     "LadyLourdes_22": {
-        "SUBJECT": "",
+        "SUBJECT": "Blessed Virgin Mary of Lourdes",
         "PLACES": "",
         "PLACE_OF_DEATH": "",
         "PLACE_OF_BIRTH": "",
         "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "NOTES": "This memory is connected to the mystical experience of Bernadette Soubirous, who met the Virgin Mary eighteen times between February 11 and July 16, 1858, in the grotto of Massabielle, near Lourdes (France). The Virgin Mary declared herself to be the \"Immaculate Conception\", calling people to prayer and conversion. The shrine that was erected in that place at Mary's invitation became a destination of continuous pilgrimages, especially for the sick.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Lourdes (France)"
     },
     "StsCyrilMethodius_23": {
-        "SUBJECT": "",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "SUBJECT": "Saint Cyril, monk",
+        "PLACES": "Thessaloniki (Greece), Rome (Italy)",
+        "PLACE_OF_DEATH": "Rome",
+        "PLACE_OF_BIRTH": "Thessaloniki (Greece)",
+        "PLACE_OF_BURIAL": "Basilica of Saint Clement, Rome",
+        "NOTES": "The brothers Cyril (Constantine) and Methodius (Michael), born in Thessalonica (now Thessaloniki, Greece) at the beginning of the 9th century, evangelized the peoples of Pannonia and Moravia. By inventing the Glagolitic alphabet to write in the Slavic language, they translated the Holy Scriptures and liturgical texts for the new peoples to whom they were sent. Despite opposition from some bishops in the Germanic region, their mission was approved by Pope Adrian II. Cyril died in Rome on February 14, 869. Methodius, elected archbishop of Sirmium (now Sremska Mitrovica, Serbia) and papal legate to the Slavs, died in Moravia (in present-day Czech Republic) on April 6, 885. The proclamation of the Gospel to new peoples in respect of their culture, carried out by these saints, \"remains a living model for the Church and for missionaries of all times\" (John Paul II, Slavorum apostoli, 7).",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Basilica of Saint Clement, Rome"
     },
     "SevenHolyFounders_24": {
-        "SUBJECT": "",
+        "SUBJECT": "Seven Holy Founders of the Servants of the Blessed Virgin Mary",
         "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "PLACE_OF_DEATH": "Montesenario",
+        "PLACE_OF_BIRTH": "Florence",
+        "PLACE_OF_BURIAL": "Florence",
+        "NOTES": "These are the individual profiles of the seven holy founders, whose surnames were added only in the 15th-16th centuries. Buonagiunta of Florence (Manetti), documented on October 7, 1251; general prior in 1256; passed away in 1257; he was buried at Montesenario, near the main altar of the church. Buonfiglio of Florence (Monaldi), according to tradition the first of the seven and their leader; prior of Montesenario on March 17, 1250, when the bishop of Siena Buonfiglio granted permission for the construction of the church and convent of Santa Maria di Cafaggio in the city, now the basilica of the Santissima Annunziata in Florence. In 1251-1252 he also lived in Cafaggio, where he received the young Filippo Benizi into the Order. He died, according to tradition, on January 1, 1262 and was buried at Montesenario. Amadio of Florence (Amidei), who seems to have spent his entire life in the Montesenario convent. Tradition has it that, at his death in 1266, all the Fathers saw a flame of fire rise high, a sign and symbol of his love for God, as indicated by his name. Manetto of Florence (dell'Antella), prior of the Lucca convent in 1264, was elected General of the Order in 1265. He resigned from the generalate in 1267 and was succeeded by Filippo Benizi. Uguccione of Florence (Uguccioni), perhaps prior of Montesenario in 1259, from a family in Città di Castello on August 21, 1255, and companion of Sostegno and Filippo when, according to the Legenda B. Philippi from the 14th century, the latter healed a poor leper. He died in 1282, at Montesenario, after returning from the general chapter of Viterbo, on the same day and at the same time as his friend Sostegno. Sostegno of Florence (Sostegni), also mentioned in the Legenda de Origine as the uncle of Fra Lapo of Florence (28); perhaps vicar general in France. He died in 1282 (see above) and was buried together with the other founders at Montesenario. Alessio Falconieri, the most well-known of the seven saints. Humble, desiring penance, even in old age he dedicated himself to manual labor and seeking alms (house by house), despite the discomforts of age and season (Legenda de Origine). He protected the young members of the Order and used the money from the vestments that were due to him (a custom of the Servites) to send the most deserving of them to study at the Sorbonne in Paris. He lived to almost 110 years and died in 1310.",
         "PATRONAGE": "",
         "MAIN_SHRINE": ""
     },

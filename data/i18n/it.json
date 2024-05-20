@@ -57,17 +57,17 @@
         "PLACE_OF_BURIAL": "Catacombe di San Sebastiano (Roma)",
         "NOTES": "Sebastiano, stimando la fedeltà a Cristo al di sopra di ogni onore militare, accettò di essere radiato dai quadri dell’esercito e subì la morte durante la persecuzione di Diocleziano ( 303-305). Fu sepolto nelle catacombe romane che da lui presero il nome. La Depositio martyrum( 336) lo ricorda il 20 gennaio.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Basilica di San Sebastiano, Roma"
     },
     "StAgnes_7": {
         "SUBJECT": "Sant'Agnese, vergine e martire",
         "PLACES": "Roma",
         "PLACE_OF_DEATH": "Basilica di Sant'Agnese in Agone, Roma",
         "PLACE_OF_BIRTH": "Roma",
-        "PLACE_OF_BURIAL": "Basilica di Sant'Agnese fuori le Mura",
+        "PLACE_OF_BURIAL": "Catacombe di Sant'Agnese fuori le Mura",
         "NOTES": "Agnese, romana, ancora adolescente, posta nell’alternativa tra rimanere fedele a Cristo e salvare la propria vita, scelse senza esitazione lo Sposo celeste, a lui unendosi con il martirio (metà sec. III). Il racconto della sua passione, assai popolare, fu raccolto fin dal secolo IV da papa Damaso. Sant’Ambrogio e sant’Agostino la indicarono come luminoso modello di vergine cristiana. Secondo la Depositio martyrum( 336), la sua memoria si celebrava il 21 gennaio a Roma nel cimitero omonimo sulla via Nomentana. Il suo nome è ricordato nel Canone Romano.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Basilica di Sant' Agnese fuori le Mura"
     },
     "StVincentDeacon_8": {
         "SUBJECT": "San Vincenzo, diacono e martire",
@@ -121,7 +121,7 @@
     },
     "StThomasAquinas_13": {
         "SUBJECT": "San Tommaso d'Aquino, sacerdote e dottore",
-        "PLACES": "Roccasecca,Fossanova (Italia), Tolosa (Francia)",
+        "PLACES": "Roccasecca, Fossanova (Italia), Tolosa (Francia)",
         "PLACE_OF_DEATH": "Abbazia di Fossanova a Priverno, Latina, Italia",
         "PLACE_OF_BIRTH": "Roccasecca (Frosinone, Italia)",
         "PLACE_OF_BURIAL": "Tolosa (Francia)",
