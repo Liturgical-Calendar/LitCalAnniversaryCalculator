@@ -417,23 +417,23 @@
         "PLACE_OF_BURIAL": "Lydda, Tel Aviv (Israel)",
         "NOTES": "George, whose tomb is in Lydda (now Lod, Israel), has been honored as a martyr of Christ since at least the fourth century. This ancient tradition of worship leads us to recognize the historicity of the character, although we do not have reliable information about him. He was often depicted as a knight who, by defeating the dragon, symbolizes the triumph of faith over evil. The saint's popularity in the Middle Ages is evidenced by the presence of his body in at least thirty churches, in France, Spain, Germany, Italy, and the Netherlands; his head is now on display in Venice, Prague, Constantinople, and Lydda, while three of the existing arms of the saint are located in Rome, Paris, and Conques[Note 1]. In the church of San Giorgio in Lemine in Almenno San Salvatore (BG), a rib of the dragon killed by Saint George is displayed, hanging from the ceiling.[5] In Rome, Belisarius (ca. 527) entrusted the protection of the Porta di San Sebastiano and the church of Velabro to the saint, where the skull of Saint George, found in Cappadocia by Pope Zacharias (744–752), was later transferred. A fraction of Saint George's skull is kept in the church of San Giorgio Martire in Oriolo (CS). In the Matrice church of Matino, dedicated to Saint George, a piece of the saint's shin is preserved.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Basilica of St. George (Lod, Israel)"
     },
     "StFidelisSigmaringen_45": {
-        "SUBJECT": "",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "SUBJECT": "Saint Fidelis of Sigmaringen, priest and martyr",
+        "PLACES": "Austria; Switzerland",
+        "PLACE_OF_DEATH": "Seewis in Prättigau, Switzerland",
+        "PLACE_OF_BIRTH": "Sigmaringen, Germany",
+        "PLACE_OF_BURIAL": "His head was taken to Feldkirch (currently in Austria), while the rest of the body was buried in the Cathedral of Chur (Switzerland), where his mortal remains still rest.",
+        "NOTES": "Fidelis, whose name at birth was Marc (Sigmaringen, Germany, 1578 - Seewis im Prättigau, Switzerland, April 24, 1622), Capuchin, doctor in utroque iure, led the first mission promoted by the Congregation of propaganda fide, still in the process of being established, towards the territories in which the Protestant Reformation had spread. In the climate of strong internal tension in the Grisons, aggravated by international political pressures, the preaching of Catholic religious aroused violent reactions, in the face of which Fidelis bore witness to Christ until death.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Chur Cathedral, Switzerland; Feldkirch, Austria"
     },
     "StMarkEvangelist_46": {
-        "SUBJECT": "",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
+        "SUBJECT": "Saint Mark the Evangelist",
+        "PLACES": "Venice, Alexandria, Cairo, Rome",
+        "PLACE_OF_DEATH": "Alexandria, Egypt",
+        "PLACE_OF_BIRTH": "Palestine or Cyprus",
         "PLACE_OF_BURIAL": "Initially, his remains were venerated in a church in Alexandria built on the site of the oldest mausoleum of Alexander the Great. In the 7th century, his remains were brought to Venice. The Cathedral of St. Mark in Cairo preserves some relics transported from the Basilica of St. Mark in Venice.",
         "NOTES": "John, known as Mark, is the son of Mary of Jerusalem, in whose house the Christian community gathers and where Peter finds refuge after being freed from prison (cf. Acts 12, 12). Cousin of Barnabas, he collaborates with Paul on the first missionary journey, up to Pamphylia, where he separates from him (cf. Acts 12, 25; 15, 37-38). A beloved disciple of Peter - who calls him \"my son\" (1 Pt 5, 13) -, he appears again alongside Paul in Rome (cf. Phm 24; Col 4, 10). To Mark, tradition has attributed the Gospel that bears his name and echoes the preaching of the apostle Peter. In it, Jesus is presented as the \"Christ, Son of God\" (Mk 1, 1) and it is proclaimed that the Crucified One has risen (cf. Mk 16, 6). His feast is celebrated on April 25 also by the Copts and Byzantines.",
         "PATRONAGE": "",
@@ -557,50 +557,50 @@
         "PLACE_OF_BURIAL": "Durham Cathedral, United Kingdom",
         "NOTES": "Bede (Northumbria, United Kingdom, 672/673 - Jarrow, May 26, 735) was a learned monk who lived combining study with contemplation and penance. In his Ecclesiastical History of the English People, he narrated the conversion to Christianity of those populations and the growth of the local Church.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Durham Cathedral, United Kingdom"
     },
     "StGregoryVII_59": {
-        "SUBJECT": "",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "SUBJECT": "Pope Saint Gregory VII",
+        "PLACES": "Salerno, Italy",
+        "PLACE_OF_DEATH": "Salerno, Italy",
+        "PLACE_OF_BIRTH": "Sovana, Italy",
+        "PLACE_OF_BURIAL": "Salerno Cathedral, Italy",
+        "NOTES": "Hildebrand (Sovana, Grosseto, 1025/1030 - Salerno, May 25, 1085), a monk, was called by Pope Leo IX to collaborate on the reform of the Church, and took on a leading role in the Roman curia. Elected pope (1073), he claimed the autonomy of spiritual power over temporal power and exercised constant care for the universal Church. After suffering violent opposition from Henry IV, king of Germany and emperor, he died in exile.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Salerno Cathedral, Italy"
     },
     "StMaryMagdalenePazzi_60": {
-        "SUBJECT": "",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "SUBJECT": "Saint Mary Magdalene de Pazzi, virgin",
+        "PLACES": "Florence, Italy",
+        "PLACE_OF_DEATH": "Florence, Italy",
+        "PLACE_OF_BIRTH": "Florence, Italy",
+        "PLACE_OF_BURIAL": "Church of Santa Maria Maddalena de' Pazzi, Florence",
+        "NOTES": "Mary Magdalen (Florence, April 2, 1566 - May 25, 1607), belonging to the important Florentine family de' Pazzi, became a Carmelite nun. In her intense life of prayer and penance, enriched by mystical experiences, she deeply felt the urgency of the Church's reform. With prophetic fervor and evangelical freedom of speech, she addressed by letter some ecclesiastical authorities of the time, including the Archbishop of Florence and Pope Sixtus V himself, urging the necessary ecclesiastical renewal, starting with the clergy and the religious.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Church of Santa Maria Maddalena de' Pazzi, Florence"
     },
     "StPhilipNeri_61": {
-        "SUBJECT": "",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "SUBJECT": "Saint Philip Neri, priest",
+        "PLACES": "Rome, Italy",
+        "PLACE_OF_DEATH": "Rome, Italy",
+        "PLACE_OF_BIRTH": "Florence, Italy",
+        "PLACE_OF_BURIAL": "Church of Santa Maria in Vallicella aka \"New Church\", Rome",
+        "NOTES": "Philip (Florence, July 21, 1515 - Rome, May 26, 1595), arrived in Rome at a young age, dedicated himself to the assistance of incurable patients and poor pilgrims. Ordained a priest, he was assiduous at the confessional and celebrated the Eucharist with intense devotion, until mystical transport. From periodic meetings with a group of his penitents - whom he entertained, with a joyful style, in spiritual dialogues and in recreational, cultural, charitable activities - the experience of the \"Oratory\" and the Congregation of priests bearing the same name, recognized by Gregory XIII on July 15, 1575, were born.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Church of Santa Maria in Vallicella aka \"New Church\", Rome"
     },
     "StAugustineCanterbury_62": {
-        "SUBJECT": "",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "SUBJECT": "Saint Augustine of Canterbury, bishop",
+        "PLACES": "Canterbury, United Kingdom",
+        "PLACE_OF_DEATH": "Canterbury, United Kingdom",
+        "PLACE_OF_BIRTH": "Rome, Italy",
+        "PLACE_OF_BURIAL": "Canterbury Cathedral, United Kingdom",
+        "NOTES": "Augustine († Canterbury, United Kingdom, around 604), abbot of the monastery of Sant'Andrea al Celio, in Rome, was a disciple of Gregory the Great, who sent him along with some companions to evangelize the Anglo-Saxon populations of England (596) with a style based on respect for the traditions of those people. His preaching, conducted with evangelical gentleness and exemplary life, attracted the king of Kent and all his people to Christianity. The first archbishop of Canterbury, he is considered by Catholics and Anglicans as the founder of the English Church. His memory is indicated on May 26 in the Gallican edition of the Hieronymian Martyrology.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Canterbury Cathedral, United Kingdom"
     },
     "Visitation_63": {
-        "SUBJECT": "",
+        "SUBJECT": "Visitation of the Blessed Virgin Mary",
         "PLACES": "",
         "PLACE_OF_DEATH": "",
         "PLACE_OF_BIRTH": "",
