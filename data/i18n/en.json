@@ -1257,33 +1257,33 @@
         "PLACE_OF_BURIAL": "Cornelius: Catacombs of Saint Callixtus, His relics were then transferred to a basilica desired by Pope Leo I and then Pope Adrian I brought them to the domus culta of Capracoro (near the area of Montegelato, in Mazzano Romano), where the Pope had his paternal home. At the time of Pope Gregory IV, his body rested in the basilica of Santa Maria in Trastevere. At that time, part of the relics were taken to Compiègne, in France, while in the second half of the 18th century other parts of his body were moved to the church of Saints Celsus and Julian. Cyprian: Basilica of Saint Cyprian in Sesti (Carthage)",
         "NOTES": "Cornelius, Pope (251-253), offered reconciliation to Christians who had succumbed to the imposition of sacrificing to idols, decreed by Emperor Decius. He thus opposed the rigorism of Novatian and his followers who denied apostates the possibility of a return to the communion of the Church. Following a new persecution, he was exiled to Civitavecchia, where he died. Cyprian, bishop of Carthage, worked for unity within his community and for collaboration among the different African Churches; he developed the doctrine of the unity of the Church gathered around the Eucharist, under the guidance of the bishop. To the faithful who had shown weakness in the face of persecution, he offered the possibility of a penitential journey. He died a martyr under Valerian, on September 14, 258. The two saints are remembered together in the Roman Canon.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": "Cornelius: Catacombs of Saint Callixtus, His relics were then transferred to a basilica desired by Pope Leo I and then Pope Adrian I brought them to the domus culta of Capracoro (near the area of Montegelato, in Mazzano Romano), where the pope had the "
+        "MAIN_SHRINE": "Cornelius: Catacombs of St. Callixtus, His relics were then transferred to a basilica desired by Pope Leo I and then Pope Adrian I brought them to the domus culta of Capracoro (near the area of Montegelato, in Mazzano Romano), where the pope had his paternal home. At the time of Pope Gregory IV, his body rested in the basilica of Santa Maria in Trastevere. At that time, part of the relics were taken to Compiègne, in France, while in the second half of the 18th century other parts of his body were moved to the church of Saints Celsus and Julian."
     },
     "StRobertBellarmine_129": {
-        "SUBJECT": "",
+        "SUBJECT": "Saint Robert Bellarmine, bishop and doctor",
         "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "PLACE_OF_DEATH": "Rome, Italy",
+        "PLACE_OF_BIRTH": "Montepulciano, Siena, Italy",
+        "PLACE_OF_BURIAL": "Church of Saint Ignatius, Rome, Italy",
+        "NOTES": "Robert (Montepulciano, Siena, October 4, 1542 - Rome, September 17, 1621), a Jesuit, used his considerable theological expertise in complex doctrinal controversies (Disputations on the controversies of the Christian faith), as well as in the drafting of a popular catechism. Cardinal and Archbishop of Capua, he gave exemplary application to the Council of Trent, until the heavy Roman commitments led him to leave the diocese to devote himself entirely to the service of the universal Church.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Church of Saint Ignatius, Rome, Italy"
     },
     "StJanuarius_130": {
-        "SUBJECT": "",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "SUBJECT": "Saint Januarius, bishop and martyr",
+        "PLACES": "Naples, Italy; Benevento, Italy",
+        "PLACE_OF_DEATH": "Pozzuoli, Italy",
+        "PLACE_OF_BIRTH": "Benevento, Italy",
+        "PLACE_OF_BURIAL": "Catacombs of Saint Januarius, Naples",
+        "NOTES": "Januarius, bishop of Benevento, martyr under Diocletian (303-305), was considered - according to the oldest source (5th century) - \"glory of the Church of Naples\", also following the translation of his relics to the capital of Campania. The fervent worship that immediately surrounded him grew following the periodic liquefaction of the blood, recorded since the 14th century. He is remembered on September 19 in the Hieronymian Martyrology (5th-6th century).",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Cathedral of Saint Mary of the Assumption, Naples"
     },
     "StMatthewEvangelist_131": {
-        "SUBJECT": "",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
+        "SUBJECT": "Saint Matthew apostle and evangelist",
+        "PLACES": "Salerno, Italy",
+        "PLACE_OF_DEATH": "Hierapolis (current Pamukkale), Turkey; or Ethiopia",
+        "PLACE_OF_BIRTH": "Capernaum, Israel",
         "PLACE_OF_BURIAL": "",
         "NOTES": "",
         "PATRONAGE": "",
