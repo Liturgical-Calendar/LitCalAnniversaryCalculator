@@ -182,10 +182,11 @@ class AnniversaryCalculator
                             }
                         }
                     }
-
+                    //TODO: we currently sort by liturgical memorial day / month, because that's the data we started with,
+                    //      however it would be more useful, once the data is defined, to sort by event day / month
                     $props = [
-                        "month" => 2,
-                        "day"   => 1
+                        "memorialMonth" => 2,
+                        "memorialDay"   => 1
                     ];
                     usort($this->RESPONSE->LitEvents, function ($a, $b) use ($props) {
                         foreach ($props as $key => $val) {
