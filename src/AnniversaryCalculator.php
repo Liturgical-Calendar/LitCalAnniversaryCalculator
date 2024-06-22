@@ -3,13 +3,14 @@
 namespace LitCal;
 
 use LitCal\AnniversaryCalculator\LitEvent;
+use LitCal\AnniversaryCalculator\Enums\StatusCode;
 
 class AnniversaryCalculator
 {
     public const ALLOWED_RETURN_TYPES               = [ "json", "yaml", "xml", "html" ];
     public const ALLOWED_ACCEPT_HEADERS             = [ "application/json", "application/yaml", "application/xml", "text/html" ];
-    public const ALLOWED_CONTENT_TYPES              = [ "application/json", "application/yaml", "application/x-www-form-urlencoded" ];
-    public const ALLOWED_REQUEST_METHODS            = [ "GET", "POST" ];
+    public const ALLOWED_REQUEST_CONTENT_TYPES      = [ "application/json", "application/yaml", "application/x-www-form-urlencoded" ];
+    public const ALLOWED_REQUEST_METHODS            = [ "GET", "POST", "OPTIONS" ];
     public const ALLOWED_LOCALES                    = [ "en", "it" ]; //, "es", "fr", "de", "pt"
 
     public const RECURRING = [
@@ -27,19 +28,18 @@ class AnniversaryCalculator
         "CENTENARY"
     ];
 
-    private string $responseContentType;
-    private string $acceptHeader        = "";
-    //private string $table;
-    private array $parameterData        = [];
-    private array $requestHeaders       = [];
+    private static ?string $responseContentType = null;
+    private static ?string $acceptHeader        = null;
+    private array $parameterData                = [];
+    private array $requestHeaders               = [];
     private object $RESPONSE;
-    //private string|false $jsonEncodedRequestHeaders = "";
 
     public function __construct()
     {
         $this->requestHeaders = getallheaders();
-        //$this->jsonEncodedRequestHeaders = json_encode( $this->requestHeaders );
-        $this->acceptHeader = isset($this->requestHeaders["Accept"]) && in_array($this->requestHeaders["Accept"], self::ALLOWED_ACCEPT_HEADERS) ? (string) $this->requestHeaders["Accept"] : "";
+        self::$acceptHeader = isset($this->requestHeaders["Accept"]) && in_array($this->requestHeaders["Accept"], self::ALLOWED_ACCEPT_HEADERS)
+            ? (string) $this->requestHeaders["Accept"]
+            : "";
         $this->RESPONSE = new \stdClass();
         $this->RESPONSE->LitEvents = [];
         $this->RESPONSE->Messages = [ "Anniversary Calculator instantiated" ];
@@ -53,9 +53,9 @@ class AnniversaryCalculator
 
         $this->initParameterData();
         $this->prepareL10N();
-        $this->setReponseContentTypeHeader();
+        self::setReponseContentTypeHeader();
         $this->readData();
-        $this->outputResults();
+        $this->produceResponse();
     }
 
     private static function allowFromAnyOrigin()
@@ -71,7 +71,7 @@ class AnniversaryCalculator
     {
         if (isset($_SERVER['REQUEST_METHOD'])) {
             if (isset($_SERVER['HTTP_ACCESS_CONTROL_REQUEST_METHOD'])) {
-                header("Access-Control-Allow-Methods: GET, POST");
+                header("Access-Control-Allow-Methods: GET, POST, OPTIONS");
             }
             if (isset($_SERVER['HTTP_ACCESS_CONTROL_REQUEST_HEADERS'])) {
                 header("Access-Control-Allow-Headers: {$_SERVER['HTTP_ACCESS_CONTROL_REQUEST_HEADERS']}");
@@ -81,9 +81,13 @@ class AnniversaryCalculator
 
     private static function validateRequestContentType()
     {
-        if (isset($_SERVER['CONTENT_TYPE']) && $_SERVER['CONTENT_TYPE'] !== '' && !in_array($_SERVER['CONTENT_TYPE'], self::ALLOWED_CONTENT_TYPES)) {
-            header($_SERVER["SERVER_PROTOCOL"] . " 415 Unsupported Media Type", true, 415);
-            die('{"error":"You seem to be forming a strange kind of request? Allowed Content Types are ' . implode(' and ', self::ALLOWED_CONTENT_TYPES) . ', but your Content Type was ' . $_SERVER['CONTENT_TYPE'] . '"}');
+        if (
+            isset($_SERVER['CONTENT_TYPE'])
+            && $_SERVER['CONTENT_TYPE'] !== ''
+            && !in_array($_SERVER['CONTENT_TYPE'], self::ALLOWED_REQUEST_CONTENT_TYPES)
+        ) {
+            $message = "Allowed Content Types are: " . implode(', ', self::ALLOWED_REQUEST_CONTENT_TYPES) . "; but the Content Type of the request was " . $_SERVER['CONTENT_TYPE'];
+            self::produceErrorResponse(StatusCode::UNSUPPORTED_MEDIA_TYPE, $message);
         }
     }
 
@@ -91,52 +95,33 @@ class AnniversaryCalculator
     {
         if (isset($_SERVER['CONTENT_TYPE']) && $_SERVER['CONTENT_TYPE'] === 'application/json') {
             $rawJson = file_get_contents('php://input');
-            if (null === $rawJson || "" === $rawJson) {
-                header($_SERVER["SERVER_PROTOCOL"] . " 400 Bad Request", true, 400);
-                $response = new \stdClass();
-                $response->error = _("No JSON data received in the request");
-                die(json_encode($response));
+            if (false === $rawJson || "" === $rawJson) {
+                self::produceErrorResponse(StatusCode::BAD_REQUEST, "No JSON data received in the request");
             }
             $data = json_decode($rawJson, true);
             if (json_last_error() !== JSON_ERROR_NONE) {
-                header($_SERVER["SERVER_PROTOCOL"] . " 400 Bad Request", true, 400);
-                $response = new \stdClass();
-                $response->error = sprintf(
-                    _('Malformed JSON data received in the request: %s'),
-                    json_last_error_msg()
-                );
-                die(json_encode($response));
+                $message = 'Malformed JSON data received in the request: ' . json_last_error_msg();
+                self::produceErrorResponse(StatusCode::BAD_REQUEST, $message);
             } else {
                 $this->parameterData = $data;
             }
         } elseif (isset($_SERVER['CONTENT_TYPE']) && $_SERVER['CONTENT_TYPE'] === 'application/yaml') {
             $rawYaml = file_get_contents('php://input');
-            if ("" === $rawYaml) {
-                header($_SERVER[ "SERVER_PROTOCOL" ] . " 400 Bad Request", true, 400);
-                $response = new \stdClass();
-                $response->error = _("No YAML data received in the request");
-                die(json_encode($response));
+            if (false === $rawYaml || "" === $rawYaml) {
+                self::produceErrorResponse(StatusCode::BAD_REQUEST, "No YAML data received in the request");
             }
 
             set_error_handler(array('self', 'warningHandler'), E_WARNING);
             try {
                 $data = yaml_parse($rawYaml);
                 if (false === $data) {
-                    header($_SERVER[ "SERVER_PROTOCOL" ] . " 400 Bad Request", true, 400);
-                    $response = new \stdClass();
-                    $response->error = _("Malformed YAML data received in the request");
-                    die(json_encode($response));
+                    self::produceErrorResponse(StatusCode::BAD_REQUEST, "Malformed YAML data received in the request");
                 } else {
                     $this->parameterData = $data;
                 }
             } catch (\Exception $e) {
-                header($_SERVER[ "SERVER_PROTOCOL" ] . " 400 Bad Request", true, 400);
-                $response = new \stdClass();
-                $response->error = sprintf(
-                    _("Malformed YAML data received in the request: %s"),
-                    $e->getMessage()
-                );
-                die(json_encode($response));
+                $message = "Malformed YAML data received in the request: " . $e->getMessage();
+                self::produceErrorResponse(StatusCode::BAD_REQUEST, $message);
             }
         } else {
             switch (strtoupper($_SERVER["REQUEST_METHOD"])) {
@@ -149,23 +134,36 @@ class AnniversaryCalculator
                     $this->parameterData = $_GET;
                     break;
                 default:
-                    header($_SERVER["SERVER_PROTOCOL"] . " 405 Method Not Allowed", true, 405);
-                    $response = new \stdClass();
-                    $response->status = "error";
-                    $response->message = sprintf(
-                        _('Allowed request methods are: %1$s; but request method was \'%2$s\''),
+                    $message = sprintf(
+                        'Allowed request methods are: %1$s; but request method was \'%2$s\'',
                         implode(', ', self::ALLOWED_REQUEST_METHODS),
-                        strtoupper($_SERVER['REQUEST_METHOD'])
+                        $_SERVER['REQUEST_METHOD']
                     );
-                    die(json_encode($response));
+                    self::produceErrorResponse(StatusCode::METHOD_NOT_ALLOWED, $message);
             }
         }
+
+        self::$responseContentType = (
+            isset($this->parameterData["RETURN"])
+            && in_array(strtolower($this->parameterData["RETURN"]), self::ALLOWED_RETURN_TYPES)
+        )
+            ? strtolower($this->parameterData["RETURN"])
+            : (
+                self::$acceptHeader !== null
+                    ? (string) self::ALLOWED_RETURN_TYPES[array_search(self::$acceptHeader, self::ALLOWED_ACCEPT_HEADERS)]
+                    : (string) self::ALLOWED_RETURN_TYPES[0]
+            );
+        $this->RESPONSE->Messages[] = sprintf(
+            'Return parameter set to \'%1$s\', response content type set to \'%2$s\'',
+            $this->parameterData["RETURN"],
+            self::$responseContentType
+        );
 
         if (!isset($this->parameterData["YEAR"]) || $this->parameterData["YEAR"] === "") {
             $this->parameterData["YEAR"] = (int)date("Y");
         }
         $this->RESPONSE->Messages[] = sprintf(
-            _('Year set to %d'),
+            'Year set to %d',
             $this->parameterData["YEAR"]
         );
 
@@ -176,7 +174,7 @@ class AnniversaryCalculator
                 $this->parameterData["LOCALE"] = "en_US";
                 $this->parameterData["BASE_LOCALE"] = \Locale::getPrimaryLanguage($this->parameterData["LOCALE"]);
                 $this->RESPONSE->Messages[] = sprintf(
-                    _('Allowed base locales are: \'%1$s\'; but base locale requested was \'%2$s\''),
+                    'Allowed base locales are: \'%1$s\'; but base locale requested was \'%2$s\'',
                     implode(', ', self::ALLOWED_LOCALES),
                     $this->parameterData["BASE_LOCALE"]
                 );
@@ -186,27 +184,11 @@ class AnniversaryCalculator
             $this->parameterData["BASE_LOCALE"] = \Locale::getPrimaryLanguage($this->parameterData["LOCALE"]);
         }
         $this->RESPONSE->Messages[] = sprintf(
-            _('Locale set to \'%1$s\', base locale set to \'%2$s\''),
+            'Locale set to \'%1$s\', base locale set to \'%2$s\'',
             $this->parameterData["LOCALE"],
             $this->parameterData["BASE_LOCALE"]
         );
-
-        $this->responseContentType = (
-                isset($this->parameterData["RETURN"])
-                && in_array(strtolower($this->parameterData["RETURN"]), self::ALLOWED_RETURN_TYPES)
-            )
-            ? strtolower($this->parameterData["RETURN"])
-            : (
-                $this->acceptHeader !== ""
-                ? (string) self::ALLOWED_RETURN_TYPES[array_search($this->requestHeaders["Accept"], self::ALLOWED_ACCEPT_HEADERS)]
-                : (string) self::ALLOWED_RETURN_TYPES[0]
-            );
-        $this->RESPONSE->Messages[] = sprintf(
-            _('Return parameter set to \'%1$s\', response content type set to \'%2$s\''),
-            $this->parameterData["RETURN"],
-            $this->responseContentType
-        );
-        $this->RESPONSE->Messages[] = _("parameter data initialized");
+        $this->RESPONSE->Messages[] = "parameter data initialized";
     }
 
     private static function warningHandler($errno, $errstr)
@@ -231,17 +213,17 @@ class AnniversaryCalculator
         $textdomainpath = bindtextdomain("litcal", "i18n");
         $textdomain = textdomain("litcal");
         $this->RESPONSE->Messages[] = sprintf(
-            _('PHP setlocale set to locale %1$s, text domain path set to %2$s, text domain set to %3$s'),
+            'PHP setlocale set to locale %1$s, text domain path set to %2$s, text domain set to %3$s',
             $locale ? $locale : 'false',
             $textdomainpath,
             $textdomain
         );
     }
 
-    private function setReponseContentTypeHeader()
+    private static function setReponseContentTypeHeader()
     {
-        $header = '';
-        switch ($this->responseContentType) {
+        $header = null;
+        switch (self::$responseContentType) {
             case "xml":
                 $header = 'Content-Type: application/xml; charset=utf-8';
                 break;
@@ -258,10 +240,6 @@ class AnniversaryCalculator
                 $header = 'Content-Type: application/json; charset=utf-8';
         }
         header($header);
-        $this->RESPONSE->Messages[] = sprintf(
-            _("Response Content-Type header set to '%s'"),
-            $header
-        );
     }
 
     private function readData()
@@ -273,12 +251,14 @@ class AnniversaryCalculator
                 $lclData = json_decode(file_get_contents($translationFile));
                 $results = json_decode(file_get_contents($dataFile));
                 $this->RESPONSE->Messages[] = sprintf(
-                    _("%d localized data events loaded from translation file %s"),
+                    /**translators: 1: count, 2: filename */
+                    _('%1$d localized data events loaded from translation file %2$s'),
                     count(get_object_vars($lclData)),
                     $translationFile
                 );
                 $this->RESPONSE->Messages[] = sprintf(
-                    _("%d events loaded from data file %s"),
+                    /**translators: 1: count, 2: filename */
+                    _('%1$d events loaded from data file %2$s'),
                     count($results),
                     $dataFile
                 );
@@ -309,17 +289,20 @@ class AnniversaryCalculator
                     });
                 }
                 $this->RESPONSE->Messages[] = sprintf(
+                    /**translators: count */
                     _("%d data rows calculated"),
                     count($this->RESPONSE->LitEvents)
                 );
             } else {
                 $this->RESPONSE->Messages[] = sprintf(
+                    /**translators: filename */
                     _("missing translation file: %s"),
                     $translationFile
                 );
             }
         } else {
             $this->RESPONSE->Messages[] = sprintf(
+                /**translators: filename */
                 _("missing data file: %s"),
                 $dataFile
             );
@@ -359,16 +342,48 @@ class AnniversaryCalculator
         return false;
     }
 
-    private function outputResults()
+    private static function produceErrorResponse(int $statusCode, string $description): void
     {
-        switch ($this->responseContentType) {
+        // if $responseContentType is null, we probably haven't set the response Content-Type header yet
+        if (null === self::$responseContentType) {
+            // so let's attempt at doing so the same way initParameterData handles it
+            if (null !== self::$acceptHeader && in_array(self::$acceptHeader, self::ALLOWED_ACCEPT_HEADERS)) {
+                self::$responseContentType = (string) self::ALLOWED_RETURN_TYPES[array_search(self::$acceptHeader, self::ALLOWED_ACCEPT_HEADERS)];
+            } else {
+                self::$responseContentType = (string) self::ALLOWED_RETURN_TYPES[0];
+            }
+            self::setReponseContentTypeHeader();
+        }
+        header($_SERVER[ "SERVER_PROTOCOL" ] . StatusCode::toString($statusCode), true, $statusCode);
+        $message = new \stdClass();
+        $message->status = "ERROR";
+        $message->description = $description;
+        $response = json_encode($message);
+        switch (self::$responseContentType) {
+            case 'yaml':
+                $responseObj = json_decode($response, true);
+                echo yaml_emit($responseObj, YAML_UTF8_ENCODING);
+                break;
+                break;
+            case 'xml':
+            case 'html':
+                // do not emit anything, the header should be enough
+                break;
+            case 'json':
+            default:
+                echo $response;
+        }
+        die();
+    }
+
+    private function produceResponse()
+    {
+        switch (self::$responseContentType) {
             case 'yaml':
                 $responseObj = json_decode(json_encode($this->RESPONSE), true);
                 echo yaml_emit($responseObj, YAML_UTF8_ENCODING);
                 break;
             case 'xml':
-                //TODO: NOT YET SUPPORTED
-                break;
             case 'html':
                 //TODO: NOT YET SUPPORTED
                 break;
