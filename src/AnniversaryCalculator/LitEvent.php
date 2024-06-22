@@ -37,6 +37,7 @@ class LitEvent
 
     public string $subject;
     public string $anniversaryType;
+    public string $anniversaryTypeLcl;
     public ?string $anniversaryName;
     public ?int $year;
     public ?int $eventMonth;
@@ -44,12 +45,14 @@ class LitEvent
     public ?int $memorialMonth;
     public ?int $memorialDay;
     public string $calendar;
+    public string $calendarLcl;
     public ?string $placeOfBirth;
     public ?string $placeOfDeath;
     public ?string $placeOfBurial;
     public ?string $mainShrine;
     public ?string $places;
     public array $areaOfInterest;
+    public array $areaOfInterestLcl;
     public ?string $notes;
     public ?string $anniversary;
     public ?string $anniversaryLcl;
@@ -89,18 +92,21 @@ class LitEvent
         $this->tag                 = $rowData["TAG"];
 
         $this->subject             = $rowData["SUBJECT"];
-        $this->anniversaryType     = $AnnivType->i18n($rowData["ANNIVERSARY"]);
+        $this->anniversaryType     = $rowData["ANNIVERSARY"];
+        $this->anniversaryTypeLcl  = $AnnivType->i18n($rowData["ANNIVERSARY"]);
         $this->year                = $rowData["YEAR"];
         $this->eventMonth          = $rowData["EVENT_MONTH"];
         $this->eventDay            = $rowData["EVENT_DAY"];
         $this->memorialMonth       = $rowData["MEMORIAL_MONTH"];
         $this->memorialDay         = $rowData["MEMORIAL_DAY"];
-        $this->calendar            = $LitCalendar->i18n($rowData["CALENDAR"]);
+        $this->calendar            = $rowData["CALENDAR"];
+        $this->calendarLcl         = $LitCalendar->i18n($rowData["CALENDAR"]);
         $this->placeOfBirth        = $rowData["PLACE_OF_BIRTH"];
         $this->placeOfDeath        = $rowData["PLACE_OF_DEATH"];
         $this->placeOfBurial       = $rowData["PLACE_OF_BURIAL"];
         $this->mainShrine          = $rowData["MAIN_SHRINE"];
         $this->places              = $rowData["PLACES"];
+        $this->areaOfInterest      = $rowData["AREA"] ? explode(",", $rowData["AREA"]) : [];
         $this->areaOfInterest      = $rowData["AREA"] ? $AreaInterest->i18n(explode(",", $rowData["AREA"])) : [];
         $this->notes               = $rowData["NOTES"];
         $this->patronage           = $rowData["PATRONAGE"];
