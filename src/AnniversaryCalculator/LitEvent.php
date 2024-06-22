@@ -101,14 +101,14 @@ class LitEvent
         $this->eventDay            = $rowData["EVENT_DAY"];
         $this->memorialMonth       = $rowData["MEMORIAL_MONTH"];
         $this->memorialDay         = $rowData["MEMORIAL_DAY"];
-        $this->calendar            = $rowData["CALENDAR"];
+        $this->calendar            = $LitCalendar->isValid($rowData["CALENDAR"]) ? strtoupper($rowData["CALENDAR"]) : '???';
         $this->calendarLcl         = $LitCalendar->i18n($rowData["CALENDAR"]);
         $this->placeOfBirth        = $rowData["PLACE_OF_BIRTH"];
         $this->placeOfDeath        = $rowData["PLACE_OF_DEATH"];
         $this->placeOfBurial       = $rowData["PLACE_OF_BURIAL"];
         $this->mainShrine          = $rowData["MAIN_SHRINE"];
         $this->places              = $rowData["PLACES"];
-        $this->areaOfInterest      = $rowData["AREA"] ? explode(",", $rowData["AREA"]) : [];
+        $this->areaOfInterest      = $rowData["AREA"] ? array_map('strtoupper', explode(",", $rowData["AREA"])) : [];
         $this->areaOfInterestLcl   = $rowData["AREA"] ? $AreaInterest->i18n(explode(",", $rowData["AREA"])) : [];
         $this->notes               = $rowData["NOTES"];
         $this->patronage           = $rowData["PATRONAGE"];
