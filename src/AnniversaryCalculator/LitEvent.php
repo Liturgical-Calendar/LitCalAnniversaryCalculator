@@ -1,11 +1,14 @@
 <?php
-include_once( 'includes/enums/AnnivType.php' );
-include_once( 'includes/enums/AreaInterest.php' );
-include_once( 'includes/enums/LitCalendar.php' );
 
-class LitEvent {
+namespace LitCal\AnniversaryCalculator;
 
-    const ANNIVERSARIO = [
+use LitCal\AnniversaryCalculator\Enums\AnnivType;
+use LitCal\AnniversaryCalculator\Enums\AreaInterest;
+use LitCal\AnniversaryCalculator\Enums\LitCalendar;
+
+class LitEvent
+{
+    public const ANNIVERSARIO = [
         "CENTENARIO"    => 100,
         "ONICE"         => 95,
         "GRANITO"       => 90,
@@ -29,7 +32,7 @@ class LitEvent {
         "CARTA"         => 1
     ];
 
-    const ANNIVERSARY = [
+    public const ANNIVERSARY = [
         "CENTENARY"     => 100,
         "ONYX"          => 95,
         "GRANITE"       => 90,
@@ -91,53 +94,54 @@ class LitEvent {
     public string|null $anniversary;
     public string|null $patronage;
 
-    function __construct( array $rowData, string $locale ){
-        $AnnivType                  = new AnnivType( $locale );
-        $AreaInterest               = new AreaInterest( $locale );
-        $LitCalendar                = new LitCalendar( $locale );
+    public function __construct(array $rowData, string $locale)
+    {
+        $AnnivType                  = new AnnivType($locale);
+        $AreaInterest               = new AreaInterest($locale);
+        $LitCalendar                = new LitCalendar($locale);
 
         $this->idx                  = $rowData["IDX"];
         $this->tag                  = $rowData["TAG"];
 
         $this->soggetto             = $rowData["SUBJECT"];
-        $this->tipoRicorrenza       = $AnnivType->i18n( $rowData["ANNIVERSARY"] );
+        $this->tipoRicorrenza       = $AnnivType->i18n($rowData["ANNIVERSARY"]);
         $this->anno                 = $rowData["YEAR"];
         $this->mese                 = $rowData["MONTH"];
         $this->giorno               = $rowData["DAY"];
-        $this->calendario           = $LitCalendar->i18n( $rowData["CALENDAR"] );
+        $this->calendario           = $LitCalendar->i18n($rowData["CALENDAR"]);
         $this->luogoNascita         = $rowData["PLACE_OF_BIRTH"];
         $this->luogoMorte           = $rowData["PLACE_OF_DEATH"];
         $this->luogoSepoltura       = $rowData["PLACE_OF_BURIAL"];
         $this->santuarioPrincipale  = $rowData["MAIN_SHRINE"];
         $this->luoghi               = $rowData["PLACES"];
-        $this->ambitoDiInteresse    = $rowData["AREA"] ? $AreaInterest->i18n( explode( ",", $rowData["AREA"] ) ) : [];
+        $this->ambitoDiInteresse    = $rowData["AREA"] ? $AreaInterest->i18n(explode(",", $rowData["AREA"])) : [];
         $this->note                 = $rowData["NOTES"];
         $this->patronato            = $rowData["PATRONAGE"];
 
         $this->subject             = $rowData["SUBJECT"];
-        $this->anniversaryType     = $AnnivType->i18n( $rowData["ANNIVERSARY"] );
+        $this->anniversaryType     = $AnnivType->i18n($rowData["ANNIVERSARY"]);
         $this->year                = $rowData["YEAR"];
         $this->month               = $rowData["MONTH"];
         $this->day                 = $rowData["DAY"];
-        $this->calendar            = $LitCalendar->i18n( $rowData["CALENDAR"] );
+        $this->calendar            = $LitCalendar->i18n($rowData["CALENDAR"]);
         $this->placeOfBirth        = $rowData["PLACE_OF_BIRTH"];
         $this->placeOfDeath        = $rowData["PLACE_OF_DEATH"];
         $this->placeOfBurial       = $rowData["PLACE_OF_BURIAL"];
         $this->mainShrine          = $rowData["MAIN_SHRINE"];
         $this->places              = $rowData["PLACES"];
-        $this->areaOfInterest      = $rowData["AREA"] ? $AreaInterest->i18n( explode( ",", $rowData["AREA"] ) ) : [];
+        $this->areaOfInterest      = $rowData["AREA"] ? $AreaInterest->i18n(explode(",", $rowData["AREA"])) : [];
         $this->notes               = $rowData["NOTES"];
         $this->patronage           = $rowData["PATRONAGE"];
-
     }
 
-    public function setAnniversary( int $anniv ) {
-        $this->anniversario = array_search( $anniv, self::ANNIVERSARY );
-        $this->anniversary = array_search( $anniv, self::ANNIVERSARY );
+    public function setAnniversary(int $anniv)
+    {
+        $this->anniversario = array_search($anniv, self::ANNIVERSARY);
+        $this->anniversary = array_search($anniv, self::ANNIVERSARY);
     }
 
-    public function setYearDiff( int $yearDiff ) {
+    public function setYearDiff(int $yearDiff)
+    {
         $this->yearDiff = $yearDiff;
     }
-
 }

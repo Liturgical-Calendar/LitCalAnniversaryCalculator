@@ -1,0 +1,23 @@
+{
+    "name": "litcal/anniversarycalculator",
+    "description": "an API that calculates anniversaries of liturgical recurrences from the General Roman Calendar",
+    "type": "library",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.10"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LitCal\\": "src/"
+        },
+	"files": ["src/pgettext.php"]
+    },
+    "authors": [
+        {
+            "name": "John R. D'Orazio",
+            "email": "priest@johnromanodorazio.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
