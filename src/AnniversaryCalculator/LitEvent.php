@@ -8,30 +8,6 @@ use LitCal\AnniversaryCalculator\Enums\LitCalendar;
 
 class LitEvent
 {
-    public const ANNIVERSARIO = [
-        "CENTENARIO"    => 100,
-        "ONICE"         => 95,
-        "GRANITO"       => 90,
-        "MARMO"         => 85,
-        "QUERCIA"       => 80,
-        "PLATINO"       => 75,
-        "FERRO"         => 70,
-        "PIETRA"        => 65,
-        "DIAMANTE"      => 60,
-        "SMERALDO"      => 55,
-        "ORO"           => 50,
-        "ZAFFIRO"       => 45,
-        "RUBINO"        => 40,
-        "CORALLO"       => 35,
-        "PERLA"         => 30,
-        "ARGENTO"       => 25,
-        "PORCELLANA"    => 20,
-        "CRISTALLO"     => 15,
-        "STAGNO"        => 10,
-        "LEGNO"         => 5,
-        "CARTA"         => 1
-    ];
-
     public const ANNIVERSARY = [
         "CENTENARY"     => 100,
         "ONYX"          => 95,
@@ -59,30 +35,14 @@ class LitEvent
     public int $idx;
     public string $tag;
 
-    public string $soggetto;
-    public string $tipoRicorrenza;
-    public string|null $ricorrenza;
-    public int|null $anno;
-    public int $mese;
-    public int $giorno;
-    public string $calendario;
-    public string|null $luogoNascita;
-    public string|null $luogoMorte;
-    public string|null $luogoSepoltura;
-    public string|null $santuarioPrincipale;
-    public string|null $luoghi;
-    public array $ambitoDiInteresse;
-    public string|null $note;
-    public string|null $anniversario;
-    public string|null $patronato;
-    public int $yearDiff;
-
     public string $subject;
     public string $anniversaryType;
     public string|null $anniversaryName;
     public int|null $year;
-    public int $month;
-    public int $day;
+    public int $eventMonth;
+    public int $eventDay;
+    public int $memorialMonth;
+    public int $memorialDay;
     public string $calendar;
     public string|null $placeOfBirth;
     public string|null $placeOfDeath;
@@ -93,6 +53,7 @@ class LitEvent
     public string|null $notes;
     public string|null $anniversary;
     public string|null $patronage;
+    public int $yearDiff;
 
     public function __construct(array $rowData, string $locale)
     {
@@ -103,26 +64,13 @@ class LitEvent
         $this->idx                  = $rowData["IDX"];
         $this->tag                  = $rowData["TAG"];
 
-        $this->soggetto             = $rowData["SUBJECT"];
-        $this->tipoRicorrenza       = $AnnivType->i18n($rowData["ANNIVERSARY"]);
-        $this->anno                 = $rowData["YEAR"];
-        $this->mese                 = $rowData["MONTH"];
-        $this->giorno               = $rowData["DAY"];
-        $this->calendario           = $LitCalendar->i18n($rowData["CALENDAR"]);
-        $this->luogoNascita         = $rowData["PLACE_OF_BIRTH"];
-        $this->luogoMorte           = $rowData["PLACE_OF_DEATH"];
-        $this->luogoSepoltura       = $rowData["PLACE_OF_BURIAL"];
-        $this->santuarioPrincipale  = $rowData["MAIN_SHRINE"];
-        $this->luoghi               = $rowData["PLACES"];
-        $this->ambitoDiInteresse    = $rowData["AREA"] ? $AreaInterest->i18n(explode(",", $rowData["AREA"])) : [];
-        $this->note                 = $rowData["NOTES"];
-        $this->patronato            = $rowData["PATRONAGE"];
-
         $this->subject             = $rowData["SUBJECT"];
         $this->anniversaryType     = $AnnivType->i18n($rowData["ANNIVERSARY"]);
         $this->year                = $rowData["YEAR"];
-        $this->month               = $rowData["MONTH"];
-        $this->day                 = $rowData["DAY"];
+        $this->eventMonth          = $rowData["EVENT_MONTH"];
+        $this->eventDay            = $rowData["EVENT_DAY"];
+        $this->memorialMonth       = $rowData["MEMORIAL_MONTH"];
+        $this->memorialDay         = $rowData["MEMORIAL_DAY"];
         $this->calendar            = $LitCalendar->i18n($rowData["CALENDAR"]);
         $this->placeOfBirth        = $rowData["PLACE_OF_BIRTH"];
         $this->placeOfDeath        = $rowData["PLACE_OF_DEATH"];
@@ -136,7 +84,6 @@ class LitEvent
 
     public function setAnniversary(int $anniv)
     {
-        $this->anniversario = array_search($anniv, self::ANNIVERSARY);
         $this->anniversary = array_search($anniv, self::ANNIVERSARY);
     }
 

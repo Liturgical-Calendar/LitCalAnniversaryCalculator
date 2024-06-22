@@ -13,18 +13,6 @@ class AnniversaryCalculator
     public const ALLOWED_LOCALES                    = [ "en", "it" ]; //, "es", "fr", "de", "pt"
 
     public const RECURRING = [
-        "STAGNO",
-        "PORCELLANA",
-        "ARGENTO",
-        "PERLA",
-        "RUBINO",
-        "ORO",
-        "DIAMANTE",
-        "FERRO",
-        "PLATINO",
-        "QUERCIA",
-        "GRANITO",
-        "CENTENARIO",
         "ALUMINUM",
         "PORCELAIN",
         "SILVER",
@@ -222,7 +210,7 @@ class AnniversaryCalculator
     private function isAnniversary(LitEvent $litEvent): bool
     {
 
-        $yearDiff = $this->parameterData["YEAR"] - $litEvent->anno;
+        $yearDiff = $this->parameterData["YEAR"] - $litEvent->year;
         $litEvent->setYearDiff($yearDiff);
 
         foreach (LitEvent::ANNIVERSARY as $key => $value) {
