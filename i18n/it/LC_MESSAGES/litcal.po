@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-22 21:07+0000\n"
+"POT-Creation-Date: 2024-06-22 21:28+0000\n"
 "PO-Revision-Date: 2024-06-22 21:18+0000\n"
 "Last-Translator: \"John R. D'Orazio\" <priest@johnromanodorazio.com>\n"
 "Language-Team: Italian <https://translate.johnromanodorazio.com/projects/"
@@ -106,87 +106,87 @@ msgstr "file di traduzione mancante: %s"
 msgid "missing data file: %s"
 msgstr "file di dati mancante: %s"
 
-#: src/AnniversaryCalculator/LitEvent.php:66
+#: src/AnniversaryCalculator/LitEvent.php:69
 msgid "CENTENARY"
 msgstr "CENTENARIO"
 
-#: src/AnniversaryCalculator/LitEvent.php:67
+#: src/AnniversaryCalculator/LitEvent.php:70
 msgid "ONYX"
 msgstr "ONICE"
 
-#: src/AnniversaryCalculator/LitEvent.php:68
+#: src/AnniversaryCalculator/LitEvent.php:71
 msgid "GRANITE"
 msgstr "GRANITO"
 
-#: src/AnniversaryCalculator/LitEvent.php:69
+#: src/AnniversaryCalculator/LitEvent.php:72
 msgid "MARBLE"
 msgstr "MARMO"
 
-#: src/AnniversaryCalculator/LitEvent.php:70
+#: src/AnniversaryCalculator/LitEvent.php:73
 msgid "OAK"
 msgstr "QUERCIA"
 
-#: src/AnniversaryCalculator/LitEvent.php:71
+#: src/AnniversaryCalculator/LitEvent.php:74
 msgid "PLATINUM"
 msgstr "PLATINO"
 
-#: src/AnniversaryCalculator/LitEvent.php:72
+#: src/AnniversaryCalculator/LitEvent.php:75
 msgid "IRON"
 msgstr "FERRO"
 
-#: src/AnniversaryCalculator/LitEvent.php:73
+#: src/AnniversaryCalculator/LitEvent.php:76
 msgid "STONE"
 msgstr "PIETRA"
 
-#: src/AnniversaryCalculator/LitEvent.php:74
+#: src/AnniversaryCalculator/LitEvent.php:77
 msgid "DIAMOND"
 msgstr "DIAMANTE"
 
-#: src/AnniversaryCalculator/LitEvent.php:75
+#: src/AnniversaryCalculator/LitEvent.php:78
 msgid "EMERALD"
 msgstr "SMERALDO"
 
-#: src/AnniversaryCalculator/LitEvent.php:76
+#: src/AnniversaryCalculator/LitEvent.php:79
 msgid "GOLD"
 msgstr "ORO"
 
-#: src/AnniversaryCalculator/LitEvent.php:77
+#: src/AnniversaryCalculator/LitEvent.php:80
 msgid "SAPPHIRE"
 msgstr "ZAFFIRO"
 
-#: src/AnniversaryCalculator/LitEvent.php:78
+#: src/AnniversaryCalculator/LitEvent.php:81
 msgid "RUBY"
 msgstr "RUBINO"
 
-#: src/AnniversaryCalculator/LitEvent.php:79
+#: src/AnniversaryCalculator/LitEvent.php:82
 msgid "CORAL"
 msgstr "CORALLO"
 
-#: src/AnniversaryCalculator/LitEvent.php:80
+#: src/AnniversaryCalculator/LitEvent.php:83
 msgid "PEARL"
 msgstr "PERLA"
 
-#: src/AnniversaryCalculator/LitEvent.php:81
+#: src/AnniversaryCalculator/LitEvent.php:84
 msgid "SILVER"
 msgstr "ARGENTO"
 
-#: src/AnniversaryCalculator/LitEvent.php:82
+#: src/AnniversaryCalculator/LitEvent.php:85
 msgid "PORCELAIN"
 msgstr "PORCELLANA"
 
-#: src/AnniversaryCalculator/LitEvent.php:83
+#: src/AnniversaryCalculator/LitEvent.php:86
 msgid "CRISTAL"
 msgstr "CRISTALLO"
 
-#: src/AnniversaryCalculator/LitEvent.php:84
+#: src/AnniversaryCalculator/LitEvent.php:87
 msgid "ALUMINUM"
 msgstr "STAGNO"
 
-#: src/AnniversaryCalculator/LitEvent.php:85
+#: src/AnniversaryCalculator/LitEvent.php:88
 msgid "WOOD"
 msgstr "LEGNO"
 
-#: src/AnniversaryCalculator/LitEvent.php:86
+#: src/AnniversaryCalculator/LitEvent.php:89
 msgid "PAPER"
 msgstr "CARTA"
 
