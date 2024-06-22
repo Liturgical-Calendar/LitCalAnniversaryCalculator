@@ -2207,20 +2207,20 @@
         "PLACE_OF_BURIAL": "",
         "NOTES": "",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Basilica of Saint Frances of Rome at the Roman Forum"
     },
     "StTuribius_251": {
-        "SUBJECT": "",
+        "SUBJECT": "Saint Turibius of Mogrovejo, bishop",
         "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "PLACE_OF_DEATH": "Zaña (Peru)",
+        "PLACE_OF_BIRTH": "Mayorga (Spain)",
+        "PLACE_OF_BURIAL": "Lima (Peru)",
+        "NOTES": "Toribio Alfonso (Mayorga de Campos, Spain, November 18, 1538 - Santiago de Miraflores de Saña, Peru, March 23, 1606) assumed the leadership of the vast archdiocese of Ciudad de los Reyes (now Lima, Peru), tirelessly working to restore ecclesiastical discipline among the clergy, which had become quite lax, and to defend the dignity of the indigenous people with all his might, thus earning the enmity of the powerful Spanish rulers. He established hospitals for the poor and the first seminary in Latin America, recognizing the importance of education in accordance with the local culture. He embodied the evangelical figure of the shepherd through his loving dedication to the flock and his respect for indigenous culture.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Basilica Cathedral of St. John the Apostle and Evangelist in Lima (Peru)"
     },
     "StFrancisPaola_252": {
-        "SUBJECT": "",
+        "SUBJECT": "Saint Francis of Paola, hermit",
         "PLACES": "",
         "PLACE_OF_DEATH": "Plessis-lez-Tours Castle (La Riche, France)",
         "PLACE_OF_BIRTH": "Paola (Cosenza)",
@@ -2847,70 +2847,70 @@
         "PLACE_OF_BURIAL": "Discalced Carmelites Monastery, Segovia, Spain",
         "NOTES": "John (Fontiveros, Spain, 1542 - Úbeda, December 14, 1591), a Carmelite, with a thorough theological education, was involved by Saint Teresa of Avila in the reform project of the Order from which the Discalced Carmelites were born, as an initiative to return to the old rigor, in contemplation and poverty. The reference to the cross, then added by John to his own name, was for the young reformer almost a prophecy of the contradictions and sufferings he would endure from his brothers: suspected and unjustly accused, he was imprisoned for nine months. But in that dark night, John experienced the enveloping light of mystical union with God; he expressed it in songs with intense and vibrant poetic expressions, which, together with his wonderful writings, made him an exceptional spiritual guide: \"At the end of life we will be judged on love\".",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Discalced Carmelites Monastery, Segovia, Spain"
     },
     "StPeterCanisius_396": {
-        "SUBJECT": "",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "SUBJECT": "Saint Peter Canisius, priest and doctor",
+        "PLACES": "Fribourg, Switzerland",
+        "PLACE_OF_DEATH": "Fribourg, Switzerland",
+        "PLACE_OF_BIRTH": "Nijmegen, Netherlands",
+        "PLACE_OF_BURIAL": "St. Michael's College, Fribourg, Switzerland",
+        "NOTES": "Peter Kanijs - Latinized as Canisius - (Nijmegen, Netherlands, May 8, 1521 - Fribourg, Switzerland, December 21, 1597), a Jesuit, was a key figure in the restoration of Catholicism in Germany, following the Protestant Reformation, with educational initiatives and catechism texts, especially for young people and ministry candidates. A reformer of universities and promoter of seminaries, he was also diligent in preaching among rural populations.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "St. Michael's College, Fribourg, Switzerland"
     },
     "StJohnKanty_397": {
-        "SUBJECT": "",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "SUBJECT": "John of Kęty, priest",
+        "PLACES": "Krakow, Poland",
+        "PLACE_OF_DEATH": "Krakow, Poland",
+        "PLACE_OF_BIRTH": "Kęty, Poland",
+        "PLACE_OF_BURIAL": "Church of Saint Anne, Krakow",
+        "NOTES": "John (Kęty, Poland, 1390 - Krakow, December 24, 1473), priest, philosopher and theologian, was a professor at the University of Krakow, a member of the musical chapel of the collegiate church of St. Florian and a canon of the cathedral. He was known throughout the city for his upright life, inexhaustible goodness, and preference for the poor.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Church of Saint Anne, Krakow"
     },
     "StThomasBecket_401": {
-        "SUBJECT": "",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "SUBJECT": "Saint Thomas Becket, bishop and martyr",
+        "PLACES": "Canterbury, United Kingdom",
+        "PLACE_OF_DEATH": "Canterbury, United Kingdom",
+        "PLACE_OF_BIRTH": "London, United Kingdom",
+        "PLACE_OF_BURIAL": "Canterbury Cathedral, United Kingdom",
+        "NOTES": "Thomas (London, United Kingdom, circa 1120 - Canterbury, December 29, 1170), formerly chancellor to King Henry II, was appointed by him as Archbishop of Canterbury. Unwilling to submit to the intrusion of royal power into the life of the Church, he was forced to take refuge in France for several years. Despite the persistent hostility of the court, he returned to Canterbury and was assassinated in the cathedral by the king's envoys.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Canterbury Cathedral, Canterbury, United Kingdom"
     },
     "StJosephineBakhita_404": {
-        "SUBJECT": "",
+        "SUBJECT": "Saint Josephine Bakhita, virgin",
         "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "PLACE_OF_DEATH": "Schio (Vicenza, Italy)",
+        "PLACE_OF_BIRTH": "Darfur (Sudan)",
+        "PLACE_OF_BURIAL": "Canossian Convent of Schio (Vicenza, Italy)",
+        "NOTES": "Bakhita, or \"Fortunate\" (Darfur, Sudan, 1869 - Schio, Vicenza, 1947), was the name given to an African girl, kidnapped and sold as a slave by merchants. After being owned by various masters, she was purchased by the Italian consul in Khartoum who took her with him to Venice. She came to know the Catholic faith and received Baptism, taking the name Josephine. She joined the Canossian Sisters and lived in Schio, where she was known for her great charity towards the needy",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Canossian Convent of Schio (Vicenza, Italy)"
     },
     "StLouisGrignionMontfort_406": {
-        "SUBJECT": "",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "SUBJECT": "Saint Louis de Montfort",
+        "PLACES": "France",
+        "PLACE_OF_DEATH": "Saint-Laurent-sur-Sèvre, France",
+        "PLACE_OF_BIRTH": "Montfort-sur-Meu, France",
+        "PLACE_OF_BURIAL": "Saint-Laurent-sur-Sèvre, France",
+        "NOTES": "Louis Mary (Montfort-sur-Meu, France, January 31, 1673 - Saint-Laurent-sur-Sèvre, April 28, 1716) dedicated his life to the evangelical mission, preaching the mystery of eternal Wisdom, the incarnate and crucified Christ, and promoting Marian devotion as the path leading to Jesus; he fought against religious ignorance through catechism to the poor in urban outskirts and the countryside and popular missions. He founded the Company of Mary (Montfortians) and the female institute of the Daughters of Wisdom, to which he entrusted the task of bringing divine Wisdom among the poor, in hospitals and charity schools. His writings, including the Treatise on true devotion to the Holy Virgin, outline man's vocation, from the slavery of sin to the liberating adherence to Christ.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Basilica of Saint Louis de Montfort, Saint-Laurent-sur-Sèvre, France"
     },
     "StChristopherMagallanes_408": {
-        "SUBJECT": "",
-        "PLACES": "",
-        "PLACE_OF_DEATH": "",
-        "PLACE_OF_BIRTH": "",
-        "PLACE_OF_BURIAL": "",
-        "NOTES": "",
+        "SUBJECT": "Saint Christopher Magallanes and companion martyrs",
+        "PLACES": "Jalisco, Mexico",
+        "PLACE_OF_DEATH": "Colotlán, Mexico",
+        "PLACE_OF_BIRTH": "Totatiche, Mexico",
+        "PLACE_OF_BURIAL": "Shrine of Saint Christopher Magallanes, Jalisco, Mexico",
+        "NOTES": "Christopher (Totatiche, Mexico, July 30, 1869 - Colotlán, May 25, 1927) was a parish priest and missionary among the indigenous people. In the complex local situation - between the state's persecution of the Catholic Church and the consequent popular reactions, sometimes even violent - he testified with the sacrifice of his life to the primacy of the kingdom of God. His figure is linked to the memory of twenty-four other martyrs, priests and laymen, killed between 1915 and 1937.",
         "PATRONAGE": "",
-        "MAIN_SHRINE": ""
+        "MAIN_SHRINE": "Shrine of Saint Christopher Magallanes, Jalisco, Mexico"
     },
     "StRitaCascia_409": {
-        "SUBJECT": "",
+        "SUBJECT": "Saint Rita of Cascia, religious",
         "PLACES": "",
         "PLACE_OF_DEATH": "",
         "PLACE_OF_BIRTH": "",
