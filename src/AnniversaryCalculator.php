@@ -219,14 +219,23 @@ class AnniversaryCalculator
         $localeArray = [
             $this->parameterData["LOCALE"] . '.utf8',
             $this->parameterData["LOCALE"] . '.UTF-8',
+            $this->parameterData["LOCALE"],
             $this->parameterData["BASE_LOCALE"] . '_' . strtoupper($this->parameterData["BASE_LOCALE"]) . '.utf8',
             $this->parameterData["BASE_LOCALE"] . '_' . strtoupper($this->parameterData["BASE_LOCALE"]) . '.UTF-8',
-            $this->parameterData["LOCALE"],
-            $this->parameterData["BASE_LOCALE"] . '_' . strtoupper($this->parameterData["BASE_LOCALE"])
+            $this->parameterData["BASE_LOCALE"] . '_' . strtoupper($this->parameterData["BASE_LOCALE"]),
+            $this->parameterData["BASE_LOCALE"] . '.utf8',
+            $this->parameterData["BASE_LOCALE"] . '.UTF-8',
+            $this->parameterData["BASE_LOCALE"]
         ];
-        setlocale(LC_ALL, $localeArray);
-        bindtextdomain("litcal", "i18n");
-        textdomain("litcal");
+        $locale = setlocale(LC_ALL, $localeArray);
+        $textdomainpath = bindtextdomain("litcal", "i18n");
+        $textdomain = textdomain("litcal");
+        $this->RESPONSE->Messages[] = sprintf(
+            _('PHP setlocale set to locale %1$s, text domain path set to %2$s, text domain set to %3$s'),
+            $locale ? $locale : 'false',
+            $textdomainpath,
+            $textdomain
+        );
     }
 
     private function setReponseContentTypeHeader()
