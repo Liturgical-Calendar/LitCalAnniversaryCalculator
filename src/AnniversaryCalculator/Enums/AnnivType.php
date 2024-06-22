@@ -12,16 +12,14 @@ class AnnivType
     public const TRANSLATION = "translation";
     public const DOGMA = "dogma";
     public const OTHER = "other";
-    //private string $locale;
     private array $GTXT;
 
     public static array $values = [
         "birth", "death", "canonization", "doctor", "dedication", "translation", "dogma", "other"
     ];
 
-    public function __construct(string $locale)
+    public function __construct()
     {
-        //$this->locale = strtoupper( $locale );
         $this->GTXT = [
             self::BIRTH         => strtoupper(_("birth")),
             self::DEATH         => strtoupper(_("death")),
@@ -29,7 +27,8 @@ class AnnivType
             self::DOCTOR        => strtoupper(_("doctor")),
             self::DEDICATION    => strtoupper(_("dedication")),
             /**translators: term "translation" refers to the transferral of the relics of a saint */
-            self::TRANSLATION    => strtoupper(_("translation")),
+            self::TRANSLATION   => strtoupper(_("translation")),
+            self::DOGMA         => strtoupper(_("dogma")),
             self::OTHER         => strtoupper(_("other"))
         ];
     }

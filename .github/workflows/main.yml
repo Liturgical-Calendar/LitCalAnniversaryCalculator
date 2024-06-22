@@ -22,13 +22,13 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Check-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Update source file translation strings
         id: update_pot
         run: |
           sudo apt-get install -y gettext
-          xgettext --from-code=UTF-8 --add-comments='translators:' --keyword="pgettext:1c,2" -o i18n/litcal.pot includes/AnniversaryCalculator.php includes/LitEvent.php includes/enums/AnnivType.php includes/enums/AreaInterest.php includes/enums/LitCalendar.php
+          xgettext --from-code=UTF-8 --add-comments='translators:' --keyword="pgettext:1c,2" -o i18n/litcal.pot src/AnniversaryCalculator.php src/AnniversaryCalculator/LitEvent.php src/AnniversaryCalculator/Enums/AnnivType.php src/AnniversaryCalculator/Enums/AreaInterest.php src/AnniversaryCalculator/Enums/LitCalendar.php
           echo "POT_LINES_CHANGED=$(git diff -U0 | grep '^[+|-][^+|-]' | grep -Ev '^[+-]"POT-Creation-Date' | wc -l)" >> $GITHUB_OUTPUT
 
       # push the output folder to your repo

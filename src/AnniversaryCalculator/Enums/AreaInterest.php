@@ -9,16 +9,14 @@ class AreaInterest
     public const WORLD     = "world";      // IRC
     public const BIBLICAL  = "biblical";   // BIBLICI
     public const MARIAN    = "marian";     // MARIANI
-    //private string $locale;
     private array $GTXT;
 
     public static array $values = [
         "rome", "italy", "world", "biblical", "marian"
     ];
 
-    public function __construct(string $locale)
+    public function __construct()
     {
-        //$this->locale = strtoupper( $locale );
         $this->GTXT = [
             self::ROME          => strtoupper(_("rome")),
             self::ITALY         => strtoupper(_("italy")),

@@ -8,16 +8,14 @@ class LitCalendar
     public const NATIONAL = "national";
     public const DIOCESAN = "diocesan";
     public const WIDE_AREA = "wide_area";
-    //private string $locale;
     private array $GTXT;
 
     public static array $values = [
         "universal", "national", "diocesan", "wide_area"
     ];
 
-    public function __construct(string $locale)
+    public function __construct()
     {
-        //$this->locale = strtoupper( $locale );
         $this->GTXT = [
             self::UNIVERSAL         => strtoupper(_("universal")),
             self::NATIONAL          => strtoupper(_("national")),

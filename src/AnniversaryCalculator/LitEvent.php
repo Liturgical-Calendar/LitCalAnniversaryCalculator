@@ -52,15 +52,39 @@ class LitEvent
     public array $areaOfInterest;
     public ?string $notes;
     public ?string $anniversary;
+    public ?string $anniversaryLcl;
     public ?string $patronage;
     public int $yearDiff;
+    private array $GTXT;
 
-    public function __construct(array $rowData, string $locale)
+    public function __construct(array $rowData)
     {
-        $AnnivType                 = new AnnivType($locale);
-        $AreaInterest              = new AreaInterest($locale);
-        $LitCalendar               = new LitCalendar($locale);
-
+        $AnnivType                 = new AnnivType();
+        $AreaInterest              = new AreaInterest();
+        $LitCalendar               = new LitCalendar();
+        $this->GTXT = [
+            "CENTENARY"     => _("CENTENARY"),
+            "ONYX"          => _("ONYX"),
+            "GRANITE"       => _("GRANITE"),
+            "MARBLE"        => _("MARBLE"),
+            "OAK"           => _("OAK"),
+            "PLATINUM"      => _("PLATINUM"),
+            "IRON"          => _("IRON"),
+            "STONE"         => _("STONE"),
+            "DIAMOND"       => _("DIAMOND"),
+            "EMERALD"       => _("EMERALD"),
+            "GOLD"          => _("GOLD"),
+            "SAPPHIRE"      => _("SAPPHIRE"),
+            "RUBY"          => _("RUBY"),
+            "CORAL"         => _("CORAL"),
+            "PEARL"         => _("PEARL"),
+            "SILVER"        => _("SILVER"),
+            "PORCELAIN"     => _("PORCELAIN"),
+            "CRISTAL"       => _("CRISTAL"),
+            "ALUMINUM"      => _("ALUMINUM"),
+            "WOOD"          => _("WOOD"),
+            "PAPER"         => _("PAPER")
+        ];
         $this->idx                 = $rowData["IDX"];
         $this->tag                 = $rowData["TAG"];
 
@@ -85,6 +109,7 @@ class LitEvent
     public function setAnniversary(int $anniv)
     {
         $this->anniversary = array_search($anniv, self::ANNIVERSARY);
+        $this->anniversaryLcl = $this->GTXT[ $this->anniversary ];
     }
 
     public function setYearDiff(int $yearDiff)
