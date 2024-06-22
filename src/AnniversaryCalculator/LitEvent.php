@@ -37,32 +37,32 @@ class LitEvent
 
     public string $subject;
     public string $anniversaryType;
-    public string|null $anniversaryName;
-    public int|null $year;
-    public int $eventMonth;
-    public int $eventDay;
-    public int $memorialMonth;
-    public int $memorialDay;
+    public ?string $anniversaryName;
+    public ?int $year;
+    public ?int $eventMonth;
+    public ?int $eventDay;
+    public ?int $memorialMonth;
+    public ?int $memorialDay;
     public string $calendar;
-    public string|null $placeOfBirth;
-    public string|null $placeOfDeath;
-    public string|null $placeOfBurial;
-    public string|null $mainShrine;
-    public string|null $places;
+    public ?string $placeOfBirth;
+    public ?string $placeOfDeath;
+    public ?string $placeOfBurial;
+    public ?string $mainShrine;
+    public ?string $places;
     public array $areaOfInterest;
-    public string|null $notes;
-    public string|null $anniversary;
-    public string|null $patronage;
+    public ?string $notes;
+    public ?string $anniversary;
+    public ?string $patronage;
     public int $yearDiff;
 
     public function __construct(array $rowData, string $locale)
     {
-        $AnnivType                  = new AnnivType($locale);
-        $AreaInterest               = new AreaInterest($locale);
-        $LitCalendar                = new LitCalendar($locale);
+        $AnnivType                 = new AnnivType($locale);
+        $AreaInterest              = new AreaInterest($locale);
+        $LitCalendar               = new LitCalendar($locale);
 
-        $this->idx                  = $rowData["IDX"];
-        $this->tag                  = $rowData["TAG"];
+        $this->idx                 = $rowData["IDX"];
+        $this->tag                 = $rowData["TAG"];
 
         $this->subject             = $rowData["SUBJECT"];
         $this->anniversaryType     = $AnnivType->i18n($rowData["ANNIVERSARY"]);
