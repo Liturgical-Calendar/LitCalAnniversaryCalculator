@@ -6,9 +6,9 @@ use LitCal\AnniversaryCalculator\LitEvent;
 
 class AnniversaryCalculator
 {
-    public const ALLOWED_RETURN_TYPES               = [ "json", "xml", "html" ];
-    public const ALLOWED_ACCEPT_HEADERS             = [ "application/json", "application/xml", "text/html" ];
-    public const ALLOWED_CONTENT_TYPES              = [ "application/json", "application/x-www-form-urlencoded" ];
+    public const ALLOWED_RETURN_TYPES               = [ "json", "yaml", "xml", "html" ];
+    public const ALLOWED_ACCEPT_HEADERS             = [ "application/json", "application/yaml", "application/xml", "text/html" ];
+    public const ALLOWED_CONTENT_TYPES              = [ "application/json", "application/yaml", "application/x-www-form-urlencoded" ];
     public const ALLOWED_REQUEST_METHODS            = [ "GET", "POST" ];
     public const ALLOWED_LOCALES                    = [ "en", "it" ]; //, "es", "fr", "de", "pt"
 
@@ -90,16 +90,51 @@ class AnniversaryCalculator
     private function initParameterData()
     {
         if (isset($_SERVER['CONTENT_TYPE']) && $_SERVER['CONTENT_TYPE'] === 'application/json') {
-            $json = file_get_contents('php://input');
-            $data = json_decode($json, true);
-            if (null === $json || "" === $json) {
+            $rawJson = file_get_contents('php://input');
+            if (null === $rawJson || "" === $rawJson) {
                 header($_SERVER["SERVER_PROTOCOL"] . " 400 Bad Request", true, 400);
-                die('{"error":"No JSON data received in the request: <' . $json . '>"');
-            } else if (json_last_error() !== JSON_ERROR_NONE) {
+                $response = new \stdClass();
+                $response->error = "No JSON data received in the request: <$rawJson>";
+                die(json_encode($response));
+            }
+            $data = json_decode($rawJson, true);
+            if (json_last_error() !== JSON_ERROR_NONE) {
                 header($_SERVER["SERVER_PROTOCOL"] . " 400 Bad Request", true, 400);
-                die('{"error":"Malformed JSON data received in the request: <' . $json . '>, ' . json_last_error_msg() . '"}');
+                $response = new \stdClass();
+                $response->error = "Malformed JSON data received in the request: <$rawJson>, " . json_last_error_msg();
+                die(json_encode($response));
             } else {
                 $this->parameterData = $data;
+            }
+        } elseif (isset($_SERVER['CONTENT_TYPE']) && $_SERVER['CONTENT_TYPE'] === 'application/yaml') {
+            $rawYaml = file_get_contents('php://input');
+            if ("" === $rawYaml) {
+                header($_SERVER[ "SERVER_PROTOCOL" ] . " 400 Bad Request", true, 400);
+                $response = new \stdClass();
+                $response->error = "No YAML data received in the request";
+                die(json_encode($response));
+            }
+
+            set_error_handler(array('self', 'warningHandler'), E_WARNING);
+            try {
+                $data = yaml_parse($rawYaml);
+                if (false === $data) {
+                    header($_SERVER[ "SERVER_PROTOCOL" ] . " 400 Bad Request", true, 400);
+                    $response = new \stdClass();
+                    $response->error = "Malformed YAML data received in the request";
+                    die(json_encode($response));
+                } else {
+                    $this->parameterData = $data;
+                }
+            } catch (\Exception $e) {
+                header($_SERVER[ "SERVER_PROTOCOL" ] . " 400 Bad Request", true, 400);
+                $response = new \stdClass();
+                $response->status = "error";
+                $response->message = "Malformed YAML data received in the request";
+                $response->error = $e->getMessage();
+                $response->line = $e->getLine();
+                $response->code = $e->getCode();
+                die(json_encode($response));
             }
         } else {
             switch (strtoupper($_SERVER["REQUEST_METHOD"])) {
@@ -120,7 +155,6 @@ class AnniversaryCalculator
 
         if (!isset($this->parameterData["YEAR"]) || $this->parameterData["YEAR"] === "") {
             $this->parameterData["YEAR"] = (int)date("Y");
-            //die( '{"error":"Parametro YEAR non impostato o non valido"}' );
         }
 
         if (isset($this->parameterData["LOCALE"]) && in_array(strtolower($this->parameterData["LOCALE"]), self::ALLOWED_LOCALES)) {
@@ -129,8 +163,22 @@ class AnniversaryCalculator
             $this->parameterData["LOCALE"] = "en";
         }
 
-        $this->responseContentType = ( isset($this->parameterData["return"]) && in_array(strtolower($this->parameterData["return"]), self::ALLOWED_RETURN_TYPES) ) ? strtolower($this->parameterData["return"]) : ( $this->acceptHeader !== "" ? (string) self::ALLOWED_RETURN_TYPES[array_search($this->requestHeaders["Accept"], self::ALLOWED_ACCEPT_HEADERS)] : (string) self::ALLOWED_RETURN_TYPES[0] );
+        $this->responseContentType = (
+                isset($this->parameterData["return"])
+                && in_array(strtolower($this->parameterData["return"]), self::ALLOWED_RETURN_TYPES)
+            )
+            ? strtolower($this->parameterData["return"])
+            : (
+                $this->acceptHeader !== ""
+                ? (string) self::ALLOWED_RETURN_TYPES[array_search($this->requestHeaders["Accept"], self::ALLOWED_ACCEPT_HEADERS)]
+                : (string) self::ALLOWED_RETURN_TYPES[0]
+            );
         $this->RESPONSE->Messages[] = "parameter data initialized";
+    }
+
+    private static function warningHandler($errno, $errstr)
+    {
+        throw new \Exception($errstr, $errno);
     }
 
     private function prepareL10N(): void
@@ -154,6 +202,9 @@ class AnniversaryCalculator
                 break;
             case "json":
                 header('Content-Type: application/json; charset=utf-8');
+                break;
+            case "yaml":
+                header('Content-Type: application/yaml; charset=utf-8');
                 break;
             case "html":
                 header('Content-Type: text/html; charset=utf-8');
@@ -242,8 +293,22 @@ class AnniversaryCalculator
 
     private function outputResults()
     {
-
-        echo json_encode($this->RESPONSE, JSON_UNESCAPED_UNICODE);
+        switch ($this->responseContentType) {
+            case 'yaml':
+                $responseObj = json_decode(json_encode($this->RESPONSE), true);
+                echo yaml_emit($responseObj, YAML_UTF8_ENCODING);
+                break;
+            case 'xml':
+                //TODO: NOT YET SUPPORTED
+                break;
+            case 'html':
+                //TODO: NOT YET SUPPORTED
+                break;
+            case 'json':
+            default:
+                echo json_encode($this->RESPONSE, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+                break;
+        }
         exit(0);
     }
 }
