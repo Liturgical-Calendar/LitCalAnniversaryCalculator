@@ -58,41 +58,43 @@ class LitEvent
     public ?string $anniversaryLcl;
     public ?string $patronage;
     public int $yearDiff;
-    private array $GTXT;
+    private static array $GTXT = [];
 
     public function __construct(array $rowData)
     {
+        if (count(self::$GTXT) === 0) {
+            self::$GTXT = [
+                "CENTENARY"     => _("CENTENARY"),
+                "ONYX"          => _("ONYX"),
+                "GRANITE"       => _("GRANITE"),
+                "MARBLE"        => _("MARBLE"),
+                "OAK"           => _("OAK"),
+                "PLATINUM"      => _("PLATINUM"),
+                "IRON"          => _("IRON"),
+                "STONE"         => _("STONE"),
+                "DIAMOND"       => _("DIAMOND"),
+                "EMERALD"       => _("EMERALD"),
+                "GOLD"          => _("GOLD"),
+                "SAPPHIRE"      => _("SAPPHIRE"),
+                "RUBY"          => _("RUBY"),
+                "CORAL"         => _("CORAL"),
+                "PEARL"         => _("PEARL"),
+                "SILVER"        => _("SILVER"),
+                "PORCELAIN"     => _("PORCELAIN"),
+                "CRISTAL"       => _("CRISTAL"),
+                "ALUMINUM"      => _("ALUMINUM"),
+                "WOOD"          => _("WOOD"),
+                "PAPER"         => _("PAPER")
+            ];
+        }
         $AnnivType                 = new AnnivType();
         $AreaInterest              = new AreaInterest();
         $LitCalendar               = new LitCalendar();
-        $this->GTXT = [
-            "CENTENARY"     => _("CENTENARY"),
-            "ONYX"          => _("ONYX"),
-            "GRANITE"       => _("GRANITE"),
-            "MARBLE"        => _("MARBLE"),
-            "OAK"           => _("OAK"),
-            "PLATINUM"      => _("PLATINUM"),
-            "IRON"          => _("IRON"),
-            "STONE"         => _("STONE"),
-            "DIAMOND"       => _("DIAMOND"),
-            "EMERALD"       => _("EMERALD"),
-            "GOLD"          => _("GOLD"),
-            "SAPPHIRE"      => _("SAPPHIRE"),
-            "RUBY"          => _("RUBY"),
-            "CORAL"         => _("CORAL"),
-            "PEARL"         => _("PEARL"),
-            "SILVER"        => _("SILVER"),
-            "PORCELAIN"     => _("PORCELAIN"),
-            "CRISTAL"       => _("CRISTAL"),
-            "ALUMINUM"      => _("ALUMINUM"),
-            "WOOD"          => _("WOOD"),
-            "PAPER"         => _("PAPER")
-        ];
         $this->idx                 = $rowData["IDX"];
         $this->tag                 = $rowData["TAG"];
 
         $this->subject             = $rowData["SUBJECT"];
-        $this->anniversaryType     = $rowData["ANNIVERSARY"];
+        $this->anniversaryType     = $AnnivType->isValid($rowData["ANNIVERSARY"]) ? strtoupper($rowData["ANNIVERSARY"]) : '???';
         $this->anniversaryTypeLcl  = $AnnivType->i18n($rowData["ANNIVERSARY"]);
         $this->year                = $rowData["YEAR"];
         $this->eventMonth          = $rowData["EVENT_MONTH"];
@@ -107,7 +109,7 @@ class LitEvent
         $this->mainShrine          = $rowData["MAIN_SHRINE"];
         $this->places              = $rowData["PLACES"];
         $this->areaOfInterest      = $rowData["AREA"] ? explode(",", $rowData["AREA"]) : [];
-        $this->areaOfInterest      = $rowData["AREA"] ? $AreaInterest->i18n(explode(",", $rowData["AREA"])) : [];
+        $this->areaOfInterestLcl   = $rowData["AREA"] ? $AreaInterest->i18n(explode(",", $rowData["AREA"])) : [];
         $this->notes               = $rowData["NOTES"];
         $this->patronage           = $rowData["PATRONAGE"];
     }
@@ -115,7 +117,7 @@ class LitEvent
     public function setAnniversary(int $anniv)
     {
         $this->anniversary = array_search($anniv, self::ANNIVERSARY);
-        $this->anniversaryLcl = $this->GTXT[ $this->anniversary ];
+        $this->anniversaryLcl = self::$GTXT[ $this->anniversary ];
     }
 
     public function setYearDiff(int $yearDiff)
