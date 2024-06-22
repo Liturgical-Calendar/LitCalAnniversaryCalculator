@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-22 21:42+0000\n"
+"POT-Creation-Date: 2024-06-22 22:03+0000\n"
 "PO-Revision-Date: 2022-12-15 03:17+0000\n"
 "Last-Translator: John R. D'Orazio <priest@johnromanodorazio.com>\n"
 "Language-Team: Portuguese <https://translate.johnromanodorazio.com/projects/"
@@ -69,32 +69,39 @@ msgstr ""
 msgid "parameter data initialized"
 msgstr ""
 
-#: src/AnniversaryCalculator.php:253
+#: src/AnniversaryCalculator.php:234
+#, php-format
+msgid ""
+"PHP setlocale set to locale %1$s, text domain path set to %2$s, text domain "
+"set to %3$s"
+msgstr ""
+
+#: src/AnniversaryCalculator.php:262
 #, php-format
 msgid "Response Content-Type header set to '%s'"
 msgstr ""
 
-#: src/AnniversaryCalculator.php:267
+#: src/AnniversaryCalculator.php:276
 #, php-format
 msgid "%d localized data events loaded from translation file %s"
 msgstr ""
 
-#: src/AnniversaryCalculator.php:272
+#: src/AnniversaryCalculator.php:281
 #, php-format
 msgid "%d events loaded from data file %s"
 msgstr ""
 
-#: src/AnniversaryCalculator.php:303
+#: src/AnniversaryCalculator.php:312
 #, php-format
 msgid "%d data rows calculated"
 msgstr ""
 
-#: src/AnniversaryCalculator.php:308
+#: src/AnniversaryCalculator.php:317
 #, php-format
 msgid "missing translation file: %s"
 msgstr ""
 
-#: src/AnniversaryCalculator.php:314
+#: src/AnniversaryCalculator.php:323
 #, php-format
 msgid "missing data file: %s"
 msgstr ""
