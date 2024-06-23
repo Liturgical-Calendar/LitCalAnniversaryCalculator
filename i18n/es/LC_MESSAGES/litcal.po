@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-23 17:02+0000\n"
+"POT-Creation-Date: 2024-06-23 19:20+0000\n"
 "PO-Revision-Date: 2024-06-23 02:09+0000\n"
 "Last-Translator: \"John R. D'Orazio\" <priest@johnromanodorazio.com>\n"
 "Language-Team: Spanish <https://translate.johnromanodorazio.com/projects/"
@@ -20,7 +20,7 @@ msgstr ""
 "X-Generator: Weblate 5.5.5\n"
 
 #. translators: 1: count, 2: filename
-#: src/AnniversaryCalculator.php:258
+#: src/AnniversaryCalculator.php:267
 #, php-format
 msgid "%1$d localized data events loaded from translation file %2$s"
 msgstr ""
@@ -28,25 +28,25 @@ msgstr ""
 "%2$s"
 
 #. translators: 1: count, 2: filename
-#: src/AnniversaryCalculator.php:264
+#: src/AnniversaryCalculator.php:273
 #, php-format
 msgid "%1$d events loaded from data file %2$s"
 msgstr "%1$d eventos cargados desde el archivo de datos %2$s"
 
 #. translators: count
-#: src/AnniversaryCalculator.php:296
+#: src/AnniversaryCalculator.php:305
 #, php-format
 msgid "%d data rows calculated"
 msgstr "%d filas de datos calculadas"
 
 #. translators: filename
-#: src/AnniversaryCalculator.php:302
+#: src/AnniversaryCalculator.php:311
 #, php-format
 msgid "missing translation file: %s"
 msgstr "archivo de traducción faltante: %s"
 
 #. translators: filename
-#: src/AnniversaryCalculator.php:309
+#: src/AnniversaryCalculator.php:318
 #, php-format
 msgid "missing data file: %s"
 msgstr "archivo de datos faltante: %s"
