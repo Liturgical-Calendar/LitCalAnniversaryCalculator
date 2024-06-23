@@ -11,7 +11,7 @@ class AnniversaryCalculator
     public const ALLOWED_ACCEPT_HEADERS             = [ "application/json", "application/yaml", "application/xml", "text/html" ];
     public const ALLOWED_REQUEST_CONTENT_TYPES      = [ "application/json", "application/yaml", "application/x-www-form-urlencoded" ];
     public const ALLOWED_REQUEST_METHODS            = [ "GET", "POST", "OPTIONS" ];
-    public const ALLOWED_LOCALES                    = [ "en", "it" ]; //, "es", "fr", "de", "pt"
+    public const ALLOWED_LOCALES                    = [ "en", "it", "es", "fr", "de", "pt" ];
 
     public const RECURRING = [
         "ALUMINUM",
