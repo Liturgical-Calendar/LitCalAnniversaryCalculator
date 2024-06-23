@@ -278,6 +278,7 @@ class AnniversaryCalculator
                     count($results),
                     $dataFile
                 );
+                $englishResultsUsed = false;
                 foreach ($lclData as $label => $lclRow) {
                     list( $TAG, $IDX ) = explode("_", $label);
                     // if we wanted to check for empty strings, and try to merge the English equivalent,
@@ -289,7 +290,9 @@ class AnniversaryCalculator
                             && $lclDataEnglish !== null
                             && property_exists($lclDataEnglish, $label)
                             && property_exists($lclDataEnglish->$label, $rowLabel)
+                            && '' !== $lclDataEnglish->$label->$rowLabel
                         ) {
+                            $englishResultsUsed = true;
                             $lclRow->$rowLabel = $lclDataEnglish->$label->$rowLabel;
                         }
                     }
@@ -332,6 +335,9 @@ class AnniversaryCalculator
                     _("%d data rows calculated"),
                     count($this->RESPONSE->LitEvents)
                 );
+                if ($englishResultsUsed) {
+                    $this->RESPONSE->Messages[] = "English results were used for this incomplete translation";
+                }
             } else {
                 $this->RESPONSE->Messages[] = sprintf(
                     /**translators: filename */
