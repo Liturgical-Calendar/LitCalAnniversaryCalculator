@@ -156,11 +156,20 @@ class AnniversaryCalculator
                     ? (string) self::ALLOWED_RETURN_TYPES[array_search(self::$acceptHeader, self::ALLOWED_ACCEPT_HEADERS)]
                     : (string) self::ALLOWED_RETURN_TYPES[0]
             );
-        $this->RESPONSE->Messages[] = sprintf(
-            'Return parameter set to \'%1$s\', response content type set to \'%2$s\'',
-            $this->parameterData["RETURN"],
-            self::$responseContentType
-        );
+        if (isset($this->parameterData["RETURN"])) {
+            $message = 'Return parameter set to \'%1$s\', response content type set to \'%2$s\'';
+            $this->RESPONSE->Messages[] = sprintf(
+                $message,
+                $this->parameterData["RETURN"],
+                self::$responseContentType
+            );
+        } else {
+            $message = 'No return parameter received in the request, response content type set to \'%1$s\'';
+            $this->RESPONSE->Messages[] = sprintf(
+                $message,
+                self::$responseContentType
+            );
+        }
 
         if (!isset($this->parameterData["YEAR"]) || $this->parameterData["YEAR"] === "") {
             $this->parameterData["YEAR"] = (int)date("Y");
