@@ -1,200 +1,202 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# "John R. D'Orazio" <priest@johnromanodorazio.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-23 00:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-06-23 02:09+0000\n"
+"Last-Translator: \"John R. D'Orazio\" <priest@johnromanodorazio.com>\n"
+"Language-Team: Latin <https://translate.johnromanodorazio.com/projects/"
+"liturgical-calendar/anniversary-calculator/la/>\n"
 "Language: la\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #. translators: 1: count, 2: filename
 #: src/AnniversaryCalculator.php:255
 #, php-format
 msgid "%1$d localized data events loaded from translation file %2$s"
-msgstr ""
+msgstr "%1$d eventa localia data ex translatione file %2$s onerata"
 
 #. translators: 1: count, 2: filename
 #: src/AnniversaryCalculator.php:261
 #, php-format
 msgid "%1$d events loaded from data file %2$s"
-msgstr ""
+msgstr "%1$d eventus onerati ex data plico %2$s"
 
 #. translators: count
 #: src/AnniversaryCalculator.php:293
 #, php-format
 msgid "%d data rows calculated"
-msgstr ""
+msgstr "%d ordinum data computata"
 
 #. translators: filename
 #: src/AnniversaryCalculator.php:299
 #, php-format
 msgid "missing translation file: %s"
-msgstr ""
+msgstr "desideratum translationis fasciculus: %s"
 
 #. translators: filename
 #: src/AnniversaryCalculator.php:306
 #, php-format
 msgid "missing data file: %s"
-msgstr ""
+msgstr "desiderium file data: %s"
 
 #: src/AnniversaryCalculator/LitEvent.php:67
 msgid "CENTENARY"
-msgstr ""
+msgstr "SAECULARIS"
 
 #: src/AnniversaryCalculator/LitEvent.php:68
 msgid "ONYX"
-msgstr ""
+msgstr "ONYX"
 
 #: src/AnniversaryCalculator/LitEvent.php:69
 msgid "GRANITE"
-msgstr ""
+msgstr "GRANITUM"
 
 #: src/AnniversaryCalculator/LitEvent.php:70
 msgid "MARBLE"
-msgstr ""
+msgstr "MARMOR"
 
 #: src/AnniversaryCalculator/LitEvent.php:71
 msgid "OAK"
-msgstr ""
+msgstr "QUERCUS"
 
 #: src/AnniversaryCalculator/LitEvent.php:72
 msgid "PLATINUM"
-msgstr ""
+msgstr "PLATINUM"
 
 #: src/AnniversaryCalculator/LitEvent.php:73
 msgid "IRON"
-msgstr ""
+msgstr "FERRUM"
 
 #: src/AnniversaryCalculator/LitEvent.php:74
 msgid "STONE"
-msgstr ""
+msgstr "LAPIS"
 
 #: src/AnniversaryCalculator/LitEvent.php:75
 msgid "DIAMOND"
-msgstr ""
+msgstr "ADAMAS"
 
 #: src/AnniversaryCalculator/LitEvent.php:76
 msgid "EMERALD"
-msgstr ""
+msgstr "SMARAGDUS"
 
 #: src/AnniversaryCalculator/LitEvent.php:77
 msgid "GOLD"
-msgstr ""
+msgstr "AURUM"
 
 #: src/AnniversaryCalculator/LitEvent.php:78
 msgid "SAPPHIRE"
-msgstr ""
+msgstr "SAPPHIRUS"
 
 #: src/AnniversaryCalculator/LitEvent.php:79
 msgid "RUBY"
-msgstr ""
+msgstr "RUBINUS"
 
 #: src/AnniversaryCalculator/LitEvent.php:80
 msgid "CORAL"
-msgstr ""
+msgstr "CORALLUM"
 
 #: src/AnniversaryCalculator/LitEvent.php:81
 msgid "PEARL"
-msgstr ""
+msgstr "MARGARITA"
 
 #: src/AnniversaryCalculator/LitEvent.php:82
 msgid "SILVER"
-msgstr ""
+msgstr "ARGENTUM"
 
 #: src/AnniversaryCalculator/LitEvent.php:83
 msgid "PORCELAIN"
-msgstr ""
+msgstr "PORCELLANA"
 
 #: src/AnniversaryCalculator/LitEvent.php:84
 msgid "CRISTAL"
-msgstr ""
+msgstr "CRYSTALLUM"
 
 #: src/AnniversaryCalculator/LitEvent.php:85
 msgid "ALUMINUM"
-msgstr ""
+msgstr "ALUMINIUM"
 
 #: src/AnniversaryCalculator/LitEvent.php:86
 msgid "WOOD"
-msgstr ""
+msgstr "LIGNUM"
 
 #: src/AnniversaryCalculator/LitEvent.php:87
 msgid "PAPER"
-msgstr ""
+msgstr "CHARTA"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:24
 msgid "birth"
-msgstr ""
+msgstr "nativitas"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:25
 msgid "death"
-msgstr ""
+msgstr "mors"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:26
 msgid "canonization"
-msgstr ""
+msgstr "canonizatio"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:27
 msgid "doctor"
-msgstr ""
+msgstr "doctor"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:28
 msgid "dedication"
-msgstr ""
+msgstr "dedicatio"
 
 #. translators: term "translation" refers to the transferral of the relics of a saint
 #: src/AnniversaryCalculator/Enums/AnnivType.php:30
 msgid "translation"
-msgstr ""
+msgstr "translatio"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:31
 msgid "dogma"
-msgstr ""
+msgstr "dogma"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:32
 msgid "other"
-msgstr ""
+msgstr "alius"
 
 #: src/AnniversaryCalculator/Enums/AreaInterest.php:21
 msgid "rome"
-msgstr ""
+msgstr "Roma"
 
 #: src/AnniversaryCalculator/Enums/AreaInterest.php:22
 msgid "italy"
-msgstr ""
+msgstr "Italia"
 
 #: src/AnniversaryCalculator/Enums/AreaInterest.php:23
 msgid "world"
-msgstr ""
+msgstr "mundus"
 
 #: src/AnniversaryCalculator/Enums/AreaInterest.php:24
 msgid "biblical"
-msgstr ""
+msgstr "biblicus"
 
 #: src/AnniversaryCalculator/Enums/AreaInterest.php:25
 msgid "marian"
-msgstr ""
+msgstr "Marianus"
 
 #: src/AnniversaryCalculator/Enums/LitCalendar.php:20
 msgid "universal"
-msgstr ""
+msgstr "universalis"
 
 #: src/AnniversaryCalculator/Enums/LitCalendar.php:21
 msgid "national"
-msgstr ""
+msgstr "nationalis"
 
 #: src/AnniversaryCalculator/Enums/LitCalendar.php:22
 msgid "diocesan"
-msgstr ""
+msgstr "dioecesanus"
 
 #: src/AnniversaryCalculator/Enums/LitCalendar.php:23
 msgid "wide_area"
-msgstr ""
+msgstr "latissima_regio"
