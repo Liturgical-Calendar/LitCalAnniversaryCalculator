@@ -11,6 +11,9 @@ class AnniversaryCalculator
     public const ALLOWED_ACCEPT_HEADERS             = [ "application/json", "application/yaml", "application/xml", "text/html" ];
     public const ALLOWED_REQUEST_CONTENT_TYPES      = [ "application/json", "application/yaml", "application/x-www-form-urlencoded" ];
     public const ALLOWED_REQUEST_METHODS            = [ "GET", "POST", "OPTIONS" ];
+    // N.B. Do not enable any languages here until they are actually translated
+    //      That way the API will default to English when non supported languages are requested
+    //      and at least we get a result...
     public const ALLOWED_LOCALES                    = [ "en", "it" ]; //"es", "fr", "de", "pt"
 
     public const RECURRING = [
