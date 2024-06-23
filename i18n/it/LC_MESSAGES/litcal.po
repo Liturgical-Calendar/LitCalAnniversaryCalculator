@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-23 00:00+0000\n"
-"PO-Revision-Date: 2024-06-22 21:18+0000\n"
+"PO-Revision-Date: 2024-06-23 02:09+0000\n"
 "Last-Translator: \"John R. D'Orazio\" <priest@johnromanodorazio.com>\n"
 "Language-Team: Italian <https://translate.johnromanodorazio.com/projects/"
 "liturgical-calendar/anniversary-calculator/it/>\n"
@@ -21,17 +21,15 @@ msgstr ""
 
 #. translators: 1: count, 2: filename
 #: src/AnniversaryCalculator.php:255
-#, fuzzy, php-format
-#| msgid "%d localized data events loaded from translation file %s"
+#, php-format
 msgid "%1$d localized data events loaded from translation file %2$s"
-msgstr "%d eventi di dati localizzati caricati dal file di traduzione %s"
+msgstr "%1$d eventi di dati localizzati caricati dal file di traduzione %2$s"
 
 #. translators: 1: count, 2: filename
 #: src/AnniversaryCalculator.php:261
-#, fuzzy, php-format
-#| msgid "%d events loaded from data file %s"
+#, php-format
 msgid "%1$d events loaded from data file %2$s"
-msgstr "%d eventi caricati dal file di dati %s"
+msgstr "%1$d eventi caricati dal file di dati %2$s"
 
 #. translators: count
 #: src/AnniversaryCalculator.php:293
