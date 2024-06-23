@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-22 22:03+0000\n"
+"POT-Creation-Date: 2024-06-23 00:00+0000\n"
 "PO-Revision-Date: 2024-06-22 21:18+0000\n"
 "Last-Translator: \"John R. D'Orazio\" <priest@johnromanodorazio.com>\n"
 "Language-Team: Italian <https://translate.johnromanodorazio.com/projects/"
@@ -19,96 +19,34 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.5.5\n"
 
-#: src/AnniversaryCalculator.php:97
-msgid "No JSON data received in the request"
-msgstr "Nessun dato JSON ricevuto nella richiesta"
-
-#: src/AnniversaryCalculator.php:105
-#, php-format
-msgid "Malformed JSON data received in the request: %s"
-msgstr "Dati JSON malformati ricevuti nella richiesta: %s"
-
-#: src/AnniversaryCalculator.php:117
-msgid "No YAML data received in the request"
-msgstr "Nessun dato YAML ricevuto nella richiesta"
-
-#: src/AnniversaryCalculator.php:127
-msgid "Malformed YAML data received in the request"
-msgstr "Dati YAML malformati ricevuti nella richiesta"
-
-#: src/AnniversaryCalculator.php:136
-#, php-format
-msgid "Malformed YAML data received in the request: %s"
-msgstr "Dati YAML malformati ricevuti nella richiesta: %s"
-
-#: src/AnniversaryCalculator.php:156
-#, php-format
-msgid "Allowed request methods are: %1$s; but request method was '%2$s'"
-msgstr ""
-"I metodi di richiesta consentiti sono: %1$s; ma il metodo di richiesta era "
-"'%2$s'"
-
-#: src/AnniversaryCalculator.php:168
-#, php-format
-msgid "Year set to %d"
-msgstr "Anno impostato su %d"
-
-#: src/AnniversaryCalculator.php:179
-#, php-format
-msgid "Allowed base locales are: '%1$s'; but base locale requested was '%2$s'"
-msgstr ""
-"Le lingue di base consentite sono: '%1$s'; ma la lingua di base richiesta "
-"era '%2$s'"
-
-#: src/AnniversaryCalculator.php:189
-#, php-format
-msgid "Locale set to '%1$s', base locale set to '%2$s'"
-msgstr "Lingua impostata su '%1$s', lingua di base impostata su '%2$s'"
-
-#: src/AnniversaryCalculator.php:205
-#, php-format
-msgid "Return parameter set to '%1$s', response content type set to '%2$s'"
-msgstr ""
-"Parametro di ritorno impostato su '%1$s', tipo di contenuto della risposta "
-"impostato su '%2$s'"
-
-#: src/AnniversaryCalculator.php:209
-msgid "parameter data initialized"
-msgstr "dati del parametro inizializzati"
-
-#: src/AnniversaryCalculator.php:234
-#, php-format
-msgid ""
-"PHP setlocale set to locale %1$s, text domain path set to %2$s, text domain "
-"set to %3$s"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:262
-#, php-format
-msgid "Response Content-Type header set to '%s'"
-msgstr "Intestazione del contenuto della risposta impostata su '%s'"
-
-#: src/AnniversaryCalculator.php:276
-#, php-format
-msgid "%d localized data events loaded from translation file %s"
+#. translators: 1: count, 2: filename
+#: src/AnniversaryCalculator.php:255
+#, fuzzy, php-format
+#| msgid "%d localized data events loaded from translation file %s"
+msgid "%1$d localized data events loaded from translation file %2$s"
 msgstr "%d eventi di dati localizzati caricati dal file di traduzione %s"
 
-#: src/AnniversaryCalculator.php:281
-#, php-format
-msgid "%d events loaded from data file %s"
+#. translators: 1: count, 2: filename
+#: src/AnniversaryCalculator.php:261
+#, fuzzy, php-format
+#| msgid "%d events loaded from data file %s"
+msgid "%1$d events loaded from data file %2$s"
 msgstr "%d eventi caricati dal file di dati %s"
 
-#: src/AnniversaryCalculator.php:312
+#. translators: count
+#: src/AnniversaryCalculator.php:293
 #, php-format
 msgid "%d data rows calculated"
 msgstr "%d righe di dati calcolate"
 
-#: src/AnniversaryCalculator.php:317
+#. translators: filename
+#: src/AnniversaryCalculator.php:299
 #, php-format
 msgid "missing translation file: %s"
 msgstr "file di traduzione mancante: %s"
 
-#: src/AnniversaryCalculator.php:323
+#. translators: filename
+#: src/AnniversaryCalculator.php:306
 #, php-format
 msgid "missing data file: %s"
 msgstr "file di dati mancante: %s"
@@ -265,3 +203,46 @@ msgstr "diocesano"
 #: src/AnniversaryCalculator/Enums/LitCalendar.php:23
 msgid "wide_area"
 msgstr "area_estesa"
+
+#~ msgid "No JSON data received in the request"
+#~ msgstr "Nessun dato JSON ricevuto nella richiesta"
+
+#~ msgid "Malformed JSON data received in the request: %s"
+#~ msgstr "Dati JSON malformati ricevuti nella richiesta: %s"
+
+#~ msgid "No YAML data received in the request"
+#~ msgstr "Nessun dato YAML ricevuto nella richiesta"
+
+#~ msgid "Malformed YAML data received in the request"
+#~ msgstr "Dati YAML malformati ricevuti nella richiesta"
+
+#~ msgid "Malformed YAML data received in the request: %s"
+#~ msgstr "Dati YAML malformati ricevuti nella richiesta: %s"
+
+#~ msgid "Allowed request methods are: %1$s; but request method was '%2$s'"
+#~ msgstr ""
+#~ "I metodi di richiesta consentiti sono: %1$s; ma il metodo di richiesta "
+#~ "era '%2$s'"
+
+#~ msgid "Year set to %d"
+#~ msgstr "Anno impostato su %d"
+
+#~ msgid ""
+#~ "Allowed base locales are: '%1$s'; but base locale requested was '%2$s'"
+#~ msgstr ""
+#~ "Le lingue di base consentite sono: '%1$s'; ma la lingua di base richiesta "
+#~ "era '%2$s'"
+
+#~ msgid "Locale set to '%1$s', base locale set to '%2$s'"
+#~ msgstr "Lingua impostata su '%1$s', lingua di base impostata su '%2$s'"
+
+#~ msgid "Return parameter set to '%1$s', response content type set to '%2$s'"
+#~ msgstr ""
+#~ "Parametro di ritorno impostato su '%1$s', tipo di contenuto della "
+#~ "risposta impostato su '%2$s'"
+
+#~ msgid "parameter data initialized"
+#~ msgstr "dati del parametro inizializzati"
+
+#~ msgid "Response Content-Type header set to '%s'"
+#~ msgstr "Intestazione del contenuto della risposta impostata su '%s'"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-22 22:03+0000\n"
+"POT-Creation-Date: 2024-06-23 00:00+0000\n"
 "PO-Revision-Date: 2022-04-12 14:57+0000\n"
 "Last-Translator: John R. D'Orazio <priest@johnromanodorazio.com>\n"
 "Language-Team: Spanish <https://translate.johnromanodorazio.com/projects/"
@@ -18,90 +18,32 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.10.1\n"
 
-#: src/AnniversaryCalculator.php:97
-msgid "No JSON data received in the request"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:105
+#. translators: 1: count, 2: filename
+#: src/AnniversaryCalculator.php:255
 #, php-format
-msgid "Malformed JSON data received in the request: %s"
+msgid "%1$d localized data events loaded from translation file %2$s"
 msgstr ""
 
-#: src/AnniversaryCalculator.php:117
-msgid "No YAML data received in the request"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:127
-msgid "Malformed YAML data received in the request"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:136
+#. translators: 1: count, 2: filename
+#: src/AnniversaryCalculator.php:261
 #, php-format
-msgid "Malformed YAML data received in the request: %s"
+msgid "%1$d events loaded from data file %2$s"
 msgstr ""
 
-#: src/AnniversaryCalculator.php:156
-#, php-format
-msgid "Allowed request methods are: %1$s; but request method was '%2$s'"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:168
-#, php-format
-msgid "Year set to %d"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:179
-#, php-format
-msgid "Allowed base locales are: '%1$s'; but base locale requested was '%2$s'"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:189
-#, php-format
-msgid "Locale set to '%1$s', base locale set to '%2$s'"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:205
-#, php-format
-msgid "Return parameter set to '%1$s', response content type set to '%2$s'"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:209
-msgid "parameter data initialized"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:234
-#, php-format
-msgid ""
-"PHP setlocale set to locale %1$s, text domain path set to %2$s, text domain "
-"set to %3$s"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:262
-#, php-format
-msgid "Response Content-Type header set to '%s'"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:276
-#, php-format
-msgid "%d localized data events loaded from translation file %s"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:281
-#, php-format
-msgid "%d events loaded from data file %s"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:312
+#. translators: count
+#: src/AnniversaryCalculator.php:293
 #, php-format
 msgid "%d data rows calculated"
 msgstr ""
 
-#: src/AnniversaryCalculator.php:317
+#. translators: filename
+#: src/AnniversaryCalculator.php:299
 #, php-format
 msgid "missing translation file: %s"
 msgstr ""
 
-#: src/AnniversaryCalculator.php:323
+#. translators: filename
+#: src/AnniversaryCalculator.php:306
 #, php-format
 msgid "missing data file: %s"
 msgstr ""
