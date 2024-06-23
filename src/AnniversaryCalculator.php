@@ -11,10 +11,10 @@ class AnniversaryCalculator
     public const ALLOWED_ACCEPT_HEADERS             = [ "application/json", "application/yaml", "application/xml", "text/html" ];
     public const ALLOWED_REQUEST_CONTENT_TYPES      = [ "application/json", "application/yaml", "application/x-www-form-urlencoded" ];
     public const ALLOWED_REQUEST_METHODS            = [ "GET", "POST", "OPTIONS" ];
-    // N.B. Do not enable any languages here until they are actually translated
+    // N.B. Do not enable any languages here until they are actually translated (at least partially)
     //      That way the API will default to English when non supported languages are requested
     //      and at least we get a result...
-    public const ALLOWED_LOCALES                    = [ "en", "it" ]; //"es", "fr", "de", "pt"
+    public const ALLOWED_LOCALES                    = [ "en", "it", "fr" ]; //"es", "de", "pt"
 
     public const RECURRING = [
         "ALUMINUM",
@@ -260,14 +260,18 @@ class AnniversaryCalculator
         $translationFile = "data/i18n/{$this->parameterData["BASE_LOCALE"]}.json";
         if (file_exists($dataFile)) {
             if (file_exists($translationFile)) {
+                // Use English as a backup for empty strings when a non English locale has been requested
+                $lclDataEnglish = $this->parameterData["BASE_LOCALE"] !== 'en'
+                    ? json_decode(file_get_contents("data/i18n/en.json"))
+                    : null;
                 $lclData = json_decode(file_get_contents($translationFile));
-                $results = json_decode(file_get_contents($dataFile));
                 $this->RESPONSE->Messages[] = sprintf(
                     /**translators: 1: count, 2: filename */
                     _('%1$d localized data events loaded from translation file %2$s'),
                     count(get_object_vars($lclData)),
                     $translationFile
                 );
+                $results = json_decode(file_get_contents($dataFile));
                 $this->RESPONSE->Messages[] = sprintf(
                     /**translators: 1: count, 2: filename */
                     _('%1$d events loaded from data file %2$s'),
@@ -276,6 +280,19 @@ class AnniversaryCalculator
                 );
                 foreach ($lclData as $label => $lclRow) {
                     list( $TAG, $IDX ) = explode("_", $label);
+                    // if we wanted to check for empty strings, and try to merge the English equivalent,
+                    // this would be the place to do it
+                    foreach ($lclRow as $rowLabel => $rowValue) {
+                        if (
+                            gettype($rowValue) === 'string'
+                            && '' === $rowValue
+                            && $lclDataEnglish !== null
+                            && property_exists($lclDataEnglish, $label)
+                            && property_exists($lclDataEnglish->$label, $rowLabel)
+                        ) {
+                            $lclRow->$rowLabel = $lclDataEnglish->$label->$rowLabel;
+                        }
+                    }
                     foreach ($results as $idx => $obj) {
                         if ($obj->TAG === $TAG && $obj->IDX === intval($IDX)) {
                             $litEvent = new LitEvent(array_merge((array) $results[$idx], (array) $lclRow));
@@ -286,15 +303,25 @@ class AnniversaryCalculator
                     }
                     //TODO: we currently sort by liturgical memorial day / month, because that's the data we started with,
                     //      however it would be more useful, once the data is defined, to sort by event day / month
+                    // This is kind of magic :D
                     $props = [
                         "memorialMonth" => 2,
                         "memorialDay"   => 1
                     ];
                     usort($this->RESPONSE->LitEvents, function ($a, $b) use ($props) {
                         foreach ($props as $key => $val) {
+                            // if event A's memorialMonth is equal to event B's memorialMonth,
+                            // or event B's memorialDay is equal to event B's memorial Day,
+                            // no sorting needed (continue checking the next property)
+                            // if both properties are equal for both events we will wind up returning 0 = no sort
                             if ($a->$key == $b->$key) {
                                 continue;
                             }
+                            // if instead event A's memorialMonth is greater than event B's memorialMonth
+                            // we will give the memorialMonth a greater sort weight compared to the memorialDay by returning 2
+                            // if A's memorialMonth is less than B's memorialMonth we return -2
+                            // if A's memorialDay is greater than B's memorialDay we return 1
+                            // if A's memorialDay is less than B's memorialDay we return -1
                             return $a->$key > $b->$key ? $val : -($val);
                         }
                         return 0;
