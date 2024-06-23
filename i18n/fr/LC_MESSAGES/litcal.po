@@ -2,13 +2,14 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # John R. D'Orazio <priest@johnromanodorazio.com>, 2022.
+# "John R. D'Orazio" <priest@johnromanodorazio.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-22 21:07+0000\n"
-"PO-Revision-Date: 2022-04-12 14:57+0000\n"
-"Last-Translator: John R. D'Orazio <priest@johnromanodorazio.com>\n"
+"POT-Creation-Date: 2024-06-23 00:00+0000\n"
+"PO-Revision-Date: 2024-06-23 02:09+0000\n"
+"Last-Translator: \"John R. D'Orazio\" <priest@johnromanodorazio.com>\n"
 "Language-Team: French <https://translate.johnromanodorazio.com/projects/"
 "liturgical-calendar/anniversary-calculator/fr/>\n"
 "Language: fr\n"
@@ -16,172 +17,123 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 5.5.5\n"
 
-#: src/AnniversaryCalculator.php:97
-msgid "No JSON data received in the request"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:105
+#. translators: 1: count, 2: filename
+#: src/AnniversaryCalculator.php:255
 #, php-format
-msgid "Malformed JSON data received in the request: %s"
+msgid "%1$d localized data events loaded from translation file %2$s"
 msgstr ""
+"%1$d événements de données localisés chargés à partir du fichier de "
+"traduction %2$s"
 
-#: src/AnniversaryCalculator.php:117
-msgid "No YAML data received in the request"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:127
-msgid "Malformed YAML data received in the request"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:136
+#. translators: 1: count, 2: filename
+#: src/AnniversaryCalculator.php:261
 #, php-format
-msgid "Malformed YAML data received in the request: %s"
-msgstr ""
+msgid "%1$d events loaded from data file %2$s"
+msgstr "%1$d événements chargés à partir du fichier de données %2$s"
 
-#: src/AnniversaryCalculator.php:156
-#, php-format
-msgid "Allowed request methods are: %1$s; but request method was '%2$s'"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:168
-#, php-format
-msgid "Year set to %d"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:179
-#, php-format
-msgid "Allowed base locales are: '%1$s'; but base locale requested was '%2$s'"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:189
-#, php-format
-msgid "Locale set to '%1$s', base locale set to '%2$s'"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:205
-#, php-format
-msgid "Return parameter set to '%1$s', response content type set to '%2$s'"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:209
-msgid "parameter data initialized"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:253
-#, php-format
-msgid "Response Content-Type header set to '%s'"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:267
-#, php-format
-msgid "%d localized data events loaded from translation file %s"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:272
-#, php-format
-msgid "%d events loaded from data file %s"
-msgstr ""
-
-#: src/AnniversaryCalculator.php:303
+#. translators: count
+#: src/AnniversaryCalculator.php:293
 #, php-format
 msgid "%d data rows calculated"
-msgstr ""
+msgstr "%d lignes de données calculées"
 
-#: src/AnniversaryCalculator.php:308
+#. translators: filename
+#: src/AnniversaryCalculator.php:299
 #, php-format
 msgid "missing translation file: %s"
-msgstr ""
+msgstr "fichier de traduction manquant : %s"
 
-#: src/AnniversaryCalculator.php:314
+#. translators: filename
+#: src/AnniversaryCalculator.php:306
 #, php-format
 msgid "missing data file: %s"
-msgstr ""
-
-#: src/AnniversaryCalculator/LitEvent.php:66
-msgid "CENTENARY"
-msgstr ""
+msgstr "fichier de données manquant : %s"
 
 #: src/AnniversaryCalculator/LitEvent.php:67
-msgid "ONYX"
-msgstr ""
+msgid "CENTENARY"
+msgstr "CENTENAIRE"
 
 #: src/AnniversaryCalculator/LitEvent.php:68
-msgid "GRANITE"
-msgstr ""
+msgid "ONYX"
+msgstr "ONYX"
 
 #: src/AnniversaryCalculator/LitEvent.php:69
-msgid "MARBLE"
-msgstr ""
+msgid "GRANITE"
+msgstr "GRANIT"
 
 #: src/AnniversaryCalculator/LitEvent.php:70
-msgid "OAK"
-msgstr ""
+msgid "MARBLE"
+msgstr "MARBRE"
 
 #: src/AnniversaryCalculator/LitEvent.php:71
-msgid "PLATINUM"
-msgstr ""
+msgid "OAK"
+msgstr "CHÊNE"
 
 #: src/AnniversaryCalculator/LitEvent.php:72
-msgid "IRON"
-msgstr ""
+msgid "PLATINUM"
+msgstr "PLATINE"
 
 #: src/AnniversaryCalculator/LitEvent.php:73
-msgid "STONE"
-msgstr ""
+msgid "IRON"
+msgstr "FER"
 
 #: src/AnniversaryCalculator/LitEvent.php:74
-msgid "DIAMOND"
-msgstr ""
+msgid "STONE"
+msgstr "PIERRE"
 
 #: src/AnniversaryCalculator/LitEvent.php:75
-msgid "EMERALD"
-msgstr ""
+msgid "DIAMOND"
+msgstr "DIAMANT"
 
 #: src/AnniversaryCalculator/LitEvent.php:76
-msgid "GOLD"
-msgstr ""
+msgid "EMERALD"
+msgstr "ÉMERAUDE"
 
 #: src/AnniversaryCalculator/LitEvent.php:77
-msgid "SAPPHIRE"
-msgstr ""
+msgid "GOLD"
+msgstr "OR"
 
 #: src/AnniversaryCalculator/LitEvent.php:78
-msgid "RUBY"
-msgstr ""
+msgid "SAPPHIRE"
+msgstr "SAPHIR"
 
 #: src/AnniversaryCalculator/LitEvent.php:79
-msgid "CORAL"
-msgstr ""
+msgid "RUBY"
+msgstr "RUBIS"
 
 #: src/AnniversaryCalculator/LitEvent.php:80
-msgid "PEARL"
-msgstr ""
+msgid "CORAL"
+msgstr "CORAIL"
 
 #: src/AnniversaryCalculator/LitEvent.php:81
-msgid "SILVER"
-msgstr ""
+msgid "PEARL"
+msgstr "PERLE"
 
 #: src/AnniversaryCalculator/LitEvent.php:82
-msgid "PORCELAIN"
-msgstr ""
+msgid "SILVER"
+msgstr "ARGENT"
 
 #: src/AnniversaryCalculator/LitEvent.php:83
-msgid "CRISTAL"
-msgstr ""
+msgid "PORCELAIN"
+msgstr "PORCELAINE"
 
 #: src/AnniversaryCalculator/LitEvent.php:84
-msgid "ALUMINUM"
-msgstr ""
+msgid "CRISTAL"
+msgstr "CRISTAL"
 
 #: src/AnniversaryCalculator/LitEvent.php:85
-msgid "WOOD"
-msgstr ""
+msgid "ALUMINUM"
+msgstr "ALUMINIUM"
 
 #: src/AnniversaryCalculator/LitEvent.php:86
+msgid "WOOD"
+msgstr "BOIS"
+
+#: src/AnniversaryCalculator/LitEvent.php:87
 msgid "PAPER"
-msgstr ""
+msgstr "PAPIER"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:24
 msgid "birth"
@@ -210,7 +162,7 @@ msgstr "traduction"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:31
 msgid "dogma"
-msgstr ""
+msgstr "dogme"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:32
 msgid "other"

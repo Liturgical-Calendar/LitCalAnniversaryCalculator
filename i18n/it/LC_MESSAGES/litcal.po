@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-22 21:07+0000\n"
-"PO-Revision-Date: 2024-06-22 21:18+0000\n"
+"POT-Creation-Date: 2024-06-23 00:00+0000\n"
+"PO-Revision-Date: 2024-06-23 02:09+0000\n"
 "Last-Translator: \"John R. D'Orazio\" <priest@johnromanodorazio.com>\n"
 "Language-Team: Italian <https://translate.johnromanodorazio.com/projects/"
 "liturgical-calendar/anniversary-calculator/it/>\n"
@@ -19,174 +19,117 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.5.5\n"
 
-#: src/AnniversaryCalculator.php:97
-msgid "No JSON data received in the request"
-msgstr "Nessun dato JSON ricevuto nella richiesta"
-
-#: src/AnniversaryCalculator.php:105
+#. translators: 1: count, 2: filename
+#: src/AnniversaryCalculator.php:255
 #, php-format
-msgid "Malformed JSON data received in the request: %s"
-msgstr "Dati JSON malformati ricevuti nella richiesta: %s"
+msgid "%1$d localized data events loaded from translation file %2$s"
+msgstr "%1$d eventi di dati localizzati caricati dal file di traduzione %2$s"
 
-#: src/AnniversaryCalculator.php:117
-msgid "No YAML data received in the request"
-msgstr "Nessun dato YAML ricevuto nella richiesta"
-
-#: src/AnniversaryCalculator.php:127
-msgid "Malformed YAML data received in the request"
-msgstr "Dati YAML malformati ricevuti nella richiesta"
-
-#: src/AnniversaryCalculator.php:136
+#. translators: 1: count, 2: filename
+#: src/AnniversaryCalculator.php:261
 #, php-format
-msgid "Malformed YAML data received in the request: %s"
-msgstr "Dati YAML malformati ricevuti nella richiesta: %s"
+msgid "%1$d events loaded from data file %2$s"
+msgstr "%1$d eventi caricati dal file di dati %2$s"
 
-#: src/AnniversaryCalculator.php:156
-#, php-format
-msgid "Allowed request methods are: %1$s; but request method was '%2$s'"
-msgstr ""
-"I metodi di richiesta consentiti sono: %1$s; ma il metodo di richiesta era "
-"'%2$s'"
-
-#: src/AnniversaryCalculator.php:168
-#, php-format
-msgid "Year set to %d"
-msgstr "Anno impostato su %d"
-
-#: src/AnniversaryCalculator.php:179
-#, php-format
-msgid "Allowed base locales are: '%1$s'; but base locale requested was '%2$s'"
-msgstr ""
-"Le lingue di base consentite sono: '%1$s'; ma la lingua di base richiesta "
-"era '%2$s'"
-
-#: src/AnniversaryCalculator.php:189
-#, php-format
-msgid "Locale set to '%1$s', base locale set to '%2$s'"
-msgstr "Lingua impostata su '%1$s', lingua di base impostata su '%2$s'"
-
-#: src/AnniversaryCalculator.php:205
-#, php-format
-msgid "Return parameter set to '%1$s', response content type set to '%2$s'"
-msgstr ""
-"Parametro di ritorno impostato su '%1$s', tipo di contenuto della risposta "
-"impostato su '%2$s'"
-
-#: src/AnniversaryCalculator.php:209
-msgid "parameter data initialized"
-msgstr "dati del parametro inizializzati"
-
-#: src/AnniversaryCalculator.php:253
-#, php-format
-msgid "Response Content-Type header set to '%s'"
-msgstr "Intestazione del contenuto della risposta impostata su '%s'"
-
-#: src/AnniversaryCalculator.php:267
-#, php-format
-msgid "%d localized data events loaded from translation file %s"
-msgstr "%d eventi di dati localizzati caricati dal file di traduzione %s"
-
-#: src/AnniversaryCalculator.php:272
-#, php-format
-msgid "%d events loaded from data file %s"
-msgstr "%d eventi caricati dal file di dati %s"
-
-#: src/AnniversaryCalculator.php:303
+#. translators: count
+#: src/AnniversaryCalculator.php:293
 #, php-format
 msgid "%d data rows calculated"
 msgstr "%d righe di dati calcolate"
 
-#: src/AnniversaryCalculator.php:308
+#. translators: filename
+#: src/AnniversaryCalculator.php:299
 #, php-format
 msgid "missing translation file: %s"
 msgstr "file di traduzione mancante: %s"
 
-#: src/AnniversaryCalculator.php:314
+#. translators: filename
+#: src/AnniversaryCalculator.php:306
 #, php-format
 msgid "missing data file: %s"
 msgstr "file di dati mancante: %s"
 
-#: src/AnniversaryCalculator/LitEvent.php:66
+#: src/AnniversaryCalculator/LitEvent.php:67
 msgid "CENTENARY"
 msgstr "CENTENARIO"
 
-#: src/AnniversaryCalculator/LitEvent.php:67
+#: src/AnniversaryCalculator/LitEvent.php:68
 msgid "ONYX"
 msgstr "ONICE"
 
-#: src/AnniversaryCalculator/LitEvent.php:68
+#: src/AnniversaryCalculator/LitEvent.php:69
 msgid "GRANITE"
 msgstr "GRANITO"
 
-#: src/AnniversaryCalculator/LitEvent.php:69
+#: src/AnniversaryCalculator/LitEvent.php:70
 msgid "MARBLE"
 msgstr "MARMO"
 
-#: src/AnniversaryCalculator/LitEvent.php:70
+#: src/AnniversaryCalculator/LitEvent.php:71
 msgid "OAK"
 msgstr "QUERCIA"
 
-#: src/AnniversaryCalculator/LitEvent.php:71
+#: src/AnniversaryCalculator/LitEvent.php:72
 msgid "PLATINUM"
 msgstr "PLATINO"
 
-#: src/AnniversaryCalculator/LitEvent.php:72
+#: src/AnniversaryCalculator/LitEvent.php:73
 msgid "IRON"
 msgstr "FERRO"
 
-#: src/AnniversaryCalculator/LitEvent.php:73
+#: src/AnniversaryCalculator/LitEvent.php:74
 msgid "STONE"
 msgstr "PIETRA"
 
-#: src/AnniversaryCalculator/LitEvent.php:74
+#: src/AnniversaryCalculator/LitEvent.php:75
 msgid "DIAMOND"
 msgstr "DIAMANTE"
 
-#: src/AnniversaryCalculator/LitEvent.php:75
+#: src/AnniversaryCalculator/LitEvent.php:76
 msgid "EMERALD"
 msgstr "SMERALDO"
 
-#: src/AnniversaryCalculator/LitEvent.php:76
+#: src/AnniversaryCalculator/LitEvent.php:77
 msgid "GOLD"
 msgstr "ORO"
 
-#: src/AnniversaryCalculator/LitEvent.php:77
+#: src/AnniversaryCalculator/LitEvent.php:78
 msgid "SAPPHIRE"
 msgstr "ZAFFIRO"
 
-#: src/AnniversaryCalculator/LitEvent.php:78
+#: src/AnniversaryCalculator/LitEvent.php:79
 msgid "RUBY"
 msgstr "RUBINO"
 
-#: src/AnniversaryCalculator/LitEvent.php:79
+#: src/AnniversaryCalculator/LitEvent.php:80
 msgid "CORAL"
 msgstr "CORALLO"
 
-#: src/AnniversaryCalculator/LitEvent.php:80
+#: src/AnniversaryCalculator/LitEvent.php:81
 msgid "PEARL"
 msgstr "PERLA"
 
-#: src/AnniversaryCalculator/LitEvent.php:81
+#: src/AnniversaryCalculator/LitEvent.php:82
 msgid "SILVER"
 msgstr "ARGENTO"
 
-#: src/AnniversaryCalculator/LitEvent.php:82
+#: src/AnniversaryCalculator/LitEvent.php:83
 msgid "PORCELAIN"
 msgstr "PORCELLANA"
 
-#: src/AnniversaryCalculator/LitEvent.php:83
+#: src/AnniversaryCalculator/LitEvent.php:84
 msgid "CRISTAL"
 msgstr "CRISTALLO"
 
-#: src/AnniversaryCalculator/LitEvent.php:84
+#: src/AnniversaryCalculator/LitEvent.php:85
 msgid "ALUMINUM"
 msgstr "STAGNO"
 
-#: src/AnniversaryCalculator/LitEvent.php:85
+#: src/AnniversaryCalculator/LitEvent.php:86
 msgid "WOOD"
 msgstr "LEGNO"
 
-#: src/AnniversaryCalculator/LitEvent.php:86
+#: src/AnniversaryCalculator/LitEvent.php:87
 msgid "PAPER"
 msgstr "CARTA"
 
@@ -258,3 +201,46 @@ msgstr "diocesano"
 #: src/AnniversaryCalculator/Enums/LitCalendar.php:23
 msgid "wide_area"
 msgstr "area_estesa"
+
+#~ msgid "No JSON data received in the request"
+#~ msgstr "Nessun dato JSON ricevuto nella richiesta"
+
+#~ msgid "Malformed JSON data received in the request: %s"
+#~ msgstr "Dati JSON malformati ricevuti nella richiesta: %s"
+
+#~ msgid "No YAML data received in the request"
+#~ msgstr "Nessun dato YAML ricevuto nella richiesta"
+
+#~ msgid "Malformed YAML data received in the request"
+#~ msgstr "Dati YAML malformati ricevuti nella richiesta"
+
+#~ msgid "Malformed YAML data received in the request: %s"
+#~ msgstr "Dati YAML malformati ricevuti nella richiesta: %s"
+
+#~ msgid "Allowed request methods are: %1$s; but request method was '%2$s'"
+#~ msgstr ""
+#~ "I metodi di richiesta consentiti sono: %1$s; ma il metodo di richiesta "
+#~ "era '%2$s'"
+
+#~ msgid "Year set to %d"
+#~ msgstr "Anno impostato su %d"
+
+#~ msgid ""
+#~ "Allowed base locales are: '%1$s'; but base locale requested was '%2$s'"
+#~ msgstr ""
+#~ "Le lingue di base consentite sono: '%1$s'; ma la lingua di base richiesta "
+#~ "era '%2$s'"
+
+#~ msgid "Locale set to '%1$s', base locale set to '%2$s'"
+#~ msgstr "Lingua impostata su '%1$s', lingua di base impostata su '%2$s'"
+
+#~ msgid "Return parameter set to '%1$s', response content type set to '%2$s'"
+#~ msgstr ""
+#~ "Parametro di ritorno impostato su '%1$s', tipo di contenuto della "
+#~ "risposta impostato su '%2$s'"
+
+#~ msgid "parameter data initialized"
+#~ msgstr "dati del parametro inizializzati"
+
+#~ msgid "Response Content-Type header set to '%s'"
+#~ msgstr "Intestazione del contenuto della risposta impostata su '%s'"
