@@ -183,13 +183,13 @@ class AnniversaryCalculator
             $this->parameterData["LOCALE"] = \Locale::canonicalize($this->parameterData["LOCALE"]);
             $this->parameterData["BASE_LOCALE"] = \Locale::getPrimaryLanguage($this->parameterData["LOCALE"]);
             if (false === in_array($this->parameterData["BASE_LOCALE"], self::ALLOWED_LOCALES)) {
-                $this->parameterData["LOCALE"] = "en_US";
-                $this->parameterData["BASE_LOCALE"] = \Locale::getPrimaryLanguage($this->parameterData["LOCALE"]);
                 $this->RESPONSE->Messages[] = sprintf(
                     'Allowed base locales are: \'%1$s\'; but base locale requested was \'%2$s\'',
                     implode(', ', self::ALLOWED_LOCALES),
                     $this->parameterData["BASE_LOCALE"]
                 );
+                $this->parameterData["LOCALE"] = "en_US";
+                $this->parameterData["BASE_LOCALE"] = \Locale::getPrimaryLanguage($this->parameterData["LOCALE"]);
             }
         } else {
             $this->parameterData["LOCALE"] = "en_US";
