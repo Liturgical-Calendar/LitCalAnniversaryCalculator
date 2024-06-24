@@ -7,193 +7,196 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-24 14:01+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-06-24 14:10+0000\n"
+"Last-Translator: \"John R. D'Orazio\" <priest@johnromanodorazio.com>\n"
+"Language-Team: Dutch <https://translate.johnromanodorazio.com/projects/"
+"liturgical-calendar/anniversary-calculator/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.5.5\n"
 
 #. translators: 1: count, 2: filename
 #: src/AnniversaryCalculator.php:267
 #, php-format
 msgid "%1$d localized data events loaded from translation file %2$s"
-msgstr ""
+msgstr "%1$d gelokaliseerde data-evenementen geladen uit vertaalbestand %2$s"
 
 #. translators: 1: count, 2: filename
 #: src/AnniversaryCalculator.php:274
 #, php-format
 msgid "%1$d events loaded from data file %2$s"
-msgstr ""
+msgstr "%1$d evenementen geladen uit gegevensbestand %2$s"
 
 #. translators: count
 #: src/AnniversaryCalculator.php:332
 #, php-format
 msgid "%d data rows calculated"
-msgstr ""
+msgstr "%d datarijen berekend"
 
 #. translators: filename
 #: src/AnniversaryCalculator.php:341
 #, php-format
 msgid "missing translation file: %s"
-msgstr ""
+msgstr "ontbrekend vertaalbestand: %s"
 
 #. translators: filename
 #: src/AnniversaryCalculator.php:348
 #, php-format
 msgid "missing data file: %s"
-msgstr ""
+msgstr "ontbrekend gegevensbestand: %s"
 
 #: src/AnniversaryCalculator/LitEvent.php:67
 msgid "CENTENARY"
-msgstr ""
+msgstr "EEUWFEEST"
 
 #: src/AnniversaryCalculator/LitEvent.php:68
 msgid "ONYX"
-msgstr ""
+msgstr "ONYX"
 
 #: src/AnniversaryCalculator/LitEvent.php:69
 msgid "GRANITE"
-msgstr ""
+msgstr "GRANIET"
 
 #: src/AnniversaryCalculator/LitEvent.php:70
 msgid "MARBLE"
-msgstr ""
+msgstr "MARMER"
 
 #: src/AnniversaryCalculator/LitEvent.php:71
 msgid "OAK"
-msgstr ""
+msgstr "EIK"
 
 #: src/AnniversaryCalculator/LitEvent.php:72
 msgid "PLATINUM"
-msgstr ""
+msgstr "PLATINA"
 
 #: src/AnniversaryCalculator/LitEvent.php:73
 msgid "IRON"
-msgstr ""
+msgstr "IJZER"
 
 #: src/AnniversaryCalculator/LitEvent.php:74
 msgid "STONE"
-msgstr ""
+msgstr "STEEN"
 
 #: src/AnniversaryCalculator/LitEvent.php:75
 msgid "DIAMOND"
-msgstr ""
+msgstr "DIAMANT"
 
 #: src/AnniversaryCalculator/LitEvent.php:76
 msgid "EMERALD"
-msgstr ""
+msgstr "smaragd"
 
 #: src/AnniversaryCalculator/LitEvent.php:77
 msgid "GOLD"
-msgstr ""
+msgstr "GOUD"
 
 #: src/AnniversaryCalculator/LitEvent.php:78
 msgid "SAPPHIRE"
-msgstr ""
+msgstr "SAFFIER"
 
 #: src/AnniversaryCalculator/LitEvent.php:79
 msgid "RUBY"
-msgstr ""
+msgstr "ROBIJN"
 
 #: src/AnniversaryCalculator/LitEvent.php:80
 msgid "CORAL"
-msgstr ""
+msgstr "KORAAL"
 
 #: src/AnniversaryCalculator/LitEvent.php:81
 msgid "PEARL"
-msgstr ""
+msgstr "PAREL"
 
 #: src/AnniversaryCalculator/LitEvent.php:82
 msgid "SILVER"
-msgstr ""
+msgstr "ZILVER"
 
 #: src/AnniversaryCalculator/LitEvent.php:83
 msgid "PORCELAIN"
-msgstr ""
+msgstr "PORSELEIN"
 
 #: src/AnniversaryCalculator/LitEvent.php:84
 msgid "CRISTAL"
-msgstr ""
+msgstr "KRISTAL"
 
 #: src/AnniversaryCalculator/LitEvent.php:85
 msgid "ALUMINUM"
-msgstr ""
+msgstr "ALUMINIUM"
 
 #: src/AnniversaryCalculator/LitEvent.php:86
 msgid "WOOD"
-msgstr ""
+msgstr "HOUT"
 
 #: src/AnniversaryCalculator/LitEvent.php:87
 msgid "PAPER"
-msgstr ""
+msgstr "PAPIER"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:24
 msgid "birth"
-msgstr ""
+msgstr "geboorte"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:25
 msgid "death"
-msgstr ""
+msgstr "dood"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:26
 msgid "canonization"
-msgstr ""
+msgstr "heiligverklaring"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:27
 msgid "doctor"
-msgstr ""
+msgstr "dokter"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:28
 msgid "dedication"
-msgstr ""
+msgstr "toewijding"
 
 #. translators: term "translation" refers to the transferral of the relics of a saint
 #: src/AnniversaryCalculator/Enums/AnnivType.php:30
 msgid "translation"
-msgstr ""
+msgstr "vertaling"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:31
 msgid "dogma"
-msgstr ""
+msgstr "dogma"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:32
 msgid "other"
-msgstr ""
+msgstr "ander"
 
 #: src/AnniversaryCalculator/Enums/AreaInterest.php:21
 msgid "rome"
-msgstr ""
+msgstr "Rome"
 
 #: src/AnniversaryCalculator/Enums/AreaInterest.php:22
 msgid "italy"
-msgstr ""
+msgstr "Italië"
 
 #: src/AnniversaryCalculator/Enums/AreaInterest.php:23
 msgid "world"
-msgstr ""
+msgstr "wereld"
 
 #: src/AnniversaryCalculator/Enums/AreaInterest.php:24
 msgid "biblical"
-msgstr ""
+msgstr "bijbels"
 
 #: src/AnniversaryCalculator/Enums/AreaInterest.php:25
 msgid "marian"
-msgstr ""
+msgstr "Mariaans"
 
 #: src/AnniversaryCalculator/Enums/LitCalendar.php:20
 msgid "universal"
-msgstr ""
+msgstr "universeel"
 
 #: src/AnniversaryCalculator/Enums/LitCalendar.php:21
 msgid "national"
-msgstr ""
+msgstr "nationaal"
 
 #: src/AnniversaryCalculator/Enums/LitCalendar.php:22
 msgid "diocesan"
-msgstr ""
+msgstr "diocesaan"
 
 #: src/AnniversaryCalculator/Enums/LitCalendar.php:23
 msgid "wide_area"
-msgstr ""
+msgstr "uitgestrekt gebied"
