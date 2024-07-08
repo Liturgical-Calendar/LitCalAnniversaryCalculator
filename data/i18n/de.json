@@ -47,7 +47,7 @@
         "place_of_burial": "Basilika San Sebastiano fuori le Mura",
         "notes": "Todesjahr 250/251, nach etwa 15 Jahren als Papst",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Lourdes (Frankreich)"
     },
     "StSebastian_6": {
         "subject": "Heiliger Sebastian, Märtyrer",
@@ -77,11 +77,11 @@
         "place_of_burial": "Kathedrale von Valencia (Spanien) / Kathedrale von Lissabon (Portugal) / Acate (Ragusa, Italien; Volksüberlieferung)",
         "notes": "Vincenz († Valencia, Spanien, 22. Januar 304), Diakon der Kirche von Saragossa, wurde während der Verfolgung durch Diokletian verhaftet und starb im Gefängnis infolge der erlittenen Folter. Er schenkte Christus sein Leben zusammen mit Bischof Valerius, mit dem er oft das Opfer des Altars dargebracht hatte. Er wird am 22. Januar im Hieronymianischen Martyrologium (5.-6. Jahrhundert) erinnert. Mit dem Aufstieg des Kaisers Konstantin, der zum Christentum konvertiert war, wurde in Valencia eine Basilika zu Ehren des heiligen Vinzenz errichtet, und unter dem Hauptaltar wurden seine Reliquien beigesetzt. Nach der Invasion der Mauren entführten die Christen von Valencia den Körper des Märtyrers, um ihn in Portugal in Sicherheit zu bringen, in eine eigens errichtete Kapelle am heutigen Kap San Vincente. Nach dem Krieg gegen die Mauren wurden die Überreste auf ein Schiff verladen, das Kurs auf Lissabon nahm. Eine fromme Legende erzählt, dass während der Reise einige Raben auf dem Bug und Heck des Schiffes saßen, als wollten sie ihre erneute Schutzpatronage für den heiligen Märtyrer signalisieren, den sie einst vor wilden Tieren gerettet hatten. In der Stadt angekommen, wurde der Körper in der Kirche Santa Giusta und Santa Rufina beigesetzt und nach einiger Zeit, am 15. September 1173, feierlich in die Kathedrale überführt. Zur Erinnerung wurden Münzen geprägt. https://it.wikipedia.org/wiki/Monastero_di_S%C3%A3o_Vicente_de_Fora",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Lourdes (Frankreich)"
     },
     "StFrancisDeSales_9": {
         "subject": "Heiliger Franz von Sales, Bischof und Kirchenlehrer",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Lyon, Frankreich",
         "place_of_birth": "Sales (Frankreich)",
         "place_of_burial": "Basilika der Heimsuchung, Annecy, Frankreich",
@@ -171,10 +171,10 @@
     },
     "StsPaulMiki_19": {
         "subject": "Heilige Paulus Miki und Gefährten, Märtyrer",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Nagasaki, Japan",
         "place_of_birth": "Kyoto (Japan)",
-        "place_of_burial": "",
+        "place_of_burial": "Lourdes (Frankreich)",
         "notes": "Paolo Miki (Kyoto, Japan, 1556 - Nagasaki, 5. Februar 1597), Jesuit, war Opfer der Verfolgung, die der japanische Kaiser gegen die Christen anordnete, aus Angst, dass ihr Wachstum eine Gefahr für die Autonomie des Landes darstellen könnte. Zusammen mit ihm wurden weitere fünfundzwanzig Christen, Laien und Ordensleute (Jesuiten und Franziskaner) gekreuzigt.",
         "patronage": "",
         "main_shrine": "https://it.wikipedia.org/wiki/Basilica_dei_Ventisei_Santi_Martiri_del_Giappone; Museum und Denkmal der sechsundzwanzig Märtyrer von Nagasaki https://travel.at-nagasaki.jp/it/s/what-to-see/30/ https://en.wikipedia.org/wiki/Twenty-Six_Martyrs_Museum_and_Monument"
@@ -197,14 +197,14 @@
         "place_of_burial": "Abtei von Montecassino",
         "notes": "Scholastika (Norcia, Perugia, ca. 480 - Montecassino, Frosinone, ca. 547) wird von der Tradition als Schwester des Heiligen Benedikt bezeichnet. Die Dialoge von Gregor dem Großen beschreiben sie als Jungfrau, die die Kontemplation liebte und weise darin war, die Nächstenliebe über jede menschliche Regel zu stellen. Sie wird am 10. Februar im Marmor-Kalender von Neapel (9. Jahrhundert) und im Martyrologium von Usuard (ca. 870) erwähnt.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Lourdes (Frankreich)"
     },
     "LadyLourdes_22": {
         "subject": "Selige Jungfrau Maria von Lourdes",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Lourdes (Frankreich)",
+        "place_of_death": "Lourdes (Frankreich)",
+        "place_of_birth": "Lourdes (Frankreich)",
+        "place_of_burial": "Lourdes (Frankreich)",
         "notes": "Diese Erinnerung ist mit der mystischen Erfahrung von Bernadette Soubirous verbunden, die zwischen dem 11. Februar und dem 16. Juli 1858 achtzehn Mal in der Grotte von Massabielle bei Lourdes (Frankreich) die Jungfrau Maria traf. Sie erklärte ihr, dass sie die „Unbefleckte Empfängnis“ sei, und rief die Menschen zum Gebet und zur Umkehr auf. Das an diesem Ort auf Einladung der Jungfrau errichtete Heiligtum wurde vor allem für Kranke zu einem ständigen Wallfahrtsort.",
         "patronage": "",
         "main_shrine": "Lourdes (Frankreich)"
@@ -221,7 +221,7 @@
     },
     "SevenHolyFounders_24": {
         "subject": "Heilige Sieben Gründer der Diener der seligen Jungfrau Maria",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Montesenario",
         "place_of_birth": "Florenz",
         "place_of_burial": "Florenz",
@@ -231,7 +231,7 @@
     },
     "StPeterDamian_25": {
         "subject": "Heiliger Pier Damiani, Bischof und Kirchenlehrer",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Faenza",
         "place_of_birth": "Ravenna",
         "place_of_burial": "Benediktinerkloster Santa Maria Fuori le Mura (Faenza)",
@@ -241,17 +241,17 @@
     },
     "StPolycarp_27": {
         "subject": "Heiliger Polykarp, Bischof und Märtyrer",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Smyrna, Türkei",
         "place_of_birth": "Smyrna, Türkei",
-        "place_of_burial": "",
+        "place_of_burial": "Lourdes (Frankreich)",
         "notes": "Polykarp († 23. Februar 167), Schüler des Apostels Johannes, war Bischof von Smyrna (Türkei), wo er den heiligen Ignatius auf seiner Reise nach Rom empfing, der Stadt, in der er das Martyrium erleiden sollte. Nach einem langen Episkopat wurde Polykarp im hohen Alter wegen seines Glaubens zum Scheiterhaufen verurteilt. Es war der Tag des Herrn: Während das Feuer ihn verzehrte, vereinte sich der Bischof betend mit der eucharistischen Liturgie, die er so oft mit seiner Kirche gefeiert hatte. Der Bericht über sein Leiden ist das älteste Dokument über den Kult der Märtyrer.",
         "patronage": "",
         "main_shrine": "Kirche des heiligen Polykarp, Smyrna, Türkei"
     },
     "StCasimir_28": {
         "subject": "Heiliger Kasimir",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Hrodna (Weißrussland)",
         "place_of_birth": "Krakau",
         "place_of_burial": "Vilnius (Litauen)",
@@ -261,17 +261,17 @@
     },
     "StsPerpetuaFelicity_29": {
         "subject": "Heilige Perpetua und Felicitas, Märtyrerinnen",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Karthago - Tunis (Tunesien)",
         "place_of_birth": "Karthago - Tunis (Tunesien)",
-        "place_of_burial": "",
+        "place_of_burial": "Lourdes (Frankreich)",
         "notes": "Im Jahr 439 wurden die Reliquien der heiligen Perpetua, als sich die Invasion der Vandalen näherte, nach Rom gebracht, dann von dort im Jahr 843 vom Erzbischof von Bourges, dem heiligen Raoul, in die Abtei von Dèvres (oder Deuvre) in Saint-Georges-sur-la-Prée. Nachdem diese Abtei 903 von den Normannen geplündert wurde, wurden sie nach Vierzon an den Standort des heutigen Rathauses verlegt. Von dort wurden sie 1807 in die Kirche Notre Dame von Vierzon überführt, wo sie bis heute aufbewahrt werden.",
         "patronage": "",
         "main_shrine": "Kirche Notre Dame de Vierzon (Frankreich)"
     },
     "StJohnGod_30": {
         "subject": "Heiliger Johannes von Gott, Ordensmann",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Granada (Spanien)",
         "place_of_birth": "Montemor-o-Novo (Portugal)",
         "place_of_burial": "Granada (Spanien)",
@@ -281,7 +281,7 @@
     },
     "StFrancesRome_31": {
         "subject": "Heilige Franziska Romana, Ordensfrau",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Rom",
         "place_of_birth": "Rom",
         "place_of_burial": "Rom",
@@ -291,7 +291,7 @@
     },
     "StPatrick_32": {
         "subject": "Heiliger Patrick, Bischof",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Downpatrick (Nordirland)",
         "place_of_birth": "Old Kilpatrick (Schottland)",
         "place_of_burial": "Downpatrick (Nordirland)",
@@ -301,27 +301,27 @@
     },
     "StCyrilJerusalem_33": {
         "subject": "Heiliger Cyrill von Jerusalem, Bischof und Kirchenlehrer",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Jerusalem",
         "place_of_birth": "Jerusalem",
-        "place_of_burial": "",
+        "place_of_burial": "Lourdes (Frankreich)",
         "notes": "Cyrill (ca. 315 - 387), Bischof von Jerusalem, war dramatisch in die tiefen Spaltungen der Kirche seiner Zeit verwickelt: Verleumdet und mehrfach ins Exil geschickt, blieb er der im Konzil von Nicäa (325) verkündeten Lehre treu. Ihm werden einige berühmte Taufkatechesen zugeschrieben.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Lourdes (Frankreich)"
     },
     "StJoseph_34": {
         "subject": "Heiliger Josef, Bräutigam der Seligen Jungfrau Maria",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
+        "places": "Lourdes (Frankreich)",
+        "place_of_death": "Lourdes (Frankreich)",
+        "place_of_birth": "Lourdes (Frankreich)",
         "place_of_burial": "Grab des Gerechten in Nazareth?",
         "notes": "Josef, der „gerechte Mann“ (Mt 1, 19), ist der Ehemann von Maria und der gesetzliche Vater von Jesus: indem er ihm den Namen gibt (vgl. Mt 1, 21.25), ermöglicht er es dem Sohn Gottes, sich mit der davidischen Dynastie zu verbinden, als „Sohn Davids, Sohn Abrahams“ (Mt 1, 1; vgl. Lk 1, 27). Wie der alte Josef wird auch er von Gott als Hüter seines Hauses eingesetzt (vgl. Gen 41, 41-43; Apg 7, 10). Bereit, dem Wort Gottes zu gehorchen, das ihm im Traum von einem Engel des Herrn offenbart wurde (vgl. Mt 1, 20; 2, 13.19-23), nimmt er Maria als seine Frau; flieht mit der heiligen Familie nach Ägypten (vgl. Mt 2, 13); kehrt, wie vom Engel angewiesen, zurück, um sich in Nazareth niederzulassen und so die in den Schriften enthaltenen Prophezeiungen zu erfüllen (vgl. Mt 2, 23). Pius IX. erklärte ihn zum Patron der universalen Kirche (1870).",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Lourdes (Frankreich)"
     },
     "StTuribius_35": {
         "subject": "Der heilige Turibio von Mogrovejo, Bischof",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Zaña (Peru)",
         "place_of_birth": "Mayorga (Spanien)",
         "place_of_burial": "Lima (Peru)",
@@ -331,7 +331,7 @@
     },
     "StFrancisPaola_37": {
         "subject": "Der heilige Franz von Paola, Einsiedler",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Schloss Plessis-lez-Tours (La Riche, Frankreich)",
         "place_of_birth": "Paola (Cosenza)",
         "place_of_burial": "La Riche, Frankreich (der Bau eines Schreins über dem Grab wurde begonnen, es wurde jedoch nur die Apsis errichtet)",
@@ -341,7 +341,7 @@
     },
     "StIsidore_38": {
         "subject": "Der heilige Isidor, Bischof und Kirchenlehrer",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Sevilla (Spanien)",
         "place_of_birth": "Cartagena (Spanien)",
         "place_of_burial": "Real Colegiata Basílica de San Isidoro (León, Spanien)",
@@ -351,7 +351,7 @@
     },
     "StVincentFerrer_39": {
         "subject": "Heiliger Vinzenz Ferrer, Priester",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Vannes, Frankreich",
         "place_of_birth": "València, Spanien",
         "place_of_burial": "Kathedrale St. Peter in Vannes, Frankreich",
@@ -361,7 +361,7 @@
     },
     "StJohnBaptistDeLaSalle_40": {
         "subject": "Heiliger Johannes Baptist de la Salle, Priester",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Saint Yon bei Rouen, Frankreich",
         "place_of_birth": "Reims, Frankreich",
         "place_of_burial": "Johannes Baptist de La Salle wurde in der Kirche Saint-Sever, einem Stadtteil von Rouen, beigesetzt. 1734 wurde sein Körper nach Saint-Yon in die Kapelle seines Internats überführt, dann 1835 in die der Normalschule von Rouen. In Reims wurde 1898 eine ihm gewidmete Kirche erbaut. 1937 wurden seine Reliquien nach Rom überführt.",
@@ -371,7 +371,7 @@
     },
     "StStanislaus_41": {
         "subject": "Heiliger Stanislaus, Bischof und Märtyrer",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Krakau, Polen",
         "place_of_birth": "Szczepanowice, Polen",
         "place_of_burial": "Kathedrale von Krakau, Polen",
@@ -381,7 +381,7 @@
     },
     "StMartinPope_42": {
         "subject": "Heiliger Martin I., Papst und Märtyrer",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Cherson (heutiges Akherson), Ukraine",
         "place_of_birth": "Todi, Perugia, Italien",
         "place_of_burial": "Martin wurde in Cherson in der Basilika Santa Maria ad Blachernas beigesetzt und wurde aufgrund der vielen Wunder, die seiner Fürsprache zugeschrieben wurden, verehrt. Später wurde sein Leichnam nach Rom überführt und möglicherweise in der Kirche San Martino ai Monti beigesetzt.",
@@ -391,7 +391,7 @@
     },
     "StAnselm_43": {
         "subject": "Heiliger Anselm von Canterbury, Bischof und Kirchenlehrer",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Canterbury, Vereinigtes Königreich",
         "place_of_birth": "Aosta, Italien",
         "place_of_burial": "Anselm starb am 21. April 1109, am Karsamstag, und wurde in der Kathedrale von Canterbury beigesetzt. Seine Überreste wurden jedoch während der religiösen Unruhen unter der Herrschaft von Heinrich VIII. von England exhumiert und gingen verloren.",
@@ -401,7 +401,7 @@
     },
     "StGeorge_44": {
         "subject": "Heiliger Georg, Märtyrer",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Nikomedia (heutiges İzmit), Türkei | oder | Lydda (heutiges Lod) - Tel Aviv, Israel",
         "place_of_birth": "Kappadokien, Türkei",
         "place_of_burial": "Lydda, Tel Aviv (Israel)",
@@ -431,13 +431,13 @@
     },
     "StPeterChanel_47": {
         "subject": "Sankt Peter Chanel, Priester und Märtyrer",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Futuna, Französisch-Ozeanien",
         "place_of_birth": "Montrevel-en-Bresse, Frankreich,",
         "place_of_burial": "Die Überreste des Missionars, die hastig begraben wurden, wurden später von M. Lavaux, dem französischen Kommandanten der Marinebasis in Tahiti, beansprucht und 1842 mit einem Transportmittel der Regierung nach Frankreich zurückgebracht.",
         "notes": "Peter (Montrevel-en-Bresse, Frankreich, 12. Juli 1803 - Futuna, Französisch-Ozeanien, 28. April 1841), Priester der Gesellschaft Mariens (Maristen), war einer der ersten Missionare im westlichen Ozeanien. Nach einigen guten Ergebnissen in der Evangelisierungsarbeit fiel er der Feindseligkeit der örtlichen religiösen Führer zum Opfer. Sein Martyrium trug dazu bei, die Bevölkerung der Insel Futuna dem Glauben näherzubringen.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Lourdes (Frankreich)"
     },
     "StCatherineSiena_48": {
         "subject": "Heilige Katharina von Siena, Jungfrau und Kirchenlehrerin",
@@ -451,7 +451,7 @@
     },
     "StPiusV_49": {
         "subject": "Papst Pius V.",
-        "places": "",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "Rom, Italien",
         "place_of_birth": "Bosco Marengo, Alessandria, Italien",
         "place_of_burial": "Basilika Santa Maria Maggiore, Rom",
@@ -461,13 +461,13 @@
     },
     "StJosephWorker_50": {
         "subject": "Heiliger Josef der Arbeiter",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_death": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Josef, Ehemann der Jungfrau Maria und Ziehvater Jesu, wird in den Evangelien als „Zimmermann“ (Mt 13, 55) vorgestellt. Es war Pius XII., der 1955 dieses Gedenken einführte, um dem weltlichen Feiertag des 1. Mai, der seit dem 19. Jahrhundert in vielen Ländern als symbolisches Datum für die Kämpfe um die Anerkennung der Rechte der Arbeiter verbreitet ist, einen „christlichen Anstrich“ zu geben. Diese liturgische Feier soll die große Würde der menschlichen Arbeit hervorheben, die das Werk des Schöpfers fortsetzt und vom Mensch gewordenen Sohn Gottes geteilt wurde, der in den Evangelien ebenfalls „Zimmermann“ genannt wird (Mk 6, 3). Laborem Exercens ist eine Enzyklika, die von Papst Johannes Paul II. am 14. September 1981 veröffentlicht wurde. Sie behandelt die menschliche Arbeit zum 90. Jahrestag der Rerum Novarum.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italien), Canterbury (Vereinigtes Königreich)"
     },
     "StAthanasius_51": {
         "subject": "Heiliger Athanasius, Bischof und Kirchenlehrer",
@@ -493,7 +493,7 @@
         "subject": "Heilige Nereus und Achilleus, Märtyrer",
         "places": "Rom, Italien",
         "place_of_death": "Rom",
-        "place_of_birth": "",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_burial": "Katakomben von Domitilla",
         "notes": "Nereus und Achilleus, so die Überlieferung, waren zwei Soldaten, die durch das Beispiel der Standhaftigkeit der gefolterten Christen zum Glauben bekehrt und zum Martyrium geführt wurden. Sie wurden auf der Via Ardeatina enthauptet und im Friedhof von Domitilla beigesetzt. Über ihr Martyrium, das wahrscheinlich während der ersten Verfolgung durch Diokletian (303-305) stattfand, schrieb Papst Damasus in der von ihm auf ihrem Grab angebrachten Inschrift. Die beiden Märtyrer, deren Kult seit dem 6. Jahrhundert bezeugt ist, werden am 12. Mai im Martyrologium Hieronymianum (5.-6. Jahrhundert) erwähnt.",
         "patronage": "",
@@ -503,7 +503,7 @@
         "subject": "Heiliger Pancratius, Märtyrer",
         "places": "Rom, Italien",
         "place_of_death": "Rom",
-        "place_of_birth": "",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_burial": "Friedhof von Ottavilla, Rom",
         "notes": "Pancratius (3. oder 4. Jahrhundert), römischer Märtyrer, wurde auf dem Friedhof von Ottavilla an der Via Aurelia beigesetzt, wie die Kulttradition bezeugt, die von Papst Symmachus (498-514) durch den Bau einer Basilika zu seinen Ehren an diesem Ort bestätigt wurde. Der älteste Bericht über das Martyrium beschreibt Pancratius als sehr jung, erst vierzehn Jahre alt. Er wird am 12. Mai im Martyrologium Hieronymianum (5.-6. Jahrhundert) erwähnt.",
         "patronage": "",
@@ -591,29 +591,29 @@
     },
     "Visitation_63": {
         "subject": "Heimsuchung der seligen Jungfrau Maria",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_death": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Maria, heilige Arche des Neuen Bundes, begibt sich eilig zu ihrer Verwandten Elisabeth (vgl. Lk 1, 36), die sie als Mutter ihres Herrn empfängt (vgl. Lk 1, 39-56). „Eine Jungfrau ist von Gott schwanger, und eine Unfruchtbare ist von einer Jungfrau schwanger, der Sohn der Unfruchtbarkeit hüpft vor Freude über die Schwangerschaft der Jungfräulichkeit“: So besingt Ephrem der Syrer das Geheimnis dieses Festes. Durch das Wirken des Geistes begegnen sich in der Begegnung der Mütter die Kinder und die beiden Testamente: Das eine hüpft vor Freude in der Gegenwart des anderen; die Zeiten sind erfüllt. In Maria singt auch die Kirche ihr Magnificat für die großen Dinge, die Gott an ihr vollbracht hat (vgl. Lk 1, 46-55). Der Monat Mai, traditionell mit der Marienverehrung verbunden, findet in diesem Fest einen Abschluss von echtem biblischen Geschmack.",
         "patronage": "",
         "main_shrine": "Kirche der Heimsuchung, Ein Kerem, Israel"
     },
     "StJustinMartyr_64": {
         "subject": "Heiliger Justinus Märtyrer",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Rom, Italien",
         "place_of_birth": "Nablus, Palästina",
         "place_of_burial": "Friedhof Santa Ciriaca (Basilika San Lorenzo fuori le Mura); Kollegiatkirche San Silvestro Papa, Fabrica di Roma (unsichere Identifizierung?)",
         "notes": "Justinus (Flavia Neapolis, heutiges Nablus, Palästina, Anfang 2. Jh. - Rom, 165) war ein leidenschaftlicher Wahrheitssucher. Nachdem er in Christus die wahre Weisheit gefunden hatte, bemühte er sich, sie zu vertiefen und zu lehren, auch mit Hilfe der Philosophie. Er schrieb zwei Apologien des Christentums – in der ersten findet sich die älteste Beschreibung der Eucharistiefeier in ihrer wesentlichen Struktur – und den Dialog mit Tryphon, im Austausch mit dem jüdischen Umfeld. Als Christ zum Tode verurteilt, gab er ein vollständiges Zeugnis für die Wahrheit. Sein Gedenken wird auch von den Orthodoxen am 1. Juni gefeiert.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italien), Canterbury (Vereinigtes Königreich)"
     },
     "StsMarcellinusPeter_65": {
         "subject": "Heilige Marcellinus und Petrus, Märtyrer",
         "places": "Rom, Italien",
         "place_of_death": "Rom, Italien",
-        "place_of_birth": "",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_burial": "Katakombe der Heiligen Marcellinus und Petrus \"Ad duas lauros\", Rom, Italien",
         "notes": "Marcellinus, Priester, und Petrus, Exorzist, wurden in Rom unter Diokletian (303-305) auf der Via Casilina in der Gegend von Tor Pignattara gemartert. Der zukünftige Papst Damasus konnte in seiner Jugend den Bericht über ihren Tod aus dem Zeugnis des Henkers selbst sammeln. Die beiden Märtyrer werden im Römischen Kanon erwähnt und am 2. Juni im Hieronymianischen Martyrologium (5.-6. Jahrhundert) erinnert.",
         "patronage": "",
@@ -623,7 +623,7 @@
         "subject": "Heilige Karl Lwanga und Gefährten, Märtyrer",
         "places": "Namugongo, Uganda",
         "place_of_death": "Kampala, Uganda",
-        "place_of_birth": "",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_burial": "Basilika der Heiligen Märtyrer von Uganda, Namugongo, Uganda",
         "notes": "Karl Lwanga († Kampala, Uganda, 3. Juni 1886), Anführer der Pagen von Mutesa I., König von Buganda (im heutigen Uganda), wurde zusammen mit anderen Würdenträgern des Reiches beschuldigt, wegen seines Glaubens an Christus den Zorn der Geister heraufbeschworen zu haben. Er wurde zusammen mit einundzwanzig anderen Gefährten, meist sehr jungen, zum Scheiterhaufen verurteilt. Zusammen mit diesen ersten katholischen Märtyrern des schwarzen Afrikas gaben auch einige anglikanische Christen ihr Leben für Christus.",
         "patronage": "",
@@ -651,17 +651,17 @@
     },
     "StEphrem_69": {
         "subject": "Sankt Ephrem, Diakon und Kirchenlehrer",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Edessa (heutiges Şanliurfa), Türkei",
         "place_of_birth": "Nisibis (heutiges Nusaybin), Türkei",
-        "place_of_burial": "",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Ephrem (Nisibis, heutiges Nusaybin, Türkei, ca. 306 - Edessa, heutiges Şanliurfa, 9. Juni 373) trug zur Gründung einer theologischen Schule bei, zunächst in seiner Heimat, dann in Edessa, wohin er nach der Übernahme von Nisibis durch die Perser zog. Er komponierte liturgische Hymnen, die reich an Bildern und Rhythmen waren und ihn im gesamten christlichen Osten berühmt machten. Er übte das Diakonat vorbildlich im Unterricht, in der liturgischen Animation und in der Hilfe für Bedürftige aus.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italien), Canterbury (Vereinigtes Königreich)"
     },
     "StBarnabasAp_70": {
         "subject": "Sankt Barnabas, Apostel",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Zypern",
         "place_of_birth": "Zypern",
         "place_of_burial": "Kloster des Heiligen Barnabas, Zypern",
@@ -731,13 +731,13 @@
     },
     "StCyrilAlexandria_77": {
         "subject": "Heiliger Kyrill von Alexandria, Bischof und Kirchenlehrer",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Alexandria, Ägypten",
         "place_of_birth": "Theodosia (heutiges el-Mahalla el-Kubra), Ägypten",
-        "place_of_burial": "",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Kyrill, Bischof von Alexandria in Ägypten von 412 bis 444, verteidigte energisch die Reinheit des Glaubens an Christus. Autor zahlreicher theologischer Schriften, setzte er sich mit Nachdruck für die Anerkennung Marias als Mutter Gottes ein, insbesondere auf dem Konzil von Ephesus (431). Sein Gedenken wird an diesem Tag auch von den Kopten und Byzantinern gefeiert.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italien), Canterbury (Vereinigtes Königreich)"
     },
     "StIrenaeus_78": {
         "subject": "Heiliger Irenäus, Bischof und Märtyrer",
@@ -763,11 +763,11 @@
         "subject": "Heilige Ersten Märtyrer der Römischen Kirche",
         "places": "Rom",
         "place_of_death": "Rom",
-        "place_of_birth": "",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_burial": "Katakomben",
         "notes": "Die Ersten Märtyrer der Kirche von Rom sind «die große Menge» von Christen, die vom Kaiser Nero getötet wurden, um den Verdacht von sich abzulenken, dass er die Stadt (Juli 64) in Brand gesetzt hatte. Wie der heidnische Historiker Tacitus in seinen Annalen bezeugt, erregten diese Unschuldigen, die «raffiniertesten Qualen» ausgesetzt waren, «ein Gefühl des Mitleids, da sie offensichtlich nicht dem öffentlichen Wohl, sondern der Grausamkeit eines Einzelnen geopfert wurden».",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italien), Canterbury (Vereinigtes Königreich)"
     },
     "StThomasAp_81": {
         "subject": "Heiliger Thomas Apostel",
@@ -851,13 +851,13 @@
     },
     "LadyMountCarmel_89": {
         "subject": "Selige Jungfrau Maria vom Berg Karmel",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_death": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Im 12. Jahrhundert zogen sich einige Pilger auf den Berg Karmel in Palästina zurück, wo Elija gegen die Priester Baals für die Treue Israels zum einzigen Herrn kämpfte (vgl. 1 Kön 18, 20-40). Dort bildete sich eine Gemeinschaft von Kontemplativen, die Maria, das Modell der bedingungslosen Hingabe an Gott, verehrten. Diese Gemeinschaft war der Ursprung des Karmelitenordens und vieler Laienbruderschaften, die den Kult der Jungfrau vom Karmel (oder Karmeliter) verbreiteten. Der Karmelitenorden begann ab der zweiten Hälfte des 14. Jahrhunderts in England jedes Jahr am 17. Juli das Fest der Seligen Jungfrau \"vom Berg Karmel\" zu feiern, in Anlehnung an das Datum der letzten Sitzung des Konzils von Lyon (1274), bei der der Orden eine Anerkennung erhielt, die ihn vor der Auflösung bewahrte. Dieses Fest wurde eingeführt, um der Jungfrau Maria für alle dem Orden gewährten Wohltaten zu danken, als Beschützerin und Fürsprecherin. Später, besonders im 16. Jahrhundert, wurde dem Skapulier große Bedeutung beigemessen, das zum unmittelbarsten Grund wurde, um Dankbarkeit und Liebe zur Mutter Gottes zu bezeugen. Daher wurde die Feier auf den 16. Juli vorverlegt, in Anlehnung an den Tag, an dem die Madonna laut Tradition dem heiligen Simon Stock erschien und ihm das Skapulier überreichte (1251). Diese Feier verbreitete sich schnell auf der ganzen Welt, so dass Papst Paul VI. sie in seinem apostolischen Schreiben \"Marialis Cultus\" zu den Festen zählte, \"die ursprünglich von bestimmten religiösen Familien gefeiert wurden, aber heute aufgrund ihrer Verbreitung als wahrhaft kirchlich bezeichnet werden können\".",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italien), Canterbury (Vereinigtes Königreich)"
     },
     "StLawrenceBrindisi_90": {
         "subject": "Heiliger Laurentius von Brindisi, Priester und Kirchenlehrer",
@@ -867,14 +867,14 @@
         "place_of_burial": "Kloster der Verkündigung, Villafranca del Bierzo, Spanien",
         "notes": "Lorenzo (Brindisi, 22. Juli 1559 - Lissabon, Portugal, 22. Juli 1619), Kapuzinermönch, glänzte durch seine Sprachkenntnisse und sein Wissen über die Heilige Schrift. Er war in ganz Europa in der Predigt tätig und oft im diplomatischen Auftrag des Heiligen Stuhls unterwegs. Er pflegte ein intensives spirituelles Leben, insbesondere durch die andächtige und verlängerte Feier der Eucharistie. Die Kirche Santa Maria degli Angeli in Brindisi wurde von dem heiligen Lorenzo da Brindisi auf seinem eigenen Grundstück erbaut.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italien), Canterbury (Vereinigtes Königreich)"
     },
     "StMaryMagdalene_91": {
         "subject": "Heilige Maria Magdalena",
         "places": "Basilika Santa Maria Magdalena in Saint-Maximin-la-Sainte-Baume, Frankreich; Basilika Santa Maria Magdalena in Vezelay, Frankreich; Basilika San Giovanni de' Fiorentini in Rom, Italien",
-        "place_of_death": "",
+        "place_of_death": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_birth": "Magdala, Römisches Palästina",
-        "place_of_burial": "",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Maria von Magdala, von Jesus geheilt, gehört zu den Frauen, die ihm während seines Wirkens dienen (vgl. Lk 8, 2-3). Sie begleitet ihn nach Jerusalem und ist unter dem Kreuz und bei seiner Grablegung anwesend (vgl. Mt 27, 56.61; Joh 19, 25). Am Morgen nach dem Sabbat, als sie weinend am leeren Grab verweilte, erschien er ihr und beauftragte sie, den Jüngern die Botschaft seiner Auferstehung mit den feierlichen Worten zu überbringen: „Geh zu meinen Brüdern und sag ihnen: ‚Ich gehe hinauf zu meinem Vater und eurem Vater, zu meinem Gott und eurem Gott‘“ (Joh 20, 17). Ihr Gedenktag ist im Martyrologium von Beda (8. Jh.) am 22. Juli verzeichnet. Papst Franziskus erhob das Gedenken am 3. Juni 2016 zum Fest, um ihre besondere Rolle als erste Zeugin der Auferstehung und als „Apostelin der Apostel“ (Präfation) zu betonen. Als katholische Heilige wurden die Reliquien von Maria Magdalena in Saint-Maximin-la-Sainte-Baume, Provence, verehrt, was eine solche Menge von Pilgern anzog, dass Mitte des 13. Jahrhunderts eine große Basilika errichtet wurde, eine der berühmtesten gotischen Kirchen im Süden Frankreichs. Die Auffindung der Reliquien wird Karl II. von Anjou, genannt „der Lahme“, zugeschrieben, die 1279 stattfand. Die Reliquien wurden 1295 von Papst Bonifatius VIII. bestätigt und in der Basilika von Saint-Maximin-la-Sainte-Baume aufbewahrt. Obwohl ihre Knochen während der Französischen Revolution verstreut wurden, soll ihr Kopf in ihrem Schrein in einer Höhle in La Sainte-Baume bei Marseille geblieben sein, wo sich die Heilige zurückgezogen haben soll; es wird auch von großen Wundern und Segnungen berichtet, die diejenigen erhielten, die den Schrein besuchten, um Magdalena zu verehren. Der Fuß der Heiligen, der in einem kostbaren Reliquiar aus dem Umfeld von Benvenuto Cellini aufbewahrt wird, wurde jahrhundertelang in Rom in einer Kapelle am Eingang zur Engelsbrücke verehrt, der letzten der großen Reliquien vor dem Grab des heiligen Petrus. Der Fuß wird heute in der Basilika San Giovanni de' Fiorentini aufbewahrt. Weitere Reliquien, bestehend aus Haarsträhnen, Hemdfragmenten und kleinen Knochenresten, werden in der Kollegiatkirche von Atrani (SA) aufbewahrt.",
         "patronage": "",
         "main_shrine": "Basilika Santa Maria Magdalena in Saint-Maximin-la-Sainte-Baume, Frankreich;"
@@ -891,7 +891,7 @@
     },
     "StJamesAp_93": {
         "subject": "Heiliger Jakobus, Apostel",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Jerusalem",
         "place_of_birth": "Bethsaida",
         "place_of_burial": "Basilika von Santiago, Santiago, Spanien",
@@ -901,8 +901,8 @@
     },
     "StMartha_95": {
         "subject": "Heilige Martha",
-        "places": "",
-        "place_of_death": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_death": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_birth": "Bethanien",
         "place_of_burial": "Kirche der Heiligen Martha, Tarascon, Frankreich",
         "notes": "Marta, die Schwester von Maria und „Lazarus von Betanien“ (Joh 11, 1), beherbergt und dient Jesus in ihrem Haus (vgl. Lk 10, 38; Joh 12, 2) und wird von ihm ermahnt, „das eine Notwendige“ zu suchen, den „besseren Teil“ (Lk 10, 42), den ihre Schwester gewählt hat, indem sie seinem Wort lauschte. Zusammen mit Maria ruft sie Jesus, als Lazarus krank wird (vgl. Joh 11, 3), bekennt ihren Glauben an ihn (vgl. Joh 11, 21-27) und ist Zeugin der Auferweckung von Lazarus (vgl. Joh 11, 40-44); sie dient beim Abendessen in Betanien, während ihre Schwester Maria die Füße von Jesus mit kostbarem Nardenöl salbt (vgl. Joh 12, 2-3).",
@@ -911,7 +911,7 @@
     },
     "StPeterChrysologus_96": {
         "subject": "Sankt Petrus Chrysologus, Bischof und Kirchenlehrer",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Ravenna, Italien",
         "place_of_birth": "Imola, Italien",
         "place_of_burial": "Kathedrale San Cassiano in Imola, Italien",
@@ -962,19 +962,19 @@
     "DedicationStMaryMajor_101": {
         "subject": "Weihe der Basilika Santa Maria Maggiore",
         "places": "Rom",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "place_of_death": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Die Basilika Santa Maria Maggiore wurde auf dem Esquilin-Hügel in Rom von Papst Sixtus III. (432-440) errichtet. Sie wurde der Jungfrau Maria gewidmet, die das ökumenische Konzil von Ephesus im Jahr 431 als „Mutter Gottes“ anerkannt hatte. Es war das erste Marienheiligtum im Westen, nach dessen Vorbild unzählige andere Kirchen der Jungfrau gewidmet wurden. Die Weihe der Basilika am 5. August wird im Hieronymianischen Martyrologium (5.-6. Jahrhundert) erwähnt.",
         "patronage": "",
         "main_shrine": "Basilika Santa Maria Maggiore"
     },
     "Transfiguration_102": {
         "subject": "Verklärung des Herrn",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_death": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Auf dem Berg, in Begleitung von Petrus, Jakobus und Johannes, wird Jesus „vor ihnen“ verklärt (Mt 17, 2): Der Schleier fällt von den Augen der Jünger und sie sehen, durch Gottes Geschenk, die göttliche Identität, die aus der Menschlichkeit Christi hervorgeht. Der Menschensohn, der sich auf den Weg zum Kreuz gemacht hat (vgl. Mk 8, 31-34), ist der Sohn Gottes, die endgültige Offenbarung des Vaters. Das Gesetz und die Propheten zielen auf Christus und ihm gibt der Vater Zeugnis: „Das ist mein geliebter Sohn: Hört auf ihn!“ (Mk 9, 7). Eingehüllt in jene Herrlichkeit, die er beim Vater hatte, bevor die Welt war (vgl. Joh 1, 14), antizipiert und präfiguriert Christus sein glorreiches Kommen am letzten Tag, um alle Dinge zu verklären. Es war Papst Calixtus III., der dieses Fest 1457 auf die ganze Kirche ausdehnte.",
         "patronage": "",
         "main_shrine": "Berg Tabor, Israel"
@@ -1011,7 +1011,7 @@
     },
     "StLawrenceDeacon_106": {
         "subject": "Sankt Laurentius, Diakon und Märtyrer",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Kirche San Lorenzo in Panisperna, Rom, Italien",
         "place_of_birth": "Valencia oder Huesca, Spanien",
         "place_of_burial": "Basilika San Lorenzo fuori le Mura, Rom, Italien",
@@ -1043,7 +1043,7 @@
         "subject": "Heilige Pontianus, Papst, und Hippolytus, Priester, Märtyrer",
         "places": "Rom, Italien",
         "place_of_death": "Sardinien, Italien",
-        "place_of_birth": "",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_burial": "Katakomben des Kallistus, Rom, Italien",
         "notes": "Pontianus, Papst (230-235), wurde vom Kaiser Maximinus Thrax in die Minen von Sardinien deportiert und trat von seinem Amt zurück, um die Wahl eines neuen Bischofs zu ermöglichen. Mit ihm wurde auch der römische Priester Hippolytus verurteilt, und beide starben an den erlittenen Misshandlungen. Die Überführung ihrer Überreste nach Rom wird am 13. August von der Depositio martyrum (336) erinnert.",
         "patronage": "",
@@ -1051,7 +1051,7 @@
     },
     "Assumption_110": {
         "subject": "Mariä Aufnahme in den Himmel",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Dormitio-Kirche, Jerusalem",
         "place_of_birth": "Jerusalem / Nazareth",
         "place_of_burial": "Ölberg, Jerusalem",
@@ -1091,7 +1091,7 @@
     },
     "StPiusX_114": {
         "subject": "Papst Pius X.",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Rom, Italien",
         "place_of_birth": "Riese, Treviso, Italien",
         "place_of_burial": "Basilika St. Peter im Vatikan",
@@ -1101,17 +1101,17 @@
     },
     "QueenshipMary_115": {
         "subject": "Selige Jungfrau Maria Königin",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_death": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Im Mittelalter begann man, die Jungfrau Maria als Königin (Salve, Regina) anzurufen und sie vom Sohn gekrönt darzustellen, wodurch ihre volle Teilnahme an der universalen Königsherrschaft Christi ausgedrückt wurde. In diesem liturgischen Gedenken, das 1955 von Pius XII. eingeführt und nach der Reform des Zweiten Vatikanischen Konzils im Lichte des Hochfestes Mariä Himmelfahrt verortet wurde, wird die Jungfrau als Modell und Zeichen der Hoffnung für alle Christen vorgeschlagen, die bereits im Taufe mit der königlichen Würde des Herrn bekleidet sind und berufen sind, ewig mit ihm zu herrschen.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italien), Canterbury (Vereinigtes Königreich)"
     },
     "StRoseLima_116": {
         "subject": "Heilige Rosa von Lima, Jungfrau",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Lima, Peru",
         "place_of_birth": "Lima, Peru",
         "place_of_burial": "Kloster Santo Domingo in Lima, Peru",
@@ -1151,10 +1151,10 @@
     },
     "StMonica_120": {
         "subject": "Heilige Monika",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Ostia, Italien",
         "place_of_birth": "Tagaste (heutiges Souk Ahras), Algerien",
-        "place_of_burial": "",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Monika (Tagaste, heutiges Souk Ahras, Algerien, 331 - Ostia, Rom, 387), geboren in einer christlichen Familie, heiratete den Heiden Patrizio und war die Mutter von Augustinus. Nachdem sie ihrem Sohn die erste christliche Erziehung gegeben hatte, wartete sie jahrelang unter Tränen und Gebeten auf seine Hinwendung zum wahren Glauben. Als Witwe folgte sie Augustinus nach Mailand und konnte sich dort über seine Bekehrung freuen, die in der Taufe gipfelte. Auf der Rückreise nach Afrika erreichte sie die wahre Heimat.",
         "patronage": "",
         "main_shrine": "Basilika Sant'Agostino, Rom, Italien"
@@ -1171,7 +1171,7 @@
     },
     "BeheadingJohnBaptist_122": {
         "subject": "Martyrium des heiligen Johannes des Täufers",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Machaerus, Jordanien",
         "place_of_birth": "Ein Kerem",
         "place_of_burial": "Sebaste, Palästina; der heilige Schädel (ohne Unterkiefer) wird seit dem 12. Jahrhundert in der Basilika San Silvestro in Capite in Rom verehrt; der „heilige Unterkiefer“ befindet sich in Viterbo. Weitere Schädel: einer wird in der Kathedrale von Notre-Dame de Amiens ausgestellt, der 1206 während des vierten Kreuzzugs aus Konstantinopel gebracht wurde; einer in der Großen Moschee von Damaskus. Im Jahr 2012 wurden einige Reliquien untersucht, die in Bulgarien in der Nähe von Sozopol gefunden wurden; die Ergebnisse der Analysen ergaben, dass sie aus dem 1. Jahrhundert stammen, und aufgrund der Inschriften auf der Urne wird angenommen, dass die Reliquien Johannes dem Täufer gehörten.",
@@ -1191,7 +1191,7 @@
     },
     "NativityVirginMary_124": {
         "subject": "Geburt der seligen Jungfrau Maria",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Jerusalem",
         "place_of_birth": "Jerusalem oder Sefforis",
         "place_of_burial": "Ölberg",
@@ -1211,20 +1211,20 @@
     },
     "ExaltationCross_126": {
         "subject": "Kreuzerhöhung",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_death": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Dieses Fest entstand in Jerusalem am Jahrestag der Weihe, die am 14. September 335 stattfand, der beiden Basiliken, die von Konstantin errichtet wurden, eine auf Golgatha (ad Martyrium), die andere beim Heiligen Grab (Anastasis), auch nach dem Fund der Kreuzreliquien durch Helena, die Mutter des Kaisers. Das Kreuz, einst das Instrument der schrecklichsten Qualen, deren Gebrauch Konstantin 320 verbot, ist für den Christen der Baum des Lebens, das Brautbett, der Thron, der Altar des Neuen Bundes: Aus Christus, dem neuen Adam, der am Kreuz eingeschlafen ist, entspringt das wunderbare Sakrament der ganzen Kirche. Das Kreuz ist das Zeichen der Herrschaft Christi über diejenigen, die in der Taufe ihm in Tod und Herrlichkeit gleichgestaltet sind (vgl. Röm 6,5).",
         "patronage": "",
         "main_shrine": "Basilika des Heiligen Grabes, Kalvarienkapelle, Jerusalem"
     },
     "LadySorrows_127": {
         "subject": "Selige Jungfrau Maria von den Schmerzen",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_death": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Die Verehrung der Schmerzensmutter entwickelte sich stark in den letzten Jahrhunderten des Mittelalters, sowohl in der religiösen Poesie (Stabat Mater) als auch in der Darstellung der Pietà. Das liturgische Gedenken wurde 1814 von Pius VII. eingeführt, auch im Hinblick auf die Leiden, die die Kirche in jenen Jahren erlitten hatte. Durch die innige Vereinigung mit dem Sohn erstreckt sich die Mutterschaft Marias auf die gesamte Menschheit, die durch Christus am Kreuz erlöst wurde (vgl. Joh 19, 25-27). Die Verehrung der Schmerzensmutter entwickelte sich ab dem Ende des 11. Jahrhunderts, mit einem ersten Hinweis auf Feiern ihrer 5 Freuden und ihrer fünf Schmerzen, symbolisiert durch 5 Schwerter, die der später eingeführten liturgischen Feier vorausgingen. Als ein Unbekannter das Liber de passione Christi et dolore et planctu Matris eius schrieb, begannen die Kompositionen zum Thema der Klage der Jungfrau. Im 12. Jahrhundert, auch infolge von Erscheinungen der Madonna, nahm dieser Kult zu und das Stabat Mater, das Jacopone da Todi zugeschrieben wird, wurde komponiert. Aber seine Geschichte hat einen genauen Anfang: am 15. August 1233, als sieben adlige Florentiner, die in der Kunst der Kaufleute eingeschrieben waren und Dichter-Schauspieler der Laudesi-Gesellschaft waren, ihre Liebe zu Maria in Lobgesängen vor einem an einer Straßenwand gemalten Bild ausdrückten, wie die Gaukler es mit der geliebten Frau taten. Plötzlich sahen sie das Bild lebendig werden, traurig erscheinen und in Trauerkleidung wegen des brudermörderischen Hasses, der Florenz spaltete. Diese jungen Männer legten die Waffen nieder, zogen Trauerkleidung an, gründeten die Gesellschaft der Schmerzensmutter, genannt die Serviten, und zogen sich zur Buße und zum Gebet auf den Monte Sanario zurück. Im Laufe der Jahrhunderte entstanden verschiedene Ausdrucksformen der Verehrung: die Madonna am Fuße des Kreuzes; die Gesellschaft des Gewandes; die Bruderschaft der Sieben Schmerzen, die 1645 von Rom anerkannt wurde; der Dritte Orden; die Krone der Schmerzensmutter; die verschiedenen weiblichen Kongregationen der Schmerzensmutter usw. Zwischen 1668 und 1690 förderten die Initiativen der Serviten die Verbreitung des Kultes der Madonna der Schmerzen. Am 9. Juni 1668 erlaubte die Heilige Kongregation der Riten dem Orden, die Votivmesse der Sieben Schmerzen der Seligen Jungfrau zu feiern. Im entsprechenden Dekret wurde erwähnt, dass die Serviten das schwarze Gewand in Erinnerung an die Witwenschaft Marias und die Schmerzen, die sie in der Passion des Sohnes erlitten hatte, trugen. Ursprünglich war der Kult der Schmerzensmutter mit der Karwoche verbunden, dann entstand ihr Fest, das ursprünglich am Freitag vor der Karwoche oder nach Ostern gefeiert wurde und schließlich auf den 15. September verlegt wurde, in Verbindung mit dem Fest der Kreuzerhöhung, das am Vortag gefeiert wird. Auch heute noch wird sie an einigen Orten an den alten Daten gefeiert. Der Kult der Schmerzensmutter wird auch durch die Verbreitung der Gebete zur Schmerzensmutter und das Beten des Rosenkranzes der sieben Schmerzen, besonders in der Karwoche, hervorgehoben.",
         "patronage": "",
         "main_shrine": "Kalvarienkapelle, Basilika des Heiligen Grabes, Jerusalem"
@@ -1241,7 +1241,7 @@
     },
     "StRobertBellarmine_129": {
         "subject": "Sankt Robert Bellarmin, Bischof und Doktor",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Rom, Italien",
         "place_of_birth": "Montepulciano, Siena, Italien",
         "place_of_burial": "Kirche von Sant'Ignazio, Rom, Italien",
@@ -1271,7 +1271,7 @@
     },
     "StsCosmasDamian_132": {
         "subject": "Heilige Cosmas und Damian, Märtyrer",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Cyrrhus, Syrien",
         "place_of_birth": "Aegea (heute Yumurtalık), Türkei",
         "place_of_burial": "Der Bischof von Cyrrhus, Theodoret († 458), spricht bereits von der Teilung ihrer Reliquien, die an die zahlreichen Kirchen gesandt wurden, die ihnen zu Ehren errichtet worden waren (in Jerusalem, in Ägypten, in Mesopotamien); Kaiser Justinian I. und Patriarch Proklos widmeten den Heiligen eine Basilika in Konstantinopel, die zu einem Ziel zahlreicher Pilgerfahrten wurde; auch in Rom errichtete Papst Felix IV. (526 - 530) auf dem Gelände des antiken Templum Romuli und der Bibliotheca Pacis, im Tempel des Friedens, eine ihnen geweihte Basilika und förderte ihren Kult im Gegensatz zu dem der heidnischen Castor und Pollux. Die Schädel der Heiligen wurden im 10. Jahrhundert von Rom nach Bremen überführt: 1581 schenkte Maria, die Tochter Karls V., sie der Kirche des Klarissenklosters in Madrid: dieselben Reliquien werden jedoch auch in der Kirche St. Michael in München verehrt, wo sie laut der Inschrift auf dem Reliquiar im 15. Jahrhundert deponiert wurden. Das erste Dokument, das die Anwesenheit der Reliquien der Arme der Heiligen in Bitonto bezeugt, stammt aus dem Jahr 1572.",
@@ -1301,10 +1301,10 @@
     },
     "StsArchangels_135": {
         "subject": "Heilige Michael, Gabriel und Raphael, Erzengel",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_death": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Michele („Wer ist wie Gott?“), der erste der Erzengel, schützt das Volk Gottes (vgl. Dn 10, 13.21; 12, 1) und führt die himmlischen Heerscharen im Kampf gegen den Teufel (Jud 9; vgl. Offb 12, 1-17). Gabriel („Mann Gottes“ oder „Gott ist meine Stärke“) ist der Bote Gottes zu den Menschen: Er erklärt dem Propheten Daniel die Geheimnisse des göttlichen Plans (vgl. Dn 8, 16; 9, 21), kündigt Zacharias die Geburt von Johannes dem Täufer an (vgl. Lk 1, 5-25) und Maria die Geburt von Jesus (vgl. Lk 1, 26-38). Raphael („Gott hat geheilt“) gehört zu den „sieben Engeln, die immer bereit sind, vor die Herrlichkeit des Herrn zu treten“ (Tob 12, 15; vgl. Offb 8, 2), begleitet Tobias auf seiner Reise, lehrt ihn, wie er die Blindheit seines Vaters Tobit heilen und seine Frau Sara vom Dämon Asmodeus befreien kann (vgl. Tob 3, 16-17; 6, 1). In der Eucharistie nimmt die Kirche bereits an der himmlischen Liturgie teil, wo „unzählige Scharen von Engeln“ (IV. Eucharistisches Hochgebet) Gott und dem Lamm zujubeln (vgl. Offb 5, 11-14). Im Hieronymianischen Martyrologium (5.-6. Jh.) wird am 29. September die Weihe der Kirche des Heiligen Michael in Rom an der Via Salaria (5. Jh.) erwähnt.",
         "patronage": "",
         "main_shrine": "Castel Sant'Angelo, Rom; Grotte des Heiligen Michael am Gargano, Italien; Mont Saint-Michel, Frankreich"
@@ -1331,13 +1331,13 @@
     },
     "GuardianAngels_138": {
         "subject": "Heilige Schutzengel",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_death": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Der Kult der Engel geht auf die Anfänge der Kirche zurück und feiert die Zärtlichkeit Gottes, der als Schöpfer aller sichtbaren und unsichtbaren Dinge geistige Wesen ins Leben gerufen hat, Boten, die den Menschen begleiten, sodass „jeder Gläubige einen Engel als Beschützer und Hirten an seiner Seite hat, um ihn zum Leben zu führen“ (Basilius von Caesarea), von der Kindheit (vgl. Mt 18, 10) bis zum Tod (vgl. Lk 16, 22). Bis zum 5. Jahrhundert war kein besonderer Tag den Schutzengeln gewidmet, deren Amt am 29. September fiel, gleichzeitig mit dem Fest des Erzengels Michael. Der Brauch eines besonderen Festes entstand 1411 in Valencia, als ein Fest für den Schutzengel der Stadt eingeführt wurde. Auch in Frankreich gab es eine ähnliche Initiative. Im folgenden Jahrhundert verbreitete sich die Idee von Spanien nach Portugal und dann nach Österreich und in die von den Habsburgern beeinflussten italienischen Regionen. Bereits im 16. Jahrhundert entstanden die ersten „Schutzengelgesellschaften“, die sich zu Beginn des 17. Jahrhunderts unter dem Einfluss der Veröffentlichung verschiedener theologischer Abhandlungen (vgl. untenstehende Bibliographie) und dem Anstoß verschiedener religiöser Orden, darunter beispielsweise die Somaschi-Väter, weit verbreiteten. Der entscheidende Impuls kam von Papst Paul V., der in einer Bulle von 1614 den Mitgliedern der Schutzengelgesellschaften, die der Erzbruderschaft von Rom angeschlossen waren und besondere verdienstvolle Handlungen vollbrachten, spezifische Ablässe zuwies. Parallel zur Verbreitung der Volksfrömmigkeit erfolgte die liturgische Anerkennung des Festes. Im „Römischen Messbuch“ von Papst Pius V. (1570) wurden vier Feste ausdrücklich den Engeln geweiht, nämlich den Schutzengeln (am 2. Oktober), dem Erzengel Gabriel, dem Erzengel Michael und dem Erzengel Raphael. Von Pius V. abgeschafft, wurde das Fest zu Ehren der Schutzengel 1608 von Paul V. wiederhergestellt und auf die gesamte Kirche ausgedehnt. 1670 machte Clemens X. es für die gesamte lateinische Kirche obligatorisch, immer am 2. Oktober.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italien), Canterbury (Vereinigtes Königreich)"
     },
     "StFrancisAssisi_139": {
         "subject": "Heiliger Franziskus von Assisi",
@@ -1361,10 +1361,10 @@
     },
     "LadyRosary_141": {
         "subject": "Selige Jungfrau Maria vom Rosenkranz",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_death": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Die Praxis des Rosenkranzes, verbreitet durch die Dominikaner (15. Jh.), begünstigte die Entstehung vieler Laienbruderschaften. Für diese wurde das liturgische Gedenken der seligen Jungfrau Maria vom Rosenkranz (16. Jh.) am ersten Sonntag im Oktober eingeführt, später (17. Jh.) mit dem Sieg des Christentums gegen den osmanischen Vormarsch (Lepanto, 7. Oktober 1571) verbunden.",
         "patronage": "",
         "main_shrine": "Basilika der seligen Jungfrau Maria vom Rosenkranz, Pompei, Italien"
@@ -1373,7 +1373,7 @@
         "subject": "Heiliger Dionysius, Bischof, und Gefährten, Märtyrer",
         "places": "Paris, Frankreich",
         "place_of_death": "Paris, Frankreich",
-        "place_of_birth": "",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_burial": "Basilika Saint-Denis, Paris, Frankreich",
         "notes": "Dionysius wurde der Überlieferung nach Mitte des 3. Jahrhunderts zusammen mit anderen Missionaren von Rom ausgesandt, um Gallien zu evangelisieren. In Paris, der Stadt, deren erster Bischof er war, besiegelte er seine Mission mit dem Martyrium zusammen mit seinen Gefährten Rusticus und Eleutherius. Die Reliquien wurden in der Basilika gesammelt, die ihm zu Ehren von der heiligen Genoveva (5. Jh.) errichtet wurde. Er wird am 9. Oktober im Hieronymianischen Martyrologium (5.-6. Jh.) erwähnt.",
         "patronage": "",
@@ -1393,7 +1393,7 @@
         "subject": "Heiliger Kallistus I., Papst und Märtyrer",
         "places": "Rom, Italien",
         "place_of_death": "Rom, Italien",
-        "place_of_birth": "",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_burial": "Friedhof von Calepodio, Via Aurelia, Rom",
         "notes": "Kallistus, ein ehemaliger Sklave, war von 218 bis 222 Papst. Er verband seinen Namen mit dem ersten offiziellen Friedhof der Kirche von Rom an der Via Appia. Er litt unter internen Konflikten in der christlichen Gemeinschaft und erlitt das Martyrium in Rom, an dem Ort, an dem die ihm geweihte Kirche steht. Seine Beisetzung auf dem Friedhof von Calepodio an der Via Aurelia wird am 14. Oktober in der Depositio martyrum (336) erinnert.",
         "patronage": "",
@@ -1454,7 +1454,7 @@
         "places": "Midland, Kanada; Auriesville, New York, USA",
         "place_of_death": "Midland, Kanada",
         "place_of_birth": "Condé-sur-Vire, Frankreich",
-        "place_of_burial": "",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Johann (Condé-sur-Vire, Frankreich, 15. März 1594 - Midland, Kanada, 16. März 1649), Jesuitenmissionar unter den Huronen im heutigen Kanada, wurde bei einem Angriff feindlicher Stämme auf die Mission getötet. Wenige Monate später folgte ihm sein Missionsgefährte Isaak Jogues (Orléans, Frankreich, 10. Januar 1607 - Auriesville, USA, 18. Oktober 1649) ins Martyrium; mit ihnen werden sechs weitere Jesuitenmärtyrer erinnert. Sie teilten mit evangelischer Sanftmut das Leben dieser Völker bis zur völligen Hingabe.",
         "patronage": "",
         "main_shrine": "Schrein der Märtyrer, Midland, Ontario, Kanada; Schrein Unserer Lieben Frau der Märtyrer, Auriesville"
@@ -1494,7 +1494,7 @@
         "places": "Rom, Italien; Lanciano, Italien",
         "place_of_death": "Persien",
         "place_of_birth": "Simon: vermutlich Kana; Judas Thaddäus vielleicht Banias",
-        "place_of_burial": "",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Simon wird „der Zelot“ genannt (Lk 6, 15; Apg 1, 13) oder auf Aramäisch „der Kanaanäer“ (Mt 10, 4; Mk 3, 18) wegen seiner wahrscheinlichen Zugehörigkeit zur Gruppe der Zeloten, die sich durch militanten Nationalismus innerhalb des Judentums auszeichneten. Simon gehört zur Gruppe der Zwölf, ebenso wie Judas, Sohn des Jakobus (Lk 6, 16; Apg 1, 13; genannt Thaddäus in Mt 10, 3 und Mk 3, 18), der Jesus die Frage stellt: „Herr, wie kommt es, dass du dich uns offenbaren willst und nicht der Welt?“ Jesus antwortet ihm, dass jeder, der sein Wort annimmt, selbst zur Wohnung Gottes wird (vgl. Joh 14, 22-23). Das gemeinsame Fest dieser beiden Apostel wird am 28. Oktober im Hieronymianischen Martyrologium (5.-6. Jh.) erwähnt.",
         "patronage": "",
         "main_shrine": "Basilika Sankt Peter im Vatikan; Kloster Sankt Augustinus in Lanciano, Italien"
@@ -1521,10 +1521,10 @@
     },
     "DedicationLateran_159": {
         "subject": "Weihe der Lateranbasilika",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_death": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Der Jahrestag der Weihe der Basilika, die vom Kaiser Konstantin erbaut wurde, wurde wahrscheinlich seit dem 12. Jahrhundert am 9. November gefeiert. Zunächst war es ein Fest nur der Stadt Rom. Später wurde die Feier auf alle Kirchen des römischen Ritus ausgedehnt, um die Basilika zu ehren, die als Mutterkirche aller Kirchen der Stadt und der Welt bezeichnet wird, und als Zeichen der Liebe und Einheit zur Kathedra Petri.",
         "patronage": "",
         "main_shrine": "Basilika St. Johannes im Lateran, Rom, Italien"
@@ -1541,7 +1541,7 @@
     },
     "StMartinTours_161": {
         "subject": "Sankt Martin von Tours, Bischof",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Candes-Saint-Martin, Frankreich",
         "place_of_birth": "Sabaria (heutiges Szombathely), Ungarn",
         "place_of_burial": "Basilika des heiligen Martin, Tours, Frankreich",
@@ -1551,7 +1551,7 @@
     },
     "StJosaphat_162": {
         "subject": "Sankt Josaphat, Bischof und Märtyrer",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Wizebsk, Weißrussland",
         "place_of_birth": "Wolodymyr-Wolynskyj, Ukraine",
         "place_of_burial": "Basilika St. Peter im Vatikan",
@@ -1581,7 +1581,7 @@
     },
     "StGertrudeGreat_165": {
         "subject": "Heilige Gertrud, Jungfrau",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Kloster Helfta, Eisleben, Deutschland",
         "place_of_birth": "Eisleben, Deutschland",
         "place_of_burial": "Die einzigen existierenden Reliquien, die der Zerstörung ihres Grabes während der Reformation entgangen sind, werden in Santa Maria di Licodia, innerhalb des Simulakrums in der Chiesa Madre, aufbewahrt.",
@@ -1601,23 +1601,23 @@
     },
     "DedicationStsPeterPaul_167": {
         "subject": "Weihe der Basiliken der Heiligen Petrus und Paulus, Apostel",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_death": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Errichtet an den Orten des Martyriums von Petrus und Paulus – auf dem Vatikanischen Hügel und entlang der Via Ostiense – betonen die beiden Basiliken die unvergleichliche Würde der Kirche von Rom, dank des doppelten Zeugnisses des ersten und des letzten Apostels (vgl. Mt 10, 2; 1 Kor 15, 8). Das für dieses Fest gewählte Datum ist das der Weihe der Basilika St. Peter nach dem Renaissance-Umbau (18. November 1636).",
         "patronage": "",
         "main_shrine": "Basiliken der Heiligen Petrus und Paulus, Rom"
     },
     "PresentationMary_168": {
         "subject": "Darstellung der seligen Jungfrau Maria",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Kirche der Dormitio, Jerusalem",
         "place_of_birth": "Jerusalem / Nazareth",
         "place_of_burial": "Ölberg, Jerusalem",
         "notes": "Die Episode der Darstellung Marias im Alter von drei Jahren im Tempel von Jerusalem wird im Protoevangelium des Jakobus, einem apokryphen Text aus dem 2. Jahrhundert, erzählt. Die Handlung, die nicht durch das Gesetz vorgeschrieben ist, zeigt die totale Zugehörigkeit der Jungfrau zu Gott seit ihrer Kindheit. Es ist eines der wichtigsten Marienfeste der orthodoxen Kirche.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italien), Canterbury (Vereinigtes Königreich)"
     },
     "StCecilia_169": {
         "subject": "Heilige Cäcilia, Jungfrau und Märtyrerin",
@@ -1651,7 +1651,7 @@
     },
     "StAndrewAp_172": {
         "subject": "Heiliger Andreas Apostel",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Patras, Griechenland",
         "place_of_birth": "Bethsaida, Galiläa",
         "place_of_burial": "Kirche des Heiligen Andreas, Patras; Dom von Amalfi, Italien; Petersdom im Vatikan",
@@ -1684,7 +1684,7 @@
         "places": "Bari; Venedig",
         "place_of_death": "Myra (heutiges Demre, Türkei)",
         "place_of_birth": "Patara in Lykien, Türkei",
-        "place_of_burial": "",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Nikolaus (4. Jh.) war Bischof von Myra (heutiges Demre, Türkei). Sein Kult verbreitete sich von Osten auch nach Italien, nachdem seine Reliquien (1087) gestohlen und in Bari in der ihm gewidmeten Basilika aufbewahrt wurden, wo sie noch heute ruhen. In seinem Namen blühten volkstümliche Traditionen und karitative Initiativen im Zusammenhang mit Weihnachten auf. Sein Tod und seine Beisetzung werden in den byzantinischen und koptischen Riten am 6. Dezember gefeiert.",
         "patronage": "",
         "main_shrine": "Basilika San Nicola, Bari, Italien; Kirche San Nicolò al Lido, Venedig"
@@ -1696,18 +1696,18 @@
         "place_of_birth": "Trier, Deutschland",
         "place_of_burial": "Basilika Sant'Ambrogio, Mailand, Italien",
         "notes": "Ambrosius (Trier, Deutschland, ca. 340 - Mailand, 4. April 397), Gouverneur der römischen Provinzen Emilia und Ligurien mit Sitz in Mailand, wurde 374 vom Volk zum Führer der örtlichen Kirche gewählt, die durch den arianischen Häresie zerrissen war. Getauft und zum Bischof geweiht (30. November und 7. Dezember 374), widmete er sich dem intensiven Studium der Schrift und der Kirchenväter, um deren Früchte in seine Predigten und zahlreichen exegetischen, doktrinären und liturgischen Schriften einfließen zu lassen. Durch die Förderung der geweihten Jungfräulichkeit und die Ehrung des Martyriums schlug er ein hohes Ideal des christlichen Lebens vor. Er übte mit Weisheit die pastorale Leitung der Kirche von Mailand aus und förderte auch die Gründung verschiedener Bischofssitze in Norditalien. Er war einer der Hauptakteure beim endgültigen Sieg der nicäischen Orthodoxie über die arianische Häresie. Sein Einfluss war so tiefgreifend, dass die Kirche von Mailand mit ihrer Liturgie als „ambrosianisch“ bezeichnet wird.",
-        "patronage": "",
+        "patronage": "Imker, Bischöfe, Kerzenmacher, Haustiere, Gänse, Honigkuchenbäcker, Lernen, Vieh, Polizisten, Schulkinder, Sicherheitspersonal, Stare und Wachsveredler",
         "main_shrine": "Basilika Sant'Ambrogio, Mailand, Italien"
     },
     "ImmaculateConception_177": {
         "subject": "Unbefleckte Empfängnis der seligen Jungfrau Maria",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_death": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Seit dem 7.-8. Jahrhundert wurde im Osten neun Monate vor dem Fest der Geburt (8. September) ein Fest der „Empfängnis“ Mariens gefeiert. Im Westen wurde dieses Fest ab dem 11. Jahrhundert gefeiert und fügt sich in den Kontext von Advent und Weihnachten ein, indem es die messianische Erwartung und die glorreiche Wiederkunft Christi mit dem bewundernden Gedenken an die Mutter verbindet. In diesem Sinne muss diese liturgische Zeit als besonders geeignet für den Kult der Mutter des Herrn betrachtet werden (vgl. Paul VI., Marialis cultus, 4). Maria ist die Allheilige, frei von jeder Sünde, vom Heiligen Geist geformt und zu einer neuen Kreatur gemacht (vgl. Lumen gentium, 56). Bereits prophetisch in der Verheißung an die Ureltern über den Sieg über die Schlange angedeutet, ist Maria die Jungfrau, die einen Sohn empfangen und gebären wird, dessen Name Emmanuel sein wird. Das Dogma der Unbefleckten Empfängnis wurde 1854 von Pius IX. verkündet.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italien), Canterbury (Vereinigtes Königreich)"
     },
     "StDamasusIPope_178": {
         "subject": "Sankt Damasus I., Papst",
@@ -1761,17 +1761,17 @@
     },
     "StStephenProtomartyr_183": {
         "subject": "Sankt Stephanus, Erzmärtyrer",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Jerusalem",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "notes": "Stephanus, „voll des Glaubens und des Heiligen Geistes“ (Apg 6, 5), wird zusammen mit sechs anderen Männern, „von gutem Ruf, voll des Geistes und der Weisheit“, für den Dienst an der ersten christlichen Gemeinschaft ausgewählt (vgl. Apg 6, 1-6). Im selben Buch der Apostelgeschichte wird erzählt, dass Stephanus (dessen Name „Krone“ bedeutet) zur Steinigung verurteilt wird, die er mit ruhiger Stärke annimmt. Als erster authentischer Zeuge, also Märtyrer Christi, „öffentlich getötet und im Geheimen gekrönt“ (Augustinus), schaut er die Herrlichkeit des Auferstandenen, verkündet seine Göttlichkeit, vertraut ihm seinen Geist an und ahmt ihn nach, indem er für seine Mörder betet (vgl. Apg 7, 55-60). Sein Gedenken am 26. Dezember wird im sogenannten Syrischen Brevier des 4. Jahrhunderts und im Hieronymianischen Martyrologium (5.-6. Jahrhundert) erwähnt. Auch der Römische Kanon erwähnt ihn. Papst Honorius I. schenkte 628 einen Teil der Reliquien des heiligen Stephanus (Unterarm in einer byzantinischen Silberkiste) der Abtei San Colombano in Bobbio. Die Reliquie wurde 1217 der Abtei Santo Stefano in Genua geschenkt. In Venedig wird in der Kirche Santo Stefano der ganze Körper des Heiligen verehrt. In Konstantinopel, Neapel, Besançon, Ravenna… Im Heiligtum von Materdomini in Nocera Superiore wurden einige Reliquien des Heiligen gestohlen. In Rom in der Basilika San Paolo fuori le mura, ein Arm in der Kirche Sant'Ivo alla Sapienza, ein zweiter Arm in der Kirche San Luigi dei Francesi, ein dritter Arm in der Basilika Santa Cecilia in Trastevere; außerdem fast der ganze Körper in der Basilika San Lorenzo fuori le mura. Ein Teil dieser Reliquien wurde nach Menorca auf die Balearen gebracht. Auch die Überführung einiger sterblicher Überreste (Schädelstück) in die Stadt Putignano (Bari) ist bezeugt, eine Überführung, die von der Abtei Monopoli durchgeführt wurde. Die Weihe der zweiten Kathedrale von Concordia Sagittaria ist ebenfalls mit der Auffindung der Reliquien des heiligen Stephanus verbunden. Jetzt wird der Schädel des Heiligen im Dommuseum von Caorle aufbewahrt, wohin ihn wahrscheinlich die Bewohner des nahegelegenen Concordia Sagittaria brachten, da sie in die Lagune von Caorle geflüchtet waren.",
         "patronage": "",
         "main_shrine": "Kloster Santo Stefano, nahe dem Löwentor, Jerusalem; Eglise Saint Etienne bei der École biblique et archéologique française"
     },
     "StJohnEvangelist_184": {
         "subject": "Heiliger Johannes Apostel und Evangelist",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Ephesus",
         "place_of_birth": "Bethsaida",
         "place_of_burial": "An der Stelle in Ephesus, die als Grabstätte von Johannes gilt, wurde im 6. Jahrhundert unter Kaiser Justinian eine Basilika errichtet, von der heute nur noch Spuren erhalten sind.",
@@ -3027,7 +3027,7 @@
         "place_of_burial": "Brindisi, Italien",
         "notes": "Lorenzo (Brindisi, 22. Juli 1559 - Lissabon, Portugal, 22. Juli 1619), Kapuziner, glänzte durch seine Kenntnis der Sprachen und der Heiligen Schrift. Er war in ganz Europa in der Predigt tätig und oft im diplomatischen Auftrag des Heiligen Stuhls unterwegs. Er pflegte ein intensives spirituelles Leben, besonders in der andächtigen und verlängerten Feier der Eucharistie. Die Kirche Santa Maria degli Angeli in Brindisi wurde vom heiligen Lorenzo von Brindisi auf seinem eigenen Grundstück erbaut.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "N/V"
     },
     "StAlphonsusMariaDeLiguori_494": {
         "subject": "Heiliger Alfons Maria von Liguori, Bischof und Arzt",
@@ -3051,7 +3051,7 @@
     },
     "StRobertBellarmine_497": {
         "subject": "Sankt Robert Bellarmin, Bischof und Doktor",
-        "places": "",
+        "places": "N/V",
         "place_of_death": "Rom, Italien",
         "place_of_birth": "Montepulciano, Siena, Italien",
         "place_of_burial": "Kirche Sant'Ignazio, Rom, Italien",
@@ -3202,9 +3202,9 @@
     "LadyLoreto_554": {
         "subject": "Selige Jungfrau Maria von Loreto",
         "places": "Loreto, Italien",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "place_of_death": "N/V",
+        "place_of_birth": "N/V",
+        "place_of_burial": "N/V",
         "notes": "Das Heilige Haus, das von der Tradition als Haus der seligen Jungfrau Maria identifiziert wird, wird in Loreto bewahrt und verehrt. Die hagiografische Erzählung schreibt den Engeln den wundersamen Transport in der Nacht vom 9. auf den 10. Dezember 1294 zu. Um es herum wurde das Heiligtum errichtet, das von zahlreichen Pilgern besucht wird, die ihren Glauben an das für uns Fleisch gewordene Wort Gottes bestätigen möchten.",
         "patronage": "",
         "main_shrine": "Heiligtum des Heiligen Hauses von Loreto, Italien"
@@ -3311,13 +3311,13 @@
     },
     "StThereseChildJesus_567": {
         "subject": "Heilige Theresia vom Kinde Jesu, Jungfrau",
-        "places": "",
+        "places": "N/V",
         "place_of_death": "Lisieux, Frankreich",
         "place_of_birth": "Alençon, Frankreich",
         "place_of_burial": "Karmel von Lisieux, Frankreich",
         "notes": "Therese Martin (Alençon, Frankreich, 2. Januar 1873 - Lisieux, 30. September 1897) trat im Alter von nur fünfzehn Jahren in den Karmel von Lisieux ein. Der intensive Wunsch nach Vollkommenheit, verbunden mit der mystischen Erfahrung der „geistlichen Nacht“, führte sie zur Entdeckung des „kleinen Weges“, als Hingabe in Einfachheit und Vertrauen auf das freie Wirken Gottes. Der große apostolische Eifer, den sie in sich spürte, äußerte sich im Teilen des Leidens derer, die fern von Gott waren, und im unaufhörlichen Gebet für die Missionare des Evangeliums. Die Wahl von Therese zur Patronin der Missionen durch Pius XI. (1927) unterstreicht die Wurzel jeder apostolischen Fruchtbarkeit in der Liebe Gottes, die in Einfachheit des Herzens angenommen wird; ihre Ernennung zur Kirchenlehrerin durch Papst Johannes Paul II. (1998) erinnert an die grundlegende Lehre, die aus den Kleinen nach dem Evangelium hervorgeht.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "N/V"
     },
     "StAmbrose_568": {
         "subject": "Sankt Ambrosius, Bischof und Kirchenlehrer",
@@ -3326,7 +3326,7 @@
         "place_of_birth": "Trier, Deutschland",
         "place_of_burial": "Basilika von Sankt Ambrosius, Mailand, Italien",
         "notes": "Ambrosius (Trier, Deutschland, ca. 340 - Mailand, 4. April 397), Gouverneur der römischen Provinzen Emilia und Ligurien mit Sitz in Mailand, wurde 374 vom Volk zum Leiter der örtlichen Kirche gewählt, die durch die arianische Häresie zerrissen war. Getauft und zum Bischof geweiht (30. November und 7. Dezember 374), widmete er sich dem eifrigen Studium der Schrift und der Kirchenväter, um deren Früchte dann in der Predigt und in zahlreichen Schriften exegetischen, doktrinären und liturgischen Inhalts weiterzugeben. Durch die Förderung der geweihten Jungfräulichkeit und die Ehrung des Martyriums schlug er ein hohes Ideal des christlichen Lebens vor. Er übte mit Weisheit die pastorale Leitung der Kirche von Mailand aus und förderte auch die Gründung verschiedener Bischofssitze in Norditalien. Er war einer der Hauptakteure beim endgültigen Sieg der nicäischen Orthodoxie über die arianische Häresie. Sein Einfluss war so tiefgreifend, dass die Kirche von Mailand mit ihrer Liturgie als „ambrosianisch“ bezeichnet wird.",
-        "patronage": "",
+        "patronage": "Imker, Bischöfe, Kerzenmacher, Haustiere, Gänse, Honigkuchenbäcker, Lernen, Vieh, Polizisten, Schulkinder, Sicherheitspersonal, Stare und Wachsveredler",
         "main_shrine": "Basilika von Sankt Ambrosius, Mailand, Italien"
     },
     "StAugustineHippo_569": {
@@ -3377,7 +3377,7 @@
         "place_of_burial": "St. Georgs-Kathedrale, Istanbul, Türkei",
         "notes": "Gestorben am 1. Januar, das liturgische Gedenken ist am folgenden Tag, dem 2. Januar",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "N/V"
     },
     "StsBasilGreg_574": {
         "subject": "Heiliger Gregor von Nazianz",
@@ -3387,7 +3387,7 @@
         "place_of_burial": "Basilika St. Peter; früher Kirche Santa Maria della Concezione in Campo Marzio, Rom, wo ein Arm aufbewahrt wird",
         "notes": "Gregor (Nazianz, im heutigen Türkei, 329/330 - 390) teilte mit Basilius die kulturelle Bildung und den Wunsch nach einem monastischen Leben. Zum Patriarchen von Konstantinopel gewählt, erlebte er ein kurzes und schwieriges Episkopat, geprägt von vielen Konflikten. Als talentierter Schriftsteller und Redner widmete er sich auch der Poesie. Zusammen mit Basilius trug er wesentlich zur Entwicklung der trinitarischen Lehre bei. Liturgisches Gedenken am 2. Januar",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "N/V"
     },
     "StAthanasius_575": {
         "subject": "Heiliger Athanasius, Bischof und Kirchenlehrer",
@@ -3401,7 +3401,7 @@
     },
     "StIsidore_576": {
         "subject": "Der heilige Isidor, Bischof und Kirchenlehrer",
-        "places": "",
+        "places": "N/V",
         "place_of_death": "Sevilla (Spanien)",
         "place_of_birth": "Cartagena (Spanien)",
         "place_of_burial": "Königliche Kollegiatbasilika San Isidoro (León, Spanien)",
@@ -3411,7 +3411,7 @@
     },
     "StPeterChrysologus_577": {
         "subject": "Sankt Peter Chrysologus, Bischof und Kirchenlehrer",
-        "places": "",
+        "places": "N/V",
         "place_of_death": "Ravenna, Italien",
         "place_of_birth": "Imola, Italien",
         "place_of_burial": "Kathedrale von San Cassiano in Imola, Italien",
@@ -3492,36 +3492,36 @@
     "Guadalupe_555": {
         "subject": "Selige Jungfrau Maria von Guadalupe",
         "places": "Mexiko-Stadt, Mexiko",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "place_of_death": "N/V",
+        "place_of_birth": "N/V",
+        "place_of_burial": "N/V",
         "notes": "Am 9. Dezember 1531 kam Juan Diego, ein aztekischer Indio, einer der ersten zum Christentum bekehrten während der spanischen Eroberung Mexikos, am Fuße des Hügels von Tepeyac (heute in Mexiko-Stadt) an. Hier hatte er die Vision einer „wunderschönen Dame“, die sich als „die heilige Jungfrau Maria, Mutter des wahren Gottes“ vorstellte und bat, dass an diesem Ort eine Kirche errichtet werde, und versprach, allen ihre Liebe und Hilfe zu zeigen. Angesichts des Widerstands des Bischofs drückte die Morenita am 12. Dezember ihr Bild auf Juan Diegos Tilma. Überzeugt von diesem wunderbaren Zeichen errichtete der Bischof 1553 ein erstes Heiligtum, genannt „von Guadalupe“, wie das bereits seit dem 14. Jahrhundert in Spanien bestehende. Das Gebäude wurde wiederholt erweitert, um die immer zahlreicheren Pilger aufzunehmen, die von dem wunderbaren Bild angezogen wurden. Die Madonna von Guadalupe wurde von den Kirchen dieses Kontinents als die „große Missionarin, die das Evangelium nach Amerika brachte“ anerkannt (Dokument von Aparecida, 269).",
         "patronage": "",
         "main_shrine": "Basilika Unserer Lieben Frau von Guadalupe, Mexiko-Stadt, Mexiko"
     },
     "LadyLourdes_585": {
-        "subject": "",
-        "places": "",
+        "subject": "Selige Jungfrau Maria von Lourdes",
+        "places": "Lourdes (Frankreich)",
         "place_of_death": "",
         "place_of_birth": "",
         "place_of_burial": "",
-        "notes": "",
+        "notes": "Letzte Erscheinung der Heiligen Jungfrau Maria an Bernadette. Diese Erinnerung ist mit der mystischen Erfahrung von Bernadette Soubirous verbunden, die zwischen dem 11. Februar und dem 16. Juli 1858 achtzehn Mal in der Grotte von Massabielle bei Lourdes (Frankreich) die Jungfrau Maria traf. Sie erklärte ihr, dass sie die „Unbefleckte Empfängnis“ sei, und rief die Menschen zum Gebet und zur Umkehr auf. Das auf Einladung der Jungfrau errichtete Heiligtum wurde zu einem ständigen Wallfahrtsort, insbesondere für Kranke.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Lourdes (Frankreich)"
     },
     "LadyFatima_586": {
-        "subject": "",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
-        "notes": "",
+        "subject": "Heilige Jungfrau Maria von Fatima",
+        "places": "Fatima (Portugal)",
+        "place_of_death": "Lourdes (Frankreich)",
+        "place_of_birth": "Lourdes (Frankreich)",
+        "place_of_burial": "Lourdes (Frankreich)",
+        "notes": "Letzte Erscheinung der Heiligen Jungfrau Maria an die drei Hirtenkinder. Vom 13. Mai bis zum 13. Oktober 1917 hatten Lucia dos Santos, Francisco und Jacinta Marto – drei Hirtenkinder aus der Gegend – einmal im Monat in der Cova da Iria bei Fatima (Portugal) die Vision der Heiligen Maria. Neben dem Aufruf zum Gebet und zur Buße für das Heil der Welt empfahl die Jungfrau das Rosenkranzgebet und die Verehrung ihres unbefleckten Herzens. Die Madonna von Fatima war mehreren Päpsten, insbesondere Pius XII., dem heiligen Paul VI. – dem ersten Papst, der eine Pilgerreise unternahm (13. Mai 1967) – und dem heiligen Johannes Paul II., der ihren mütterlichen Schutz während des Attentats auf dem Petersplatz am 13. Mai 1981 anerkannte, sehr lieb.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Basilika von Fatima (Portugal)"
     },
     "StAnselm_587": {
         "subject": "Heiliger Anselm von Canterbury, Bischof und Kirchenlehrer",
-        "places": "",
+        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Canterbury, Vereinigtes Königreich",
         "place_of_birth": "Aosta, Italien",
         "place_of_burial": "Anselm starb am 21. April 1109, am Karsamstag, und wurde in der Kathedrale von Canterbury beigesetzt. Seine Überreste wurden jedoch während der religiösen Unruhen unter der Herrschaft von Heinrich VIII. von England exhumiert und gingen verloren.",
@@ -3530,12 +3530,12 @@
         "main_shrine": "Kathedrale von Canterbury, Vereinigtes Königreich"
     },
     "DedicationHolySepulchre_588": {
-        "subject": "",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
-        "notes": "",
-        "main_shrine": ""
+        "subject": "Weihe der Basilika des Heiligen Grabes",
+        "places": "Jerusalem (Israel / Palästina)",
+        "place_of_death": "Lourdes (Frankreich)",
+        "place_of_birth": "Lourdes (Frankreich)",
+        "place_of_burial": "Lourdes (Frankreich)",
+        "notes": "Am 15. Juli 1149 weihten die Kreuzfahrer nach jahrzehntelangen Arbeiten und strukturellen Veränderungen offiziell die neue Basilika zum fünfzigsten Jahrestag der Eroberung Jerusalems.",
+        "main_shrine": "Basilika des Heiligen Grabes in Jerusalem"
     }
 }
