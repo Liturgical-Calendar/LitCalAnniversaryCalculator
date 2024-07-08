@@ -20,7 +20,7 @@ class LitCalendar
             self::UNIVERSAL         => strtoupper(_("universal")),
             self::NATIONAL          => strtoupper(_("national")),
             self::DIOCESAN          => strtoupper(_("diocesan")),
-            self::WIDE_AREA         => strtoupper(_("wide_area"))
+            self::WIDE_AREA         => strtoupper(_("wide area"))
         ];
     }
 

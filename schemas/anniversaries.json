@@ -1,0 +1,89 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "additionalProperties": false,
+    "properties": {
+        "anniversary_events": {
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/AnniversaryEvent"
+            }
+        },
+        "$schema": {
+            "type": "string"
+        }
+    },
+    "definitions": {
+        "AnniversaryEvent": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "event_idx": {
+                    "type": "integer"
+                },
+                "event_key": {
+                    "type": "string"
+                },
+                "anniversary": {
+                    "type": "string"
+                },
+                "event_date": {
+                    "type": ["string", "null"],
+                    "format": "date"
+                },
+                "event_year": {
+                    "type": "integer",
+                    "minimum": -18,
+                    "maximum": 9999
+                },
+                "event_day": {
+                    "type": ["integer", "null"],
+                    "minimum": 1,
+                    "maximum": 31
+                },
+                "event_month": {
+                    "type": ["integer", "null"],
+                    "minimum": 1,
+                    "maximum": 12
+                },
+                "memorial_day": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 31
+                },
+                "memorial_month": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 12
+                },
+                "area": {
+                    "type": ["string", "null"]
+                },
+                "calendar": {
+                    "type": "string",
+                    "enum": [
+                        "universal",
+                        "national",
+                        "diocesan",
+                        "wider_area"
+                    ]
+                },
+                "calendar_area": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "event_idx",
+                "event_key",
+                "anniversary",
+                "event_date",
+                "event_year",
+                "event_day",
+                "event_month",
+                "memorial_day",
+                "memorial_month",
+                "area",
+                "calendar"
+            ]
+        }
+    }
+}

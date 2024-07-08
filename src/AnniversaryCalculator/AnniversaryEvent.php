@@ -6,7 +6,7 @@ use LitCal\AnniversaryCalculator\Enums\AnnivType;
 use LitCal\AnniversaryCalculator\Enums\AreaInterest;
 use LitCal\AnniversaryCalculator\Enums\LitCalendar;
 
-class LitEvent
+class AnniversaryEvent
 {
     public const ANNIVERSARY = [
         "CENTENARY"     => 100,
@@ -32,32 +32,33 @@ class LitEvent
         "PAPER"         => 1
     ];
 
-    public int $idx;
-    public string $tag;
+    public int $event_idx;
+    public string $event_key;
 
     public string $subject;
-    public string $anniversaryType;
-    public string $anniversaryTypeLcl;
-    public ?string $anniversaryName;
-    public ?int $year;
-    public ?int $eventMonth;
-    public ?int $eventDay;
-    public ?int $memorialMonth;
-    public ?int $memorialDay;
+    public string $anniversary_type;
+    public string $anniversary_type_lcl;
+    public ?string $anniversary_name;
+    public ?int $event_year;
+    public ?int $event_month;
+    public ?int $event_day;
+    public ?int $memorial_month;
+    public ?int $memorial_day;
     public string $calendar;
-    public string $calendarLcl;
-    public ?string $placeOfBirth;
-    public ?string $placeOfDeath;
-    public ?string $placeOfBurial;
-    public ?string $mainShrine;
+    public string $calendar_lcl;
+    public string $calendar_area;
+    public ?string $place_of_birth;
+    public ?string $place_of_death;
+    public ?string $place_of_burial;
+    public ?string $main_shrine;
     public ?string $places;
-    public array $areaOfInterest;
-    public array $areaOfInterestLcl;
+    public array $area_of_interest;
+    public array $area_of_interest_lcl;
     public ?string $notes;
     public ?string $anniversary;
-    public ?string $anniversaryLcl;
+    public ?string $anniversary_lcl;
     public ?string $patronage;
-    public int $yearDiff;
+    public int $year_diff;
     private static array $GTXT = [];
 
     public function __construct(array $rowData)
@@ -90,38 +91,41 @@ class LitEvent
         $AnnivType                 = new AnnivType();
         $AreaInterest              = new AreaInterest();
         $LitCalendar               = new LitCalendar();
-        $this->idx                 = $rowData["IDX"];
-        $this->tag                 = $rowData["TAG"];
+        $this->event_idx           = $rowData["event_idx"];
+        $this->event_key           = $rowData["event_key"];
 
-        $this->subject             = $rowData["SUBJECT"];
-        $this->anniversaryType     = $AnnivType->isValid($rowData["ANNIVERSARY"]) ? strtoupper($rowData["ANNIVERSARY"]) : '???';
-        $this->anniversaryTypeLcl  = $AnnivType->i18n($rowData["ANNIVERSARY"]);
-        $this->year                = $rowData["YEAR"];
-        $this->eventMonth          = $rowData["EVENT_MONTH"];
-        $this->eventDay            = $rowData["EVENT_DAY"];
-        $this->memorialMonth       = $rowData["MEMORIAL_MONTH"];
-        $this->memorialDay         = $rowData["MEMORIAL_DAY"];
-        $this->calendar            = $LitCalendar->isValid($rowData["CALENDAR"]) ? strtoupper($rowData["CALENDAR"]) : '???';
-        $this->calendarLcl         = $LitCalendar->i18n($rowData["CALENDAR"]);
-        $this->placeOfBirth        = $rowData["PLACE_OF_BIRTH"];
-        $this->placeOfDeath        = $rowData["PLACE_OF_DEATH"];
-        $this->placeOfBurial       = $rowData["PLACE_OF_BURIAL"];
-        $this->mainShrine          = $rowData["MAIN_SHRINE"];
-        $this->places              = $rowData["PLACES"];
-        $this->areaOfInterest      = $rowData["AREA"] ? array_map('strtoupper', explode(",", $rowData["AREA"])) : [];
-        $this->areaOfInterestLcl   = $rowData["AREA"] ? $AreaInterest->i18n(explode(",", $rowData["AREA"])) : [];
-        $this->notes               = $rowData["NOTES"];
-        $this->patronage           = $rowData["PATRONAGE"];
+        $this->subject               = $rowData["subject"];
+        $this->anniversary_type      = $AnnivType->isValid($rowData["anniversary"]) ? strtoupper($rowData["anniversary"]) : '???';
+        $this->anniversary_type_lcl  = $AnnivType->i18n($rowData["anniversary"]);
+        $this->event_year            = $rowData["event_year"];
+        $this->event_month           = $rowData["event_month"];
+        $this->event_day             = $rowData["event_day"];
+        $this->memorial_month        = $rowData["memorial_month"];
+        $this->memorial_day          = $rowData["memorial_day"];
+        $this->calendar              = $LitCalendar->isValid($rowData["calendar"]) ? strtoupper($rowData["calendar"]) : '???';
+        $this->calendar_lcl          = $LitCalendar->i18n($rowData["calendar"]);
+        if (isset($rowData["calendar_area"])) {
+            $this->calendar_area = $rowData["calendar_area"];
+        }
+        $this->place_of_birth        = $rowData["place_of_birth"];
+        $this->place_of_death        = $rowData["place_of_death"];
+        $this->place_of_burial       = $rowData["place_of_burial"];
+        $this->main_shrine           = $rowData["main_shrine"];
+        $this->places                = $rowData["places"];
+        $this->area_of_interest      = $rowData["area"] ? array_map('strtoupper', explode(",", $rowData["area"])) : [];
+        $this->area_of_interest_lcl  = $rowData["area"] ? $AreaInterest->i18n(explode(",", $rowData["area"])) : [];
+        $this->notes                 = $rowData["notes"];
+        $this->patronage             = $rowData["patronage"];
     }
 
     public function setAnniversary(int $anniv)
     {
         $this->anniversary = array_search($anniv, self::ANNIVERSARY);
-        $this->anniversaryLcl = self::$GTXT[ $this->anniversary ];
+        $this->anniversary_lcl = self::$GTXT[ $this->anniversary ];
     }
 
     public function setYearDiff(int $yearDiff)
     {
-        $this->yearDiff = $yearDiff;
+        $this->year_diff = $yearDiff;
     }
 }

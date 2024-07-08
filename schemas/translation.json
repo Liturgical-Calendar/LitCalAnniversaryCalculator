@@ -1,0 +1,53 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "additionalProperties": false,
+    "patternProperties": {
+        "[A-Z][a-z][A-Za-z]+_[0-9]{1,4}": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "subject": {
+                    "type": "string"
+                },
+                "places": {
+                    "type": "string"
+                },
+                "place_of_birth": {
+                    "type": "string"
+                },
+                "place_of_death": {
+                    "type": "string"
+                },
+                "place_of_burial": {
+                    "type": "string"
+                },
+                "notes": {
+                    "type": "string"
+                },
+                "patronage": {
+                    "type": "string"
+                },
+                "main_shrine": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "subject",
+                "places",
+                "place_of_birth",
+                "place_of_death",
+                "place_of_burial",
+                "notes",
+                "patronage",
+                "main_shrine"
+            ]
+        }
+    },
+    "properties": {
+        "$schema": {
+            "type": "string"
+        }
+    }
+}
+

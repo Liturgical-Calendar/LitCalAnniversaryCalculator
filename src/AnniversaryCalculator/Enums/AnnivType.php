@@ -11,11 +11,24 @@ class AnnivType
     public const DEDICATION = "dedication";
     public const TRANSLATION = "translation";
     public const DOGMA = "dogma";
+    public const APPARITION = "apparition";
+    public const PONTIFICAL_INCORONATION = "pontifical_incoronation";
+    public const ECUMENICAL_COUNCIL = "church_council";
     public const OTHER = "other";
     private array $GTXT;
 
     public static array $values = [
-        "birth", "death", "canonization", "doctor", "dedication", "translation", "dogma", "other"
+        "birth",
+        "death",
+        "canonization",
+        "doctor",
+        "dedication",
+        "translation",
+        "dogma",
+        "apparition",
+        "pontifical_incoronation",
+        "ecumenical_council",
+        "other"
     ];
 
     public function __construct()
@@ -29,6 +42,9 @@ class AnnivType
             /**translators: term "translation" refers to the transferral of the relics of a saint */
             self::TRANSLATION   => strtoupper(_("translation")),
             self::DOGMA         => strtoupper(_("dogma")),
+            self::APPARITION    => strtoupper(_("apparition")),
+            self::PONTIFICAL_INCORONATION => strtoupper(_("pontifical incoronation")),
+            self::ECUMENICAL_COUNCIL => strtoupper(_("ecumenical council")),
             self::OTHER         => strtoupper(_("other"))
         ];
     }

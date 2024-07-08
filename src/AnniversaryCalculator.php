@@ -2,7 +2,7 @@
 
 namespace LitCal;
 
-use LitCal\AnniversaryCalculator\LitEvent;
+use LitCal\AnniversaryCalculator\AnniversaryEvent;
 use LitCal\AnniversaryCalculator\Enums\StatusCode;
 
 class AnniversaryCalculator
@@ -41,8 +41,8 @@ class AnniversaryCalculator
             ? (string) $this->requestHeaders["Accept"]
             : "";
         $this->RESPONSE = new \stdClass();
-        $this->RESPONSE->LitEvents = [];
-        $this->RESPONSE->Messages = [ "Anniversary Calculator instantiated" ];
+        $this->RESPONSE->anniversary_events = [];
+        $this->RESPONSE->messages = [ "Anniversary Calculator instantiated" ];
     }
 
     public function init()
@@ -155,14 +155,14 @@ class AnniversaryCalculator
             );
         if (isset($this->parameterData["RETURN"])) {
             $message = 'Return parameter set to \'%1$s\', response content type set to \'%2$s\'';
-            $this->RESPONSE->Messages[] = sprintf(
+            $this->RESPONSE->messages[] = sprintf(
                 $message,
                 $this->parameterData["RETURN"],
                 self::$responseContentType
             );
         } else {
             $message = 'No return parameter received in the request, response content type set to \'%1$s\'';
-            $this->RESPONSE->Messages[] = sprintf(
+            $this->RESPONSE->messages[] = sprintf(
                 $message,
                 self::$responseContentType
             );
@@ -171,7 +171,7 @@ class AnniversaryCalculator
         if (!isset($this->parameterData["YEAR"]) || $this->parameterData["YEAR"] === "") {
             $this->parameterData["YEAR"] = (int)date("Y");
         }
-        $this->RESPONSE->Messages[] = sprintf(
+        $this->RESPONSE->messages[] = sprintf(
             'Year set to %d',
             $this->parameterData["YEAR"]
         );
@@ -180,7 +180,7 @@ class AnniversaryCalculator
             $this->parameterData["LOCALE"] = \Locale::canonicalize($this->parameterData["LOCALE"]);
             $this->parameterData["BASE_LOCALE"] = \Locale::getPrimaryLanguage($this->parameterData["LOCALE"]);
             if (false === in_array($this->parameterData["BASE_LOCALE"], self::ALLOWED_LOCALES)) {
-                $this->RESPONSE->Messages[] = sprintf(
+                $this->RESPONSE->messages[] = sprintf(
                     'Allowed base locales are: \'%1$s\'; but base locale requested was \'%2$s\'',
                     implode(', ', self::ALLOWED_LOCALES),
                     $this->parameterData["BASE_LOCALE"]
@@ -192,12 +192,12 @@ class AnniversaryCalculator
             $this->parameterData["LOCALE"] = "en_US";
             $this->parameterData["BASE_LOCALE"] = \Locale::getPrimaryLanguage($this->parameterData["LOCALE"]);
         }
-        $this->RESPONSE->Messages[] = sprintf(
+        $this->RESPONSE->messages[] = sprintf(
             'Locale set to \'%1$s\', base locale set to \'%2$s\'',
             $this->parameterData["LOCALE"],
             $this->parameterData["BASE_LOCALE"]
         );
-        $this->RESPONSE->Messages[] = "parameter data initialized";
+        $this->RESPONSE->messages[] = "parameter data initialized";
     }
 
     private static function warningHandler($errno, $errstr)
@@ -221,7 +221,7 @@ class AnniversaryCalculator
         $locale = setlocale(LC_ALL, $localeArray);
         $textdomainpath = bindtextdomain("litcal", "i18n");
         $textdomain = textdomain("litcal");
-        $this->RESPONSE->Messages[] = sprintf(
+        $this->RESPONSE->messages[] = sprintf(
             'PHP setlocale set to locale %1$s, text domain path set to %2$s, text domain set to %3$s',
             $locale ? $locale : 'false',
             $textdomainpath,
@@ -251,131 +251,240 @@ class AnniversaryCalculator
         header($header);
     }
 
+    private function loadSourceData(string $sourceDataFile): object
+    {
+        if (false === file_exists($sourceDataFile)) {
+            $message = sprintf(
+                /**translators: filename */
+                _("Data file %s is missing."),
+                $sourceDataFile
+            );
+            self::produceErrorResponse(StatusCode::SERVICE_UNAVAILABLE, $message);
+        }
+
+        $rawSourceData = file_get_contents($sourceDataFile);
+        $sourceData = json_decode($rawSourceData);
+        if (JSON_ERROR_NONE !== json_last_error()) {
+            $message = sprintf(
+                /**translators: 1. filename, 2. error messag */
+                _('The following error occurred while decoding the base data file %1$s: %2$s.'),
+                $sourceDataFile,
+                json_last_error_msg()
+            );
+            self::produceErrorResponse(StatusCode::SERVICE_UNAVAILABLE, $message);
+        }
+
+        // if all went well
+        $this->RESPONSE->messages[] = sprintf(
+            /**translators: 1. count, 2. filename */
+            _('%1$d events were loaded from the base data file %2$s.'),
+            count($sourceData->anniversary_events),
+            $sourceDataFile
+        );
+        return $sourceData;
+    }
+
+    private function loadTranslationData(string $translationFile): object
+    {
+        if (false === file_exists($translationFile)) {
+            $message = sprintf(
+                /**translators: filename */
+                _("Translation file %s is missing."),
+                $translationFile
+            );
+            self::produceErrorResponse(StatusCode::SERVICE_UNAVAILABLE, $message);
+        }
+
+        $rawTranslationData = file_get_contents($translationFile);
+        $translationData = json_decode($rawTranslationData);
+        if (JSON_ERROR_NONE !== json_last_error()) {
+            $message = sprintf(
+                /**translators: 1. filename, 2. error message */
+                _('The following error occurred decoding the translation file %1$s: %2$s.'),
+                $translationFile,
+                json_last_error_msg()
+            );
+            self::produceErrorResponse(StatusCode::SERVICE_UNAVAILABLE, $message);
+        }
+
+        // if all went well
+        $this->RESPONSE->messages[] = sprintf(
+            /**translators: 1. count, 2. filename */
+            _('%1$d localized data events were loaded from the translation file %2$s.'),
+            count(get_object_vars($translationData)),
+            $translationFile
+        );
+        return $translationData;
+    }
+
+    private function loadEnglishTranslationData(string $englishTranslationFile): object
+    {
+        if (false === file_exists($englishTranslationFile)) {
+            $message = sprintf(
+                /**translators: 1. filename, 2. language */
+                _('The English translation file %1$s, which is needed as a backup for any possible missing strings in the translation for %2$s, is missing.'),
+                $englishTranslationFile,
+                \Locale::getDisplayLanguage($this->parameterData["BASE_LOCALE"], $this->parameterData["BASE_LOCALE"])
+            );
+            self::produceErrorResponse(StatusCode::SERVICE_UNAVAILABLE, $message);
+        }
+        $rawDataEnglish = file_get_contents($englishTranslationFile);
+        $translationDataEnglish = json_decode($rawDataEnglish);
+        if (JSON_ERROR_NONE !== json_last_error()) {
+            $message = sprintf(
+                _('The following error was produced while decoding data from the English tranlsation file %1$s, '
+                    . 'which is needed as a backup for any possible missing strings in the translation for %2$s: %3$s.'),
+                $englishTranslationFile,
+                \Locale::getDisplayLanguage($this->parameterData["BASE_LOCALE"], $this->parameterData["BASE_LOCALE"]),
+                json_last_error_msg()
+            );
+            self::produceErrorResponse(StatusCode::SERVICE_UNAVAILABLE, $message);
+        }
+
+        // if all went well
+        $this->RESPONSE->messages[] = sprintf(
+            /**translators: 1. count, 2. filename, 3. language */
+            _('%1$d data events were loaded from the English translation file %2$s, which is needed as a backup for any possible missing strings in the translation for %3$s.'),
+            count(get_object_vars($translationDataEnglish)),
+            $englishTranslationFile,
+            \Locale::getDisplayLanguage($this->parameterData["BASE_LOCALE"], $this->parameterData["BASE_LOCALE"])
+        );
+        return $translationDataEnglish;
+    }
+
     private function readData()
     {
-        $dataFile = "data/LITURGY__anniversari.json";
+        $sourceDataFile = "data/LITURGY__anniversaries.json";
+        $sourceData = $this->loadSourceData($sourceDataFile);
+
         $translationFile = "data/i18n/{$this->parameterData["BASE_LOCALE"]}.json";
-        if (file_exists($dataFile)) {
-            if (file_exists($translationFile)) {
-                // Use English as a backup for empty strings when a non English locale has been requested
-                $lclDataEnglish = $this->parameterData["BASE_LOCALE"] !== 'en'
-                    ? json_decode(file_get_contents("data/i18n/en.json"))
-                    : null;
-                $lclData = json_decode(file_get_contents($translationFile));
-                $this->RESPONSE->Messages[] = sprintf(
-                    /**translators: 1: count, 2: filename */
-                    _('%1$d localized data events loaded from translation file %2$s'),
-                    count(get_object_vars($lclData)),
-                    $translationFile
-                );
-                $results = json_decode(file_get_contents($dataFile));
-                $this->RESPONSE->Messages[] = sprintf(
-                    /**translators: 1: count, 2: filename */
-                    _('%1$d events loaded from data file %2$s'),
-                    count($results),
-                    $dataFile
-                );
-                $englishResultsUsed = false;
-                foreach ($lclData as $label => $lclRow) {
-                    list( $TAG, $IDX ) = explode("_", $label);
-                    // if we wanted to check for empty strings, and try to merge the English equivalent,
-                    // this would be the place to do it
-                    foreach ($lclRow as $rowLabel => $rowValue) {
-                        if (
-                            gettype($rowValue) === 'string'
-                            && '' === $rowValue
-                            && $lclDataEnglish !== null
-                            && property_exists($lclDataEnglish, $label)
-                            && property_exists($lclDataEnglish->$label, $rowLabel)
-                            && '' !== $lclDataEnglish->$label->$rowLabel
-                        ) {
-                            $englishResultsUsed = true;
-                            $lclRow->$rowLabel = $lclDataEnglish->$label->$rowLabel;
-                        }
-                    }
-                    foreach ($results as $idx => $obj) {
-                        if ($obj->TAG === $TAG && $obj->IDX === intval($IDX)) {
-                            $litEvent = new LitEvent(array_merge((array) $results[$idx], (array) $lclRow));
-                            if ($litEvent->year !== null && $this->isAnniversary($litEvent)) {
-                                $this->RESPONSE->LitEvents[] = $litEvent;
-                            }
-                        }
-                    }
-                    //TODO: we currently sort by liturgical memorial day / month, because that's the data we started with,
-                    //      however it would be more useful, once the data is defined, to sort by event day / month
-                    // This is kind of magic :D
-                    $props = [
-                        "memorialMonth" => 2,
-                        "memorialDay"   => 1
-                    ];
-                    usort($this->RESPONSE->LitEvents, function ($a, $b) use ($props) {
-                        foreach ($props as $key => $val) {
-                            // if event A's memorialMonth is equal to event B's memorialMonth,
-                            // or event B's memorialDay is equal to event B's memorial Day,
-                            // no sorting needed (continue checking the next property)
-                            // if both properties are equal for both events we will wind up returning 0 = no sort
-                            if ($a->$key == $b->$key) {
-                                continue;
-                            }
-                            // if instead event A's memorialMonth is greater than event B's memorialMonth
-                            // we will give the memorialMonth a greater sort weight compared to the memorialDay by returning 2
-                            // if A's memorialMonth is less than B's memorialMonth we return -2
-                            // if A's memorialDay is greater than B's memorialDay we return 1
-                            // if A's memorialDay is less than B's memorialDay we return -1
-                            return $a->$key > $b->$key ? $val : -($val);
-                        }
-                        return 0;
-                    });
-                }
-                $this->RESPONSE->Messages[] = sprintf(
-                    /**translators: count */
-                    _("%d data rows calculated"),
-                    count($this->RESPONSE->LitEvents)
-                );
-                if ($englishResultsUsed) {
-                    $this->RESPONSE->Messages[] = "English results were used for this incomplete translation";
-                }
-            } else {
-                $this->RESPONSE->Messages[] = sprintf(
-                    /**translators: filename */
-                    _("missing translation file: %s"),
-                    $translationFile
-                );
-            }
-        } else {
-            $this->RESPONSE->Messages[] = sprintf(
-                /**translators: filename */
-                _("missing data file: %s"),
-                $dataFile
+        $translationData = $this->loadTranslationData($translationFile);
+
+        $translationEventsCount = count(get_object_vars($translationData));
+        $srcDataEventsCount = count($sourceData->anniversary_events);
+        if ($translationEventsCount !== $srcDataEventsCount) {
+            $message = sprintf(
+                /**translators: 1. filename, 2. count, 3. filename, 4. count */
+                _('Events count from the translation file %1$s (%2$d) does not match the events count from the base data file %3$s (%4$d).'),
+                $translationFile,
+                $translationEventsCount,
+                $sourceDataFile,
+                $srcDataEventsCount
             );
+            self::produceErrorResponse(StatusCode::SERVICE_UNAVAILABLE, $message);
+        }
+
+        // Use English as a backup for empty strings when a non English locale has been requested
+        $translationDataEnglish = null;
+        if ($this->parameterData["BASE_LOCALE"] !== 'en') {
+            $englishTranslationFile = "data/i18n/en.json";
+            $translationDataEnglish = $this->loadEnglishTranslationData($englishTranslationFile);
+            $translationEnglishEventsCount = count(get_object_vars($translationDataEnglish));
+            if ($translationEnglishEventsCount !== $srcDataEventsCount) {
+                $message = sprintf(
+                    /**translators: 1. filename, 2. count, 3. filename, 4. count */
+                    _('Events count from the English translation file %1$s (%2$d) does not match the events count from the base data file %3$s (%4$d).'),
+                    $englishTranslationFile,
+                    $translationEnglishEventsCount,
+                    $sourceDataFile,
+                    $srcDataEventsCount
+                );
+                self::produceErrorResponse(StatusCode::SERVICE_UNAVAILABLE, $message);
+            }
+        }
+
+        $englishResultsUsed = false;
+
+        foreach ($translationData as $label => $rowLocalizedData) {
+            list( $event_key, $event_idx ) = explode("_", $label);
+            foreach ($rowLocalizedData as $rowProperty => $rowValue) {
+                if (
+                    gettype($rowValue) === 'string'
+                    && '' === $rowValue
+                    && $translationDataEnglish !== null
+                    && property_exists($translationDataEnglish, $label)
+                    && property_exists($translationDataEnglish->$label, $rowProperty)
+                    && '' !== $translationDataEnglish->$label->$rowProperty
+                ) {
+                    $englishResultsUsed = true;
+                    $rowLocalizedData->$rowProperty = $translationDataEnglish->$label->$rowProperty;
+                }
+            }
+
+            foreach ($sourceData->anniversary_events as $item) {
+                if ($item->event_key === $event_key && $item->event_idx === intval($event_idx)) {
+                    $anniversaryEvent = new AnniversaryEvent(array_merge((array) $item, (array) $rowLocalizedData));
+                    if ($anniversaryEvent->event_year !== null && $this->isAnniversary($anniversaryEvent)) {
+                        $this->RESPONSE->anniversary_events[] = $anniversaryEvent;
+                    }
+                }
+            }
+            //TODO: we currently sort by liturgical memorial day / month, because that's the data we started with,
+            //      however it would be more useful, once the data is defined, to sort by event day / month
+            // This is kind of magic :D
+            $props = [
+                "memorial_month" => 2,
+                "memorial_day"   => 1
+            ];
+            usort($this->RESPONSE->anniversary_events, function ($a, $b) use ($props) {
+                foreach ($props as $key => $val) {
+                    // if event A's memorialMonth is equal to event B's memorialMonth,
+                    // or event B's memorialDay is equal to event B's memorial Day,
+                    // no sorting needed (continue checking the next property)
+                    // if both properties are equal for both events we will wind up returning 0 = no sort
+                    if ($a->$key == $b->$key) {
+                        continue;
+                    }
+                    // if instead event A's memorialMonth is greater than event B's memorialMonth
+                    // we will give the memorialMonth a greater sort weight compared to the memorialDay by returning 2
+                    // if A's memorialMonth is less than B's memorialMonth we return -2
+                    // if A's memorialDay is greater than B's memorialDay we return 1
+                    // if A's memorialDay is less than B's memorialDay we return -1
+                    return $a->$key > $b->$key ? $val : -($val);
+                }
+                return 0;
+            });
+        }
+
+        $this->RESPONSE->messages[] = sprintf(
+            /**translators: 1. count, 2. year */
+            _('%1$d liturgical anniversary events were calculated for the year %2$d.'),
+            count($this->RESPONSE->anniversary_events),
+            $this->parameterData["YEAR"]
+        );
+        if ($englishResultsUsed) {
+            $this->RESPONSE->messages[] = sprintf(
+                /**translators: 1. language */
+                _('English translation strings were used because the translation for %1$s was incomplete.'),
+                \Locale::getDisplayLanguage($this->parameterData["BASE_LOCALE"], $this->parameterData["BASE_LOCALE"])
+            );
+            $this->RESPONSE->incomplete_translation = true;
         }
     }
 
-
-    private function isAnniversary(LitEvent $litEvent): bool
+    private function isAnniversary(AnniversaryEvent $anniversaryEvent): bool
     {
+        $yearDiff = $this->parameterData["YEAR"] - $anniversaryEvent->event_year;
+        $anniversaryEvent->setYearDiff($yearDiff);
 
-        $yearDiff = $this->parameterData["YEAR"] - $litEvent->year;
-        $litEvent->setYearDiff($yearDiff);
-
-        foreach (LitEvent::ANNIVERSARY as $key => $value) {
+        foreach (array_keys(AnniversaryEvent::ANNIVERSARY) as $key) {
             if (in_array($key, self::RECURRING)) {
                 if ($key === "CENTENARY") {
-                    if ($yearDiff % LitEvent::ANNIVERSARY["CENTENARY"] === 0) {
-                        $litEvent->setAnniversary(LitEvent::ANNIVERSARY["CENTENARY"]);
+                    if ($yearDiff % AnniversaryEvent::ANNIVERSARY["CENTENARY"] === 0) {
+                        $anniversaryEvent->setAnniversary(AnniversaryEvent::ANNIVERSARY["CENTENARY"]);
                         return true;
                     }
                 }
 
                 $lastTwoDigits = substr((string)$yearDiff, -2);
-                if ($key === array_search((int)$lastTwoDigits, LitEvent::ANNIVERSARY)) {
-                    $litEvent->setAnniversary(LitEvent::ANNIVERSARY[$key]);
+                if ($key === array_search((int)$lastTwoDigits, AnniversaryEvent::ANNIVERSARY)) {
+                    $anniversaryEvent->setAnniversary(AnniversaryEvent::ANNIVERSARY[$key]);
                     return true;
                 }
             } else {
-                $arraySearch = array_search($yearDiff, LitEvent::ANNIVERSARY);
+                $arraySearch = array_search($yearDiff, AnniversaryEvent::ANNIVERSARY);
                 if ($arraySearch !== false) {
-                    $litEvent->setAnniversary($yearDiff);
+                    $anniversaryEvent->setAnniversary($yearDiff);
                     return true;
                 }
             }
