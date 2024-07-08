@@ -47,7 +47,7 @@
         "place_of_burial": "Basiliek van San Sebastiano fuori le Mura",
         "notes": "Sterfjaar 250/251, na ongeveer 15 jaar paus te zijn geweest",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "N/B"
     },
     "StSebastian_6": {
         "subject": "Saint Sebastiaan, martelaar",
@@ -77,11 +77,11 @@
         "place_of_burial": "Kathedraal van Valencia (Spanje) / Kathedraal van Lissabon (Portugal) / Acate (Ragusa, Italië; volksgebruik)",
         "notes": "Vincenzo († Valencia, Spanje, 22 januari 304), diaken van de Kerk van Zaragoza, gearresteerd tijdens de vervolging van Diocletianus, stierf in de gevangenis als gevolg van de martelingen die hij had ondergaan. Hij schonk zijn leven aan Christus samen met bisschop Valerio, met wie hij vaak het offer van het altaar had gebracht. Hij wordt herdacht op 22 januari in het Jeronimiaanse Martyrologium (5e-6e eeuw). Met de komst van keizer Constantijn, die zich tot het christendom had bekeerd, werd in Valencia een basiliek ter ere van Sint-Vincentius opgericht en onder het hoofdaltaar werden zijn relieken geplaatst. Echter, na de invasie van de Moren, smokkelden de christenen van Valencia het lichaam van de Martelaar naar Portugal om het in veiligheid te brengen, in een kerkje dat speciaal was gebouwd op de plaats van het huidige Kaap Sint-Vincentius. Na de oorlog tegen de Moren werden de overblijfselen op een schip geladen dat koers zette naar Lissabon. Een devotionele legende vertelt dat tijdens de reis enkele raven op de boeg en de achtersteven van het schip gingen zitten, alsof ze hun vernieuwde bescherming aan de Heilige martelaar wilden tonen, die ze ooit van de wilde dieren hadden gered. Aangekomen in de stad, werd het lichaam neergelegd in de kerk van Santa Giusta en Santa Rufina en na enige tijd, op 15 september 1173, plechtig overgebracht naar de kathedraal. Ter herinnering werden er munten geslagen. https://it.wikipedia.org/wiki/Monastero_di_S%C3%A3o_Vicente_de_Fora",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "N/B"
     },
     "StFrancisDeSales_9": {
         "subject": "Sint Franciscus van Sales, bisschop en kerkleraar",
-        "places": "",
+        "places": "N/B",
         "place_of_death": "Lyon, Frankrijk",
         "place_of_birth": "Sales (Frankrijk)",
         "place_of_burial": "Basiliek van de Visitatie, Annecy, Frankrijk",
@@ -171,10 +171,10 @@
     },
     "StsPaulMiki_19": {
         "subject": "Heilige Paulus Miki en gezellen, martelaren",
-        "places": "",
+        "places": "N/B",
         "place_of_death": "Nagasaki, Japan",
         "place_of_birth": "Kyoto (Japan)",
-        "place_of_burial": "",
+        "place_of_burial": "N/B",
         "notes": "Paolo Miki (Kyoto, Japan, 1556 - Nagasaki, 5 februari 1597), jezuïet, was een slachtoffer van de vervolging die de Japanse keizer beval tegen de christenen, uit angst dat hun toename een gevaar zou vormen voor de autonomie van het land. Samen met hem werden nog vijfentwintig andere christenen gekruisigd, leken en religieuzen (Jezuïeten en Minderbroeders).",
         "patronage": "",
         "main_shrine": "https://it.wikipedia.org/wiki/Basilica_dei_Ventisei_Santi_Martiri_del_Giappone; Museum en monument van de zesentwintig martelaren van Nagasaki https://travel.at-nagasaki.jp/it/s/what-to-see/30/ https://en.wikipedia.org/wiki/Twenty-Six_Martyrs_Museum_and_Monument"
@@ -197,14 +197,14 @@
         "place_of_burial": "Abdij van Montecassino",
         "notes": "Scholastica (Norcia, Perugia, ca. 480 - Montecassino, Frosinone, ca. 547) wordt door de traditie aangeduid als de zus van Sint Benedictus. De Dialogen van Gregorius de Grote beschrijven haar als een maagd die van contemplatie hield, wijs in het stellen van naastenliefde boven elke menselijke regel. Ze wordt herdacht op 10 februari in de Marmeren Kalender van Napels (9e eeuw) en in het Martyrologium van Usuardus (ca. 870).",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "N/B"
     },
     "LadyLourdes_22": {
         "subject": "Heilige Maagd Maria van Lourdes",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Lourdes (Frankrijk)",
+        "place_of_death": "N/B",
+        "place_of_birth": "N/B",
+        "place_of_burial": "N/B",
         "notes": "Deze herinnering is verbonden met de mystieke ervaring van Bernadette Soubirous, die achttien keer, tussen 11 februari en 16 juli 1858, in de grot van Massabielle, bij Lourdes (Frankrijk), de Maagd Maria ontmoette. Zij verklaarde haar de \"Onbevlekte Ontvangenis\" te zijn, en riep de mensen op tot gebed en bekering. Het heiligdom dat op die plaats werd opgericht, op uitnodiging van de Maagd, werd een bestemming voor voortdurende bedevaarten, vooral voor de zieken.",
         "patronage": "",
         "main_shrine": "Lourdes (Frankrijk)"
@@ -221,7 +221,7 @@
     },
     "SevenHolyFounders_24": {
         "subject": "Heilige Zeven Stichters van de Dienaren van de Heilige Maagd Maria",
-        "places": "",
+        "places": "N/B",
         "place_of_death": "Montesenario",
         "place_of_birth": "Florence",
         "place_of_burial": "Florence",
@@ -231,7 +231,7 @@
     },
     "StPeterDamian_25": {
         "subject": "Sint-Pieter Damiani, bisschop en kerkleraar",
-        "places": "",
+        "places": "N/B",
         "place_of_death": "Faenza",
         "place_of_birth": "Ravenna",
         "place_of_burial": "Benedictijnenklooster van Santa Maria Fuori le Mura (Faenza)",
@@ -241,17 +241,17 @@
     },
     "StPolycarp_27": {
         "subject": "Sint-Polycarpus, bisschop en martelaar",
-        "places": "",
+        "places": "N/B",
         "place_of_death": "Smyrna, Turkije",
         "place_of_birth": "Smyrna, Turkije",
-        "place_of_burial": "",
+        "place_of_burial": "N/B",
         "notes": "Polycarpus († 23 februari 167), leerling van de apostel Johannes, was bisschop van Smyrna (Turkije), waar hij de heilige Ignatius ontving op zijn reis naar Rome, de stad waar hij het martelaarschap zou ondergaan. Na een lang episcopaat, op zeer hoge leeftijd, werd Polycarpus veroordeeld tot de brandstapel vanwege zijn geloof. Het was de dag des Heren: terwijl het vuur hem verteerde, verenigde de bisschop zich, biddend, met de eucharistieviering die hij zo vaak met zijn Kerk had gevierd. Het verhaal van zijn passie is het oudste document over de verering van martelaren.",
         "patronage": "",
         "main_shrine": "Kerk van Sint-Polycarpus, Smyrna, Turkije"
     },
     "StCasimir_28": {
         "subject": "Sint-Casimir",
-        "places": "",
+        "places": "N/B",
         "place_of_death": "Hrodna (Wit-Rusland)",
         "place_of_birth": "Krakau",
         "place_of_burial": "Vilnius (Litouwen)",
@@ -261,17 +261,17 @@
     },
     "StsPerpetuaFelicity_29": {
         "subject": "Heilige Perpetua en Felicitas, martelaren",
-        "places": "",
+        "places": "N/B",
         "place_of_death": "Carthago - Tunis (Tunesië)",
         "place_of_birth": "Carthago - Tunis (Tunesië)",
-        "place_of_burial": "",
+        "place_of_burial": "N/B",
         "notes": "In 439 werden de relieken van de heilige Perpetua, bij de nadering van de invasie van de Vandalen, naar Rome overgebracht, en van daaruit, in 843, door de aartsbisschop van Bourges, de heilige Raoul, naar de abdij van Dèvres (of Deuvre), in Saint-Georges-sur-la-Prée. Nadat deze abdij in 903 door de Noormannen werd geplunderd, werden ze overgebracht naar Vierzon, op de plaats van het huidige gemeentehuis. Van daaruit werden ze in 1807 overgebracht naar de kerk van Notre Dame in Vierzon, waar ze sindsdien bewaard zijn gebleven.",
         "patronage": "",
         "main_shrine": "Kerk Notre Dame de Vierzon (Frankrijk)"
     },
     "StJohnGod_30": {
         "subject": "Heilige Johannes van God, religieus",
-        "places": "",
+        "places": "Lourdes (Frankrijk)",
         "place_of_death": "Granada (Spanje)",
         "place_of_birth": "Montemor-o-Novo (Portugal)",
         "place_of_burial": "Granada (Spanje)",
@@ -281,7 +281,7 @@
     },
     "StFrancesRome_31": {
         "subject": "Heilige Francesca Romana, religieus",
-        "places": "",
+        "places": "Lourdes (Frankrijk)",
         "place_of_death": "Rome",
         "place_of_birth": "Rome",
         "place_of_burial": "Rome",
@@ -291,7 +291,7 @@
     },
     "StPatrick_32": {
         "subject": "Heilige Patrick, bisschop",
-        "places": "",
+        "places": "Lourdes (Frankrijk)",
         "place_of_death": "Downpatrick (Noord-Ierland)",
         "place_of_birth": "Old Kilpatrick (Schotland)",
         "place_of_burial": "Downpatrick (Noord-Ierland)",
@@ -301,27 +301,27 @@
     },
     "StCyrilJerusalem_33": {
         "subject": "Sint-Cyrillus van Jeruzalem, bisschop en kerkleraar",
-        "places": "",
+        "places": "Lourdes (Frankrijk)",
         "place_of_death": "Jeruzalem",
         "place_of_birth": "Jeruzalem",
-        "place_of_burial": "",
+        "place_of_burial": "Lourdes (Frankrijk)",
         "notes": "Cyrillus (ca. 315 - 387), bisschop van Jeruzalem, was dramatisch betrokken bij de diepe verdeeldheid van de Kerk in zijn tijd: belasterd en meerdere keren verbannen, bleef hij trouw aan de leer die werd verkondigd op het Concilie van Nicea (325). Aan hem worden enkele beroemde doopcatechesen toegeschreven.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Lourdes (Frankrijk)"
     },
     "StJoseph_34": {
         "subject": "Sint-Jozef, Bruidegom van de Heilige Maagd Maria",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
+        "places": "Lourdes (Frankrijk)",
+        "place_of_death": "Lourdes (Frankrijk)",
+        "place_of_birth": "Lourdes (Frankrijk)",
         "place_of_burial": "Graf van de Rechtvaardige in Nazareth?",
         "notes": "Giuseppe, «rechtvaardige man» (Mt 1, 19), is de echtgenoot van Maria en de vader van Jezus volgens de wet: door Hem de naam te geven (cf. Mt 1, 21.25), maakt hij het mogelijk dat de Zoon van God zich verbindt met de Davidische dynastie, als «zoon van David, zoon van Abraham» (Mt 1, 1; cf. Lc 1, 27). Net als de oude Giuseppe, is ook hij door God aangesteld als beschermer van Zijn huis (cf. Gen 41, 41-43; At 7, 10). Bereid om te gehoorzamen aan het woord van God, geopenbaard in een droom door een engel van de Heer (cf. Mt 1, 20; 2, 13.19-23), neemt hij Maria als zijn vrouw; vlucht naar Egypte (cf. Mt 2, 13) met de heilige Familie; keert terug, zoals aangegeven door de engel, om zich in Nazareth te vestigen, waarmee hij de profetieën in de Schrift vervult (cf. Mt 2, 23). Pius IX verklaarde hem patroon van de universele Kerk (1870).",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Lourdes (Frankrijk)"
     },
     "StTuribius_35": {
         "subject": "Heilige Turibio van Mogrovejo, bisschop",
-        "places": "",
+        "places": "Lourdes (Frankrijk)",
         "place_of_death": "Zaña (Peru)",
         "place_of_birth": "Mayorga (Spanje)",
         "place_of_burial": "Lima (Peru)",
@@ -331,7 +331,7 @@
     },
     "StFrancisPaola_37": {
         "subject": "Heilige Franciscus van Paola, kluizenaar",
-        "places": "",
+        "places": "Lourdes (Frankrijk)",
         "place_of_death": "Kasteel van Plessis-lez-Tours (La Riche, Frankrijk)",
         "place_of_birth": "Paola (Cosenza)",
         "place_of_burial": "La Riche, Frankrijk (de bouw van een heiligdom boven het graf werd begonnen, alleen de apsis is gebouwd)",
@@ -341,7 +341,7 @@
     },
     "StIsidore_38": {
         "subject": "Heilige Isidorus, bisschop en kerkleraar",
-        "places": "",
+        "places": "Lourdes (Frankrijk)",
         "place_of_death": "Sevilla (Spanje)",
         "place_of_birth": "Cartagena (Spanje)",
         "place_of_burial": "Real Colegiata Basílica de San Isidoro (León, Spanje)",
@@ -351,7 +351,7 @@
     },
     "StVincentFerrer_39": {
         "subject": "Sint Vincent Ferrer, priester",
-        "places": "",
+        "places": "Lourdes (Frankrijk)",
         "place_of_death": "Vannes, Frankrijk",
         "place_of_birth": "València, Spanje",
         "place_of_burial": "Kathedraal van Sint Pieter in Vannes, Frankrijk",
@@ -361,7 +361,7 @@
     },
     "StJohnBaptistDeLaSalle_40": {
         "subject": "Sint Johannes Baptist de la Salle, priester",
-        "places": "",
+        "places": "Lourdes (Frankrijk)",
         "place_of_death": "Saint Yon bij Rouen, Frankrijk",
         "place_of_birth": "Reims, Frankrijk",
         "place_of_burial": "Johannes Baptist de La Salle werd begraven in de kerk van Saint-Sever, een wijk van Rouen. In 1734 werd zijn lichaam teruggebracht naar Saint-Yon in de kapel van zijn pensionaat, en in 1835 werd het overgebracht naar die van de Normale School van Rouen. In Reims werd in 1898 een kerk aan hem gewijd. In 1937 werden zijn relieken overgebracht naar Rome.",
@@ -371,7 +371,7 @@
     },
     "StStanislaus_41": {
         "subject": "Sint Stanislaus, bisschop en martelaar",
-        "places": "",
+        "places": "Lourdes (Frankrijk)",
         "place_of_death": "Krakau, Polen",
         "place_of_birth": "Szczepanowice, Polen",
         "place_of_burial": "Kathedraal van Krakau, Polen",
@@ -381,7 +381,7 @@
     },
     "StMartinPope_42": {
         "subject": "Sint Martinus I, paus en martelaar",
-        "places": "",
+        "places": "Lourdes (Frankrijk)",
         "place_of_death": "Cherson (huidige Akherson), Oekraïne",
         "place_of_birth": "Todi, Perugia, Italië",
         "place_of_burial": "Martinus werd begraven in Cherson in de basiliek van Santa Maria ad Blachernas, waar hij werd vereerd vanwege de vele wonderen die aan zijn voorspraak werden toegeschreven. Later werd zijn lichaam overgebracht naar Rome en mogelijk begraven in de kerk van San Martino ai Monti.",
@@ -391,7 +391,7 @@
     },
     "StAnselm_43": {
         "subject": "Sint Anselmus van Canterbury, bisschop en kerkleraar",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Canterbury, Verenigd Koninkrijk",
         "place_of_birth": "Aosta, Italië",
         "place_of_burial": "Anselmus stierf op 21 april 1109, op Witte Woensdag, en werd begraven in de kathedraal van Canterbury. Zijn stoffelijke resten werden echter opgegraven tijdens de religieuze onrusten die plaatsvonden tijdens het bewind van Hendrik VIII van Engeland en raakten toen verloren.",
@@ -401,7 +401,7 @@
     },
     "StGeorge_44": {
         "subject": "Sint-Joris, martelaar",
-        "places": "",
+        "places": "Lourdes (Frankrijk)",
         "place_of_death": "Nicomedië (huidig İzmit), Turkije | of | Lydda (huidig Lod) - Tel Aviv, Israël",
         "place_of_birth": "Cappadocië, Turkije",
         "place_of_burial": "Lydda, Tel Aviv (Israël)",
@@ -431,13 +431,13 @@
     },
     "StPeterChanel_47": {
         "subject": "Sint Peter Chanel, priester en martelaar",
-        "places": "",
+        "places": "Lourdes (Frankrijk)",
         "place_of_death": "Futuna, Frans Oceanië",
         "place_of_birth": "Montrevel-en-Bresse, Frankrijk,",
         "place_of_burial": "De resten van de missionaris, haastig begraven, werden later opgeëist door M. Lavaux, Franse commandant van het marine-station van Tahiti, en in 1842 met een transportmiddel van de regering naar Frankrijk teruggebracht.",
         "notes": "Pieter (Montrevel-en-Bresse, Frankrijk, 12 juli 1803 - Futuna, Frans Oceanië, 28 april 1841), priester van de Sociëteit van Maria (Maristen), was een van de eerste missionarissen in West-Oceanië. Na enkele goede resultaten in het evangelisatiewerk, viel hij ten prooi aan de vijandigheid van de lokale religieuze leiders. Zijn martelaarschap droeg bij aan het dichter bij het geloof brengen van de bevolking van het eiland Futuna.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Lourdes (Frankrijk)"
     },
     "StCatherineSiena_48": {
         "subject": "Sint Catharina van Siena, maagd en kerkleraar",
@@ -451,7 +451,7 @@
     },
     "StPiusV_49": {
         "subject": "Paus Pius V",
-        "places": "",
+        "places": "Lourdes (Frankrijk)",
         "place_of_death": "Rome, Italië",
         "place_of_birth": "Bosco Marengo, Alessandria, Italië",
         "place_of_burial": "Basiliek van Santa Maria Maggiore, Rome",
@@ -461,13 +461,13 @@
     },
     "StJosephWorker_50": {
         "subject": "Sint-Jozef Arbeider",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_death": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "Jozef, echtgenoot van de Maagd Maria en pleegvader van Jezus, wordt in de Evangeliën voorgesteld als \"timmerman\" (Mt 13, 55). Het was Pius XII die in 1955 deze herdenking invoerde om een \"christelijke zegen\" te geven aan de seculiere viering van 1 mei, die sinds de 19e eeuw in veel landen wordt gevierd als symbolische datum voor de strijd om erkenning van de rechten van arbeiders. Deze liturgische viering wil de grote waardigheid van menselijk werk benadrukken, dat het werk van de Schepper voortzet en werd gedeeld door de Zoon van God die mens werd, ook wel \"timmerman\" genoemd in de Evangeliën (Mc 6, 3). Laborem Exercens is een encycliek gepubliceerd door paus Johannes Paulus II op 14 september 1981. Het behandelt menselijk werk op de 90e verjaardag van de Rerum Novarum.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)"
     },
     "StAthanasius_51": {
         "subject": "Heilige Athanasius, bisschop en kerkleraar",
@@ -493,7 +493,7 @@
         "subject": "Heiligen Nereus en Achilleus, martelaren",
         "places": "Rome, Italië",
         "place_of_death": "Rome",
-        "place_of_birth": "",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_burial": "Catacomben van Domitilla",
         "notes": "Nereus en Achilleus, volgens de traditie, waren twee soldaten die door het voorbeeld van de kracht van gemartelde christenen tot het geloof werden bekeerd en naar het martelaarschap werden geleid. Onthoofd op de Via Ardeatina, werden ze begraven op de begraafplaats van Domitilla. Hun martelaarschap, waarschijnlijk tijdens de eerste vervolging van Diocletianus (303-305), wordt beschreven door paus Damasus in het opschrift dat hij op hun graf plaatste. De twee martelaren, wiens cultus al sinds de 6e eeuw wordt bevestigd, worden op 12 mei herdacht in het Martyrologium Hieronymianum (5e-6e eeuw).",
         "patronage": "",
@@ -503,7 +503,7 @@
         "subject": "Sint Pancratius, martelaar",
         "places": "Rome, Italië",
         "place_of_death": "Rome",
-        "place_of_birth": "",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_burial": "Begraafplaats van Ottavilla, Rome",
         "notes": "Pancratius (3e of 4e eeuw), Romeins martelaar, werd begraven op de begraafplaats van Ottavilla, aan de Via Aurelia, zoals bevestigd door de cultustraditie, bevestigd door paus Symmachus (498-514) met de oprichting van een basiliek ter ere van hem op die plaats. Het oudste verslag van het martelaarschap beschrijft Pancratius als zeer jong, slechts veertien jaar oud. Hij wordt op 12 mei herdacht in het Martyrologium Hieronymianum (5e-6e eeuw).",
         "patronage": "",
@@ -591,29 +591,29 @@
     },
     "Visitation_63": {
         "subject": "Visitatie van de Heilige Maagd Maria",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_death": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "Maria, heilige ark van het Nieuwe Verbond, gaat snel naar haar familielid Elisabetta (cf. Lc 1, 36) die haar verwelkomt als de Moeder van haar Heer (cf. Lc 1, 39-56). «Een maagd is zwanger van God, en een onvruchtbare is zwanger van een maagd, het kind van de onvruchtbaarheid springt op bij de zwangerschap van de maagd»: zo bezingt Efrem de Syriër het mysterie van dit feest. Door de werking van de Geest ontmoeten de kinderen elkaar in de ontmoeting van de moeders en de twee Testamenten: de een springt van vreugde in de aanwezigheid van de ander; de tijden zijn vervuld. In Maria zingt ook de Kerk haar Magnificat voor de grote dingen die God in haar heeft gedaan (cf. Lc 1, 46-55). De maand mei, traditioneel verbonden met de Mariadevotie, vindt in dit feest een afsluiting met een duidelijke bijbelse smaak.",
         "patronage": "",
         "main_shrine": "Kerk van de Visitatie, Ein Kerem, Israël"
     },
     "StJustinMartyr_64": {
         "subject": "Heilige Justinus martelaar",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Rome, Italië",
         "place_of_birth": "Nablus, Palestina",
         "place_of_burial": "Begraafplaats van Santa Ciriaca (Basiliek van San Lorenzo buiten de Muren); Collegiale Kerk van Paus San Silvestro, Fabrica di Roma (onzekere identificatie?)",
         "notes": "Justinus (Flavia Neapolis, het huidige Nablus, Palestina, begin 2e eeuw - Rome, 165) was een gepassioneerde zoeker naar de waarheid. Nadat hij in Christus de ware wijsheid had gevonden, zette hij zich in om deze te verdiepen en te onderwijzen, ook met behulp van de filosofie. Hij schreef twee Apologieën van het christendom – in de eerste waarvan de oudste beschrijving van de eucharistieviering, in zijn essentiële structuur, te vinden is – en de Dialoog met Trypho, in confrontatie met de Joodse omgeving. Veroordeeld tot de dood als christen, gaf hij volledige getuigenis van de Waarheid. Zijn nagedachtenis wordt ook op 1 juni door de Orthodoxen gevierd.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)"
     },
     "StsMarcellinusPeter_65": {
         "subject": "Heiligen Marcellinus en Petrus, martelaren",
         "places": "Rome, Italië",
         "place_of_death": "Rome, Italië",
-        "place_of_birth": "",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_burial": "Catacombe van de Heiligen Marcellinus en Petrus \"Ad duas lauros\", Rome, Italië",
         "notes": "Marcellinus, priester, en Petrus, exorcist, werden gemarteld in Rome onder Diocletianus (303-305), aan de Via Casilina, in de buurt van Tor Pignattara. De toekomstige paus Damasus kon in zijn jeugd het verhaal van hun dood verzamelen uit de getuigenis van dezelfde beul. De twee martelaren worden genoemd in het Romeinse Canon en herdacht op 2 juni door het Martyrologium Hieronymianum (5e-6e eeuw).",
         "patronage": "",
@@ -623,7 +623,7 @@
         "subject": "Heilige Charles Lwanga en gezellen, martelaren",
         "places": "Namugongo, Oeganda",
         "place_of_death": "Kampala, Oeganda",
-        "place_of_birth": "",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_burial": "Basiliek van de Heilige Martelaren van Oeganda, Namugongo, Oeganda",
         "notes": "Charles Lwanga († Kampala, Oeganda, 3 juni 1886), hoofd van de pages van Mutesa I, koning van Buganda (in het huidige Oeganda), werd samen met andere hoogwaardigheidsbekleders van het koninkrijk beschuldigd van het aantrekken van de wraak van de geesten vanwege zijn geloof in Christus. Hij werd veroordeeld tot de brandstapel samen met eenentwintig andere metgezellen, meestal zeer jong. Samen met deze eerste katholieke martelaren van zwart Afrika, gaven ook enkele anglicaanse christenen hun leven voor Christus.",
         "patronage": "",
@@ -651,17 +651,17 @@
     },
     "StEphrem_69": {
         "subject": "Heilige Efrem, diaken en leraar",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Edessa (huidige Şanliurfa), Turkije",
         "place_of_birth": "Nisibis (huidige Nusaybin), Turkije",
-        "place_of_burial": "",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "Efrem (Nisibis, huidige Nusaybin, Turkije, ca. 306 - Edessa, huidige Şanliurfa, 9 juni 373) droeg bij aan de oprichting van een theologische school, eerst in zijn vaderland, daarna in Edessa, waar hij naartoe verhuisde na de overname van Nisibis door de Perzen. Hij componeerde liturgische hymnen vol beelden en ritmes die hem beroemd maakten in het hele christelijke Oosten. Hij vervulde het diakenambt voorbeeldig in onderwijs, liturgische animatie en hulp aan de behoeftigen.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)"
     },
     "StBarnabasAp_70": {
         "subject": "Heilige Barnabas, apostel",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Cyprus",
         "place_of_birth": "Cyprus",
         "place_of_burial": "Klooster van de Heilige Barnabas, Cyprus",
@@ -731,13 +731,13 @@
     },
     "StCyrilAlexandria_77": {
         "subject": "Sint Cyrillus van Alexandrië, bisschop en kerkleraar",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Alexandrië, Egypte",
         "place_of_birth": "Theodosia (huidige el-Mahalla el-Kubra), Egypte",
-        "place_of_burial": "",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "Cyrillus, bisschop van Alexandrië in Egypte van 412 tot 444, verdedigde krachtig de zuiverheid van het geloof in Christus. Auteur van talrijke theologische geschriften, pleitte hij met vastberadenheid voor de erkenning van Maria als Moeder van God, vooral op het Concilie van Efeze (431). Zijn nagedachtenis wordt op deze dag ook gevierd door de Kopten en de Byzantijnen.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)"
     },
     "StIrenaeus_78": {
         "subject": "Sint Irenaeus, bisschop en martelaar",
@@ -763,11 +763,11 @@
         "subject": "Heilige Eerste Martelaren van de Kerk van Rome",
         "places": "Rome",
         "place_of_death": "Rome",
-        "place_of_birth": "",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_burial": "Catacomben",
         "notes": "De Eerste Martelaren van de Kerk van Rome zijn «de grote menigte» christenen die door keizer Nero werden gedood in een poging om de verdenking van de brand van de stad (juli 64) van zichzelf af te leiden. Zoals de heidense historicus Tacitus in zijn Annalen getuigt, wekten deze onschuldigen, onderworpen aan «zeer verfijnde martelingen», «een gevoel van medelijden op, aangezien ze duidelijk niet voor het algemeen welzijn, maar voor de wreedheid van een enkeling werden geofferd».",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)"
     },
     "StThomasAp_81": {
         "subject": "Sint Thomas Apostel",
@@ -851,13 +851,13 @@
     },
     "LadyMountCarmel_89": {
         "subject": "Heilige Maagd Maria van de Berg Karmel",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_death": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "In de twaalfde eeuw trokken enkele pelgrims zich terug op de berg Karmel in Palestina, waar Elia had gestreden tegen de priesters van Baäl voor de trouw van Israël aan de enige Heer (cf. 1 Koningen 18, 20-40). Daar vormde zich een gemeenschap van contemplatieven die toegewijd waren aan Maria, het model van onvoorwaardelijke toewijding aan God. Die gemeenschap was de oorsprong van de Karmelietenorde en vele lekenbroederschappen die de verering van de Maagd van de Karmel (of van de Karmel) verspreidden. De Karmelietenorde begon het feest gewijd aan de Heilige Maagd \"van de Berg Karmel\" te vieren in Engeland vanaf de tweede helft van de 14e eeuw, elke 17 juli, met verwijzing naar de datum van de laatste zitting van het Concilie van Lyon (1274), waarin de Orde een goedkeuring ontving die haar van opheffing redde; het werd ingesteld om de Maagd Maria te bedanken voor alle voordelen die aan de Orde werden verleend, als beschermster en advocate. Later, vooral in de 16e eeuw, werd het Scapulier van primair belang, dat de meest directe reden werd om dank te zeggen en liefde voor de Moeder van God te bevestigen. Daarom werd de viering vervroegd naar 16 juli, met verwijzing naar de dag waarop, volgens de traditie, de Madonna aan Sint Simon Stock zou zijn verschenen en hem het Scapulier zou hebben overhandigd (1251).[18] Deze herdenking zou zich snel over de hele wereld verspreiden, tot het punt dat - in de apostolische aansporing \"Marialis Cultus\" - paus Paulus VI het opnam onder de feesten \"oorspronkelijk gevierd door bepaalde religieuze families, maar die vandaag, vanwege de bereikte verspreiding, echt kerkelijk kunnen worden genoemd\".",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)"
     },
     "StLawrenceBrindisi_90": {
         "subject": "Sint Laurentius van Brindisi, priester en doctor",
@@ -867,14 +867,14 @@
         "place_of_burial": "Klooster van de Annunciatie, Villafranca del Bierzo, Spanje",
         "notes": "Lorenzo (Brindisi, 22 juli 1559 - Lissabon, Portugal, 22 juli 1619), kapucijner monnik, blonk uit door zijn kennis van talen en de Heilige Schrift. Hij was betrokken bij een uitgebreide predikingsactiviteit door heel Europa en werd vaak belast met diplomatieke missies namens de Heilige Stoel. Hij cultiveerde een vurig spiritueel leven, vooral in de toegewijde en langdurige viering van de Eucharistie. De kerk van Santa Maria degli Angeli in Brindisi werd gebouwd door de heilige Lorenzo van Brindisi op zijn eigen grond.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)"
     },
     "StMaryMagdalene_91": {
         "subject": "Santa Maria Magdalena",
         "places": "Basiliek van Santa Maria Magdalena in Saint-Maximin-la-Sainte-Baume, Frankrijk; Basiliek van Santa Maria Magdalena in Vezelay, Frankrijk; Basiliek van San Giovanni de' Fiorentini in Rome, Italië",
-        "place_of_death": "",
+        "place_of_death": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_birth": "Magdala, Romeins Palestina",
-        "place_of_burial": "",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "Maria van Magdala, genezen door Jezus, is een van de vrouwen die hem dienen tijdens zijn bediening (cf. Lc 8, 2-3). Ze gaat met hem naar Jeruzalem en is aanwezig onder het kruis en bij zijn begrafenis (cf. Mt 27, 56.61; Joh 19, 25). De ochtend na de sabbat, terwijl ze huilend bij het lege graf stond, werd ze door hem bezocht en kreeg ze de opdracht om naar de discipelen te gaan en de aankondiging van zijn opstanding te brengen met de plechtige woorden: «Ga naar mijn broeders en zeg hun: “Ik stijg op naar mijn Vader en jullie Vader, mijn God en jullie God”» (Joh 20, 17). Haar gedenkdag is op 22 juli in het Martyrologium van Beda (8e eeuw). Paus Franciscus heeft haar gedenkdag op 3 juni 2016 verheven tot een feestdag om haar bijzondere rol als eerste getuige van de opstanding en als «apostel van de apostelen» te benadrukken (Prefatie). Als katholieke heilige werden de relieken van Maria Magdalena vereerd in Saint-Maximin-la-Sainte-Baume, Provence, wat zoveel pelgrims aantrok dat er halverwege de 13e eeuw een grote basiliek werd gebouwd, een van de beroemdste gotische kerken in het zuiden van Frankrijk. De ontdekking van de relieken wordt toegeschreven aan Karel II van Anjou, bijgenaamd \"de kreupele\", in 1279. De relieken werden in 1295 gevalideerd door paus Bonifatius VIII en bewaard in de basiliek van Saint-Maximin-la-Sainte-Baume. Hoewel haar beenderen tijdens de Franse Revolutie werden verspreid, werd gezegd dat haar hoofd in haar schrijn in een grot in La Sainte-Baume nabij Marseille bleef, waar de heilige zich zou hebben teruggetrokken; er wordt ook verteld over grote wonderen en zegeningen die werden ontvangen door degenen die naar de schrijn kwamen om Magdalena te vereren. De voet van de heilige, bewaard in een kostbare reliekhouder uit de kring van Benvenuto Cellini, werd eeuwenlang vereerd in Rome in een kapel bij de ingang van de Ponte Sant'Angelo, de laatste van de grote relieken voordat men het graf van Sint-Pieter bereikte. De voet wordt nu bewaard in de Basiliek van San Giovanni de' Fiorentini. Andere relieken, bestaande uit haarlokken, stukjes kleding en kleine botresten, worden bewaard in de Collegiale Kerk van Atrani (SA).",
         "patronage": "",
         "main_shrine": "Basiliek van Santa Maria Magdalena in Saint-Maximin-la-Sainte-Baume, Frankrijk;"
@@ -891,7 +891,7 @@
     },
     "StJamesAp_93": {
         "subject": "Sint Jacobus, apostel",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Jeruzalem",
         "place_of_birth": "Betsaïda",
         "place_of_burial": "Basiliek van Sint-Jacobus, Santiago, Spanje",
@@ -901,8 +901,8 @@
     },
     "StMartha_95": {
         "subject": "Sint-Martha",
-        "places": "",
-        "place_of_death": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_death": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_birth": "Bethanië",
         "place_of_burial": "Kerk van Sint-Martha, Tarascon, Frankrijk",
         "notes": "Marta, zus van Maria en van «Lazarus van Bethanië» (Joh 11, 1), ontvangt en dient Jezus in haar huis (cf. Lc 10, 38; Joh 12, 2), en wordt door hem aangespoord om te zoeken naar «het enige nodige», het «beste deel» (Lc 10, 42), dat haar zus heeft gekozen door naar zijn woord te luisteren. Samen met Maria, wanneer Lazarus ziek wordt, roept ze Jezus (cf. Joh 11, 3), belijdt haar geloof in hem (cf. Joh 11, 21-27) en is getuige van de opwekking van Lazarus uit de dood (cf. Joh 11, 40-44); ze dient tijdens het diner in Bethanië, waarbij haar zus Maria de voeten van Jezus zalft met kostbare nardus (cf. Joh 12, 2-3).",
@@ -911,7 +911,7 @@
     },
     "StPeterChrysologus_96": {
         "subject": "Sint-Petrus Chrysologus, bisschop en kerkleraar",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Ravenna, Italië",
         "place_of_birth": "Imola, Italië",
         "place_of_burial": "Kathedraal van San Cassiano in Imola, Italië",
@@ -962,19 +962,19 @@
     "DedicationStMaryMajor_101": {
         "subject": "Wijding van de Basiliek van Santa Maria Maggiore",
         "places": "Rome",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "place_of_death": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "De basiliek van Santa Maria Maggiore werd gebouwd op de Esquilijnse heuvel in Rome door paus Sixtus III (432-440). Het werd gewijd aan de Maagd Maria, die het oecumenische concilie van Efeze in het jaar 431 had erkend als \"Moeder van God\". Het was het eerste mariale heiligdom in het Westen, naar wiens voorbeeld talloze andere kerken aan de Maagd zouden worden gewijd. De wijding van de basiliek op 5 augustus wordt herdacht in het Jeronimiaanse Martyrologium (5e-6e eeuw).",
         "patronage": "",
         "main_shrine": "Basiliek Santa Maria Maggiore"
     },
     "Transfiguration_102": {
         "subject": "Gedaanteverandering van de Heer",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_death": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "Op de berg, in gezelschap van Petrus, Jakobus en Johannes, wordt Jezus \"voor hun ogen\" getransfigureerd (Mt 17, 2): de sluier valt van de ogen van de discipelen en zij zien, door Gods gave, de goddelijke identiteit die doorschemert in de menselijkheid van Christus. De Mensenzoon die op weg is naar het kruis (cf. Mc 8, 31-34) is de Zoon van God, de definitieve openbaring van de Vader. De Wet en de Profeten wijzen naar Christus en de Vader getuigt van hem: \"Dit is mijn geliefde Zoon: luister naar hem!\" (Mc 9, 7). Omhuld in die glorie die hij bij de Vader had voordat de wereld was (cf. Joh 1, 14), anticipeert en voorspelt Christus zijn glorieuze komst op de laatste dag, om alle dingen te transfigureren. Het was paus Callixtus III die in 1457 dit feest uitbreidde naar de universele Kerk.",
         "patronage": "",
         "main_shrine": "Berg Tabor, Israël"
@@ -1011,7 +1011,7 @@
     },
     "StLawrenceDeacon_106": {
         "subject": "Sint Laurentius, diaken en martelaar",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Kerk van Sint Laurentius in Panisperna, Rome, Italië",
         "place_of_birth": "Valencia of Huesca, Spanje",
         "place_of_burial": "Basiliek van Sint Laurentius buiten de Muren, Rome, Italië",
@@ -1043,7 +1043,7 @@
         "subject": "Heiligen Pontianus, paus, en Hippolytus, priester, martelaren",
         "places": "Rome, Italië",
         "place_of_death": "Sardinië, Italië",
-        "place_of_birth": "",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_burial": "Catacomben van Callixtus, Rome, Italië",
         "notes": "Pontianus, paus (230-235), werd door keizer Maximinus de Thraciër gedeporteerd naar de mijnen van Sardinië en trad af om de verkiezing van een nieuwe bisschop mogelijk te maken. Samen met hem werd ook de Romeinse priester Hippolytus veroordeeld en samen stierven ze door de mishandelingen die ze ondergingen. De overbrenging van hun relieken naar Rome wordt herdacht op 13 augustus door de Depositio martyrum (336).",
         "patronage": "",
@@ -1051,7 +1051,7 @@
     },
     "Assumption_110": {
         "subject": "Tenhemelopneming van de Heilige Maagd Maria",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Kerk van de Ontslaping, Jeruzalem",
         "place_of_birth": "Jeruzalem / Nazareth",
         "place_of_burial": "Olivetberg, Jeruzalem",
@@ -1091,7 +1091,7 @@
     },
     "StPiusX_114": {
         "subject": "Heilige Pius X, paus",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Rome, Italië",
         "place_of_birth": "Riese, Treviso, Italië",
         "place_of_burial": "Basiliek van Sint-Pieter in Vaticaanstad",
@@ -1101,17 +1101,17 @@
     },
     "QueenshipMary_115": {
         "subject": "Heilige Maagd Maria Koningin",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_death": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "In de middeleeuwen begon men de Maagd Maria gewoonlijk aan te roepen als Koningin (Salve, Regina) en haar afgebeeld met een kroon door de Zoon, waarmee haar volledige deelname aan de universele koningschap van Christus werd uitgedrukt. In deze liturgische herdenking, ingesteld door Pius XII in 1955 en na de hervorming na Vaticanum II geplaatst in het licht van de plechtigheid van Maria ten hemel opgenomen, wordt de Maagd voorgesteld als model en teken van hoop voor alle christenen die, reeds bekleed met de koninklijke waardigheid van de Heer in het Doopsel, geroepen zijn om eeuwig met Hem te regeren.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)"
     },
     "StRoseLima_116": {
         "subject": "Heilige Rosa van Lima, maagd",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Lima, Peru",
         "place_of_birth": "Lima, Peru",
         "place_of_burial": "Klooster van Santo Domingo in Lima, Peru",
@@ -1151,10 +1151,10 @@
     },
     "StMonica_120": {
         "subject": "Sint Monica",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Ostia, Italië",
         "place_of_birth": "Tagaste (huidige Souk Ahras), Algerije",
-        "place_of_burial": "",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "Monica (Tagaste, het huidige Souk Ahras, Algerije, 331 - Ostia, Rome, 387), geboren in een christelijke familie, trouwde met de heiden Patricius en was de moeder van Augustinus. Na haar zoon de eerste christelijke opvoeding te hebben gegeven, wachtte ze jaren, onder tranen en gebeden, op zijn bekering tot het ware geloof. Na weduwe te zijn geworden, volgde ze Augustinus naar Milaan en daar kon ze genieten van zijn bekering, die culmineerde in de Doop. Tijdens de terugreis naar Afrika bereikte ze het ware vaderland.",
         "patronage": "",
         "main_shrine": "Basiliek van Sint-Augustinus, Rome, Italië"
@@ -1171,7 +1171,7 @@
     },
     "BeheadingJohnBaptist_122": {
         "subject": "Martelaarschap van Sint-Jan de Doper",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Machaerus, Jordanië",
         "place_of_birth": "Ein Kerem",
         "place_of_burial": "Sebaste, Palestina; de heilige schedel (zonder de onderkaak) wordt sinds de 12e eeuw vereerd in de basiliek van San Silvestro in Capite, in Rome; de \"heilige onderkaak\" bevindt zich in Viterbo. Andere schedels: een tentoongesteld in de kathedraal van Notre-Dame de Amiens, gebracht uit Constantinopel in 1206 tijdens de vierde kruistocht; een in de Grote Moskee van Damascus. In 2012 werden enkele relikwieën geanalyseerd die in Bulgarije, nabij Sozopol, werden gevonden; de resultaten van de analyses bepaalden dat ze uit de 1e eeuw dateren, en uit de inscripties op de urn wordt aangenomen dat de relikwieën toebehoorden aan Sint-Jan de Doper.",
@@ -1191,7 +1191,7 @@
     },
     "NativityVirginMary_124": {
         "subject": "Geboorte van de Heilige Maagd Maria",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Jeruzalem",
         "place_of_birth": "Jeruzalem of Sefforis",
         "place_of_burial": "Olivetberg",
@@ -1211,20 +1211,20 @@
     },
     "ExaltationCross_126": {
         "subject": "Verheffing van het Heilig Kruis",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_death": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "Dit feest ontstond in Jeruzalem, op de verjaardag van de inwijding, die plaatsvond op 14 september 335, van de twee basilieken die door Constantijn waren gebouwd, de ene op Golgotha (ad Martyrium), de andere bij het Heilig Graf (Anastasis), ook naar aanleiding van de vondst van de relieken van het kruis door Helena, de moeder van de keizer. Het kruis, ooit het instrument van de meest verschrikkelijke marteling, die Constantijn in 320 verbood te gebruiken, is voor de christen de boom des levens, het bruidsbed, de troon, het altaar van het Nieuwe Verbond: uit Christus, de nieuwe Adam die in slaap viel aan het kruis, ontsprong het wonderbaarlijke sacrament van de hele Kerk. Het kruis is het teken van Christus' heerschappij over degenen die in de doop met hem zijn gevormd in de dood en in de glorie (vgl. Rm 6, 5).",
         "patronage": "",
         "main_shrine": "Basiliek van het Heilig Graf, Kapel van Golgotha, Jeruzalem"
     },
     "LadySorrows_127": {
         "subject": "Heilige Maagd Maria van Smarten",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_death": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "De devotie tot de Maagd van Smarten kende een grote ontwikkeling in de laatste eeuwen van de Middeleeuwen, zowel in de religieuze poëzie (Stabat Mater) als in de voorstelling van de Pietà. De liturgische herdenking werd in 1814 door Pius VII ingevoerd, ook met betrekking tot de beproevingen die de Kerk in die jaren had doorstaan. Door de innige eenheid met de Zoon strekt het moederschap van Maria zich uit tot de hele mensheid die door Christus aan het kruis is verlost (vgl. Joh 19, 25-27). De devotie tot de Maagd van Smarten ontwikkelt zich vanaf het einde van de 11e eeuw, met een eerste verwijzing naar vieringen van haar 5 vreugden en haar vijf smarten, gesymboliseerd door 5 zwaarden, voorlopers van de later ingestelde liturgische viering. Toen een onbekende het Liber de passione Christi et dolore et planctu Matris eius schreef, begonnen de composities over het Thema van het Huilen van de Maagd. In de 12e eeuw, ook naar aanleiding van verschijningen van de Madonna, nam deze cultus toe en werd het Stabat Mater toegeschreven aan Jacopone da Todi. Maar zijn geschiedenis heeft een precies begin: op 15 augustus 1233, toen zeven Florentijnse edelen die waren ingeschreven bij de Kunst van de Kooplieden en dichters-acteurs van de compagnie van de Laudesi gewoon waren hun liefde voor Maria te uiten in lofzangen voor een op een muur geschilderd beeld, zoals de minstrelen dat deden met de geliefde vrouw. Plotseling zagen ze het beeld tot leven komen, bedroefd verschijnen en in rouwkleding vanwege de broedermoord die Florence verdeelde. Deze jongeren legden hun wapens neer, trokken een rouwgewaad aan, richtten de compagnie van Maria van Smarten op, genaamd de Servieten, en trokken zich terug in boetedoening en gebed op de Monte Sanario. In de loop der eeuwen werden verschillende uitdrukkingen van devotie gecreëerd: de Madonna aan de voet van het Kruis; de Compagnie van het gewaad; de Broederschap van de Zeven Smarten, goedgekeurd door Rome in 1645; de Derde Orde; de Kroon van de Maagd van Smarten; de verschillende vrouwelijke Congregaties van de Maagd van Smarten, enz. Tussen 1668 en 1690 bevorderden de cultusinitiatieven van de Dienaren van Maria de verspreiding van de cultus van de Madonna van Smarten. Ondertussen stond de S. Congregatie van Riten op 9 juni 1668 de Orde toe de votiefmis van de Zeven Smarten van de Heilige Maagd te vieren. In het betreffende decreet werd vermeld dat de Dienaren van Maria het zwarte gewaad droegen ter herinnering aan de weduwschap van Maria en de smarten die zij tijdens de passie van de Zoon had doorstaan. Aanvankelijk was de cultus van de Maagd van Smarten verbonden met de Goede Week, daarna ontstond haar feest, oorspronkelijk gevierd op de vrijdag voor de Goede Week of na Pasen en uiteindelijk op 15 september, in verband met het feest van de Verheffing van het Heilig Kruis, gevierd de dag ervoor. Ook vandaag de dag wordt het in sommige plaatsen op de oude data gevierd. De cultus van de Maagd van Smarten wordt ook benadrukt door de verspreiding van gebeden tot de Maagd van Smarten en het bidden van de rozenkrans van de zeven smarten, vooral in de Goede Week.",
         "patronage": "",
         "main_shrine": "Kapel van Golgotha, Basiliek van het Heilig Graf, Jeruzalem"
@@ -1241,7 +1241,7 @@
     },
     "StRobertBellarmine_129": {
         "subject": "Sint-Robertus Bellarminus, bisschop en kerkleraar",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Rome, Italië",
         "place_of_birth": "Montepulciano, Siena, Italië",
         "place_of_burial": "Kerk van Sint-Ignatius, Rome, Italië",
@@ -1271,7 +1271,7 @@
     },
     "StsCosmasDamian_132": {
         "subject": "Heiligen Cosmas en Damianus, martelaren",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Cyrrhus, Syrië",
         "place_of_birth": "Aegea (nu Yumurtalık), Turkije",
         "place_of_burial": "De bisschop van Cyrrhus, Theodoretus († 458), spreekt al over de verdeling van hun relieken, die naar de vele kerken die al in hun eer waren opgericht (in Jeruzalem, Egypte, Mesopotamië) werden gestuurd; keizer Justinianus I en patriarch Proclus wijdden een basiliek in Constantinopel aan de heiligen, die een bestemming werd voor talrijke pelgrims; ook in Rome bouwde paus Felix IV (526 - 530) op de plaats van de oude Templum Romuli en de Bibliotheca Pacis, in de Tempel van de Vrede, een basiliek ter ere van hen en bevorderde hun verering in tegenstelling tot die van de heidense Castor en Pollux. De schedels van de heiligen werden in de 10e eeuw van Rome overgebracht en naar Bremen gebracht: in 1581 schonk Maria, dochter van Karel V, ze aan de kerk van het clarissenklooster in Madrid: dezelfde relieken worden echter ook vereerd in de kerk van Sint-Michaël Aartsengel in München, waar ze volgens de inscriptie op het reliekschrijn in de 15e eeuw werden geplaatst. Het eerste document dat de aanwezigheid van de relieken van de armen van de Heiligen in Bitonto bevestigt, dateert uit 1572.",
@@ -1301,10 +1301,10 @@
     },
     "StsArchangels_135": {
         "subject": "Heilige Michaël, Gabriël en Rafaël, aartsengelen",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_death": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "Michaël (\"Wie is als God?\"), de eerste van de aartsengelen, beschermt het volk van God (cf. Dn 10, 13.21; 12, 1) en leidt de hemelse legers in de strijd tegen de duivel (Jd 9; cf. Ap 12, 1-17). Gabriël (\"man van God\" of \"God is mijn kracht\") is de boodschapper van God aan de mensen: hij legt aan de profeet Daniël de geheimen van Gods plan uit (cf. Dn 8, 16; 9, 21), kondigt aan Zacharias de geboorte van Johannes de Doper aan (cf. Lc 1, 5-25) en aan Maria die van Jezus (cf. Lc 1, 26-38). Rafaël (\"God heeft genezen\") is een van de \"zeven engelen die altijd klaar staan om de aanwezigheid van de glorie van de Heer binnen te gaan\" (Tb 12, 15; cf. Ap 8, 2), begeleidt Tobias op zijn reis, leert hem hoe hij de blindheid van zijn vader Tobit kan genezen en zijn vrouw Sara kan bevrijden van de demon Asmodeus (cf. Tb 3, 16-17; 6, 1). In de Eucharistie neemt de Kerk al deel aan de hemelse liturgie, waar \"ontelbare scharen van engelen\" (Eucharistisch Gebed IV) God en het Lam toejuichen (cf. Ap 5, 11-14). In het Jeronimiaanse Martyrologium (5e-6e eeuw) wordt op 29 september de wijding van de kerk van Sint-Michaël in Rome, aan de Via Salaria (5e eeuw), herdacht.",
         "patronage": "",
         "main_shrine": "Engelenburcht, Rome; Grot van Sint-Michaël op de Gargano, Italië; Mont Saint-Michel, Frankrijk"
@@ -1331,13 +1331,13 @@
     },
     "GuardianAngels_138": {
         "subject": "Heilige Beschermengelen",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_death": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "De verering van de engelen gaat terug tot de vroege tijden van de Kerk en viert de tederheid van God, die, als schepper van alle zichtbare en onzichtbare dingen, spirituele wezens heeft geschapen, boodschappers die de mens begeleiden, zodat \"elke gelovige een engel aan zijn zijde heeft als beschermer en herder, om hem naar het leven te leiden\" (Basilius van Caesarea), vanaf de kindertijd (vgl. Mt 18, 10) tot aan de dood (vgl. Lc 16, 22). Tot de vijfde eeuw was er geen specifieke dag gewijd aan de beschermengelen, wier feest op 29 september viel, samen met het feest van de aartsengel Michaël. Het gebruik van een apart feest ontstond in Valencia in 1411, toen een feest werd ingesteld voor de beschermengel van de stad. Ook in Frankrijk was er een soortgelijk initiatief. In de volgende eeuw verspreidde het idee zich van Spanje naar Portugal en vervolgens naar Oostenrijk en de Italiaanse regio's die het meest door de Habsburgers werden beïnvloed. Al in de zestiende eeuw ontstonden de eerste \"Broederschappen van de Beschermengel\", die zich aan het begin van de zeventiende eeuw wijd verspreidden onder invloed van de publicatie van verschillende theologische verhandelingen (zie onderstaande bibliografie) en de impuls van verschillende religieuze orden, waaronder bijvoorbeeld de Somascanen. De beslissende impuls kwam van paus Paulus V, die in een bul van 1614 specifieke aflaten toekende aan de leden van de broederschappen van de beschermengel die waren aangesloten bij de Aartsbroederschap van Rome en die bepaalde verdienstelijke daden verrichtten. Parallel aan de verspreiding van de volksvroomheid vond de liturgische erkenning van het feest plaats. In het \"Romeins Missaal\" van paus Pius V (1570) werden vier feesten uitdrukkelijk aan de engelen gewijd, namelijk die van de beschermengelen (2 oktober), de aartsengel Gabriël, de aartsengel Michaël en de aartsengel Rafaël. Door Pius V afgeschaft, werd het feest ter ere van de beschermengelen in 1608 door Paulus V hersteld en uitgebreid tot de universele Kerk. In 1670 maakte Clemens X het verplicht voor de hele Latijnse Kerk, altijd op 2 oktober.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)"
     },
     "StFrancisAssisi_139": {
         "subject": "Heilige Franciscus van Assisi",
@@ -1361,10 +1361,10 @@
     },
     "LadyRosary_141": {
         "subject": "Heilige Maagd Maria van de Rozenkrans",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_death": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "De praktijk van de rozenkrans, verspreid door de Dominicanen (15e eeuw), bevorderde het ontstaan van vele lekenbroederschappen. Voor hen werd de liturgische herdenking van de heilige Maagd Maria van de Rozenkrans ingesteld (16e eeuw), de eerste zondag van oktober, later (17e eeuw) gekoppeld aan de overwinning van het christendom tegen de Ottomaanse opmars (Lepanto, 7 oktober 1571).",
         "patronage": "",
         "main_shrine": "Basiliek van de Heilige Maagd Maria van de Rozenkrans, Pompei, Italië"
@@ -1373,7 +1373,7 @@
         "subject": "Heilige Dionysius, bisschop, en gezellen, martelaren",
         "places": "Parijs, Frankrijk",
         "place_of_death": "Parijs, Frankrijk",
-        "place_of_birth": "",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_burial": "Basiliek van Saint-Denis, Parijs, Frankrijk",
         "notes": "Dionysius, volgens de traditie, werd halverwege de 3e eeuw door Rome, samen met andere missionarissen, naar Gallië gestuurd om te evangeliseren. In Parijs, de stad waarvan hij de eerste bisschop was, bezegelde hij zijn missie met het martelaarschap samen met zijn gezellen Rusticus en Eleutherius. De relieken werden verzameld in de basiliek die ter ere van hem werd opgericht door de heilige Genoveva (5e eeuw). Hij wordt op 9 oktober herdacht door het Jeronimiaanse Martyrologium (5e-6e eeuw).",
         "patronage": "",
@@ -1393,7 +1393,7 @@
         "subject": "Heilige Callistus I, paus en martelaar",
         "places": "Rome, Italië",
         "place_of_death": "Rome, Italië",
-        "place_of_birth": "",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_burial": "Begraafplaats van Calepodio, Via Aurelia, Rome",
         "notes": "Callistus, een voormalige slaaf, was paus van 218 tot 222. Hij verbond zijn naam aan de eerste officiële begraafplaats van de Kerk van Rome, aan de Via Appia. Hij leed onder interne conflicten binnen de christelijke gemeenschap en werd gemarteld in Rome, op de plek waar de kerk die aan hem is gewijd, staat. Zijn begrafenis op de begraafplaats van Calepodio, aan de Via Aurelia, wordt herdacht op 14 oktober in de Depositio martyrum (336).",
         "patronage": "",
@@ -1454,7 +1454,7 @@
         "places": "Midland, Canada; Auriesville, New York, VS",
         "place_of_death": "Midland, Canada",
         "place_of_birth": "Condé-sur-Vire, Frankrijk",
-        "place_of_burial": "",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "Johannes (Condé-sur-Vire, Frankrijk, 15 maart 1594 - Midland, Canada, 16 maart 1649), jezuïetenmissionaris onder de Huron, in het huidige Canada, werd gedood bij een aanval op de missie door andere vijandige stammen. Enkele maanden later volgde zijn metgezel in de missie Isaac Jogues (Orléans, Frankrijk, 10 januari 1607 - Auriesville, VS, 18 oktober 1649) hem in het martelaarschap; met hen worden nog zes andere jezuïetenmartelaren herdacht. Ze deelden met evangelische zachtheid het leven van die bevolkingen, tot de totale gave van zichzelf.",
         "patronage": "",
         "main_shrine": "Heiligdom van de Martelaren, Midland, Ontario, Canada; Heiligdom van Onze-Lieve-Vrouw van de Martelaren, Auriesville"
@@ -1494,7 +1494,7 @@
         "places": "Rome, Italië; Lanciano, Italië",
         "place_of_death": "Perzië",
         "place_of_birth": "Simon: vermoedelijk Kana; Judas Taddeüs misschien Banias",
-        "place_of_burial": "",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "Simon wordt \"de ijveraar\" genoemd (Lc 6, 15; Hnd 1, 13) of, in het Aramees, \"de Kanaäniet\" (Mt 10, 4; Mc 3, 18) vanwege zijn waarschijnlijke lidmaatschap van de zeloten, gekenmerkt door militante nationalisme binnen het jodendom. Simon maakt deel uit van de Twaalf, net als Judas, zoon van Jakobus (Lc 6, 16; Hnd 1, 13; genoemd Taddeüs in Mt 10, 3 en Mc 3, 18), die Jezus de vraag stelt: \"Heer, hoe komt het dat U zich aan ons zult openbaren en niet aan de wereld?\" Jezus antwoordt hem dat iedereen die zijn woord aanneemt, zelf een woning van God wordt (vgl. Joh 14, 22-23). Het gezamenlijke feest van deze twee apostelen wordt herdacht op 28 oktober in het Jeronimiaanse Martyrologium (5e-6e eeuw).",
         "patronage": "",
         "main_shrine": "Basiliek Sint-Pieter in Vaticaanstad; Klooster van Sint-Augustinus in Lanciano, Italië"
@@ -1521,10 +1521,10 @@
     },
     "DedicationLateran_159": {
         "subject": "Wijding van de Lateraanse Basiliek",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_death": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "De verjaardag van de wijding van de basiliek, gebouwd door keizer Constantijn, werd waarschijnlijk al sinds de 12e eeuw gevierd op 9 november. Aanvankelijk was het een feest alleen voor de stad Rome. Later werd de viering uitgebreid naar alle kerken van de Romeinse ritus om de basiliek te eren die de moederkerk van alle kerken van de stad en de wereld wordt genoemd, en als teken van liefde en eenheid met de zetel van Petrus.",
         "patronage": "",
         "main_shrine": "Basiliek van Sint-Jan van Lateranen, Rome, Italië"
@@ -1541,7 +1541,7 @@
     },
     "StMartinTours_161": {
         "subject": "Sint-Maarten van Tours, bisschop",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Candes-Saint-Martin, Frankrijk",
         "place_of_birth": "Sabaria (huidige Szombathely), Hongarije",
         "place_of_burial": "Basiliek van Sint-Maarten, Tours, Frankrijk",
@@ -1551,7 +1551,7 @@
     },
     "StJosaphat_162": {
         "subject": "Sint-Josafat, bisschop en martelaar",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Vicebsk, Wit-Rusland",
         "place_of_birth": "Volodymyr-Volyn'kyj, Oekraïne",
         "place_of_burial": "Sint-Pietersbasiliek in Vaticaanstad",
@@ -1581,7 +1581,7 @@
     },
     "StGertrudeGreat_165": {
         "subject": "Heilige Gertrudis, maagd",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Kloster Helfta, Eisleben, Duitsland",
         "place_of_birth": "Eisleben, Duitsland",
         "place_of_burial": "De enige bestaande relikwieën, omdat ze ontsnapten aan de vernietiging van haar graf tijdens de Lutherse Reformatie, worden bewaard in Santa Maria di Licodia, binnen het beeld bewaard in de Moederkerk.",
@@ -1601,23 +1601,23 @@
     },
     "DedicationStsPeterPaul_167": {
         "subject": "Wijding van de basilieken van de heilige apostelen Petrus en Paulus",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_death": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "Gebouwd op de plaatsen van het martelaarschap van Petrus en Paulus – op de Vaticaanse heuvel en langs de Via Ostiense – benadrukken de twee basilieken de onovertroffen waardigheid van de Kerk van Rome, dankzij het dubbele getuigenis van de eerste en de laatste van de apostelen (cf. Mt 10, 2; 1 Kor 15, 8). De datum die voor dit feest is gekozen, is die van de wijding van de Sint-Pietersbasiliek na de renaissance-herbouw (18 november 1636).",
         "patronage": "",
         "main_shrine": "Basilieken van de heilige apostelen Petrus en Paulus, Rome"
     },
     "PresentationMary_168": {
         "subject": "Opdracht van de Heilige Maagd Maria",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Kerk van de Ontslaping, Jeruzalem",
         "place_of_birth": "Jeruzalem / Nazareth",
         "place_of_burial": "Olivetberg, Jeruzalem",
         "notes": "Het verhaal van de opdracht van Maria, op driejarige leeftijd, in de Tempel van Jeruzalem, wordt verteld in het Proto-evangelie van Jakobus, een apocriefe tekst uit de tweede eeuw. De handeling, niet voorgeschreven door de Wet, geeft de totale toewijding van de Maagd aan God vanaf haar kindertijd aan. Het is een van de belangrijkste Maria-feesten van de orthodoxe kerk.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)"
     },
     "StCecilia_169": {
         "subject": "Heilige Cecilia, maagd en martelares",
@@ -1651,7 +1651,7 @@
     },
     "StAndrewAp_172": {
         "subject": "Sint-Andreas apostel",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Patras, Griekenland",
         "place_of_birth": "Betsaïda, Galilea",
         "place_of_burial": "Kerk van Sint-Andreas, Patras; Kathedraal van Amalfi, Italië; Sint-Pietersbasiliek in Vaticaanstad",
@@ -1684,7 +1684,7 @@
         "places": "Bari; Venetië",
         "place_of_death": "Myra (huidige Demre, Turkije)",
         "place_of_birth": "Patara van Lycië, Turkije",
-        "place_of_burial": "",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "Nicolaas (4e eeuw) was bisschop van Myra (huidige Demre, Turkije). Vanuit het Oosten verspreidde zijn cultus zich ook naar Italië, na de diefstal van zijn relieken (1087) en hun plaatsing in Bari, in de naar hem genoemde basiliek, waar ze nog steeds worden bewaard. In zijn naam bloeiden populaire tradities en liefdadigheidsinitiatieven rond Kerstmis. De herdenking van zijn dood en begrafenis wordt op 6 december gevierd in de Byzantijnse en Koptische riten.",
         "patronage": "",
         "main_shrine": "Basiliek van Sint Nicolaas, Bari, Italië; Kerk van San Nicolò al Lido, Venetië"
@@ -1696,18 +1696,18 @@
         "place_of_birth": "Trier, Duitsland",
         "place_of_burial": "Basiliek van Sint-Ambrosius, Milaan, Italië",
         "notes": "Ambrosius (Trier, Duitsland, ca. 340 - Milaan, 4 april 397), gouverneur van de Romeinse provincies Emilia en Ligurië, met zetel in Milaan, werd in 374 door het volk uitgeroepen tot leider van de lokale Kerk, die verscheurd was door de Arianistische ketterij. Gedoopt en gewijd tot bisschop (30 november en 7 december 374), wijdde hij zich aan de ijverige studie van de Schrift en de Vaders, om vervolgens de vruchten daarvan over te brengen in zijn prediking en talrijke geschriften van exegetische, doctrinaire en liturgische aard. Door de bevordering van de gewijde maagdelijkheid en het eren van het martelaarschap suggereerde hij een hoog ideaal van christelijk leven. Hij bestuurde met wijsheid de pastorale leiding van de Kerk van Milaan en bevorderde ook de oprichting van verschillende bisschoppelijke zetels in Noord-Italië. Hij was een van de hoofdrolspelers in de definitieve overwinning van de Nicene orthodoxie op de Arianistische ketterij. Zijn invloed was zo diepgaand dat de Kerk van Milaan, met haar liturgie, \"ambrosiaans\" wordt genoemd.",
-        "patronage": "",
+        "patronage": "imkers, bisschoppen, kaarsenmakers, huisdieren, ganzen, honingkoekbakkers, leren, vee, politieagenten, schoolkinderen, beveiligingspersoneel, spreeuwen en wasraffineerders",
         "main_shrine": "Basiliek van Sint-Ambrosius, Milaan, Italië"
     },
     "ImmaculateConception_177": {
         "subject": "Onbevlekte Ontvangenis van de Heilige Maagd Maria",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_death": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "Al vanaf de 7e-8e eeuw werd in het Oosten, precies negen maanden voor het feest van de Geboorte (8 september), een feest van de \"ontvangenis\" van Maria gevierd. Later gevierd in het Westen vanaf de 11e eeuw, past deze plechtigheid in de context van de Advent-Kerstperiode, waarbij de messiaanse verwachting en de glorieuze terugkeer van Christus worden verbonden met de bewonderde herinnering aan de Moeder. In die zin moet deze liturgische periode worden beschouwd als een bijzonder geschikte tijd voor de verering van de Moeder van de Heer (cf. Paulus VI, Marialis cultus, 4). Maria is de Alheilige, vrij van elke smet van zonde, door de Heilige Geest als het ware gevormd en tot een nieuw schepsel gemaakt (cf. Lumen gentium, 56). Reeds profetisch geschetst in de belofte aan de voorouders van de overwinning op de slang, is Maria de Maagd die zal ontvangen en een zoon zal baren wiens naam Immanuël zal zijn. Het dogma van de Onbevlekte Ontvangenis werd in 1854 door Pius IX afgekondigd.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)"
     },
     "StDamasusIPope_178": {
         "subject": "Heilige Damasus I, paus",
@@ -1761,17 +1761,17 @@
     },
     "StStephenProtomartyr_183": {
         "subject": "Sint-Stefanus, protomartelaar",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Jeruzalem",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "notes": "Stefanus, «vol van geloof en de Heilige Geest» (Hand. 6, 5), wordt samen met zes andere mannen, «van goede reputatie, vol van de Geest en wijsheid» gekozen voor de dienst aan de eerste christelijke gemeenschap (vgl. Hand. 6, 1-6). In hetzelfde boek Handelingen wordt verteld dat Stefanus (wiens naam «kroon» betekent) wordt veroordeeld tot steniging, die hij met serene vastberadenheid ondergaat. Eerste ware getuige, oftewel martelaar van Christus, «in het openbaar gedood en in het geheim gekroond» (Augustinus), aanschouwt hij de glorie van de Verrezene, verkondigt zijn goddelijkheid, vertrouwt zijn geest aan Hem toe en bidt voor zijn moordenaars (vgl. Hand. 7, 55-60). Zijn herdenking op 26 december wordt vermeld in het zogenaamde Syrische Brevier van de 4e eeuw en in het Jeronimiaanse Martyrologium (5e-6e eeuw). Hij wordt ook genoemd in het Romeinse Canon. Paus Honorius I schonk in 628 een deel van de relieken van Sint-Stefanus (onderarm in een Byzantijnse zilveren kist) aan de abdij van Sint-Columbanus in Bobbio. De reliek werd later in 1217 geschonken aan de abdij van Sint-Stefanus in Genua. In Venetië wordt in de kerk van Sint-Stefanus het hele lichaam van de heilige vereerd. In Constantinopel, Napels, Besançon, Ravenna… In het Heiligdom van Materdomini in Nocera Superiore zijn enkele relieken van de heilige later gestolen. In Rome in de basiliek van Sint-Paulus buiten de muren, een arm in de kerk van Sint-Ivo alla Sapienza, een tweede arm in de kerk van Sint-Lodewijk van de Fransen, een derde arm in de basiliek van Sint-Cecilia in Trastevere; bovendien bijna het hele lichaam in de basiliek van Sint-Laurentius buiten de muren. Een deel van deze relieken werd naar Menorca gebracht, op de Balearen. Ook de overbrenging van enkele stoffelijke resten (fragment van de schedel) naar de stad Putignano (Bari) is gedocumenteerd, een overbrenging uitgevoerd door de abdij van Monopoli. De vondst van de relieken van Sint-Stefanus is ook verbonden met de wijding van de tweede kathedraal van Concordia Sagittaria. Nu wordt de schedel van de Heilige bewaard in het museum van de dom van Caorle, waar waarschijnlijk de inwoners van het nabijgelegen Concordia Sagittaria hem naartoe brachten omdat ze hun toevlucht hadden gezocht in de lagune van Caorle.",
         "patronage": "",
         "main_shrine": "Klooster van Sint Stefanus, nabij de Leeuwenpoort, Jeruzalem; Eglise Saint Etienne bij de École biblique et archéologique française"
     },
     "StJohnEvangelist_184": {
         "subject": "Sint Jan apostel en evangelist",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Efeze",
         "place_of_birth": "Betsaïda",
         "place_of_burial": "Op de site in Efeze, beschouwd als de plaats van het graf van Johannes, werd in de 6e eeuw een basiliek gebouwd onder keizer Justinianus, waarvan vandaag alleen nog sporen overblijven",
@@ -3326,7 +3326,7 @@
         "place_of_birth": "Trier, Duitsland",
         "place_of_burial": "Basiliek van Sint-Ambrosius, Milaan, Italië",
         "notes": "Ambrosius (Trier, Duitsland, ca. 340 - Milaan, 4 april 397), gouverneur van de Romeinse provincies Emilia en Ligurië, met zetel in Milaan, werd in 374 door het volk uitgeroepen tot leider van de lokale Kerk, die verscheurd was door de Arianistische ketterij. Gedoopt en gewijd tot bisschop (30 november en 7 december 374), wijdde hij zich aan de ijverige studie van de Schrift en de Vaders, om vervolgens de vruchten daarvan over te brengen in zijn prediking en talrijke geschriften van exegetische, doctrinaire en liturgische aard. Door de bevordering van de gewijde maagdelijkheid en het eren van het martelaarschap suggereerde hij een hoog ideaal van christelijk leven. Hij oefende met wijsheid het pastorale bestuur uit in de Kerk van Milaan en bevorderde ook de oprichting van verschillende bisschoppelijke zetels in Noord-Italië. Hij was een van de hoofdrolspelers in de definitieve overwinning van de Nicene orthodoxie op de Arianistische ketterij. Zijn invloed was zo diepgaand dat de Kerk van Milaan, met haar liturgie, \"ambrosiaans\" wordt genoemd.",
-        "patronage": "",
+        "patronage": "imkers, bisschoppen, kaarsenmakers, huisdieren, ganzen, honingkoekbakkers, leren, vee, politieagenten, schoolkinderen, beveiligingspersoneel, spreeuwen en wasraffineerders",
         "main_shrine": "Basiliek van Sint-Ambrosius, Milaan, Italië"
     },
     "StAugustineHippo_569": {
@@ -3500,28 +3500,28 @@
         "main_shrine": "Basiliek van Onze-Lieve-Vrouw van Guadalupe, Mexico-Stad, Mexico"
     },
     "LadyLourdes_585": {
-        "subject": "",
-        "places": "",
+        "subject": "Heilige Maagd Maria van Lourdes",
+        "places": "Lourdes (Frankrijk)",
         "place_of_death": "",
         "place_of_birth": "",
         "place_of_burial": "",
-        "notes": "",
+        "notes": "Laatste verschijning van de Heilige Maagd Maria aan Bernadette. Deze herdenking is verbonden met de mystieke ervaring van Bernadette Soubirous, die achttien keer, tussen 11 februari en 16 juli 1858, in de grot van Massabielle, bij Lourdes (Frankrijk), de Maagd Maria ontmoette. Zij verklaarde dat zij de \"Onbevlekte Ontvangenis\" was en riep de mensen op tot gebed en bekering. Het heiligdom dat op die plaats werd opgericht, op uitnodiging van de Maagd, werd een bestemming voor voortdurende pelgrimages, vooral voor de zieken.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Lourdes (Frankrijk)"
     },
     "LadyFatima_586": {
-        "subject": "",
-        "places": "",
+        "subject": "Heilige Maagd Maria van Fatima",
+        "places": "Fatima (Portugal)",
         "place_of_death": "",
         "place_of_birth": "",
         "place_of_burial": "",
-        "notes": "",
+        "notes": "Laatste verschijning van de Heilige Maagd Maria aan de drie herderskinderen. Van 13 mei tot 13 oktober 1917, één keer per maand, in de Cova da Iria, bij Fatima (Portugal), hadden Lucia dos Santos, Francisco en Jacinta Marto - drie herderskinderen uit de omgeving - een visioen van de Heilige Maagd Maria. Naast het benadrukken van de noodzaak van gebed en boetedoening voor de redding van de wereld, beval de Maagd het bidden van de rozenkrans en de devotie tot haar Onbevlekt Hart aan. De Madonna van Fatima was geliefd bij verschillende pausen, met name bij Pius XII, bij de heilige Paulus VI - de eerste paus die op bedevaart ging (13 mei 1967) - en bij de heilige Johannes Paulus II, die haar moederlijke bescherming erkende tijdens de aanslag op het Sint-Pietersplein op 13 mei 1981.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Basiliek van Fatima (Portugal)"
     },
     "StAnselm_587": {
         "subject": "Sint Anselmus van Canterbury, bisschop en kerkleraar",
-        "places": "",
+        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
         "place_of_death": "Canterbury, Verenigd Koninkrijk",
         "place_of_birth": "Aosta, Italië",
         "place_of_burial": "Anselmus stierf op 21 april 1109, op Witte Woensdag, en werd begraven in de kathedraal van Canterbury. Zijn stoffelijke resten werden echter opgegraven tijdens de religieuze onrusten die plaatsvonden tijdens het bewind van Hendrik VIII van Engeland en raakten toen verloren.",
@@ -3530,12 +3530,12 @@
         "main_shrine": "Kathedraal van Canterbury, Verenigd Koninkrijk"
     },
     "DedicationHolySepulchre_588": {
-        "subject": "",
-        "places": "",
+        "subject": "Wijding van de Basiliek van het Heilig Graf",
+        "places": "Jeruzalem (Israël / Palestina)",
         "place_of_death": "",
         "place_of_birth": "",
         "place_of_burial": "",
-        "notes": "",
-        "main_shrine": ""
+        "notes": "Het was 15 juli 1149 toen de Kruisvaarders, na decennia van werk en structurele renovaties, officieel de nieuwe Basiliek inwijdde op de vijftigste verjaardag van de verovering van Jeruzalem.",
+        "main_shrine": "Basiliek van het Heilig Graf in Jeruzalem"
     }
 }
