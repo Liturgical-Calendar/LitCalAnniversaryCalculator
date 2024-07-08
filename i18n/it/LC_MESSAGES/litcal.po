@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 # John R. D'Orazio <priest@johnromanodorazio.com>, 2022.
 # "John R. D'Orazio" <priest@johnromanodorazio.com>, 2024.
+# Weblate Admin <admin@example.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-08 11:48+0000\n"
-"PO-Revision-Date: 2024-06-23 02:09+0000\n"
-"Last-Translator: \"John R. D'Orazio\" <priest@johnromanodorazio.com>\n"
+"PO-Revision-Date: 2024-07-08 12:20+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Italian <https://translate.johnromanodorazio.com/projects/"
 "liturgical-calendar/anniversary-calculator/it/>\n"
 "Language: it\n"
@@ -17,13 +18,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.5.5\n"
+"X-Generator: Weblate 5.6.1\n"
 
 #. translators: filename
 #: src/AnniversaryCalculator.php:259
 #, php-format
 msgid "Data file %s is missing."
-msgstr ""
+msgstr "Il file dati %s è mancante."
 
 #. translators: 1. filename, 2. error messag
 #: src/AnniversaryCalculator.php:270
@@ -31,33 +32,36 @@ msgstr ""
 msgid ""
 "The following error occurred while decoding the base data file %1$s: %2$s."
 msgstr ""
+"Si è verificato il seguente errore durante la decodifica del file di dati di "
+"base %1$s: %2$s."
 
 #. translators: 1. count, 2. filename
 #: src/AnniversaryCalculator.php:280
-#, fuzzy, php-format
-#| msgid "%1$d events loaded from data file %2$s"
+#, php-format
 msgid "%1$d events were loaded from the base data file %2$s."
-msgstr "%1$d eventi caricati dal file di dati %2$s"
+msgstr "%1$d eventi sono stati caricati dal file base di dati %2$s."
 
 #. translators: filename
 #: src/AnniversaryCalculator.php:292
-#, fuzzy, php-format
-#| msgid "missing translation file: %s"
+#, php-format
 msgid "Translation file %s is missing."
-msgstr "file di traduzione mancante: %s"
+msgstr "Il file di traduzione %s è mancante."
 
 #. translators: 1. filename, 2. error message
 #: src/AnniversaryCalculator.php:303
 #, php-format
 msgid "The following error occurred decoding the translation file %1$s: %2$s."
 msgstr ""
+"Si è verificato il seguente errore durante la decodifica del file di "
+"traduzione %1$s: %2$s."
 
 #. translators: 1. count, 2. filename
 #: src/AnniversaryCalculator.php:313
-#, fuzzy, php-format
-#| msgid "%1$d localized data events loaded from translation file %2$s"
+#, php-format
 msgid "%1$d localized data events were loaded from the translation file %2$s."
-msgstr "%1$d eventi di dati localizzati caricati dal file di traduzione %2$s"
+msgstr ""
+"%1$d eventi di dati localizzati sono stati caricati dal file di traduzione "
+"%2$s."
 
 #. translators: 1. filename, 2. language
 #: src/AnniversaryCalculator.php:325
@@ -66,6 +70,8 @@ msgid ""
 "The English translation file %1$s, which is needed as a backup for any "
 "possible missing strings in the translation for %2$s, is missing."
 msgstr ""
+"Il file di traduzione inglese %1$s, che serve come backup per eventuali "
+"stringhe mancanti nella traduzione per %2$s, è mancante."
 
 #: src/AnniversaryCalculator.php:335
 #, php-format
@@ -74,6 +80,9 @@ msgid ""
 "tranlsation file %1$s, which is needed as a backup for any possible missing "
 "strings in the translation for %2$s: %3$s."
 msgstr ""
+"Il seguente errore è stato prodotto durante la decodifica dei dati dal file "
+"di traduzione inglese %1$s, che è necessario come backup per eventuali "
+"stringhe mancanti nella traduzione per %2$s: %3$s."
 
 #. translators: 1. count, 2. filename, 3. language
 #: src/AnniversaryCalculator.php:347
@@ -83,6 +92,9 @@ msgid ""
 "is needed as a backup for any possible missing strings in the translation "
 "for %3$s."
 msgstr ""
+"I dati degli eventi %1$d sono stati caricati dal file di traduzione inglese "
+"%2$s, che è necessario come backup per eventuali stringhe mancanti nella "
+"traduzione per %3$s."
 
 #. translators: 1. filename, 2. count, 3. filename, 4. count
 #: src/AnniversaryCalculator.php:368
@@ -91,6 +103,8 @@ msgid ""
 "Events count from the translation file %1$s (%2$d) does not match the events "
 "count from the base data file %3$s (%4$d)."
 msgstr ""
+"Il conteggio degli eventi dal file di traduzione %1$s (%2$d) non corrisponde "
+"al conteggio degli eventi dal file dati di base %3$s (%4$d)."
 
 #. translators: 1. filename, 2. count, 3. filename, 4. count
 #: src/AnniversaryCalculator.php:386
@@ -99,12 +113,15 @@ msgid ""
 "Events count from the English translation file %1$s (%2$d) does not match "
 "the events count from the base data file %3$s (%4$d)."
 msgstr ""
+"Il conteggio degli eventi dal file di traduzione inglese %1$s (%2$d) non "
+"corrisponde al conteggio degli eventi dal file dati di base %3$s (%4$d)."
 
 #. translators: 1. count, 2. year
 #: src/AnniversaryCalculator.php:451
 #, php-format
 msgid "%1$d liturgical anniversary events were calculated for the year %2$d."
 msgstr ""
+"%1$d eventi da anniversario liturgico sono stati calcolati per l'anno %2$d."
 
 #. translators: 1. language
 #: src/AnniversaryCalculator.php:458
@@ -113,6 +130,8 @@ msgid ""
 "English translation strings were used because the translation for %1$s was "
 "incomplete."
 msgstr ""
+"Le stringhe di traduzione in inglese sono state utilizzate perché la "
+"traduzione per %1$s era incompleta."
 
 #: src/AnniversaryCalculator/AnniversaryEvent.php:68
 msgid "CENTENARY"
@@ -229,15 +248,15 @@ msgstr "dogma"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:45
 msgid "apparition"
-msgstr ""
+msgstr "apparizione"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:46
 msgid "pontifical incoronation"
-msgstr ""
+msgstr "incoronazione pontificia"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:47
 msgid "ecumenical council"
-msgstr ""
+msgstr "concilio ecumenico"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:48
 msgid "other"
@@ -276,10 +295,8 @@ msgid "diocesan"
 msgstr "diocesano"
 
 #: src/AnniversaryCalculator/Enums/LitCalendar.php:23
-#, fuzzy
-#| msgid "wide_area"
 msgid "wide area"
-msgstr "area_estesa"
+msgstr "area estesa"
 
 #~ msgid "%d data rows calculated"
 #~ msgstr "%d righe di dati calcolate"
