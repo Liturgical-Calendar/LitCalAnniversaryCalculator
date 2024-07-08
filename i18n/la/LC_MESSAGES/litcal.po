@@ -2,13 +2,14 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # "John R. D'Orazio" <priest@johnromanodorazio.com>, 2024.
+# Weblate Admin <admin@example.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-08 11:48+0000\n"
-"PO-Revision-Date: 2024-06-23 02:09+0000\n"
-"Last-Translator: \"John R. D'Orazio\" <priest@johnromanodorazio.com>\n"
+"PO-Revision-Date: 2024-07-08 12:20+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Latin <https://translate.johnromanodorazio.com/projects/"
 "liturgical-calendar/anniversary-calculator/la/>\n"
 "Language: la\n"
@@ -16,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.5.5\n"
+"X-Generator: Weblate 5.6.1\n"
 
 #. translators: filename
 #: src/AnniversaryCalculator.php:259
@@ -33,17 +34,15 @@ msgstr ""
 
 #. translators: 1. count, 2. filename
 #: src/AnniversaryCalculator.php:280
-#, fuzzy, php-format
-#| msgid "%1$d events loaded from data file %2$s"
+#, php-format
 msgid "%1$d events were loaded from the base data file %2$s."
-msgstr "%1$d eventus onerati ex data plico %2$s"
+msgstr "Eventa %1$d ex archivo basico %2$s onusta sunt."
 
 #. translators: filename
 #: src/AnniversaryCalculator.php:292
-#, fuzzy, php-format
-#| msgid "missing translation file: %s"
+#, php-format
 msgid "Translation file %s is missing."
-msgstr "desideratum translationis fasciculus: %s"
+msgstr "Fasciculus translationis %s deest."
 
 #. translators: 1. filename, 2. error message
 #: src/AnniversaryCalculator.php:303
@@ -56,7 +55,8 @@ msgstr ""
 #, fuzzy, php-format
 #| msgid "%1$d localized data events loaded from translation file %2$s"
 msgid "%1$d localized data events were loaded from the translation file %2$s."
-msgstr "%1$d eventa localia data ex translatione file %2$s onerata"
+msgstr ""
+"%1$d data eventuum localizata ex archivo translationis %2$s onusta sunt."
 
 #. translators: 1. filename, 2. language
 #: src/AnniversaryCalculator.php:325
