@@ -291,7 +291,7 @@
     },
     "StPatrick_32": {
         "subject": "São Patrício, bispo",
-        "places": "Beata Virgem Maria de Fátima",
+        "places": "Bannaventa (Grã-Bretanha), Croagh Patrick (Irlanda), Downpatrick (Irlanda), Dublin (Irlanda), Rocca di Cashel (Irlanda), Armagh (Irlanda)",
         "place_of_death": "Downpatrick (Irlanda do Norte)",
         "place_of_birth": "Old Kilpatrick (Escócia)",
         "place_of_burial": "Downpatrick (Irlanda do Norte)",
@@ -301,7 +301,7 @@
     },
     "StCyrilJerusalem_33": {
         "subject": "São Cirilo de Jerusalém, bispo e doutor",
-        "places": "N/A",
+        "places": "Jerusalém (Israel / Palestina)",
         "place_of_death": "Jerusalém",
         "place_of_birth": "Jerusalém",
         "place_of_burial": "Lourdes (França)",
@@ -331,7 +331,7 @@
     },
     "StFrancisPaola_37": {
         "subject": "São Francisco de Paula, eremita",
-        "places": "N/A",
+        "places": "Paola (Itália), Castelo de Plessis-lez-Tours (França)",
         "place_of_death": "Castelo de Plessis-lez-Tours (La Riche, França)",
         "place_of_birth": "Paola (Cosenza)",
         "place_of_burial": "La Riche, França (foi iniciada a construção de um santuário sobre o túmulo, foi edificada apenas a abside)",
