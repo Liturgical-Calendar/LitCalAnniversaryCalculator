@@ -281,10 +281,10 @@
     },
     "StFrancesRome_31": {
         "subject": "Santa Francisca Romana, religiosa",
-        "places": "Andechs (Baviera)",
+        "places": "Roma (Itália)",
         "place_of_death": "Roma (Itália)",
-        "place_of_birth": "Andechs (Baviera)",
-        "place_of_burial": "Andechs (Baviera)",
+        "place_of_birth": "Roma (Itália)",
+        "place_of_burial": "Roma (Itália)",
         "notes": "Francisca Bussa (Roma, 1384 - 9 de março de 1440), embora forçada ao casamento, foi esposa e mãe exemplar. Sustentada por íntima união com Deus, praticou incansavelmente a caridade, acolhendo em sua casa pobres e doentes. Fundou em Roma as Oblatas de Tor de’ Specchi, às quais se uniu após a morte do marido.",
         "patronage": "",
         "main_shrine": "Basílica Santa Francisca Romana no Fórum Romano"
@@ -304,14 +304,14 @@
         "places": "Jerusalém (Israel / Palestina)",
         "place_of_death": "Jerusalém",
         "place_of_birth": "Jerusalém",
-        "place_of_burial": "Lourdes (França)",
+        "place_of_burial": "Igreja dos Discípulos (ou dos Apóstolos) em Eleona, Monte das Oliveiras (Jerusalém, Israel / Palestina)",
         "notes": "Cirilo (ca. 315 - 387), bispo de Jerusalém, foi dramaticamente envolvido nas profundas divisões da Igreja de seu tempo: caluniado e exilado várias vezes, manteve-se fiel à doutrina proclamada no Concílio de Niceia (325). A ele são atribuídas algumas célebres catequeses batismais.",
         "patronage": "",
-        "main_shrine": "Fátima (Portugal)"
+        "main_shrine": "N/A"
     },
     "StJoseph_34": {
         "subject": "São José Esposo da Bem-Aventurada Virgem Maria",
-        "places": "Belém (Palestina)",
+        "places": "Belém (Palestina), Nazaré (Israel)",
         "place_of_death": "Nazaré (Israel)",
         "place_of_birth": "Belém (Palestina)",
         "place_of_burial": "Tumba do Justo em Nazaré?",
@@ -341,7 +341,7 @@
     },
     "StIsidore_38": {
         "subject": "São Isidoro, bispo e doutor da Igreja",
-        "places": "Fátima (Portugal)",
+        "places": "Cartagena (Espanha); Sevilha (Espanha)",
         "place_of_death": "Sevilha (Espanha)",
         "place_of_birth": "Cartagena (Espanha)",
         "place_of_burial": "Real Colegiata Basílica de San Isidoro (León, Espanha)",
@@ -351,7 +351,7 @@
     },
     "StVincentFerrer_39": {
         "subject": "São Vicente Ferrer, sacerdote",
-        "places": "Lourdes (França)",
+        "places": "Valência (Espanha); Vannes (França)",
         "place_of_death": "Vannes (França)",
         "place_of_birth": "Valência, Espanha",
         "place_of_burial": "Catedral de São Pedro em Vannes (França)",
@@ -361,7 +361,7 @@
     },
     "StJohnBaptistDeLaSalle_40": {
         "subject": "São João Batista de La Salle, sacerdote",
-        "places": "Beata Virgem Maria de Fátima",
+        "places": "Reims (França); Rouen (França)",
         "place_of_death": "Saint Yon perto de Rouen (França)",
         "place_of_birth": "Reims (França)",
         "place_of_burial": "Giovanni Battista de La Salle foi sepultado na igreja de Saint-Sever, um bairro de Rouen. Em 1734, seu corpo foi levado de volta a Saint-Yon na capela de seu internato, depois em 1835 foi transferido para a Escola Normal de Rouen. Em Reims, foi construída uma igreja dedicada a ele em 1898. Em 1937, suas relíquias foram transferidas para Roma.",
