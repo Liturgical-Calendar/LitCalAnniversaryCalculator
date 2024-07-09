@@ -1,5 +1,5 @@
 {
-    "StsBasilGreg_1": {
+    "StBasilGreat_1": {
         "subject": "Sanctus Basilius Magnus",
         "places": "Cappadocia (Turcia)",
         "place_of_death": "Caesarea, Turcia",
@@ -89,7 +89,7 @@
         "patronage": "",
         "main_shrine": "Basilica Visitationis, Anicium, Gallia"
     },
-    "StsPeterPaulAp_10": {
+    "StPaulApostle_10": {
         "subject": "Sanctus Paulus, apostolus",
         "places": "Ecclesia Sancti Pauli ad Regulam, Roma; Ecclesia Sanctae Mariae in Via Lata, Roma; Graecia; Turcia",
         "place_of_death": "Sanctuarium Tribus Fontibus, Roma",
@@ -99,7 +99,7 @@
         "patronage": "",
         "main_shrine": "Basilica Sancti Pauli extra muros"
     },
-    "StsTimothyTitus_11": {
+    "StTimothy_11": {
         "subject": "Sanctus Timotheus, episcopus",
         "places": "Listra, Ephesus (Asia Minor); Termulum (Italia)",
         "place_of_death": "Ephesus, Macedonia, Graecia",
@@ -749,7 +749,7 @@
         "patronage": "",
         "main_shrine": ""
     },
-    "StsPeterPaulAp_79": {
+    "StPeterApostle_79": {
         "subject": "",
         "places": "",
         "place_of_death": "",
@@ -1999,7 +1999,7 @@
         "patronage": "",
         "main_shrine": ""
     },
-    "StsBasilGreg_207": {
+    "StGregoryNazianzen_207": {
         "subject": "",
         "places": "",
         "place_of_death": "",
@@ -2029,7 +2029,7 @@
         "patronage": "",
         "main_shrine": ""
     },
-    "StsTimothyTitus_216": {
+    "StTitus_216": {
         "subject": "",
         "places": "",
         "place_of_death": "",
@@ -3369,7 +3369,7 @@
         "patronage": "",
         "main_shrine": ""
     },
-    "StsBasilGreg_573": {
+    "StBasilGreat_573": {
         "subject": "",
         "places": "",
         "place_of_death": "",
@@ -3379,7 +3379,7 @@
         "patronage": "",
         "main_shrine": ""
     },
-    "StsBasilGreg_574": {
+    "StGregoryNazianzen_574": {
         "subject": "",
         "places": "",
         "place_of_death": "",

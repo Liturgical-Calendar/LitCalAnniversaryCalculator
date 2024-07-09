@@ -1,5 +1,5 @@
 {
-    "StsBasilGreg_1": {
+    "StBasilGreat_1": {
         "subject": "San Basilio el Grande",
         "places": "Capadocia (Turquía)",
         "place_of_death": "Kayseri, Turquía",
@@ -89,7 +89,7 @@
         "patronage": "",
         "main_shrine": "Basílica de la Visitación, Annecy, Francia"
     },
-    "StsPeterPaulAp_10": {
+    "StPaulApostle_10": {
         "subject": "San Pablo, apóstol",
         "places": "Iglesia de San Pablo alla Regola, Roma Iglesia de Santa María in Via Lata, Roma; GRECIA; TURQUÍA",
         "place_of_death": "Santuario de las Tres Fuentes, Roma",
@@ -99,7 +99,7 @@
         "patronage": "",
         "main_shrine": "Basílica de San Pablo Extramuros"
     },
-    "StsTimothyTitus_11": {
+    "StTimothy_11": {
         "subject": "San Timoteo, obispo",
         "places": "Listra, Éfeso (Turquía); Termoli (Italia)",
         "place_of_death": "Éfeso, Macedonia, Grecia",
@@ -749,7 +749,7 @@
         "patronage": "",
         "main_shrine": "https://en.wikipedia.org/wiki/Saint_Irenaeus_Church,_Lyon; la tumba fue destruida por los hugonotes durante las guerras de religión"
     },
-    "StsPeterPaulAp_79": {
+    "StPeterApostle_79": {
         "subject": "San Pedro, apóstol",
         "places": "San Pietro in Montorio, Roma San Pietro in Vincoli, Roma Santa Pudenziana, Roma",
         "place_of_death": "Roma",
@@ -1999,7 +1999,7 @@
         "patronage": "",
         "main_shrine": "Monasterio de Santa Catalina en el Monte Sinaí, Egipto"
     },
-    "StsBasilGreg_207": {
+    "StGregoryNazianzen_207": {
         "subject": "San Gregorio Nacianceno",
         "places": "Capadocia, Constantinopla (Turquía), Roma (Italia)",
         "place_of_death": "Constantinopla (actual Estambul), Turquía",
@@ -2029,7 +2029,7 @@
         "patronage": "",
         "main_shrine": "Iglesia de los Jacobinos (Toulouse)"
     },
-    "StsTimothyTitus_216": {
+    "StTitus_216": {
         "subject": "San Tito, obispo",
         "places": "Creta",
         "place_of_death": "Gortina, Creta",
@@ -3369,7 +3369,7 @@
         "patronage": "",
         "main_shrine": "Basílica de San Pedro en el Vaticano"
     },
-    "StsBasilGreg_573": {
+    "StBasilGreat_573": {
         "subject": "San Basilio Magno",
         "places": "Capadocia (Turquía)",
         "place_of_death": "Kayseri, Turquía",
@@ -3379,7 +3379,7 @@
         "patronage": "",
         "main_shrine": ""
     },
-    "StsBasilGreg_574": {
+    "StGregoryNazianzen_574": {
         "subject": "San Gregorio Nacianceno",
         "places": "Capadocia, Constantinopla (Turquía), Roma (Italia)",
         "place_of_death": "Constantinopla (actual Estambul), Turquía",

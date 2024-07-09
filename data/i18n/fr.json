@@ -1,5 +1,5 @@
 {
-    "StsBasilGreg_1": {
+    "StBasilGreat_1": {
         "subject": "Saint Basile le Grand",
         "places": "Cappadoce (Turquie)",
         "place_of_death": "Kayseri, Turquie",
@@ -89,7 +89,7 @@
         "patronage": "",
         "main_shrine": "Basilique de la Visitation, Annecy, France"
     },
-    "StsPeterPaulAp_10": {
+    "StPaulApostle_10": {
         "subject": "Saint Paul, apôtre",
         "places": "Église de Saint-Paul-à-la-Règle, Rome; Église de Santa Maria in Via Lata, Rome; GRÈCE; TURQUIE",
         "place_of_death": "Sanctuaire des Trois Fontaines, Rome",
@@ -99,7 +99,7 @@
         "patronage": "",
         "main_shrine": "Basilique Saint-Paul-hors-les-Murs"
     },
-    "StsTimothyTitus_11": {
+    "StTimothy_11": {
         "subject": "Saint Timothée, évêque",
         "places": "Listres, Éphèse (Turquie); Termoli (Italie)",
         "place_of_death": "Éphèse, Macédoine, Grèce",
@@ -749,7 +749,7 @@
         "patronage": "",
         "main_shrine": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Ir%C3%A9n%C3%A9e_de_Lyon; la tombe fut détruite par les huguenots pendant les guerres de religion"
     },
-    "StsPeterPaulAp_79": {
+    "StPeterApostle_79": {
         "subject": "Saint Pierre, apôtre",
         "places": "Saint Pierre in Montorio, Rome Saint Pierre-aux-Liens, Rome Sainte Pudentienne, Rome",
         "place_of_death": "Rome",
@@ -1999,7 +1999,7 @@
         "patronage": "",
         "main_shrine": "Monastère de Sainte Catherine au Mont Sinaï, Égypte"
     },
-    "StsBasilGreg_207": {
+    "StGregoryNazianzen_207": {
         "subject": "Saint Grégoire de Nazianze",
         "places": "Cappadoce, Constantinople (Turquie), Rome (Italie)",
         "place_of_death": "Constantinople (actuelle Istanbul), Turquie",
@@ -2029,7 +2029,7 @@
         "patronage": "",
         "main_shrine": "Église des Jacobins (Toulouse)"
     },
-    "StsTimothyTitus_216": {
+    "StTitus_216": {
         "subject": "Saint Tite, évêque",
         "places": "Crète",
         "place_of_death": "Gortyne, Crète",
@@ -3369,7 +3369,7 @@
         "patronage": "",
         "main_shrine": "Basilique Saint-Pierre au Vatican"
     },
-    "StsBasilGreg_573": {
+    "StBasilGreat_573": {
         "subject": "Saint Basile le Grand",
         "places": "Cappadoce (Turquie)",
         "place_of_death": "Kayseri, Turquie",
@@ -3379,7 +3379,7 @@
         "patronage": "",
         "main_shrine": ""
     },
-    "StsBasilGreg_574": {
+    "StGregoryNazianzen_574": {
         "subject": "Saint Grégoire de Nazianze",
         "places": "Cappadoce, Constantinople (Turquie), Rome (Italie)",
         "place_of_death": "Constantinople (actuelle Istanbul), Turquie",

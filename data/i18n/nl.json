@@ -1,5 +1,5 @@
 {
-    "StsBasilGreg_1": {
+    "StBasilGreat_1": {
         "subject": "Sint-Basilius de Grote",
         "places": "Cappadocië (Turkije)",
         "place_of_death": "Kayseri, Turkije",
@@ -89,7 +89,7 @@
         "patronage": "",
         "main_shrine": "Basiliek van de Visitatie, Annecy, Frankrijk"
     },
-    "StsPeterPaulAp_10": {
+    "StPaulApostle_10": {
         "subject": "Sint Paulus, apostel",
         "places": "Kerk van Sint Paulus alla Regola, Rome Kerk van Santa Maria in Via Lata, Rome; GRIEKENLAND; TURKIJE",
         "place_of_death": "Heiligdom van de Drie Fonteinen, Rome",
@@ -99,7 +99,7 @@
         "patronage": "",
         "main_shrine": "Basiliek van Sint Paulus buiten de Muren"
     },
-    "StsTimothyTitus_11": {
+    "StTimothy_11": {
         "subject": "Sint Timoteüs, bisschop",
         "places": "Lystra, Efese (Turkije); Termoli (Italië)",
         "place_of_death": "Efese, Macedonië, Griekenland",
@@ -749,7 +749,7 @@
         "patronage": "",
         "main_shrine": "https://en.wikipedia.org/wiki/Saint_Irenaeus_Church,_Lyon; het graf werd vernietigd door de hugenoten tijdens de godsdienstoorlogen"
     },
-    "StsPeterPaulAp_79": {
+    "StPeterApostle_79": {
         "subject": "Heilige Petrus, apostel",
         "places": "San Pietro in Montorio, Rome San Pietro in Vincoli, Rome Santa Pudenziana, Rome",
         "place_of_death": "Rome",
@@ -1999,7 +1999,7 @@
         "patronage": "",
         "main_shrine": "Klooster van Sint-Catharina op de Sinaïberg, Egypte"
     },
-    "StsBasilGreg_207": {
+    "StGregoryNazianzen_207": {
         "subject": "Sint-Gregorius van Nazianze",
         "places": "Cappadocië, Constantinopel (Turkije), Rome (Italië)",
         "place_of_death": "Constantinopel (het huidige Istanbul), Turkije",
@@ -2029,7 +2029,7 @@
         "patronage": "",
         "main_shrine": "Jacobijnenkerk (Toulouse)"
     },
-    "StsTimothyTitus_216": {
+    "StTitus_216": {
         "subject": "Heilige Titus, bisschop",
         "places": "Kreta",
         "place_of_death": "Gortina, Kreta",
@@ -3369,7 +3369,7 @@
         "patronage": "",
         "main_shrine": "Basiliek van Sint-Pieter in Vaticaanstad"
     },
-    "StsBasilGreg_573": {
+    "StBasilGreat_573": {
         "subject": "Sint Basilius de Grote",
         "places": "Cappadocië (Turkije)",
         "place_of_death": "Kayseri, Turkije",
@@ -3379,7 +3379,7 @@
         "patronage": "",
         "main_shrine": ""
     },
-    "StsBasilGreg_574": {
+    "StGregoryNazianzen_574": {
         "subject": "Sint Gregorius van Nazianze",
         "places": "Cappadocië, Constantinopel (Turkije), Rome (Italië)",
         "place_of_death": "Constantinopel (het huidige Istanbul), Turkije",

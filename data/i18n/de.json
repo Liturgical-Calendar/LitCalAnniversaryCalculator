@@ -1,5 +1,5 @@
 {
-    "StsBasilGreg_1": {
+    "StBasilGreat_1": {
         "subject": "Sankt Basilius der Große",
         "places": "Kappadokien (Türkei)",
         "place_of_death": "Kayseri, Türkei",
@@ -89,7 +89,7 @@
         "patronage": "",
         "main_shrine": "Basilika der Heimsuchung, Annecy, Frankreich"
     },
-    "StsPeterPaulAp_10": {
+    "StPaulApostle_10": {
         "subject": "Heiliger Paulus, Apostel",
         "places": "Kirche San Paolo alla Regola, Rom Kirche Santa Maria in Via Lata, Rom; GRIECHENLAND; TÜRKEI",
         "place_of_death": "Schrein der Drei Brunnen, Rom",
@@ -99,7 +99,7 @@
         "patronage": "",
         "main_shrine": "Basilika Sankt Paul vor den Mauern"
     },
-    "StsTimothyTitus_11": {
+    "StTimothy_11": {
         "subject": "Heiliger Timotheus, Bischof",
         "places": "Lystra, Ephesus (Türkei); Termoli (Italien)",
         "place_of_death": "Ephesus, Mazedonien, Griechenland",
@@ -749,7 +749,7 @@
         "patronage": "",
         "main_shrine": "https://en.wikipedia.org/wiki/Saint_Irenaeus_Church,_Lyon; das Grab wurde während der Religionskriege von den Hugenotten zerstört"
     },
-    "StsPeterPaulAp_79": {
+    "StPeterApostle_79": {
         "subject": "Heiliger Petrus, Apostel",
         "places": "San Pietro in Montorio, Rom San Pietro in Vincoli, Rom Santa Pudenziana, Rom",
         "place_of_death": "Rom",
@@ -1999,7 +1999,7 @@
         "patronage": "",
         "main_shrine": "Kloster der Heiligen Katharina am Berg Sinai, Ägypten"
     },
-    "StsBasilGreg_207": {
+    "StGregoryNazianzen_207": {
         "subject": "Heiliger Gregor von Nazianz",
         "places": "Kappadokien, Konstantinopel (Türkei), Rom (Italien)",
         "place_of_death": "Konstantinopel (heutiges Istanbul), Türkei",
@@ -2029,7 +2029,7 @@
         "patronage": "",
         "main_shrine": "Jakobinerkirche (Toulouse)"
     },
-    "StsTimothyTitus_216": {
+    "StTitus_216": {
         "subject": "Heiliger Titus, Bischof",
         "places": "Kreta",
         "place_of_death": "Gortyn, Kreta",
@@ -3369,7 +3369,7 @@
         "patronage": "",
         "main_shrine": "Basilika St. Peter im Vatikan"
     },
-    "StsBasilGreg_573": {
+    "StBasilGreat_573": {
         "subject": "Heiliger Basilius der Große",
         "places": "Kappadokien (Türkei)",
         "place_of_death": "Kayseri, Türkei",
@@ -3379,7 +3379,7 @@
         "patronage": "",
         "main_shrine": ""
     },
-    "StsBasilGreg_574": {
+    "StGregoryNazianzen_574": {
         "subject": "Heiliger Gregor von Nazianz",
         "places": "Kappadokien, Konstantinopel (Türkei), Rom (Italien)",
         "place_of_death": "Konstantinopel (heutiges Istanbul), Türkei",
