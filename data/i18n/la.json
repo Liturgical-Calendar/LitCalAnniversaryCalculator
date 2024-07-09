@@ -47,7 +47,7 @@
         "place_of_burial": "Basilica Sancti Sebastiani extra Muros",
         "notes": "Anno mortis 250/251, postquam annos circiter quindecim Pontifex Maximus fuit",
         "patronage": "",
-        "main_shrine": "Dedicatio Basilicae Lateranensis"
+        "main_shrine": "Catacumbae Sancti Callisti (Roma)"
     },
     "StSebastian_6": {
         "subject": "Sanctus Sebastianus, martyr",
@@ -77,11 +77,11 @@
         "place_of_burial": "Basilica Valentina (Hispania) / Basilica Olisiponensis (Lusitania) / Achates (Ragusae, Italia; consuetudo popularis)",
         "notes": "Vincentius († Valentiae, Hispania, die 22 Ianuarii 304), diaconus Ecclesiae Caesaraugustanae, comprehensus in persecutione Diocletiani, in carcere ob tormenta mortuus est. Vitam suam cum episcopo Valerio Domino obtulit, cum quo saepe sacrificium altaris obtulerat. Memoria eius celebratur die 22 Ianuarii in Martyrologio Hieronymiano (saec. V-VI). Sub imperatore Constantino, qui ad christianam fidem conversus erat, basilica Valentiae in honorem sancti Vincentii erecta est, et sub altari principali eius reliquiae conditae sunt. Postea vero, post invasionem Maurorum, christiani Valentiae corpus Martyris surripuerunt ut in Lusitania tuerentur, in ecclesia ibi ad promunturium nuncupatum Caput Sancti Vincentii aedificata. Finita bello contra Mauros, reliquiae in navem impositae sunt quae Lusitaniam versus navigavit. Legitur in devotione fabula quod in itinere corvi super proram et puppim navis sederent, quasi iterum sanctum martyrem, quem olim a feris servaverant, protegere vellent. Urbem ingresso, corpus in ecclesia Sanctorum Iustae et Rufinae depositum est, et post aliquot tempus, die 15 Septembris 1173, sollemniter in cathedra translatus est. Ad memoriam nummi cudi sunt. https://it.wikipedia.org/wiki/Monastero_di_S%C3%A3o_Vicente_de_Fora",
         "patronage": "",
-        "main_shrine": "Dedicatio Basilicae Lateranensis"
+        "main_shrine": "Cathedra Lisbonensis (Portugallia)"
     },
     "StFrancisDeSales_9": {
         "subject": "Sanctus Franciscus de Sales, episcopus et doctor",
-        "places": "Dedicatio Basilicae Lateranensis",
+        "places": "Castrum Thorens (Thorens-Glières, Gallia), Lugdunum (Gallia), Genava (Helvetia), Annecium (Gallia)",
         "place_of_death": "Lugdunum, Gallia",
         "place_of_birth": "Salesium (Gallia)",
         "place_of_burial": "Basilica Visitationis, Anicium, Gallia",
@@ -171,10 +171,10 @@
     },
     "StsPaulMiki_19": {
         "subject": "Sancti Paulus Miki et socii, martyres",
-        "places": "Hierosolyma",
+        "places": "Settsu (Iaponia), Nagasaki (Iaponia)",
         "place_of_death": "Nagasaki, Iaponia",
         "place_of_birth": "Kyoto (Iaponia)",
-        "place_of_burial": "Hierosolyma",
+        "place_of_burial": "Nagasaki (Iaponia)",
         "notes": "Paulus Miki (Kyoto, Iaponia, 1556 - Nagasaki, 5 Februarii 1597), Iesuita, fuit victima persecutionis quam imperator Iaponicus contra Christianos ordinavit, timens ne incrementum eorum periculum autonomiae patriae constitueret. Una cum eo crucifixi sunt alii viginti quinque Christiani, laici et religiosi (Iesuitae et Fratres Minores).",
         "patronage": "",
         "main_shrine": "https://la.wikipedia.org/wiki/Basilica_Viginti_Sex_Sanctorum_Martyrum_Iaponiae; Museum et monumentum viginti sex martyrum Nagasaki https://travel.at-nagasaki.jp/la/s/what-to-see/30/ https://en.wikipedia.org/wiki/Twenty-Six_Martyrs_Museum_and_Monument"
@@ -197,14 +197,14 @@
         "place_of_burial": "Abbatia Montis Cassini",
         "notes": "Scholastica (Nursia, Perusia, 480 ca. - Montecassinum, Frusino, 547 ca.) a traditione ut soror sancti Benedicti indicatur. Dialogi Gregorii Magni eam describunt ut virginem contemplationis amantem, sapientem in caritate omni regula humana praeferenda. Die 10 februarii commemoratur in Calendario marmoreo Neapolitano (saec. IX) et in Martyrologio Usuardi (870 ca.).",
         "patronage": "",
-        "main_shrine": "Hierosolyma"
+        "main_shrine": "Abbatia Montis Cassini (Italia)"
     },
     "LadyLourdes_22": {
         "subject": "Beata Maria Virgo de Lourdes",
         "places": "Lourdes (Francia)",
-        "place_of_death": "Hierosolyma",
-        "place_of_birth": "Hierosolyma",
-        "place_of_burial": "Hierosolyma",
+        "place_of_death": "non pertinet",
+        "place_of_birth": "non pertinet",
+        "place_of_burial": "non pertinet",
         "notes": "Prima apparizione della Beata Vergine Maria a Bernadette. Questa memoria si collega all’esperienza mistica di Bernadette Soubirous, che per diciotto volte, tra l’11 febbraio e il 16 luglio 1858, nella grotta di Massabielle, presso Lourdes (Francia), incontrò la Vergine Maria. Ella le dichiarò di essere «l’Immacolata Concezione», richiamando gli uomini alla preghiera e alla conversione. Il sacrarium eretto in quel luogo, su invito della Vergine, divenne meta di continui pellegrinaggi, soprattutto per gli ammalati.",
         "patronage": "",
         "main_shrine": "Sanctuarium Dominae Nostrae de Lourdes (Francia)"
@@ -221,7 +221,7 @@
     },
     "SevenHolyFounders_24": {
         "subject": "Sancti Septem Fundatores Servorum Beatae Mariae Virginis",
-        "places": "Hierosolyma",
+        "places": "non pertinet",
         "place_of_death": "Montesenario (Italia)",
         "place_of_birth": "Florentia",
         "place_of_burial": "Florentia",
@@ -231,7 +231,7 @@
     },
     "StPeterDamian_25": {
         "subject": "Sanctus Petrus Damianus, episcopus et Ecclesiae doctor",
-        "places": "Hierosolyma",
+        "places": "non pertinet",
         "place_of_death": "Faventia (Italia)",
         "place_of_birth": "Ravenna",
         "place_of_burial": "Monasterium Benedictinum Sanctae Mariae Extra Muros (Faventia)",
@@ -241,10 +241,10 @@
     },
     "StPolycarp_27": {
         "subject": "Sanctus Polycarpus, episcopus et martyr",
-        "places": "Hierosolyma",
+        "places": "Smyrna (Turcia)",
         "place_of_death": "Smyrna, Turcia",
         "place_of_birth": "Smyrna, Turcia",
-        "place_of_burial": "Hierosolyma",
+        "place_of_burial": "Sanctus Ambrosius de Maxima (Roma)",
         "notes": "Polycarpus († 23 Februarii 167), discipulus apostoli Ioannis, episcopus Smyrnae (Turcia) fuit, ubi sanctum Ignatium iter facientem Romam, urbem in qua martyrium passurus erat, excepit. Post longum episcopatum, in provecta aetate, Polycarpus propter fidem suam ad rogum damnatus est. Dies Domini erat: dum ignis eum consumebat, episcopus, orans, liturgiae eucharisticae, quam toties cum sua Ecclesia celebraverat, se coniunxit. Narratio passionis eius est antiquissimum documentum de cultu martyrum.",
         "patronage": "",
         "main_shrine": "Ecclesia Sancti Polycarpi, Smyrna, Turcia"
