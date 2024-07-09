@@ -95,7 +95,7 @@
         "place_of_death": "Sanctuarium Tribus Fontibus, Roma",
         "place_of_birth": "Tarsus (Turcia) https://www.google.com/maps/place/36%C2%B055'00.0%22N+34%C2%B054'00.0%22E/@36.9546925,34.8770442,11.25z/data=!4m5!3m4!1s0x0:0x0!8m2!3d36.916667!4d34.9",
         "place_of_burial": "Basilica Sancti Pauli extra muros, Roma",
-        "notes": "Paulus Tarsensis, a Christo in via Damascena superatus (cf. Actus Apostolorum 9, 1-19; Philippenses 3, 12), totum se ipsum consecrat ad ministerium cognitionis et nuntiationis novae vitae quam in Christo Iesu Domino suo vivit (cf. Ephesios 3, 1-4; 1 Corinthios 9, 16; Romani 6, 4; Galatae 2, 20). Ambi apostoli, qui \"diversis modis unam Christi familiam congregaverunt\" (Prefatio), suam testimonium Christo martyrio Romae signaverunt, circa annum sexagesimum primi saeculi. In Depositio martyrum (336) una cum memoria eorum fit die XXIX Iunii",
+        "notes": "Paulus Tarsensis, a Christo in via Damascena superatus (cf. Actus Apostolorum 9, 1-19; Philippenses 3, 12), totum se ipsum consecrat ad ministerium cognitionis et nuntiationis novae vitae quam in Christo Iesu Domino suo vivit (cf. Ephesios 3, 1-4; 1 Corinthios 9, 16; Romani 6, 4; Galatae 2, 20). Ambi apostoli, qui \"diversis modis unam Christi familiam congregaverunt\" (Prefatio), suam testimonium Christo martyrio Romae signaverunt, circa annum sexagesimum primi saeculi. In Depositio martyrum (336) una cum memoria eorum fit die XXIX Iunii.",
         "patronage": "",
         "main_shrine": "Basilica Sancti Pauli extra muros"
     },
@@ -251,7 +251,7 @@
     },
     "StCasimir_28": {
         "subject": "Sanctus Casimirus",
-        "places": "Hierosolyma",
+        "places": "non pertinet",
         "place_of_death": "Hrodna (Bielorussia)",
         "place_of_birth": "Cracovia (Polonia)",
         "place_of_burial": "Vilnius (Lituania)",
@@ -261,7 +261,7 @@
     },
     "StsPerpetuaFelicity_29": {
         "subject": "Sanctae Perpetua et Felicitas, martyres",
-        "places": "Sanctus Casimirus",
+        "places": "non pertinet",
         "place_of_death": "Carthago - Tunes (Tunisia)",
         "place_of_birth": "Carthago - Tunes (Tunisia)",
         "place_of_burial": "Sanctus Casimirus",
