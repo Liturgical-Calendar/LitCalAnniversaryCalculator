@@ -291,7 +291,7 @@
     },
     "StPatrick_32": {
         "subject": "Saint Patrick, évêque",
-        "places": "Lourdes (France)",
+        "places": "Bannaventa (Grande-Bretagne), Croagh Patrick (Irlande), Downpatrick (Irlande), Dublin (Irlande), Rock of Cashel (Irlande), Armagh (Irlande)",
         "place_of_death": "Downpatrick (Irlande du Nord)",
         "place_of_birth": "Old Kilpatrick (Écosse)",
         "place_of_burial": "Downpatrick (Irlande du Nord)",
@@ -301,7 +301,7 @@
     },
     "StCyrilJerusalem_33": {
         "subject": "Saint Cyrille de Jérusalem, évêque et docteur",
-        "places": "Lourdes (France)",
+        "places": "Jérusalem (Israël / Palestine)",
         "place_of_death": "Jérusalem",
         "place_of_birth": "Jérusalem",
         "place_of_burial": "Lourdes (France)",
@@ -331,7 +331,7 @@
     },
     "StFrancisPaola_37": {
         "subject": "Saint François de Paule, ermite",
-        "places": "Lourdes (France)",
+        "places": "Paola (Italie), Château de Plessis-lez-Tours (France)",
         "place_of_death": "Château de Plessis-lez-Tours (La Riche, France)",
         "place_of_birth": "Paola (Cosenza)",
         "place_of_burial": "La Riche, France (la construction d'un sanctuaire au-dessus de la tombe a été commencée, seule l'abside a été édifiée)",
