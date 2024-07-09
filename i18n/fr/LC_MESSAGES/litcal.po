@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 # John R. D'Orazio <priest@johnromanodorazio.com>, 2022.
 # "John R. D'Orazio" <priest@johnromanodorazio.com>, 2024.
+# Weblate Admin <admin@example.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-24 14:01+0000\n"
-"PO-Revision-Date: 2024-06-23 02:09+0000\n"
-"Last-Translator: \"John R. D'Orazio\" <priest@johnromanodorazio.com>\n"
+"POT-Creation-Date: 2024-07-08 11:48+0000\n"
+"PO-Revision-Date: 2024-07-08 12:20+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: French <https://translate.johnromanodorazio.com/projects/"
 "liturgical-calendar/anniversary-calculator/fr/>\n"
 "Language: fr\n"
@@ -17,154 +18,250 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.5.5\n"
+"X-Generator: Weblate 5.6.1\n"
 
-#. translators: 1: count, 2: filename
-#: src/AnniversaryCalculator.php:267
+#. translators: filename
+#: src/AnniversaryCalculator.php:259
 #, php-format
-msgid "%1$d localized data events loaded from translation file %2$s"
+msgid "Data file %s is missing."
+msgstr "Le fichier de données %s est manquant."
+
+#. translators: 1. filename, 2. error messag
+#: src/AnniversaryCalculator.php:270
+#, php-format
+msgid ""
+"The following error occurred while decoding the base data file %1$s: %2$s."
 msgstr ""
-"%1$d événements de données localisés chargés à partir du fichier de "
-"traduction %2$s"
+"L'erreur suivante s'est produite lors du décodage du fichier de données de "
+"base %1$s : %2$s."
 
-#. translators: 1: count, 2: filename
-#: src/AnniversaryCalculator.php:274
+#. translators: 1. count, 2. filename
+#: src/AnniversaryCalculator.php:280
 #, php-format
-msgid "%1$d events loaded from data file %2$s"
-msgstr "%1$d événements chargés à partir du fichier de données %2$s"
-
-#. translators: count
-#: src/AnniversaryCalculator.php:332
-#, php-format
-msgid "%d data rows calculated"
-msgstr "%d lignes de données calculées"
+msgid "%1$d events were loaded from the base data file %2$s."
+msgstr "%1$d événements chargés à partir du fichier de données de base %2$s."
 
 #. translators: filename
-#: src/AnniversaryCalculator.php:341
+#: src/AnniversaryCalculator.php:292
 #, php-format
-msgid "missing translation file: %s"
-msgstr "fichier de traduction manquant : %s"
+msgid "Translation file %s is missing."
+msgstr "Fichier de traduction %s manquant."
 
-#. translators: filename
-#: src/AnniversaryCalculator.php:348
+#. translators: 1. filename, 2. error message
+#: src/AnniversaryCalculator.php:303
 #, php-format
-msgid "missing data file: %s"
-msgstr "fichier de données manquant : %s"
+msgid "The following error occurred decoding the translation file %1$s: %2$s."
+msgstr ""
+"L'erreur suivante s'est produite lors du décodage du fichier de traduction "
+"%1$s : %2$s."
 
-#: src/AnniversaryCalculator/LitEvent.php:67
+#. translators: 1. count, 2. filename
+#: src/AnniversaryCalculator.php:313
+#, php-format
+msgid "%1$d localized data events were loaded from the translation file %2$s."
+msgstr ""
+"%1$d événements de données localisés ont été chargés à partir du fichier de "
+"traduction %2$s."
+
+#. translators: 1. filename, 2. language
+#: src/AnniversaryCalculator.php:325
+#, php-format
+msgid ""
+"The English translation file %1$s, which is needed as a backup for any "
+"possible missing strings in the translation for %2$s, is missing."
+msgstr ""
+"Le fichier de traduction en anglais %1$s, qui est nécessaire comme "
+"sauvegarde pour toute chaîne manquante dans la traduction pour %2$s, est "
+"manquant."
+
+#: src/AnniversaryCalculator.php:335
+#, php-format
+msgid ""
+"The following error was produced while decoding data from the English "
+"tranlsation file %1$s, which is needed as a backup for any possible missing "
+"strings in the translation for %2$s: %3$s."
+msgstr ""
+"L'erreur suivante a été produite lors du décodage des données du fichier de "
+"traduction anglais %1$s, qui est nécessaire comme sauvegarde pour toute "
+"chaîne manquante dans la traduction pour %2$s : %3$s."
+
+#. translators: 1. count, 2. filename, 3. language
+#: src/AnniversaryCalculator.php:347
+#, php-format
+msgid ""
+"%1$d data events were loaded from the English translation file %2$s, which "
+"is needed as a backup for any possible missing strings in the translation "
+"for %3$s."
+msgstr ""
+"%1$d données des événements ont été chargées à partir du fichier de "
+"traduction anglais %2$s, qui est nécessaire comme sauvegarde pour toute "
+"chaîne manquante dans la traduction pour %3$s."
+
+#. translators: 1. filename, 2. count, 3. filename, 4. count
+#: src/AnniversaryCalculator.php:368
+#, php-format
+msgid ""
+"Events count from the translation file %1$s (%2$d) does not match the events "
+"count from the base data file %3$s (%4$d)."
+msgstr ""
+"Le nombre d'événements du fichier de traduction %1$s (%2$d) ne correspond "
+"pas au nombre d'événements du fichier de données de base %3$s (%4$d)."
+
+#. translators: 1. filename, 2. count, 3. filename, 4. count
+#: src/AnniversaryCalculator.php:386
+#, php-format
+msgid ""
+"Events count from the English translation file %1$s (%2$d) does not match "
+"the events count from the base data file %3$s (%4$d)."
+msgstr ""
+"Le nombre d'événements du fichier de traduction en anglais %1$s (%2$d) ne "
+"correspond pas au nombre d'événements du fichier de données de base %3$s "
+"(%4$d)."
+
+#. translators: 1. count, 2. year
+#: src/AnniversaryCalculator.php:451
+#, php-format
+msgid "%1$d liturgical anniversary events were calculated for the year %2$d."
+msgstr ""
+"%1$d des événements des anniversaires liturgiques ont été calculés pour "
+"l'année %2$d."
+
+#. translators: 1. language
+#: src/AnniversaryCalculator.php:458
+#, php-format
+msgid ""
+"English translation strings were used because the translation for %1$s was "
+"incomplete."
+msgstr ""
+"Les chaînes de traduction anglaises ont été utilisées parce que la "
+"traduction pour %1$s était incomplète."
+
+#: src/AnniversaryCalculator/AnniversaryEvent.php:68
 msgid "CENTENARY"
 msgstr "CENTENAIRE"
 
-#: src/AnniversaryCalculator/LitEvent.php:68
+#: src/AnniversaryCalculator/AnniversaryEvent.php:69
 msgid "ONYX"
 msgstr "ONYX"
 
-#: src/AnniversaryCalculator/LitEvent.php:69
+#: src/AnniversaryCalculator/AnniversaryEvent.php:70
 msgid "GRANITE"
 msgstr "GRANIT"
 
-#: src/AnniversaryCalculator/LitEvent.php:70
+#: src/AnniversaryCalculator/AnniversaryEvent.php:71
 msgid "MARBLE"
 msgstr "MARBRE"
 
-#: src/AnniversaryCalculator/LitEvent.php:71
+#: src/AnniversaryCalculator/AnniversaryEvent.php:72
 msgid "OAK"
 msgstr "CHÊNE"
 
-#: src/AnniversaryCalculator/LitEvent.php:72
+#: src/AnniversaryCalculator/AnniversaryEvent.php:73
 msgid "PLATINUM"
 msgstr "PLATINE"
 
-#: src/AnniversaryCalculator/LitEvent.php:73
+#: src/AnniversaryCalculator/AnniversaryEvent.php:74
 msgid "IRON"
 msgstr "FER"
 
-#: src/AnniversaryCalculator/LitEvent.php:74
+#: src/AnniversaryCalculator/AnniversaryEvent.php:75
 msgid "STONE"
 msgstr "PIERRE"
 
-#: src/AnniversaryCalculator/LitEvent.php:75
+#: src/AnniversaryCalculator/AnniversaryEvent.php:76
 msgid "DIAMOND"
 msgstr "DIAMANT"
 
-#: src/AnniversaryCalculator/LitEvent.php:76
+#: src/AnniversaryCalculator/AnniversaryEvent.php:77
 msgid "EMERALD"
 msgstr "ÉMERAUDE"
 
-#: src/AnniversaryCalculator/LitEvent.php:77
+#: src/AnniversaryCalculator/AnniversaryEvent.php:78
 msgid "GOLD"
 msgstr "OR"
 
-#: src/AnniversaryCalculator/LitEvent.php:78
+#: src/AnniversaryCalculator/AnniversaryEvent.php:79
 msgid "SAPPHIRE"
 msgstr "SAPHIR"
 
-#: src/AnniversaryCalculator/LitEvent.php:79
+#: src/AnniversaryCalculator/AnniversaryEvent.php:80
 msgid "RUBY"
 msgstr "RUBIS"
 
-#: src/AnniversaryCalculator/LitEvent.php:80
+#: src/AnniversaryCalculator/AnniversaryEvent.php:81
 msgid "CORAL"
 msgstr "CORAIL"
 
-#: src/AnniversaryCalculator/LitEvent.php:81
+#: src/AnniversaryCalculator/AnniversaryEvent.php:82
 msgid "PEARL"
 msgstr "PERLE"
 
-#: src/AnniversaryCalculator/LitEvent.php:82
+#: src/AnniversaryCalculator/AnniversaryEvent.php:83
 msgid "SILVER"
 msgstr "ARGENT"
 
-#: src/AnniversaryCalculator/LitEvent.php:83
+#: src/AnniversaryCalculator/AnniversaryEvent.php:84
 msgid "PORCELAIN"
 msgstr "PORCELAINE"
 
-#: src/AnniversaryCalculator/LitEvent.php:84
+#: src/AnniversaryCalculator/AnniversaryEvent.php:85
 msgid "CRISTAL"
 msgstr "CRISTAL"
 
-#: src/AnniversaryCalculator/LitEvent.php:85
+#: src/AnniversaryCalculator/AnniversaryEvent.php:86
 msgid "ALUMINUM"
 msgstr "ALUMINIUM"
 
-#: src/AnniversaryCalculator/LitEvent.php:86
+#: src/AnniversaryCalculator/AnniversaryEvent.php:87
 msgid "WOOD"
 msgstr "BOIS"
 
-#: src/AnniversaryCalculator/LitEvent.php:87
+#: src/AnniversaryCalculator/AnniversaryEvent.php:88
 msgid "PAPER"
 msgstr "PAPIER"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:24
+#: src/AnniversaryCalculator/Enums/AnnivType.php:37
 msgid "birth"
 msgstr "naissance"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:25
+#: src/AnniversaryCalculator/Enums/AnnivType.php:38
 msgid "death"
 msgstr "mort"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:26
+#: src/AnniversaryCalculator/Enums/AnnivType.php:39
 msgid "canonization"
 msgstr "canonisation"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:27
+#: src/AnniversaryCalculator/Enums/AnnivType.php:40
 msgid "doctor"
 msgstr "docteur"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:28
+#: src/AnniversaryCalculator/Enums/AnnivType.php:41
 msgid "dedication"
 msgstr "dédicace"
 
 #. translators: term "translation" refers to the transferral of the relics of a saint
-#: src/AnniversaryCalculator/Enums/AnnivType.php:30
+#: src/AnniversaryCalculator/Enums/AnnivType.php:43
 msgid "translation"
 msgstr "traduction"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:31
+#: src/AnniversaryCalculator/Enums/AnnivType.php:44
 msgid "dogma"
 msgstr "dogme"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:32
+#: src/AnniversaryCalculator/Enums/AnnivType.php:45
+msgid "apparition"
+msgstr "apparition"
+
+#: src/AnniversaryCalculator/Enums/AnnivType.php:46
+msgid "pontifical incoronation"
+msgstr "couronnement pontifical"
+
+#: src/AnniversaryCalculator/Enums/AnnivType.php:47
+msgid "ecumenical council"
+msgstr "concile œcuménique"
+
+#: src/AnniversaryCalculator/Enums/AnnivType.php:48
 msgid "other"
 msgstr "autre"
 
@@ -201,5 +298,11 @@ msgid "diocesan"
 msgstr "diocésain"
 
 #: src/AnniversaryCalculator/Enums/LitCalendar.php:23
-msgid "wide_area"
-msgstr "zone_étendue"
+msgid "wide area"
+msgstr "zone étendue"
+
+#~ msgid "%d data rows calculated"
+#~ msgstr "%d lignes de données calculées"
+
+#~ msgid "missing data file: %s"
+#~ msgstr "fichier de données manquant : %s"

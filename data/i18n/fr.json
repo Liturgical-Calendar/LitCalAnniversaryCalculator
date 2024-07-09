@@ -47,7 +47,7 @@
         "place_of_burial": "Basilique Saint-Sébastien-hors-les-Murs",
         "notes": "Année de décès 250/251, après avoir été Pape pendant environ 15 ans",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "N/A"
     },
     "StSebastian_6": {
         "subject": "Saint Sébastien, martyr",
@@ -77,11 +77,11 @@
         "place_of_burial": "Cathédrale de Valence (Espagne) / Cathédrale de Lisbonne (Portugal) / Acate (Raguse, Italie ; tradition populaire)",
         "notes": "Vincent († Valence, Espagne, 22 janvier 304), diacre de l'Église de Saragosse, arrêté pendant la persécution de Dioclétien, mourut en prison des suites des tortures subies. Il offrit sa vie au Christ avec l'évêque Valère, avec qui il avait tant de fois offert le sacrifice de l'autel. Il est commémoré le 22 janvier dans le Martyrologe hiéronymien (Ve-VIe siècle). Avec l'avènement de l'empereur Constantin, qui s'était converti au christianisme, une basilique fut érigée à Valence en l'honneur de saint Vincent et sous l'autel principal furent déposées ses reliques. Cependant, suite à l'invasion des Maures, les chrétiens de Valence dérobèrent le corps du Martyr pour le mettre en sécurité au Portugal, dans une petite église spécialement construite dans le lieu du promontoire aujourd'hui appelé Cap Saint-Vincent. Après la guerre contre les Maures, les restes furent embarqués sur un navire en direction de Lisbonne. Une légende dévotionnelle raconte que pendant le voyage, des corbeaux se posèrent sur la proue et la poupe du navire comme pour signifier leur protection renouvelée au Saint Martyr qu'ils avaient déjà sauvé des bêtes sauvages. Une fois arrivé en ville, le corps fut déposé dans l'église de Sainte-Juste et Sainte-Rufine et après quelque temps, le 15 septembre 1173, il fut solennellement transporté à la cathédrale. En mémoire, des monnaies furent frappées. https://fr.wikipedia.org/wiki/Monast%C3%A8re_de_Saint-Vincent_de_Fora",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "N/A"
     },
     "StFrancisDeSales_9": {
         "subject": "Saint François de Sales, évêque et docteur",
-        "places": "",
+        "places": "N/A",
         "place_of_death": "Lyon, France",
         "place_of_birth": "Salès (France)",
         "place_of_burial": "Basilique de la Visitation, Annecy, France",
@@ -171,10 +171,10 @@
     },
     "StsPaulMiki_19": {
         "subject": "Saints Paul Miki et compagnons, martyrs",
-        "places": "",
+        "places": "N/A",
         "place_of_death": "Nagasaki, Japon",
         "place_of_birth": "Kyoto (Japon)",
-        "place_of_burial": "",
+        "place_of_burial": "N/A",
         "notes": "Paul Miki (Kyoto, Japon, 1556 - Nagasaki, 5 février 1597), jésuite, fut victime de la persécution que l'empereur japonais ordonna contre les chrétiens, craignant que leur augmentation ne constitue un danger pour l'autonomie du pays. Avec lui furent crucifiés vingt-cinq autres chrétiens, laïcs et religieux (Jésuites et Frères Mineurs).",
         "patronage": "",
         "main_shrine": "https://it.wikipedia.org/wiki/Basilica_dei_Ventisei_Santi_Martiri_del_Giappone; Musée et monument des vingt-six martyrs de Nagasaki https://travel.at-nagasaki.jp/it/s/what-to-see/30/ https://en.wikipedia.org/wiki/Twenty-Six_Martyrs_Museum_and_Monument"
@@ -197,14 +197,14 @@
         "place_of_burial": "Abbaye de Mont-Cassin",
         "notes": "Scholastique (Norcia, Pérouse, vers 480 - Mont-Cassin, Frosinone, vers 547) est désignée par la tradition comme la sœur de saint Benoît. Les Dialogues de Grégoire le Grand la décrivent comme une vierge amoureuse de la contemplation, sage en plaçant la charité avant toute règle humaine. Elle est commémorée le 10 février dans le Calendrier de marbre de Naples (IXe siècle) et dans le Martyrologe d'Usuard (vers 870).",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "N/A"
     },
     "LadyLourdes_22": {
         "subject": "Bienheureuse Vierge Marie de Lourdes",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Lourdes (France)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
         "notes": "Cette mémoire est liée à l'expérience mystique de Bernadette Soubirous, qui, dix-huit fois, entre le 11 février et le 16 juillet 1858, dans la grotte de Massabielle, près de Lourdes (France), rencontra la Vierge Marie. Elle lui déclara être « l'Immaculée Conception », appelant les hommes à la prière et à la conversion. Le sanctuaire érigé en ce lieu, sur l'invitation de la Vierge, devint une destination de pèlerinages continus, surtout pour les malades.",
         "patronage": "",
         "main_shrine": "Lourdes (France)"
@@ -221,7 +221,7 @@
     },
     "SevenHolyFounders_24": {
         "subject": "Saints Sept Fondateurs des Servites de la Bienheureuse Vierge Marie",
-        "places": "",
+        "places": "N/A",
         "place_of_death": "Montesenario",
         "place_of_birth": "Florence",
         "place_of_burial": "Florence",
@@ -231,7 +231,7 @@
     },
     "StPeterDamian_25": {
         "subject": "Saint Pierre Damien, évêque et docteur de l'Église",
-        "places": "",
+        "places": "N/A",
         "place_of_death": "Faenza",
         "place_of_birth": "Ravenne",
         "place_of_burial": "Monastère bénédictin de Sainte-Marie-Hors-les-Murs (Faenza)",
@@ -241,17 +241,17 @@
     },
     "StPolycarp_27": {
         "subject": "Saint Polycarpe, évêque et martyr",
-        "places": "",
+        "places": "N/A",
         "place_of_death": "Smyrne, Turquie",
         "place_of_birth": "Smyrne, Turquie",
-        "place_of_burial": "",
+        "place_of_burial": "N/A",
         "notes": "Polycarpe († 23 février 167), disciple de l'apôtre Jean, fut évêque de Smyrne (Turquie), où il accueillit saint Ignace en route pour Rome, ville où il subirait le martyre. Après un long épiscopat, à un âge très avancé, Polycarpe fut condamné au bûcher pour sa foi. C'était le jour du Seigneur : tandis que le feu le consumait, l'évêque se joignait, en priant, à la liturgie eucharistique tant de fois célébrée avec son Église. Le récit de sa passion est le plus ancien document sur le culte des martyrs.",
         "patronage": "",
         "main_shrine": "Église de Saint Polycarpe, Smyrne, Turquie"
     },
     "StCasimir_28": {
         "subject": "Saint Casimir",
-        "places": "",
+        "places": "N/A",
         "place_of_death": "Hrodna (Biélorussie)",
         "place_of_birth": "Cracovie",
         "place_of_burial": "Vilnius (Lituanie)",
@@ -261,17 +261,17 @@
     },
     "StsPerpetuaFelicity_29": {
         "subject": "Saintes Perpétue et Félicité, martyres",
-        "places": "",
+        "places": "N/A",
         "place_of_death": "Carthage - Tunis (Tunisie)",
         "place_of_birth": "Carthage - Tunis (Tunisie)",
-        "place_of_burial": "",
+        "place_of_burial": "N/A",
         "notes": "En 439, les reliques de sainte Perpétue, à l'approche de l'invasion des Vandales, furent transférées à Rome, puis de là, en 843, par l'archevêque de Bourges, saint Raoul, à l'abbaye de Dèvres (ou Deuvre), à Saint-Georges-sur-la-Prée. Après que cette abbaye fut pillée par les Normands en 903, elles furent transférées à Vierzon, sur le site de l'actuelle mairie. De là, elles furent transférées dans l'église de Notre Dame de Vierzon en 1807, où elles ont été conservées jusqu'à présent.",
         "patronage": "",
         "main_shrine": "Église Notre Dame de Vierzon (France)"
     },
     "StJohnGod_30": {
         "subject": "Saint Jean de Dieu, religieux",
-        "places": "",
+        "places": "Lourdes (France)",
         "place_of_death": "Grenade (Espagne)",
         "place_of_birth": "Montemor-o-Novo (Portugal)",
         "place_of_burial": "Grenade (Espagne)",
@@ -281,7 +281,7 @@
     },
     "StFrancesRome_31": {
         "subject": "Sainte Françoise Romaine, religieuse",
-        "places": "",
+        "places": "Lourdes (France)",
         "place_of_death": "Rome",
         "place_of_birth": "Rome",
         "place_of_burial": "Rome",
@@ -291,7 +291,7 @@
     },
     "StPatrick_32": {
         "subject": "Saint Patrick, évêque",
-        "places": "",
+        "places": "Lourdes (France)",
         "place_of_death": "Downpatrick (Irlande du Nord)",
         "place_of_birth": "Old Kilpatrick (Écosse)",
         "place_of_burial": "Downpatrick (Irlande du Nord)",
@@ -301,27 +301,27 @@
     },
     "StCyrilJerusalem_33": {
         "subject": "Saint Cyrille de Jérusalem, évêque et docteur",
-        "places": "",
+        "places": "Lourdes (France)",
         "place_of_death": "Jérusalem",
         "place_of_birth": "Jérusalem",
-        "place_of_burial": "",
+        "place_of_burial": "Lourdes (France)",
         "notes": "Cyrille (ca. 315 - 387), évêque de Jérusalem, fut dramatiquement impliqué dans les profondes divisions de l'Église de son temps : calomnié et plusieurs fois exilé, il resta fidèle à la doctrine proclamée au Concile de Nicée (325). On lui attribue quelques célèbres catéchèses baptismales.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Lourdes (France)"
     },
     "StJoseph_34": {
         "subject": "Saint Joseph Époux de la Bienheureuse Vierge Marie",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
+        "places": "Lourdes (France)",
+        "place_of_death": "Lourdes (France)",
+        "place_of_birth": "Lourdes (France)",
         "place_of_burial": "Tombe du Juste à Nazareth ?",
         "notes": "Joseph, « homme juste » (Mt 1, 19), est l'époux de Marie et le père de Jésus selon la loi : en lui donnant son nom (cf. Mt 1, 21.25), il permet au Fils de Dieu de se lier à la dynastie davidique, en tant que « fils de David, fils d'Abraham » (Mt 1, 1 ; cf. Lc 1, 27). Comme l'ancien Joseph, il est également placé par Dieu comme gardien de sa maison (cf. Gen 41, 41-43 ; Ac 7, 10). Prêt à obéir à la parole de Dieu, révélée en songe par un ange du Seigneur (cf. Mt 1, 20 ; 2, 13.19-23), il prend Marie pour épouse ; fuit en Égypte (cf. Mt 2, 13) avec la sainte Famille ; revient, comme indiqué par l'ange, pour s'établir à Nazareth, accomplissant ainsi les prophéties contenues dans les Écritures (cf. Mt 2, 23). Pie IX l'a déclaré patron de l'Église universelle (1870).",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Lourdes (France)"
     },
     "StTuribius_35": {
         "subject": "Saint Turibio de Mogrovejo, évêque",
-        "places": "",
+        "places": "Lourdes (France)",
         "place_of_death": "Zaña (Pérou)",
         "place_of_birth": "Mayorga (Espagne)",
         "place_of_burial": "Lima (Pérou)",
@@ -331,7 +331,7 @@
     },
     "StFrancisPaola_37": {
         "subject": "Saint François de Paule, ermite",
-        "places": "",
+        "places": "Lourdes (France)",
         "place_of_death": "Château de Plessis-lez-Tours (La Riche, France)",
         "place_of_birth": "Paola (Cosenza)",
         "place_of_burial": "La Riche, France (la construction d'un sanctuaire au-dessus de la tombe a été commencée, seule l'abside a été édifiée)",
@@ -341,7 +341,7 @@
     },
     "StIsidore_38": {
         "subject": "Saint Isidore, évêque et docteur de l'Église",
-        "places": "",
+        "places": "Lourdes (France)",
         "place_of_death": "Séville (Espagne)",
         "place_of_birth": "Carthagène (Espagne)",
         "place_of_burial": "Real Colegiata Basílica de San Isidoro (León, Espagne)",
@@ -351,7 +351,7 @@
     },
     "StVincentFerrer_39": {
         "subject": "Saint Vincent Ferrier, prêtre",
-        "places": "",
+        "places": "Lourdes (France)",
         "place_of_death": "Vannes, France",
         "place_of_birth": "Valence, Espagne",
         "place_of_burial": "Cathédrale Saint-Pierre à Vannes, France",
@@ -361,7 +361,7 @@
     },
     "StJohnBaptistDeLaSalle_40": {
         "subject": "Saint Jean-Baptiste de La Salle, prêtre",
-        "places": "",
+        "places": "Lourdes (France)",
         "place_of_death": "Saint Yon près de Rouen, France",
         "place_of_birth": "Reims, France",
         "place_of_burial": "Jean-Baptiste de La Salle fut enterré dans l'église de Saint-Sever, un quartier de Rouen. En 1734, son corps fut ramené à Saint-Yon dans la chapelle de son pensionnat, puis en 1835, il fut transféré dans celle de l'École normale de Rouen. À Reims, une église dédiée à lui fut construite en 1898. En 1937, ses reliques furent transférées à Rome.",
@@ -371,7 +371,7 @@
     },
     "StStanislaus_41": {
         "subject": "Saint Stanislas, évêque et martyr",
-        "places": "",
+        "places": "Lourdes (France)",
         "place_of_death": "Cracovie, Pologne",
         "place_of_birth": "Szczepanowice, Pologne",
         "place_of_burial": "Cathédrale de Cracovie, Pologne",
@@ -381,7 +381,7 @@
     },
     "StMartinPope_42": {
         "subject": "Saint Martin Ier, pape et martyr",
-        "places": "",
+        "places": "Lourdes (France)",
         "place_of_death": "Cherson (actuelle Akherson), Ukraine",
         "place_of_birth": "Todi, Pérouse, Italie",
         "place_of_burial": "Martin fut enterré à Cherson dans la basilique de Sainte Marie ad Blachernas, devenant objet de culte pour les nombreux miracles dus à son intercession. Par la suite, sa dépouille fut transférée à Rome et enterrée peut-être dans l'église de Saint Martin aux Monts.",
@@ -391,7 +391,7 @@
     },
     "StAnselm_43": {
         "subject": "Saint Anselme de Cantorbéry, évêque et docteur de l'Église",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Cantorbéry, Royaume-Uni",
         "place_of_birth": "Aoste, Italie",
         "place_of_burial": "Anselme mourut le 21 avril 1109, mercredi saint, et fut enterré dans la cathédrale de Cantorbéry. Ses reliques furent cependant exhumées lors des troubles religieux qui eurent lieu sous le règne d'Henri VIII d'Angleterre et on en perdit la trace.",
@@ -401,7 +401,7 @@
     },
     "StGeorge_44": {
         "subject": "Saint Georges, martyr",
-        "places": "",
+        "places": "Lourdes (France)",
         "place_of_death": "Nicomédie (actuelle İzmit), Turquie | ou | Lydda (actuelle Lod) - Tel Aviv, Israël",
         "place_of_birth": "Cappadoce (Turquie)",
         "place_of_burial": "Lydda, Tel Aviv (Israël)",
@@ -431,13 +431,13 @@
     },
     "StPeterChanel_47": {
         "subject": "Saint Pierre Chanel, prêtre et martyr",
-        "places": "",
+        "places": "Lourdes (France)",
         "place_of_death": "Futuna, Océanie française",
         "place_of_birth": "Montrevel-en-Bresse, France,",
         "place_of_burial": "Les restes du missionnaire, enterrés à la hâte, furent ensuite réclamés par M. Lavaux, commandant français de la station navale de Tahiti, et ramenés en France par un moyen de transport gouvernemental, en 1842.",
         "notes": "Pierre (Montrevel-en-Bresse, France, 12 juillet 1803 - Futuna, Océanie française, 28 avril 1841), prêtre de la Société de Marie (Maristes), fut l'un des premiers missionnaires en Océanie occidentale. Après quelques bons résultats dans l'œuvre d'évangélisation, il tomba victime de l'hostilité des chefs religieux locaux. Son martyre contribua à rapprocher de la foi la population de l'île de Futuna.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Lourdes (France)"
     },
     "StCatherineSiena_48": {
         "subject": "Sainte Catherine de Sienne, vierge et docteur de l'Église",
@@ -451,7 +451,7 @@
     },
     "StPiusV_49": {
         "subject": "Saint Pie V, pape",
-        "places": "",
+        "places": "Lourdes (France)",
         "place_of_death": "Rome, Italie",
         "place_of_birth": "Bosco Marengo, Alexandrie, Italie",
         "place_of_burial": "Basilique Sainte-Marie-Majeure, Rome",
@@ -461,13 +461,13 @@
     },
     "StJosephWorker_50": {
         "subject": "Saint Joseph Travailleur",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_death": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "Joseph, époux de la Vierge Marie et père putatif de Jésus, est présenté dans les Évangiles comme « charpentier » (Mt 13, 55). C'est Pie XII qui, en 1955, a introduit cette mémoire, pour donner un « chrême chrétien » à la fête laïque du premier mai, répandue depuis le XIXe siècle dans de nombreux pays comme date symbolique des luttes pour la reconnaissance des droits des travailleurs. Cette célébration liturgique entend rappeler la grande dignité du travail humain qui continue l'œuvre du Créateur et fut partagé par le Fils de Dieu fait homme, lui aussi appelé, dans les Évangiles, « charpentier » (Mc 6, 3). Laborem Exercens est une encyclique publiée par le pape Jean-Paul II le 14 septembre 1981. Elle traite du travail humain à l'occasion du 90e anniversaire de la Rerum Novarum.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aoste (Italie), Cantorbéry (Royaume-Uni)"
     },
     "StAthanasius_51": {
         "subject": "Saint Athanase, évêque et docteur",
@@ -493,7 +493,7 @@
         "subject": "Saints Nérée et Achillée, martyrs",
         "places": "Rome, Italie",
         "place_of_death": "Rome",
-        "place_of_birth": "",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_burial": "Catacombes de Domitille",
         "notes": "Nérée et Achillée, selon la tradition, étaient deux militaires convertis à la foi par l'exemple de la force des chrétiens torturés et conduits au martyre. Décapités sur la voie Ardéatine, ils furent enterrés dans le cimetière de Domitille. Leur martyre, probablement survenu lors de la première persécution de Dioclétien (303-305), est relaté par le pape Damase dans l'épitaphe qu'il fit placer sur leur tombe. Les deux martyrs, dont le culte est attesté depuis le VIe siècle, sont commémorés le 12 mai dans le Martyrologe hiéronymien (Ve-VIe siècle).",
         "patronage": "",
@@ -503,7 +503,7 @@
         "subject": "Saint Pancrace, martyr",
         "places": "Rome, Italie",
         "place_of_death": "Rome",
-        "place_of_birth": "",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_burial": "Cimetière d'Ottavilla, Rome",
         "notes": "Pancrace (IIIe ou IVe siècle), martyr romain, fut enterré dans le cimetière d'Ottavilla, sur la via Aurelia, comme attesté par la tradition du culte, confirmée par le pape Symmaque (498-514) avec l'érection en ce lieu d'une basilique en son honneur. Le plus ancien récit du martyre décrit Pancrace comme très jeune, à peine quatorze ans. Il est commémoré le 12 mai dans le Martyrologe hiéronymien (Ve-VIe siècle).",
         "patronage": "",
@@ -591,29 +591,29 @@
     },
     "Visitation_63": {
         "subject": "Visitation de la Bienheureuse Vierge Marie",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_death": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "Marie, arche sainte de la Nouvelle Alliance, se rend en hâte chez sa parente Élisabeth (cf. Lc 1, 36) qui l'accueille comme la Mère de son Seigneur (cf. Lc 1, 39-56). «Une vierge est enceinte de Dieu, et une stérile est enceinte d'un vierge, le fils de la stérilité tressaille à la grossesse de la virginité»: ainsi Éphrem le Syrien chante le mystère de cette fête. Par l'œuvre de l'Esprit, dans la rencontre des mères se rencontrent les fils et les deux Testaments: l'un tressaille de joie en présence de l'autre; les temps sont accomplis. En Marie, l'Église chante aussi son Magnificat pour les grandes choses accomplies par Dieu en elle (cf. Lc 1, 46-55). Le mois de mai, traditionnellement lié à la dévotion mariale, trouve dans cette fête une conclusion d'un goût purement biblique.",
         "patronage": "",
         "main_shrine": "Église de la Visitation, Ein Kerem, Israël"
     },
     "StJustinMartyr_64": {
         "subject": "Saint Justin martyr",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Rome, Italie",
         "place_of_birth": "Naplouse, Palestine",
         "place_of_burial": "Cimetière de Sainte Ciriaca (Basilique de Saint Laurent hors les Murs); Église Collégiale de Saint Sylvestre Pape, Fabrica di Roma (identification incertaine?)",
         "notes": "Justin (Flavia Neapolis, actuelle Naplouse, Palestine, début du IIe siècle - Rome, 165) fut un passionné chercheur de la vérité. Après avoir trouvé en Christ la vraie sagesse, il s'engagea à l'approfondir et à l'enseigner même avec l'aide de la philosophie. Il écrivit deux Apologies du christianisme – dans la première desquelles se trouve la plus ancienne description de la célébration eucharistique, dans sa structure essentielle – et le Dialogue avec Tryphon, en confrontation avec le milieu juif. Condamné à mort comme chrétien, il donna un témoignage complet à la Vérité. Sa mémoire est célébrée le premier juin aussi par les Orthodoxes.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aoste (Italie), Cantorbéry (Royaume-Uni)"
     },
     "StsMarcellinusPeter_65": {
         "subject": "Saints Marcellin et Pierre, martyrs",
         "places": "Rome, Italie",
         "place_of_death": "Rome, Italie",
-        "place_of_birth": "",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_burial": "Catacombe des Saints Marcellin et Pierre \"Ad duas lauros\", Rome, Italie",
         "notes": "Marcellin, prêtre, et Pierre, exorciste, furent martyrisés à Rome sous Dioclétien (303-305), sur la via Casilina, à Tor Pignattara. Le futur pape Damase, dans sa jeunesse, put recueillir le récit de leur mort par le témoignage du même bourreau. Les deux martyrs sont cités dans le Canon Romain et commémorés le 2 juin par le Martyrologe hiéronymien (Ve-VIe siècle).",
         "patronage": "",
@@ -623,7 +623,7 @@
         "subject": "Saints Charles Lwanga et compagnons, martyrs",
         "places": "Namugongo, Ouganda",
         "place_of_death": "Kampala, Ouganda",
-        "place_of_birth": "",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_burial": "Basilique des Saints Martyrs de l'Ouganda, Namugongo, Ouganda",
         "notes": "Charles Lwanga († Kampala, Ouganda, 3 juin 1886), chef des pages de Mutesa I, roi du Buganda (dans l'actuelle Ouganda), fut accusé, avec d'autres dignitaires du royaume, d'avoir attiré la vengeance des esprits à cause de sa foi en Christ. Il fut condamné au bûcher avec vingt et un autres compagnons, pour la plupart très jeunes. Avec ces premiers martyrs catholiques de l'Afrique noire, quelques chrétiens anglicans offrirent également leur vie pour le Christ.",
         "patronage": "",
@@ -651,17 +651,17 @@
     },
     "StEphrem_69": {
         "subject": "Saint Éphrem, diacre et docteur",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Édesse (actuelle Şanliurfa), Turquie",
         "place_of_birth": "Nisibe (actuelle Nusaybin), Turquie",
-        "place_of_burial": "",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "Éphrem (Nisibe, actuelle Nusaybin, Turquie, vers 306 - Édesse, actuelle Şanliurfa, 9 juin 373) contribua à la fondation d'une école théologique, d'abord dans son pays natal, puis à Édesse, où il se transféra après le passage de Nisibe sous la domination des Perses. Il composa des hymnes liturgiques riches en images et en rythmes qui le rendirent célèbre dans tout l'Orient chrétien. Il exerça de manière exemplaire le ministère diaconal dans l'enseignement, l'animation liturgique et l'assistance aux nécessiteux.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aoste (Italie), Cantorbéry (Royaume-Uni)"
     },
     "StBarnabasAp_70": {
         "subject": "Saint Barnabé, apôtre",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Chypre",
         "place_of_birth": "Chypre",
         "place_of_burial": "Monastère de Saint Barnabé, Chypre",
@@ -731,13 +731,13 @@
     },
     "StCyrilAlexandria_77": {
         "subject": "Saint Cyrille d'Alexandrie, évêque et docteur",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Alexandrie, Égypte",
         "place_of_birth": "Théodosie (actuelle el-Mahalla el-Kubra), Égypte",
-        "place_of_burial": "",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "Cyrille, évêque d'Alexandrie d'Égypte de 412 à 444, défendit énergiquement la pureté de la foi en Christ. Auteur de nombreux écrits théologiques, il soutint fermement la reconnaissance de Marie comme Mère de Dieu, surtout au Concile d'Éphèse (431). Sa mémoire est célébrée en ce jour également par les Coptes et les Byzantins.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aoste (Italie), Cantorbéry (Royaume-Uni)"
     },
     "StIrenaeus_78": {
         "subject": "Saint Irénée, évêque et martyr",
@@ -763,11 +763,11 @@
         "subject": "Saints Premiers Martyrs de l'Église Romaine",
         "places": "Rome",
         "place_of_death": "Rome",
-        "place_of_birth": "",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_burial": "Catacombes",
         "notes": "Les Premiers Martyrs de l'Église de Rome sont «la grande foule» de chrétiens tués par l'empereur Néron, dans une tentative de détourner de lui les soupçons sur l'incendie de l'Urbs (juillet 64). Comme en témoigne l'historien païen Tacite dans ses Annales, ces innocents soumis à des «tourments raffinés» ont suscité «un sentiment de pitié, car ils étaient manifestement sacrifiés non pour le bien public, mais à la cruauté d'un seul».",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aoste (Italie), Cantorbéry (Royaume-Uni)"
     },
     "StThomasAp_81": {
         "subject": "Saint Thomas Apôtre",
@@ -851,13 +851,13 @@
     },
     "LadyMountCarmel_89": {
         "subject": "Bienheureuse Vierge Marie du Mont Carmel",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_death": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "Au XIIe siècle, des pèlerins se retirèrent sur le mont Carmel, en Palestine, où Élie avait lutté contre les prêtres de Baal pour la fidélité d'Israël au seul Seigneur (cf. 1 Rois 18, 20-40). Là, une communauté de contemplatifs dévoués à Marie, modèle d'adhésion inconditionnelle à Dieu, se forma. Cette communauté fut à l'origine de l'Ordre des Carmes et de nombreuses confréries laïques qui diffusèrent le culte de la Vierge du Carmel (ou du Carmine). L'Ordre du Carmel commença à célébrer la fête dédiée à la Bienheureuse Vierge \"du Mont Carmel\" en Angleterre à partir de la seconde moitié du XIVe siècle, chaque 17 juillet, en référence à la date de la dernière session du Concile de Lyon (1274), au cours de laquelle l'Ordre reçut une approbation qui le sauva de la suppression; elle fut instituée dans le but de remercier la Vierge Marie pour tous les bienfaits accordés à l'Ordre, en tant que protectrice et avocate. Par la suite, notamment au XVIe siècle, une importance primordiale fut accordée au Scapulaire, qui devint le motif le plus immédiat pour remercier et affirmer son amour à la Mère de Dieu. Par conséquent, sa célébration fut avancée au 16 juillet, en référence au jour où, selon la tradition, la Vierge serait apparue à saint Simon Stock en lui remettant le Scapulaire (1251). Cette fête se répandit rapidement dans le monde entier, au point que - dans l'exhortation apostolique \"Marialis Cultus\" - le pape Paul VI la compte parmi les fêtes \"célébrées à l'origine par des familles religieuses particulières, mais qui aujourd'hui, en raison de leur diffusion, peuvent être considérées comme véritablement ecclésiales\".",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aoste (Italie), Cantorbéry (Royaume-Uni)"
     },
     "StLawrenceBrindisi_90": {
         "subject": "Saint Laurent de Brindisi, prêtre et docteur",
@@ -867,14 +867,14 @@
         "place_of_burial": "Couvent de l'Annonciation, Villafranca del Bierzo, Espagne",
         "notes": "Laurent (Brindisi, 22 juillet 1559 - Lisbonne, Portugal, 22 juillet 1619), religieux capucin, brilla par la connaissance des langues et de la Sainte Écriture. Engagé dans une vaste activité de prédication à travers toute l'Europe, souvent investi de missions diplomatiques pour le compte du Saint-Siège, il cultiva une fervente vie spirituelle, surtout dans la célébration dévote et prolongée de l'Eucharistie. L'église de Sainte-Marie-des-Anges à Brindisi fut construite par saint Laurent de Brindisi sur des terrains lui appartenant.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aoste (Italie), Cantorbéry (Royaume-Uni)"
     },
     "StMaryMagdalene_91": {
         "subject": "Sainte Marie-Madeleine",
         "places": "Basilique de Sainte-Marie-Madeleine à Saint-Maximin-la-Sainte-Baume, France; Basilique de Sainte-Marie-Madeleine à Vézelay, France; Basilique de Saint-Jean-des-Florentins à Rome, Italie",
-        "place_of_death": "",
+        "place_of_death": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_birth": "Magdala, Palestine romaine",
-        "place_of_burial": "",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "Marie de Magdala, guérie par Jésus, est parmi les femmes qui le servent pendant son ministère (cf. Lc 8, 2-3). Elle monte avec lui à Jérusalem et est présente sous la croix et au moment de sa sépulture (cf. Mt 27, 56.61; Jn 19, 25). Le matin après le sabbat, alors qu'elle pleurait près du tombeau vide, elle fut visitée par lui, qui lui demanda d'aller annoncer aux disciples sa résurrection avec les paroles solennelles : « Va trouver mes frères et dis-leur : “Je monte vers mon Père et votre Père, vers mon Dieu et votre Dieu” » (Jn 20, 17). Sa mémoire est indiquée le 22 juillet dans le Martyrologe de Bède (VIIIe siècle). Le pape François a élevé cette mémoire au rang de fête le 3 juin 2016 pour souligner son rôle singulier de premier témoin de la résurrection et d'« apôtre des apôtres » (Préface). En tant que sainte catholique, les reliques de Marie-Madeleine furent vénérées à Saint-Maximin-la-Sainte-Baume, en Provence, attirant une telle foule de pèlerins qu'une grande basilique fut érigée vers le milieu du XIIIe siècle, l'une des plus célèbres églises gothiques du sud de la France. L'inventio des reliques est attribuée à Charles II d'Anjou, dit \"le Boiteux\", en 1279. Les reliques furent validées par le pape Boniface VIII en 1295 et conservées dans la basilique de Saint-Maximin-la-Sainte-Baume. Bien que ses ossements aient été dispersés pendant la Révolution française, on dit que sa tête est restée dans son sanctuaire dans une grotte à La Sainte-Baume près de Marseille, où la sainte se serait retirée ; on raconte aussi de grands miracles et bénédictions reçus par ceux qui se rendaient au sanctuaire pour vénérer Madeleine. Le pied de la sainte, conservé dans un précieux reliquaire de l'atelier de Benvenuto Cellini, a été vénéré pendant des siècles à Rome dans une chapelle située à l'entrée du Pont Saint-Ange, dernière des grandes reliques avant d'arriver sur la tombe de Saint Pierre. Le pied est aujourd'hui conservé dans la Basilique de San Giovanni dei Fiorentini. D'autres reliques consistant en des filaments de cheveux, des morceaux de chemises et de petits restes osseux, sont conservées dans la Collégiale d'Atrani (SA).",
         "patronage": "",
         "main_shrine": "Basilique Sainte-Marie-Madeleine à Saint-Maximin-la-Sainte-Baume, France ;"
@@ -891,7 +891,7 @@
     },
     "StJamesAp_93": {
         "subject": "Saint Jacques, apôtre",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Jérusalem",
         "place_of_birth": "Bethsaïde",
         "place_of_burial": "Basilique Saint-Jacques, Saint-Jacques-de-Compostelle, Espagne",
@@ -901,8 +901,8 @@
     },
     "StMartha_95": {
         "subject": "Sainte Marthe",
-        "places": "",
-        "place_of_death": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_death": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_birth": "Béthanie",
         "place_of_burial": "Église de Sainte Marthe, Tarascon, France",
         "notes": "Marthe, sœur de Marie et de « Lazare de Béthanie » (Jn 11, 1), accueille et sert Jésus chez elle (cf. Lc 10, 38 ; Jn 12, 2), et il l'exhorte à chercher « la seule chose » dont il y a besoin, la « meilleure part » (Lc 10, 42), que sa sœur a choisie en écoutant sa parole. Avec Marie, lorsque Lazare tombe malade, elle envoie chercher Jésus (cf. Jn 11, 3), proclame sa foi en lui (cf. Jn 11, 21-27) et assiste au réveil de Lazare de la mort (cf. Jn 11, 40-44) ; elle sert au dîner de Béthanie, pendant lequel sa sœur Marie oint les pieds de Jésus avec du nard précieux (cf. Jn 12, 2-3).",
@@ -911,7 +911,7 @@
     },
     "StPeterChrysologus_96": {
         "subject": "Saint Pierre Chrysologue, évêque et docteur",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Ravenne, Italie",
         "place_of_birth": "Imola, Italie",
         "place_of_burial": "Cathédrale de Saint Cassien à Imola, Italie",
@@ -962,19 +962,19 @@
     "DedicationStMaryMajor_101": {
         "subject": "Dédicace de la Basilique Sainte-Marie-Majeure",
         "places": "Rome",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "place_of_death": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "La basilique Sainte-Marie-Majeure fut érigée sur la colline de l'Esquilin, à Rome, par le pape Sixte III (432-440). Elle fut dédiée à la Vierge Marie que le Concile œcuménique d'Éphèse, en 431, avait reconnue comme « Mère de Dieu ». Ce fut le premier sanctuaire marial en Occident, à l'exemple duquel d'innombrables autres églises seront dédiées à la Vierge. La dédicace de la basilique le 5 août est mentionnée dans le Martyrologe hiéronymien (Ve-VIe siècle).",
         "patronage": "",
         "main_shrine": "Basilique Sainte-Marie-Majeure"
     },
     "Transfiguration_102": {
         "subject": "Transfiguration du Seigneur",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_death": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "Sur la montagne, en compagnie de Pierre, Jacques et Jean, Jésus est transfiguré « devant eux » (Mt 17, 2) : le voile tombe des yeux des disciples et ceux-ci, par don de Dieu, voient l'identité divine qui transparaît de l'humanité du Christ. Le Fils de l'homme qui s'est engagé vers la croix (cf. Mc 8, 31-34) est le Fils de Dieu, révélation définitive du Père. La Loi et les Prophètes tendent vers le Christ et c'est à lui que le Père rend témoignage : « Celui-ci est mon Fils bien-aimé : écoutez-le ! » (Mc 9, 7). Enveloppé dans cette gloire qu'il avait auprès du Père avant que le monde fût (cf. Jn 1, 14), le Christ anticipe et préfigure sa venue glorieuse au dernier jour, pour transfigurer toutes choses. C'est le pape Calixte III qui, en 1457, étendit cette fête à l'Église universelle.",
         "patronage": "",
         "main_shrine": "Mont Thabor, Israël"
@@ -1011,7 +1011,7 @@
     },
     "StLawrenceDeacon_106": {
         "subject": "Saint Laurent, diacre et martyr",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Église Saint-Laurent in Panisperna, Rome, Italie",
         "place_of_birth": "Valence ou Huesca, Espagne",
         "place_of_burial": "Basilique Saint-Laurent-hors-les-Murs, Rome, Italie",
@@ -1043,7 +1043,7 @@
         "subject": "Saints Pontien, pape, et Hippolyte, prêtre, martyrs",
         "places": "Rome, Italie",
         "place_of_death": "Sardaigne, Italie",
-        "place_of_birth": "",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_burial": "Catacombes de Callixte, Rome, Italie",
         "notes": "Pontien, pape (230-235), déporté par l'empereur Maximin le Thrace dans les mines de Sardaigne, démissionna de sa charge pour permettre l'élection d'un nouvel évêque. Avec lui fut également condamné le prêtre romain Hippolyte et ensemble ils moururent des mauvais traitements subis. La translation de leurs dépouilles à Rome est commémorée le 13 août par la Depositio martyrum (336).",
         "patronage": "",
@@ -1051,7 +1051,7 @@
     },
     "Assumption_110": {
         "subject": "Assomption de la Bienheureuse Vierge Marie",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Église de la Dormition, Jérusalem",
         "place_of_birth": "Jérusalem / Nazareth",
         "place_of_burial": "Mont des Oliviers, Jérusalem",
@@ -1091,7 +1091,7 @@
     },
     "StPiusX_114": {
         "subject": "Saint Pie X, pape",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Rome, Italie",
         "place_of_birth": "Riese, Trévise, Italie",
         "place_of_burial": "Basilique Saint-Pierre au Vatican",
@@ -1101,17 +1101,17 @@
     },
     "QueenshipMary_115": {
         "subject": "Bienheureuse Vierge Marie Reine",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_death": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "C'est au Moyen Âge que l'on commença à invoquer couramment la Vierge Marie comme Reine (Salve, Regina) et à la représenter couronnée par le Fils, exprimant ainsi sa pleine participation à la royauté universelle du Christ. En cette mémoire liturgique, instituée par Pie XII en 1955 et placée, après la réforme suivant Vatican II, dans la lumière de la solennité de Marie montée au ciel, la Vierge est proposée comme modèle et signe d'espérance pour tous les chrétiens qui, déjà revêtus de la dignité royale du Seigneur dans le Baptême, sont appelés à régner éternellement avec lui.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aoste (Italie), Cantorbéry (Royaume-Uni)"
     },
     "StRoseLima_116": {
         "subject": "Sainte Rose de Lima, vierge",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Lima, Pérou",
         "place_of_birth": "Lima, Pérou",
         "place_of_burial": "Couvent de Santo Domingo à Lima, Pérou",
@@ -1151,10 +1151,10 @@
     },
     "StMonica_120": {
         "subject": "Sainte Monique",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Ostie, Italie",
         "place_of_birth": "Tagaste (actuelle Souk Ahras), Algérie",
-        "place_of_burial": "",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "Monique (Tagaste, actuelle Souk Ahras, Algérie, 331 - Ostie, Rome, 387), née dans une famille chrétienne, épousa le païen Patrice et fut la mère d'Augustin. Après avoir donné à son fils la première éducation chrétienne, elle attendit pendant des années, entre larmes et prières, son arrivée à la vraie foi. Devenue veuve, elle suivit Augustin à Milan et put se réjouir de sa conversion, culminant dans le Baptême. Au cours du voyage de retour vers l'Afrique, elle atteignit la vraie patrie.",
         "patronage": "",
         "main_shrine": "Basilique de Saint-Augustin, Rome, Italie"
@@ -1171,7 +1171,7 @@
     },
     "BeheadingJohnBaptist_122": {
         "subject": "Martyr de Saint Jean-Baptiste",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Machaerus, Jordanie",
         "place_of_birth": "Ein Kerem",
         "place_of_burial": "Sébaste, Palestine; le crâne sacré (sans la mâchoire) est vénéré dans la basilique de Saint-Sylvestre-in-Capite, à Rome, depuis le XIIe siècle; la \"sainte mâchoire\" se trouve à Viterbe. D'autres crânes: un exposé dans la cathédrale de Notre-Dame d'Amiens, apporté de Constantinople en 1206 lors de la quatrième croisade; un dans la Grande Mosquée de Damas. En 2012, certaines reliques trouvées en Bulgarie, près de Sozopol, ont été analysées; les résultats des analyses ont établi qu'elles datent du Ier siècle, et d'après les inscriptions de l'urne, on croit que les reliques appartenaient à Saint Jean-Baptiste.",
@@ -1191,7 +1191,7 @@
     },
     "NativityVirginMary_124": {
         "subject": "Nativité de la Bienheureuse Vierge Marie",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Jérusalem",
         "place_of_birth": "Jérusalem ou Sepphoris",
         "place_of_burial": "Mont des Oliviers",
@@ -1211,20 +1211,20 @@
     },
     "ExaltationCross_126": {
         "subject": "Exaltation de la Sainte Croix",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_death": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "Cette fête est née à Jérusalem, à l'anniversaire de la dédicace, survenue le 14 septembre 335, des deux basiliques construites par Constantin, l'une sur le Golgotha (ad Martyrium), l'autre près du Saint-Sépulcre (Anastasis), également suite à la découverte des reliques de la croix par Hélène, mère de l'empereur. La croix, déjà instrument du plus terrible des supplices, que Constantin interdit d'utiliser en 320, est pour le chrétien l'arbre de vie, le lit nuptial, le trône, l'autel de la Nouvelle Alliance : du Christ, nouveau Adam endormi sur la croix, a jailli le merveilleux sacrement de toute l'Église. La croix est le signe de la seigneurie du Christ sur ceux qui, dans le Baptême, sont configurés à lui dans la mort et dans la gloire (cf. Rm 6, 5).",
         "patronage": "",
         "main_shrine": "Basilique du Saint-Sépulcre, Chapelle du Calvaire, Jérusalem"
     },
     "LadySorrows_127": {
         "subject": "Bienheureuse Vierge Marie des Douleurs",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_death": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "La dévotion à Notre-Dame des Douleurs s'est beaucoup développée au cours des derniers siècles du Moyen Âge, s'exprimant tant dans la poésie religieuse (Stabat Mater) que dans la représentation de la Pietà. La mémoire liturgique fut introduite par Pie VII en 1814, également en référence aux tribulations subies par l'Église durant ces années. Par l'union intime au Fils, la maternité de Marie s'étend à toute l'humanité rachetée par le Christ sur la croix (cf. Jn 19, 25-27). La dévotion à la Vierge des Douleurs se développe à partir de la fin du XIe siècle, avec une première mention des célébrations de ses 5 joies et de ses cinq douleurs, symbolisées par 5 épées, préfigurant la célébration liturgique instituée plus tard. Lorsqu'un inconnu écrivit le Liber de passione Christi et dolore et planctu Matris eius, les compositions sur le thème du Lament de la Vierge commencèrent. Au XIIe siècle, suite à des apparitions de la Vierge, ce culte s'accrut et la composition du Stabat Mater fut attribuée à Jacopone da Todi. Mais son histoire a un début précis : le 15 août 1233, lorsque sept nobles florentins inscrits à l'Art des Marchands et poètes-acteurs de la compagnie des Laudesi avaient l'habitude d'exprimer leur amour à Marie en laudes devant une image peinte sur un mur d'une rue, comme les jongleurs le faisaient avec la femme aimée. Soudain, ils virent l'image s'animer, apparaître affligée et vêtue de deuil pour la haine fratricide qui divisait Florence. Ces jeunes hommes jetèrent les armes, revêtirent un habit de deuil, instituèrent la compagnie de Marie des Douleurs, dite des Servites, et se retirèrent en pénitence et prière sur le Mont Sanario. Au fil des siècles, diverses expressions de dévotion furent créées : la Vierge au pied de la Croix ; la Compagnie de l'habit ; la Confrérie des Sept Douleurs approuvée par Rome en 1645 ; le Tiers-ordre ; la Couronne des Douleurs ; les diverses Congrégations féminines des Douleurs, etc. Entre 1668 et 1690, les initiatives de culte des Servites de Marie favorisèrent la diffusion du culte de Notre-Dame des Douleurs. Entre-temps, le 9 juin 1668, la S. Congrégation des Rites permit à l'Ordre de célébrer la messe votive des Sept Douleurs de la Bienheureuse Vierge. Dans le décret correspondant, il était mentionné que les Servites de Marie portaient l'habit noir en mémoire du veuvage de Marie et des douleurs qu'elle a endurées dans la passion du Fils. Initialement, le culte de Notre-Dame des Douleurs était lié à la Semaine Sainte, puis sa fête est née, célébrée à l'origine le vendredi avant la Semaine Sainte ou après Pâques et enfin le 15 septembre, en relation avec la fête de l'Exaltation de la Sainte Croix, célébrée la veille. Encore aujourd'hui, dans certaines localités, elle est célébrée aux anciennes dates. Le culte de Notre-Dame des Douleurs est également souligné par la diffusion des prières à Notre-Dame des Douleurs et par la récitation du rosaire des sept douleurs, notamment pendant la Semaine Sainte.",
         "patronage": "",
         "main_shrine": "Chapelle du Calvaire, Basilique du Saint-Sépulcre, Jérusalem"
@@ -1241,7 +1241,7 @@
     },
     "StRobertBellarmine_129": {
         "subject": "Saint Robert Bellarmin, évêque et docteur",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Rome, Italie",
         "place_of_birth": "Montepulciano, Sienne, Italie",
         "place_of_burial": "Église Saint-Ignace, Rome, Italie",
@@ -1271,7 +1271,7 @@
     },
     "StsCosmasDamian_132": {
         "subject": "Saints Côme et Damien, martyrs",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Cyrrhus, Syrie",
         "place_of_birth": "Aegae (aujourd'hui Yumurtalık), Turquie",
         "place_of_burial": "L'évêque de Cyrrhus, Théodoret († 458), parle déjà de la division de leurs reliques, envoyées aux nombreuses églises déjà érigées en leur honneur (à Jérusalem, en Égypte, en Mésopotamie) ; l'empereur Justinien Ier et le patriarche Proclus dédièrent aux saints une basilique de Constantinople qui devint un lieu de nombreux pèlerinages ; à Rome également, le pape Félix IV (526 - 530) édifia, sur le site de l'ancien Templum Romuli et de la Bibliotheca Pacis, dans le Temple de la Paix, une basilique en leur honneur et favorisa leur culte en opposition à celui des païens Castor et Pollux. Les crânes des saints furent transférés de Rome au Xe siècle et apportés à Brême : en 1581, Marie, fille de Charles V, les donna à l'église du couvent des clarisses de Madrid : les mêmes reliques sont cependant vénérées aussi dans l'église de Saint Michel Archange à Munich où, selon l'inscription sur le reliquaire, elles furent placées au XVe siècle. Le premier document attestant la présence des reliques des bras des Saints à Bitonto date de 1572.",
@@ -1301,10 +1301,10 @@
     },
     "StsArchangels_135": {
         "subject": "Saints Michel, Gabriel et Raphaël, archanges",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_death": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "Michel («Qui est comme Dieu?»), premier des archanges, protège le peuple de Dieu (cf. Dn 10, 13.21; 12, 1) et guide les armées célestes dans la lutte contre le diable (Jd 9; cf. Ap 12, 1-17). Gabriel («homme de Dieu» ou «Dieu est ma force») est le messager de Dieu aux hommes: il explique au prophète Daniel les secrets du plan de Dieu (cf. Dn 8, 16; 9, 21), annonce à Zacharie la naissance de Jean-Baptiste (cf. Lc 1, 5-25) et à Marie celle de Jésus (cf. Lc 1, 26-38). Raphaël («Dieu a guéri») est parmi les «sept anges qui sont toujours prêts à entrer en présence de la gloire du Seigneur» (Tb 12, 15; cf. Ap 8, 2), accompagne Tobie dans son voyage, lui apprend comment guérir la cécité de son père Tobit et libérer sa femme Sara du démon Asmodée (cf. Tb 3, 16-17; 6, 1). Dans l'Eucharistie, l'Église participe déjà à la liturgie céleste, où «d'innombrables légions d'anges» (Prière Eucharistique IV) acclament Dieu et l'Agneau (cf. Ap 5, 11-14). Dans le Martyrologe hiéronymien (Ve-VIe siècle), est rappelée, le 29 septembre, la dédicace de l'église de Saint-Michel à Rome, sur la via Salaria (Ve siècle).",
         "patronage": "",
         "main_shrine": "Château Saint-Ange, Rome; Grotte de Saint-Michel au Gargano, Italie; Mont Saint-Michel, France"
@@ -1331,13 +1331,13 @@
     },
     "GuardianAngels_138": {
         "subject": "Saints Anges Gardiens",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_death": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "Le culte des anges remonte aux premiers temps de l'Église et célèbre la tendresse de Dieu qui, créateur de toutes choses visibles et invisibles, a donné vie à des êtres spirituels, messagers qui accompagnent l'homme, de sorte que « chaque fidèle a à ses côtés un ange comme protecteur et pasteur, pour le conduire à la vie » (Basile de Césarée), de l'enfance (cf. Mt 18, 10) jusqu'à la mort (cf. Lc 16, 22). Jusqu'au Ve siècle, aucun jour particulier n'était dédié aux anges gardiens, dont l'office tombait le 29 septembre, en concomitance avec la fête de saint Michel archange. L'usage d'une fête particulière naquit à Valence en 1411, lorsqu'une fête fut instituée pour l'ange protecteur de la ville. En France aussi, il y eut une initiative similaire. Au cours du siècle suivant, l'idée se répandit de l'Espagne au Portugal, puis en Autriche et dans les régions italiennes les plus influencées par les Habsbourg. Dès le XVIe siècle, les premières \"Compagnies de l'Ange Gardien\" virent le jour, se répandant largement au début du XVIIe siècle sous l'influence de la publication de divers traités théologiques (cf. bibliographie ci-dessous) et l'impulsion de divers ordres religieux, parmi lesquels, par exemple, les Pères Somasques. L'impulsion décisive vint du pape Paul V, qui, dans une bulle de 1614, accorda des indulgences spécifiques aux membres des compagnies de l'ange gardien agrégées à l'Archiconfrérie de Rome et accomplissant des actes méritoires particuliers. En parallèle à la diffusion de la piété populaire, la reconnaissance liturgique de la fête eut lieu. Dans le \"Missel romain\" du pape Pie V (1570), quatre fêtes consacrées expressément aux anges furent indiquées, celles dédiées aux anges gardiens (le 2 octobre), à l'archange Gabriel, à l'archange Michel et à l'archange Raphaël. Supprimée par Pie V, la fête en l'honneur des anges gardiens fut rétablie en 1608 par Paul V et étendue à l'Église universelle. En 1670, Clément X la rendit obligatoire pour toute l'Église latine, toujours à la date du 2 octobre.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aoste (Italie), Cantorbéry (Royaume-Uni)"
     },
     "StFrancisAssisi_139": {
         "subject": "Saint François d'Assise",
@@ -1361,10 +1361,10 @@
     },
     "LadyRosary_141": {
         "subject": "Bienheureuse Vierge Marie du Rosaire",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_death": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "La pratique du rosaire, diffusée par les Dominicains (XVe siècle), favorisa la naissance de nombreuses confréries laïques. C'est pour elles que fut instituée (XVIe siècle) la mémoire liturgique de la bienheureuse Vierge Marie du Rosaire, le premier dimanche d'octobre, ensuite (XVIIe siècle) liée à la victoire de la chrétienté contre l'avancée ottomane (Lépante, 7 octobre 1571).",
         "patronage": "",
         "main_shrine": "Basilique de la Bienheureuse Vierge Marie du Rosaire, Pompéi, Italie"
@@ -1373,7 +1373,7 @@
         "subject": "Saint Denis, évêque, et compagnons, martyrs",
         "places": "Paris, France",
         "place_of_death": "Paris, France",
-        "place_of_birth": "",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_burial": "Basilique de Saint-Denis, Paris, France",
         "notes": "Denis, selon la tradition, vers le milieu du IIIe siècle, fut envoyé de Rome, avec d'autres missionnaires, pour évangéliser la Gaule. À Paris, ville dont il fut le premier évêque, il scella sa mission par le martyre avec ses compagnons Rustique et Éleuthère. Les reliques furent recueillies dans la basilique érigée en son honneur par sainte Geneviève (Ve siècle). Il est commémoré le 9 octobre par le Martyrologe hiéronymien (Ve-VIe siècle).",
         "patronage": "",
@@ -1393,7 +1393,7 @@
         "subject": "Saint Calixte Ier, pape et martyr",
         "places": "Rome, Italie",
         "place_of_death": "Rome, Italie",
-        "place_of_birth": "",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_burial": "Cimetière de Calepodio, Via Aurelia, Rome",
         "notes": "Calixte, un ancien esclave, fut pape de 218 à 222. Il a lié son nom au premier cimetière officiel de l'Église de Rome, sur la Via Appia. Il a souffert de conflits internes à la communauté chrétienne et a subi le martyre à Rome, à l'endroit où se dresse l'église qui lui est dédiée. Sa sépulture dans le cimetière de Calepodio, sur la Via Aurelia, est commémorée le 14 octobre dans la Depositio martyrum (336).",
         "patronage": "",
@@ -1454,7 +1454,7 @@
         "places": "Midland, Canada ; Auriesville, New York, USA",
         "place_of_death": "Midland, Canada",
         "place_of_birth": "Condé-sur-Vire, France",
-        "place_of_burial": "",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "Jean (Condé-sur-Vire, France, 15 mars 1594 - Midland, Canada, 16 mars 1649), missionnaire jésuite parmi les Hurons, dans l'actuel Canada, fut tué lors d'une attaque contre la mission par d'autres tribus ennemies. Quelques mois plus tard, son compagnon de mission Isaac Jogues (Orléans, France, 10 janvier 1607 - Auriesville, USA, 18 octobre 1649) le suivit dans le martyre ; avec eux, on se souvient de six autres martyrs jésuites. Ils ont partagé avec douceur évangélique la vie de ces populations, jusqu'au don total de soi.",
         "patronage": "",
         "main_shrine": "Sanctuaire des Martyrs, Midland, Ontario, Canada ; Sanctuaire de Notre-Dame des Martyrs, Auriesville"
@@ -1494,7 +1494,7 @@
         "places": "Rome, Italie; Lanciano, Italie",
         "place_of_death": "Perse",
         "place_of_birth": "Simon : probablement Cana ; Jude Thaddée peut-être Banias",
-        "place_of_burial": "",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "Simon est appelé « le zélote » (Lc 6, 15 ; Ac 1, 13) ou, en araméen, « le cananéen » (Mt 10, 4 ; Mc 3, 18) en raison de son appartenance probable au groupe des zélotes, caractérisés par un nationalisme militant au sein du judaïsme. Simon fait partie du groupe des Douze, tout comme Jude fils de Jacques (Lc 6, 16 ; Ac 1, 13 ; appelé Thaddée en Mt 10, 3 et Mc 3, 18) qui pose à Jésus la question : « Seigneur, comment se fait-il que tu doives te manifester à nous, et non au monde ? ». Jésus lui répond que quiconque accueille sa parole devient, lui-même, demeure de Dieu (cf. Jn 14, 22-23). La fête commune de ces deux apôtres est rappelée le 28 octobre dans le Martyrologe hiéronymien (Ve-VIe siècle).",
         "patronage": "",
         "main_shrine": "Basilique Saint-Pierre au Vatican ; Couvent de Saint-Augustin à Lanciano, Italie"
@@ -1521,10 +1521,10 @@
     },
     "DedicationLateran_159": {
         "subject": "Dédicace de la Basilique du Latran",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_death": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "L'anniversaire de la dédicace de la basilique, construite par l'empereur Constantin, fut probablement célébré dès le XIIe siècle le 9 novembre. Initialement, c'était une fête uniquement pour la ville de Rome. Par la suite, la célébration fut étendue à toutes les Églises de rite romain pour honorer la basilique appelée église-mère de toutes les églises de l'Urbe et de l'Orbe et comme signe d'amour et d'union envers la chaire de Pierre.",
         "patronage": "",
         "main_shrine": "Basilique Saint-Jean-de-Latran, Rome, Italie"
@@ -1541,7 +1541,7 @@
     },
     "StMartinTours_161": {
         "subject": "Saint Martin de Tours, évêque",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Candes-Saint-Martin, France",
         "place_of_birth": "Sabaria (actuelle Szombathely), Hongrie",
         "place_of_burial": "Basilique de Saint-Martin, Tours, France",
@@ -1551,7 +1551,7 @@
     },
     "StJosaphat_162": {
         "subject": "Saint Josaphat, évêque et martyr",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Vicebsk, Biélorussie",
         "place_of_birth": "Volodymyr-Volynskyï, Ukraine",
         "place_of_burial": "Basilique Saint-Pierre au Vatican",
@@ -1581,7 +1581,7 @@
     },
     "StGertrudeGreat_165": {
         "subject": "Sainte Gertrude, vierge",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Kloster Helfta, Eisleben, Allemagne",
         "place_of_birth": "Eisleben, Allemagne",
         "place_of_burial": "Les seules reliques existantes, ayant échappé à la destruction de son tombeau pendant la Réforme luthérienne, sont conservées à Santa Maria di Licodia, à l'intérieur du simulacre conservé dans l'église mère.",
@@ -1601,23 +1601,23 @@
     },
     "DedicationStsPeterPaul_167": {
         "subject": "Dédicace des basiliques des Saints Pierre et Paul, apôtres",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_death": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "Érigées sur les lieux du martyre de Pierre et Paul – sur la colline du Vatican et le long de la voie Ostienne –, les deux basiliques mettent en évidence la dignité incomparable de l'Église de Rome, grâce au double témoignage du premier et du dernier des apôtres (cf. Mt 10, 2; 1 Cor 15, 8). La date choisie pour cette fête est celle de la dédicace de la basilique de Saint-Pierre après la reconstruction de la Renaissance (18 novembre 1636).",
         "patronage": "",
         "main_shrine": "Basiliques des Saints Pierre et Paul, Rome"
     },
     "PresentationMary_168": {
         "subject": "Présentation de la Bienheureuse Vierge Marie",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Église de la Dormition, Jérusalem",
         "place_of_birth": "Jérusalem / Nazareth",
         "place_of_burial": "Mont des Oliviers, Jérusalem",
         "notes": "L'épisode de la présentation de Marie, à l'âge de trois ans, au Temple de Jérusalem, est raconté dans le Protévangile de Jacques, texte apocryphe du IIe siècle. Le geste, non prescrit par la Loi, indique l'appartenance totale de la Vierge à Dieu dès l'enfance. C'est l'une des principales fêtes mariales de l'Église orthodoxe.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aoste (Italie), Cantorbéry (Royaume-Uni)"
     },
     "StCecilia_169": {
         "subject": "Sainte Cécile, vierge et martyre",
@@ -1651,7 +1651,7 @@
     },
     "StAndrewAp_172": {
         "subject": "Saint André apôtre",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Patras, Grèce",
         "place_of_birth": "Bethsaïde, Galilée",
         "place_of_burial": "Église de Saint André, Patras; Cathédrale d'Amalfi, Italie; Basilique Saint-Pierre au Vatican",
@@ -1684,7 +1684,7 @@
         "places": "Bari; Venise",
         "place_of_death": "Myre (actuelle Demre, Turquie)",
         "place_of_birth": "Patara de Lycie, Turquie",
-        "place_of_burial": "",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "Nicolas (IVe siècle) fut évêque de Myre (actuelle Demre, Turquie). De l'Orient, son culte se répandit également en Italie, après le vol de ses reliques (1087) et leur placement à Bari, dans la basilique qui lui est dédiée, où elles sont encore conservées. En son nom, des traditions populaires et des initiatives de charité liées à Noël ont fleuri. La mémoire de sa mort et de son enterrement est célébrée le 6 décembre dans les rites byzantin et copte.",
         "patronage": "",
         "main_shrine": "Basilique Saint-Nicolas, Bari, Italie; Église San Nicolò al Lido, Venise"
@@ -1696,18 +1696,18 @@
         "place_of_birth": "Trèves, Allemagne",
         "place_of_burial": "Basilique de Saint-Ambroise, Milan, Italie",
         "notes": "Ambroise (Trèves, Allemagne, vers 340 - Milan, 4 avril 397), gouverneur des provinces romaines d'Émilie et de Ligurie, avec siège à Milan, fut acclamé par le peuple à la tête de l'Église locale en 374, déchirée par l'hérésie arienne. Baptisé et ordonné évêque (30 novembre et 7 décembre 374), il se consacra à l'étude assidue des Écritures et des Pères, pour ensuite en transposer les fruits dans la prédication et les nombreux écrits de contenu exégétique, doctrinal et liturgique. En promouvant la virginité consacrée et en honorant le martyre, il suggéra un idéal élevé de vie chrétienne. Il exerça avec sagesse le gouvernement pastoral dans l'Église de Milan, favorisant également la fondation de divers sièges épiscopaux dans le nord de l'Italie. Il fut l'un des protagonistes de la victoire définitive de l'orthodoxie nicéenne sur l'hérésie arienne. Son influence fut si profonde que l'Église de Milan, avec sa liturgie, est appelée «ambrosienne».",
-        "patronage": "",
+        "patronage": "apiculteurs, évêques, chandeliers, animaux domestiques, oies, boulangers de gâteaux au miel, apprentissage, bétail, policiers, écoliers, agents de sécurité, étourneaux et raffineurs de cire",
         "main_shrine": "Basilique de Saint-Ambroise, Milan, Italie"
     },
     "ImmaculateConception_177": {
         "subject": "Immaculée Conception de la Bienheureuse Vierge Marie",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_death": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "Depuis les VIIe-VIIIe siècles en Orient, exactement neuf mois avant la fête de la Nativité (8 septembre), une fête de la «conception» de Marie était célébrée. Célébrée ensuite en Occident à partir du XIe siècle, cette solennité s'insère dans le contexte de l'Avent-Noël, reliant l'attente messianique et le retour glorieux du Christ à la mémoire admirative de la Mère. En ce sens, cette période liturgique doit être considérée comme un temps particulièrement adapté au culte de la Mère du Seigneur (cf. Paul VI, Marialis cultus, 4). Marie est la Toute-Sainte, exempte de toute tache de péché, presque façonnée par l'Esprit Saint et rendue nouvelle créature (cf. Lumen gentium, 56). Déjà prophétiquement évoquée dans la promesse faite aux ancêtres de la victoire sur le serpent, Marie est la Vierge qui concevra et enfantera un fils dont le nom sera Emmanuel. Le dogme de l'Immaculée Conception fut proclamé par Pie IX en 1854.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Aoste (Italie), Cantorbéry (Royaume-Uni)"
     },
     "StDamasusIPope_178": {
         "subject": "Saint Damase I, pape",
@@ -1761,17 +1761,17 @@
     },
     "StStephenProtomartyr_183": {
         "subject": "Saint Étienne, protomartyr",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Jérusalem",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "notes": "Étienne, «plein de foi et d'Esprit Saint» (Ac 6, 5), est choisi avec six autres hommes, «de bonne réputation, pleins d'Esprit et de sagesse» pour le service de la première communauté chrétienne (cf. Ac 6, 1-6). Dans le même livre des Actes, il est raconté qu'Étienne (dont le nom signifie «couronne») est condamné à la lapidation, qu'il accueille avec une sérénité courageuse. Premier témoin authentique, c'est-à-dire martyr du Christ, «tué en public et couronné en secret» (Augustin), il contemple la gloire du Ressuscité, proclame sa divinité, lui confie son esprit, l'imite en priant pour ses meurtriers (cf. Ac 7, 55-60). Sa mémoire le 26 décembre est mentionnée dans le soi-disant Bréviaire syriaque du IVe siècle et dans le Martyrologe hiéronymien (Ve-VIe siècle). Il est également mentionné dans le Canon Romain. Le pape Honorius Ier donna en 628 une partie des reliques de saint Étienne (avant-bras contenu dans un coffret byzantin en argent) à l'abbaye de Saint-Colomban de Bobbio. La relique fut ensuite donnée en 1217 à l'abbaye de Saint-Étienne de Gênes. À Venise, dans l'église Saint-Étienne, on vénère tout le corps du saint. À Constantinople, Naples, Besançon, Ravenne… Dans le sanctuaire de Materdomini de Nocera Superiore, certaines reliques du saint furent ensuite volées. À Rome, dans la basilique Saint-Paul-hors-les-Murs, un bras dans l'église Saint-Yves à la Sapience, un second bras dans l'église Saint-Louis-des-Français, un troisième bras dans la basilique Sainte-Cécile au Trastevere; de plus, presque tout le corps dans la basilique Saint-Laurent-hors-les-Murs. Une partie de ces reliques fut portée à Minorque, dans les Baléares. La translation de certains restes mortels (fragment du crâne) est également attestée dans la ville de Putignano (Bari), translation effectuée par l'abbaye de Monopoli. La découverte des reliques de saint Étienne est également liée à la dédicace de la deuxième cathédrale de Concordia Sagittaria. Maintenant, le crâne du Saint est conservé dans le musée de la cathédrale de Caorle où, probablement, les habitants de la proche Concordia Sagittaria l'ont transporté car ils s'étaient réfugiés dans la lagune de Caorle.",
         "patronage": "",
         "main_shrine": "Monastère de Saint-Étienne, près de la Porte des Lions, Jérusalem ; Église Saint-Étienne près de l'École biblique et archéologique française"
     },
     "StJohnEvangelist_184": {
         "subject": "Saint Jean apôtre et évangéliste",
-        "places": "",
+        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Éphèse",
         "place_of_birth": "Bethsaïde",
         "place_of_burial": "Sur le site à Éphèse, considéré comme le tombeau de Jean, une basilique fut construite au VIe siècle, sous l'empereur Justinien, dont il ne reste aujourd'hui que des traces",
@@ -3326,7 +3326,7 @@
         "place_of_birth": "Trèves, Allemagne",
         "place_of_burial": "Basilique de Saint-Ambroise, Milan, Italie",
         "notes": "Ambroise (Trèves, Allemagne, vers 340 - Milan, 4 avril 397), gouverneur des provinces romaines d'Émilie et de Ligurie, avec siège à Milan, fut acclamé par le peuple en 374 à la tête de l'Église locale, déchirée par l'hérésie arienne. Baptisé et ordonné évêque (30 novembre et 7 décembre 374), il se consacra à l'étude assidue des Écritures et des Pères, pour ensuite en transmettre les fruits dans la prédication et les nombreux écrits de contenu exégétique, doctrinal et liturgique. En promouvant la virginité consacrée et en honorant le martyre, il suggéra un idéal élevé de vie chrétienne. Il exerça avec sagesse le gouvernement pastoral dans l'Église de Milan, favorisant également la fondation de divers sièges épiscopaux dans le nord de l'Italie. Il fut l'un des protagonistes de la victoire définitive de l'orthodoxie nicéenne sur l'hérésie arienne. Son influence fut si profonde que l'Église de Milan, avec sa liturgie, est appelée « ambrosienne ».",
-        "patronage": "",
+        "patronage": "apiculteurs, évêques, chandeliers, animaux domestiques, oies, boulangers de gâteaux au miel, apprentissage, bétail, policiers, écoliers, agents de sécurité, étourneaux et raffineurs de cire",
         "main_shrine": "Basilique de Saint-Ambroise, Milan, Italie"
     },
     "StAugustineHippo_569": {
@@ -3500,28 +3500,28 @@
         "main_shrine": "Jean Diego (Cuautitlán, Mexique, 1474 - Mexico 1548) fut, avec sa femme, parmi les premiers indigènes à recevoir le Baptême à l'arrivée des missionnaires franciscains. Devenu veuf, il intensifia sa vie spirituelle. Le 9 décembre 1531, sur la colline de Tepeyac (aujourd'hui à Mexico), il eut une vision de la Vierge. En obéissance à la Morenita, une première chapelle fut érigée près de laquelle le voyant resta, se consacrant aux soins de l'église et à l'accueil des nombreux pèlerins qui commencèrent à affluer en ce lieu."
     },
     "LadyLourdes_585": {
-        "subject": "",
-        "places": "",
+        "subject": "Bienheureuse Vierge Marie de Lourdes",
+        "places": "Lourdes (France)",
         "place_of_death": "",
         "place_of_birth": "",
         "place_of_burial": "",
-        "notes": "",
+        "notes": "Dernière apparition de la Bienheureuse Vierge Marie à Bernadette. Cette mémoire est liée à l'expérience mystique de Bernadette Soubirous, qui, dix-huit fois, entre le 11 février et le 16 juillet 1858, dans la grotte de Massabielle, près de Lourdes (France), rencontra la Vierge Marie. Elle lui déclara être « l'Immaculée Conception », appelant les hommes à la prière et à la conversion. Le sanctuaire érigé en ce lieu, sur l'invitation de la Vierge, devint une destination de pèlerinages continus, surtout pour les malades.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Lourdes (France)"
     },
     "LadyFatima_586": {
-        "subject": "",
-        "places": "",
+        "subject": "Bienheureuse Vierge Marie de Fatima",
+        "places": "Fatima (Portugal)",
         "place_of_death": "",
         "place_of_birth": "",
         "place_of_burial": "",
-        "notes": "",
+        "notes": "Dernière apparition de la Bienheureuse Vierge Marie aux trois petits bergers. Du 13 mai au 13 octobre 1917, une fois par mois, à Cova da Iria, près de Fatima (Portugal), Lucia dos Santos, Francisco et Jacinta Marto – trois petits bergers du lieu – eurent la vision de la Très Sainte Marie. En plus de rappeler la nécessité de la prière et de la pénitence pour le salut du monde, la Vierge recommanda la récitation du rosaire et la dévotion à son Cœur immaculé. Notre-Dame de Fatima fut chère à plusieurs papes, en particulier à Pie XII, à saint Paul VI – premier pape à se rendre en pèlerinage (13 mai 1967) – et à saint Jean-Paul II, qui reconnut sa protection maternelle lors de l'attentat subi sur la place Saint-Pierre le 13 mai 1981.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Basilique de Fatima (Portugal)"
     },
     "StAnselm_587": {
         "subject": "Saint Anselme de Cantorbéry, évêque et docteur de l'Église",
-        "places": "",
+        "places": "Aoste (Italie), Canterbury (Royaume-Uni)",
         "place_of_death": "Cantorbéry, Royaume-Uni",
         "place_of_birth": "Aoste, Italie",
         "place_of_burial": "Anselme mourut le 21 avril 1109, mercredi saint, et fut enterré dans la cathédrale de Cantorbéry. Ses reliques furent cependant exhumées lors des troubles religieux qui eurent lieu sous le règne d'Henri VIII d'Angleterre et on en perdit la trace.",
@@ -3530,12 +3530,12 @@
         "main_shrine": "Cathédrale de Canterbury, Royaume-Uni"
     },
     "DedicationHolySepulchre_588": {
-        "subject": "",
-        "places": "",
+        "subject": "Dédicace de la Basilique du Saint-Sépulcre",
+        "places": "Jérusalem (Israël / Palestine)",
         "place_of_death": "",
         "place_of_birth": "",
         "place_of_burial": "",
-        "notes": "",
-        "main_shrine": ""
+        "notes": "C'était le 15 juillet 1149 lorsque les Croisés, après des décennies de travaux et de rénovations structurelles, consacrèrent officiellement la nouvelle Basilique pour le cinquantième anniversaire de la conquête de Jérusalem.",
+        "main_shrine": "Basilique du Saint-Sépulcre à Jérusalem"
     }
 }
