@@ -47,7 +47,7 @@
         "place_of_burial": "Basilique Saint-Sébastien-hors-les-Murs",
         "notes": "Année de décès 250/251, après avoir été Pape pendant environ 15 ans",
         "patronage": "",
-        "main_shrine": "N/A"
+        "main_shrine": "Catacombes de Saint Calixte (Rome)"
     },
     "StSebastian_6": {
         "subject": "Saint Sébastien, martyr",
@@ -77,11 +77,11 @@
         "place_of_burial": "Cathédrale de Valence (Espagne) / Cathédrale de Lisbonne (Portugal) / Acate (Raguse, Italie ; tradition populaire)",
         "notes": "Vincent († Valence, Espagne, 22 janvier 304), diacre de l'Église de Saragosse, arrêté pendant la persécution de Dioclétien, mourut en prison des suites des tortures subies. Il offrit sa vie au Christ avec l'évêque Valère, avec qui il avait tant de fois offert le sacrifice de l'autel. Il est commémoré le 22 janvier dans le Martyrologe hiéronymien (Ve-VIe siècle). Avec l'avènement de l'empereur Constantin, qui s'était converti au christianisme, une basilique fut érigée à Valence en l'honneur de saint Vincent et sous l'autel principal furent déposées ses reliques. Cependant, suite à l'invasion des Maures, les chrétiens de Valence dérobèrent le corps du Martyr pour le mettre en sécurité au Portugal, dans une petite église spécialement construite dans le lieu du promontoire aujourd'hui appelé Cap Saint-Vincent. Après la guerre contre les Maures, les restes furent embarqués sur un navire en direction de Lisbonne. Une légende dévotionnelle raconte que pendant le voyage, des corbeaux se posèrent sur la proue et la poupe du navire comme pour signifier leur protection renouvelée au Saint Martyr qu'ils avaient déjà sauvé des bêtes sauvages. Une fois arrivé en ville, le corps fut déposé dans l'église de Sainte-Juste et Sainte-Rufine et après quelque temps, le 15 septembre 1173, il fut solennellement transporté à la cathédrale. En mémoire, des monnaies furent frappées. https://fr.wikipedia.org/wiki/Monast%C3%A8re_de_Saint-Vincent_de_Fora",
         "patronage": "",
-        "main_shrine": "N/A"
+        "main_shrine": "Cathédrale de Lisbonne (Portugal)"
     },
     "StFrancisDeSales_9": {
         "subject": "Saint François de Sales, évêque et docteur",
-        "places": "N/A",
+        "places": "Château de Thorens (Thorens-Glières, France), Lyon (France), Genève (Suisse), Annecy (France)",
         "place_of_death": "Lyon, France",
         "place_of_birth": "Salès (France)",
         "place_of_burial": "Basilique de la Visitation, Annecy, France",
@@ -171,10 +171,10 @@
     },
     "StsPaulMiki_19": {
         "subject": "Saints Paul Miki et compagnons, martyrs",
-        "places": "N/A",
+        "places": "Settsu (Japon), Nagasaki (Japon)",
         "place_of_death": "Nagasaki, Japon",
         "place_of_birth": "Kyoto (Japon)",
-        "place_of_burial": "N/A",
+        "place_of_burial": "Nagasaki (Japon)",
         "notes": "Paul Miki (Kyoto, Japon, 1556 - Nagasaki, 5 février 1597), jésuite, fut victime de la persécution que l'empereur japonais ordonna contre les chrétiens, craignant que leur augmentation ne constitue un danger pour l'autonomie du pays. Avec lui furent crucifiés vingt-cinq autres chrétiens, laïcs et religieux (Jésuites et Frères Mineurs).",
         "patronage": "",
         "main_shrine": "https://it.wikipedia.org/wiki/Basilica_dei_Ventisei_Santi_Martiri_del_Giappone; Musée et monument des vingt-six martyrs de Nagasaki https://travel.at-nagasaki.jp/it/s/what-to-see/30/ https://en.wikipedia.org/wiki/Twenty-Six_Martyrs_Museum_and_Monument"
@@ -197,7 +197,7 @@
         "place_of_burial": "Abbaye de Mont-Cassin",
         "notes": "Scholastique (Norcia, Pérouse, vers 480 - Mont-Cassin, Frosinone, vers 547) est désignée par la tradition comme la sœur de saint Benoît. Les Dialogues de Grégoire le Grand la décrivent comme une vierge amoureuse de la contemplation, sage en plaçant la charité avant toute règle humaine. Elle est commémorée le 10 février dans le Calendrier de marbre de Naples (IXe siècle) et dans le Martyrologe d'Usuard (vers 870).",
         "patronage": "",
-        "main_shrine": "N/A"
+        "main_shrine": "Abbaye de Mont-Cassin (Italie)"
     },
     "LadyLourdes_22": {
         "subject": "Bienheureuse Vierge Marie de Lourdes",
@@ -241,10 +241,10 @@
     },
     "StPolycarp_27": {
         "subject": "Saint Polycarpe, évêque et martyr",
-        "places": "N/A",
+        "places": "Smyrne (Turquie)",
         "place_of_death": "Smyrne, Turquie",
         "place_of_birth": "Smyrne, Turquie",
-        "place_of_burial": "N/A",
+        "place_of_burial": "Saint-Ambroise-de-la-Maxime (Rome)",
         "notes": "Polycarpe († 23 février 167), disciple de l'apôtre Jean, fut évêque de Smyrne (Turquie), où il accueillit saint Ignace en route pour Rome, ville où il subirait le martyre. Après un long épiscopat, à un âge très avancé, Polycarpe fut condamné au bûcher pour sa foi. C'était le jour du Seigneur : tandis que le feu le consumait, l'évêque se joignait, en priant, à la liturgie eucharistique tant de fois célébrée avec son Église. Le récit de sa passion est le plus ancien document sur le culte des martyrs.",
         "patronage": "",
         "main_shrine": "Église de Saint Polycarpe, Smyrne, Turquie"
