@@ -47,7 +47,7 @@
         "place_of_burial": "Basilica di San Sebastiano fuori le Mura",
         "notes": "Anno di morte 250/251, dopo essere stato Papa per circa 15 anni",
         "patronage": "",
-        "main_shrine": "N/A"
+        "main_shrine": "Catacombe di San Callisto (Roma)"
     },
     "StSebastian_6": {
         "subject": "San Sebastiano, martire",
@@ -171,10 +171,10 @@
     },
     "StsPaulMiki_19": {
         "subject": "Santi Paolo Miki e compagni, martiri",
-        "places": "N/A",
+        "places": "Settsu (Giappone), Nagasaki (Giappone)",
         "place_of_death": "Nagasaki, Giappone",
         "place_of_birth": "Kyoto (Giappone)",
-        "place_of_burial": "N/A",
+        "place_of_burial": "Nagasaki (Giappone)",
         "notes": "Paolo Miki (Kyoto, Giappone, 1556 - Nagasaki, 5 febbraio 1597), gesuita, fu vittima della persecuzione che l’imperatore giapponese ordinò contro i cristiani, temendo che il loro incremento costituisse un pericolo per l’autonomia del paese. Insieme a lui furono crocifissi altri venticinque cristiani, laici e religiosi (Gesuiti e Frati Minori).",
         "patronage": "",
         "main_shrine": "https://it.wikipedia.org/wiki/Basilica_dei_Ventisei_Santi_Martiri_del_Giappone; Museo e monumento dei ventisei martiri di Nagasaki https://travel.at-nagasaki.jp/it/s/what-to-see/30/ https://en.wikipedia.org/wiki/Twenty-Six_Martyrs_Museum_and_Monument"
