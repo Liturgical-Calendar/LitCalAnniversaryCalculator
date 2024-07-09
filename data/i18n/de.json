@@ -41,13 +41,13 @@
     },
     "StFabianPope_5": {
         "subject": "Heiliger Fabian, Papst und Märtyrer",
-        "places": "Basilika von Santiago, Santiago (Spanien)",
-        "place_of_death": "Rom",
-        "place_of_birth": "Rom",
+        "places": "Rom (Italien)",
+        "place_of_death": "Rom (Italien)",
+        "place_of_birth": "Rom (Italien)",
         "place_of_burial": "Basilika San Sebastiano fuori le Mura",
         "notes": "Todesjahr 250/251, nach etwa 15 Jahren als Papst",
         "patronage": "",
-        "main_shrine": "Lourdes (Frankreich)"
+        "main_shrine": "Katakomben des Heiligen Kallistus (Rom)"
     },
     "StSebastian_6": {
         "subject": "Heiliger Sebastian, Märtyrer",
@@ -77,11 +77,11 @@
         "place_of_burial": "Kathedrale von Valencia (Spanien) / Kathedrale von Lissabon (Portugal) / Acate (Ragusa, Italien; Volksüberlieferung)",
         "notes": "Vincenz († Valencia, Spanien, 22. Januar 304), Diakon der Kirche von Saragossa, wurde während der Verfolgung durch Diokletian verhaftet und starb im Gefängnis infolge der erlittenen Folter. Er schenkte Christus sein Leben zusammen mit Bischof Valerius, mit dem er oft das Opfer des Altars dargebracht hatte. Er wird am 22. Januar im Hieronymianischen Martyrologium (5.-6. Jahrhundert) erinnert. Mit dem Aufstieg des Kaisers Konstantin, der zum Christentum konvertiert war, wurde in Valencia eine Basilika zu Ehren des heiligen Vinzenz errichtet, und unter dem Hauptaltar wurden seine Reliquien beigesetzt. Nach der Invasion der Mauren entführten die Christen von Valencia den Körper des Märtyrers, um ihn in Portugal in Sicherheit zu bringen, in eine eigens errichtete Kapelle am heutigen Kap San Vincente. Nach dem Krieg gegen die Mauren wurden die Überreste auf ein Schiff verladen, das Kurs auf Lissabon nahm. Eine fromme Legende erzählt, dass während der Reise einige Raben auf dem Bug und Heck des Schiffes saßen, als wollten sie ihre erneute Schutzpatronage für den heiligen Märtyrer signalisieren, den sie einst vor wilden Tieren gerettet hatten. In der Stadt angekommen, wurde der Körper in der Kirche Santa Giusta und Santa Rufina beigesetzt und nach einiger Zeit, am 15. September 1173, feierlich in die Kathedrale überführt. Zur Erinnerung wurden Münzen geprägt. https://it.wikipedia.org/wiki/Monastero_di_S%C3%A3o_Vicente_de_Fora",
         "patronage": "",
-        "main_shrine": "Lourdes (Frankreich)"
+        "main_shrine": "Kathedrale von Lissabon (Portugal)"
     },
     "StFrancisDeSales_9": {
         "subject": "Heiliger Franz von Sales, Bischof und Kirchenlehrer",
-        "places": "Lourdes (Frankreich)",
+        "places": "Schloss Thorens (Thorens-Glières, Frankreich), Lyon (Frankreich), Genf (Schweiz), Annecy (Frankreich)",
         "place_of_death": "Lyon, Frankreich",
         "place_of_birth": "Sales (Frankreich)",
         "place_of_burial": "Basilika der Heimsuchung, Annecy, Frankreich",
@@ -171,10 +171,10 @@
     },
     "StsPaulMiki_19": {
         "subject": "Heilige Paulus Miki und Gefährten, Märtyrer",
-        "places": "Lourdes (Frankreich)",
+        "places": "Settsu (Japan), Nagasaki (Japan)",
         "place_of_death": "Nagasaki, Japan",
         "place_of_birth": "Kyoto (Japan)",
-        "place_of_burial": "Lourdes (Frankreich)",
+        "place_of_burial": "Nagasaki (Japan)",
         "notes": "Paolo Miki (Kyoto, Japan, 1556 - Nagasaki, 5. Februar 1597), Jesuit, war Opfer der Verfolgung, die der japanische Kaiser gegen die Christen anordnete, aus Angst, dass ihr Wachstum eine Gefahr für die Autonomie des Landes darstellen könnte. Zusammen mit ihm wurden weitere fünfundzwanzig Christen, Laien und Ordensleute (Jesuiten und Franziskaner) gekreuzigt.",
         "patronage": "",
         "main_shrine": "https://it.wikipedia.org/wiki/Basilica_dei_Ventisei_Santi_Martiri_del_Giappone; Museum und Denkmal der sechsundzwanzig Märtyrer von Nagasaki https://travel.at-nagasaki.jp/it/s/what-to-see/30/ https://en.wikipedia.org/wiki/Twenty-Six_Martyrs_Museum_and_Monument"
@@ -197,14 +197,14 @@
         "place_of_burial": "Abtei von Montecassino",
         "notes": "Scholastika (Norcia, Perugia, ca. 480 - Montecassino, Frosinone, ca. 547) wird von der Tradition als Schwester des Heiligen Benedikt bezeichnet. Die Dialoge von Gregor dem Großen beschreiben sie als Jungfrau, die die Kontemplation liebte und weise darin war, die Nächstenliebe über jede menschliche Regel zu stellen. Sie wird am 10. Februar im Marmor-Kalender von Neapel (9. Jahrhundert) und im Martyrologium von Usuard (ca. 870) erwähnt.",
         "patronage": "",
-        "main_shrine": "Lourdes (Frankreich)"
+        "main_shrine": "Abtei Montecassino (Italien)"
     },
     "LadyLourdes_22": {
         "subject": "Selige Jungfrau Maria von Lourdes",
         "places": "Lourdes (Frankreich)",
-        "place_of_death": "Lourdes (Frankreich)",
-        "place_of_birth": "Lourdes (Frankreich)",
-        "place_of_burial": "Lourdes (Frankreich)",
+        "place_of_death": "n. z.",
+        "place_of_birth": "n. z.",
+        "place_of_burial": "n. z.",
         "notes": "Diese Erinnerung ist mit der mystischen Erfahrung von Bernadette Soubirous verbunden, die zwischen dem 11. Februar und dem 16. Juli 1858 achtzehn Mal in der Grotte von Massabielle bei Lourdes (Frankreich) die Jungfrau Maria traf. Sie erklärte ihr, dass sie die „Unbefleckte Empfängnis“ sei, und rief die Menschen zum Gebet und zur Umkehr auf. Das an diesem Ort auf Einladung der Jungfrau errichtete Heiligtum wurde vor allem für Kranke zu einem ständigen Wallfahrtsort.",
         "patronage": "",
         "main_shrine": "Heiligtum Unserer Lieben Frau von Lourdes (Frankreich)"
@@ -221,7 +221,7 @@
     },
     "SevenHolyFounders_24": {
         "subject": "Heilige Sieben Gründer der Diener der seligen Jungfrau Maria",
-        "places": "Lourdes (Frankreich)",
+        "places": "n. z.",
         "place_of_death": "Montesenario (Italien)",
         "place_of_birth": "Florenz",
         "place_of_burial": "Florenz",
@@ -231,7 +231,7 @@
     },
     "StPeterDamian_25": {
         "subject": "Heiliger Pier Damiani, Bischof und Kirchenlehrer",
-        "places": "Lourdes (Frankreich)",
+        "places": "n. z.",
         "place_of_death": "Faenza (Italien)",
         "place_of_birth": "Ravenna",
         "place_of_burial": "Benediktinerkloster Santa Maria Fuori le Mura (Faenza)",
@@ -241,10 +241,10 @@
     },
     "StPolycarp_27": {
         "subject": "Heiliger Polykarp, Bischof und Märtyrer",
-        "places": "Lourdes (Frankreich)",
+        "places": "Izmir (Türkei)",
         "place_of_death": "Smyrna, Türkei",
         "place_of_birth": "Smyrna, Türkei",
-        "place_of_burial": "Lourdes (Frankreich)",
+        "place_of_burial": "Sankt Ambrosius della Massima (Rom)",
         "notes": "Polykarp († 23. Februar 167), Schüler des Apostels Johannes, war Bischof von Smyrna (Türkei), wo er den heiligen Ignatius auf seiner Reise nach Rom empfing, der Stadt, in der er das Martyrium erleiden sollte. Nach einem langen Episkopat wurde Polykarp im hohen Alter wegen seines Glaubens zum Scheiterhaufen verurteilt. Es war der Tag des Herrn: Während das Feuer ihn verzehrte, vereinte sich der Bischof betend mit der eucharistischen Liturgie, die er so oft mit seiner Kirche gefeiert hatte. Der Bericht über sein Leiden ist das älteste Dokument über den Kult der Märtyrer.",
         "patronage": "",
         "main_shrine": "Kirche des heiligen Polykarp, Smyrna, Türkei"
