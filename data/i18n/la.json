@@ -291,7 +291,7 @@
     },
     "StPatrick_32": {
         "subject": "Sanctus Patricius, episcopus",
-        "places": "Sanctus Casimirus",
+        "places": "Bannaventa (Britannia), Croagh Patrick (Hibernia), Downpatrick (Hibernia), Dublinum (Hibernia), Cashel (Hibernia), Ardmacha (Hibernia)",
         "place_of_death": "Dunum Patricii (Hibernia Septentrionalis)",
         "place_of_birth": "Old Kilpatrick (Scotia)",
         "place_of_burial": "Dunum Patricii (Hibernia Septentrionalis)",
@@ -301,7 +301,7 @@
     },
     "StCyrilJerusalem_33": {
         "subject": "Sanctus Cyrillus Hierosolymitanus, episcopus et doctor",
-        "places": "Sanctus Casimirus",
+        "places": "Hierosolyma (Israel / Palaestina)",
         "place_of_death": "Hierosolyma",
         "place_of_birth": "Hierosolyma",
         "place_of_burial": "Sanctus Cyrillus Hierosolymitanus, episcopus et doctor",
@@ -331,7 +331,7 @@
     },
     "StFrancisPaola_37": {
         "subject": "Sanctus Franciscus de Paula, eremita",
-        "places": "Sanctus Cyrillus Hierosolymitanus, episcopus et doctor",
+        "places": "Paula (Italia), Castellum Plessis-lez-Tours (Francia)",
         "place_of_death": "Castrum Plessis-lez-Tours (La Riche, Gallia)",
         "place_of_birth": "Paula (Cosentia)",
         "place_of_burial": "La Riche, Gallia (incepta est constructio sanctuarii super sepulcrum, solum absida aedificata est)",
