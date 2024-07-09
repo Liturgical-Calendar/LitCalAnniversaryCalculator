@@ -291,7 +291,7 @@
     },
     "StPatrick_32": {
         "subject": "Heiliger Patrick, Bischof",
-        "places": "Lourdes (Frankreich)",
+        "places": "Bannaventa (Großbritannien), Croagh Patrick (Irland), Downpatrick (Irland), Dublin (Irland), Rock of Cashel (Irland), Armagh (Irland)",
         "place_of_death": "Downpatrick (Nordirland)",
         "place_of_birth": "Old Kilpatrick (Schottland)",
         "place_of_burial": "Downpatrick (Nordirland)",
@@ -301,7 +301,7 @@
     },
     "StCyrilJerusalem_33": {
         "subject": "Heiliger Cyrill von Jerusalem, Bischof und Kirchenlehrer",
-        "places": "Lourdes (Frankreich)",
+        "places": "Jerusalem (Israel / Palästina)",
         "place_of_death": "Jerusalem",
         "place_of_birth": "Jerusalem",
         "place_of_burial": "Lourdes (Frankreich)",
@@ -331,7 +331,7 @@
     },
     "StFrancisPaola_37": {
         "subject": "Der heilige Franz von Paola, Einsiedler",
-        "places": "Lourdes (Frankreich)",
+        "places": "Paola (Italien), Schloss Plessis-lez-Tours (Frankreich)",
         "place_of_death": "Schloss Plessis-lez-Tours (La Riche, Frankreich)",
         "place_of_birth": "Paola (Cosenza)",
         "place_of_burial": "La Riche, Frankreich (der Bau eines Schreins über dem Grab wurde begonnen, es wurde jedoch nur die Apsis errichtet)",
