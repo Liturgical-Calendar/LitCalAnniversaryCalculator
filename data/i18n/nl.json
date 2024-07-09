@@ -362,16 +362,16 @@
     "StJohnBaptistDeLaSalle_40": {
         "subject": "Sint Johannes Baptist de la Salle, priester",
         "places": "Reims (Frankrijk); Rouen (Frankrijk)",
-        "place_of_death": "Saint Yon bij Rouen (Frankrijk)",
+        "place_of_death": "Kapel van Saint-Yon (Rouen, Frankrijk)",
         "place_of_birth": "Reims (Frankrijk)",
-        "place_of_burial": "Johannes Baptist de La Salle werd begraven in de kerk van Saint-Sever, een wijk van Rouen. In 1734 werd zijn lichaam teruggebracht naar Saint-Yon in de kapel van zijn pensionaat, en in 1835 werd het overgebracht naar die van de Normale School van Rouen. In Reims werd in 1898 een kerk aan hem gewijd. In 1937 werden zijn relieken overgebracht naar Rome.",
+        "place_of_burial": "Kerk van Saint-Sever (Rouen, Frankrijk; daarna in 1734 naar de kapel van Saint-Yon (Rouen, Frankrijk); daarna in 1835 naar de Normale School van Rouen (Frankrijk); daarna in 1937 werden zijn relieken overgebracht naar Rome (Italië)",
         "notes": "Johannes de La Salle (Reims, Frankrijk, 30 april 1651 - Saint Yon bij Rouen, 7 april 1719), na de dood van zijn ouders zorgde hij voor zijn vele broers en zussen. Nadat hij tot priester was gewijd, wijdde hij zich aan kansarme jongeren door scholen voor armen te openen en teksten voor de opleiding van leraren te schrijven. Hij stichtte de Congregatie van de Broeders van de Christelijke Scholen, gewijd aan volkseducatie.",
         "patronage": "",
         "main_shrine": "Kerk en Heiligdom van Johannes de La Salle, Generaalhuis Broeders van de Christelijke Scholen, Rome"
     },
     "StStanislaus_41": {
         "subject": "Sint Stanislaus, bisschop en martelaar",
-        "places": "Lourdes (Frankrijk)",
+        "places": "Szczepanów (Polen); Krakau (Polen)",
         "place_of_death": "Krakau (Polen)",
         "place_of_birth": "Szczepanowice (Polen)",
         "place_of_burial": "Kathedraal van Krakau (Polen)",
@@ -392,8 +392,8 @@
     "StAnselm_43": {
         "subject": "Sint Anselmus van Canterbury, bisschop en kerkleraar",
         "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
-        "place_of_death": "Canterbury, Verenigd Koninkrijk",
-        "place_of_birth": "Aosta, Italië",
+        "place_of_death": "Canterbury (Verenigd Koninkrijk)",
+        "place_of_birth": "Aosta (Italië)",
         "place_of_burial": "Anselmus stierf op 21 april 1109, op Witte Woensdag, en werd begraven in de kathedraal van Canterbury. Zijn stoffelijke resten werden echter opgegraven tijdens de religieuze onrusten die plaatsvonden tijdens het bewind van Hendrik VIII van Engeland en raakten toen verloren.",
         "notes": "Anselmus (Aosta, 1033/1034 - Canterbury, Verenigd Koninkrijk, 21 april 1109), ongeveer dertig jaar monnik en abt van Bec in Normandië, werd aartsbisschop van Canterbury en primaat van Engeland. Hij streed voor de vrijheid van de Kerk tegen de inmenging van de politieke macht. Als diepzinnig theoloog wist hij de rol van de rede te waarderen bij het verdiepen van de geloofsmysteries.",
         "patronage": "",
@@ -401,7 +401,7 @@
     },
     "StGeorge_44": {
         "subject": "Sint-Joris, martelaar",
-        "places": "Lourdes (Frankrijk)",
+        "places": "Lod (dichtbij het huidige Tel Aviv, Israël)",
         "place_of_death": "Nicomedië (huidig İzmit), Turkije | of | Lydda (huidig Lod) - Tel Aviv, Israël",
         "place_of_birth": "Cappadocië, Turkije",
         "place_of_burial": "Lydda, Tel Aviv (Israël)",
@@ -431,7 +431,7 @@
     },
     "StPeterChanel_47": {
         "subject": "Sint Peter Chanel, priester en martelaar",
-        "places": "Lourdes (Frankrijk)",
+        "places": "Montrevel-en-Bresse (Frankrijk); Eiland Futuna (Hoorn-eilanden, Oceanië)",
         "place_of_death": "Futuna, Frans Oceanië",
         "place_of_birth": "Montrevel-en-Bresse (Frankrijk),",
         "place_of_burial": "De resten van de missionaris, haastig begraven, werden later opgeëist door M. Lavaux, Franse commandant van het marine-station van Tahiti, en in 1842 met een transportmiddel van de regering naar Frankrijk teruggebracht.",
@@ -451,7 +451,7 @@
     },
     "StPiusV_49": {
         "subject": "Paus Pius V",
-        "places": "Lourdes (Frankrijk)",
+        "places": "Bosco Marengo (Italië); Rome (Italië)",
         "place_of_death": "Rome (Italië)",
         "place_of_birth": "Bosco Marengo, Alessandria (Italië)",
         "place_of_burial": "Basiliek van Santa Maria Maggiore, Rome",
@@ -461,13 +461,13 @@
     },
     "StJosephWorker_50": {
         "subject": "Sint-Jozef Arbeider",
-        "places": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
-        "place_of_death": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
-        "place_of_birth": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
-        "place_of_burial": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)",
+        "places": "Bethlehem (Palestina), Nazareth (Israël)",
+        "place_of_death": "Nazareth (Israël)",
+        "place_of_birth": "Bethlehem (Palestina)",
+        "place_of_burial": "Nazareth (Israël)",
         "notes": "Jozef, echtgenoot van de Maagd Maria en pleegvader van Jezus, wordt in de Evangeliën voorgesteld als \"timmerman\" (Mt 13, 55). Het was Pius XII die in 1955 deze herdenking invoerde om een \"christelijke zegen\" te geven aan de seculiere viering van 1 mei, die sinds de 19e eeuw in veel landen wordt gevierd als symbolische datum voor de strijd om erkenning van de rechten van arbeiders. Deze liturgische viering wil de grote waardigheid van menselijk werk benadrukken, dat het werk van de Schepper voortzet en werd gedeeld door de Zoon van God die mens werd, ook wel \"timmerman\" genoemd in de Evangeliën (Mc 6, 3). Laborem Exercens is een encycliek gepubliceerd door paus Johannes Paulus II op 14 september 1981. Het behandelt menselijk werk op de 90e verjaardag van de Rerum Novarum.",
         "patronage": "",
-        "main_shrine": "Aosta (Italië), Canterbury (Verenigd Koninkrijk)"
+        "main_shrine": "Kerk van de Voeding (Nazareth, Israël)"
     },
     "StAthanasius_51": {
         "subject": "Heilige Athanasius, bisschop en kerkleraar",
