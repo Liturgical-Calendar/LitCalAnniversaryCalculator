@@ -209,7 +209,7 @@
         "patronage": "",
         "main_shrine": "Sanctuarium Dominae Nostrae de Lourdes (Francia)"
     },
-    "StsCyrilMethodius_23": {
+    "StCyrilThessalonica_23": {
         "subject": "San Cyrillus, monachus",
         "places": "Thessalonica (Graecia), Roma (Italia)",
         "place_of_death": "Roma",
@@ -889,7 +889,7 @@
         "patronage": "",
         "main_shrine": "Ecclesia Sanctae Brigidae Romae, Italia"
     },
-    "StJamesAp_93": {
+    "StJamesGreaterAp_93": {
         "subject": "Sanctus Iacobus, apostolus",
         "places": "Magdala, Palaestina Romana",
         "place_of_death": "Hierosolyma",
@@ -1229,7 +1229,7 @@
         "patronage": "",
         "main_shrine": "Sacellum Calvarii, Basilica Sancti Sepulcri, Hierosolyma"
     },
-    "StsCorneliusCyprian_128": {
+    "StCornelius_128": {
         "subject": "Sancti Cornelius, papa, et Cyprianus, episcopus, martyres",
         "places": "Roma, Italia; Carthago, Tunisia",
         "place_of_death": "Civitavecchia, et Sesti (Carthago)",
@@ -2109,7 +2109,7 @@
         "patronage": "",
         "main_shrine": "Basilica Sancti Bartholomaei et Sancti Hieronymi Aemiliani, Somasca (Lecco, Italia)"
     },
-    "StsCyrilMethodius_224": {
+    "StMethodiusThessalonica_224": {
         "subject": "San Methodius, episcopus",
         "places": "Thessalonica (Graecia), Velehrad (Res Publica Bohemica)",
         "place_of_death": "Velehrad, Res Publica Bohemica",
@@ -3537,5 +3537,45 @@
         "place_of_burial": "Sanctus Ephraem, diaconus et doctor",
         "notes": "Erat dies 15 Iulii 1149 cum Cruciferi, post decennia operum et structurarum renovationum, novam Basilicam in quinquagesimo anniversario Hierosolymae expugnationis rite consecraverunt.",
         "main_shrine": "Basilica Sancti Sepulcri Hierosolymitana"
+    },
+    "StIrenaeus_589": {
+        "subject": "Sanctus Irenaeus, episcopus et martyr",
+        "places": "Lugdunum, Gallia",
+        "place_of_death": "Lugdunum, Gallia",
+        "place_of_birth": "Smyrna, Turcia",
+        "place_of_burial": "Lugdunum, Gallia",
+        "notes": "Irenaeus (circa 130-200), oriundus ex Asia Minore, in iuventute Smyrnae praedicationem senioris sancti Polycarpi, nexus cum testimonio apostolico, audivit. Episcopus Lugduni, durante controversia inter Romam et Ecclesias Asiae de die Paschae fuit – nomine et re – vir pacis, franche sustinens respectum legitimarum diversitatum. Montanistarum rigorismo et gnosticorum spiritualismo opposuit, in opere suo principali (Adversus Haereses), integritatem Traditionis apostolicae receptae et transmissae in communione unius Ecclesiae. Sanctus Hieronymus (circa 347-420) primus eum martyrem consideravit, quamvis circumstantiae mortis eius ignotae sint.",
+        "patronage": "",
+        "main_shrine": "https://en.wikipedia.org/wiki/Saint_Irenaeus_Church,_Lyon; sepulcrum ab Hugenotis destructum est durante bellis religionis"
+    },
+    "StPhilipApostle_590": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "StJamesLessApostle_591": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "StCyprian_592": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
     }
 }

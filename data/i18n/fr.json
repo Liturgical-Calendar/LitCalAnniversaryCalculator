@@ -209,7 +209,7 @@
         "patronage": "",
         "main_shrine": "Sanctuaire de Notre-Dame de Lourdes (France)"
     },
-    "StsCyrilMethodius_23": {
+    "StCyrilThessalonica_23": {
         "subject": "Saint Cyrille, moine",
         "places": "Thessalonique (Grèce), Rome (Italie)",
         "place_of_death": "Rome",
@@ -889,7 +889,7 @@
         "patronage": "",
         "main_shrine": "Église Sainte-Brigitte à Rome, Italie"
     },
-    "StJamesAp_93": {
+    "StJamesGreaterAp_93": {
         "subject": "Saint Jacques, apôtre",
         "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
         "place_of_death": "Jérusalem",
@@ -1229,7 +1229,7 @@
         "patronage": "",
         "main_shrine": "Chapelle du Calvaire, Basilique du Saint-Sépulcre, Jérusalem"
     },
-    "StsCorneliusCyprian_128": {
+    "StCornelius_128": {
         "subject": "Saints Corneille, pape, et Cyprien, évêque, martyrs",
         "places": "Rome, Italie ; Carthage, Tunisie",
         "place_of_death": "Civitavecchia, et Sesti (Carthage)",
@@ -2109,7 +2109,7 @@
         "patronage": "",
         "main_shrine": "Basilique de Saint Barthélemy et Saint Jérôme Emiliani, Somasca (Lecco, Italie)"
     },
-    "StsCyrilMethodius_224": {
+    "StMethodiusThessalonica_224": {
         "subject": "Saint Méthode, évêque",
         "places": "Thessalonique (Grèce), Velehrad (République Tchèque)",
         "place_of_death": "Velehrad, République Tchèque",
@@ -3537,5 +3537,45 @@
         "place_of_burial": "",
         "notes": "C'était le 15 juillet 1149 lorsque les Croisés, après des décennies de travaux et de rénovations structurelles, consacrèrent officiellement la nouvelle Basilique pour le cinquantième anniversaire de la conquête de Jérusalem.",
         "main_shrine": "Basilique du Saint-Sépulcre à Jérusalem"
+    },
+    "StIrenaeus_589": {
+        "subject": "Saint Irénée, évêque et martyr",
+        "places": "Lyon, France",
+        "place_of_death": "Lyon, France",
+        "place_of_birth": "Smyrne, Turquie",
+        "place_of_burial": "Lyon, France",
+        "notes": "Irénée (130-200 env.), originaire d'Asie Mineure, avait écouté en jeune âge à Smyrne la prédication du vieil saint Polycarpe, lien avec le témoignage apostolique. Évêque de Lyon, lors de la controverse entre Rome et les Églises d'Asie sur la date de Pâques, il fut – de nom et de fait – un homme de paix, soutenant avec franchise le respect des légitimes diversités. Au rigorisme des montanistes et au spiritualisme des gnostiques, il opposa, dans son œuvre principale (Contre les hérésies), l'intégrité de la Tradition apostolique reçue et transmise dans la communion de l'unique Église. Saint Jérôme (347 env.-420) fut le premier à le considérer comme martyr, bien que les circonstances de sa mort soient inconnues.",
+        "patronage": "",
+        "main_shrine": "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Ir%C3%A9n%C3%A9e_de_Lyon; la tombe fut détruite par les huguenots pendant les guerres de religion"
+    },
+    "StPhilipApostle_590": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "StJamesLessApostle_591": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "StCyprian_592": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
     }
 }

@@ -209,7 +209,7 @@
         "patronage": "",
         "main_shrine": "Santuário de Nossa Senhora de Lourdes (França)"
     },
-    "StsCyrilMethodius_23": {
+    "StCyrilThessalonica_23": {
         "subject": "São Cirilo, monge",
         "places": "Salônica (Grécia), Roma (Itália)",
         "place_of_death": "Roma",
@@ -889,7 +889,7 @@
         "patronage": "",
         "main_shrine": "Igreja de Santa Brígida em Roma, Itália"
     },
-    "StJamesAp_93": {
+    "StJamesGreaterAp_93": {
         "subject": "São Tiago, apóstolo",
         "places": "Basílica de Fátima (Portugal)",
         "place_of_death": "Jerusalém",
@@ -1229,7 +1229,7 @@
         "patronage": "",
         "main_shrine": "Capela do Calvário, Basílica do Santo Sepulcro, Jerusalém"
     },
-    "StsCorneliusCyprian_128": {
+    "StCornelius_128": {
         "subject": "Santos Cornélio, papa, e Cipriano, bispo, mártires",
         "places": "Roma, Itália; Cartago, Tunísia",
         "place_of_death": "Civitavecchia, e Sesti (Cartago)",
@@ -2109,7 +2109,7 @@
         "patronage": "",
         "main_shrine": "Basílica de São Bartolomeu e São Jerônimo Emiliani, Somasca (Lecco, Itália)"
     },
-    "StsCyrilMethodius_224": {
+    "StMethodiusThessalonica_224": {
         "subject": "São Metódio, bispo",
         "places": "Salônica (Grécia), Velehrad (República Tcheca)",
         "place_of_death": "Velehrad, República Tcheca",
@@ -3537,5 +3537,45 @@
         "place_of_burial": "Aosta (Itália), Canterbury (Reino Unido)",
         "notes": "Foi em 15 de julho de 1149 que os Cruzados, após décadas de trabalhos e reformas estruturais, consagraram oficialmente a nova Basílica no quinquagésimo aniversário da conquista de Jerusalém.",
         "main_shrine": "Basílica do Santo Sepulcro em Jerusalém"
+    },
+    "StIrenaeus_589": {
+        "subject": "Santo Ireneu, bispo e mártir",
+        "places": "Lyon, França",
+        "place_of_death": "Lyon, França",
+        "place_of_birth": "Esmirna, Turquia",
+        "place_of_burial": "Lyon, França",
+        "notes": "Ireneu (130-200 aprox.), originário da Ásia Menor, em jovem idade ouviu em Esmirna a pregação do ancião São Policarpo, elo de ligação com o testemunho apostólico. Bispo de Lyon, durante a controvérsia entre Roma e as Igrejas da Ásia sobre a data da Páscoa foi – de nome e de fato – homem de paz, defendendo com franqueza o respeito pelas legítimas diversidades. Ao rigorismo dos montanistas e ao espiritualismo dos gnósticos contrapôs, em sua obra principal (Contra as Heresias), a integridade da Tradição apostólica recebida e transmitida na comunhão da única Igreja. Foi São Jerônimo (347 aprox.-420) o primeiro a considerá-lo mártir, embora sejam desconhecidas as circunstâncias de sua morte.",
+        "patronage": "",
+        "main_shrine": "https://en.wikipedia.org/wiki/Saint_Irenaeus_Church,_Lyon; o túmulo foi destruído pelos huguenotes durante as guerras religiosas"
+    },
+    "StPhilipApostle_590": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "StJamesLessApostle_591": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "StCyprian_592": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
     }
 }

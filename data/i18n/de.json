@@ -209,7 +209,7 @@
         "patronage": "",
         "main_shrine": "Heiligtum Unserer Lieben Frau von Lourdes (Frankreich)"
     },
-    "StsCyrilMethodius_23": {
+    "StCyrilThessalonica_23": {
         "subject": "Heiliger Kyrill, Mönch",
         "places": "Thessaloniki (Griechenland), Rom (Italien)",
         "place_of_death": "Rom",
@@ -889,7 +889,7 @@
         "patronage": "",
         "main_shrine": "Kirche Santa Brigida in Rom, Italien"
     },
-    "StJamesAp_93": {
+    "StJamesGreaterAp_93": {
         "subject": "Heiliger Jakobus, Apostel",
         "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
         "place_of_death": "Jerusalem",
@@ -1229,7 +1229,7 @@
         "patronage": "",
         "main_shrine": "Kalvarienkapelle, Basilika des Heiligen Grabes, Jerusalem"
     },
-    "StsCorneliusCyprian_128": {
+    "StCornelius_128": {
         "subject": "Heilige Cornelius, Papst, und Cyprian, Bischof, Märtyrer",
         "places": "Rom, Italien; Karthago, Tunesien",
         "place_of_death": "Civitavecchia, und Sesti (Karthago)",
@@ -2109,7 +2109,7 @@
         "patronage": "",
         "main_shrine": "Basilika des heiligen Bartholomäus und des heiligen Hieronymus Emiliani, Somasca (Lecco, Italien)"
     },
-    "StsCyrilMethodius_224": {
+    "StMethodiusThessalonica_224": {
         "subject": "Heiliger Methodius, Bischof",
         "places": "Thessaloniki (Griechenland), Velehrad (Tschechische Republik)",
         "place_of_death": "Velehrad, Tschechische Republik",
@@ -3537,5 +3537,45 @@
         "place_of_burial": "Lourdes (Frankreich)",
         "notes": "Am 15. Juli 1149 weihten die Kreuzfahrer nach jahrzehntelangen Arbeiten und strukturellen Veränderungen offiziell die neue Basilika zum fünfzigsten Jahrestag der Eroberung Jerusalems.",
         "main_shrine": "Basilika des Heiligen Grabes in Jerusalem"
+    },
+    "StIrenaeus_589": {
+        "subject": "Heiliger Irenäus, Bischof und Märtyrer",
+        "places": "Lyon, Frankreich",
+        "place_of_death": "Lyon, Frankreich",
+        "place_of_birth": "Smyrna, Türkei",
+        "place_of_burial": "Lyon, Frankreich",
+        "notes": "Irenäus (ca. 130-200), stammte aus Kleinasien und hatte in jungen Jahren in Smyrna die Predigt des älteren heiligen Polykarp gehört, der ein Bindeglied zum apostolischen Zeugnis war. Als Bischof von Lyon war er während des Streits zwischen Rom und den Kirchen Asiens über das Datum des Osterfestes – dem Namen und der Tat nach – ein Mann des Friedens, der mit Offenheit den Respekt vor legitimen Unterschieden unterstützte. Gegen den Rigorismus der Montanisten und den Spiritualismus der Gnostiker stellte er in seinem Hauptwerk (Gegen die Häresien) die Integrität der apostolischen Tradition, die in der Gemeinschaft der einen Kirche empfangen und weitergegeben wurde. Der heilige Hieronymus (ca. 347-420) war der erste, der ihn als Märtyrer betrachtete, obwohl die Umstände seines Todes unbekannt sind.",
+        "patronage": "",
+        "main_shrine": "https://en.wikipedia.org/wiki/Saint_Irenaeus_Church,_Lyon; das Grab wurde während der Religionskriege von den Hugenotten zerstört"
+    },
+    "StPhilipApostle_590": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "StJamesLessApostle_591": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "StCyprian_592": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
     }
 }

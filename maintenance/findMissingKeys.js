@@ -13,14 +13,16 @@ const checkObjectKeys = async (lang = '') => {
     Object.entries(itObj).forEach(([key,value]) => {
         Object.keys(value).forEach(key2 => {
             if(false === langObj.hasOwnProperty(key)) {
-                langObj[key] = {};
+                console.log(`lang ${lang} is missing key ${key}`);
+                //langObj[key] = {};
             }
             if(false === langObj[key].hasOwnProperty(key2)) {
-                langObj[key][key2] = '';
+                //langObj[key][key2] = '';
+                console.log(`lang ${lang} is missing key ${key}.${key2}`);
             }
         });
     });
-    fs.writeFile(`data/i18n/${lang}.json`, JSON.stringify(langObj, null, 4), 'utf8');
+    //fs.writeFile(`data/i18n/${lang}.json`, JSON.stringify(langObj, null, 4), 'utf8');
 }
 
 ['fr','es','de','pt','la'].forEach(lang => {

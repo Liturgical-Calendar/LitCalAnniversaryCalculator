@@ -209,7 +209,7 @@
         "patronage": "",
         "main_shrine": "Shrine of Our Lady of Lourdes (France)"
     },
-    "StsCyrilMethodius_23": {
+    "StCyrilThessalonica_23": {
         "subject": "Saint Cyril, monk",
         "places": "Thessaloniki (Greece), Rome (Italy)",
         "place_of_death": "Rome",
@@ -889,7 +889,7 @@
         "patronage": "",
         "main_shrine": "Church of Saint Bridget in Rome, Italy"
     },
-    "StJamesAp_93": {
+    "StJamesGreaterAp_93": {
         "subject": "Saint James, apostle",
         "places": "Aosta (Italy), Canterbury (United Kingdom)",
         "place_of_death": "Jerusalem",
@@ -1229,7 +1229,7 @@
         "patronage": "",
         "main_shrine": "Calvary Chapel, Basilica of the Holy Sepulchre, Jerusalem"
     },
-    "StsCorneliusCyprian_128": {
+    "StCornelius_128": {
         "subject": "Saints Cornelius, pope, and Cyprian, bishop, martyrs",
         "places": "Rome, Italy; Carthage, Tunisia",
         "place_of_death": "Civitavecchia, and Sesti (Carthage)",
@@ -2109,7 +2109,7 @@
         "patronage": "",
         "main_shrine": "Basilica of Saint Bartholomew and Saint Jerome Emiliani, Somasca (Lecco, Italy)"
     },
-    "StsCyrilMethodius_224": {
+    "StMethodiusThessalonica_224": {
         "subject": "Saint Methodius, bishop",
         "places": "Thessaloniki (Greece), Velehrad (Czech Republic)",
         "place_of_death": "Velehrad, Czech Republic",
@@ -3537,5 +3537,45 @@
         "place_of_burial": "Jerusalem (Israel / Palestine)",
         "notes": "It was 15 July 1149 when the Crusaders, after decades of work and structural renovation, officially consecrated the new Basilica on the fiftieth anniversary of the conquest of Jerusalem.",
         "main_shrine": "Basilica of the Holy Sepulchre in Jerusalem"
+    },
+    "StIrenaeus_589": {
+        "subject": "Saint Irenaeus, bishop and martyr",
+        "places": "Lyon, France",
+        "place_of_death": "Lyon, France",
+        "place_of_birth": "Izmir, Turkey",
+        "place_of_burial": "Lyon, France",
+        "notes": "Irenaeus (130-200 approx.), originally from Asia Minor, in his youth had listened to the preaching of the elder Saint Polycarp in Smyrna, a link with the apostolic testimony. Bishop of Lyon, during the controversy between Rome and the Churches of Asia over the date of Easter, he was - in name and in fact - a man of peace, openly supporting the respect of legitimate differences. To the rigorism of the Montanists and the spiritualism of the Gnostics, he opposed, in his main work (Against Heresies), the integrity of the apostolic Tradition received and transmitted in the communion of the one Church. It was Saint Jerome (approx. 347-420) who first considered him a martyr, although the circumstances of his death are unknown.",
+        "patronage": "",
+        "main_shrine": "https://en.wikipedia.org/wiki/Saint_Irenaeus_Church,_Lyon; the tomb was destroyed by the Huguenots during the wars of religion"
+    },
+    "StPhilipApostle_590": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "StJamesLessApostle_591": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "StCyprian_592": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
     }
 }
