@@ -282,9 +282,9 @@
     "StFrancesRome_31": {
         "subject": "Heilige Franziska Romana, Ordensfrau",
         "places": "Rom (Italien)",
-        "place_of_death": "Assisi (Italien)",
-        "place_of_birth": "Andechs (Bayern)",
-        "place_of_burial": "Kathedrale von Canterbury (Vereinigtes Königreich)",
+        "place_of_death": "Rom (Italien)",
+        "place_of_birth": "Rom (Italien)",
+        "place_of_burial": "Rom (Italien)",
         "notes": "Franziska Bussa (Rom, 1384 - 9. März 1440) war, obwohl sie zur Ehe gezwungen wurde, eine vorbildliche Ehefrau und Mutter. Gestützt durch eine innige Verbindung mit Gott, übte sie unermüdlich Nächstenliebe, indem sie Arme und Kranke in ihrem Haus aufnahm. Sie gründete in Rom die Oblatinnen von Tor de’ Specchi, denen sie sich nach dem Tod ihres Mannes anschloss.",
         "patronage": "",
         "main_shrine": "Basilika Santa Francesca Romana am Forum Romanum"
@@ -304,10 +304,10 @@
         "places": "Jerusalem (Israel / Palästina)",
         "place_of_death": "Jerusalem",
         "place_of_birth": "Jerusalem",
-        "place_of_burial": "Lourdes (Frankreich)",
+        "place_of_burial": "Kirche der Jünger (oder der Apostel) auf der Eleona, Ölberg (Jerusalem, Israel / Palästina)",
         "notes": "Cyrill (ca. 315 - 387), Bischof von Jerusalem, war dramatisch in die tiefen Spaltungen der Kirche seiner Zeit verwickelt: Verleumdet und mehrfach ins Exil geschickt, blieb er der im Konzil von Nicäa (325) verkündeten Lehre treu. Ihm werden einige berühmte Taufkatechesen zugeschrieben.",
         "patronage": "",
-        "main_shrine": "Lourdes (Frankreich)"
+        "main_shrine": "N/V"
     },
     "StJoseph_34": {
         "subject": "Heiliger Josef, Bräutigam der Seligen Jungfrau Maria",
@@ -341,7 +341,7 @@
     },
     "StIsidore_38": {
         "subject": "Der heilige Isidor, Bischof und Kirchenlehrer",
-        "places": "Lourdes (Frankreich)",
+        "places": "Cartagena (Spanien); Sevilla (Spanien)",
         "place_of_death": "Sevilla (Spanien)",
         "place_of_birth": "Cartagena (Spanien)",
         "place_of_burial": "Real Colegiata Basílica de San Isidoro (León, Spanien)",
@@ -351,7 +351,7 @@
     },
     "StVincentFerrer_39": {
         "subject": "Heiliger Vinzenz Ferrer, Priester",
-        "places": "Lourdes (Frankreich)",
+        "places": "Valencia (Spanien); Vannes (Frankreich)",
         "place_of_death": "Vannes (Frankreich)",
         "place_of_birth": "València, Spanien",
         "place_of_burial": "Kathedrale St. Peter in Vannes (Frankreich)",
@@ -361,7 +361,7 @@
     },
     "StJohnBaptistDeLaSalle_40": {
         "subject": "Heiliger Johannes Baptist de la Salle, Priester",
-        "places": "Lourdes (Frankreich)",
+        "places": "Reims (Frankreich); Rouen (Frankreich)",
         "place_of_death": "Saint Yon bei Rouen (Frankreich)",
         "place_of_birth": "Reims (Frankreich)",
         "place_of_burial": "Johannes Baptist de La Salle wurde in der Kirche Saint-Sever, einem Stadtteil von Rouen, beigesetzt. 1734 wurde sein Körper nach Saint-Yon in die Kapelle seines Internats überführt, dann 1835 in die der Normalschule von Rouen. In Reims wurde 1898 eine ihm gewidmete Kirche erbaut. 1937 wurden seine Reliquien nach Rom überführt.",
