@@ -362,16 +362,16 @@
     "StJohnBaptistDeLaSalle_40": {
         "subject": "São João Batista de La Salle, sacerdote",
         "places": "Reims (França); Rouen (França)",
-        "place_of_death": "Saint Yon perto de Rouen (França)",
+        "place_of_death": "Capela de Saint-Yon (Rouen, França)",
         "place_of_birth": "Reims (França)",
-        "place_of_burial": "Giovanni Battista de La Salle foi sepultado na igreja de Saint-Sever, um bairro de Rouen. Em 1734, seu corpo foi levado de volta a Saint-Yon na capela de seu internato, depois em 1835 foi transferido para a Escola Normal de Rouen. Em Reims, foi construída uma igreja dedicada a ele em 1898. Em 1937, suas relíquias foram transferidas para Roma.",
+        "place_of_burial": "Igreja de Saint-Sever (Rouen, França; depois em 1734 na capela de Saint-Yon (Rouen, França); depois em 1835 na Escola Normal de Rouen (França); depois em 1937 suas relíquias foram transferidas para Roma (Itália)",
         "notes": "João Batista (Reims, França, 30 de abril de 1651 - Saint Yon perto de Rouen, 7 de abril de 1719), após cuidar, na morte dos pais, de seus numerosos irmãos, ordenado presbítero, dedicou-se à juventude desfavorecida, abrindo escolas para pobres e redigindo textos para a formação de professores. Fundou a Congregação dos Irmãos das Escolas Cristãs, dedicada à educação popular.",
         "patronage": "",
         "main_shrine": "Igreja e Santuário de São João Batista de La Salle, Casa Generalícia Irmãos das Escolas Cristãs, Roma"
     },
     "StStanislaus_41": {
         "subject": "São Estanislau, bispo e mártir",
-        "places": "Beata Maria Virgem de Lourdes",
+        "places": "Szczepanów (Polônia); Cracóvia (Polônia)",
         "place_of_death": "Cracóvia (Polônia)",
         "place_of_birth": "Szczepanowice (Polônia)",
         "place_of_burial": "Catedral de Cracóvia (Polônia)",
@@ -392,8 +392,8 @@
     "StAnselm_43": {
         "subject": "Santo Anselmo de Cantuária, bispo e doutor da Igreja",
         "places": "Aosta (Itália), Canterbury (Reino Unido)",
-        "place_of_death": "Cantuária, Reino Unido",
-        "place_of_birth": "Aosta, Itália",
+        "place_of_death": "Cantuária (Reino Unido)",
+        "place_of_birth": "Aosta (Itália)",
         "place_of_burial": "Anselmo morreu em 21 de abril de 1109, quarta-feira santa, e foi sepultado na catedral de Cantuária. Seus restos mortais foram exumados durante os distúrbios religiosos que ocorreram durante o reinado de Henrique VIII da Inglaterra e se perderam.",
         "notes": "Anselmo (Aosta, 1033/1034 - Cantuária, Reino Unido, 21 de abril de 1109), por cerca de trinta anos monge e abade de Bec, na Normandia, tornou-se arcebispo de Cantuária e primaz da Inglaterra. Lutou pela liberdade da Igreja contra as invasões do poder político. Profundo teólogo, soube valorizar o papel da razão no aprofundamento dos mistérios da fé.",
         "patronage": "",
@@ -401,7 +401,7 @@
     },
     "StGeorge_44": {
         "subject": "São Jorge, mártir",
-        "places": "Aosta (Itália), Canterbury (Reino Unido)",
+        "places": "Lida (perto da atual Tel Aviv, Israel)",
         "place_of_death": "Nicomédia (atual İzmit), Turquia | ou | Lida (atual Lod) - Tel Aviv, Israel",
         "place_of_birth": "Capadócia, Turquia",
         "place_of_burial": "Lida, Tel Aviv (Israel)",
@@ -431,7 +431,7 @@
     },
     "StPeterChanel_47": {
         "subject": "São Pedro Chanel, sacerdote e mártir",
-        "places": "Beata Maria Virgem de Lourdes",
+        "places": "Montrevel-en-Bresse (França); Ilha de Futuna (Ilhas Hoorn, Oceania)",
         "place_of_death": "Futuna, Oceania Francesa",
         "place_of_birth": "Montrevel-en-Bresse (França)",
         "place_of_burial": "Os restos do missionário, sepultados apressadamente, foram posteriormente reclamados por M. Lavaux, comandante francês da estação naval do Taiti, e levados de volta à França por um meio de transporte do governo, em 1842.",
@@ -451,7 +451,7 @@
     },
     "StPiusV_49": {
         "subject": "São Pio V, papa",
-        "places": "Lourdes (França)",
+        "places": "Bosco Marengo (Itália); Roma (Itália)",
         "place_of_death": "Roma (Itália)",
         "place_of_birth": "Bosco Marengo, Alessandria (Itália)",
         "place_of_burial": "Basílica de Santa Maria Maior, Roma",
@@ -461,13 +461,13 @@
     },
     "StJosephWorker_50": {
         "subject": "São José Operário",
-        "places": "N/A",
-        "place_of_death": "Lourdes (França)",
-        "place_of_birth": "Lourdes (França)",
-        "place_of_burial": "Lourdes (França)",
+        "places": "Belém (Palestina), Nazaré (Israel)",
+        "place_of_death": "Nazaré (Israel)",
+        "place_of_birth": "Belém (Palestina)",
+        "place_of_burial": "Nazaré (Israel)",
         "notes": "José, esposo da Virgem Maria e pai adotivo de Jesus, é apresentado nos Evangelhos como \"carpinteiro\" (Mt 13, 55). Foi Pio XII, em 1955, que introduziu esta memória, para dar um \"crisma cristão\" à comemoração laica do primeiro de maio, difundida desde o século XIX em muitos países como data simbólica das lutas pelo reconhecimento dos direitos dos trabalhadores. Esta celebração litúrgica pretende recordar a grande dignidade do trabalho humano que continua a obra do Criador e foi compartilhado pelo Filho de Deus feito homem, também chamado, nos Evangelhos, de \"carpinteiro\" (Mc 6, 3). Laborem Exercens é uma encíclica publicada pelo papa João Paulo II em 14 de setembro de 1981. Trata do trabalho humano no 90º aniversário da Rerum Novarum.",
         "patronage": "",
-        "main_shrine": "Beata Virgem Maria de Fátima"
+        "main_shrine": "Igreja da Nutrição (Nazaré, Israel)"
     },
     "StAthanasius_51": {
         "subject": "Santo Atanásio, bispo e doutor",
