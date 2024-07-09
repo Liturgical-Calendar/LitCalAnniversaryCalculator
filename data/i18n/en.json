@@ -304,14 +304,14 @@
         "places": "Jerusalem (Israel / Palestine)",
         "place_of_death": "Jerusalem",
         "place_of_birth": "Jerusalem",
-        "place_of_burial": "Lourdes (France)",
+        "place_of_burial": "Church of the Disciples (or of the Apostles) at Eleona, Mount of Olives (Jerusalem, Israel / Palestine)",
         "notes": "Cyril (ca. 315 - 387), bishop of Jerusalem, was dramatically involved in the deep divisions of the Church of his time: slandered and exiled several times, he remained faithful to the doctrine proclaimed at the Council of Nicaea (325). Some famous baptismal catecheses are attributed to him.",
         "patronage": "",
-        "main_shrine": "Lourdes (France)"
+        "main_shrine": "N/A"
     },
     "StJoseph_34": {
         "subject": "Saint Joseph, Husband of the Blessed Virgin Mary",
-        "places": "Bethlehem (Palestine)",
+        "places": "Bethlehem (Palestine), Nazareth (Israel)",
         "place_of_death": "Nazareth (Israel)",
         "place_of_birth": "Bethlehem (Palestine)",
         "place_of_burial": "Tomb of the Righteous in Nazareth?",
@@ -341,7 +341,7 @@
     },
     "StIsidore_38": {
         "subject": "Saint Isidore, bishop and doctor of the Church",
-        "places": "Lourdes (France)",
+        "places": "Cartagena (Spain); Seville (Spain)",
         "place_of_death": "Seville (Spain)",
         "place_of_birth": "Cartagena (Spain)",
         "place_of_burial": "Royal Collegiate Basilica of Saint Isidore (León, Spain)",
@@ -351,7 +351,7 @@
     },
     "StVincentFerrer_39": {
         "subject": "Saint Vincent Ferrer, priest",
-        "places": "Lourdes (France)",
+        "places": "Valencia (Spain); Vannes (France)",
         "place_of_death": "Vannes (France)",
         "place_of_birth": "Valencia, Spain",
         "place_of_burial": "Cathedral of Saint Peter in Vannes (France)",
@@ -361,7 +361,7 @@
     },
     "StJohnBaptistDeLaSalle_40": {
         "subject": "Saint John Baptist de la Salle, priest",
-        "places": "Lourdes (France)",
+        "places": "Reims (France); Rouen (France)",
         "place_of_death": "Saint Yon near Rouen (France)",
         "place_of_birth": "Reims (France)",
         "place_of_burial": "John Baptist de La Salle was buried in the church of Saint-Sever, a district of Rouen. In 1734 his body was brought back to Saint-Yon in the chapel of his boarding school, then in 1835 it was transferred to that of the Rouen Normal School. A church dedicated to him was built in Reims in 1898. In 1937 his relics were transferred to Rome.",
