@@ -291,7 +291,7 @@
     },
     "StPatrick_32": {
         "subject": "San Patricio, obispo",
-        "places": "Lourdes (Francia)",
+        "places": "Bannaventa (Gran Bretaña), Croagh Patrick (Irlanda), Downpatrick (Irlanda), Dublín (Irlanda), Roca de Cashel (Irlanda), Armagh (Irlanda)",
         "place_of_death": "Downpatrick (Irlanda del Norte)",
         "place_of_birth": "Old Kilpatrick (Escocia)",
         "place_of_burial": "Downpatrick (Irlanda del Norte)",
@@ -301,7 +301,7 @@
     },
     "StCyrilJerusalem_33": {
         "subject": "San Cirilo de Jerusalén, obispo y doctor",
-        "places": "Lourdes (Francia)",
+        "places": "Jerusalén (Israel / Palestina)",
         "place_of_death": "Jerusalén",
         "place_of_birth": "Jerusalén",
         "place_of_burial": "Lourdes (Francia)",
@@ -331,7 +331,7 @@
     },
     "StFrancisPaola_37": {
         "subject": "San Francisco de Paula, ermitaño",
-        "places": "Lourdes (Francia)",
+        "places": "Paola (Italia), Castillo de Plessis-lez-Tours (Francia)",
         "place_of_death": "Castillo de Plessis-lez-Tours (La Riche, Francia)",
         "place_of_birth": "Paola (Cosenza)",
         "place_of_burial": "La Riche, Francia (se inició la construcción de un santuario sobre la tumba, solo se ha edificado el ábside)",
