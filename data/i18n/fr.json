@@ -283,8 +283,8 @@
         "subject": "Sainte Françoise Romaine, religieuse",
         "places": "Rome (Italie)",
         "place_of_death": "Rome (Italie)",
-        "place_of_birth": "Rome",
-        "place_of_burial": "Rome",
+        "place_of_birth": "Rome (Italie)",
+        "place_of_burial": "Rome (Italie)",
         "notes": "Françoise Bussa (Rome, 1384 - 9 mars 1440), bien que forcée au mariage, fut une épouse et une mère exemplaire. Soutenue par une union intime avec Dieu, elle pratiqua inlassablement la charité, accueillant dans sa maison les pauvres et les malades. Elle fonda à Rome les Oblates de Tor de’ Specchi, auxquelles elle se joignit après la mort de son mari.",
         "patronage": "",
         "main_shrine": "Basilique Sainte Françoise Romaine au Forum Romain"
@@ -304,10 +304,10 @@
         "places": "Jérusalem (Israël / Palestine)",
         "place_of_death": "Jérusalem",
         "place_of_birth": "Jérusalem",
-        "place_of_burial": "Lourdes (France)",
+        "place_of_burial": "Église des Disciples (ou des Apôtres) à l'Eleona, Mont des Oliviers (Jérusalem, Israël / Palestine)",
         "notes": "Cyrille (ca. 315 - 387), évêque de Jérusalem, fut dramatiquement impliqué dans les profondes divisions de l'Église de son temps : calomnié et plusieurs fois exilé, il resta fidèle à la doctrine proclamée au Concile de Nicée (325). On lui attribue quelques célèbres catéchèses baptismales.",
         "patronage": "",
-        "main_shrine": "Lourdes (France)"
+        "main_shrine": "N/A"
     },
     "StJoseph_34": {
         "subject": "Saint Joseph Époux de la Bienheureuse Vierge Marie",
@@ -341,7 +341,7 @@
     },
     "StIsidore_38": {
         "subject": "Saint Isidore, évêque et docteur de l'Église",
-        "places": "Lourdes (France)",
+        "places": "Carthagène (Espagne); Séville (Espagne)",
         "place_of_death": "Séville (Espagne)",
         "place_of_birth": "Carthagène (Espagne)",
         "place_of_burial": "Real Colegiata Basílica de San Isidoro (León, Espagne)",
@@ -351,7 +351,7 @@
     },
     "StVincentFerrer_39": {
         "subject": "Saint Vincent Ferrier, prêtre",
-        "places": "Lourdes (France)",
+        "places": "Valence (Espagne) ; Vannes (France)",
         "place_of_death": "Vannes (France)",
         "place_of_birth": "Valence, Espagne",
         "place_of_burial": "Cathédrale Saint-Pierre à Vannes (France)",
@@ -361,7 +361,7 @@
     },
     "StJohnBaptistDeLaSalle_40": {
         "subject": "Saint Jean-Baptiste de La Salle, prêtre",
-        "places": "Lourdes (France)",
+        "places": "Reims (France) ; Rouen (France)",
         "place_of_death": "Saint Yon près de Rouen (France)",
         "place_of_birth": "Reims (France)",
         "place_of_burial": "Jean-Baptiste de La Salle fut enterré dans l'église de Saint-Sever, un quartier de Rouen. En 1734, son corps fut ramené à Saint-Yon dans la chapelle de son pensionnat, puis en 1835, il fut transféré dans celle de l'École normale de Rouen. À Reims, une église dédiée à lui fut construite en 1898. En 1937, ses reliques furent transférées à Rome.",
