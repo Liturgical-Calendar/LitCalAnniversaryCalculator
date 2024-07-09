@@ -47,7 +47,7 @@
         "place_of_burial": "Basiliek van San Sebastiano fuori le Mura",
         "notes": "Sterfjaar 250/251, na ongeveer 15 jaar paus te zijn geweest",
         "patronage": "",
-        "main_shrine": "N/B"
+        "main_shrine": "Catacomben van Sint-Calixtus (Rome)"
     },
     "StSebastian_6": {
         "subject": "Saint Sebastiaan, martelaar",
@@ -77,11 +77,11 @@
         "place_of_burial": "Kathedraal van Valencia (Spanje) / Kathedraal van Lissabon (Portugal) / Acate (Ragusa, Italië; volksgebruik)",
         "notes": "Vincenzo († Valencia, Spanje, 22 januari 304), diaken van de Kerk van Zaragoza, gearresteerd tijdens de vervolging van Diocletianus, stierf in de gevangenis als gevolg van de martelingen die hij had ondergaan. Hij schonk zijn leven aan Christus samen met bisschop Valerio, met wie hij vaak het offer van het altaar had gebracht. Hij wordt herdacht op 22 januari in het Jeronimiaanse Martyrologium (5e-6e eeuw). Met de komst van keizer Constantijn, die zich tot het christendom had bekeerd, werd in Valencia een basiliek ter ere van Sint-Vincentius opgericht en onder het hoofdaltaar werden zijn relieken geplaatst. Echter, na de invasie van de Moren, smokkelden de christenen van Valencia het lichaam van de Martelaar naar Portugal om het in veiligheid te brengen, in een kerkje dat speciaal was gebouwd op de plaats van het huidige Kaap Sint-Vincentius. Na de oorlog tegen de Moren werden de overblijfselen op een schip geladen dat koers zette naar Lissabon. Een devotionele legende vertelt dat tijdens de reis enkele raven op de boeg en de achtersteven van het schip gingen zitten, alsof ze hun vernieuwde bescherming aan de Heilige martelaar wilden tonen, die ze ooit van de wilde dieren hadden gered. Aangekomen in de stad, werd het lichaam neergelegd in de kerk van Santa Giusta en Santa Rufina en na enige tijd, op 15 september 1173, plechtig overgebracht naar de kathedraal. Ter herinnering werden er munten geslagen. https://it.wikipedia.org/wiki/Monastero_di_S%C3%A3o_Vicente_de_Fora",
         "patronage": "",
-        "main_shrine": "N/B"
+        "main_shrine": "Kathedraal van Lissabon (Portugal)"
     },
     "StFrancisDeSales_9": {
         "subject": "Sint Franciscus van Sales, bisschop en kerkleraar",
-        "places": "N/B",
+        "places": "Kasteel van Thorens (Thorens-Glières, Frankrijk), Lyon (Frankrijk), Genève (Zwitserland), Annecy (Frankrijk)",
         "place_of_death": "Lyon, Frankrijk",
         "place_of_birth": "Sales (Frankrijk)",
         "place_of_burial": "Basiliek van de Visitatie, Annecy, Frankrijk",
@@ -171,10 +171,10 @@
     },
     "StsPaulMiki_19": {
         "subject": "Heilige Paulus Miki en gezellen, martelaren",
-        "places": "N/B",
+        "places": "Settsu (Japan), Nagasaki (Japan)",
         "place_of_death": "Nagasaki, Japan",
         "place_of_birth": "Kyoto (Japan)",
-        "place_of_burial": "N/B",
+        "place_of_burial": "Nagasaki (Japan)",
         "notes": "Paolo Miki (Kyoto, Japan, 1556 - Nagasaki, 5 februari 1597), jezuïet, was een slachtoffer van de vervolging die de Japanse keizer beval tegen de christenen, uit angst dat hun toename een gevaar zou vormen voor de autonomie van het land. Samen met hem werden nog vijfentwintig andere christenen gekruisigd, leken en religieuzen (Jezuïeten en Minderbroeders).",
         "patronage": "",
         "main_shrine": "https://it.wikipedia.org/wiki/Basilica_dei_Ventisei_Santi_Martiri_del_Giappone; Museum en monument van de zesentwintig martelaren van Nagasaki https://travel.at-nagasaki.jp/it/s/what-to-see/30/ https://en.wikipedia.org/wiki/Twenty-Six_Martyrs_Museum_and_Monument"
@@ -197,7 +197,7 @@
         "place_of_burial": "Abdij van Montecassino",
         "notes": "Scholastica (Norcia, Perugia, ca. 480 - Montecassino, Frosinone, ca. 547) wordt door de traditie aangeduid als de zus van Sint Benedictus. De Dialogen van Gregorius de Grote beschrijven haar als een maagd die van contemplatie hield, wijs in het stellen van naastenliefde boven elke menselijke regel. Ze wordt herdacht op 10 februari in de Marmeren Kalender van Napels (9e eeuw) en in het Martyrologium van Usuardus (ca. 870).",
         "patronage": "",
-        "main_shrine": "N/B"
+        "main_shrine": "Abdij van Montecassino (Italië)"
     },
     "LadyLourdes_22": {
         "subject": "Heilige Maagd Maria van Lourdes",
@@ -241,10 +241,10 @@
     },
     "StPolycarp_27": {
         "subject": "Sint-Polycarpus, bisschop en martelaar",
-        "places": "N/B",
+        "places": "Smyrna (Turkije)",
         "place_of_death": "Smyrna, Turkije",
         "place_of_birth": "Smyrna, Turkije",
-        "place_of_burial": "N/B",
+        "place_of_burial": "Sint-Ambrosius della Massima (Rome)",
         "notes": "Polycarpus († 23 februari 167), leerling van de apostel Johannes, was bisschop van Smyrna (Turkije), waar hij de heilige Ignatius ontving op zijn reis naar Rome, de stad waar hij het martelaarschap zou ondergaan. Na een lang episcopaat, op zeer hoge leeftijd, werd Polycarpus veroordeeld tot de brandstapel vanwege zijn geloof. Het was de dag des Heren: terwijl het vuur hem verteerde, verenigde de bisschop zich, biddend, met de eucharistieviering die hij zo vaak met zijn Kerk had gevierd. Het verhaal van zijn passie is het oudste document over de verering van martelaren.",
         "patronage": "",
         "main_shrine": "Kerk van Sint-Polycarpus, Smyrna, Turkije"
