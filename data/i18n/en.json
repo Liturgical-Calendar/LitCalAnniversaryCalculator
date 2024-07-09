@@ -41,13 +41,13 @@
     },
     "StFabianPope_5": {
         "subject": "Saint Fabian, Pope and Martyr",
-        "places": "Alençon (France); Lisieux (France)",
+        "places": "Rome (Italy)",
         "place_of_death": "Rome (Italy)",
-        "place_of_birth": "Alençon (France); Lisieux (France)",
+        "place_of_birth": "Rome (Italy)",
         "place_of_burial": "Basilica of Saint Sebastian outside the Walls",
         "notes": "Year of death 250/251, after he was Pope for about 15 years",
         "patronage": "",
-        "main_shrine": "N/A"
+        "main_shrine": "Catacombs of Saint Callixtus (Rome)"
     },
     "StSebastian_6": {
         "subject": "Saint Sebastian, Martyr",
@@ -61,7 +61,7 @@
     },
     "StAgnes_7": {
         "subject": "Saint Agnes, Virgin and Martyr",
-        "places": "Alençon (France); Lisieux (France)",
+        "places": "Rome (Italy)",
         "place_of_death": "Basilica of Saint Agnes in Agone, Rome",
         "place_of_birth": "Rome (Italy)",
         "place_of_burial": "Catacombs of Saint Agnes outside the Walls",
@@ -77,11 +77,11 @@
         "place_of_burial": "Valencia Cathedral (Spain) / Lisbon Cathedral (Portugal) / Acate (Ragusa, Italy; popular tradition)",
         "notes": "Vincenzo († València, Spain, January 22, 304), deacon of the Church of Zaragoza, arrested during the persecution of Diocletian, died in prison following the torture he suffered. He made a gift of his life to Christ together with Bishop Valerio, with whom he had offered the sacrifice of the altar many times. He is remembered on January 22 in the Hieronymian Martyrology (5th-6th century). With the advent of Emperor Constantine, who had converted to Christianity, a basilica was erected in Valencia in honor of St. Vincent and his relics were composed under the main altar. However, following the invasion of the Moors, the Christians of Valencia stole the body of the Martyr to put it in safety in Portugal, in a specially built church on the promontory now known as Cape San Vincenzo. After the war against the Moors, the remains were embarked on a ship that headed for Lisbon. A devotional legend tells that during the voyage some crows alighted on the prow and stern of this ship as if to signify their renewed protection to the holy martyr whom they had already saved from the wild beasts one day. Once in the city, the body was placed in the church of Santa Giusta and Santa Rufina and after some time, on 15 September 1173, solemnly transported to the cathedral. In memory, coins were minted. https://en.wikipedia.org/wiki/Monastery_of_S%C3%A3o_Vicente_de_Fora",
         "patronage": "",
-        "main_shrine": "N/A"
+        "main_shrine": "Lisbon Cathedral (Portugal)"
     },
     "StFrancisDeSales_9": {
         "subject": "Saint Francis de Sales, Bishop and Doctor of the Church",
-        "places": "N/A",
+        "places": "Thorens Castle (Thorens-Glières, France), Lyon (France), Geneva (Switzerland), Annecy (France)",
         "place_of_death": "Lyon, France",
         "place_of_birth": "Sales (France)",
         "place_of_burial": "Basilica of the Visitation, Annecy, France",
@@ -171,10 +171,10 @@
     },
     "StsPaulMiki_19": {
         "subject": "Saints Paul Miki and companions, martyrs",
-        "places": "N/A",
+        "places": "Settsu (Japan), Nagasaki (Japan)",
         "place_of_death": "Nagasaki, Japan",
         "place_of_birth": "Kyoto (Japan)",
-        "place_of_burial": "N/A",
+        "place_of_burial": "Nagasaki (Japan)",
         "notes": "Paolo Miki (Kyoto, Japan, 1556 - Nagasaki, February 5, 1597), a Jesuit, was a victim of the persecution ordered by the Japanese emperor against Christians, fearing that their increase would pose a threat to the country's autonomy. Along with him, twenty-five other Christians, both laypeople and religious (Jesuits and Franciscans), were also crucified.",
         "patronage": "",
         "main_shrine": "https://en.wikipedia.org/wiki/Twenty-Six_Martyrs_Museum_and_Monument; Museum and monument of the twenty-six martyrs of Nagasaki. For more information, visit https://www.japan-guide.com/e/e4417.html"
@@ -197,7 +197,7 @@
         "place_of_burial": "Montecassino Abbey",
         "notes": "Scholastica (Norcia, Perugia, ca. 480 - Montecassino, Frosinone, ca. 547) is traditionally identified as the sister of St. Benedict. The Dialogues of Gregory the Great describe her as a virgin devoted to contemplation, wise in prioritizing charity over every human rule. She is commemorated on February 10th in the Marble Calendar of Naples (9th century) and in the Martyrology of Usuard (ca. 870).",
         "patronage": "",
-        "main_shrine": "N/A"
+        "main_shrine": "Abbey of Montecassino (Italy)"
     },
     "LadyLourdes_22": {
         "subject": "Blessed Virgin Mary of Lourdes",
@@ -241,10 +241,10 @@
     },
     "StPolycarp_27": {
         "subject": "Saint Polycarp, bishop and martyr",
-        "places": "N/A",
+        "places": "Izmir (Turkey)",
         "place_of_death": "Izmir, Turkey",
         "place_of_birth": "Izmir, Turkey",
-        "place_of_burial": "N/A",
+        "place_of_burial": "Saint Ambrose of the Maxima (Rome)",
         "notes": "Polycarp († February 23, 167), a disciple of the apostle John, was the bishop of Smyrna (Turkey), where he welcomed Saint Ignatius on his journey to Rome, where he would suffer martyrdom. After a long episcopate, at a very advanced age, Polycarp was condemned to be burned at the stake for his faith. It was the Lord's day: as the fire consumed him, the bishop, in prayer, joined the Eucharistic liturgy that he had celebrated so many times with his Church. The account of his passion is the oldest document on the veneration of martyrs.",
         "patronage": "",
         "main_shrine": "Church of Saint Polycarp, Smyrna, Turkey"
