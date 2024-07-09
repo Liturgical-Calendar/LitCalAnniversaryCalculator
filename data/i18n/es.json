@@ -283,8 +283,8 @@
         "subject": "Santa Francisca Romana, religiosa",
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
-        "place_of_birth": "Midland (Canadá)",
-        "place_of_burial": "Midland (Canadá)",
+        "place_of_birth": "Roma (Italia)",
+        "place_of_burial": "Roma (Italia)",
         "notes": "Francisca Bussa (Roma, 1384 - 9 de marzo de 1440), aunque forzada al matrimonio, fue esposa y madre ejemplar. Sostenida por una íntima unión con Dios, practicó incansablemente la caridad, acogiendo en su casa a pobres y enfermos. Fundó en Roma las Oblatas de Tor de’ Specchi, a las que se unió después de la muerte de su esposo.",
         "patronage": "",
         "main_shrine": "Basílica Santa Francisca Romana en el Foro Romano"
@@ -304,10 +304,10 @@
         "places": "Jerusalén (Israel / Palestina)",
         "place_of_death": "Jerusalén",
         "place_of_birth": "Jerusalén",
-        "place_of_burial": "Lourdes (Francia)",
+        "place_of_burial": "Iglesia de los Discípulos (o de los Apóstoles) en Eleona, Monte de los Olivos (Jerusalén, Israel / Palestina)",
         "notes": "Cirilo (ca. 315 - 387), obispo de Jerusalén, estuvo dramáticamente involucrado en las profundas divisiones de la Iglesia de su tiempo: calumniado y exiliado varias veces, se mantuvo fiel a la doctrina proclamada en el Concilio de Nicea (325). A él se le atribuyen algunas célebres catequesis bautismales.",
         "patronage": "",
-        "main_shrine": "Lourdes (Francia)"
+        "main_shrine": "N/D"
     },
     "StJoseph_34": {
         "subject": "San José Esposo de la Beata Virgen María",
@@ -341,7 +341,7 @@
     },
     "StIsidore_38": {
         "subject": "San Isidoro, obispo y doctor de la Iglesia",
-        "places": "Lourdes (Francia)",
+        "places": "Cartagena (España); Sevilla (España)",
         "place_of_death": "Sevilla (España)",
         "place_of_birth": "Cartagena (España)",
         "place_of_burial": "Real Colegiata Basílica de San Isidoro (León, España)",
@@ -351,7 +351,7 @@
     },
     "StVincentFerrer_39": {
         "subject": "San Vicente Ferrer, sacerdote",
-        "places": "Lourdes (Francia)",
+        "places": "Valencia (España); Vannes (Francia)",
         "place_of_death": "Vannes (Francia)",
         "place_of_birth": "Valencia, España",
         "place_of_burial": "Catedral de San Pedro en Vannes (Francia)",
@@ -361,7 +361,7 @@
     },
     "StJohnBaptistDeLaSalle_40": {
         "subject": "San Juan Bautista de La Salle, sacerdote",
-        "places": "Lourdes (Francia)",
+        "places": "Reims (Francia); Ruan (Francia)",
         "place_of_death": "Saint Yon cerca de Rouen (Francia)",
         "place_of_birth": "Reims (Francia)",
         "place_of_burial": "Juan Bautista de La Salle fue sepultado en la iglesia de Saint-Sever, un barrio de Rouen. En 1734 su cuerpo fue llevado de nuevo a Saint-Yon en la capilla de su internado, luego en 1835 fue trasladado a la de la Escuela Normal de Rouen. En Reims se construyó, en 1898, una iglesia dedicada a él. En 1937 sus reliquias fueron trasladadas a Roma.",
