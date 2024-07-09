@@ -26,7 +26,7 @@
         "place_of_birth": "Poitiers, Francia",
         "place_of_burial": "Iglesia de Saint-Hilaire le Grand, Poitiers (patrimonio UNESCO)",
         "notes": "Hilario (Poitiers, Francia, 310/320 - 367/368), obispo de su ciudad natal, defendió con escritos de alto perfil (entre los cuales destaca el tratado De Trinitate) la fe en la plena divinidad del Hijo, afirmada por el Concilio de Nicea (325) contra la herejía de Arrio. Por su firme oposición a las orientaciones filoarianas de la corte imperial fue perseguido y exiliado. Es recordado en el Martirologio Jeronimiano (siglos V-VI) el 13 de enero. La iglesia de Saint-Hilaire le Grand es una iglesia católica de Poitiers, en el departamento de Vienne, dedicada a San Hilario de Poitiers. En 1840 fue declarada Monumento Histórico de Francia y desde 1998 también está clasificada como Patrimonio de la Humanidad por la UNESCO, como etapa del Camino de Santiago de Compostela a lo largo de la Vía Turonensis.",
-        "patronage": "Parma, Veruno (NO), Casorate Sempione (VA), Marnate (VA), Mutignano (TE), Bedero Valcuvia (VA), Titignano (PI), Argusto (CZ), Gignod (AO)",
+        "patronage": "niños con retraso académico, niños que aprenden a caminar, madres y enfermos, invocado contra el reumatismo y las mordeduras de serpiente",
         "main_shrine": "Iglesia de San Hilario el Grande, Poitiers"
     },
     "StAnthonyEgypt_4": {
@@ -41,18 +41,18 @@
     },
     "StFabianPope_5": {
         "subject": "San Fabiano, papa y mártir",
-        "places": "Roma",
-        "place_of_death": "Roma",
-        "place_of_birth": "Roma",
+        "places": "Roma (Italia)",
+        "place_of_death": "Roma (Italia)",
+        "place_of_birth": "Roma (Italia)",
         "place_of_burial": "Basílica de San Sebastián fuera de los Muros",
         "notes": "Año de muerte 250/251, después de ser Papa durante unos 15 años",
         "patronage": "",
-        "main_shrine": "N/D"
+        "main_shrine": "Catacumbas de San Calixto (Roma)"
     },
     "StSebastian_6": {
         "subject": "San Sebastián, mártir",
         "places": "Iglesia de San Sebastián, Narbona (Francia); Basílica y Catacumbas de San Sebastián (Roma)",
-        "place_of_death": "Roma",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Narbona, Francia https://www.google.com/maps/@43.186026,3.0067009,3a,90y,93.51h,99.16t/data=!3m6!1e1!3m4!1sboQV0f52ww1JNPTccgwatg!2e0!7i16384!8i8192",
         "place_of_burial": "Catacumbas de San Sebastián (Roma)",
         "notes": "Sebastián, estimando la fidelidad a Cristo por encima de cualquier honor militar, aceptó ser dado de baja del ejército y sufrió la muerte durante la persecución de Diocleciano (303-305). Fue sepultado en las catacumbas romanas que llevan su nombre. La Depositio martyrum (336) lo recuerda el 20 de enero.",
@@ -61,9 +61,9 @@
     },
     "StAgnes_7": {
         "subject": "Santa Inés, virgen y mártir",
-        "places": "Roma",
+        "places": "Roma (Italia)",
         "place_of_death": "Basílica de Santa Inés en Agonía, Roma",
-        "place_of_birth": "Roma",
+        "place_of_birth": "Roma (Italia)",
         "place_of_burial": "Catacumbas de Santa Inés fuera de los Muros",
         "notes": "Inés, romana, aún adolescente, puesta en la alternativa entre permanecer fiel a Cristo y salvar su propia vida, eligió sin vacilación al Esposo celestial, uniéndose a él con el martirio (mediados del siglo III). El relato de su pasión, muy popular, fue recogido desde el siglo IV por el papa Dámaso. San Ambrosio y San Agustín la señalaron como un luminoso modelo de virgen cristiana. Según la Depositio martyrum (336), su memoria se celebraba el 21 de enero en Roma en el cementerio homónimo en la vía Nomentana. Su nombre es recordado en el Canon Romano.",
         "patronage": "",
@@ -77,11 +77,11 @@
         "place_of_burial": "Catedral de Valencia (España) / Catedral de Lisboa (Portugal) / Acate (Ragusa, Italia; tradición popular)",
         "notes": "Vincenzo († Valencia, España, 22 de enero de 304), diácono de la Iglesia de Zaragoza, arrestado durante la persecución de Diocleciano, murió en prisión a consecuencia de las torturas sufridas. Ofreció su vida a Cristo junto con el obispo Valerio, con quien tantas veces había ofrecido el sacrificio del altar. Es recordado el 22 de enero en el Martirologio Jeronimiano (siglos V-VI). Con la llegada del emperador Constantino, que se había convertido al cristianismo, en Valencia se erigió una basílica en honor a San Vicente y bajo el altar principal se colocaron sus reliquias. Sin embargo, tras la invasión de los moros, los cristianos de Valencia robaron el cuerpo del mártir para ponerlo a salvo en Portugal, en una pequeña iglesia construida especialmente en el promontorio hoy llamado Cabo San Vicente. Terminada la guerra contra los moros, los restos fueron embarcados en un barco que se dirigió a Lisboa. Una leyenda devocional cuenta que durante el viaje algunos cuervos se posaron en la proa y en la popa de dicho barco, casi como queriendo significar su renovada protección al santo mártir que ya un día habían salvado de las fieras. Al llegar a la ciudad, el cuerpo fue depositado en la iglesia de Santa Justa y Santa Rufina y después de algún tiempo, el 15 de septiembre de 1173, trasladado solemnemente a la catedral. En recuerdo se acuñaron monedas. https://it.wikipedia.org/wiki/Monastero_di_S%C3%A3o_Vicente_de_Fora",
         "patronage": "",
-        "main_shrine": "N/D"
+        "main_shrine": "Catedral de Lisboa (Portugal)"
     },
     "StFrancisDeSales_9": {
         "subject": "San Francisco de Sales, obispo y doctor",
-        "places": "N/D",
+        "places": "Castillo de Thorens (Thorens-Glières, Francia), Lyon (Francia), Ginebra (Suiza), Annecy (Francia)",
         "place_of_death": "Lyon, Francia",
         "place_of_birth": "Sales (Francia)",
         "place_of_burial": "Basílica de la Visitación, Annecy, Francia",
@@ -162,7 +162,7 @@
     "StAgatha_18": {
         "subject": "Santa Águeda, virgen y mártir",
         "places": "Catania (Sicilia, Italia), Roma, Iglesia de Santa Sofía en Constantinopla (actual Estambul, Turquía)",
-        "place_of_death": "Catania, Sicilia, Italia",
+        "place_of_death": "Catania (Sicilia, Italia)",
         "place_of_birth": "Catania (Sicilia, Italia)",
         "place_of_burial": "Catania, Constantinopla",
         "notes": "Águeda fue mártir en Catania, probablemente durante la persecución de Decio (251). Su culto comenzó a difundirse en el siglo V, cuando el Papa Símaco le dedicó una basílica en la vía Aurelia. El aniversario de su muerte se recuerda el 5 de febrero en el Martirologio Jeronimiano (siglo V-VI); su nombre está incluido en el Canon Romano. En 1040, Jorge Maniaces, general enviado por el emperador bizantino Miguel IV el Paflagonio para la reconquista de Sicilia, que desde 945 constituía el Emirato de Sicilia, sustrajo a la ciudad las reliquias de Santa Águeda celosamente guardadas en el templo primitivo. Las reliquias fueron custodiadas en la basílica catedral de Santa Sofía y permanecieron en Constantinopla durante ochenta y seis años. ¿Hay restos de la iglesia dedicada por el Papa Símaco en la Vía Aurelia? S. Águeda en Fundo Lardario Hay una iglesia dedicada a ella desde el siglo V en Roma: https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Agata_dei_Goti",
@@ -171,10 +171,10 @@
     },
     "StsPaulMiki_19": {
         "subject": "Santos Pablo Miki y compañeros, mártires",
-        "places": "N/D",
+        "places": "Settsu (Japón), Nagasaki (Japón)",
         "place_of_death": "Nagasaki, Japón",
         "place_of_birth": "Kioto (Japón)",
-        "place_of_burial": "N/D",
+        "place_of_burial": "Nagasaki (Japón)",
         "notes": "Paolo Miki (Kioto, Japón, 1556 - Nagasaki, 5 de febrero de 1597), jesuita, fue víctima de la persecución que el emperador japonés ordenó contra los cristianos, temiendo que su incremento constituyera un peligro para la autonomía del país. Junto con él fueron crucificados otros veinticinco cristianos, laicos y religiosos (Jesuitas y Franciscanos).",
         "patronage": "",
         "main_shrine": "https://it.wikipedia.org/wiki/Basilica_dei_Ventisei_Santi_Martiri_del_Giappone; Museo y monumento de los veintiséis mártires de Nagasaki https://travel.at-nagasaki.jp/it/s/what-to-see/30/ https://en.wikipedia.org/wiki/Twenty-Six_Martyrs_Museum_and_Monument"
@@ -197,7 +197,7 @@
         "place_of_burial": "Abadía de Montecassino",
         "notes": "Escolástica (Nursia, Perugia, 480 aprox. - Montecassino, Frosinone, 547 aprox.) es indicada por la tradición como hermana de san Benito. Los Diálogos de Gregorio Magno la describen como virgen amante de la contemplación, sabia en anteponer la caridad a cualquier regla humana. Es recordada el 10 de febrero en el Calendario marmóreo de Nápoles (siglo IX) y en el Martirologio de Usuardo (870 aprox.).",
         "patronage": "",
-        "main_shrine": "N/D"
+        "main_shrine": "Abadía de Montecassino (Italia)"
     },
     "LadyLourdes_22": {
         "subject": "Bienaventurada Virgen María de Lourdes",
@@ -207,7 +207,7 @@
         "place_of_burial": "N/D",
         "notes": "Esta memoria se conecta con la experiencia mística de Bernadette Soubirous, quien dieciocho veces, entre el 11 de febrero y el 16 de julio de 1858, en la gruta de Massabielle, cerca de Lourdes (Francia), encontró a la Virgen María. Ella le declaró ser «la Inmaculada Concepción», llamando a los hombres a la oración y a la conversión. El santuario erigido en ese lugar, por invitación de la Virgen, se convirtió en destino de continuas peregrinaciones, especialmente para los enfermos.",
         "patronage": "",
-        "main_shrine": "Lourdes (Francia)"
+        "main_shrine": "Santuario de Nuestra Señora de Lourdes (Francia)"
     },
     "StsCyrilMethodius_23": {
         "subject": "San Cirilo, monje",
@@ -222,7 +222,7 @@
     "SevenHolyFounders_24": {
         "subject": "Santos Siete Fundadores de los Siervos de la Beata María Virgen",
         "places": "N/D",
-        "place_of_death": "Montesenario",
+        "place_of_death": "Montesenario (Italia)",
         "place_of_birth": "Florencia",
         "place_of_burial": "Florencia",
         "notes": "Estas son las figuras individuales de los siete santos fundadores, cuyos apellidos fueron añadidos solo en los siglos XV-XVI. Buonagiunta de Florencia (Manetti), documentado el 7 de octubre de 1251; prior general en 1256; fallecido en 1257; fue sepultado en Montesenario, cerca del altar mayor de la iglesia. Buonfiglio de Florencia (Monaldi), según la tradición el primero de los siete y su líder; prior de Montesenario el 17 de marzo de 1250, cuando el obispo de Siena Buonfiglio concedió licencia para la construcción en la ciudad de la iglesia y el convento de Santa María de Cafaggio, hoy basílica de la Santísima Anunciada de Florencia. En 1251-1252 también vivió en Cafaggio, donde recibió en la Orden al joven Felipe Benizi. Murió, según la tradición, el 1 de enero de 1262 y fue sepultado en Montesenario. Amadio de Florencia (Amidei), que parece haber pasado toda su vida en el convento de Montesenario. La tradición dice que, a su muerte en 1266, todos los Padres vieron una llama de fuego subir alto, signo y símbolo de su amor hacia Dios, como indica su nombre. Manetto de Florencia (dell'Antella), prior del convento de Lucca en 1264, fue elegido en 1265 General de la Orden. Renunció al generalato en 1267 y tuvo como sucesor a Felipe Benizi. Uguccione de Florencia (Uguccioni), quizás prior de Montesenario en 1259, de familia en Città di Castello el 21 de agosto de 1255, y compañero de Sostegno y de Felipe cuando este último, según la Legenda B. Philippi del siglo XIV, curó a un pobre leproso. Murió en 1282, en Montesenario, después de regresar del Capítulo general de Viterbo, el mismo día y a la misma hora que su amigo Sostegno. Sostegno de Florencia (Sostegni), recordado en la Legenda de Origine también como tío de fra Lapo de Florencia (28); quizás vicario general en Francia. Murió en 1282 (v. supra) y fue sepultado junto a los otros fundadores en Montesenario. Alessio Falconieri, el más conocido de los siete santos. Humilde, deseoso de penitencia, incluso en la vejez se dedicó a los trabajos materiales y a la búsqueda (limosna casa por casa), a pesar de las incomodidades de la edad y la estación (Legenda de Origine). Protegió a los jóvenes de la Orden y empleó el dinero de las vestimentas que le correspondían (una costumbre de los Siervos) para enviar a los más meritorios a estudiar en la Sorbona de París. Vivió casi 110 años y murió en 1310.",
@@ -232,7 +232,7 @@
     "StPeterDamian_25": {
         "subject": "San Pedro Damián, obispo y doctor de la Iglesia",
         "places": "N/D",
-        "place_of_death": "Faenza",
+        "place_of_death": "Faenza (Italia)",
         "place_of_birth": "Rávena",
         "place_of_burial": "Monasterio benedictino de Santa María Fuori le Mura (Faenza)",
         "notes": "Fundó varios monasterios, pero está particularmente ligado al monasterio de Fonte Avellana. Durante el viaje de regreso al eremitorio de Gamogna (uno de los muchos que fundó), una repentina enfermedad lo obligó a detenerse en Faenza. Fue hospedado en el monasterio benedictino de Santa María Fuori le Mura (hoy conocida como Santa María Vecchia), donde falleció la noche entre el 21 y el 22 de febrero de 1072. Primero fue sepultado en la iglesia del monasterio y luego sus huesos fueron trasladados a la catedral de Faenza, donde se conservan hasta hoy.",
@@ -241,10 +241,10 @@
     },
     "StPolycarp_27": {
         "subject": "San Policarpo, obispo y mártir",
-        "places": "N/D",
+        "places": "Esmirna (Turquía)",
         "place_of_death": "Esmirna, Turquía",
         "place_of_birth": "Esmirna, Turquía",
-        "place_of_burial": "N/D",
+        "place_of_burial": "San Ambrosio de la Máxima (Roma)",
         "notes": "Policarpo († 23 de febrero de 167), discípulo del apóstol Juan, fue obispo de Esmirna (Turquía), donde acogió a san Ignacio en su viaje hacia Roma, ciudad en la que sufriría el martirio. Después de un largo episcopado, en edad muy avanzada, Policarpo fue condenado a la hoguera por su fe. Era el día del Señor: mientras el fuego lo consumía, el obispo se unía, rezando, a la liturgia eucarística tantas veces celebrada con su Iglesia. El relato de su pasión es el documento más antiguo sobre el culto a los mártires.",
         "patronage": "",
         "main_shrine": "Iglesia de San Policarpo, Esmirna, Turquía"
@@ -253,7 +253,7 @@
         "subject": "San Casimiro",
         "places": "N/D",
         "place_of_death": "Hrodna (Bielorrusia)",
-        "place_of_birth": "Cracovia",
+        "place_of_birth": "Cracovia (Polonia)",
         "place_of_burial": "Vilna (Lituania)",
         "notes": "Casimiro (Cracovia, Polonia, 3 de octubre de 1458 - Grodno, actual Hrodna, Bielorrusia, 4 de marzo de 1484), hijo del rey de Polonia y de Lituania, formado en la cultura humanística, prefirió una vida sobria y casta, dedicada a la oración y a la penitencia, en lugar del ejercicio del poder.",
         "patronage": "",
@@ -291,7 +291,7 @@
     },
     "StPatrick_32": {
         "subject": "San Patricio, obispo",
-        "places": "Lourdes (Francia)",
+        "places": "Bannaventa (Gran Bretaña), Croagh Patrick (Irlanda), Downpatrick (Irlanda), Dublín (Irlanda), Roca de Cashel (Irlanda), Armagh (Irlanda)",
         "place_of_death": "Downpatrick (Irlanda del Norte)",
         "place_of_birth": "Old Kilpatrick (Escocia)",
         "place_of_burial": "Downpatrick (Irlanda del Norte)",
@@ -301,7 +301,7 @@
     },
     "StCyrilJerusalem_33": {
         "subject": "San Cirilo de Jerusalén, obispo y doctor",
-        "places": "Lourdes (Francia)",
+        "places": "Jerusalén (Israel / Palestina)",
         "place_of_death": "Jerusalén",
         "place_of_birth": "Jerusalén",
         "place_of_burial": "Lourdes (Francia)",
@@ -331,7 +331,7 @@
     },
     "StFrancisPaola_37": {
         "subject": "San Francisco de Paula, ermitaño",
-        "places": "Lourdes (Francia)",
+        "places": "Paola (Italia), Castillo de Plessis-lez-Tours (Francia)",
         "place_of_death": "Castillo de Plessis-lez-Tours (La Riche, Francia)",
         "place_of_birth": "Paola (Cosenza)",
         "place_of_burial": "La Riche, Francia (se inició la construcción de un santuario sobre la tumba, solo se ha edificado el ábside)",
@@ -372,8 +372,8 @@
     "StStanislaus_41": {
         "subject": "San Estanislao, obispo y mártir",
         "places": "Lourdes (Francia)",
-        "place_of_death": "Cracovia, Polonia",
-        "place_of_birth": "Szczepanowice, Polonia",
+        "place_of_death": "Cracovia (Polonia)",
+        "place_of_birth": "Szczepanowice (Polonia)",
         "place_of_burial": "Catedral de Cracovia, Polonia",
         "notes": "Estanislao (Szczepanowice, Polonia, 1030 aprox. - Cracovia, 11 de abril de 1079), obispo de Cracovia, fue un pastor solícito de su rebaño: completó la cristianización del país, reformó el clero, cuidó de los pobres. A raíz de conflictos con el rey Boleslao II, fue asesinado por orden de este. Proclamado patrón de la nación, Estanislao siempre fue venerado por el pueblo polaco; sus restos, en la catedral de Cracovia, se convirtieron en destino de un continuo peregrinaje.",
         "patronage": "",
@@ -384,7 +384,7 @@
         "places": "Lourdes (Francia)",
         "place_of_death": "Cherson (actual Akherson), Ucrania",
         "place_of_birth": "Todi, Perugia, Italia",
-        "place_of_burial": "Martín fue sepultado en Cherson en la basílica de Santa María ad Blachernas, convirtiéndose en objeto de culto por los muchos milagros debidos a su intercesión. Posteriormente, el cuerpo fue trasladado a Roma y sepultado posiblemente en la iglesia de San Martín ai Monti.",
+        "place_of_burial": "Martín fue sepultado en Cherson en la basílica de Santa María ad Blachernas, convirtiéndose en objeto de culto por los muchos milagros debidos a su intercesión. Posteriormente, el cuerpo fue trasladado a Roma y sepultado quizás en la iglesia de San Martín ai Monti.",
         "notes": "Martín (Todi, Perugia, finales del siglo VI - Cherson, actual Akherson, Ucrania, 16 de septiembre de 655) fue elegido papa (649) durante las últimas controversias cristológicas. Habiendo defendido con firmeza la fe en las dos voluntades de Cristo, la divina y la humana, suscitó la reacción del emperador de Bizancio Constante II, quien lo condenó al exilio en Crimea, donde murió.",
         "patronage": "",
         "main_shrine": "Iglesia de San Martín ai Monti, Roma"
@@ -442,9 +442,9 @@
     "StCatherineSiena_48": {
         "subject": "Santa Catalina de Siena, virgen y doctora de la Iglesia",
         "places": "Siena, Roma",
-        "place_of_death": "Roma, Italia",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Siena, Italia",
-        "place_of_burial": "Roma, Italia",
+        "place_of_burial": "Roma (Italia)",
         "notes": "Catalina (Siena, 1347 - Roma, 29 de abril de 1380) se dedicó, muy joven, a la oración y la penitencia en su propia casa; posteriormente fue admitida entre las «mantellate» de la Tercera Orden Dominicana. Desarrolló una intensa acción pública, tanto como operadora de paz en una sociedad desgarrada por disputas, como defensora franca y apasionada de la reforma de la Iglesia. Favoreció el regreso del papa de Aviñón y trabajó para superar el gran cisma que surgió, poco después, en la sede romana y en todo Occidente. Compuso escritos densos en contenido teológico y con un lenguaje incisivo, entre los cuales se encuentra el Diálogo de la Divina Providencia. Fue proclamada patrona de Italia en 1939 y de Europa en 1999.",
         "patronage": "",
         "main_shrine": "Basílica de Santa María sopra Minerva, Roma"
@@ -452,7 +452,7 @@
     "StPiusV_49": {
         "subject": "San Pío V, papa",
         "places": "Lourdes (Francia)",
-        "place_of_death": "Roma, Italia",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Bosco Marengo, Alessandria, Italia",
         "place_of_burial": "Basílica de Santa María la Mayor, Roma",
         "notes": "Miguel (en el siglo Antonio) Ghislieri (Bosco Marengo, Alessandria, 17 de enero de 1504 - Roma, 1 de mayo de 1572), dominico, fue papa desde 1566. Implementó la primera aplicación del Concilio de Trento, comenzando por la curia romana y la Urbe. Publicó el Catecismo (1566), se encargó de la reforma del Breviario (1568) y del Misal (1570). Promovió la difusión de la fe en Europa y Oriente, y la defendió contra la expansión otomana (Lepanto, 7 de octubre de 1571).",
@@ -483,7 +483,7 @@
         "subject": "Santos Felipe y Santiago, apóstoles",
         "places": "Roma; Jerusalén; Hierápolis (actual Pammukale), Turquía",
         "place_of_death": "Hierápolis (actual Pammukale), Turquía; y Jerusalén",
-        "place_of_birth": "Betsaida",
+        "place_of_birth": "Betsaida (Israel)",
         "place_of_burial": "Hierápolis (actual Pammukale), Turquía; y Jerusalén",
         "notes": "Felipe, originario de Betsaida, es llamado por Jesús a seguirlo; a su vez él invita a Natanael a venir y ver al Mesías (cf. Jn 1, 43-46); está presente, con Andrés, en la multiplicación de los panes (cf. Jn 6, 1-15) y cuando algunos griegos, que subieron para la Pascua a Jerusalén, piden ver a Jesús (cf. Jn 12, 20-36). Durante la última Cena es él quien pregunta: «Señor, muéstranos al Padre y nos basta» (Jn 14, 8). Santiago, hijo de Alfeo, es uno de los doce apóstoles (cf. Mc 3, 18; Lc 6, 15). San Pablo le atribuye una aparición específica del Resucitado (cf. 1 Cor 15, 7). Gozó de particular honor y autoridad en las primeras comunidades cristianas (cf. Hch 15, 13-21; 21, 18; Gal 2, 9). Los dos apóstoles son recordados en una única fiesta porque, según una tradición, sus reliquias fueron colocadas bajo el altar de la basílica de los Doce Apóstoles en Roma el día de su dedicación (1 de mayo de 565 ca.).",
         "patronage": "",
@@ -491,7 +491,7 @@
     },
     "StsNereusAchilleus_53": {
         "subject": "Santos Nereo y Aquileo, mártires",
-        "places": "Roma, Italia",
+        "places": "Midland (Canadá)",
         "place_of_death": "Roma",
         "place_of_birth": "Aosta (Italia), Canterbury (Reino Unido)",
         "place_of_burial": "Catacumbas de Domitila",
@@ -501,7 +501,7 @@
     },
     "StPancras_54": {
         "subject": "San Pancracio, mártir",
-        "places": "Roma, Italia",
+        "places": "Roma (Italia)",
         "place_of_death": "Roma",
         "place_of_birth": "Aosta (Italia), Canterbury (Reino Unido)",
         "place_of_burial": "Cementerio de Ottavilla, Roma",
@@ -553,7 +553,7 @@
         "subject": "San Gregorio VII, papa",
         "places": "Salerno, Italia",
         "place_of_death": "Salerno, Italia",
-        "place_of_birth": "Sovana, Italia",
+        "place_of_birth": "Sovana (Italia)",
         "place_of_burial": "Catedral de Salerno, Italia",
         "notes": "Ildebrando (Sovana, Grosseto, 1025/1030 - Salerno, 25 de mayo de 1085), monje, llamado por el papa León IX para colaborar en la reforma de la Iglesia, asumió un papel destacado en la curia romana. Elegido papa (1073), reivindicó la autonomía del poder espiritual respecto al temporal y ejerció una constante solicitud hacia la Iglesia universal. Tras sufrir la violenta oposición de Enrique IV, rey de Alemania y emperador, murió en el exilio.",
         "patronage": "",
@@ -603,7 +603,7 @@
         "subject": "San Justino mártir",
         "places": "Aosta (Italia), Canterbury (Reino Unido)",
         "place_of_death": "Roma, Italia",
-        "place_of_birth": "Nablus, Palestina",
+        "place_of_birth": "Nablus (Palestina)",
         "place_of_burial": "Cementerio de Santa Ciriaca (Basílica de San Lorenzo Extramuros); Iglesia Colegiata de San Silvestre Papa, Fabrica di Roma (¿identificación incierta?)",
         "notes": "Justino (Flavia Neapolis, actual Nablus, Palestina, principios del siglo II - Roma, 165) fue un apasionado buscador de la verdad. Después de encontrar en Cristo la verdadera sabiduría, se dedicó a profundizarla y enseñarla también con la ayuda de la filosofía. Escribió dos Apologías del cristianismo – en la primera de las cuales se encuentra la descripción más antigua de la celebración eucarística, en su estructura esencial – y el Diálogo con Trifón, en confrontación con el entorno judío. Condenado a muerte como cristiano, dio pleno testimonio de la Verdad. Su memoria es celebrada el primero de junio también por los Ortodoxos.",
         "patronage": "",
@@ -621,7 +621,7 @@
     },
     "StsCharlesLwanga_66": {
         "subject": "Santos Carlos Lwanga y compañeros, mártires",
-        "places": "Namugongo, Uganda",
+        "places": "Namugongo (Uganda)",
         "place_of_death": "Kampala, Uganda",
         "place_of_birth": "Aosta (Italia), Canterbury (Reino Unido)",
         "place_of_burial": "Basílica de los Santos Mártires de Uganda, Namugongo, Uganda",
@@ -691,7 +691,7 @@
     },
     "StAloysiusGonzaga_73": {
         "subject": "San Luis Gonzaga, religioso",
-        "places": "Castiglione delle Stiviere; Roma",
+        "places": "Castiglione delle Stiviere (Italia); Roma (Italia)",
         "place_of_death": "Roma, Italia",
         "place_of_birth": "Castiglione delle Stiviere, Mantova, Italia",
         "place_of_burial": "Iglesia de San Ignacio de Loyola, Roma; el cráneo se conserva en la basílica dedicada a él en Castiglione delle Stiviere",
@@ -701,8 +701,8 @@
     },
     "StPaulinusNola_74": {
         "subject": "San Paulino de Nola, obispo",
-        "places": "Nola, Italia",
-        "place_of_death": "Nola, Italia",
+        "places": "Nola (Italia)",
+        "place_of_death": "Nola (Italia)",
         "place_of_birth": "Burdeos, Francia",
         "place_of_burial": "Catedral de Nola",
         "notes": "Paulino (Burdeos, Francia, 355 aprox. - Nola, Nápoles, 22 de junio de 431), hombre culto, gobernador de Campania, se retiró de la escena pública y, con su esposa Terasia, se dedicó a una vida ascética cerca de Nola. Elegido obispo de esa ciudad, dirigió su Iglesia durante veintidós años con mansedumbre y fervor. Estuvo en contacto con Ambrosio de Milán, Martín de Tours, Agustín. Versado también en poesía, compuso poemas llenos de erudición y fe. Es recordado el 22 de junio en el Martirologio Jeronimiano (siglos V-VI). Sobre la cuestión de las reliquias, véase https://www.diocesinola.it/comunicazioni-sociali/indialogo-blog/post/2020/5/reliquie-paolino",
@@ -724,7 +724,7 @@
         "places": "Sebaste, Palestina; Macheronte, Jordania; Roma, Italia",
         "place_of_death": "Macheronte, Jordania",
         "place_of_birth": "Ein Kerem, Palestina / Israel",
-        "place_of_burial": "Sebaste, Palestina",
+        "place_of_burial": "Sebaste (Palestina)",
         "notes": "Juan Bautista es el único santo, además de la Madre del Señor, de quien la Iglesia celebra tanto el nacimiento al cielo como el nacimiento según la carne. Profeta desde el vientre materno (cf. Lc 1, 41), Juan testimonia al Cordero de Dios venido al mundo (cf. Jn 1, 29-34). «Amigo del Esposo» (Jn 3, 29), se regocija al preparar los caminos para el más fuerte que él mediante la palabra, el bautismo de conversión y el don de su propia vida (cf. Lc 1, 76; Mc 1, 7-8; 6, 17-29). Así comenta Agustín la fecha de la fiesta de hoy: «El Verbo nació el 25 de diciembre, cuando los días comienzan a alargarse, mientras que la Voz nació antes que el Verbo, pero cuando los días comienzan a acortarse: “Él debe crecer, yo en cambio debo disminuir” (Jn 3, 30)».",
         "patronage": "",
         "main_shrine": "Basílica de los Santos Juan Bautista y Evangelista, Roma"
@@ -771,8 +771,8 @@
     },
     "StThomasAp_81": {
         "subject": "San Tomás Apóstol",
-        "places": "Ortona, Italia; Chennai, India",
-        "place_of_death": "Mylapore, India",
+        "places": "Ortona (Italia); Chennai (India)",
+        "place_of_death": "Mylapore (India)",
         "place_of_birth": "Galilea, Palestina Romana",
         "place_of_burial": "siglo I-III: Mylapore (actual Chennai), India; siglo III-?: Edesa (actual Şanlıurfa), Turquía: siglo ?-XIII: Isla de Quíos en el Egeo; siglo XIII-hoy: Basílica de San Tomás, Ortona, Italia",
         "notes": "Tomás, «llamado Dídimo» – que significa «gemelo» –, es «uno de los Doce» (Jn 20, 24; cf. Mc 3, 18). Cuando Jesús quiere volver a Judea para despertar a Lázaro del sepulcro, Tomás exhorta a los otros discípulos a seguir al Maestro y a estar listos «a morir con él» (Jn 11, 16); durante la última Cena, le pide al Maestro que muestre cuál es «el camino» del que habla (cf. Jn 14, 5). Ausente cuando Jesús aparece la noche de su resurrección, él, al anuncio de los otros discípulos, permanece incrédulo y, «ocho días después» (Jn 20, 26), recibe el don de ver al Resucitado y proclamarlo «Mi Señor y mi Dios» (Jn 20, 28). El Martirologio Jeronimiano (siglo V-VI) recuerda la traslación de su cuerpo a Edesa el 3 de julio.",
@@ -792,8 +792,8 @@
     "StAnthonyZaccaria_83": {
         "subject": "San Antonio María Zaccaria, sacerdote",
         "places": "Cremona, Italia; Milán, Italia",
-        "place_of_death": "Cremona, Italia",
-        "place_of_birth": "Cremona, Italia",
+        "place_of_death": "Cremona (Italia)",
+        "place_of_birth": "Cremona (Italia)",
         "place_of_burial": "Iglesia de los Santos Pablo y Bernabé o santuario de San Antonio María Zaccaria, Milán",
         "notes": "Antonio (Cremona, 1502/1503 - 5 de julio de 1539), médico, se ocupó de los pobres. Ordenado presbítero, fundó la Sociedad de Clérigos Regulares de San Pablo – llamados Barnabitas por la iglesia de San Bernabé en Milán donde tuvieron origen – y una Sociedad de casados, para la santidad en el matrimonio. Con su predicación avivó la fe y la devoción popular.",
         "patronage": "",
@@ -831,8 +831,8 @@
     },
     "StCamillusDeLellis_87": {
         "subject": "San Camilo de Lellis, sacerdote",
-        "places": "Bucchianico, Italia; Roma, Italia",
-        "place_of_death": "Roma, Italia",
+        "places": "Bucchianico (Italia); Roma (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Bucchianico (Chieti), Italia",
         "place_of_burial": "Iglesia de Santa María Magdalena, Roma, Italia",
         "notes": "Camilo (Bucchianico, Chieti, 25 de mayo de 1550 - Roma, 14 de julio de 1614) fue en su juventud soldado de fortuna y dado al juego; redescubrió la fe en el convento de los Capuchinos de Manfredonia; deseoso de entrar en la Orden, dos veces comenzó el noviciado, pero una llaga incurable en el pie le impidió continuar. Internado en el hospital de San Giacomo degli Incurabili en Roma, conoció a san Felipe Neri, quien lo ayudó en su camino espiritual; se dedicó luego a una vida completamente dedicada al servicio de Cristo, en el cuidado amoroso de sus miembros sufrientes. Convertido en presbítero, fundó los Clérigos regulares ministros de los enfermos (Camilianos).",
@@ -843,7 +843,7 @@
         "subject": "San Buenaventura, obispo y doctor",
         "places": "Lyon, Francia; Bagnoregio, Italia",
         "place_of_death": "Lyon, Francia",
-        "place_of_birth": "Civita de Bagnoregio, Viterbo",
+        "place_of_birth": "Civita di Bagnoregio (Viterbo)",
         "place_of_burial": "http://www.doctorseraphicus.it/images/annate/1958_67-81_Petrangeli_Papini.pdf",
         "notes": "Buenaventura (Civita de Bagnoregio, Viterbo, 1217 aprox. - Lyon, Francia, 15 de julio de 1274), entró en la Orden de los Frailes Menores y estudió en París. Teólogo, se dedicó a la enseñanza, produciendo obras de inspiración sapiencial, entre ellas el Itinerario de la mente hacia Dios. Ministro general, ordenó la legislación anterior promulgando nuevas Constituciones (Narbonne, 1260) y, con su obra hagiográfica (Legenda maior y Legenda minor, escrita – esta última – para la liturgia), propuso una visión unitaria de la figura de san Francisco. Obispo de Albano y cardenal, participó en el Concilio de Lyon II durante el cual, de repente, pasó de la Iglesia terrenal a la asamblea celestial.",
         "patronage": "",
@@ -873,7 +873,7 @@
         "subject": "Santa María Magdalena",
         "places": "Basílica de Santa María Magdalena en Saint-Maximin-la-Sainte-Baume, Francia; Basílica de Santa María Magdalena en Vezelay, Francia; Basílica de San Giovanni de' Fiorentini en Roma, Italia",
         "place_of_death": "Aosta (Italia), Canterbury (Reino Unido)",
-        "place_of_birth": "Magdala, Palestina Romana",
+        "place_of_birth": "Magdala (Palestina Romana)",
         "place_of_burial": "Aosta (Italia), Canterbury (Reino Unido)",
         "notes": "María de Magdala, curada por Jesús, está entre las mujeres que lo sirven durante su ministerio (cf. Lc 8, 2-3). Sube con él a Jerusalén y está presente bajo la cruz y en el momento de su sepultura (cf. Mt 27, 56.61; Jn 19, 25). La mañana después del sábado, mientras lloraba junto al sepulcro vacío, fue visitada por él, quien la encargó de ir a los discípulos a llevar el anuncio de su resurrección con las palabras solemnes: «Ve a mis hermanos y diles: “Subo a mi Padre y Padre vuestro, a mi Dios y Dios vuestro”» (Jn 20, 17). Su memoria está indicada el 22 de julio en el Martirologio de Beda (siglo VIII). El Papa Francisco elevó la memoria al grado de fiesta el 3 de junio de 2016 para subrayar su singular papel como primera testigo de la resurrección y «apóstola de los apóstoles» (Prefacio). Como santa católica, las reliquias de María Magdalena fueron veneradas en Saint-Maximin-la-Sainte-Baume, Provenza, atrayendo a tal multitud de peregrinos que se erigió una gran basílica hacia mediados del siglo XIII, una de las iglesias góticas más famosas del sur de Francia. La inventio de las reliquias se atribuye a Carlos II de Anjou, llamado \"el cojo\", realizada en 1279. Las reliquias fueron validadas por el papa Bonifacio VIII en 1295 y custodiadas en la basílica de Saint-Maximin-la-Sainte-Baume. Aunque sus huesos fueron dispersados durante la Revolución Francesa, se dijo que su cabeza permaneció en su relicario en una cueva en La Sainte-Baume cerca de Marsella, donde la santa se habría retirado; también se cuentan grandes milagros y bendiciones recibidas por quienes acudían al relicario para venerar a Magdalena. El pie de la santa, custodiado en un precioso relicario del ámbito de Benvenuto Cellini, ha sido venerado durante siglos en Roma en una capilla situada en la entrada del Puente Sant'Angelo, última de las reliquias mayores antes de llegar a la tumba de San Pedro. El pie se conserva hoy en la Basílica de San Giovanni de' Fiorentini. Otras reliquias consistentes en filamentos de cabello, fragmentos de camisas y pequeños restos óseos, se custodian en la Colegiata de Atrani (SA).",
         "patronage": "",
@@ -882,7 +882,7 @@
     "StBridget_92": {
         "subject": "Santa Brígida, religiosa",
         "places": "Iglesia de Santa Brígida en Vadstena, Suecia; Iglesia de Santa Brígida en Roma, Italia",
-        "place_of_death": "Roma, Italia",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Finsta, Suecia",
         "place_of_burial": "Iglesia de Santa Brígida en Roma, Italia",
         "notes": "Brígida (Finsta, Suecia, 1302/1303 - Roma, 23 de julio de 1373), perteneciente a la alta aristocracia sueca, se dedicó con su marido a una intensa vida espiritual y a una ferviente actividad caritativa. Después de la muerte de su esposo y el matrimonio de sus ocho hijos, vivió un tiempo de soledad y oración, al término del cual fundó la Orden monástica del Santísimo Salvador, que comprendía una rama masculina y una femenina. Trasladada a Roma, se hizo célebre por sus profecías y sus llamados a la reforma de la Iglesia, comprometiéndose también en el retorno del papa desde Aviñón. En 1999, san Juan Pablo II la proclamó patrona de Europa.",
@@ -893,11 +893,11 @@
         "subject": "San Santiago, apóstol",
         "places": "Aosta (Italia), Canterbury (Reino Unido)",
         "place_of_death": "Jerusalén",
-        "place_of_birth": "Betsaida",
-        "place_of_burial": "Basílica de Santiago, Santiago, España",
+        "place_of_birth": "Betsaida (Palestina romana)",
+        "place_of_burial": "Basílica de Santiago, Santiago (España)",
         "notes": "Santiago, hijo de Zebedeo, en el lago de Galilea encuentra a Jesús que lo llama junto a su hermano Juan (cf. Mc 1, 19-20). Forma parte del grupo de los Doce y, con Pedro y Juan, es uno de los apóstoles más cercanos al Maestro, y lo acompaña en algunos momentos particulares de su vida (cf. Mc 5, 35-43; 9, 2-13; 14, 32-42). Asociado a la gloria de Cristo, bebe del cáliz de la Pascua recibiendo el bautismo del martirio (cf. Mc10, 35-40) – primero entre los doce apóstoles – durante el reinado de Herodes Agripa (41-44 d.C.: Hch 12, 2). Su cuerpo, transportado a Galicia, en el lugar que tomó el nombre de Santiago de Compostela, desde la Edad Media hasta hoy es destino de numerosos peregrinos.",
         "patronage": "",
-        "main_shrine": "Basílica de Santiago, Santiago, España"
+        "main_shrine": "Basílica de Santiago, Santiago (España)"
     },
     "StMartha_95": {
         "subject": "Santa Marta",
@@ -922,7 +922,7 @@
     "StIgnatiusLoyola_97": {
         "subject": "San Ignacio de Loyola, sacerdote",
         "places": "Loyola, España; Roma, Italia",
-        "place_of_death": "Roma, Italia",
+        "place_of_death": "Midland (Canadá)",
         "place_of_birth": "Loyola, España",
         "place_of_burial": "Iglesia del Gesù, Roma",
         "notes": "Iñigo López (Loyola, España, 1491 - Roma, 31 de julio de 1556), de noble familia vasca, fue herido en la defensa de la ciudad de Pamplona. Durante la convalecencia, la lectura de la vida de Cristo y de algunos santos marcó para él el inicio de la conversión. Un largo itinerario lo llevó a atravesar un período de discernimiento espiritual y una prolongada temporada de estudios filosóficos y teológicos, culminados en París. Allí se formó a su alrededor un grupo de compañeros, con los cuales se presentó al papa Pablo III. A él le expusieron su ideal: defensa y propagación de la fe y disponibilidad absoluta al Romano Pontífice respecto a cualquier misión que este quisiera encomendarles para la expansión misionera del Evangelio y la reforma de la Iglesia. La espiritualidad de la Compañía de Jesús tiene su eje en los Ejercicios espirituales, que compendian la experiencia interior de Ignacio. El papa Gregorio XV lo inscribió entre los santos en 1622.",
@@ -981,8 +981,8 @@
     },
     "StSixtusIIPope_103": {
         "subject": "Santos Sixto II, papa, y compañeros mártires",
-        "places": "Roma, Italia",
-        "place_of_death": "Roma, Italia",
+        "places": "Roma (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Grecia",
         "place_of_burial": "Basílica de San Sisto Vecchio, Roma, Italia",
         "notes": "Sisto, papa (257-258), según el testimonio de san Cipriano de Cartago, fue arrestado en el cementerio de Calixto, en la vía Apia, durante la persecución con la que el emperador Valeriano quiso golpear a los líderes de la Iglesia. Ejecutado el 6 de agosto de 258, junto con cuatro diáconos, fue sepultado en el mismo cementerio de Calixto. Lo seguiría en el martirio, después de tres días, otro diácono, san Lorenzo. Es recordado en el Canon Romano.",
@@ -1041,7 +1041,7 @@
     },
     "StsPontianHippolytus_109": {
         "subject": "Santos Ponciano, papa, e Hipólito, sacerdote, mártires",
-        "places": "Roma, Italia",
+        "places": "Roma (Italia)",
         "place_of_death": "Cerdeña, Italia",
         "place_of_birth": "Aosta (Italia), Canterbury (Reino Unido)",
         "place_of_burial": "Catacumbas de Calixto, Roma, Italia",
@@ -1081,7 +1081,7 @@
     },
     "StBernardClairvaux_113": {
         "subject": "San Bernardo de Claraval, abad y doctor de la Iglesia",
-        "places": "Chiaravalle, Francia; Troyes, Francia",
+        "places": "Chiaravalle (Francia); Troyes (Francia)",
         "place_of_death": "Clairvaux, Francia",
         "place_of_birth": "Fontaine-lès-Dijon, Francia",
         "place_of_burial": "Catedral de Troyes, Francia",
@@ -1092,7 +1092,7 @@
     "StPiusX_114": {
         "subject": "San Pío X, papa",
         "places": "Aosta (Italia), Canterbury (Reino Unido)",
-        "place_of_death": "Roma, Italia",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Riese, Treviso, Italia",
         "place_of_burial": "Basílica de San Pedro en el Vaticano",
         "notes": "Giuseppe Melchiorre Sarto (Riese, Treviso, 2 de junio de 1835 - Roma, 20 de agosto de 1914) como vicario parroquial y párroco se comprometió particularmente tanto en el campo litúrgico y catequístico como en el ámbito caritativo, asistiendo a los enfermos de cólera. Fue obispo de Mantua, luego patriarca de Venecia y cardenal. Elegido papa en 1903, llevó al ministerio petrino su rica experiencia pastoral, promoviendo reformas especialmente en la liturgia, la música sacra y la catequesis. En un tiempo culturalmente tumultuoso, se mantuvo firme en preservar el vínculo con la tradición de la Iglesia. Incluso en el pontificado mantuvo esa austeridad de vida que había caracterizado sus orígenes.",
@@ -1131,9 +1131,9 @@
     },
     "StLouis_118": {
         "subject": "San Luis IX",
-        "places": "Monreale, Sicilia, Italia; Saint-Denis, Francia",
+        "places": "Monreale (Sicilia, Italia); Saint-Denis (Francia)",
         "place_of_death": "Túnez, Túnez",
-        "place_of_birth": "Poissy; Francia",
+        "place_of_birth": "Poissy (Francia)",
         "place_of_burial": "Catedral de Monreale, Sicilia; Basílica de Saint-Denis, Francia",
         "notes": "Luis (o Ludovico) IX (Poissy, Francia, 1214 - Túnez, 25 de agosto de 1270), rey de Francia, gobernó con justicia, reprimiendo los abusos de los funcionarios y llevando a cabo obras de paz en muchos conflictos. Dedicaba mucho tiempo a la oración, practicando la penitencia y la caridad hacia los pobres y enfermos. Murió de peste durante la Cruzada que emprendió para la liberación de Jerusalén.",
         "patronage": "",
@@ -1141,8 +1141,8 @@
     },
     "StJosephCalasanz_119": {
         "subject": "San José de Calasanz, sacerdote",
-        "places": "Roma, Italia",
-        "place_of_death": "Roma, Italia",
+        "places": "Midland (Canadá)",
+        "place_of_death": "Midland (Canadá)",
         "place_of_birth": "Peralta de la Sal, España",
         "place_of_burial": "Iglesia de San Pantaleón, Roma, Italia",
         "notes": "José (Peralta de la Sal, España, 1557 - Roma, 25 de agosto de 1646), de noble familia, emprendió la carrera eclesiástica, trasladándose a Roma en busca de una conveniente colocación. Allí encontró muchas iniciativas de asistencia a los pobres y enfermos, y colaboró con san Camilo de Lelis. Preocupado por la situación de los niños pobres, sin una educación adecuada, abrió escuelas gratuitas para ellos y fundó la Congregación de los Clérigos Regulares Pobres de la Madre de Dios de las Escuelas Pías (Escolapios).",
@@ -1152,7 +1152,7 @@
     "StMonica_120": {
         "subject": "Santa Mónica",
         "places": "Aosta (Italia), Canterbury (Reino Unido)",
-        "place_of_death": "Ostia, Italia",
+        "place_of_death": "Ostia (Italia)",
         "place_of_birth": "Tagaste (actual Souk Ahras), Argelia",
         "place_of_burial": "Aosta (Italia), Canterbury (Reino Unido)",
         "notes": "Mónica (Tagaste, actual Souk Ahras, Argelia, 331 - Ostia, Roma, 387), nacida en una familia cristiana, se casó con el pagano Patricio y fue madre de Agustín. Después de darle a su hijo la primera educación cristiana, esperó durante años, entre lágrimas y oraciones, su llegada a la verdadera fe. Quedó viuda, siguió a Agustín a Milán y allí pudo alegrarse por su conversión, culminada en el Bautismo. Durante el viaje de regreso a África, alcanzó la verdadera patria.",
@@ -1173,7 +1173,7 @@
         "subject": "Martirio de San Juan Bautista",
         "places": "Aosta (Italia), Canterbury (Reino Unido)",
         "place_of_death": "Macheronte, Jordania",
-        "place_of_birth": "Ein Kerem",
+        "place_of_birth": "Ein Kerem (Palestina)",
         "place_of_burial": "Sebaste, Palestina; el sagrado cráneo (sin la mandíbula) es venerado en la basílica de San Silvestro in Capite, en Roma, desde el siglo XII; la “sagrada mandíbula” se encuentra en Viterbo. Otros cráneos: uno expuesto en la catedral de Notre-Dame de Amiens, llevado desde Constantinopla en 1206 durante la cuarta cruzada; uno en la Gran Mezquita de Damasco. En 2012 se analizaron algunas reliquias encontradas en Bulgaria, cerca de Sozopol; los resultados de los análisis establecieron que datan del siglo I, y por las inscripciones del urna se cree que las reliquias pertenecieron a San Juan Bautista.",
         "notes": "Juan Bautista, después de señalar a sus discípulos el Cordero finalmente aparecido en el mundo (cf. Jn 1, 29.36), sella su testimonio con el martirio. La «voz» (Jn 1, 23) es silenciada por Herodes Antipas, quien lo hace encarcelar en la fortaleza de Macheronte y decapitar (cf. Mc 6, 17-29). «Fue encerrado en la oscuridad de la cárcel quien vino a dar testimonio de la luz (cf. Jn 1, 7) y que por la misma luz, que es Cristo, mereció ser llamado lámpara que arde y alumbra (cf. Jn 5, 35)» (Beda el Venerable). Antigua (siglo V) es la memoria litúrgica de su martirio.",
         "patronage": "",
@@ -1182,8 +1182,8 @@
     "StGregoryGreat_123": {
         "subject": "San Gregorio Magno, papa y doctor",
         "places": "Roma",
-        "place_of_death": "Roma, Italia",
-        "place_of_birth": "Roma, Italia",
+        "place_of_death": "Midland (Canadá)",
+        "place_of_birth": "Chiaravalle (Francia); Troyes (Francia)",
         "place_of_burial": "Basílica de San Pedro en el Vaticano",
         "notes": "Gregorio (Roma, mediados del siglo VI - 12 de marzo de 604), ya prefecto de la Urbe, fue monje y abad de San Andrés en el Celio, así como enviado papal a Constantinopla. Elegido pontífice (590), desarrolló una actividad multifacética tanto en el gobierno de la Iglesia como en la administración de la ciudad, en el dramático contexto de las invasiones de pueblos germánicos. Abrió nuevos caminos para la misión, por ejemplo en Anglia, y dedicó especial atención a la liturgia y al cuidado de los pobres. Con sus escritos de contenido pastoral, exegético y hagiográfico, sus cartas y homilías, fue uno de los grandes maestros de la Edad Media. La fecha de su memoria litúrgica corresponde al día de su elección al pontificado.",
         "patronage": "",
@@ -1242,8 +1242,8 @@
     "StRobertBellarmine_129": {
         "subject": "San Roberto Belarmino, obispo y doctor",
         "places": "Aosta (Italia), Canterbury (Reino Unido)",
-        "place_of_death": "Roma, Italia",
-        "place_of_birth": "Montepulciano, Siena, Italia",
+        "place_of_death": "Chiaravalle (Francia); Troyes (Francia)",
+        "place_of_birth": "Montepulciano (Siena, Italia)",
         "place_of_burial": "Iglesia de San Ignacio, Roma, Italia",
         "notes": "Roberto (Montepulciano, Siena, 4 de octubre de 1542 - Roma, 17 de septiembre de 1621), jesuita, empleó su notable competencia teológica tanto en complejas controversias doctrinales (Disputationes de controversiis christianae fidei), como en la redacción de un catecismo popular. Cardenal y arzobispo de Capua, dio ejemplar aplicación al Concilio de Trento, hasta que los gravosos compromisos romanos lo llevaron a dejar la diócesis para dedicarse enteramente al servicio de la Iglesia universal.",
         "patronage": "",
@@ -1274,7 +1274,7 @@
         "places": "Aosta (Italia), Canterbury (Reino Unido)",
         "place_of_death": "Ciro, Siria",
         "place_of_birth": "Egea (hoy Yumurtalık), Turquía",
-        "place_of_burial": "El obispo de Ciro, Teodoreto († 458), ya habla de la división de sus reliquias, enviadas a las numerosas iglesias ya surgidas en su honor (en Jerusalén, en Egipto, en Mesopotamia); el emperador Justiniano I y el patriarca Proclo dedicaron a los santos una basílica en Constantinopla que se convirtió en meta de numerosos peregrinajes; también en Roma el papa Félix IV (526 - 530) edificó, en el sitio del antiguo Templum Romuli y de la Bibliotheca Pacis, en el Templo de la Paz, una basílica dedicada a ellos y promovió su culto en oposición al de los paganos Cástor y Pólux. Los cráneos de los santos fueron trasladados de Roma en el siglo X y llevados a Bremen: en 1581 María, hija de Carlos V, los donó a la iglesia del convento de las clarisas de Madrid: sin embargo, las mismas reliquias también son veneradas en la iglesia de San Miguel Arcángel en Múnich, donde, según la inscripción en el relicario, fueron colocadas en el siglo XV. El primer documento que atestigua la presencia de las reliquias de los brazos de los Santos en Bitonto es de 1572.",
+        "place_of_burial": "El obispo de Cirro, Teodoreto († 458), ya habla de la división de sus reliquias, enviadas a las numerosas iglesias ya surgidas en su honor (en Jerusalén, en Egipto, en Mesopotamia); el emperador Justiniano I y el patriarca Proclo dedicaron a los santos una basílica en Constantinopla que se convirtió en destino de numerosos peregrinajes; también en Roma el papa Félix IV (526 - 530) edificó, en el sitio del antiguo Templum Romuli y de la Bibliotheca Pacis, en el Templo de la Paz, una basílica dedicada a ellos y favoreció su culto en oposición al de los paganos Cástor y Pólux. Los cráneos de los santos fueron trasladados de Roma en el siglo X y llevados a Bremen: en 1581 María, hija de Carlos V, los donó a la iglesia del convento de las clarisas de Madrid: sin embargo, las mismas reliquias también son veneradas en la iglesia de San Miguel Arcángel en Múnich, donde, según la inscripción en el relicario, fueron colocadas en el siglo XV. El primer documento que atestigua la presencia de las reliquias de los brazos de los Santos en Bitonto es de 1572.",
         "notes": "Cosme y Damián (siglo III-IV), según la tradición, fueron dos médicos anárgiros (es decir, «sin pedir dinero» a cambio de sus cuidados). Sufrieron el martirio en Ciro (Siria). Su culto se difundió a partir de la segunda mitad del siglo IV; una basílica fue edificada en su honor en Roma por el papa Félix IV (526-530). Sus nombres fueron incluidos en el Canon Romano.",
         "patronage": "",
         "main_shrine": "Basílica de los Santos Cosme y Damián, Roma"
@@ -1321,7 +1321,7 @@
     },
     "StThereseChildJesus_137": {
         "subject": "Santa Teresa del Niño Jesús, virgen y doctora de la Iglesia",
-        "places": "Alençon, Francia; Lisieux, Francia",
+        "places": "Alençon (Francia); Lisieux (Francia)",
         "place_of_death": "Lisieux, Francia",
         "place_of_birth": "Alençon, Francia",
         "place_of_burial": "Carmelo de Lisieux, Francia",
@@ -1381,8 +1381,8 @@
     },
     "StJohnLeonardi_143": {
         "subject": "San Juan Leonardi, sacerdote",
-        "places": "Roma, Italia",
-        "place_of_death": "Roma, Italia",
+        "places": "Chiaravalle (Francia); Troyes (Francia)",
+        "place_of_death": "Chiaravalle (Francia); Troyes (Francia)",
         "place_of_birth": "Diecimo (Lucca), Italia",
         "place_of_burial": "Iglesia de Santa Maria in Campitelli, Roma, Italia",
         "notes": "Juan (Diecimo, Lucca, 1541 - Roma, 9 de octubre de 1609) se dedicó a la instrucción religiosa de los niños, involucrando a laicos adultos en la «Compañía de la doctrina cristiana». Promovió la renovación del clero con la «Cofradía de los sacerdotes reformados de la Beata Virgen», luego llamados Clérigos regulares de la Madre de Dios. En Roma conoció a san Felipe Neri y participó en el impulso misionero de la época, colaborando en el proyecto de la futura Congregación de propaganda fide y de un colegio para la formación de los misioneros ad gentes.",
@@ -1391,8 +1391,8 @@
     },
     "StCallistusIPope_144": {
         "subject": "San Calixto I, papa y mártir",
-        "places": "Roma, Italia",
-        "place_of_death": "Roma, Italia",
+        "places": "Chiaravalle (Francia); Troyes (Francia)",
+        "place_of_death": "Midland (Canadá)",
         "place_of_birth": "Aosta (Italia), Canterbury (Reino Unido)",
         "place_of_burial": "Cementerio de Calepodio, Via Aurelia, Roma",
         "notes": "Calixto, un ex esclavo, fue papa del 218 al 222. Ligó su nombre al primer cementerio oficial de la Iglesia de Roma, en la vía Apia. Sufrió por conflictos internos en la comunidad cristiana y sufrió el martirio en Roma, en el lugar donde se erige la iglesia que lleva su nombre. Su sepultura en el cementerio de Calepodio, en la vía Aurelia, se recuerda el 14 de octubre en la Depositio martyrum (336).",
@@ -1411,9 +1411,9 @@
     },
     "StHedwig_146": {
         "subject": "Santa Eduviges, religiosa",
-        "places": "Trzebnica, Polonia",
-        "place_of_death": "Trzebnica, Polonia",
-        "place_of_birth": "Andechs, Baviera",
+        "places": "Trzebnica (Polonia)",
+        "place_of_death": "Trzebnica (Polonia)",
+        "place_of_birth": "Andechs (Baviera)",
         "place_of_burial": "Abadía de Trzebnica, Polonia",
         "notes": "Eduviges (Andechs, Baviera, 1180 aprox. - Trzebnica, Polonia, 15 de octubre de 1243), duquesa de Silesia y madre de siete hijos, prefirió la oración y se dedicó a aliviar los sufrimientos de los pobres. Tras la muerte de seis hijos y de su esposo, se retiró al monasterio cisterciense de Trzebnica que ella misma fundó: allí su ascetismo, hecho de penitencia y caridad, se volvió aún más riguroso.",
         "patronage": "",
@@ -1425,14 +1425,14 @@
         "place_of_death": "Paray-le-Monial, Francia",
         "place_of_birth": "Verosvres, Francia",
         "place_of_burial": "Capilla de la Visitación, Paray-le-Monial, Francia",
-        "notes": "Margarita (Verosvres, Francia, 22 de julio de 1647 - Paray-le-Monial, 17 de octubre de 1690), ingresó en el monasterio de la Visitación de Paray-le-Monial, donde también asumió el nombre de María, experimentó un amor intenso por Cristo, enriquecido con gracias particulares. Cultivó sobre todo la devoción al Sagrado Corazón de Jesús y promovió su difusión.",
+        "notes": "Margarita (Verosvres, Francia, 22 de julio de 1647 - Paray-le-Monial, 17 de octubre de 1690), ingresó en el monasterio de la Visitación de Paray-le-Monial, donde también asumió el nombre de María, experimentó un amor intenso por Cristo, enriquecido con gracias particulares. Cultivó sobre todo la devoción al Corazón de Jesús y promovió su difusión.",
         "patronage": "",
         "main_shrine": "Capilla de la Visitación, Paray-le-Monial, Francia"
     },
     "StIgnatiusAntioch_148": {
         "subject": "San Ignacio de Antioquía, obispo y mártir",
-        "places": "Roma, Italia",
-        "place_of_death": "Roma, Italia",
+        "places": "Chiaravalle (Francia); Troyes (Francia)",
+        "place_of_death": "Chiaravalle (Francia); Troyes (Francia)",
         "place_of_birth": "Antioquía de Siria (actual Antakya), Turquía",
         "place_of_burial": "Basílica de San Clemente, Roma, Italia",
         "notes": "Ignacio, obispo de Antioquía de Siria (actual Antakya, Turquía), en tiempos del emperador Trajano (98-117) fue arrestado como cristiano y llevado a Roma para ser entregado a las fieras en el circo. En su viaje fue confortado por el encuentro con algunas Iglesias de Asia Menor, a las cuales dejó siete cartas que han llegado hasta nosotros, documento vivo de su doctrina y solicitud pastoral, testimonio de su deseo de seguir a Cristo hasta el martirio. Ante algunas divisiones, invitó insistentemente a las comunidades cristianas a mantener la concordia, obtenida en la única mesa eucarística, bajo la guía del obispo con su presbiterio. Su memoria se celebra el 17 de octubre en la tradición siríaca; su nombre fue incluido en el Canon Romano.",
@@ -1451,8 +1451,8 @@
     },
     "StsJeanBrebeuf_150": {
         "subject": "Santos Juan Brebeuf e Isaac Jogues, sacerdotes y compañeros mártires",
-        "places": "Midland, Canadá; Auriesville, Nueva York, EE.UU.",
-        "place_of_death": "Midland, Canadá",
+        "places": "Midland (Canadá)",
+        "place_of_death": "Midland (Canadá)",
         "place_of_birth": "Condé-sur-Vire, Francia",
         "place_of_burial": "Aosta (Italia), Canterbury (Reino Unido)",
         "notes": "Juan (Condé-sur-Vire, Francia, 15 de marzo de 1594 - Midland, Canadá, 16 de marzo de 1649), misionero jesuita entre los Hurones, en la actual Canadá, fue asesinado en un asalto a la misión por parte de otras tribus enemigas. Pocos meses después lo siguió en el martirio su compañero en la misión Isaac Jogues (Orléans, Francia, 10 de enero de 1607 - Auriesville, EE.UU., 18 de octubre de 1649); con ellos se recuerdan otros seis mártires jesuitas. Compartieron con mansedumbre evangélica la vida de esas poblaciones, hasta el don total de sí mismos.",
@@ -1462,7 +1462,7 @@
     "StPaulCross_151": {
         "subject": "San Pablo de la Cruz, sacerdote",
         "places": "Ovada, Alessandria, Italia; Monte Argentario, Italia; Roma, Italia",
-        "place_of_death": "Roma, Italia",
+        "place_of_death": "Midland (Canadá)",
         "place_of_birth": "Ovada, Alessandria, Italia",
         "place_of_burial": "Basílica de los Santos Juan y Pablo en el Celio, Roma, Italia",
         "notes": "Pablo Danei (Ovada, Alessandria, 3 de enero de 1694 - Roma, 18 de octubre de 1775), atraído por la veneración al Crucifijo, se hizo penitente en soledad, luego se dedicó a la predicación. Reunió a su alrededor un primer grupo de «pobres de Jesús», del cual nació posteriormente la Congregación de la Pasión de Jesucristo (Pasionistas): sus miembros se comprometen a difundir la devoción a la Pasión, sobre todo mediante misiones populares. También dio origen a las monjas pasionistas, con monasterios que fueran escuelas de vida espiritual también para otras mujeres. Al momento de la profesión asumió el nombre de Pablo de la Cruz, que bien expresa el centro de su vida y de su misión.",
@@ -1491,7 +1491,7 @@
     },
     "StSimonStJudeAp_154": {
         "subject": "Santos Simón y Judas, apóstoles",
-        "places": "Roma, Italia; Lanciano, Italia",
+        "places": "Roma (Italia); Lanciano (Italia)",
         "place_of_death": "Persia",
         "place_of_birth": "Simón: presumiblemente Caná; Judas Tadeo quizás Banias",
         "place_of_burial": "Aosta (Italia), Canterbury (Reino Unido)",
@@ -1531,8 +1531,8 @@
     },
     "StLeoGreat_160": {
         "subject": "San León Magno, papa y doctor",
-        "places": "Roma, Italia",
-        "place_of_death": "Roma, Italia",
+        "places": "Chiaravalle (Francia); Troyes (Francia)",
+        "place_of_death": "Chiaravalle (Francia); Troyes (Francia)",
         "place_of_birth": "Volterra o Anghiara, Italia",
         "place_of_burial": "Basílica de San Pedro en el Vaticano",
         "notes": "León, llamado Magno por la grandeza de su obra y su magisterio, como obispo de Roma dirigió la Iglesia durante veintiún años (440-461). Su figura emerge con relevancia histórica universal en el diálogo entre Oriente y Occidente, y en el encuentro-choque entre el mundo latino y las nuevas poblaciones europeas. Maestro y mistagogo, centró su misión en el misterio de Cristo hombre-Dios, profesado en la doctrina del Verbo encarnado (Concilio de Calcedonia, 451), actualizado en las celebraciones litúrgicas (Sermones sobre los misterios), testimoniado en la vida: «cumplir en las obras lo que se celebra en el sacramento». A su nombre se vincula el fondo eucológico más antiguo del Misal Romano (Sacramentario Veronense, atribuido a él por la tradición). Su «deposición» el 10 de noviembre es recordada por el Martirologio Jeronimiano (siglos V-VI) y por el Calendario de San Willibrordo (siglo VIII).",
@@ -1542,7 +1542,7 @@
     "StMartinTours_161": {
         "subject": "San Martín de Tours, obispo",
         "places": "Aosta (Italia), Canterbury (Reino Unido)",
-        "place_of_death": "Candes-Saint-Martin, Francia",
+        "place_of_death": "Candes-Saint-Martin (Francia)",
         "place_of_birth": "Sabaria (actual Szombathely), Hungría",
         "place_of_burial": "Basílica de San Martín, Tours, Francia",
         "notes": "Martín (Sabaria, actual Szombathely, Hungría, 316/317 - Candes-Saint-Martin, Francia, 8 de noviembre de 397), hijo de un militar pagano, fue a su vez destinado a las armas. Convertido al cristianismo, abandonó el ejército y entró en contacto con el obispo Hilario de Poitiers. Se dedicó entonces a la vida eremítica, primero en la isla de Gallinara (Savona), luego en Ligugé, cerca de Poitiers. Elegido, contra su voluntad, obispo de Tours, mantuvo su estilo de vida y fundó cerca de la ciudad el monasterio de Marmoutier. Contribuyó notablemente a la difusión del cristianismo en el campo y también por esto su culto se volvió muy popular, sobre todo en el ámbito rural. La memoria litúrgica corresponde al día de su entierro, ocurrido el 11 de noviembre en Tours y recordado en el Martirologio Jeronimiano (siglos V-VI).",

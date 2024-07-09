@@ -47,7 +47,7 @@
         "place_of_burial": "Basílica de São Sebastião fora dos Muros",
         "notes": "Ano de morte 250/251, após ter sido Papa por cerca de 15 anos",
         "patronage": "",
-        "main_shrine": "N/A"
+        "main_shrine": "Catacumbas de São Calisto (Roma)"
     },
     "StSebastian_6": {
         "subject": "São Sebastião, mártir",
@@ -77,11 +77,11 @@
         "place_of_burial": "Catedral de Valência (Espanha) / Catedral de Lisboa (Portugal) / Acate (Ragusa, Itália; tradição popular)",
         "notes": "Vicente († Valência, Espanha, 22 de janeiro de 304), diácono da Igreja de Saragoça, foi preso durante a perseguição de Diocleciano e morreu na prisão devido às torturas sofridas. Ofereceu sua vida a Cristo junto com o bispo Valério, com quem tantas vezes havia oferecido o sacrifício do altar. É lembrado no dia 22 de janeiro no Martirológio Jeronimiano (séc. V-VI). Com a chegada do imperador Constantino, que se converteu ao cristianismo, foi erguida em Valência uma basílica em honra de São Vicente, e suas relíquias foram colocadas sob o altar principal. No entanto, após a invasão dos mouros, os cristãos de Valência roubaram o corpo do Mártir para protegê-lo em Portugal, em uma igrejinha construída especialmente no local do promontório hoje chamado Cabo de São Vicente. Terminada a guerra contra os mouros, os restos mortais foram embarcados em um navio que seguiu rumo a Lisboa. Uma lenda devocional conta que durante a viagem alguns corvos pousaram na proa e na popa do navio, como se quisessem significar sua renovada proteção ao Santo mártir que um dia já haviam salvado das feras. Chegando à cidade, o corpo foi depositado na igreja de Santa Justa e Santa Rufina e, após algum tempo, em 15 de setembro de 1173, foi solenemente transportado para a catedral. Em memória, foram cunhadas moedas. https://it.wikipedia.org/wiki/Monastero_di_S%C3%A3o_Vicente_de_Fora",
         "patronage": "",
-        "main_shrine": "Lourdes (França)"
+        "main_shrine": "Catedral de Lisboa (Portugal)"
     },
     "StFrancisDeSales_9": {
         "subject": "São Francisco de Sales, bispo e doutor",
-        "places": "Lourdes (França)",
+        "places": "Castelo de Thorens (Thorens-Glières, França), Lyon (França), Genebra (Suíça), Annecy (França)",
         "place_of_death": "Lyon, França",
         "place_of_birth": "Sales (França)",
         "place_of_burial": "Basílica da Visitação, Annecy, França",
@@ -162,7 +162,7 @@
     "StAgatha_18": {
         "subject": "Santa Ágata, virgem e mártir",
         "places": "Catânia (Sicília, Itália), Roma, Igreja de Santa Sofia em Constantinopla (atual Istambul, Turquia)",
-        "place_of_death": "Catânia, Sicília, Itália",
+        "place_of_death": "Catania (Sicília, Itália)",
         "place_of_birth": "Catânia (Sicília, Itália)",
         "place_of_burial": "Catânia, Constantinopla",
         "notes": "Ágata foi mártir em Catânia, provavelmente durante a perseguição de Décio (251). Seu culto começou a se espalhar no século V, quando o Papa Símaco lhe dedicou uma basílica na via Áurea. O aniversário de sua morte é lembrado em 5 de fevereiro pelo Martirológio Hieronymiano (séc. V-VI); seu nome está inserido no Cânone Romano. Em 1040, Jorge Maniaces, general enviado pelo imperador bizantino Miguel IV o Paflagônio para a reconquista da Sicília, que desde 945 constituía o Emirado da Sicília, retirou da cidade as relíquias de Santa Ágata, que eram guardadas no templo primitivo. As relíquias foram guardadas na basílica catedral de Santa Sofia e permaneceram em Constantinopla por oitenta e seis anos. Existem restos da igreja dedicada pelo Papa Símaco na Via Áurea? S. Ágata em Fundo Lardário Há uma igreja dedicada a ela desde o século V em Roma: https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Agata_dei_Goti",
@@ -171,10 +171,10 @@
     },
     "StsPaulMiki_19": {
         "subject": "Santos Paulo Miki e companheiros, mártires",
-        "places": "",
+        "places": "Settsu (Japão), Nagasaki (Japão)",
         "place_of_death": "Nagasaki, Japão",
         "place_of_birth": "Quioto (Japão)",
-        "place_of_burial": "Aosta (Itália), Canterbury (Reino Unido)",
+        "place_of_burial": "Nagasaki (Japão)",
         "notes": "Paolo Miki (Kyoto, Japão, 1556 - Nagasaki, 5 de fevereiro de 1597), jesuíta, foi vítima da perseguição que o imperador japonês ordenou contra os cristãos, temendo que o seu aumento constituísse um perigo para a autonomia do país. Junto com ele foram crucificados outros vinte e cinco cristãos, leigos e religiosos (Jesuítas e Frades Menores).",
         "patronage": "",
         "main_shrine": "https://it.wikipedia.org/wiki/Basilica_dei_Ventisei_Santi_Martiri_del_Giappone; Museu e monumento dos vinte e seis mártires de Nagasaki https://travel.at-nagasaki.jp/it/s/what-to-see/30/ https://en.wikipedia.org/wiki/Twenty-Six_Martyrs_Museum_and_Monument"
@@ -197,17 +197,17 @@
         "place_of_burial": "Abadia de Montecassino",
         "notes": "Escolástica (Nórcia, Perugia, 480 ca. - Montecassino, Frosinone, 547 ca.) é indicada pela tradição como irmã de São Bento. Os Diálogos de Gregório Magno a descrevem como virgem amante da contemplação, sábia em antepor a caridade a qualquer regra humana. É lembrada no dia 10 de fevereiro no Calendário marmóreo de Nápoles (séc. IX) e no Martirológio de Usuardo (870 ca.).",
         "patronage": "",
-        "main_shrine": "Lourdes (França)"
+        "main_shrine": "Abadia de Montecassino (Itália)"
     },
     "LadyLourdes_22": {
         "subject": "Beata Maria Virgem de Lourdes",
         "places": "Lourdes (França)",
         "place_of_death": "N/A",
-        "place_of_birth": "Aosta (Itália), Canterbury (Reino Unido)",
+        "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "Esta memória está ligada à experiência mística de Bernadette Soubirous, que por dezoito vezes, entre 11 de fevereiro e 16 de julho de 1858, na gruta de Massabielle, perto de Lourdes (França), encontrou a Virgem Maria. Ela declarou ser a «Imaculada Conceição», chamando os homens à oração e à conversão. O santuário erguido naquele local, a convite da Virgem, tornou-se destino de contínuas peregrinações, especialmente para os doentes.",
         "patronage": "",
-        "main_shrine": "Lourdes (França)"
+        "main_shrine": "Santuário de Nossa Senhora de Lourdes (França)"
     },
     "StsCyrilMethodius_23": {
         "subject": "São Cirilo, monge",
@@ -222,7 +222,7 @@
     "SevenHolyFounders_24": {
         "subject": "Santos Sete Fundadores dos Servos da Beata Virgem Maria",
         "places": "N/A",
-        "place_of_death": "Montesenário",
+        "place_of_death": "Montesenário (Itália)",
         "place_of_birth": "Florença",
         "place_of_burial": "Florença",
         "notes": "Questas são as figuras individuais dos sete santos fundadores, cujos sobrenomes foram adicionados apenas nos séculos XV-XVI. Buonagiunta de Florença (Manetti), documentado em 7 de outubro de 1251; prior geral em 1256; falecido em 1257; foi sepultado em Montesenario, perto do altar-mor da igreja. Buonfiglio de Florença (Monaldi), segundo a tradição o primeiro dos sete e seu líder; prior de Montesenario em 17 de março de 1250, quando o bispo de Siena Buonfiglio concedeu licença para a construção na cidade da igreja e do convento de Santa Maria de Cafaggio, hoje basílica da Santíssima Anunciada de Florença. Em 1251-1252 também viveu em Cafaggio, onde recebeu na Ordem o jovem Filippo Benizi. Morreu, segundo a tradição, em 1º de janeiro de 1262 e foi sepultado em Montesenario. Amadio de Florença (Amidei), que parece ter passado toda a vida no convento de Montesenario. A tradição diz que, à sua morte em 1266, todos os Padres viram uma chama de fogo subir alto, sinal e símbolo de seu amor por Deus, como indica seu nome. Manetto de Florença (dell'Antella), prior do convento de Lucca em 1264, foi eleito em 1265 General da Ordem. Renunciou ao generalato em 1267 e teve como sucessor Filippo Benizi. Uguccione de Florença (Uguccioni), talvez prior de Montesenario em 1259, de família em Città di Castello em 21 de agosto de 1255, e companheiro de Sostegno e Filippo quando este último, segundo a Legenda B. Philippi do século XIV, curou um pobre leproso. Morreu em 1282, em Montesenario, após retornar do Capítulo geral de Viterbo, no mesmo dia e na mesma hora do amigo Sostegno. Sostegno de Florença (Sostegni), lembrado na Legenda de Origine também como tio de fra Lapo de Florença (28); talvez vigário geral na França. Morreu em 1282 (v. acima) e foi sepultado junto com os outros fundadores em Montesenario. Alessio Falconieri, o mais conhecido dos sete santos. Humilde, desejoso de penitência, mesmo na velhice dedicou-se aos trabalhos materiais e à busca (esmola de casa em casa), apesar dos incômodos da idade e da estação (Legenda de Origine). Protegeu os jovens da Ordem e usou o dinheiro das vestimentas que lhe cabiam (um costume dos Servos) para enviar os mais merecedores deles a estudar na Sorbonne de Paris. Viveu quase 110 anos e morreu em 1310.",
@@ -232,7 +232,7 @@
     "StPeterDamian_25": {
         "subject": "São Pedro Damião, bispo e doutor da Igreja",
         "places": "N/A",
-        "place_of_death": "Faenza",
+        "place_of_death": "Faenza (Itália)",
         "place_of_birth": "Ravenna",
         "place_of_burial": "Mosteiro beneditino de Santa Maria Fora dos Muros (Faenza)",
         "notes": "Fundou vários mosteiros, mas está particularmente ligado ao mosteiro de Fonte Avellana. Durante a viagem de retorno ao eremitério de Gamogna (um dos muitos que ele fundou), uma doença repentina o obrigou a parar em Faenza. Foi hospedado no mosteiro beneditino de Santa Maria Fora dos Muros (hoje conhecida como Santa Maria Vecchia), onde faleceu na noite entre 21 e 22 de fevereiro de 1072. Foi inicialmente sepultado na igreja do mosteiro e posteriormente seus ossos foram transladados para a catedral de Faenza, onde são conservados até hoje.",
@@ -241,10 +241,10 @@
     },
     "StPolycarp_27": {
         "subject": "São Policarpo, bispo e mártir",
-        "places": "Lourdes (França)",
+        "places": "Esmirna (Turquia)",
         "place_of_death": "Esmirna, Turquia",
         "place_of_birth": "Esmirna, Turquia",
-        "place_of_burial": "Lourdes (França)",
+        "place_of_burial": "Santo Ambrósio della Massima (Roma)",
         "notes": "Policarpo († 23 de fevereiro de 167), discípulo do apóstolo João, foi bispo de Esmirna (Turquia), onde recebeu Santo Inácio em viagem para Roma, cidade onde sofreria o martírio. Após um longo episcopado, em idade muito avançada, Policarpo foi condenado à fogueira por sua fé. Era o dia do Senhor: enquanto o fogo o consumia, o bispo se unia, rezando, à liturgia eucarística tantas vezes celebrada com sua Igreja. O relato de sua paixão é o documento mais antigo sobre o culto dos mártires.",
         "patronage": "",
         "main_shrine": "Igreja de São Policarpo, Esmirna, Turquia"
@@ -253,7 +253,7 @@
         "subject": "São Casimiro",
         "places": "Beata Virgem Maria de Fátima",
         "place_of_death": "Hrodna (Bielorrússia)",
-        "place_of_birth": "Cracóvia",
+        "place_of_birth": "Cracóvia (Polônia)",
         "place_of_burial": "Vilnius (Lituânia)",
         "notes": "Casimiro (Cracóvia, Polônia, 3 de outubro de 1458 - Grodno, atual Hrodna, Bielorrússia, 4 de março de 1484), filho do rei da Polônia e da Lituânia, formado na cultura humanística, preferiu uma vida sóbria e casta, dedicada à oração e à penitência ao exercício do poder.",
         "patronage": "",
@@ -291,7 +291,7 @@
     },
     "StPatrick_32": {
         "subject": "São Patrício, bispo",
-        "places": "Beata Virgem Maria de Fátima",
+        "places": "Bannaventa (Grã-Bretanha), Croagh Patrick (Irlanda), Downpatrick (Irlanda), Dublin (Irlanda), Rocca di Cashel (Irlanda), Armagh (Irlanda)",
         "place_of_death": "Downpatrick (Irlanda do Norte)",
         "place_of_birth": "Old Kilpatrick (Escócia)",
         "place_of_burial": "Downpatrick (Irlanda do Norte)",
@@ -301,7 +301,7 @@
     },
     "StCyrilJerusalem_33": {
         "subject": "São Cirilo de Jerusalém, bispo e doutor",
-        "places": "N/A",
+        "places": "Jerusalém (Israel / Palestina)",
         "place_of_death": "Jerusalém",
         "place_of_birth": "Jerusalém",
         "place_of_burial": "Lourdes (França)",
@@ -331,7 +331,7 @@
     },
     "StFrancisPaola_37": {
         "subject": "São Francisco de Paula, eremita",
-        "places": "N/A",
+        "places": "Paola (Itália), Castelo de Plessis-lez-Tours (França)",
         "place_of_death": "Castelo de Plessis-lez-Tours (La Riche, França)",
         "place_of_birth": "Paola (Cosenza)",
         "place_of_burial": "La Riche, França (foi iniciada a construção de um santuário sobre o túmulo, foi edificada apenas a abside)",
@@ -371,9 +371,9 @@
     },
     "StStanislaus_41": {
         "subject": "São Estanislau, bispo e mártir",
-        "places": "",
-        "place_of_death": "Cracóvia, Polônia",
-        "place_of_birth": "Szczepanowice, Polônia",
+        "places": "Beata Maria Virgem de Lourdes",
+        "place_of_death": "Cracóvia (Polônia)",
+        "place_of_birth": "Szczepanowice (Polônia)",
         "place_of_burial": "Catedral de Cracóvia, Polônia",
         "notes": "Estanislau (Szczepanowice, Polônia, cerca de 1030 - Cracóvia, 11 de abril de 1079), bispo de Cracóvia, foi um pastor zeloso de seu rebanho: completou a cristianização do país, reformou o clero, cuidou dos pobres. Devido a conflitos com o rei Boleslau II, foi morto por ele. Proclamado patrono da nação, Estanislau sempre foi venerado pelo povo polonês; seus restos mortais, na catedral de Cracóvia, tornaram-se destino de contínua peregrinação.",
         "patronage": "",
@@ -384,7 +384,7 @@
         "places": "N/A",
         "place_of_death": "Cherson (atual Akherson), Ucrânia",
         "place_of_birth": "Todi, Perugia, Itália",
-        "place_of_burial": "Martinho foi sepultado em Cherson na basílica de Santa Maria ad Blachernas, tornando-se objeto de culto por muitos milagres atribuídos à sua intercessão. Posteriormente, o corpo foi transferido para Roma e sepultado talvez na igreja de São Martinho ai Monti.",
+        "place_of_burial": "Martinho foi sepultado em Cherson na basílica de Santa Maria ad Blachernas, tornando-se objeto de culto por muitos milagres devido à sua intercessão. Posteriormente, o corpo foi trasladado para Roma e sepultado talvez na igreja de São Martinho ai Monti.",
         "notes": "Martinho (Todi, Perugia, final do século VI - Cherson, atual Akherson, Ucrânia, 16 de setembro de 655) foi eleito papa (649) durante as últimas controvérsias cristológicas. Defendendo firmemente a fé nas duas vontades de Cristo, a divina e a humana, provocou a reação do imperador de Bizâncio Constante II, que o condenou ao exílio na Crimeia, onde morreu.",
         "patronage": "",
         "main_shrine": "Igreja de São Martinho ai Monti, Roma"
@@ -431,20 +431,20 @@
     },
     "StPeterChanel_47": {
         "subject": "São Pedro Chanel, sacerdote e mártir",
-        "places": "",
+        "places": "Beata Maria Virgem de Lourdes",
         "place_of_death": "Futuna, Oceania Francesa",
         "place_of_birth": "Montrevel-en-Bresse, França,",
         "place_of_burial": "Os restos do missionário, sepultados apressadamente, foram posteriormente reclamados por M. Lavaux, comandante francês da estação naval do Taiti, e levados de volta à França por um meio de transporte do governo, em 1842.",
         "notes": "Pedro (Montrevel-en-Bresse, França, 12 de julho de 1803 - Futuna, Oceania Francesa, 28 de abril de 1841), presbítero da Sociedade de Maria (Maristas), foi um dos primeiros missionários na Oceania ocidental. Após alguns bons resultados na obra de evangelização, caiu vítima da hostilidade dos líderes religiosos locais. Seu martírio contribuiu para aproximar a população da ilha de Futuna à fé.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Beata Maria Virgem de Lourdes"
     },
     "StCatherineSiena_48": {
         "subject": "Santa Catarina de Siena, virgem e doutora da Igreja",
         "places": "Siena, Roma",
-        "place_of_death": "Roma, Itália",
+        "place_of_death": "Andechs (Baviera)",
         "place_of_birth": "Siena, Itália",
-        "place_of_burial": "Roma, Itália",
+        "place_of_burial": "Roma (Itália)",
         "notes": "Catarina (Siena, 1347 - Roma, 29 de abril de 1380) dedicou-se, muito jovem, à oração e à penitência em sua própria casa; posteriormente foi admitida entre as «mantellate» da Terceira Ordem Dominicana. Realizou uma intensa ação pública, tanto como operadora de paz em uma sociedade dilacerada por disputas, quanto como defensora franca e apaixonada da reforma da Igreja. Favoreceu o retorno do papa de Avignon e trabalhou para superar o grande cisma que surgiu, logo depois, na sede romana e em todo o Ocidente. Compôs escritos densos em conteúdo teológico e incisivos na linguagem, entre os quais o Diálogo da Divina Providência. Foi proclamada padroeira da Itália em 1939 e da Europa em 1999.",
         "patronage": "",
         "main_shrine": "Basílica de Santa Maria sopra Minerva, Roma"
@@ -452,7 +452,7 @@
     "StPiusV_49": {
         "subject": "São Pio V, papa",
         "places": "Lourdes (França)",
-        "place_of_death": "Roma, Itália",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Bosco Marengo, Alessandria, Itália",
         "place_of_burial": "Basílica de Santa Maria Maior, Roma",
         "notes": "Michele (no século Antonio) Ghislieri (Bosco Marengo, Alessandria, 17 de janeiro de 1504 - Roma, 1 de maio de 1572), dominicano, foi papa a partir de 1566. Implementou a primeira aplicação do Concílio de Trento, começando pela cúria romana e pela Urbe. Publicou o Catecismo (1566), cuidou da reforma do Breviário (1568) e do Missal (1570). Promoveu a difusão da fé na Europa e no Oriente, e a defendeu contra a expansão otomana (Lepanto, 7 de outubro de 1571).",
@@ -483,7 +483,7 @@
         "subject": "Santos Filipe e Tiago, apóstolos",
         "places": "Roma; Jerusalém; Hierápolis (atual Pammukale), Turquia",
         "place_of_death": "Hierápolis (atual Pammukale), Turquia; e Jerusalém",
-        "place_of_birth": "Betsaida",
+        "place_of_birth": "Betsaida (Israel)",
         "place_of_burial": "Hierápolis (atual Pammukale), Turquia; e Jerusalém",
         "notes": "Filipe, originário de Betsaida, é chamado por Jesus a segui-lo; por sua vez, ele convida Natanael a vir e ver o Messias (cf. Jo 1, 43-46); está presente, com André, na multiplicação dos pães (cf. Jo 6, 1-15) e quando alguns gregos, que subiram para a Páscoa em Jerusalém, pedem para ver Jesus (cf. Jo 12, 20-36). Durante a Última Ceia, é ele quem pede: \"Senhor, mostra-nos o Pai e isso nos basta\" (Jo 14, 8). Tiago, filho de Alfeu, é um dos doze apóstolos (cf. Mc 3, 18; Lc 6, 15). São Paulo lhe atribui uma aparição específica do Ressuscitado (cf. 1 Cor 15, 7). Gozou de particular honra e autoridade nas primeiras comunidades cristãs (cf. At 15, 13-21; 21, 18; Gal 2, 9). Os dois apóstolos são lembrados em uma única festa porque, segundo uma tradição, suas relíquias foram colocadas sob o altar da Basílica dos Doze Apóstolos em Roma no dia de sua dedicação (1 de maio de 565 ca.).",
         "patronage": "",
@@ -491,7 +491,7 @@
     },
     "StsNereusAchilleus_53": {
         "subject": "Santos Nereu e Aquiles, mártires",
-        "places": "Roma, Itália",
+        "places": "Roma (Itália)",
         "place_of_death": "Roma",
         "place_of_birth": "Beata Virgem Maria de Fátima",
         "place_of_burial": "Catacumbas de Domitila",
@@ -501,7 +501,7 @@
     },
     "StPancras_54": {
         "subject": "São Pancrácio, mártir",
-        "places": "Roma, Itália",
+        "places": "Betsaida (Israel)",
         "place_of_death": "Roma",
         "place_of_birth": "Lourdes (França)",
         "place_of_burial": "Cemitério de Ottavilla, Roma",
@@ -553,7 +553,7 @@
         "subject": "São Gregório VII, papa",
         "places": "Salerno, Itália",
         "place_of_death": "Salerno, Itália",
-        "place_of_birth": "Sovana, Itália",
+        "place_of_birth": "Sovana (Itália)",
         "place_of_burial": "Catedral de Salerno, Itália",
         "notes": "Hilário (Sovana, Grosseto, 1025/1030 - Salerno, 25 de maio de 1085), monge, chamado pelo papa Leão IX para colaborar na reforma da Igreja, assumiu um papel de destaque na cúria romana. Eleito papa (1073), reivindicou a autonomia do poder espiritual em relação ao temporal e exerceu uma constante solicitude pela Igreja universal. Após sofrer a violenta oposição de Henrique IV, rei da Alemanha e imperador, morreu no exílio.",
         "patronage": "",
@@ -594,7 +594,7 @@
         "places": "N/A",
         "place_of_death": "Lourdes (França)",
         "place_of_birth": "Fátima (Portugal)",
-        "place_of_burial": "",
+        "place_of_burial": "Beata Maria Virgem de Lourdes",
         "notes": "Maria, arca santa da Nova Aliança, apressa-se a visitar sua parente Isabel (cf. Lc 1, 36), que a acolhe como Mãe do seu Senhor (cf. Lc 1, 39-56). «Uma virgem está grávida de Deus, e uma estéril está grávida de uma virgem, o filho da esterilidade exulta na gravidez da virgindade»: assim canta Efrém, o Sírio, o mistério desta festa. Pela obra do Espírito, no encontro das mães encontram-se os filhos e os dois Testamentos: um exulta de alegria na presença do outro; os tempos estão cumpridos. Em Maria, também a Igreja canta o seu Magnificat pelas grandes coisas realizadas por Deus nela (cf. Lc 1, 46-55). O mês de maio, tradicionalmente ligado à devoção mariana, encontra nesta festa uma conclusão de sabor genuinamente bíblico.",
         "patronage": "",
         "main_shrine": "Igreja da Visitação, Ein Kerem, Israel"
@@ -603,7 +603,7 @@
         "subject": "São Justino mártir",
         "places": "Beata Maria Virgem de Lourdes",
         "place_of_death": "Roma, Itália",
-        "place_of_birth": "Nablus, Palestina",
+        "place_of_birth": "Nablus (Palestina)",
         "place_of_burial": "Cemitério de Santa Ciríaca (Basílica de São Lourenço fora dos Muros); Igreja Colegiada de São Silvestre Papa, Fabrica di Roma (identificação incerta?)",
         "notes": "Justino (Flavia Neapolis, atual Nablus, Palestina, início do séc. II - Roma, 165) foi um apaixonado pesquisador da verdade. Depois de encontrar em Cristo a verdadeira sabedoria, dedicou-se a aprofundá-la e a ensiná-la também com o auxílio da filosofia. Escreveu duas Apologias do cristianismo – na primeira das quais se encontra a mais antiga descrição da celebração eucarística, na sua estrutura essencial – e o Diálogo com Trifão, em confronto com o ambiente judaico. Condenado à morte como cristão, deu pleno testemunho à Verdade. Sua memória é celebrada no dia primeiro de junho também pelos Ortodoxos.",
         "patronage": "",
@@ -613,7 +613,7 @@
         "subject": "Santos Marcelino e Pedro, mártires",
         "places": "Roma, Itália",
         "place_of_death": "Roma, Itália",
-        "place_of_birth": "",
+        "place_of_birth": "Beata Maria Virgem de Lourdes",
         "place_of_burial": "Catacumba dos Santos Marcelino e Pedro \"Ad duas lauros\", Roma, Itália",
         "notes": "Marcelino, presbítero, e Pedro, exorcista, foram martirizados em Roma sob Diocleciano (303-305), na via Casilina, em Tor Pignattara. O futuro papa Dâmaso, na juventude, pôde recolher o relato de sua morte do testemunho do próprio carrasco. Os dois mártires são citados no Cânone Romano e lembrados no dia 2 de junho pelo Martirológio Hieronymianum (séc. V-VI).",
         "patronage": "",
@@ -621,7 +621,7 @@
     },
     "StsCharlesLwanga_66": {
         "subject": "Santos Carlos Lwanga e companheiros, mártires",
-        "places": "Namugongo, Uganda",
+        "places": "Namugongo (Uganda)",
         "place_of_death": "Kampala, Uganda",
         "place_of_birth": "Beata Virgem Maria de Fátima",
         "place_of_burial": "Basílica dos Santos Mártires de Uganda, Namugongo, Uganda",
@@ -691,7 +691,7 @@
     },
     "StAloysiusGonzaga_73": {
         "subject": "São Luís Gonzaga, religioso",
-        "places": "Castiglione delle Stiviere; Roma",
+        "places": "Castiglione delle Stiviere (Itália); Roma (Itália)",
         "place_of_death": "Santos Marcelino e Pedro, mártires",
         "place_of_birth": "Castiglione delle Stiviere, Mantova, Itália",
         "place_of_burial": "Igreja de Santo Inácio de Loyola, Roma; o crânio é conservado na basílica a ele dedicada em Castiglione delle Stiviere",
@@ -701,8 +701,8 @@
     },
     "StPaulinusNola_74": {
         "subject": "São Paulino de Nola, bispo",
-        "places": "Nola, Itália",
-        "place_of_death": "Nola, Itália",
+        "places": "Nola (Itália)",
+        "place_of_death": "Nola (Itália)",
         "place_of_birth": "Bordéus, França",
         "place_of_burial": "Catedral de Nola",
         "notes": "Paulino (Bordéus, França, cerca de 355 - Nola, Nápoles, 22 de junho de 431), homem culto, governador da Campânia, retirou-se da cena pública e, com sua esposa Terásia, dedicou-se a uma vida ascética nas proximidades de Nola. Eleito bispo daquela cidade, governou sua Igreja por vinte e dois anos com mansidão e fervor. Manteve relações com Ambrósio de Milão, Martinho de Tours, Agostinho. Versado também em poesia, compôs poemas densos de erudição e fé. É lembrado no dia 22 de junho no Martirológio Hieronymianum (séculos V-VI). Sobre a questão das relíquias, veja https://www.diocesinola.it/comunicazioni-sociali/indialogo-blog/post/2020/5/reliquie-paolino",
@@ -724,7 +724,7 @@
         "places": "Sebaste, Palestina; Macheronte, Jordânia; Roma, Itália",
         "place_of_death": "Macheronte, Jordânia",
         "place_of_birth": "Ein Kerem, Palestina / Israel",
-        "place_of_burial": "Sebaste, Palestina",
+        "place_of_burial": "Sebaste (Palestina)",
         "notes": "João Batista é o único santo – além da Mãe do Senhor – de quem a Igreja celebra tanto o nascimento no céu quanto o nascimento segundo a carne. Profeta desde o ventre materno (cf. Lc 1, 41), João testemunha o Cordeiro de Deus que veio ao mundo (cf. Jo 1, 29-34). «Amigo do Esposo» (Jo 3, 29), exulta ao preparar os caminhos para o mais forte do que ele através da palavra, do batismo de conversão e do dom de sua própria vida (cf. Lc 1, 76; Mc 1, 7-8; 6, 17-29). Assim comenta Agostinho a data da festa de hoje: «O Verbo nasceu em 25 de dezembro, quando os dias começam a se alongar, enquanto a Voz nasceu antes do Verbo, mas quando os dias começam a se encurtar: “Ele deve crescer, eu, ao contrário, devo diminuir” (Jo 3, 30)».",
         "patronage": "",
         "main_shrine": "Basílica dos Santos João Batista e Evangelista, Roma"
@@ -771,8 +771,8 @@
     },
     "StThomasAp_81": {
         "subject": "São Tomé Apóstolo",
-        "places": "Ortona, Itália; Chennai, Índia",
-        "place_of_death": "Mylapore, Índia",
+        "places": "Ortona (Itália); Chennai (Índia)",
+        "place_of_death": "Mylapore (Índia)",
         "place_of_birth": "Galileia, Palestina Romana",
         "place_of_burial": "séc. I-III: Mylapore (atual Chennai), Índia; séc. III-?: Edessa (atual Şanlıurfa), Turquia: séc. ?-XIII: Ilha de Chios no Egeu; séc. XIII-hoje: Basílica de São Tomé, Ortona, Itália",
         "notes": "Tomé, «chamado Dídimo» – que significa «gêmeo» –, é «um dos Doze» (Jo 20, 24; cf. Mc 3, 18). Quando Jesus quer voltar à Judeia para despertar Lázaro do túmulo, Tomé exorta os outros discípulos a seguir o Mestre e a estar prontos «a morrer com ele» (Jo 11, 16); durante a última Ceia, pede ao Mestre que mostre qual é «o caminho» de que ele fala (cf. Jo 14, 5). Ausente quando Jesus aparece na noite de sua ressurreição, ele, ao anúncio dos outros discípulos, permanece incrédulo e, «oito dias depois» (Jo 20, 26), recebe o dom de ver o Ressuscitado e proclamá-lo «Meu Senhor e meu Deus» (Jo 20, 28). O Martirológio Jeronimiano (séc. V-VI) lembra a translação de seu corpo para Edessa em 3 de julho.",
@@ -792,8 +792,8 @@
     "StAnthonyZaccaria_83": {
         "subject": "Santo Antônio Zaccaria, sacerdote",
         "places": "Cremona, Itália; Milão, Itália",
-        "place_of_death": "Cremona, Itália",
-        "place_of_birth": "Cremona, Itália",
+        "place_of_death": "Cremona (Itália)",
+        "place_of_birth": "Cremona (Itália)",
         "place_of_burial": "Igreja dos Santos Paulo e Barnabé ou santuário de Santo Antônio Maria Zaccaria, Milão",
         "notes": "Antônio (Cremona, 1502/1503 - 5 de julho de 1539), médico, cuidou dos pobres. Ordenado presbítero, fundou a Sociedade dos Clérigos Regulares de São Paulo – chamados Barnabitas pela igreja de São Barnabé em Milão onde tiveram origem – e uma Sociedade dos casados, para a santidade no matrimônio. Com sua pregação, reavivou a fé e a devoção popular.",
         "patronage": "",
@@ -831,8 +831,8 @@
     },
     "StCamillusDeLellis_87": {
         "subject": "São Camilo de Lellis, sacerdote",
-        "places": "Bucchianico, Itália; Roma, Itália",
-        "place_of_death": "Santos Marcelino e Pedro, mártires",
+        "places": "Bucchianico (Itália); Roma (Itália)",
+        "place_of_death": "Betsaida (Israel)",
         "place_of_birth": "Bucchianico (Chieti), Itália",
         "place_of_burial": "Igreja de Santa Maria Madalena, Roma, Itália",
         "notes": "Camilo (Bucchianico, Chieti, 25 de maio de 1550 - Roma, 14 de julho de 1614) foi na juventude soldado mercenário e dedicado ao jogo; redescobriu a fé no convento dos Capuchinhos de Manfredonia; desejoso de entrar na Ordem, por duas vezes iniciou o noviciado, mas uma ferida incurável no pé o impediu de continuar. Internado no hospital de São Tiago dos Incuráveis em Roma, encontrou São Filipe Neri, que o ajudou em seu caminho espiritual; dedicou-se posteriormente a uma vida totalmente dedicada ao serviço de Cristo, no cuidado amoroso de seus membros sofredores. Tornando-se presbítero, fundou os Clérigos Regulares Ministros dos Enfermos (Camilianos).",
@@ -843,7 +843,7 @@
         "subject": "São Boaventura, bispo e doutor",
         "places": "Lyon, França; Bagnoregio, Itália",
         "place_of_death": "Lyon, França",
-        "place_of_birth": "Civita di Bagnoregio, Viterbo",
+        "place_of_birth": "Civita di Bagnoregio (Viterbo)",
         "place_of_burial": "http://www.doctorseraphicus.it/images/annate/1958_67-81_Petrangeli_Papini.pdf",
         "notes": "Boaventura (Civita di Bagnoregio, Viterbo, 1217 ca. - Lyon, França, 15 de julho de 1274), entrou na Ordem dos Frades Menores e estudou em Paris. Teólogo, dedicou-se ao ensino, produzindo obras de inspiração sapiencial, entre as quais o Itinerário da mente para Deus. Ministro geral, ordenou a legislação anterior promulgando novas Constituições (Narbonne, 1260) e, com sua obra hagiográfica (Legenda maior e Legenda minor, escrita – esta última – para a liturgia), propôs uma visão unitária da figura de São Francisco. Bispo de Albano e cardeal, participou do Concílio de Lyon II durante o qual, repentinamente, passou da Igreja terrena para a assembleia celestial.",
         "patronage": "",
@@ -857,7 +857,7 @@
         "place_of_burial": "N/A",
         "notes": "No século XII, alguns peregrinos se retiraram ao Monte Carmelo, na Palestina, onde Elias havia lutado contra os sacerdotes de Baal pela fidelidade de Israel ao único Senhor (cf. 1 Reis 18, 20-40). Lá formou-se uma comunidade de contemplativos devotos de Maria, modelo de adesão incondicional a Deus. Essa comunidade deu origem à Ordem dos Carmelitas e a muitas confrarias leigas que difundiram o culto à Virgem do Carmelo (ou do Carmo). A Ordem do Carmelo começou a celebrar a festa dedicada à Beata Virgem \"do Monte Carmelo\" na Inglaterra a partir da segunda metade do século XIV, todo 17 de julho, em referência à data da última sessão do Concílio de Lyon (1274), na qual a Ordem recebeu uma aprovação que a salvou da supressão; foi instituída com o objetivo de agradecer à Virgem Maria por todos os benefícios concedidos à Ordem, como protetora e advogada. Posteriormente, especialmente no século XVI, foi dada importância primária ao Escapulário, que se tornou o motivo mais imediato para agradecer e afirmar o próprio amor à Mãe de Deus. Portanto, sua celebração foi antecipada para 16 de julho, em referência ao dia em que, segundo a tradição, a Virgem teria aparecido a São Simão Stock entregando-lhe o Escapulário (1251).[18] Essa comemoração se espalhou rapidamente por todo o mundo, a ponto de - na exortação apostólica \"Marialis Cultus\" - o Papa Paulo VI a incluir entre as festas \"celebradas originalmente por famílias religiosas particulares, mas que hoje, pela difusão alcançada, podem ser consideradas verdadeiramente eclesiais\".",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Beata Maria Virgem de Lourdes"
     },
     "StLawrenceBrindisi_90": {
         "subject": "São Lourenço de Brindisi, sacerdote e doutor",
@@ -873,7 +873,7 @@
         "subject": "Santa Maria Madalena",
         "places": "Basílica de Santa Maria Madalena em Saint-Maximin-la-Sainte-Baume, França; Basílica de Santa Maria Madalena em Vezelay, França; Basílica de São João de' Fiorentini em Roma, Itália",
         "place_of_death": "Aosta (Itália), Canterbury (Reino Unido)",
-        "place_of_birth": "Magdala, Palestina Romana",
+        "place_of_birth": "Magdala (Palestina Romana)",
         "place_of_burial": "N/A",
         "notes": "Maria de Magdala, curada por Jesus, está entre as mulheres que o servem durante seu ministério (cf. Lc 8, 2-3). Sobe com ele a Jerusalém e está presente sob a cruz e no momento de sua sepultura (cf. Mt 27, 56.61; Jo 19, 25). Na manhã após o sábado, enquanto chorava junto ao túmulo vazio, foi visitada por ele, que a encarregou de ir aos discípulos para anunciar sua ressurreição com as palavras solenes: «Vai aos meus irmãos e diz-lhes: “Subo para meu Pai e vosso Pai, meu Deus e vosso Deus”» (Jo 20, 17). Sua memória é indicada em 22 de julho no Martirológio de Beda (séc. VIII). O Papa Francisco elevou a memória ao grau de festa em 3 de junho de 2016 para destacar seu papel singular como primeira testemunha da ressurreição e «apóstola dos apóstolos» (Prefácio). Como santa católica, as relíquias de Maria Madalena foram veneradas em Saint-Maximin-la-Sainte-Baume, Provença, atraindo uma tal multidão de peregrinos que foi erguida uma grande basílica em meados do século XIII, uma das mais famosas igrejas góticas do sul da França. A inventio das relíquias é atribuída a Carlos II de Anjou, chamado \"o coxo\", feita em 1279. As relíquias foram validadas pelo Papa Bonifácio VIII em 1295 e guardadas na basílica de Saint-Maximin-la-Sainte-Baume. Embora seus ossos tenham sido dispersos durante a Revolução Francesa, dizia-se que sua cabeça permaneceu em seu sacrário em uma caverna em La Sainte-Baume perto de Marselha, onde a santa teria se retirado; também se conta sobre grandes milagres e bênçãos recebidas por aqueles que visitavam o sacrário para venerar Madalena. O pé da santa, guardado em um precioso relicário do círculo de Benvenuto Cellini, foi venerado por séculos em Roma em uma capela situada na entrada da Ponte Sant'Angelo, última das grandes relíquias antes de chegar ao túmulo de São Pedro. O pé está hoje conservado na Basílica de São João de' Fiorentini. Outras relíquias consistindo em filamentos de cabelo, pedaços de camisas e pequenos restos ósseos, são guardadas na Colegiada de Atrani (SA).",
         "patronage": "",
@@ -882,7 +882,7 @@
     "StBridget_92": {
         "subject": "Santa Brígida, religiosa",
         "places": "Igreja de Santa Brígida em Vadstena, Suécia; Igreja de Santa Brígida em Roma, Itália",
-        "place_of_death": "Santos Marcelino e Pedro, mártires",
+        "place_of_death": "Betsaida (Israel)",
         "place_of_birth": "Finsta, Suécia",
         "place_of_burial": "Igreja de Santa Brígida em Roma, Itália",
         "notes": "Brígida (Finsta, Suécia, 1302/1303 - Roma, 23 de julho de 1373), pertencente à alta aristocracia sueca, dedicou-se com o marido a uma intensa vida espiritual e a uma fervorosa atividade caritativa. Após a morte do cônjuge e o casamento dos oito filhos, viveu um período de solidão e oração, ao final do qual fundou a Ordem Monástica do Santíssimo Salvador, compreendendo um ramo masculino e um feminino. Transferindo-se para Roma, tornou-se célebre por suas profecias e seus apelos à reforma da Igreja, empenhando-se também pelo retorno do papa de Avinhão. Em 1999, São João Paulo II a proclamou padroeira da Europa.",
@@ -893,11 +893,11 @@
         "subject": "São Tiago, apóstolo",
         "places": "Basílica de Fátima (Portugal)",
         "place_of_death": "Jerusalém",
-        "place_of_birth": "Betsaida",
-        "place_of_burial": "Basílica de São Tiago, Santiago, Espanha",
+        "place_of_birth": "Betsaida (Palestina Romana)",
+        "place_of_burial": "Basílica de São Tiago, Santiago (Espanha)",
         "notes": "Tiago, filho de Zebedeu, encontra Jesus no lago da Galileia, que o chama junto com seu irmão João (cf. Mc 1, 19-20). Faz parte do grupo dos Doze e, com Pedro e João, é um dos apóstolos mais próximos do Mestre, acompanhando-o em alguns momentos particulares de sua vida (cf. Mc 5, 35-43; 9, 2-13; 14, 32-42). Associado à glória de Cristo, bebe do cálice da Páscoa recebendo o batismo do martírio (cf. Mc 10, 35-40) – primeiro entre os doze apóstolos – durante o reinado de Herodes Agripa (41-44 d.C.: At 12, 2). Seu corpo, transportado para a Galícia, no local que tomou o nome de Santiago de Compostela, desde a Idade Média até hoje é destino de numerosos peregrinos.",
         "patronage": "",
-        "main_shrine": "Basílica de São Tiago, Santiago, Espanha"
+        "main_shrine": "Basílica de São Tiago, Santiago (Espanha)"
     },
     "StMartha_95": {
         "subject": "Santa Marta",
@@ -922,7 +922,7 @@
     "StIgnatiusLoyola_97": {
         "subject": "Santo Inácio de Loyola, sacerdote",
         "places": "Loyola, Espanha; Roma, Itália",
-        "place_of_death": "Santos Marcelino e Pedro, mártires",
+        "place_of_death": "Betsaida (Israel)",
         "place_of_birth": "Loyola, Espanha",
         "place_of_burial": "Igreja do Gesù, Roma",
         "notes": "Iñigo Lòpez (Loyola, Espanha, 1491 - Roma, 31 de julho de 1556), de nobre família basca, foi ferido na defesa da cidade de Pamplona. Durante a convalescença, a leitura da vida de Cristo e de alguns santos marcou para ele o início da conversão. Um longo itinerário o levou a atravessar um período de discernimento espiritual e uma prolongada temporada de estudos filosóficos e teológicos, culminados em Paris. Lá se formou ao seu redor um grupo de companheiros, com os quais se apresentou ao papa Paulo III. A ele expuseram seu ideal: defesa e propagação da fé e disponibilidade absoluta ao Romano Pontífice em relação a qualquer missão que este quisesse lhes confiar para a expansão missionária do Evangelho e a reforma da Igreja. A espiritualidade da Companhia de Jesus tem seu ponto central nos Exercícios espirituais, que compendiam a experiência interior de Inácio. O Papa Gregório XV o inscreveu entre os santos em 1622.",
@@ -964,7 +964,7 @@
         "places": "Santos Primeiros Mártires da Igreja Romana",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
-        "place_of_burial": "",
+        "place_of_burial": "Beata Maria Virgem de Lourdes",
         "notes": "A basílica de Santa Maria Maior foi erguida no monte Esquilino, em Roma, pelo papa Sisto III (432-440). Foi dedicada à Virgem Maria, que o Concílio Ecumênico de Éfeso, no ano 431, havia reconhecido como \"Mãe de Deus\". Foi o primeiro santuário mariano no Ocidente, no qual inúmeras outras igrejas seriam dedicadas à Virgem. A dedicação da basílica em 5 de agosto é lembrada no Martirológio Jeronimiano (séc. V-VI).",
         "patronage": "",
         "main_shrine": "Basílica Santa Maria Maior"
@@ -972,8 +972,8 @@
     "Transfiguration_102": {
         "subject": "Transfiguração do Senhor",
         "places": "N/A",
-        "place_of_death": "",
-        "place_of_birth": "",
+        "place_of_death": "Beata Maria Virgem de Lourdes",
+        "place_of_birth": "Beata Maria Virgem de Lourdes",
         "place_of_burial": "Aosta (Itália), Canterbury (Reino Unido)",
         "notes": "No monte, na companhia de Pedro, Tiago e João, Jesus é transfigurado \"diante deles\" (Mt 17, 2): o véu cai dos olhos dos discípulos e estes, por dom de Deus, veem a identidade divina que transparece da humanidade de Cristo. O Filho do homem que se encaminhou para a cruz (cf. Mc 8, 31-34) é o Filho de Deus, revelação definitiva do Pai. A Lei e os Profetas tendem a Cristo e a ele o Pai dá testemunho: \"Este é o meu Filho amado: escutai-o!\" (Mc 9, 7). Envolto naquela glória que tinha junto ao Pai antes que o mundo existisse (cf. Jo 1, 14), Cristo antecipa e prefigura sua vinda gloriosa no último dia, para transfigurar todas as coisas. Foi o papa Calisto III em 1457 que estendeu esta festa à Igreja universal.",
         "patronage": "",
@@ -981,8 +981,8 @@
     },
     "StSixtusIIPope_103": {
         "subject": "Santos Sisto II, papa, e companheiros mártires",
-        "places": "Santos Marcelino e Pedro, mártires",
-        "place_of_death": "Santos Marcelino e Pedro, mártires",
+        "places": "Basílica de São Tiago, Santiago (Espanha)",
+        "place_of_death": "Basílica de São Tiago, Santiago (Espanha)",
         "place_of_birth": "Grécia",
         "place_of_burial": "Basílica de São Sisto Vecchio, Roma, Itália",
         "notes": "Sisto, papa (257-258), segundo o testemunho de São Cipriano de Cartago, foi preso no cemitério de Calisto, na via Ápia, durante a perseguição com que o imperador Valeriano quis atingir os líderes da Igreja. Executado em 6 de agosto de 258, junto com quatro diáconos, foi sepultado no mesmo cemitério de Calisto. Seguirá no martírio, após três dias, outro diácono, São Lourenço. É lembrado no Cânone Romano.",
@@ -1041,7 +1041,7 @@
     },
     "StsPontianHippolytus_109": {
         "subject": "Santos Ponciano, papa, e Hipólito, sacerdote, mártires",
-        "places": "Santos Marcelino e Pedro, mártires",
+        "places": "Basílica de São Tiago, Santiago (Espanha)",
         "place_of_death": "Sardenha, Itália",
         "place_of_birth": "Lourdes (França)",
         "place_of_burial": "Catacumbas de Calisto, Roma, Itália",
@@ -1081,7 +1081,7 @@
     },
     "StBernardClairvaux_113": {
         "subject": "São Bernardo de Claraval, abade e doutor da Igreja",
-        "places": "Claraval, França; Troyes, França",
+        "places": "Chiaravalle (França); Troyes, (França)",
         "place_of_death": "Claraval, França",
         "place_of_birth": "Fontaine-lès-Dijon, França",
         "place_of_burial": "Catedral de Troyes, França",
@@ -1092,7 +1092,7 @@
     "StPiusX_114": {
         "subject": "São Pio X, papa",
         "places": "Fátima (Portugal)",
-        "place_of_death": "Santos Marcelino e Pedro, mártires",
+        "place_of_death": "Basílica de São Tiago, Santiago (Espanha)",
         "place_of_birth": "Riese, Treviso, Itália",
         "place_of_burial": "Basílica de São Pedro no Vaticano",
         "notes": "Giuseppe Melchiorre Sarto (Riese, Treviso, 2 de junho de 1835 - Roma, 20 de agosto de 1914) como vigário paroquial e pároco, dedicou-se particularmente tanto ao campo litúrgico e catequético quanto ao caritativo, assistindo os doentes de cólera. Foi bispo de Mântua, depois patriarca de Veneza e cardeal. Eleito papa em 1903, trouxe ao ministério petrino sua rica experiência pastoral, promovendo reformas especialmente na liturgia, na música sacra e na catequese. Em um tempo culturalmente tumultuado, permaneceu firme em preservar o vínculo com a tradição da Igreja. Mesmo no pontificado, manteve aquela austeridade de vida que caracterizou suas origens.",
@@ -1101,9 +1101,9 @@
     },
     "QueenshipMary_115": {
         "subject": "Beata Virgem Maria Rainha",
-        "places": "",
+        "places": "Beata Maria Virgem de Lourdes",
         "place_of_death": "Lourdes (França)",
-        "place_of_birth": "",
+        "place_of_birth": "Beata Maria Virgem de Lourdes",
         "place_of_burial": "Lourdes (França)",
         "notes": "Foi na Idade Média que se começou a invocar comumente a Virgem Maria como Rainha (Salve, Rainha) e a representá-la coroada pelo Filho, expressando assim sua plena participação na realeza universal de Cristo. Nesta memória litúrgica, instituída por Pio XII em 1955 e colocada, após a reforma seguida ao Vaticano II, na luz da solenidade de Maria assunta ao céu, a Virgem é proposta como modelo e sinal de esperança para todos os cristãos que, já revestidos da dignidade real do Senhor no Batismo, são chamados a reinar eternamente com ele.",
         "patronage": "",
@@ -1131,9 +1131,9 @@
     },
     "StLouis_118": {
         "subject": "São Luís IX",
-        "places": "Monreale, Sicília, Itália; Saint-Denis, França",
+        "places": "Monreale (Sicília, Itália); Saint-Denis (França)",
         "place_of_death": "Túnis, Tunísia",
-        "place_of_birth": "Poissy; França",
+        "place_of_birth": "Poissy (França)",
         "place_of_burial": "Catedral de Monreale, Sicília; Basílica de Saint-Denis, França",
         "notes": "Luís (ou Ludovico) IX (Poissy, França, 1214 - Túnis, 25 de agosto de 1270), rei da França, governou com justiça, reprimindo os abusos dos funcionários e promovendo a paz em muitos conflitos. Dedicava muito tempo à oração, praticando a penitência e a caridade para com os pobres e doentes. Morreu de peste durante a Cruzada que empreendeu para a libertação de Jerusalém.",
         "patronage": "",
@@ -1141,8 +1141,8 @@
     },
     "StJosephCalasanz_119": {
         "subject": "São José de Calasanz, sacerdote",
-        "places": "Santos Marcelino e Pedro, mártires",
-        "place_of_death": "Santos Marcelino e Pedro, mártires",
+        "places": "Basílica de São Tiago, Santiago (Espanha)",
+        "place_of_death": "Basílica de São Tiago, Santiago (Espanha)",
         "place_of_birth": "Peralta de la Sal, Espanha",
         "place_of_burial": "Igreja de São Pantaleão, Roma, Itália",
         "notes": "José (Peralta de la Sal, Espanha, 1557 - Roma, 25 de agosto de 1646), de família nobre, seguiu a carreira eclesiástica, indo a Roma em busca de uma colocação adequada. Lá, encontrou muitas iniciativas de assistência aos pobres e doentes, e colaborou com São Camilo de Lellis. Preocupado com a situação dos meninos pobres, sem educação adequada, abriu escolas gratuitas para eles e fundou a Congregação dos Clérigos Regulares Pobres da Mãe de Deus das Escolas Pias (Escolápios).",
@@ -1152,7 +1152,7 @@
     "StMonica_120": {
         "subject": "Santa Mônica",
         "places": "Aosta (Itália), Canterbury (Reino Unido)",
-        "place_of_death": "Óstia, Itália",
+        "place_of_death": "Ostia (Itália)",
         "place_of_birth": "Tagaste (atual Souk Ahras), Argélia",
         "place_of_burial": "Lourdes (França)",
         "notes": "Mônica (Tagaste, atual Souk Ahras, Argélia, 331 - Óstia, Roma, 387), nascida em uma família cristã, casou-se com o pagão Patrício e foi mãe de Agostinho. Após dar ao filho a primeira educação cristã, esperou por anos, entre lágrimas e orações, que ele chegasse à verdadeira fé. Viúva, seguiu Agostinho até Milão, onde pôde se alegrar com sua conversão, culminando no Batismo. Durante a viagem de volta para a África, alcançou a verdadeira pátria.",
@@ -1173,7 +1173,7 @@
         "subject": "Martírio de São João Batista",
         "places": "Aosta (Itália), Canterbury (Reino Unido)",
         "place_of_death": "Macheronte, Jordânia",
-        "place_of_birth": "Ein Kerem",
+        "place_of_birth": "Ein Kerem (Palestina)",
         "place_of_burial": "Sebaste, Palestina; o sagrado crânio (sem a mandíbula) é venerado na basílica de São Silvestre in Capite, em Roma, desde o século XII; a “sagrada mandíbula” está em Viterbo. Outros crânios: um exposto na catedral de Notre-Dame de Amiens, trazido de Constantinopla em 1206 durante a quarta cruzada; um na Grande Mesquita de Damasco. Em 2012, foram analisadas algumas relíquias encontradas na Bulgária, perto de Sozopol; os resultados das análises estabeleceram que datam do século I, e pelas inscrições da urna acredita-se que as relíquias pertenciam a São João Batista.",
         "notes": "João Batista, após indicar aos seus discípulos o Cordeiro finalmente aparecido no mundo (cf. Jo 1, 29.36), sela seu testemunho com o martírio. A «voz» (Jo 1, 23) é silenciada por Herodes Antipas, que o faz aprisionar na fortaleza de Macheronte e decapitar (cf. Mc 6, 17-29). «Foi encerrado na escuridão da prisão aquele que veio dar testemunho da luz (cf. Jo 1, 7) e que pela mesma luz, que é Cristo, mereceu ser chamado lâmpada que arde e ilumina (cf. Jo 5, 35)» (Beda, o Venerável). Antiga (séc. V) é a memória litúrgica de seu martírio.",
         "patronage": "",
@@ -1182,8 +1182,8 @@
     "StGregoryGreat_123": {
         "subject": "São Gregório Magno, papa e doutor",
         "places": "Santos Primeiros Mártires da Igreja Romana",
-        "place_of_death": "Santos Marcelino e Pedro, mártires",
-        "place_of_birth": "Santos Marcelino e Pedro, mártires",
+        "place_of_death": "Basílica de São Tiago, Santiago (Espanha)",
+        "place_of_birth": "Basílica de São Tiago, Santiago (Espanha)",
         "place_of_burial": "Basílica de São Pedro no Vaticano",
         "notes": "Gregório (Roma, meados do séc. VI - 12 de março de 604), já prefeito da Urbe, foi monge e abade de Santo André no Célio, bem como enviado papal a Constantinopla. Eleito pontífice (590), desempenhou uma atividade multifacetada tanto no governo da Igreja quanto na administração da cidade, no dramático contexto das invasões de povos germânicos. Abriu novos caminhos para a missão, por exemplo na Ânglia, e dedicou particular atenção à liturgia e ao cuidado dos pobres. Com seus escritos de conteúdo pastoral, exegético e hagiográfico, suas cartas e homilias, foi um dos grandes mestres da Idade Média. A data da memória litúrgica corresponde ao dia de sua eleição ao pontificado.",
         "patronage": "",
@@ -1191,7 +1191,7 @@
     },
     "NativityVirginMary_124": {
         "subject": "Natividade da Bem-Aventurada Virgem Maria",
-        "places": "",
+        "places": "Beata Maria Virgem de Lourdes",
         "place_of_death": "Jerusalém",
         "place_of_birth": "Jerusalém ou Séforis",
         "place_of_burial": "Monte das Oliveiras",
@@ -1222,7 +1222,7 @@
     "LadySorrows_127": {
         "subject": "Bem-Aventurada Virgem Maria das Dores",
         "places": "N/A",
-        "place_of_death": "",
+        "place_of_death": "Beata Maria Virgem de Lourdes",
         "place_of_birth": "Aosta (Itália), Canterbury (Reino Unido)",
         "place_of_burial": "N/A",
         "notes": "A devoção à Nossa Senhora das Dores teve grande desenvolvimento nos últimos séculos da Idade Média, expressando-se tanto na poesia religiosa (Stabat Mater) quanto na representação da Pietà. A memória litúrgica foi introduzida por Pio VII em 1814, também em referência aos sofrimentos enfrentados pela Igreja naqueles anos. Através da íntima união com o Filho, a maternidade de Maria se estende a toda a humanidade redimida por Cristo na cruz (cf. Jo 19, 25-27). A devoção à Virgem das Dores desenvolve-se a partir do final do século XI, com uma primeira menção às celebrações de seus 5 gozos e suas cinco dores, simbolizadas por 5 espadas, antecipando a celebração litúrgica instituída mais tarde. Quando um desconhecido escreveu o Liber de passione Christi et dolore et planctu Matris eius, começaram as composições sobre o tema do Lamento da Virgem. No século XII, também após aparições da Virgem, houve um aumento desse culto e a composição do Stabat Mater atribuído a Jacopone da Todi. Mas sua história tem um início preciso: em 15 de agosto de 1233, quando sete nobres florentinos inscritos na Arte dos Mercadores e poetas-atores da companhia dos Laudesi costumavam expressar seu amor a Maria em louvores diante de uma imagem pintada na parede de uma rua, como os jograis faziam com a mulher amada. De repente, viram a imagem se animar, aparecer dolorosa e vestida de luto pelo ódio fratricida que dividia Florença. Esses jovens largaram as armas, vestiram-se de luto, instituíram a companhia de Maria das Dores, chamada dos Servitas, e retiraram-se em penitência e oração no Monte Sanário. Com o passar dos séculos, foram criadas várias expressões de devoção: a Madonna aos pés da Cruz; a Companhia do hábito; a Confraria das Sete Dores aprovada por Roma em 1645; a Terceira Ordem; a Coroa das Dores; as várias Congregações femininas das Dores, etc. Entre 1668 e 1690, as iniciativas de culto por parte dos Servos de Maria favoreceram a difusão do culto da Madonna das Dores. Enquanto isso, em 9 de junho de 1668, a S. Congregação dos Ritos permitiu à Ordem celebrar a missa votiva dos Sete Dores da Bem-Aventurada Virgem. No decreto correspondente, mencionava-se que os Servos de Maria usavam o hábito preto em memória da viuvez de Maria e das dores que ela suportou na paixão do Filho. Inicialmente, o culto da Nossa Senhora das Dores estava ligado à Semana Santa, depois surgiu sua festa, originalmente celebrada na sexta-feira antes da Semana Santa ou após a Páscoa e, finalmente, em 15 de setembro, em relação à festa da Exaltação da Santa Cruz, celebrada no dia anterior. Ainda hoje, em alguns locais, é celebrada nas datas antigas. O culto da Nossa Senhora das Dores também é sublinhado pela difusão das orações à Nossa Senhora das Dores e pela recitação do rosário dos sete dores, especialmente na Semana Santa.",
@@ -1241,9 +1241,9 @@
     },
     "StRobertBellarmine_129": {
         "subject": "São Roberto Belarmino, bispo e doutor",
-        "places": "",
-        "place_of_death": "Santos Marcelino e Pedro, mártires",
-        "place_of_birth": "Montepulciano, Siena, Itália",
+        "places": "Beata Maria Virgem de Lourdes",
+        "place_of_death": "Andechs (Baviera)",
+        "place_of_birth": "Montepulciano (Siena, Itália)",
         "place_of_burial": "Igreja de Santo Inácio, Roma, Itália",
         "notes": "Roberto (Montepulciano, Siena, 4 de outubro de 1542 - Roma, 17 de setembro de 1621), jesuíta, empregou sua notável competência teológica tanto em complexas controvérsias doutrinais (Disputationes de controversiis christianae fidei), quanto na redação de um catecismo popular. Cardeal e arcebispo de Cápua, deu exemplar aplicação ao Concílio de Trento, até que os pesados compromissos romanos o levaram a deixar a diocese para se dedicar inteiramente ao serviço da Igreja universal.",
         "patronage": "",
@@ -1274,7 +1274,7 @@
         "places": "Beata Virgem Maria de Fátima",
         "place_of_death": "Ciro, Síria",
         "place_of_birth": "Egea (hoje Yumurtalık), Turquia",
-        "place_of_burial": "O bispo de Ciro, Teodoreto († 458), já fala da divisão de suas relíquias, enviadas para as numerosas igrejas já surgidas em sua honra (em Jerusalém, no Egito, na Mesopotâmia); o imperador Justiniano I e o patriarca Proclo dedicaram aos santos uma basílica em Constantinopla que se tornou destino de numerosas peregrinações; também em Roma o papa Félix IV (526 - 530) edificou, no local do antigo Templum Romuli e da Bibliotheca Pacis, no Templo da Paz, uma basílica em sua homenagem e favoreceu o culto em oposição ao dos pagãos Castor e Pólux. Os crânios dos santos foram transladados de Roma no século X e levados para Bremen: em 1581 Maria, filha de Carlos V, os doou à igreja do convento das clarissas de Madri: as mesmas relíquias são, no entanto, veneradas também na igreja de São Miguel Arcanjo em Munique, onde, segundo a inscrição no relicário, foram colocadas no século XV. O primeiro documento que atesta a presença das relíquias dos braços dos Santos em Bitonto é de 1572.",
+        "place_of_burial": "O bispo de Cirro, Teodoreto († 458), já fala da divisão de suas relíquias, enviadas às numerosas igrejas já surgidas em sua honra (em Jerusalém, no Egito, na Mesopotâmia); o imperador Justiniano I e o patriarca Proclo dedicaram aos santos uma basílica em Constantinopla que se tornou destino de numerosas peregrinações; também em Roma, o papa Félix IV (526 - 530) edificou, no local do antigo Templum Romuli e da Bibliotheca Pacis, no Templo da Paz, uma basílica dedicada a eles e favoreceu seu culto em oposição ao dos pagãos Castor e Pólux. Os crânios dos santos foram trasladados de Roma no século X e levados para Bremen: em 1581, Maria, filha de Carlos V, os doou à igreja do convento das clarissas de Madri: as mesmas relíquias são, no entanto, veneradas também na igreja de São Miguel Arcanjo em Munique, onde, de acordo com a inscrição no relicário, foram colocadas no século XV. O primeiro documento que atesta a presença das relíquias dos braços dos Santos em Bitonto é de 1572.",
         "notes": "Cosme e Damião (séc. III-IV), segundo a tradição, foram dois médicos anárgiros (ou seja, «sem pedir dinheiro» em troca de seus cuidados). Sofreram o martírio em Ciro (Síria). Seu culto se difundiu a partir da segunda metade do século IV; uma basílica foi edificada em sua honra em Roma pelo papa Félix IV (526-530). Seus nomes foram inseridos no Cânone Romano.",
         "patronage": "",
         "main_shrine": "Basílica dos Santos Cosme e Damião, Roma"
@@ -1321,7 +1321,7 @@
     },
     "StThereseChildJesus_137": {
         "subject": "Santa Teresa do Menino Jesus, virgem e doutora da Igreja",
-        "places": "Alençon, França; Lisieux, França",
+        "places": "Alençon (França); Lisieux (França)",
         "place_of_death": "Lisieux, França",
         "place_of_birth": "Alençon, França",
         "place_of_burial": "Carmelo de Lisieux, França",
@@ -1381,8 +1381,8 @@
     },
     "StJohnLeonardi_143": {
         "subject": "São Giovanni Leonardi, sacerdote",
-        "places": "Santos Marcelino e Pedro, mártires",
-        "place_of_death": "Santos Marcelino e Pedro, mártires",
+        "places": "Basílica de São Tiago, Santiago (Espanha)",
+        "place_of_death": "Basílica de São Tiago, Santiago (Espanha)",
         "place_of_birth": "Diecimo (Lucca), Itália",
         "place_of_burial": "Igreja de Santa Maria in Campitelli, Roma, Itália",
         "notes": "Giovanni (Diecimo, Lucca, 1541 - Roma, 9 de outubro de 1609) se dedicou à instrução religiosa dos jovens, envolvendo leigos adultos na «Companhia da Doutrina Cristã». Promoveu a renovação do clero com a «Confraria dos Padres Reformados da Beata Virgem», posteriormente chamados de Clérigos Regulares da Mãe de Deus. Em Roma, encontrou-se com São Filipe Néri e participou do impulso missionário da época, colaborando no projeto da futura Congregação de Propaganda Fide e de um colégio para a formação de missionários ad gentes.",
@@ -1391,8 +1391,8 @@
     },
     "StCallistusIPope_144": {
         "subject": "São Calisto I, papa e mártir",
-        "places": "Santos Marcelino e Pedro, mártires",
-        "place_of_death": "Santos Marcelino e Pedro, mártires",
+        "places": "Andechs (Baviera)",
+        "place_of_death": "Andechs (Baviera)",
         "place_of_birth": "N/A",
         "place_of_burial": "Cemitério de Calepódio, Via Aurelia, Roma",
         "notes": "Calisto, um ex-escravo, foi papa de 218 a 222. Ligou seu nome ao primeiro cemitério oficial da Igreja de Roma, na Via Ápia. Sofreu por conflitos internos na comunidade cristã e foi martirizado em Roma, no local onde se ergue a igreja que leva seu nome. Seu sepultamento no cemitério de Calepódio, na Via Aurelia, é lembrado em 14 de outubro na Depositio martyrum (336).",
@@ -1411,9 +1411,9 @@
     },
     "StHedwig_146": {
         "subject": "Santa Edviges, religiosa",
-        "places": "Trzebnica, Polônia",
-        "place_of_death": "Trzebnica, Polônia",
-        "place_of_birth": "Andechs, Baviera",
+        "places": "Trzebnica (Polônia)",
+        "place_of_death": "Trzebnica (Polônia)",
+        "place_of_birth": "Andechs (Baviera)",
         "place_of_burial": "Abadia de Trzebnica, Polônia",
         "notes": "Edviges (Andechs, Baviera, cerca de 1180 - Trzebnica, Polônia, 15 de outubro de 1243), duquesa da Silésia e mãe de sete filhos, preferiu a oração e se dedicou a aliviar o sofrimento dos pobres. Após a morte de seis filhos e do marido, retirou-se para o mosteiro cisterciense de Trzebnica, que ela fundou: ali sua ascese, feita de penitência e caridade, tornou-se ainda mais rigorosa.",
         "patronage": "",
@@ -1425,14 +1425,14 @@
         "place_of_death": "Paray-le-Monial, França",
         "place_of_birth": "Verosvres, França",
         "place_of_burial": "Capela da Visitação, Paray-le-Monial, França",
-        "notes": "Margarida (Verosvres, França, 22 de julho de 1647 - Paray-le-Monial, 17 de outubro de 1690), entrou no mosteiro das Visitandinas de Paray-le-Monial, onde também assumiu o nome de Maria, experimentou um amor intenso por Cristo, enriquecido com graças particulares. Cultivou especialmente a devoção ao Sagrado Coração de Jesus e promoveu sua difusão",
+        "notes": "Margarida (Verosvres, França, 22 de julho de 1647 - Paray-le-Monial, 17 de outubro de 1690), entrou no mosteiro das Visitandinas de Paray-le-Monial, onde também assumiu o nome de Maria, experimentou um amor intenso por Cristo, enriquecido com graças particulares. Cultivou especialmente a devoção ao Coração de Jesus e promoveu sua difusão.",
         "patronage": "",
         "main_shrine": "Capela da Visitação, Paray-le-Monial, França"
     },
     "StIgnatiusAntioch_148": {
         "subject": "Santo Inácio de Antioquia, bispo e mártir",
-        "places": "Santos Marcelino e Pedro, mártires",
-        "place_of_death": "Santos Marcelino e Pedro, mártires",
+        "places": "Basílica de São Tiago, Santiago (Espanha)",
+        "place_of_death": "Basílica de São Tiago, Santiago (Espanha)",
         "place_of_birth": "Antioquia da Síria (atual Antakya), Turquia",
         "place_of_burial": "Basílica de São Clemente, Roma, Itália",
         "notes": "Inácio, bispo de Antioquia da Síria (atual Antakya, Turquia), no tempo do imperador Trajano (98-117) foi preso como cristão e levado a Roma para ser jogado às feras no circo. Em sua viagem, foi confortado pelo encontro com algumas Igrejas da Ásia Menor, às quais deixou sete cartas que chegaram até nós, documento vivo de sua doutrina e solicitude pastoral, testemunho de seu desejo de seguir Cristo até o martírio. Diante de algumas divisões, ele insistiu para que as comunidades cristãs mantivessem a concórdia, alcançada na única mesa eucarística, sob a orientação do bispo com seu presbitério. Sua memória é celebrada em 17 de outubro na tradição síria; seu nome foi inserido no Cânone Romano.",
@@ -1451,8 +1451,8 @@
     },
     "StsJeanBrebeuf_150": {
         "subject": "Santos João de Brébeuf e Isaac Jogues, sacerdotes e companheiros mártires",
-        "places": "Midland, Canadá; Auriesville, Nova York, EUA",
-        "place_of_death": "Midland, Canadá",
+        "places": "Midland (Canadá); Auriesville (Nova York, EUA)",
+        "place_of_death": "Midland (Canadá)",
         "place_of_birth": "Condé-sur-Vire, França",
         "place_of_burial": "Aosta (Itália), Canterbury (Reino Unido)",
         "notes": "João (Condé-sur-Vire, França, 15 de março de 1594 - Midland, Canadá, 16 de março de 1649), missionário jesuíta entre os Hurões, no atual Canadá, foi morto em um ataque à missão por outras tribos inimigas. Poucos meses depois, seu companheiro na missão Isaac Jogues (Orléans, França, 10 de janeiro de 1607 - Auriesville, EUA, 18 de outubro de 1649) seguiu-o no martírio; com eles são lembrados outros seis mártires jesuítas. Compartilharam com mansidão evangélica a vida dessas populações, até a doação total de si mesmos.",
@@ -1462,7 +1462,7 @@
     "StPaulCross_151": {
         "subject": "São Paulo da Cruz, sacerdote",
         "places": "Ovada, Alessandria, Itália; Monte Argentario, Itália; Roma, Itália",
-        "place_of_death": "Santos Marcelino e Pedro, mártires",
+        "place_of_death": "Andechs (Baviera)",
         "place_of_birth": "Ovada, Alessandria, Itália",
         "place_of_burial": "Basílica dos Santos João e Paulo no Célio, Roma, Itália",
         "notes": "Paulo Danei (Ovada, Alessandria, 3 de janeiro de 1694 - Roma, 18 de outubro de 1775), atraído pela veneração ao Crucifixo, tornou-se penitente em solidão, depois dedicou-se à pregação. Reuniu ao seu redor um primeiro grupo de \"pobres de Jesus\", do qual posteriormente nasceu a Congregação da Paixão de Jesus Cristo (Passionistas): seus membros se comprometem a difundir a devoção à Paixão, especialmente por meio de missões populares. Também deu origem às monjas passionistas, com mosteiros que fossem escolas de vida espiritual também para outras mulheres. No momento da profissão, assumiu o nome de Paulo da Cruz, que expressa bem o centro de sua vida e missão.",
@@ -1491,7 +1491,7 @@
     },
     "StSimonStJudeAp_154": {
         "subject": "Santos Simão e Judas, apóstolos",
-        "places": "Roma, Itália; Lanciano, Itália",
+        "places": "Roma (Itália); Lanciano (Itália)",
         "place_of_death": "Pérsia",
         "place_of_birth": "Simão: presumivelmente Cana; Judas Tadeu talvez Banias",
         "place_of_burial": "Aosta (Itália), Canterbury (Reino Unido)",
@@ -1531,8 +1531,8 @@
     },
     "StLeoGreat_160": {
         "subject": "São Leão Magno, papa e doutor",
-        "places": "Santos Marcelino e Pedro, mártires",
-        "place_of_death": "Santos Marcelino e Pedro, mártires",
+        "places": "Andechs (Baviera)",
+        "place_of_death": "Andechs (Baviera)",
         "place_of_birth": "Volterra ou Anghiara, Itália",
         "place_of_burial": "Basílica de São Pedro no Vaticano",
         "notes": "Leão, chamado Magno pela grandeza de sua obra e de seu magistério, como bispo de Roma governou a Igreja por vinte e um anos (440-461). Sua figura emerge com relevância histórica universal no diálogo entre o Oriente e o Ocidente, e no encontro-confronto entre o mundo latino e as novas populações europeias. Mestre e mistagogo, centrou sua missão no mistério de Cristo homem-Deus, professado na doutrina do Verbo encarnado (Concílio de Calcedônia, 451), atualizado nas celebrações litúrgicas (Sermões sobre os mistérios), testemunhado na vida: «realizar nas obras o que é celebrado no sacramento». Ao seu nome está ligado o fundo eucológico mais antigo do Missal Romano (Sacramentário Veronense, a ele atribuído pela tradição). Sua «deposição» em 10 de novembro é lembrada pelo Martirológio Jeronimiano (séc. V-VI) e pelo Calendário de São Willibrordo (séc. VIII).",
@@ -1542,7 +1542,7 @@
     "StMartinTours_161": {
         "subject": "São Martinho de Tours, bispo",
         "places": "Aosta (Itália), Canterbury (Reino Unido)",
-        "place_of_death": "Candes-Saint-Martin, França",
+        "place_of_death": "Candes-Saint-Martin (França)",
         "place_of_birth": "Sabaria (atual Szombathely), Hungria",
         "place_of_burial": "Basílica de São Martinho, Tours, França",
         "notes": "Martinho (Sabaria, atual Szombathely, Hungria, 316/317 - Candes-Saint-Martin, França, 8 de novembro de 397), filho de um militar pagão, foi também encaminhado às armas. Tornando-se cristão, abandonou o exército e entrou em contato com o bispo Hilário de Poitiers. Dedicou-se então à vida eremítica, primeiro na ilha de Gallinara (Savona), depois em Ligugé, perto de Poitiers. Eleito, contra sua vontade, bispo de Tours, manteve seu estilo de vida e fundou perto da cidade o mosteiro de Marmoutier. Contribuiu significativamente para a difusão do cristianismo nas áreas rurais e, por isso, seu culto tornou-se muito popular, especialmente no meio rural. A memória litúrgica corresponde ao dia do sepultamento, ocorrido em 11 de novembro em Tours e lembrado no Martirológio Jeronimiano (séc. V-VI).",
@@ -1551,7 +1551,7 @@
     },
     "StJosaphat_162": {
         "subject": "São Josafá, bispo e mártir",
-        "places": "",
+        "places": "Beata Maria Virgem de Lourdes",
         "place_of_death": "Vicebsk, Bielorrússia",
         "place_of_birth": "Volodymyr-Volyn'kyj, Ucrânia",
         "place_of_burial": "Basílica de São Pedro no Vaticano",
@@ -1601,7 +1601,7 @@
     },
     "DedicationStsPeterPaul_167": {
         "subject": "Dedicação das basílicas dos Santos Pedro e Paulo, apóstolos",
-        "places": "",
+        "places": "Roma (Itália); Lanciano (Itália)",
         "place_of_death": "N/A",
         "place_of_birth": "Beata Virgem Maria de Fátima",
         "place_of_burial": "Fátima (Portugal)",
@@ -1617,7 +1617,7 @@
         "place_of_burial": "Monte das Oliveiras, Jerusalém",
         "notes": "O episódio da apresentação de Maria, aos três anos de idade, no Templo de Jerusalém, é narrado no Protoevangelho de Tiago, texto apócrifo do século II. O gesto, não prescrito pela Lei, indica a total pertença da Virgem a Deus desde a infância. É uma das principais festas marianas da Igreja Ortodoxa.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Roma (Itália); Lanciano (Itália)"
     },
     "StCecilia_169": {
         "subject": "Santa Cecília, virgem e mártir",
@@ -1707,7 +1707,7 @@
         "place_of_burial": "Fátima (Portugal)",
         "notes": "Desde os séculos VII-VIII no Oriente, nove meses exatos antes da festa da Natividade (8 de setembro), era celebrada uma festa da \"conceição\" de Maria. Celebrada depois no Ocidente a partir do século XI, esta solenidade se insere no contexto do Advento-Natal, unindo a espera messiânica e o retorno glorioso de Cristo com a memória admirada da Mãe. Nesse sentido, este período litúrgico deve ser considerado um tempo particularmente adequado para o culto da Mãe do Senhor (cf. Paulo VI, Marialis cultus, 4). Maria é a Toda Santa, imune de toda mancha de pecado, quase moldada pelo Espírito Santo e feita nova criatura (cf. Lumen gentium, 56). Já profeticamente insinuada na promessa feita aos progenitores da vitória sobre a serpente, Maria é a Virgem que conceberá e dará à luz um filho cujo nome será Emanuel. O dogma da Imaculada Conceição foi proclamado por Pio IX em 1854",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Roma (Itália); Lanciano (Itália)"
     },
     "StDamasusIPope_178": {
         "subject": "São Dâmaso I, papa",
@@ -1934,7 +1934,7 @@
         "places": "Auschwitz; Niepokalanow, Polônia; Nagasaki, Japão; Roma",
         "place_of_death": "Auschwitz, Polônia",
         "place_of_birth": "Zduńska Wola, Polônia",
-        "place_of_burial": "",
+        "place_of_burial": "Roma (Itália); Lanciano (Itália)",
         "notes": "Massimiliano Maria, ao século Raimundo (Zduńska Wola, Polônia, 8 de janeiro de 1894 - Auschwitz, 14 de agosto de 1941), entrou entre os Franciscanos Menores Conventuais e foi ordenado presbítero, fundou, com o nome de «Milícia de Maria Imaculada», uma pia união de apostolado caracterizada pela difusão do culto mariano, na Europa e na Ásia, mediante publicações e obras de assistência social. Preso durante a ocupação nazista da Polônia, foi enviado para trabalhos forçados no campo de Auschwitz. Lá, ofereceu-se para substituir um companheiro de prisão, pai de família, condenado à morte, com outros nove, em represália à fuga de um prisioneiro. O generoso sacrifício de Massimiliano, após mais de duas semanas no bunker da fome, se consumou na véspera da festa da Assunção de Maria ao céu. Uma luz de fraternidade em um dos momentos mais sombrios da história humana.",
         "patronage": "",
         "main_shrine": "Niepokalanów, Polônia"
@@ -2091,7 +2091,7 @@
     },
     "StsPaulMiki_222": {
         "subject": "Santos Paulo Miki e companheiros, mártires",
-        "places": "",
+        "places": "Roma (Itália); Lanciano (Itália)",
         "place_of_death": "Nagasaki, Japão",
         "place_of_birth": "Quioto (Japão)",
         "place_of_burial": "Aosta (Itália), Canterbury (Reino Unido)",
@@ -2101,7 +2101,7 @@
     },
     "StJeromeEmiliani_223": {
         "subject": "São Jerônimo Emiliani",
-        "places": "",
+        "places": "Roma (Itália); Lanciano (Itália)",
         "place_of_death": "Somasca, Lecco, Itália",
         "place_of_birth": "Veneza (Itália)",
         "place_of_burial": "Santuário de São Jerônimo Emiliani em Vercurago de Somasca (Lecco, Itália)",
@@ -2141,7 +2141,7 @@
     },
     "StCasimir_244": {
         "subject": "São Casimiro",
-        "places": "",
+        "places": "Roma (Itália); Lanciano (Itália)",
         "place_of_death": "Hrodna (Bielorrússia)",
         "place_of_birth": "Cracóvia",
         "place_of_burial": "Vilnius (Lituânia)",
@@ -2237,7 +2237,7 @@
         "place_of_burial": "La sua testa foi levada para Feldkirch (atualmente na Áustria), enquanto o resto do corpo foi sepultado na Catedral de Coira (Suíça), onde ainda descansam seus restos mortais.",
         "notes": "Fedele, ao século Marco (Sigmaringen, Alemanha, 1578 - Seewis im Prättigau, Suíça, 24 de abril de 1622), capuchinho, doutor em utroque iure, liderou a primeira missão promovida pela Congregação de Propaganda Fide, ainda em fase de constituição, para os territórios onde a Reforma Protestante havia se espalhado. No clima de forte tensão interna nos Grisões, agravado pelas pressões políticas internacionais, a pregação dos religiosos católicos provocou reações violentas, diante das quais Fedele testemunhou Cristo até a morte.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Roma (Itália); Lanciano (Itália)"
     },
     "StPeterChanel_262": {
         "subject": "São Pedro Chanel, sacerdote e mártir",
@@ -2437,7 +2437,7 @@
         "place_of_burial": "Convento da Anunciação, Villafranca del Bierzo, Espanha",
         "notes": "Lorenzo (Brindisi, 22 de julho de 1559 - Lisboa, Portugal, 22 de julho de 1619), religioso capuchinho, destacou-se pelo conhecimento das línguas e da Sagrada Escritura. Envolvido em uma vasta atividade de pregação por toda a Europa, frequentemente encarregado de missões diplomáticas em nome da Santa Sé, cultivou uma fervorosa vida espiritual, especialmente na celebração devota e prolongada da Eucaristia. A igreja de Santa Maria dos Anjos em Brindisi foi construída pelo santo Lorenzo de Brindisi em terrenos de sua propriedade.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Roma (Itália); Lanciano (Itália)"
     },
     "StBridget_307": {
         "subject": "Santa Brígida, religiosa",
@@ -2914,7 +2914,7 @@
         "places": "Colônia, Alemanha; Auschwitz, Polônia",
         "place_of_death": "Auschwitz, Polônia",
         "place_of_birth": "Breslávia, Polônia",
-        "place_of_burial": "",
+        "place_of_burial": "Roma (Itália); Lanciano (Itália)",
         "notes": "Edith Stein (Breslávia, Polônia, 12 de outubro de 1891 - Auschwitz, 9 de agosto de 1942), judia, dedicou-se com paixão, ótimos resultados e prestigiados reconhecimentos à pesquisa e ao ensino filosófico. Convertida ao cristianismo, tornou-se monja no Carmelo de Colônia, com o nome de Teresa Benedita da Cruz. Com o surgimento da perseguição nazista contra os judeus, foi transferida por prudência para o mosteiro de Echt (Holanda). Quando, em resposta ao protesto dos bispos holandeses, Hitler ordenou a prisão e deportação também dos cristãos de origem judaica, Teresa, junto com sua irmã, também monja, foi presa e deportada para Auschwitz, onde morreu nas câmaras de gás. Lá, unindo-se à cruz de Cristo, ofereceu a vida pelo seu povo. Em 1999, São João Paulo II a proclamou padroeira da Europa.",
         "patronage": "",
         "main_shrine": "Mosteiro das carmelitas de Colônia, Alemanha"
@@ -2924,14 +2924,14 @@
         "places": "Auschwitz; Niepokalanów, Polônia; Nagasaki, Japão; Roma",
         "place_of_death": "Auschwitz, Polônia",
         "place_of_birth": "Zduńska Wola, Polônia",
-        "place_of_burial": "",
+        "place_of_burial": "Roma (Itália); Lanciano (Itália)",
         "notes": "Maximiliano Maria, de nome secular Raimundo (Zduńska Wola, Polônia, 8 de janeiro de 1894 - Auschwitz, 14 de agosto de 1941), entrou para os Franciscanos Menores Conventuais e foi ordenado presbítero, fundou, com o nome de «Milícia da Imaculada», uma pia união de apostolado caracterizada pela difusão do culto mariano, na Europa e na Ásia, através de publicações e obras de assistência social. Preso durante a ocupação nazista da Polônia, foi enviado para trabalhos forçados no campo de Auschwitz. Lá, ofereceu-se para substituir um companheiro de prisão, pai de família, condenado à morte, junto com outros nove, como represália pela fuga de um prisioneiro. O generoso sacrifício de Maximiliano, após mais de duas semanas no bunker da fome, se completou na véspera da festa da Assunção de Maria ao céu. Uma luz de fraternidade em um dos momentos mais sombrios da história humana.",
         "patronage": "",
         "main_shrine": "Niepokalanów, Polônia"
     },
     "StPeterClaver_416": {
         "subject": "São Pedro Claver, sacerdote",
-        "places": "",
+        "places": "Roma (Itália); Lanciano (Itália)",
         "place_of_death": "Cartagena, Colômbia",
         "place_of_birth": "Verdú, Espanha",
         "place_of_burial": "Santuário de São Pedro Claver, Cartagena das Índias, Colômbia",
@@ -3441,17 +3441,17 @@
     },
     "StCyrilAlexandria_580": {
         "subject": "São Cirilo de Alexandria, bispo e doutor",
-        "places": "",
+        "places": "Roma (Itália); Lanciano (Itália)",
         "place_of_death": "Alexandria, Egito",
         "place_of_birth": "Teodosia (atual el-Mahalla el-Kubra), Egito",
         "place_of_burial": "Basílica de Fátima (Portugal)",
         "notes": "Cirilo, bispo de Alexandria do Egito de 412 a 444, defendeu energicamente a pureza da fé em Cristo. Autor de numerosos escritos teológicos, sustentou com firmeza o reconhecimento de Maria como Mãe de Deus, especialmente no Concílio de Éfeso (431). Sua memória é celebrada neste dia também pelos Coptas e Bizantinos.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Roma (Itália); Lanciano (Itália)"
     },
     "StCyrilJerusalem_581": {
         "subject": "São Cirilo de Jerusalém, bispo e doutor",
-        "places": "",
+        "places": "Roma (Itália); Lanciano (Itália)",
         "place_of_death": "Jerusalém",
         "place_of_birth": "Jerusalém",
         "place_of_burial": "Aosta (Itália), Canterbury (Reino Unido)",
@@ -3481,7 +3481,7 @@
     },
     "StEphrem_584": {
         "subject": "São Efrém, diácono e doutor",
-        "places": "",
+        "places": "Roma (Itália); Lanciano (Itália)",
         "place_of_death": "Edessa (atual Şanliurfa), Turquia",
         "place_of_birth": "Nisibi (atual Nusaybin), Turquia",
         "place_of_burial": "Lourdes (França)",
@@ -3503,7 +3503,7 @@
         "subject": "Beata Maria Virgem de Lourdes",
         "places": "Lourdes (França)",
         "place_of_death": "N/A",
-        "place_of_birth": "",
+        "place_of_birth": "Roma (Itália); Lanciano (Itália)",
         "place_of_burial": "N/A",
         "notes": "Última aparição da Beata Virgem Maria a Bernadette. Esta memória está ligada à experiência mística de Bernadette Soubirous, que por dezoito vezes, entre 11 de fevereiro e 16 de julho de 1858, na gruta de Massabielle, perto de Lourdes (França), encontrou a Virgem Maria. Ela declarou ser «a Imaculada Conceição», chamando os homens à oração e à conversão. O santuário erguido naquele local, a convite da Virgem, tornou-se destino de contínuas peregrinações, especialmente para os doentes.",
         "patronage": "",
@@ -3514,7 +3514,7 @@
         "places": "Fátima (Portugal)",
         "place_of_death": "Beata Virgem Maria de Fátima",
         "place_of_birth": "N/A",
-        "place_of_burial": "",
+        "place_of_burial": "Roma (Itália); Lanciano (Itália)",
         "notes": "Última aparição da Bem-Aventurada Virgem Maria aos três pastorinhos. De 13 de maio a 13 de outubro de 1917, uma vez por mês, na localidade de Cova da Iria, perto de Fátima (Portugal), Lúcia dos Santos, Francisco e Jacinta Marto – três pastorinhos do local – tiveram a visão de Maria Santíssima. Além de chamar a atenção para a necessidade da oração e da penitência para a salvação do mundo, a Virgem recomendou a recitação do rosário e a devoção ao seu Imaculado Coração. Nossa Senhora de Fátima foi querida por vários papas, em particular por Pio XII, por São Paulo VI – primeiro papa a ir em peregrinação (13 de maio de 1967) – e por São João Paulo II, que reconheceu sua proteção materna durante o atentado sofrido na Praça de São Pedro em 13 de maio de 1981.",
         "patronage": "",
         "main_shrine": "Basílica de Fátima (Portugal)"
@@ -3532,8 +3532,8 @@
     "DedicationHolySepulchre_588": {
         "subject": "Dedicação da Basílica do Santo Sepulcro",
         "places": "Jerusalém (Israel / Palestina)",
-        "place_of_death": "",
-        "place_of_birth": "",
+        "place_of_death": "Roma (Itália); Lanciano (Itália)",
+        "place_of_birth": "Roma (Itália); Lanciano (Itália)",
         "place_of_burial": "Aosta (Itália), Canterbury (Reino Unido)",
         "notes": "Foi em 15 de julho de 1149 que os Cruzados, após décadas de trabalhos e reformas estruturais, consagraram oficialmente a nova Basílica no quinquagésimo aniversário da conquista de Jerusalém.",
         "main_shrine": "Basílica do Santo Sepulcro em Jerusalém"
