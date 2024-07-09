@@ -47,7 +47,7 @@
         "place_of_burial": "Basílica de São Sebastião fora dos Muros",
         "notes": "Ano de morte 250/251, após ter sido Papa por cerca de 15 anos",
         "patronage": "",
-        "main_shrine": "N/A"
+        "main_shrine": "Catacumbas de São Calisto (Roma)"
     },
     "StSebastian_6": {
         "subject": "São Sebastião, mártir",
@@ -77,11 +77,11 @@
         "place_of_burial": "Catedral de Valência (Espanha) / Catedral de Lisboa (Portugal) / Acate (Ragusa, Itália; tradição popular)",
         "notes": "Vicente († Valência, Espanha, 22 de janeiro de 304), diácono da Igreja de Saragoça, foi preso durante a perseguição de Diocleciano e morreu na prisão devido às torturas sofridas. Ofereceu sua vida a Cristo junto com o bispo Valério, com quem tantas vezes havia oferecido o sacrifício do altar. É lembrado no dia 22 de janeiro no Martirológio Jeronimiano (séc. V-VI). Com a chegada do imperador Constantino, que se converteu ao cristianismo, foi erguida em Valência uma basílica em honra de São Vicente, e suas relíquias foram colocadas sob o altar principal. No entanto, após a invasão dos mouros, os cristãos de Valência roubaram o corpo do Mártir para protegê-lo em Portugal, em uma igrejinha construída especialmente no local do promontório hoje chamado Cabo de São Vicente. Terminada a guerra contra os mouros, os restos mortais foram embarcados em um navio que seguiu rumo a Lisboa. Uma lenda devocional conta que durante a viagem alguns corvos pousaram na proa e na popa do navio, como se quisessem significar sua renovada proteção ao Santo mártir que um dia já haviam salvado das feras. Chegando à cidade, o corpo foi depositado na igreja de Santa Justa e Santa Rufina e, após algum tempo, em 15 de setembro de 1173, foi solenemente transportado para a catedral. Em memória, foram cunhadas moedas. https://it.wikipedia.org/wiki/Monastero_di_S%C3%A3o_Vicente_de_Fora",
         "patronage": "",
-        "main_shrine": "Lourdes (França)"
+        "main_shrine": "Catedral de Lisboa (Portugal)"
     },
     "StFrancisDeSales_9": {
         "subject": "São Francisco de Sales, bispo e doutor",
-        "places": "Lourdes (França)",
+        "places": "Castelo de Thorens (Thorens-Glières, França), Lyon (França), Genebra (Suíça), Annecy (França)",
         "place_of_death": "Lyon, França",
         "place_of_birth": "Sales (França)",
         "place_of_burial": "Basílica da Visitação, Annecy, França",
@@ -171,10 +171,10 @@
     },
     "StsPaulMiki_19": {
         "subject": "Santos Paulo Miki e companheiros, mártires",
-        "places": "Beata Maria Virgem de Lourdes",
+        "places": "Settsu (Japão), Nagasaki (Japão)",
         "place_of_death": "Nagasaki, Japão",
         "place_of_birth": "Quioto (Japão)",
-        "place_of_burial": "Aosta (Itália), Canterbury (Reino Unido)",
+        "place_of_burial": "Nagasaki (Japão)",
         "notes": "Paolo Miki (Kyoto, Japão, 1556 - Nagasaki, 5 de fevereiro de 1597), jesuíta, foi vítima da perseguição que o imperador japonês ordenou contra os cristãos, temendo que o seu aumento constituísse um perigo para a autonomia do país. Junto com ele foram crucificados outros vinte e cinco cristãos, leigos e religiosos (Jesuítas e Frades Menores).",
         "patronage": "",
         "main_shrine": "https://it.wikipedia.org/wiki/Basilica_dei_Ventisei_Santi_Martiri_del_Giappone; Museu e monumento dos vinte e seis mártires de Nagasaki https://travel.at-nagasaki.jp/it/s/what-to-see/30/ https://en.wikipedia.org/wiki/Twenty-Six_Martyrs_Museum_and_Monument"
@@ -197,13 +197,13 @@
         "place_of_burial": "Abadia de Montecassino",
         "notes": "Escolástica (Nórcia, Perugia, 480 ca. - Montecassino, Frosinone, 547 ca.) é indicada pela tradição como irmã de São Bento. Os Diálogos de Gregório Magno a descrevem como virgem amante da contemplação, sábia em antepor a caridade a qualquer regra humana. É lembrada no dia 10 de fevereiro no Calendário marmóreo de Nápoles (séc. IX) e no Martirológio de Usuardo (870 ca.).",
         "patronage": "",
-        "main_shrine": "Lourdes (França)"
+        "main_shrine": "Abadia de Montecassino (Itália)"
     },
     "LadyLourdes_22": {
         "subject": "Beata Maria Virgem de Lourdes",
         "places": "Lourdes (França)",
         "place_of_death": "N/A",
-        "place_of_birth": "Aosta (Itália), Canterbury (Reino Unido)",
+        "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "Esta memória está ligada à experiência mística de Bernadette Soubirous, que por dezoito vezes, entre 11 de fevereiro e 16 de julho de 1858, na gruta de Massabielle, perto de Lourdes (França), encontrou a Virgem Maria. Ela declarou ser a «Imaculada Conceição», chamando os homens à oração e à conversão. O santuário erguido naquele local, a convite da Virgem, tornou-se destino de contínuas peregrinações, especialmente para os doentes.",
         "patronage": "",
@@ -241,10 +241,10 @@
     },
     "StPolycarp_27": {
         "subject": "São Policarpo, bispo e mártir",
-        "places": "Lourdes (França)",
+        "places": "Esmirna (Turquia)",
         "place_of_death": "Esmirna, Turquia",
         "place_of_birth": "Esmirna, Turquia",
-        "place_of_burial": "Lourdes (França)",
+        "place_of_burial": "Santo Ambrósio della Massima (Roma)",
         "notes": "Policarpo († 23 de fevereiro de 167), discípulo do apóstolo João, foi bispo de Esmirna (Turquia), onde recebeu Santo Inácio em viagem para Roma, cidade onde sofreria o martírio. Após um longo episcopado, em idade muito avançada, Policarpo foi condenado à fogueira por sua fé. Era o dia do Senhor: enquanto o fogo o consumia, o bispo se unia, rezando, à liturgia eucarística tantas vezes celebrada com sua Igreja. O relato de sua paixão é o documento mais antigo sobre o culto dos mártires.",
         "patronage": "",
         "main_shrine": "Igreja de São Policarpo, Esmirna, Turquia"
