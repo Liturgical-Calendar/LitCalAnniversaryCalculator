@@ -283,8 +283,8 @@
         "subject": "Sancta Francesca Romana, religiosa",
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
-        "place_of_birth": "Roma",
-        "place_of_burial": "Roma",
+        "place_of_birth": "Roma (Italia)",
+        "place_of_burial": "Roma (Italia)",
         "notes": "Francesca Bussa (Roma, 1384 - 9 Martii 1440), quamvis ad matrimonium coacta, fuit uxor et mater exemplaris. Intima cum Deo unione suffulta, caritatem indefesse exercuit, pauperes et aegrotos in domum suam accipiens. Fundavit Romae Oblatas Turris Speculorum, quibus post mortem mariti se coniunxit.",
         "patronage": "",
         "main_shrine": "Basilica Sanctae Francescae Romanae ad Forum Romanum"
@@ -304,10 +304,10 @@
         "places": "Hierosolyma (Israel / Palaestina)",
         "place_of_death": "Hierosolyma",
         "place_of_birth": "Hierosolyma",
-        "place_of_burial": "Sanctus Cyrillus Hierosolymitanus, episcopus et doctor",
+        "place_of_burial": "Ecclesia Discipulorum (vel Apostolorum) ad Eleona, Mons Olivarum (Hierosolyma, Israel / Palaestina)",
         "notes": "Cyrillus (ca. 315 - 387), episcopus Hierosolymitanus, dramaticis divisionibus Ecclesiae sui temporis implicatus fuit: calumniatus et pluries exsulatus, doctrinae in Concilio Nicaeno (325) proclamatae fidelis permansit. Ei attribuuntur nonnullae celebres catecheses baptismales.",
         "patronage": "",
-        "main_shrine": "Sanctus Cyrillus Hierosolymitanus, episcopus et doctor"
+        "main_shrine": "non pertinet"
     },
     "StJoseph_34": {
         "subject": "Sanctus Ioseph Sponsus Beatae Mariae Virginis",
@@ -341,7 +341,7 @@
     },
     "StIsidore_38": {
         "subject": "Sanctus Isidorus, episcopus et Ecclesiae doctor",
-        "places": "Sanctus Cyrillus Hierosolymitanus, episcopus et doctor",
+        "places": "Carthago Nova (Hispania); Hispalis (Hispania)",
         "place_of_death": "Hispalis (Hispania)",
         "place_of_birth": "Carthago Nova (Hispania)",
         "place_of_burial": "Real Collegiata Basilica Sancti Isidori (Legio, Hispania)",
@@ -351,7 +351,7 @@
     },
     "StVincentFerrer_39": {
         "subject": "Sanctus Vincentius Ferrerius, sacerdos",
-        "places": "Sanctus Cyrillus Hierosolymitanus, episcopus et doctor",
+        "places": "Valentia (Hispania); Venetiae (Gallia)",
         "place_of_death": "Veneti (Francia)",
         "place_of_birth": "Valentia, Hispania",
         "place_of_burial": "Cathedrale Sancti Petri apud Venetos (Francia)",
@@ -361,7 +361,7 @@
     },
     "StJohnBaptistDeLaSalle_40": {
         "subject": "Sanctus Ioannes Baptista de la Salle, sacerdos",
-        "places": "Sanctus Vincentius Ferrerius, sacerdos",
+        "places": "Remi (Gallia); Rotomagus (Gallia)",
         "place_of_death": "Sanctus Yon apud Rotomagum (Francia)",
         "place_of_birth": "Remi (Francia)",
         "place_of_burial": "Ioannes Baptista de La Salle sepultus est in ecclesia Sancti Severi, in vico Rothomagi. Anno 1734 corpus eius relatum est ad Sanctum Yon in sacellum pensionati sui, deinde anno 1835 translatum est in sacellum Scholae normalis Rothomagi. Remis, anno 1898, ecclesia ei dicata aedificata est. Anno 1937 reliquiae eius Romam translatae sunt.",
