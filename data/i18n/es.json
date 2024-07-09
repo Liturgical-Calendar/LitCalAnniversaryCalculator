@@ -47,7 +47,7 @@
         "place_of_burial": "Basílica de San Sebastián fuera de los Muros",
         "notes": "Año de muerte 250/251, después de ser Papa durante unos 15 años",
         "patronage": "",
-        "main_shrine": "N/D"
+        "main_shrine": "Catacumbas de San Calixto (Roma)"
     },
     "StSebastian_6": {
         "subject": "San Sebastián, mártir",
@@ -77,11 +77,11 @@
         "place_of_burial": "Catedral de Valencia (España) / Catedral de Lisboa (Portugal) / Acate (Ragusa, Italia; tradición popular)",
         "notes": "Vincenzo († Valencia, España, 22 de enero de 304), diácono de la Iglesia de Zaragoza, arrestado durante la persecución de Diocleciano, murió en prisión a consecuencia de las torturas sufridas. Ofreció su vida a Cristo junto con el obispo Valerio, con quien tantas veces había ofrecido el sacrificio del altar. Es recordado el 22 de enero en el Martirologio Jeronimiano (siglos V-VI). Con la llegada del emperador Constantino, que se había convertido al cristianismo, en Valencia se erigió una basílica en honor a San Vicente y bajo el altar principal se colocaron sus reliquias. Sin embargo, tras la invasión de los moros, los cristianos de Valencia robaron el cuerpo del mártir para ponerlo a salvo en Portugal, en una pequeña iglesia construida especialmente en el promontorio hoy llamado Cabo San Vicente. Terminada la guerra contra los moros, los restos fueron embarcados en un barco que se dirigió a Lisboa. Una leyenda devocional cuenta que durante el viaje algunos cuervos se posaron en la proa y en la popa de dicho barco, casi como queriendo significar su renovada protección al santo mártir que ya un día habían salvado de las fieras. Al llegar a la ciudad, el cuerpo fue depositado en la iglesia de Santa Justa y Santa Rufina y después de algún tiempo, el 15 de septiembre de 1173, trasladado solemnemente a la catedral. En recuerdo se acuñaron monedas. https://it.wikipedia.org/wiki/Monastero_di_S%C3%A3o_Vicente_de_Fora",
         "patronage": "",
-        "main_shrine": "N/D"
+        "main_shrine": "Catedral de Lisboa (Portugal)"
     },
     "StFrancisDeSales_9": {
         "subject": "San Francisco de Sales, obispo y doctor",
-        "places": "N/D",
+        "places": "Castillo de Thorens (Thorens-Glières, Francia), Lyon (Francia), Ginebra (Suiza), Annecy (Francia)",
         "place_of_death": "Lyon, Francia",
         "place_of_birth": "Sales (Francia)",
         "place_of_burial": "Basílica de la Visitación, Annecy, Francia",
@@ -171,10 +171,10 @@
     },
     "StsPaulMiki_19": {
         "subject": "Santos Pablo Miki y compañeros, mártires",
-        "places": "N/D",
+        "places": "Settsu (Japón), Nagasaki (Japón)",
         "place_of_death": "Nagasaki, Japón",
         "place_of_birth": "Kioto (Japón)",
-        "place_of_burial": "N/D",
+        "place_of_burial": "Nagasaki (Japón)",
         "notes": "Paolo Miki (Kioto, Japón, 1556 - Nagasaki, 5 de febrero de 1597), jesuita, fue víctima de la persecución que el emperador japonés ordenó contra los cristianos, temiendo que su incremento constituyera un peligro para la autonomía del país. Junto con él fueron crucificados otros veinticinco cristianos, laicos y religiosos (Jesuitas y Franciscanos).",
         "patronage": "",
         "main_shrine": "https://it.wikipedia.org/wiki/Basilica_dei_Ventisei_Santi_Martiri_del_Giappone; Museo y monumento de los veintiséis mártires de Nagasaki https://travel.at-nagasaki.jp/it/s/what-to-see/30/ https://en.wikipedia.org/wiki/Twenty-Six_Martyrs_Museum_and_Monument"
@@ -197,7 +197,7 @@
         "place_of_burial": "Abadía de Montecassino",
         "notes": "Escolástica (Nursia, Perugia, 480 aprox. - Montecassino, Frosinone, 547 aprox.) es indicada por la tradición como hermana de san Benito. Los Diálogos de Gregorio Magno la describen como virgen amante de la contemplación, sabia en anteponer la caridad a cualquier regla humana. Es recordada el 10 de febrero en el Calendario marmóreo de Nápoles (siglo IX) y en el Martirologio de Usuardo (870 aprox.).",
         "patronage": "",
-        "main_shrine": "N/D"
+        "main_shrine": "Abadía de Montecassino (Italia)"
     },
     "LadyLourdes_22": {
         "subject": "Bienaventurada Virgen María de Lourdes",
@@ -241,10 +241,10 @@
     },
     "StPolycarp_27": {
         "subject": "San Policarpo, obispo y mártir",
-        "places": "N/D",
+        "places": "Esmirna (Turquía)",
         "place_of_death": "Esmirna, Turquía",
         "place_of_birth": "Esmirna, Turquía",
-        "place_of_burial": "N/D",
+        "place_of_burial": "San Ambrosio de la Máxima (Roma)",
         "notes": "Policarpo († 23 de febrero de 167), discípulo del apóstol Juan, fue obispo de Esmirna (Turquía), donde acogió a san Ignacio en su viaje hacia Roma, ciudad en la que sufriría el martirio. Después de un largo episcopado, en edad muy avanzada, Policarpo fue condenado a la hoguera por su fe. Era el día del Señor: mientras el fuego lo consumía, el obispo se unía, rezando, a la liturgia eucarística tantas veces celebrada con su Iglesia. El relato de su pasión es el documento más antiguo sobre el culto a los mártires.",
         "patronage": "",
         "main_shrine": "Iglesia de San Policarpo, Esmirna, Turquía"
