@@ -212,7 +212,7 @@
     "StCyrilThessalonica_23": {
         "subject": "Saint Cyrille, moine",
         "places": "Thessalonique (Grèce), Rome (Italie)",
-        "place_of_death": "Rome",
+        "place_of_death": "Rome (Italie)",
         "place_of_birth": "Thessalonique (Grèce)",
         "place_of_burial": "Basilique de Saint-Clément, Rome",
         "notes": "Les frères Cyrille (Constantin) et Méthode (Michel), nés à Thessalonique (actuelle Thessalonique, Grèce) au début du IXe siècle, évangélisèrent les peuples de Pannonie et de Moravie. En inventant l'alphabet glagolitique pour écrire en langue slave, ils traduisirent les Saintes Écritures et les textes liturgiques pour les nouveaux peuples auxquels ils avaient été envoyés. Malgré les oppositions soulevées par certains évêques de la région germanique, leur mission fut approuvée par le pape Adrien II. Cyrille mourut à Rome le 14 février 869. Méthode, élu archevêque de Sirmium (actuelle Sremska Mitrovica, Serbie) et légat papal auprès des Slaves, mourut en Moravie (dans l'actuelle République tchèque) le 6 avril 885. L'annonce de l'Évangile à de nouveaux peuples dans le respect de leur culture, réalisée par ces saints, « reste un modèle vivant pour l'Église et pour les missionnaires de tous les temps » (Jean-Paul II, Slavorum apostoli, 7).",
@@ -481,9 +481,9 @@
     },
     "StsNereusAchilleus_53": {
         "subject": "Saints Nérée et Achillée, martyrs",
-        "places": "Italie",
-        "place_of_death": "Rome",
-        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "places": "Rome (Italie)",
+        "place_of_death": "Rome (Italie)",
+        "place_of_birth": "N/A",
         "place_of_burial": "Catacombes de Domitille",
         "notes": "Nérée et Achillée, selon la tradition, étaient deux militaires convertis à la foi par l'exemple de la fortitude des chrétiens torturés et conduits au martyre. Décapités sur la voie Ardéatine, ils furent enterrés dans le cimetière de Domitille. De leur martyre, probablement survenu lors de la première persécution de Dioclétien (303-305), le pape Damase écrit dans l'épitaphe qu'il a placée sur leur tombe. Les deux martyrs, dont le culte est attesté depuis le VIe siècle, sont commémorés le 12 mai dans le Martyrologe hiéronymien (Ve-VIe siècle). En 1215, leurs reliques ont été déposées dans l'église Saint-Adrien au Forum (la Curie Julia) au Forum Romain, puis en 1597 ces reliques, ainsi que celles qui seraient les reliques de Flavia Domitilla, ont été transportées avec la plus grande solennité de cette église à l'église des Saints Nérée et Achillée au Cælius.",
         "patronage": "",
