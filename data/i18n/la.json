@@ -212,7 +212,7 @@
     "StCyrilThessalonica_23": {
         "subject": "San Cyrillus, monachus",
         "places": "Thessalonica (Graecia), Roma (Italia)",
-        "place_of_death": "Roma",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Thessalonica (Graecia)",
         "place_of_burial": "Basilica Sancti Clementis, Roma",
         "notes": "Fratres Cyrillus (Constantinus) et Methodius (Michael), nati Thessalonicae (hodierna Thessalonica, Graecia) ineunte saeculo IX, populos Pannoniae et Moraviae evangelizaverunt. Alphabetum glagoliticum ad scribendum in lingua slavica invenientes, Sacram Scripturam et textus liturgicos pro novis populis ad quos missi erant, traduxerunt. Quamvis oppositiones a nonnullis episcopis germanicae regionis ortae sint, eorum missio a papa Hadriano II approbata est. Cyrillus Romae mortuus est die 14 februarii 869. Methodius, archiepiscopus Sirmii (hodierna Sremska Mitrovica, Serbia) electus et legatus papalis apud Slavos, in Moravia (hodierna Res Publica Bohemica) mortuus est die 6 aprilis 885. Evangelii nuntiatio novis populis cum respectu eorum culturae, a his sanctis peracta, «exemplar vivum manet pro Ecclesia et missionariis omnium temporum» (Ioannes Paulus II, Slavorum apostoli, 7).",
@@ -481,9 +481,9 @@
     },
     "StsNereusAchilleus_53": {
         "subject": "Sancti Nereus et Achilleus, martyres",
-        "places": "Basilica Sancti Iacobi, Santiago (Hispania)",
-        "place_of_death": "Roma",
-        "place_of_birth": "Sanctus Pius V, papa",
+        "places": "Roma (Italia)",
+        "place_of_death": "Roma (Italia)",
+        "place_of_birth": "non pertinet",
         "place_of_burial": "Catacumbae Domitillae",
         "notes": "Nereus et Achilleus, secundum traditionem, duo milites fuerunt qui exemplo fortitudinis christianorum tortorum ad fidem conversi sunt et ad martyrium ducti. Decapitati in via Ardeatina, sepulti sunt in coemeterio Domitillae. De eorum martyrio, quod probabiliter prima persecutione Diocletiani (303-305) accidit, scribit papa Damasus in epigraphe ab eo posita super eorum sepulchrum. Duo martyres, quorum cultus a saeculo VI testatus est, commemorantur die 12 maii in Martyrologio Hieronymiano (saec. V-VI). Anno 1215, eorum reliquiae depositae sunt in ecclesia Sancti Adriani ad Forum (Curia Iulia) in Foro Romano, deinde anno 1597 hae reliquiae, una cum iis quae reliquiae Flaviae Domitillae esse putantur, maxima sollemnitate translatae sunt ab hac ecclesia ad ecclesiam Sanctorum Nerei et Achillei ad Caelium.",
         "patronage": "",
