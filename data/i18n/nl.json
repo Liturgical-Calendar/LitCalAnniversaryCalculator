@@ -41,9 +41,9 @@
     },
     "StFabianPope_5": {
         "subject": "Saint Fabianus, paus en martelaar",
-        "places": "Rome",
-        "place_of_death": "Rome",
-        "place_of_birth": "Rome",
+        "places": "Clairvaux (Frankrijk); Troyes (Frankrijk)",
+        "place_of_death": "Clairvaux (Frankrijk); Troyes (Frankrijk)",
+        "place_of_birth": "Clairvaux (Frankrijk); Troyes (Frankrijk)",
         "place_of_burial": "Basiliek van San Sebastiano fuori le Mura",
         "notes": "Sterfjaar 250/251, na ongeveer 15 jaar paus te zijn geweest",
         "patronage": "",
@@ -52,7 +52,7 @@
     "StSebastian_6": {
         "subject": "Saint Sebastiaan, martelaar",
         "places": "Kerk van San Sebastiano, Narbonne (Frankrijk); Basiliek en Catacomben van San Sebastiano (Rome)",
-        "place_of_death": "Rome",
+        "place_of_death": "Clairvaux (Frankrijk); Troyes (Frankrijk)",
         "place_of_birth": "Narbonne (Frankrijk) https://www.google.com/maps/@43.186026,3.0067009,3a,90y,93.51h,99.16t/data=!3m6!1e1!3m4!1sboQV0f52ww1JNPTccgwatg!2e0!7i16384!8i8192",
         "place_of_burial": "Catacomben van San Sebastiano (Rome)",
         "notes": "Sebastiaan, die trouw aan Christus hoger achtte dan elke militaire eer, accepteerde om uit het leger te worden ontslagen en stierf tijdens de vervolging van Diocletianus (303-305). Hij werd begraven in de Romeinse catacomben die zijn naam dragen. De Depositio martyrum (336) herdenkt hem op 20 januari.",
@@ -61,9 +61,9 @@
     },
     "StAgnes_7": {
         "subject": "Sint-Agnes, maagd en martelaar",
-        "places": "Rome",
+        "places": "Clairvaux (Frankrijk); Troyes (Frankrijk)",
         "place_of_death": "Basiliek van Sint-Agnes in Agone, Rome",
-        "place_of_birth": "Rome",
+        "place_of_birth": "Clairvaux (Frankrijk); Troyes (Frankrijk)",
         "place_of_burial": "Catacomben van Sint-Agnes buiten de Muren",
         "notes": "Agnes, een Romeinse, nog een tiener, geplaatst voor de keuze tussen trouw blijven aan Christus en haar eigen leven redden, koos zonder aarzeling voor de hemelse Bruidegom, met wie ze zich verenigde door het martelaarschap (midden 3e eeuw). Het verhaal van haar passie, zeer populair, werd al in de 4e eeuw verzameld door paus Damasus. Sint-Ambrosius en Sint-Augustinus wezen haar aan als een stralend voorbeeld van een christelijke maagd. Volgens de Depositio martyrum (336) werd haar nagedachtenis gevierd op 21 januari in Rome op de gelijknamige begraafplaats aan de Via Nomentana. Haar naam wordt herinnerd in het Romeinse Canon.",
         "patronage": "",
@@ -1797,21 +1797,21 @@
         "place_of_burial": "Catacomben van Priscilla, Rome",
         "notes": "Silvester was paus (314-335) in de jaren waarin de Kerk, met Constantijn, begon te worden gesteund door de keizerlijke macht en de stad Rome werd verrijkt met de eerste grote christelijke basilieken. Tijdens zijn pontificaat werd in Nicea (het huidige Íznik, Turkije) het eerste oecumenische concilie in de geschiedenis gehouden (325). De grote vergadering, waar Silvester twee gezanten naartoe stuurde, verkondigde, tegen de ketterij van Arius, de volledige goddelijkheid van de Zoon, «één in wezen met de Vader». Zijn dood wordt herdacht op 31 december in de Depositio episcoporum van 336. Hij werd begraven op de begraafplaats van Priscilla, aan de Via Salaria.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Italië"
     },
     "NameJesus_188": {
         "subject": "Heilige Naam van Jezus",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Italië",
+        "place_of_death": "Italië",
+        "place_of_birth": "Italië",
+        "place_of_burial": "Italië",
         "notes": "De verering van de naam van Jezus ontstond in de late middeleeuwen, dankzij de bedelorden, met name door de prediking van de heilige Bernardinus van Siena (15e eeuw) die het monogram bestaande uit de eerste drie Griekse letters van de naam van Jezus (IHS) verspreidde, hoewel dit, met de Latijnse transliteratie, werd geïnterpreteerd als een acroniem van de uitdrukking Iesus Hominum Salvator. De liturgische viering, geïntroduceerd in de 16e eeuw, werd door Innocentius XIII (1721-1724) uitgebreid tot de hele Kerk. Deze devotie heeft wortels in de Heilige Schrift. De naam van Jezus, door de Vader aan de mensgeworden Zoon gegeven (vgl. Mt 1, 21), voorspelt – volgens de bijbelse stijl – zijn missie: het betekent namelijk «God redt». Het is «in de naam van Jezus» dat de discipelen wonderen verrichten (Hand. 4, 10) en vervolging lijden (Hand. 5, 41). Jezus zelf moedigt de discipelen aan om in zijn naam te bidden (Joh. 14, 13-14). De eerste christelijke gemeenschap is zich er al van bewust dat er «onder de hemel geen andere naam aan de mensen gegeven is, waarin wij gered moeten worden» (Hand. 4, 12). In de hymne van de brief aan de Filippenzen wordt verkondigd: «… God heeft hem hoog verheven en hem de naam geschonken die boven elke naam is, opdat in de naam van Jezus elke knie zich buigt in de hemel, op aarde en onder de aarde» (Fil. 2, 9-10).",
         "patronage": "",
         "main_shrine": "Gesùkerk, Rome"
     },
     "StJosephineBakhita_189": {
         "subject": "Heilige Giuseppina Bakhita, maagd",
-        "places": "",
+        "places": "Italië",
         "place_of_death": "Schio (Vicenza, Italië)",
         "place_of_birth": "Darfur (Soedan)",
         "place_of_burial": "Klooster van de Canossianen van Schio (Vicenza, Italië)",
@@ -1842,9 +1842,9 @@
     "LadyFatima_192": {
         "subject": "Heilige Maagd Maria van Fatima",
         "places": "Fátima (Portugal)",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "place_of_death": "Italië",
+        "place_of_birth": "Italië",
+        "place_of_burial": "Italië",
         "notes": "Van 13 mei tot 13 oktober 1917, eens per maand, in Cova da Iria, nabij Fatima (Portugal), hadden Lucia dos Santos, Francisco en Jacinta Marto - drie herderskinderen uit de omgeving - een visioen van de heilige Maria. Naast het benadrukken van het belang van gebed en boetedoening voor de redding van de wereld, beval de Maagd het bidden van de rozenkrans en de devotie tot haar Onbevlekt Hart aan. Onze Lieve Vrouw van Fatima was geliefd bij verschillende pausen, met name Pius XII, Sint-Paulus VI - de eerste paus die op bedevaart ging (13 mei 1967) - en Sint-Johannes Paulus II, die haar moederlijke bescherming erkende tijdens de aanslag op het Sint-Pietersplein op 13 mei 1981.",
         "patronage": "",
         "main_shrine": "Basiliek van Fátima (Portugal)"
@@ -1874,7 +1874,7 @@
         "places": "Hong Kong (China)",
         "place_of_death": "Chengdu (China)",
         "place_of_birth": "Wuchuan (China)",
-        "place_of_burial": "",
+        "place_of_burial": "Italië",
         "notes": "Augustinus (Wuchuan, China, 1746 - Chengdu, 1815), een bewaker belast met het begeleiden van enkele ter dood veroordeelde christenen, werd geraakt door hun volharding, opende zich voor het geloof en werd tot priester gewijd, waarbij hij zijn bediening in het geheim uitoefende. Ontdekt en gevangengenomen, leed hij op zijn beurt het martelaarschap voor Christus, stervend als gevolg van de geleden martelingen. Samen met hem worden in één herdenking 119 bisschoppen, priesters, religieuzen en leken vereerd die, in verschillende tijdperken (1648-1930), de Chinese aarde overvloedig vruchtbaar maakten met een zaad dat, door te sterven, veel vrucht zou dragen (vgl. Joh 12, 24).",
         "patronage": "",
         "main_shrine": "Kathedraal van de Onbevlekte Ontvangenis (Hong Kong, China)"
@@ -1914,7 +1914,7 @@
         "places": "Keulen (Duitsland); Auschwitz (Polen)",
         "place_of_death": "Auschwitz (Polen)",
         "place_of_birth": "Wrocław (Polen)",
-        "place_of_burial": "",
+        "place_of_burial": "Italië",
         "notes": "Edith Stein (Wrocław, Polen, 12 oktober 1891 - Auschwitz, 9 augustus 1942), joods, wijdde zich met passie, uitstekende resultaten en prestigieuze erkenningen aan filosofisch onderzoek en onderwijs. Na haar bekering tot het christendom werd ze non in de Karmel van Keulen, met de naam Teresa Benedicta van het Kruis. Bij het uitbreken van de nazi-vervolging van de joden werd ze uit voorzorg overgebracht naar het klooster van Echt (Nederland). Toen Hitler, als reactie op het protest van de Nederlandse bisschoppen, de arrestatie en deportatie van ook christenen van joodse afkomst beval, werden Teresa en haar zus, eveneens non, gearresteerd en gedeporteerd naar Auschwitz, waar ze in de gaskamers stierven. Daar, verenigd met het kruis van Christus, offerde ze haar leven voor haar volk. In 1999 riep paus Johannes Paulus II haar uit tot patrones van Europa.",
         "patronage": "",
         "main_shrine": "Klooster van de Karmelietessen van Keulen (Duitsland)"
@@ -1924,14 +1924,14 @@
         "places": "Auschwitz; Niepokalanow (Polen); Nagasaki (Japan); Rome (Italië)",
         "place_of_death": "Auschwitz (Polen)",
         "place_of_birth": "Zduńska Wola (Polen)",
-        "place_of_burial": "",
+        "place_of_burial": "Italië",
         "notes": "Maximiliaan Maria, geboren als Raimund (Zduńska Wola, Polen, 8 januari 1894 - Auschwitz, 14 augustus 1941), trad toe tot de Conventuele Franciscanen en werd priester gewijd. Hij stichtte, onder de naam «Militia van de Onbevlekte Maagd Maria», een vrome vereniging van apostolaat gekenmerkt door de verspreiding van de Mariaverering in Europa en Azië, door middel van publicaties en sociale hulpverlening. Gearresteerd tijdens de nazi-bezetting van Polen, werd hij naar dwangarbeid in het kamp van Auschwitz gestuurd. Hier bood hij aan om een medegevangene, een vader van een gezin, die samen met negen anderen ter dood was veroordeeld als vergelding voor de ontsnapping van een gevangene, te vervangen. Het genereuze offer van Maximiliaan, na meer dan twee weken in de hongerbunker, werd voltooid aan de vooravond van het feest van Maria Tenhemelopneming. Een licht van broederschap in een van de donkerste momenten van de menselijke geschiedenis.",
         "patronage": "",
         "main_shrine": "Niepokalanów (Polen)"
     },
     "StPeterClaver_201": {
         "subject": "Heilige Petrus Claver, priester",
-        "places": "",
+        "places": "Italië",
         "place_of_death": "Cartagena, Colombia",
         "place_of_birth": "Verdú, Spanje",
         "place_of_burial": "Heiligdom van Sint-Pedro Claver, Cartagena de Indias, Colombia",
@@ -1941,10 +1941,10 @@
     },
     "HolyNameMary_202": {
         "subject": "Heilige Naam van Maria",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "places": "Italië",
+        "place_of_death": "Italië",
+        "place_of_birth": "Italië",
+        "place_of_burial": "Italië",
         "notes": "De devotie tot de naam van Maria ontstond in de middeleeuwen, samen met die voor de naam van Jezus. Het liturgische feest werd in de hele westerse kerk ingevoerd door Innocentius XI na de overwinning op de Turken in Wenen, op 12 september 1683. De naam in de Bijbel duidt op de identiteit en de missie van een persoon. Nu, als de naam Maria misschien van Egyptische oorsprong is, bevat het de wortel van het werkwoord \"liefhebben\". Zij is dus de Geliefde in wie geen gebrek is (vgl. Hooglied 4, 7), \"vol van genade\", zoals de engel Gabriël haar noemt (Lc 1, 28). Maria is daarom het beeld en de eersteling van de Kerk, de Bruid die door de genade van God is getransformeerd van \"niet-geliefde\" in \"geliefde\" (vgl. Hos 1, 6; 2, 3).",
         "patronage": "",
         "main_shrine": "Kerk van de Allerheiligste Naam van Maria, Rome (Italië)"
@@ -1981,7 +1981,7 @@
     },
     "StCatherineAlexandria_206": {
         "subject": "Heilige Catharina van Alexandrië, maagd en martelares",
-        "places": "",
+        "places": "Italië",
         "place_of_death": "Alexandrië, Egypte",
         "place_of_birth": "Alexandrië, Egypte",
         "place_of_burial": "Klooster van Sint-Catharina op de Sinaïberg, Egypte",
@@ -2007,7 +2007,7 @@
         "place_of_burial": "Kathedraal van het Heilig Kruis en Sint-Eulalia, Barcelona",
         "notes": "De liturgische herdenking is vastgesteld op de volgende dag, 7 januari",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Italië"
     },
     "StThomasAquinas_212": {
         "subject": "Heilige Thomas van Aquino, priester en leraar",
@@ -2061,7 +2061,7 @@
     },
     "StFrancisDeSales_220": {
         "subject": "Sint Franciscus van Sales, bisschop en kerkleraar",
-        "places": "",
+        "places": "Italië",
         "place_of_death": "Gniezno (Polen); Praag, Tsjechië; Rome",
         "place_of_birth": "Sales (Frankrijk)",
         "place_of_burial": "Basiliek van de Visitatie (Annecy, Frankrijk)",
@@ -2081,17 +2081,17 @@
     },
     "StsPaulMiki_222": {
         "subject": "Heilige Paulus Miki en gezellen, martelaren",
-        "places": "",
+        "places": "Italië",
         "place_of_death": "Nagasaki (Japan)",
         "place_of_birth": "Kyoto (Japan)",
-        "place_of_burial": "",
+        "place_of_burial": "Italië",
         "notes": "Paolo Miki (Kyoto, Japan, 1556 - Nagasaki, 5 februari 1597), jezuïet, was een slachtoffer van de vervolging die de Japanse keizer beval tegen de christenen, uit angst dat hun toename een gevaar zou vormen voor de autonomie van het land. Samen met hem werden nog vijfentwintig andere christenen gekruisigd, leken en religieuzen (Jezuïeten en Minderbroeders).",
         "patronage": "",
         "main_shrine": "https://it.wikipedia.org/wiki/Basilica_dei_Ventisei_Santi_Martiri_del_Giappone; Museum en monument van de zesentwintig martelaren van Nagasaki https://travel.at-nagasaki.jp/it/s/what-to-see/30/ https://en.wikipedia.org/wiki/Twenty-Six_Martyrs_Museum_and_Monument"
     },
     "StJeromeEmiliani_223": {
         "subject": "Sint Hiëronymus Emiliani",
-        "places": "",
+        "places": "Italië",
         "place_of_death": "Somasca, Lecco (Italië)",
         "place_of_birth": "Venetië (Italië)",
         "place_of_burial": "Heiligdom van Sint Hiëronymus Emiliani in Vercurago di Somasca (Lecco, Italië)",
@@ -2111,7 +2111,7 @@
     },
     "StPeterDamian_225": {
         "subject": "Sint-Pieter Damiani, bisschop en kerkleraar",
-        "places": "",
+        "places": "Italië",
         "place_of_death": "Faenza",
         "place_of_birth": "Ravenna",
         "place_of_burial": "Benedictijnenklooster van Santa Maria Fuori le Mura (Faenza)",
@@ -2121,7 +2121,7 @@
     },
     "SevenHolyFounders_240": {
         "subject": "Heilige Zeven Stichters van de Dienaren van de Heilige Maagd Maria",
-        "places": "",
+        "places": "Italië",
         "place_of_death": "Montesenario",
         "place_of_birth": "Florence",
         "place_of_burial": "Florence",
@@ -2131,7 +2131,7 @@
     },
     "StCasimir_244": {
         "subject": "Sint-Casimir",
-        "places": "",
+        "places": "Italië",
         "place_of_death": "Hrodna (Wit-Rusland)",
         "place_of_birth": "Krakau",
         "place_of_burial": "Vilnius (Litouwen)",
@@ -2141,7 +2141,7 @@
     },
     "StJohnGod_246": {
         "subject": "Sint-Jan van God, religieus",
-        "places": "",
+        "places": "Italië",
         "place_of_death": "Granada (Spanje)",
         "place_of_birth": "Montemor-o-Novo (Portugal)",
         "place_of_burial": "Granada (Spanje)",
