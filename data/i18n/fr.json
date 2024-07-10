@@ -362,16 +362,16 @@
     "StJohnBaptistDeLaSalle_40": {
         "subject": "Saint Jean-Baptiste de La Salle, prêtre",
         "places": "Reims (France) ; Rouen (France)",
-        "place_of_death": "Saint Yon près de Rouen (France)",
+        "place_of_death": "Chapelle de Saint-Yon (Rouen, France)",
         "place_of_birth": "Reims (France)",
-        "place_of_burial": "Jean-Baptiste de La Salle fut enterré dans l'église de Saint-Sever, un quartier de Rouen. En 1734, son corps fut ramené à Saint-Yon dans la chapelle de son pensionnat, puis en 1835, il fut transféré dans celle de l'École normale de Rouen. À Reims, une église dédiée à lui fut construite en 1898. En 1937, ses reliques furent transférées à Rome.",
+        "place_of_burial": "Église de Saint-Sever (Rouen, France ; puis en 1734 à la chapelle de Saint-Yon (Rouen, France) ; puis en 1835 à l'École normale de Rouen (France) ; puis en 1937 ses reliques furent transférées à Rome (Italie)",
         "notes": "Jean-Baptiste (Reims, France, 30 avril 1651 - Saint Yon près de Rouen, 7 avril 1719), après avoir pris soin, à la mort de ses parents, de ses nombreux frères et sœurs, ordonné prêtre, se consacra à la jeunesse défavorisée, ouvrant des écoles pour les pauvres et rédigeant des textes pour la formation des maîtres. Il fonda la Congrégation des Frères des Écoles Chrétiennes, dédiée à l'éducation populaire.",
         "patronage": "",
         "main_shrine": "Église et Sanctuaire de Saint Jean-Baptiste de La Salle, Maison généralice des Frères des Écoles Chrétiennes, Rome"
     },
     "StStanislaus_41": {
         "subject": "Saint Stanislas, évêque et martyr",
-        "places": "Lourdes (France)",
+        "places": "Szczepanów (Pologne); Cracovie (Pologne)",
         "place_of_death": "Cracovie (Pologne)",
         "place_of_birth": "Szczepanowice (Pologne)",
         "place_of_burial": "Cathédrale de Cracovie (Pologne)",
@@ -392,8 +392,8 @@
     "StAnselm_43": {
         "subject": "Saint Anselme de Cantorbéry, évêque et docteur de l'Église",
         "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
-        "place_of_death": "Cantorbéry, Royaume-Uni",
-        "place_of_birth": "Aoste, Italie",
+        "place_of_death": "Cantorbéry (Royaume-Uni)",
+        "place_of_birth": "Aoste (Italie)",
         "place_of_burial": "Anselme mourut le 21 avril 1109, mercredi saint, et fut enterré dans la cathédrale de Cantorbéry. Ses reliques furent cependant exhumées lors des troubles religieux qui eurent lieu sous le règne d'Henri VIII d'Angleterre et on en perdit la trace.",
         "notes": "Anselme (Aoste, 1033/1034 - Canterbury, Royaume-Uni, 21 avril 1109), moine et abbé de Bec en Normandie pendant environ trente ans, devint archevêque de Canterbury et primat d'Angleterre. Il lutta pour la liberté de l'Église contre les ingérences du pouvoir politique. Profond théologien, il sut valoriser le rôle de la raison dans l'approfondissement des mystères de la foi.",
         "patronage": "",
@@ -401,7 +401,7 @@
     },
     "StGeorge_44": {
         "subject": "Saint Georges, martyr",
-        "places": "Lourdes (France)",
+        "places": "Lydda (près de l'actuelle Tel-Aviv, Israël)",
         "place_of_death": "Nicomédie (actuelle İzmit), Turquie | ou | Lydda (actuelle Lod) - Tel Aviv, Israël",
         "place_of_birth": "Cappadoce (Turquie)",
         "place_of_burial": "Lydda, Tel Aviv (Israël)",
@@ -431,7 +431,7 @@
     },
     "StPeterChanel_47": {
         "subject": "Saint Pierre Chanel, prêtre et martyr",
-        "places": "Lourdes (France)",
+        "places": "Montrevel-en-Bresse (France); Île de Futuna (Îles Hoorn, Océanie)",
         "place_of_death": "Futuna, Océanie française",
         "place_of_birth": "Montrevel-en-Bresse (France)",
         "place_of_burial": "Les restes du missionnaire, enterrés à la hâte, furent ensuite réclamés par M. Lavaux, commandant français de la station navale de Tahiti, et ramenés en France par un moyen de transport gouvernemental, en 1842.",
@@ -444,14 +444,14 @@
         "places": "Sienne, Rome",
         "place_of_death": "Rome (Italie)",
         "place_of_birth": "Sienne (Italie)",
-        "place_of_burial": "Chapelle de la Visitation, Paray-le-Monial (France)",
+        "place_of_burial": "Rome (Italie)",
         "notes": "Catherine (Sienne, 1347 - Rome, 29 avril 1380) se consacra, très jeune, à la prière et à la pénitence chez elle; elle fut ensuite admise parmi les « mantellate » du Tiers-Ordre dominicain. Elle mena une intense action publique, à la fois comme artisan de paix dans une société déchirée par les conflits, et comme fervente et passionnée défenseure de la réforme de l'Église. Elle favorisa le retour du pape d'Avignon et œuvra pour surmonter le grand schisme qui s'ensuivit, à Rome et dans tout l'Occident. Elle composa des écrits riches en contenu théologique et incisifs dans le langage, parmi lesquels le Dialogue de la divine Providence. Elle fut proclamée patronne de l'Italie en 1939 et de l'Europe en 1999.",
         "patronage": "",
         "main_shrine": "Basilique Sainte-Marie-sur-Minerve, Rome"
     },
     "StPiusV_49": {
         "subject": "Saint Pie V, pape",
-        "places": "Lourdes (France)",
+        "places": "Bosco Marengo (Italie); Rome (Italie)",
         "place_of_death": "Rome (Italie)",
         "place_of_birth": "Bosco Marengo, Alessandria (Italie)",
         "place_of_burial": "Basilique Sainte-Marie-Majeure, Rome",
@@ -461,13 +461,13 @@
     },
     "StJosephWorker_50": {
         "subject": "Saint Joseph Travailleur",
-        "places": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
-        "place_of_death": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
-        "place_of_birth": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
-        "place_of_burial": "Aoste (Italie), Cantorbéry (Royaume-Uni)",
+        "places": "Bethléem (Palestine), Nazareth (Israël)",
+        "place_of_death": "Nazareth (Israël)",
+        "place_of_birth": "Bethléem (Palestine)",
+        "place_of_burial": "Nazareth (Israël)",
         "notes": "Joseph, époux de la Vierge Marie et père putatif de Jésus, est présenté dans les Évangiles comme « charpentier » (Mt 13, 55). C'est Pie XII qui, en 1955, a introduit cette mémoire, pour donner un « chrême chrétien » à la fête laïque du premier mai, répandue depuis le XIXe siècle dans de nombreux pays comme date symbolique des luttes pour la reconnaissance des droits des travailleurs. Cette célébration liturgique entend rappeler la grande dignité du travail humain qui continue l'œuvre du Créateur et fut partagé par le Fils de Dieu fait homme, lui aussi appelé, dans les Évangiles, « charpentier » (Mc 6, 3). Laborem Exercens est une encyclique publiée par le pape Jean-Paul II le 14 septembre 1981. Elle traite du travail humain à l'occasion du 90e anniversaire de la Rerum Novarum.",
         "patronage": "",
-        "main_shrine": "Aoste (Italie), Cantorbéry (Royaume-Uni)"
+        "main_shrine": "Église de la Nutrition (Nazareth, Israël)"
     },
     "StAthanasius_51": {
         "subject": "Saint Athanase, évêque et docteur",
