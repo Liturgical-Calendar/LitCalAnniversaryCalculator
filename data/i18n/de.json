@@ -212,7 +212,7 @@
     "StCyrilThessalonica_23": {
         "subject": "Heiliger Kyrill, Mönch",
         "places": "Thessaloniki (Griechenland), Rom (Italien)",
-        "place_of_death": "Rom",
+        "place_of_death": "Rom (Italien)",
         "place_of_birth": "Thessaloniki (Griechenland)",
         "place_of_burial": "Basilika San Clemente, Rom",
         "notes": "Die Brüder Kyrill (Konstantin) und Method (Michael), geboren in Thessaloniki (heutiges Thessaloniki, Griechenland) zu Beginn des 9. Jahrhunderts, evangelisierten die Völker von Pannonien und Mähren. Sie erfanden das glagolitische Alphabet, um in slawischer Sprache zu schreiben, und übersetzten die Heilige Schrift und die liturgischen Texte für die neuen Völker, zu denen sie gesandt worden waren. Trotz der Opposition einiger Bischöfe aus dem deutschen Raum wurde ihre Mission von Papst Hadrian II. genehmigt. Kyrill starb am 14. Februar 869 in Rom. Method, zum Erzbischof von Sirmium (heutiges Sremska Mitrovica, Serbien) und päpstlichen Legaten bei den Slawen gewählt, starb am 6. April 885 in Mähren (heutige Tschechische Republik). Die Verkündigung des Evangeliums an neue Völker unter Achtung ihrer Kultur, wie sie von diesen Heiligen durchgeführt wurde, „bleibt ein lebendiges Modell für die Kirche und die Missionare aller Zeiten“ (Johannes Paul II., Slavorum apostoli, 7).",
@@ -450,7 +450,7 @@
         "main_shrine": "Basilika Santa Maria sopra Minerva, Rom"
     },
     "StPiusV_49": {
-        "subject": "Papst Pius V.",
+        "subject": "Sankt Pius V., Papst",
         "places": "Bosco Marengo (Italien); Rom (Italien)",
         "place_of_death": "Rom (Italien)",
         "place_of_birth": "Bosco Marengo, Alessandria (Italien)",
@@ -482,8 +482,8 @@
     "StsNereusAchilleus_53": {
         "subject": "Heilige Nereus und Achilleus, Märtyrer",
         "places": "Rom (Italien)",
-        "place_of_death": "Rom",
-        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_death": "Rom (Italien)",
+        "place_of_birth": "n. z.",
         "place_of_burial": "Katakomben von Domitilla",
         "notes": "Nereus und Achilleus, so die Überlieferung, waren zwei Soldaten, die durch das Beispiel der Standhaftigkeit der gefolterten Christen zum Glauben bekehrt und zum Martyrium geführt wurden. Sie wurden auf der Via Ardeatina enthauptet und im Friedhof von Domitilla beigesetzt. Über ihr Martyrium, das wahrscheinlich während der ersten Verfolgung durch Diokletian (303-305) stattfand, schreibt Papst Damasus in der von ihm auf ihrem Grab angebrachten Inschrift. Die beiden Märtyrer, deren Kult seit dem 6. Jahrhundert bezeugt ist, werden am 12. Mai im Hieronymianischen Martyrologium (5.-6. Jahrhundert) erwähnt. Im Jahr 1215 wurden ihre Reliquien in die Kirche Sant'Adriano al Foro (die Curia Iulia) im Forum Romanum überführt, und 1597 wurden diese Reliquien zusammen mit denen, die als Reliquien der Flavia Domitilla gelten, feierlich von dieser Kirche in die Kirche der Heiligen Nereus und Achilleus auf dem Caelius-Hügel gebracht.",
         "patronage": "",
