@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-08 11:48+0000\n"
+"POT-Creation-Date: 2024-07-10 05:11+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -193,48 +193,52 @@ msgstr ""
 msgid "PAPER"
 msgstr ""
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:37
+#: src/AnniversaryCalculator/Enums/AnnivType.php:39
 msgid "birth"
 msgstr ""
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:38
+#: src/AnniversaryCalculator/Enums/AnnivType.php:40
 msgid "death"
 msgstr ""
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:39
+#: src/AnniversaryCalculator/Enums/AnnivType.php:41
 msgid "canonization"
 msgstr ""
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:40
+#: src/AnniversaryCalculator/Enums/AnnivType.php:42
 msgid "doctor"
 msgstr ""
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:41
+#: src/AnniversaryCalculator/Enums/AnnivType.php:43
 msgid "dedication"
 msgstr ""
 
 #. translators: term "translation" refers to the transferral of the relics of a saint
-#: src/AnniversaryCalculator/Enums/AnnivType.php:43
+#: src/AnniversaryCalculator/Enums/AnnivType.php:45
 msgid "translation"
 msgstr ""
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:44
+#: src/AnniversaryCalculator/Enums/AnnivType.php:46
 msgid "dogma"
 msgstr ""
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:45
+#: src/AnniversaryCalculator/Enums/AnnivType.php:47
 msgid "apparition"
 msgstr ""
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:46
+#: src/AnniversaryCalculator/Enums/AnnivType.php:48
 msgid "pontifical incoronation"
 msgstr ""
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:47
+#: src/AnniversaryCalculator/Enums/AnnivType.php:49
 msgid "ecumenical council"
 msgstr ""
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:48
+#: src/AnniversaryCalculator/Enums/AnnivType.php:50
+msgid "encyclical"
+msgstr ""
+
+#: src/AnniversaryCalculator/Enums/AnnivType.php:51
 msgid "other"
 msgstr ""
 
