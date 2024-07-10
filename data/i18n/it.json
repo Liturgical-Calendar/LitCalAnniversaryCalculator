@@ -304,7 +304,7 @@
         "places": "Gerusalemme (Israele / Palestina)",
         "place_of_death": "Gerusalemme",
         "place_of_birth": "Gerusalemme",
-        "place_of_burial": "N/A",
+        "place_of_burial": "Chiesa dei Discepoli (o degli Apostoli) all'Eleona, Monte degli Ulivi (Gerusalemme, Israele / Palestina)",
         "notes": "Cirillo (ca. 315 - 387), vescovo di Gerusalemme, fu coinvolto drammaticamente nelle profonde divisioni della Chiesa del suo tempo: calunniato e più volte esiliato, si mantenne fedele alla dottrina proclamata nel Concilio di Nicea (325). A lui sono attribuite alcune celebri catechesi battesimali.",
         "patronage": "",
         "main_shrine": "N/A"
@@ -341,7 +341,7 @@
     },
     "StIsidore_38": {
         "subject": "Sant'Isidoro, vescovo e dottore della Chiesa",
-        "places": "N/A",
+        "places": "Cartagena (Spagna); Siviglia (Spagna)",
         "place_of_death": "Siviglia (Spagna)",
         "place_of_birth": "Cartagena (Spagna)",
         "place_of_burial": "Real Colegiata Basílica de San Isidoro (León, Spagna)",
@@ -351,7 +351,7 @@
     },
     "StVincentFerrer_39": {
         "subject": "San Vincenzo Ferrer, sacerdote",
-        "places": "N/A",
+        "places": "Valencia (Spagna); Vannes (Francia)",
         "place_of_death": "Vannes (Francia)",
         "place_of_birth": "València, Spagna",
         "place_of_burial": "Cattedrale di San Pietro a Vannes (Francia)",
@@ -361,17 +361,17 @@
     },
     "StJohnBaptistDeLaSalle_40": {
         "subject": "San Giovanni Battista de la Salle, sacerdote",
-        "places": "N/A",
-        "place_of_death": "Saint Yon presso Rouen (Francia)",
+        "places": "Reims (Francia); Rouens (Francia)",
+        "place_of_death": "Cappella di Saint-Yon (Rouen, Francia)",
         "place_of_birth": "Reims (Francia)",
-        "place_of_burial": "Giovanni Battista de La Salle fu sepolto nella chiesa di Saint-Sever, un quartiere di Rouen. Nel 1734 il suo corpo fu riportato a Saint-Yon nella cappella del suo pensionato, poi nel 1835 fu traslato in quella della Scuola normale di Rouen. A Reims fu fatta costruire, nel 1898, una chiesa dedicata a lui. Nel 1937 le sue reliquie furono trasferite a Roma.",
+        "place_of_burial": "Chiesa di Saint-Sever (Rouen, Francia; poi nel 1734 alla cappella di Saint-Yon (Rouen, Francia); poi nel 1835 alla Scuola normale di Rouen (Francia); poi nel 1937 le sue reliquie furono trasferite a Roma (Italia)",
         "notes": "Giovanni Battista (Reims, Francia, 30 aprile 1651 - Saint Yon presso Rouen, 7 aprile 1719), dopo essersi preso cura, alla morte dei genitori, dei suoi numerosi fratelli, ordinato presbitero si dedicò alla gioventù disagiata, aprendo scuole per poveri e redigendo testi per la formazione dei maestri. Fondò la Congregazione dei Fratelli delle Scuole Cristiane, dedita all’educazione popolare.",
         "patronage": "",
         "main_shrine": "Chiesa e Santuario di San Giovanni Battista de La Salle, Casa generalizia Fratelli delle Scuole Cristiane, Roma"
     },
     "StStanislaus_41": {
         "subject": "San Stanislao, vescovo e martire",
-        "places": "N/A",
+        "places": "Szczepanów (Polonia); Cracovia (Polonia)",
         "place_of_death": "Cracovia (Polonia)",
         "place_of_birth": "Szczepanowice (Polonia)",
         "place_of_burial": "Cattedrale di Cracovia (Polonia)",
@@ -401,7 +401,7 @@
     },
     "StGeorge_44": {
         "subject": "San Giorgio, martire",
-        "places": "N/A",
+        "places": "Lidda (vicino all'attuale Tel Aviv, Israele)",
         "place_of_death": "Nicomedia (attuale İzmit), Turchia | oppure | Lidda (attuale Lod) - Tel Aviv, Israele",
         "place_of_birth": "Cappadocia, Turchia",
         "place_of_burial": "Lidda, Tel Aviv (Israele)",
@@ -431,7 +431,7 @@
     },
     "StPeterChanel_47": {
         "subject": "San Pietro Chanel, sacerdote e martire",
-        "places": "N/A",
+        "places": "Montrevel-en-Bresse (Francia); Isola di Futuna (Isole Hoorn, Oceania)",
         "place_of_death": "Futuna, Oceania francese",
         "place_of_birth": "Montrevel-en-Bresse (Francia),",
         "place_of_burial": "I resti del missionario, seppelliti frettolosamente, furono in seguito reclamati da M. Lavaux, comandante francese della stazione navale di Tahiti, e riportati in Francia con un mezzo di trasporto del governo, nel 1842.",
@@ -451,7 +451,7 @@
     },
     "StPiusV_49": {
         "subject": "San Pio V, papa",
-        "places": "N/A",
+        "places": "Bosco Marengo (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Bosco Marengo, Alessandria (Italia)",
         "place_of_burial": "Basilica di Santa Maria Maggiore, Roma",
@@ -461,13 +461,13 @@
     },
     "StJosephWorker_50": {
         "subject": "San Giuseppe Lavoratore",
-        "places": "N/A",
-        "place_of_death": "N/A",
-        "place_of_birth": "N/A",
-        "place_of_burial": "N/A",
+        "places": "Betlemme (Palestina); Nazaret (Israele)",
+        "place_of_death": "Nazaret (Israele)",
+        "place_of_birth": "Betlemme (Palestina)",
+        "place_of_burial": "Nazaret (Israele)",
         "notes": "Giuseppe, sposo della Vergine Maria e padre putativo di Gesù, viene presentato nei Vangeli come «falegname» (Mt 13, 55). Fu Pio XII, nel 1955, a introdurre questa memoria, per dare un «crisma cristiano» alla ricorrenza laica del primo maggio, diffusa dal secolo XIX in molti paesi quale data simbolica delle lotte per il riconoscimento dei diritti dei lavoratori. Questa celebrazione liturgica intende richiamare la grande dignità del lavoro umano che continua l’opera del Creatore e fu condiviso dal Figlio di Dio fatto uomo, anch’egli chiamato, nei Vangeli, «falegname » (Mc 6, 3). Laborem Exercens è una enciclica pubblicata dal papa Giovanni Paolo II il 14 settembre 1981. Tratta del lavoro umano nel 90º anniversario della Rerum Novarum.",
         "patronage": "",
-        "main_shrine": "N/A"
+        "main_shrine": "Chiesa della Nutrizione (Nazaret, Israele)"
     },
     "StAthanasius_51": {
         "subject": "Sant'Atanasio, vescovo e dottore",
