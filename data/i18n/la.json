@@ -362,16 +362,16 @@
     "StJohnBaptistDeLaSalle_40": {
         "subject": "Sanctus Ioannes Baptista de la Salle, sacerdos",
         "places": "Remi (Gallia); Rotomagus (Gallia)",
-        "place_of_death": "Sanctus Yon apud Rotomagum (Francia)",
+        "place_of_death": "Sacellum Sancti-Yon (Rotomagum, Gallia)",
         "place_of_birth": "Remi (Francia)",
-        "place_of_burial": "Ioannes Baptista de La Salle sepultus est in ecclesia Sancti Severi, in vico Rothomagi. Anno 1734 corpus eius relatum est ad Sanctum Yon in sacellum pensionati sui, deinde anno 1835 translatum est in sacellum Scholae normalis Rothomagi. Remis, anno 1898, ecclesia ei dicata aedificata est. Anno 1937 reliquiae eius Romam translatae sunt.",
+        "place_of_burial": "Ecclesia Sancti Severi (Rotomagi, Gallia; deinde anno 1734 ad sacellum Sancti Yon (Rotomagi, Gallia); deinde anno 1835 ad Scholam normalem Rotomagi (Gallia); deinde anno 1937 eius reliquiae Romam (Italia) translatae sunt",
         "notes": "Ioannes Baptista (Remi, Gallia, 30 Aprilis 1651 - Sanctus Yon apud Rothomagum, 7 Aprilis 1719), postquam curam fratrum suorum multorum, parentibus mortuis, gessit, presbyter ordinatus iuventuti pauperi se dicavit, scholas pro pauperibus aperiens et textus ad magistrorum formationem redigens. Congregationem Fratrum Scholarum Christianarum, educationi populari deditam, fundavit.",
         "patronage": "",
         "main_shrine": "Ecclesia et Sanctuarium Sancti Ioannis Baptistae de La Salle, Domus generalitia Fratrum Scholarum Christianarum, Roma"
     },
     "StStanislaus_41": {
         "subject": "Sanctus Stanislaus, episcopus et martyr",
-        "places": "Sanctus Vincentius Ferrerius, sacerdos",
+        "places": "Szczepanów (Polonia); Cracovia (Polonia)",
         "place_of_death": "Cracovia (Polonia)",
         "place_of_birth": "Szczepanowice (Polonia)",
         "place_of_burial": "Cathedrale Cracoviae (Polonia)",
@@ -401,7 +401,7 @@
     },
     "StGeorge_44": {
         "subject": "Sanctus Georgius, martyr",
-        "places": "Sanctus Vincentius Ferrerius, sacerdos",
+        "places": "Lydda (prope Tel Aviv, Israel)",
         "place_of_death": "Nicomedia (hodierna İzmit), Turcia | vel | Lydda (hodierna Lod) - Tel Aviv, Israel",
         "place_of_birth": "Cappadocia, Turcia",
         "place_of_burial": "Lydda, Tel Aviv (Israel)",
@@ -431,7 +431,7 @@
     },
     "StPeterChanel_47": {
         "subject": "Sanctus Petrus Chanel, sacerdos et martyr",
-        "places": "Sanctus Georgius, martyr",
+        "places": "Montrevel-en-Bresse (Gallia); Insula Futuna (Insulae Hoorn, Oceania)",
         "place_of_death": "Futuna, Oceania Gallica",
         "place_of_birth": "Montrevel-en-Bresse (Gallia)",
         "place_of_burial": "Reliquiae missionarii, festinanter sepultae, postea a M. Lavaux, praefecto stationis navalis Tahiti, reclamatae sunt et in Galliam cum medio transportu gubernationis, anno 1842, reportatae sunt.",
@@ -444,15 +444,15 @@
         "places": "Senae, Roma",
         "place_of_death": "Puteoli (Francia)",
         "place_of_birth": "Sena (Italia)",
-        "place_of_burial": "Puteoli (Francia)",
+        "place_of_burial": "Roma (Italia)",
         "notes": "Catharina (Senae, 1347 - Roma, 29 Aprilis 1380) se, adulescentula, orationi et paenitentiae apud propriam domum dedit; postea inter «mantellatas» Tertii Ordinis Dominicanorum admissa est. Intense publice egit, et pacis operatrix in societate contentionibus lacerata, et reformae Ecclesiae franca et appassionata fautrix. Reditum papae ab Avinione promovit et ad superandum magnum schisma, quod mox in sede Romana et in toto Occidente ortum est, operata est. Scripta theologicae densitatis et incisivi sermonis composuit, inter quae Dialogus divinae Providentiae. Patrona Italiae anno 1939 et Europae anno 1999 proclamata est.",
         "patronage": "",
         "main_shrine": "Basilica Sanctae Mariae supra Minervam, Roma"
     },
     "StPiusV_49": {
         "subject": "Sanctus Pius V, papa",
-        "places": "Sanctus Georgius, martyr",
-        "place_of_death": "Puteoli (Francia)",
+        "places": "Bosco Marengo (Italia); Roma (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Bosco Marengo, Alexandria (Italia)",
         "place_of_burial": "Basilica Sanctae Mariae Maioris, Roma",
         "notes": "Michael (saeculo Antonius) Ghislieri (Bosco Marengo, Alexandria, 17 Ianuarii 1504 - Roma, 1 Maii 1572), Dominicanus, fuit papa ab 1566. Primam applicationem Concilii Tridentini attuavit, incipiens a curia romana et Urbe. Catechismum (1566) publicavit, reformationem Breviarii (1568) et Missalis (1570) curavit. Fidem in Europa et Oriente diffundere promovit, eamque contra expansionem Ottomanicam defendit (Lepanto, 7 Octobris 1571).",
@@ -461,13 +461,13 @@
     },
     "StJosephWorker_50": {
         "subject": "Sanctus Ioseph Opifex",
-        "places": "Sanctus Pius V, papa",
-        "place_of_death": "Sanctus Pius V, papa",
-        "place_of_birth": "Sanctus Pius V, papa",
-        "place_of_burial": "Sanctus Pius V, papa",
+        "places": "Bethlehem (Palaestina), Nazareth (Israël)",
+        "place_of_death": "Nazareth (Israel)",
+        "place_of_birth": "Bethlehem (Palaestina)",
+        "place_of_burial": "Nazareth (Israel)",
         "notes": "Ioseph, sponsus Virginis Mariae et putativus pater Iesu, in Evangeliis «faber lignarius» (Mt 13, 55) praesentatur. Pius XII, anno 1955, hanc memoriam introduxit, ut «chrisma christianum» daret laicae celebrationi primi Maii, quae a saeculo XIX in multis nationibus ut data symbolica certaminum pro recognitione iurium operariorum diffusa erat. Haec celebratio liturgica magnam dignitatem laboris humani, qui opus Creatoris continuat et a Filio Dei homine facto, etiam in Evangeliis «faber lignarius» (Mc 6, 3) appellato, participata est, revocare intendit. Laborem Exercens est encyclica a papa Ioanne Paulo II die 14 Septembris 1981 edita. De labore humano in 90º anniversario Rerum Novarum tractat.",
         "patronage": "",
-        "main_shrine": "Sanctus Pius V, papa"
+        "main_shrine": "Ecclesia Nutritionis (Nazareth, Israel)"
     },
     "StAthanasius_51": {
         "subject": "Sanctus Athanasius, episcopus et doctor",
