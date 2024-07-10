@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-08 11:48+0000\n"
+"POT-Creation-Date: 2024-07-10 05:11+0000\n"
 "PO-Revision-Date: 2024-07-08 12:20+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Portuguese <https://translate.johnromanodorazio.com/projects/"
@@ -90,9 +90,9 @@ msgid ""
 "is needed as a backup for any possible missing strings in the translation "
 "for %3$s."
 msgstr ""
-"%1$d dados de eventos foram carregados do arquivo de tradução em inglês %2$"
-"s, que é necessário como backup para qualquer possível falta de strings na "
-"tradução para %3$s."
+"%1$d dados de eventos foram carregados do arquivo de tradução em inglês "
+"%2$s, que é necessário como backup para qualquer possível falta de strings "
+"na tradução para %3$s."
 
 #. translators: 1. filename, 2. count, 3. filename, 4. count
 #: src/AnniversaryCalculator.php:368
@@ -118,7 +118,8 @@ msgstr ""
 #: src/AnniversaryCalculator.php:451
 #, php-format
 msgid "%1$d liturgical anniversary events were calculated for the year %2$d."
-msgstr "%1$d eventos do aniversário litúrgico foram calculados para o ano %2$d."
+msgstr ""
+"%1$d eventos do aniversário litúrgico foram calculados para o ano %2$d."
 
 #. translators: 1. language
 #: src/AnniversaryCalculator.php:458
@@ -214,48 +215,52 @@ msgstr "MADEIRA"
 msgid "PAPER"
 msgstr "PAPEL"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:37
+#: src/AnniversaryCalculator/Enums/AnnivType.php:39
 msgid "birth"
 msgstr "nascimento"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:38
+#: src/AnniversaryCalculator/Enums/AnnivType.php:40
 msgid "death"
 msgstr "morte"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:39
+#: src/AnniversaryCalculator/Enums/AnnivType.php:41
 msgid "canonization"
 msgstr "canonização"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:40
+#: src/AnniversaryCalculator/Enums/AnnivType.php:42
 msgid "doctor"
 msgstr "doutor"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:41
+#: src/AnniversaryCalculator/Enums/AnnivType.php:43
 msgid "dedication"
 msgstr "dedicação"
 
 #. translators: term "translation" refers to the transferral of the relics of a saint
-#: src/AnniversaryCalculator/Enums/AnnivType.php:43
+#: src/AnniversaryCalculator/Enums/AnnivType.php:45
 msgid "translation"
 msgstr "tradução"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:44
+#: src/AnniversaryCalculator/Enums/AnnivType.php:46
 msgid "dogma"
 msgstr "dogma"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:45
+#: src/AnniversaryCalculator/Enums/AnnivType.php:47
 msgid "apparition"
 msgstr "aparição"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:46
+#: src/AnniversaryCalculator/Enums/AnnivType.php:48
 msgid "pontifical incoronation"
 msgstr "coroação pontifícia"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:47
+#: src/AnniversaryCalculator/Enums/AnnivType.php:49
 msgid "ecumenical council"
 msgstr "concílio ecumênico"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:48
+#: src/AnniversaryCalculator/Enums/AnnivType.php:50
+msgid "encyclical"
+msgstr ""
+
+#: src/AnniversaryCalculator/Enums/AnnivType.php:51
 msgid "other"
 msgstr "outro"
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-08 11:48+0000\n"
+"POT-Creation-Date: 2024-07-10 05:11+0000\n"
 "PO-Revision-Date: 2024-07-08 12:20+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Spanish <https://translate.johnromanodorazio.com/projects/"
@@ -216,48 +216,52 @@ msgstr "MADERA"
 msgid "PAPER"
 msgstr "PAPEL"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:37
+#: src/AnniversaryCalculator/Enums/AnnivType.php:39
 msgid "birth"
 msgstr "nacimiento"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:38
+#: src/AnniversaryCalculator/Enums/AnnivType.php:40
 msgid "death"
 msgstr "muerte"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:39
+#: src/AnniversaryCalculator/Enums/AnnivType.php:41
 msgid "canonization"
 msgstr "canonización"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:40
+#: src/AnniversaryCalculator/Enums/AnnivType.php:42
 msgid "doctor"
 msgstr "doctor"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:41
+#: src/AnniversaryCalculator/Enums/AnnivType.php:43
 msgid "dedication"
 msgstr "dedicación"
 
 #. translators: term "translation" refers to the transferral of the relics of a saint
-#: src/AnniversaryCalculator/Enums/AnnivType.php:43
+#: src/AnniversaryCalculator/Enums/AnnivType.php:45
 msgid "translation"
 msgstr "traducción"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:44
+#: src/AnniversaryCalculator/Enums/AnnivType.php:46
 msgid "dogma"
 msgstr "dogma"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:45
+#: src/AnniversaryCalculator/Enums/AnnivType.php:47
 msgid "apparition"
 msgstr "aparición"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:46
+#: src/AnniversaryCalculator/Enums/AnnivType.php:48
 msgid "pontifical incoronation"
 msgstr "coronación pontificia"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:47
+#: src/AnniversaryCalculator/Enums/AnnivType.php:49
 msgid "ecumenical council"
 msgstr "concilio ecuménico"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:48
+#: src/AnniversaryCalculator/Enums/AnnivType.php:50
+msgid "encyclical"
+msgstr ""
+
+#: src/AnniversaryCalculator/Enums/AnnivType.php:51
 msgid "other"
 msgstr "otro"
 
