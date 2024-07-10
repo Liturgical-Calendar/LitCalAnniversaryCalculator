@@ -459,16 +459,6 @@
         "patronage": "",
         "main_shrine": "Basilica Sanctae Mariae Maioris, Roma"
     },
-    "StJosephWorker_50": {
-        "subject": "Sanctus Ioseph Opifex",
-        "places": "Bethlehem (Palaestina), Nazareth (Israël)",
-        "place_of_death": "Nazareth (Israel)",
-        "place_of_birth": "Bethlehem (Palaestina)",
-        "place_of_burial": "Nazareth (Israel)",
-        "notes": "Ioseph, sponsus Virginis Mariae et putativus pater Iesu, in Evangeliis «faber lignarius» (Mt 13, 55) praesentatur. Pius XII, anno 1955, hanc memoriam introduxit, ut «chrisma christianum» daret laicae celebrationi primi Maii, quae a saeculo XIX in multis nationibus ut data symbolica certaminum pro recognitione iurium operariorum diffusa erat. Haec celebratio liturgica magnam dignitatem laboris humani, qui opus Creatoris continuat et a Filio Dei homine facto, etiam in Evangeliis «faber lignarius» (Mc 6, 3) appellato, participata est, revocare intendit. Laborem Exercens est encyclica a papa Ioanne Paulo II die 14 Septembris 1981 edita. De labore humano in 90º anniversario Rerum Novarum tractat.",
-        "patronage": "",
-        "main_shrine": "Ecclesia Nutritionis (Nazareth, Israel)"
-    },
     "StAthanasius_51": {
         "subject": "Sanctus Athanasius, episcopus et doctor",
         "places": "Alexandria Aegypti",

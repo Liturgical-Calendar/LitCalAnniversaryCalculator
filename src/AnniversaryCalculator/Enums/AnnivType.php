@@ -14,6 +14,7 @@ class AnnivType
     public const APPARITION = "apparition";
     public const PONTIFICAL_INCORONATION = "pontifical_incoronation";
     public const ECUMENICAL_COUNCIL = "church_council";
+    public const ENCYCLICAL = "encyclical";
     public const OTHER = "other";
     private array $GTXT;
 
@@ -28,6 +29,7 @@ class AnnivType
         "apparition",
         "pontifical_incoronation",
         "ecumenical_council",
+        "encyclical",
         "other"
     ];
 
@@ -45,6 +47,7 @@ class AnnivType
             self::APPARITION    => strtoupper(_("apparition")),
             self::PONTIFICAL_INCORONATION => strtoupper(_("pontifical incoronation")),
             self::ECUMENICAL_COUNCIL => strtoupper(_("ecumenical council")),
+            self::ENCYCLICAL    => strtoupper(_("encyclical")),
             self::OTHER         => strtoupper(_("other"))
         ];
     }

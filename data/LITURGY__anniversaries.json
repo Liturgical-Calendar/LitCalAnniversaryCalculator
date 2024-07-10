@@ -600,19 +600,6 @@
             "calendar": "universal"
         },
         {
-            "event_idx": 50,
-            "event_key": "StJosephWorker",
-            "anniversary": "other",
-            "event_date": null,
-            "event_year": 1981,
-            "event_month": null,
-            "event_day": null,
-            "memorial_month": 5,
-            "memorial_day": 1,
-            "area": null,
-            "calendar": "universal"
-        },
-        {
             "event_idx": 51,
             "event_key": "StAthanasius",
             "anniversary": "death",
