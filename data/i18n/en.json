@@ -362,16 +362,16 @@
     "StJohnBaptistDeLaSalle_40": {
         "subject": "Saint John Baptist de la Salle, priest",
         "places": "Reims (France); Rouen (France)",
-        "place_of_death": "Saint Yon near Rouen (France)",
+        "place_of_death": "Chapel of Saint-Yon (Rouen, France)",
         "place_of_birth": "Reims (France)",
-        "place_of_burial": "John Baptist de La Salle was buried in the church of Saint-Sever, a district of Rouen. In 1734 his body was brought back to Saint-Yon in the chapel of his boarding school, then in 1835 it was transferred to that of the Rouen Normal School. A church dedicated to him was built in Reims in 1898. In 1937 his relics were transferred to Rome.",
+        "place_of_burial": "Church of Saint-Sever (Rouen, France; then in 1734 to the chapel of Saint-Yon (Rouen, France); then in 1835 to the Normal School of Rouen (France); then in 1937 his relics were transferred to Rome (Italy)",
         "notes": "John Baptist (Reims, France, April 30, 1651 - Saint Yon near Rouen, April 7, 1719), after taking care of his numerous siblings upon the death of his parents, was ordained a priest and dedicated himself to the disadvantaged youth by opening schools for the poor and writing texts for the training of teachers. He founded the Congregation of the Brothers of the Christian Schools, dedicated to popular education.",
         "patronage": "",
         "main_shrine": "Church and Shrine of Saint John Baptist de La Salle, General House of the Brothers of the Christian Schools, Rome"
     },
     "StStanislaus_41": {
         "subject": "Saint Stanislaus, bishop and martyr",
-        "places": "Lourdes (France)",
+        "places": "Szczepanów (Poland); Krakow (Poland)",
         "place_of_death": "Krakow (Poland)",
         "place_of_birth": "Szczepanowice (Poland)",
         "place_of_burial": "Cathedral of Krakow (Poland)",
@@ -392,8 +392,8 @@
     "StAnselm_43": {
         "subject": "Saint Anselm of Canterbury, bishop and doctor of the Church",
         "places": "Aosta (Italy), Canterbury (United Kingdom)",
-        "place_of_death": "Canterbury, United Kingdom",
-        "place_of_birth": "Aosta, Italy",
+        "place_of_death": "Canterbury (United Kingdom)",
+        "place_of_birth": "Aosta (Italy)",
         "place_of_burial": "Anselm died on April 21, 1109, Holy Wednesday, and was buried in Canterbury Cathedral. However, his remains were exhumed during the religious unrest that took place during the reign of Henry VIII of England and their traces were lost.",
         "notes": "Anselm (Aosta, 1033/1034 - Canterbury, United Kingdom, April 21, 1109), for about thirty years a monk and abbot of Bec, in Normandy, became Archbishop of Canterbury and primate of England. He fought for the freedom of the Church against the encroachments of political power. A profound theologian, he knew how to value the role of reason in deepening the mysteries of faith.",
         "patronage": "",
@@ -401,7 +401,7 @@
     },
     "StGeorge_44": {
         "subject": "Saint George, martyr",
-        "places": "Lourdes (France)",
+        "places": "Lydda (near present-day Tel Aviv, Israel)",
         "place_of_death": "Nicomedia (current İzmit), Turkey | or | Lidda (current Lod) - Tel Aviv, Israel",
         "place_of_birth": "Cappadocia, Turkey",
         "place_of_burial": "Lydda, Tel Aviv (Israel)",
@@ -431,7 +431,7 @@
     },
     "StPeterChanel_47": {
         "subject": "Saint Peter Chanel, priest and martyr",
-        "places": "Lourdes (France)",
+        "places": "Montrevel-en-Bresse (France); Futuna Island (Hoorn Islands, Oceania)",
         "place_of_death": "Futuna, French Oceania",
         "place_of_birth": "Montrevel-en-Bresse (France),",
         "place_of_burial": "The remains of the missionary, hastily buried, were later claimed by M. Lavaux, French commander of the naval station in Tahiti, and brought back to France by a government transport in 1842.",
@@ -451,8 +451,8 @@
     },
     "StPiusV_49": {
         "subject": "Pope Saint Pius V",
-        "places": "Lourdes (France)",
-        "place_of_death": "Nola (Italy)",
+        "places": "Bosco Marengo (Italy); Rome (Italy)",
+        "place_of_death": "Rome (Italy)",
         "place_of_birth": "Bosco Marengo, Alessandria (Italy)",
         "place_of_burial": "Basilica of Saint Mary Major, Rome",
         "notes": "Michel (born Anthony) Ghislieri (Bosco Marengo, Alexandria, January 17, 1504 - Rome, May 1, 1572), a Dominican, was pope from 1566. He implemented the first application of the Council of Trent, starting from the Roman curia and the city of Rome. He published the Catechism (1566), oversaw the reform of the Breviary (1568) and the Missal (1570). He promoted the spread of faith in Europe and the East, and defended it against the Ottoman expansion (Lepanto, October 7, 1571).",
@@ -461,13 +461,13 @@
     },
     "StJosephWorker_50": {
         "subject": "Saint Joseph the Worker",
-        "places": "Aosta (Italy), Canterbury (United Kingdom)",
-        "place_of_death": "Aosta (Italy), Canterbury (United Kingdom)",
-        "place_of_birth": "Aosta (Italy), Canterbury (United Kingdom)",
-        "place_of_burial": "Aosta (Italy), Canterbury (United Kingdom)",
+        "places": "Bethlehem (Palestine), Nazareth (Israel)",
+        "place_of_death": "Nazareth (Israel)",
+        "place_of_birth": "Bethlehem (Palestine)",
+        "place_of_burial": "Nazareth (Israel)",
         "notes": "Joseph, spouse of the Blessed Virgin Mary and putative father of Jesus, is presented in the Gospels as a \"carpenter\" (Mt 13, 55). It was Pius XII, in 1955, who introduced this memory, to give a \"Christian chrism\" to the secular recurrence of the first of May, widespread since the 19th century in many countries as a symbolic date of the struggles for the recognition of workers' rights. This liturgical celebration intends to recall the great dignity of human work that continues the work of the Creator and was shared by the Son of God made man, also called, in the Gospels, \"carpenter\" (Mc 6, 3). Laborem Exercens is an encyclical published by Pope John Paul II on September 14, 1981. It deals with human labor on the 90th anniversary of Rerum Novarum.",
         "patronage": "",
-        "main_shrine": "Aosta (Italy), Canterbury (United Kingdom)"
+        "main_shrine": "Church of the Nutrition (Nazareth, Israel)"
     },
     "StAthanasius_51": {
         "subject": "Saint Athanasius, bishop and doctor",
