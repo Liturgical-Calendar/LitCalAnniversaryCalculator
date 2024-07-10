@@ -212,7 +212,7 @@
     "StCyrilThessalonica_23": {
         "subject": "Heiliger Kyrill, Mönch",
         "places": "Thessaloniki (Griechenland), Rom (Italien)",
-        "place_of_death": "Rom",
+        "place_of_death": "Rom (Italien)",
         "place_of_birth": "Thessaloniki (Griechenland)",
         "place_of_burial": "Basilika San Clemente, Rom",
         "notes": "Die Brüder Kyrill (Konstantin) und Method (Michael), geboren in Thessaloniki (heutiges Thessaloniki, Griechenland) zu Beginn des 9. Jahrhunderts, evangelisierten die Völker von Pannonien und Mähren. Sie erfanden das glagolitische Alphabet, um in slawischer Sprache zu schreiben, und übersetzten die Heilige Schrift und die liturgischen Texte für die neuen Völker, zu denen sie gesandt worden waren. Trotz der Opposition einiger Bischöfe aus dem deutschen Raum wurde ihre Mission von Papst Hadrian II. genehmigt. Kyrill starb am 14. Februar 869 in Rom. Method, zum Erzbischof von Sirmium (heutiges Sremska Mitrovica, Serbien) und päpstlichen Legaten bei den Slawen gewählt, starb am 6. April 885 in Mähren (heutige Tschechische Republik). Die Verkündigung des Evangeliums an neue Völker unter Achtung ihrer Kultur, wie sie von diesen Heiligen durchgeführt wurde, „bleibt ein lebendiges Modell für die Kirche und die Missionare aller Zeiten“ (Johannes Paul II., Slavorum apostoli, 7).",
@@ -450,7 +450,7 @@
         "main_shrine": "Basilika Santa Maria sopra Minerva, Rom"
     },
     "StPiusV_49": {
-        "subject": "Papst Pius V.",
+        "subject": "Sankt Pius V., Papst",
         "places": "Bosco Marengo (Italien); Rom (Italien)",
         "place_of_death": "Rom (Italien)",
         "place_of_birth": "Bosco Marengo, Alessandria (Italien)",
@@ -482,8 +482,8 @@
     "StsNereusAchilleus_53": {
         "subject": "Heilige Nereus und Achilleus, Märtyrer",
         "places": "Rom (Italien)",
-        "place_of_death": "Rom",
-        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "place_of_death": "Rom (Italien)",
+        "place_of_birth": "n. z.",
         "place_of_burial": "Katakomben von Domitilla",
         "notes": "Nereus und Achilleus, so die Überlieferung, waren zwei Soldaten, die durch das Beispiel der Standhaftigkeit der gefolterten Christen zum Glauben bekehrt und zum Martyrium geführt wurden. Sie wurden auf der Via Ardeatina enthauptet und im Friedhof von Domitilla beigesetzt. Über ihr Martyrium, das wahrscheinlich während der ersten Verfolgung durch Diokletian (303-305) stattfand, schreibt Papst Damasus in der von ihm auf ihrem Grab angebrachten Inschrift. Die beiden Märtyrer, deren Kult seit dem 6. Jahrhundert bezeugt ist, werden am 12. Mai im Hieronymianischen Martyrologium (5.-6. Jahrhundert) erwähnt. Im Jahr 1215 wurden ihre Reliquien in die Kirche Sant'Adriano al Foro (die Curia Iulia) im Forum Romanum überführt, und 1597 wurden diese Reliquien zusammen mit denen, die als Reliquien der Flavia Domitilla gelten, feierlich von dieser Kirche in die Kirche der Heiligen Nereus und Achilleus auf dem Caelius-Hügel gebracht.",
         "patronage": "",
@@ -3427,14 +3427,14 @@
         "place_of_burial": "Kirche Saint-Hilaire le Grand, Poitiers (UNESCO-Welterbe)",
         "notes": "Hilarius (Poitiers, Frankreich, 310/320 - 367/368), Bischof seiner Heimatstadt, verteidigte mit hochkarätigen Schriften (darunter vor allem der Traktat De Trinitate) den Glauben an die volle Göttlichkeit des Sohnes, wie sie vom Konzil von Nizäa (325) gegen die Arianische Häresie bekräftigt wurde. Wegen seines entschiedenen Widerstands gegen die pro-arianischen Tendenzen des kaiserlichen Hofes wurde er verfolgt und ins Exil geschickt. Er wird im Hieronymianischen Martyrologium (5.-6. Jahrhundert) am 13. Januar erwähnt. Die Kirche Saint-Hilaire le Grand ist eine katholische Kirche in Poitiers, im Département Vienne, die dem heiligen Hilarius von Poitiers gewidmet ist. 1840 wurde sie zum historischen Denkmal Frankreichs erklärt und seit 1998 ist sie auch als UNESCO-Weltkulturerbe eingestuft, da sie eine Etappe des Jakobswegs entlang der Via Turonensis ist.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Köln (Deutschland)"
     },
     "StCyrilAlexandria_580": {
         "subject": "Der heilige Kyrill von Alexandria, Bischof und Kirchenlehrer",
-        "places": "",
+        "places": "Köln (Deutschland)",
         "place_of_death": "Alexandria, Ägypten",
         "place_of_birth": "Theodosia (heutiges el-Mahalla el-Kubra), Ägypten",
-        "place_of_burial": "",
+        "place_of_burial": "Köln (Deutschland)",
         "notes": "Kyrill, Bischof von Alexandria in Ägypten von 412 bis 444, verteidigte energisch die Reinheit des Glaubens an Christus. Als Autor zahlreicher theologischer Schriften setzte er sich besonders auf dem Konzil von Ephesus (431) entschieden für die Anerkennung Marias als Mutter Gottes ein. Sein Gedenken wird an diesem Tag auch von den Kopten und Byzantinern gefeiert.",
         "patronage": "",
         "main_shrine": "Ravenna (Italien)"
