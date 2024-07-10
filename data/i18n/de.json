@@ -362,16 +362,16 @@
     "StJohnBaptistDeLaSalle_40": {
         "subject": "Heiliger Johannes Baptist de la Salle, Priester",
         "places": "Reims (Frankreich); Rouen (Frankreich)",
-        "place_of_death": "Saint Yon bei Rouen (Frankreich)",
+        "place_of_death": "Kapelle von Saint-Yon (Rouen, Frankreich)",
         "place_of_birth": "Reims (Frankreich)",
-        "place_of_burial": "Johannes Baptist de La Salle wurde in der Kirche Saint-Sever, einem Stadtteil von Rouen, beigesetzt. 1734 wurde sein Körper nach Saint-Yon in die Kapelle seines Internats überführt, dann 1835 in die der Normalschule von Rouen. In Reims wurde 1898 eine ihm gewidmete Kirche erbaut. 1937 wurden seine Reliquien nach Rom überführt.",
+        "place_of_burial": "Kirche von Saint-Sever (Rouen, Frankreich; dann 1734 in die Kapelle von Saint-Yon (Rouen, Frankreich); dann 1835 in die Normalschule von Rouen (Frankreich); dann 1937 wurden seine Reliquien nach Rom (Italien) überführt)",
         "notes": "Johann Baptist (Reims, Frankreich, 30. April 1651 - Saint Yon bei Rouen, 7. April 1719), kümmerte sich nach dem Tod seiner Eltern um seine zahlreichen Geschwister und widmete sich nach seiner Priesterweihe der benachteiligten Jugend, indem er Schulen für Arme eröffnete und Texte zur Ausbildung von Lehrern verfasste. Er gründete die Kongregation der Brüder der Christlichen Schulen, die sich der Volksbildung widmet.",
         "patronage": "",
         "main_shrine": "Kirche und Heiligtum des Heiligen Johannes Baptist de La Salle, Generalhaus der Brüder der Christlichen Schulen, Rom"
     },
     "StStanislaus_41": {
         "subject": "Heiliger Stanislaus, Bischof und Märtyrer",
-        "places": "Lourdes (Frankreich)",
+        "places": "Szczepanów (Polen); Krakau (Polen)",
         "place_of_death": "Krakau (Polen)",
         "place_of_birth": "Szczepanowice (Polen)",
         "place_of_burial": "Kathedrale von Krakau (Polen)",
@@ -392,7 +392,7 @@
     "StAnselm_43": {
         "subject": "Heiliger Anselm von Canterbury, Bischof und Kirchenlehrer",
         "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
-        "place_of_death": "Canterbury, Vereinigtes Königreich",
+        "place_of_death": "Canterbury (Vereinigtes Königreich)",
         "place_of_birth": "Aosta, Italien",
         "place_of_burial": "Anselm starb am 21. April 1109, am Karsamstag, und wurde in der Kathedrale von Canterbury beigesetzt. Seine Überreste wurden jedoch während der religiösen Unruhen unter der Herrschaft von Heinrich VIII. von England exhumiert und gingen verloren.",
         "notes": "Anselm (Aosta, 1033/1034 - Canterbury, Vereinigtes Königreich, 21. April 1109), etwa dreißig Jahre lang Mönch und Abt von Bec in der Normandie, wurde Erzbischof von Canterbury und Primas von England. Er kämpfte für die Freiheit der Kirche gegen die Einmischung der politischen Macht. Als tiefgründiger Theologe wusste er die Rolle der Vernunft bei der Vertiefung der Glaubensgeheimnisse zu schätzen.",
@@ -401,7 +401,7 @@
     },
     "StGeorge_44": {
         "subject": "Heiliger Georg, Märtyrer",
-        "places": "Lourdes (Frankreich)",
+        "places": "Lidda (in der Nähe des heutigen Tel Aviv, Israel)",
         "place_of_death": "Nikomedia (heutiges İzmit), Türkei | oder | Lydda (heutiges Lod) - Tel Aviv, Israel",
         "place_of_birth": "Kappadokien, Türkei",
         "place_of_burial": "Lydda, Tel Aviv (Israel)",
@@ -431,7 +431,7 @@
     },
     "StPeterChanel_47": {
         "subject": "Sankt Peter Chanel, Priester und Märtyrer",
-        "places": "Lourdes (Frankreich)",
+        "places": "Montrevel-en-Bresse (Frankreich); Insel Futuna (Hoorn-Inseln, Ozeanien)",
         "place_of_death": "Futuna, Französisch-Ozeanien",
         "place_of_birth": "Montrevel-en-Bresse (Frankreich),",
         "place_of_burial": "Die Überreste des Missionars, die hastig begraben wurden, wurden später von M. Lavaux, dem französischen Kommandanten der Marinebasis in Tahiti, beansprucht und 1842 mit einem Transportmittel der Regierung nach Frankreich zurückgebracht.",
@@ -451,7 +451,7 @@
     },
     "StPiusV_49": {
         "subject": "Papst Pius V.",
-        "places": "Lourdes (Frankreich)",
+        "places": "Bosco Marengo (Italien); Rom (Italien)",
         "place_of_death": "Rom (Italien)",
         "place_of_birth": "Bosco Marengo, Alessandria (Italien)",
         "place_of_burial": "Basilika Santa Maria Maggiore, Rom",
@@ -461,13 +461,13 @@
     },
     "StJosephWorker_50": {
         "subject": "Heiliger Josef der Arbeiter",
-        "places": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
-        "place_of_death": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
-        "place_of_birth": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
-        "place_of_burial": "Aosta (Italien), Canterbury (Vereinigtes Königreich)",
+        "places": "Bethlehem (Palästina), Nazareth (Israel)",
+        "place_of_death": "Nazareth (Israel)",
+        "place_of_birth": "Bethlehem (Palästina)",
+        "place_of_burial": "Nazareth (Israel)",
         "notes": "Josef, Ehemann der Jungfrau Maria und Ziehvater Jesu, wird in den Evangelien als „Zimmermann“ (Mt 13, 55) vorgestellt. Es war Pius XII., der 1955 dieses Gedenken einführte, um dem weltlichen Feiertag des 1. Mai, der seit dem 19. Jahrhundert in vielen Ländern als symbolisches Datum für die Kämpfe um die Anerkennung der Rechte der Arbeiter verbreitet ist, einen „christlichen Anstrich“ zu geben. Diese liturgische Feier soll die große Würde der menschlichen Arbeit hervorheben, die das Werk des Schöpfers fortsetzt und vom Mensch gewordenen Sohn Gottes geteilt wurde, der in den Evangelien ebenfalls „Zimmermann“ genannt wird (Mk 6, 3). Laborem Exercens ist eine Enzyklika, die von Papst Johannes Paul II. am 14. September 1981 veröffentlicht wurde. Sie behandelt die menschliche Arbeit zum 90. Jahrestag der Rerum Novarum.",
         "patronage": "",
-        "main_shrine": "Aosta (Italien), Canterbury (Vereinigtes Königreich)"
+        "main_shrine": "Kirche der Ernährung (Nazareth, Israel)"
     },
     "StAthanasius_51": {
         "subject": "Heiliger Athanasius, Bischof und Kirchenlehrer",
