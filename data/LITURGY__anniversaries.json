@@ -756,19 +756,6 @@
             "calendar": "universal"
         },
         {
-            "event_idx": 63,
-            "event_key": "Visitation",
-            "anniversary": "other",
-            "event_date": "0000-05-31",
-            "event_year": 0,
-            "event_month": 5,
-            "event_day": 31,
-            "memorial_month": 5,
-            "memorial_day": 31,
-            "area": null,
-            "calendar": "universal"
-        },
-        {
             "event_idx": 64,
             "event_key": "StJustinMartyr",
             "anniversary": "death",
