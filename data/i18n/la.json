@@ -493,7 +493,7 @@
         "subject": "Sanctus Pancratius, martyr",
         "places": "Puteoli (Francia)",
         "place_of_death": "Roma",
-        "place_of_birth": "non pertinet",
+        "place_of_birth": "Sinnada (hodierna Şuhut, Turcia)",
         "place_of_burial": "Cœmeterium Octavillæ, Roma",
         "notes": "Pancratius (saec. III vel IV), martyr Romanus, sepultus est in cœmeterio Octavillæ, via Aurelia, ut cultus traditio testatur, confirmata a papa Symmacho (498-514) cum erectione in eo loco basilicæ in eius honorem. Antiquissimum martyrii narratio describit Pancratium ut adulescentem, vix quattuordecim annorum. Recolitur die 12 Maii in Martyrologio Hieronymiano (saec. V-VI).",
         "patronage": "",
@@ -581,13 +581,13 @@
     },
     "StJustinMartyr_64": {
         "subject": "Sanctus Iustinus martyr",
-        "places": "non pertinet",
-        "place_of_death": "Senenses (Italia)",
+        "places": "Nablus (Palaestina); Roma (Italia); Valletta (Melita)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Nablus (Palaestina)",
         "place_of_burial": "Cimiterium Sanctae Cyriacae (Basilica Sancti Laurentii extra Muros); Ecclesia Collegiata Sancti Silvestri Papae, Fabricae Romae (incerta identificatio?)",
         "notes": "Iustinus (Flavia Neapolis, hodierna Nablus, Palaestina, initium saec. II - Roma, 165) fuit studiosus veritatis investigator. Postquam in Christo veram sapientiam invenit, eam altius perscrutari et docere etiam auxilio philosophiae studuit. Scripsit duas Apologias christianismi – in prima quarum invenitur antiquissima descriptio celebrationis eucharisticae, in sua structura essentiali – et Dialogum cum Tryphone, in colloquio cum ambiente iudaico. Damnatus ad mortem ut christianus, plenam testimonium Veritati dedit. Eius memoria celebratur primo Iunii etiam ab Orthodoxis.",
         "patronage": "",
-        "main_shrine": "non pertinet"
+        "main_shrine": "Ecclesia Circumcisionis Domini vel \"Ecclesia Iesuitarum\" (Valletta, Melita)"
     },
     "StsMarcellinusPeter_65": {
         "subject": "Sancti Marcellinus et Petrus, martyres",
