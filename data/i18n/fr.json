@@ -493,7 +493,7 @@
         "subject": "Saint Pancrace, martyr",
         "places": "Italie",
         "place_of_death": "Rome",
-        "place_of_birth": "N/D",
+        "place_of_birth": "Sinnada (actuelle Şuhut, Turquie)",
         "place_of_burial": "Cimetière d'Ottavilla, Rome",
         "notes": "Pancrace (IIIe ou IVe siècle), martyr romain, fut enterré dans le cimetière d'Ottavilla, sur la via Aurelia, comme attesté par la tradition du culte, confirmée par le pape Symmaque (498-514) avec l'érection en ce lieu d'une basilique en son honneur. Le plus ancien récit du martyre décrit Pancrace comme très jeune, à peine quatorze ans. Il est commémoré le 12 mai dans le Martyrologe hiéronymien (Ve-VIe siècle).",
         "patronage": "",
@@ -581,13 +581,13 @@
     },
     "StJustinMartyr_64": {
         "subject": "Saint Justin martyr",
-        "places": "N/D",
+        "places": "Naplouse (Palestine) ; Rome (Italie) ; La Valette (Malte)",
         "place_of_death": "Italie",
         "place_of_birth": "Naplouse (Palestine)",
         "place_of_burial": "Cimetière de Sainte Ciriaca (Basilique de Saint Laurent hors les Murs); Église Collégiale de Saint Sylvestre Pape, Fabrica di Roma (identification incertaine?)",
         "notes": "Justin (Flavia Neapolis, actuelle Naplouse, Palestine, début du IIe siècle - Rome, 165) fut un passionné chercheur de la vérité. Après avoir trouvé en Christ la vraie sagesse, il s'engagea à l'approfondir et à l'enseigner même avec l'aide de la philosophie. Il écrivit deux Apologies du christianisme – dans la première desquelles se trouve la plus ancienne description de la célébration eucharistique, dans sa structure essentielle – et le Dialogue avec Tryphon, en confrontation avec le milieu juif. Condamné à mort comme chrétien, il donna un témoignage complet à la Vérité. Sa mémoire est célébrée le premier juin aussi par les Orthodoxes.",
         "patronage": "",
-        "main_shrine": "N/D"
+        "main_shrine": "Église de la Circoncision du Seigneur ou \"Église des Jésuites\" (La Valette, Malte)"
     },
     "StsMarcellinusPeter_65": {
         "subject": "Saints Marcellin et Pierre, martyrs",

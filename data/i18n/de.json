@@ -493,7 +493,7 @@
         "subject": "Heiliger Pancratius, Märtyrer",
         "places": "Rom (Italien); Lanciano (Italien)",
         "place_of_death": "Rom",
-        "place_of_birth": "N/V",
+        "place_of_birth": "Synnada (heutiges Şuhut, Türkei)",
         "place_of_burial": "Friedhof von Ottavilla, Rom",
         "notes": "Pancratius (3. oder 4. Jahrhundert), römischer Märtyrer, wurde auf dem Friedhof von Ottavilla an der Via Aurelia beigesetzt, wie die Kulttradition bezeugt, die von Papst Symmachus (498-514) durch den Bau einer Basilika zu seinen Ehren an diesem Ort bestätigt wurde. Der älteste Bericht über das Martyrium beschreibt Pancratius als sehr jung, erst vierzehn Jahre alt. Er wird am 12. Mai im Martyrologium Hieronymianum (5.-6. Jahrhundert) erwähnt.",
         "patronage": "",
@@ -581,13 +581,13 @@
     },
     "StJustinMartyr_64": {
         "subject": "Heiliger Justinus Märtyrer",
-        "places": "N/V",
-        "place_of_death": "Canterbury (Vereinigtes Königreich)",
+        "places": "Nablus (Palästina); Rom (Italien); Valletta (Malta)",
+        "place_of_death": "Rom (Italien)",
         "place_of_birth": "Nablus (Palästina)",
         "place_of_burial": "Friedhof Santa Ciriaca (Basilika San Lorenzo fuori le Mura); Kollegiatkirche San Silvestro Papa, Fabrica di Roma (unsichere Identifizierung?)",
         "notes": "Justinus (Flavia Neapolis, heutiges Nablus, Palästina, Anfang 2. Jh. - Rom, 165) war ein leidenschaftlicher Wahrheitssucher. Nachdem er in Christus die wahre Weisheit gefunden hatte, bemühte er sich, sie zu vertiefen und zu lehren, auch mit Hilfe der Philosophie. Er schrieb zwei Apologien des Christentums – in der ersten findet sich die älteste Beschreibung der Eucharistiefeier in ihrer wesentlichen Struktur – und den Dialog mit Tryphon, im Austausch mit dem jüdischen Umfeld. Als Christ zum Tode verurteilt, gab er ein vollständiges Zeugnis für die Wahrheit. Sein Gedenken wird auch von den Orthodoxen am 1. Juni gefeiert.",
         "patronage": "",
-        "main_shrine": "N/V"
+        "main_shrine": "Kirche der Beschneidung des Herrn oder \"Jesuitenkirche\" (Valletta, Malta)"
     },
     "StsMarcellinusPeter_65": {
         "subject": "Heilige Marcellinus und Petrus, Märtyrer",

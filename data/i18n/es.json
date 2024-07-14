@@ -493,7 +493,7 @@
         "subject": "San Pancracio, mártir",
         "places": "Roma (Italia)",
         "place_of_death": "Roma",
-        "place_of_birth": "N/D",
+        "place_of_birth": "Sinnada (actual Şuhut, Turquía)",
         "place_of_burial": "Cementerio de Ottavilla, Roma",
         "notes": "Pancracio (siglo III o IV), mártir romano, fue sepultado en el cementerio de Ottavilla, en la vía Aurelia, como atestigua la tradición de culto, confirmada por el papa Símaco (498-514) con la erección en ese lugar de una basílica en su honor. El relato más antiguo del martirio describe a Pancracio como muy joven, apenas catorce años. Es recordado el 12 de mayo en el Martirologio Jeronimiano (siglos V-VI).",
         "patronage": "",
@@ -581,13 +581,13 @@
     },
     "StJustinMartyr_64": {
         "subject": "San Justino mártir",
-        "places": "N/D",
-        "place_of_death": "Midland (Canadá)",
+        "places": "Nablus (Palestina); Roma (Italia); La Valeta (Malta)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Nablus (Palestina)",
         "place_of_burial": "Cementerio de Santa Ciriaca (Basílica de San Lorenzo Extramuros); Iglesia Colegiata de San Silvestre Papa, Fabrica di Roma (¿identificación incierta?)",
         "notes": "Justino (Flavia Neapolis, actual Nablus, Palestina, principios del siglo II - Roma, 165) fue un apasionado buscador de la verdad. Después de encontrar en Cristo la verdadera sabiduría, se dedicó a profundizarla y enseñarla también con la ayuda de la filosofía. Escribió dos Apologías del cristianismo – en la primera de las cuales se encuentra la descripción más antigua de la celebración eucarística, en su estructura esencial – y el Diálogo con Trifón, en confrontación con el entorno judío. Condenado a muerte como cristiano, dio pleno testimonio de la Verdad. Su memoria es celebrada el primero de junio también por los Ortodoxos.",
         "patronage": "",
-        "main_shrine": "N/D"
+        "main_shrine": "Iglesia de la Circuncisión del Señor o \"Iglesia de los Jesuitas\" (La Valeta, Malta)"
     },
     "StsMarcellinusPeter_65": {
         "subject": "Santos Marcelino y Pedro, mártires",
