@@ -493,7 +493,7 @@
         "subject": "São Pancrácio, mártir",
         "places": "Betsaida (Israel)",
         "place_of_death": "Roma",
-        "place_of_birth": "N/D",
+        "place_of_birth": "Sinnada (atual Şuhut, Turquia)",
         "place_of_burial": "Cemitério de Ottavilla, Roma",
         "notes": "Pancrácio (séc. III ou IV), mártir romano, foi sepultado no cemitério de Ottavilla, na via Aurélia, como atestado pela tradição de culto, confirmada pelo papa Símaco (498-514) com a ereção naquele local de uma basílica em sua honra. O mais antigo relato do martírio descreve Pancrácio como muito jovem, com apenas quatorze anos. É lembrado no dia 12 de maio no Martirológio Hieronymiano (séc. V-VI).",
         "patronage": "",
@@ -581,13 +581,13 @@
     },
     "StJustinMartyr_64": {
         "subject": "São Justino mártir",
-        "places": "N/D",
-        "place_of_death": "Siena (Itália)",
+        "places": "Nablus (Palestina); Roma (Itália); Valletta (Malta)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Nablus (Palestina)",
         "place_of_burial": "Cemitério de Santa Ciríaca (Basílica de São Lourenço fora dos Muros); Igreja Colegiada de São Silvestre Papa, Fabrica di Roma (identificação incerta?)",
         "notes": "Justino (Flavia Neapolis, atual Nablus, Palestina, início do séc. II - Roma, 165) foi um apaixonado pesquisador da verdade. Depois de encontrar em Cristo a verdadeira sabedoria, dedicou-se a aprofundá-la e a ensiná-la também com o auxílio da filosofia. Escreveu duas Apologias do cristianismo – na primeira das quais se encontra a mais antiga descrição da celebração eucarística, na sua estrutura essencial – e o Diálogo com Trifão, em confronto com o ambiente judaico. Condenado à morte como cristão, deu pleno testemunho à Verdade. Sua memória é celebrada no dia primeiro de junho também pelos Ortodoxos.",
         "patronage": "",
-        "main_shrine": "N/D"
+        "main_shrine": "Igreja da Circuncisão do Senhor ou \"Igreja dos Jesuítas\" (Valletta, Malta)"
     },
     "StsMarcellinusPeter_65": {
         "subject": "Santos Marcelino e Pedro, mártires",
