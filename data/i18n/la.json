@@ -603,7 +603,7 @@
         "subject": "Sancti Carolus Lwanga et socii, martyres",
         "places": "Namugongo (Uganda)",
         "place_of_death": "Kampala, Uganda",
-        "place_of_birth": "non pertinet",
+        "place_of_birth": "Bulimu (Uganda)",
         "place_of_burial": "Basilica Sanctorum Martyrum Ugandae, Namugongo, Uganda",
         "notes": "Carolus Lwanga († Kampala, Uganda, 3 Iunii 1886), princeps pagorum Mutesa I, regis Bugandae (in hodierna Uganda), accusatus est, una cum aliis dignitariis regni, quod vindictam spirituum propter fidem suam in Christum attraxisset. Ad rogum damnatus est una cum aliis viginti uno sociis, plerumque iuvenibus. Una cum his primis martyribus catholicis Africae nigrae, vitam pro Christo obtulerunt etiam nonnulli christiani anglicani.",
         "patronage": "",
@@ -631,17 +631,17 @@
     },
     "StEphrem_69": {
         "subject": "Sanctus Ephraem, diaconus et doctor",
-        "places": "non pertinet",
+        "places": "Nisibis (actuális Nusaybin, Turcia); Edessa (actuális Şanlıurfa, Turcia)",
         "place_of_death": "Edessa (actuale Şanliurfa), Turcia",
         "place_of_birth": "Nisibi (actuale Nusaybin), Turcia",
-        "place_of_burial": "non pertinet",
+        "place_of_burial": "Edessa (hodierna Şanlıurfa, Turcia)",
         "notes": "Ephraem (Nisibi, actuale Nusaybin, Turcia, 306 ca. - Edessa, actuale Şanliurfa, 9 Iunii 373) contulit ad fundationem scholae theologicae, primo in patria, deinde Edessae, ubi se transtulit post transitum Nisibi sub dominio Persarum. Hymnos liturgicos composuit imaginibus et rhythmorum divites, qui eum in toto Oriente christiano clarum fecerunt. Exemplum diaconatus in docendo, in liturgica animatione et in assistentia egentibus exercuit.",
         "patronage": "",
         "main_shrine": "non pertinet"
     },
     "StBarnabasAp_70": {
         "subject": "Sanctus Barnabas, apostolus",
-        "places": "non pertinet",
+        "places": "Salamina (Cyprus); Antiochia sull'Oronte (current Turkey); Mediolanum (Italy)",
         "place_of_death": "Cyprus",
         "place_of_birth": "Cyprus",
         "place_of_burial": "Monasterium Sancti Barnabae, Cyprus",
@@ -711,7 +711,7 @@
     },
     "StCyrilAlexandria_77": {
         "subject": "Sanctus Cyrillus Alexandrinus, episcopus et doctor",
-        "places": "non pertinet",
+        "places": "Theodosia (hodierna el-Mahalla el-Kubra, Aegyptus); Alexandria (Aegyptus)",
         "place_of_death": "Alexandria, Aegyptus",
         "place_of_birth": "Theodosia (hodierna el-Mahalla el-Kubra), Aegyptus",
         "place_of_burial": "non pertinet",
@@ -831,13 +831,13 @@
     },
     "LadyMountCarmel_89": {
         "subject": "Beata Maria Virgo de Monte Carmelo",
-        "places": "non pertinet",
+        "places": "Mons Carmelus (hodierna Haifa, Israel)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
         "notes": "Saeculo XII nonnulli peregrini se receperunt in montem Carmeli, in Palaestina, ubi Elias contra sacerdotes Baal pugnavit pro fidelitate Israel ad unicum Dominum (cf. 1 Reg 18, 20-40). Ibi formata est communitas contemplativa devotorum Mariae, exemplum inconditae adhaesionis Deo. Illa communitas fuit origo Ordinis Carmelitarum et multarum confraternitatum laicalium quae cultum Virginis Carmeli (vel Carmeli) diffuderunt. Ordo Carmelitarum coepit celebrare festum Beatae Virginis \"de Monte Carmelo\" in Anglia a secunda parte saeculi XIV omni die 17 Iulii, in relatione ad diem ultimae sessionis Concilii Lugdunensis (1274), in qua Ordo approbationem accepit quae eum a suppressionis periculo servavit; institutum est ad gratias agendas Virgini Mariae pro omnibus beneficiis Ordini concessis, ut protectrix et advocata. Postea, praesertim saeculo XVI, primaria momenti data est Scapulario, quod factum est immediatissimum motivum ad gratias agendas et amorem suum erga Matrem Dei affirmandum. Ideo eius celebratio anticipata est ad diem 16 Iulii, in relatione ad diem quo, secundum traditionem, Madonna apparuit sancto Simoni Stock tradens ei Scapulare (1251). [18] Haec commemoratio celeriter per totum mundum diffundetur, ita ut - in exhortatione apostolica \"Marialis Cultus\" - papa Paulus VI eam inter festa \"originaliter a particularibus familiis religiosis celebrata, sed quae hodie, propter diffusionem adeptam, vere ecclesialia dici possunt\" enumeret.",
         "patronage": "",
-        "main_shrine": "non pertinet"
+        "main_shrine": "Ecclesia \"Stella Maris\" ad Montem Carmeli (hodierna Haifa, Israel)"
     },
     "StLawrenceBrindisi_90": {
         "subject": "Sanctus Laurentius a Brundisio, sacerdos et doctor",
@@ -847,14 +847,14 @@
         "place_of_burial": "Conventus Annuntiationis, Villafranca del Bierzo, Hispania",
         "notes": "Laurentius (Brundisium, 22 Iulii 1559 - Olisipo, Lusitania, 22 Iulii 1619), religiosus cappuccinus, claruit scientia linguarum et Sacrae Scripturae. Implicatus in vasta praedicationis activitate per totam Europam, saepe missus in missiones diplomaticas pro Sancta Sede, ferventem vitam spiritualem coluit, praesertim in devota et prolongata celebratione Eucharistiae. Ecclesia Sanctae Mariae Angelorum Brundisii a sancto Laurentio a Brundisio aedificata est in terris eius proprietatis.",
         "patronage": "",
-        "main_shrine": "non pertinet"
+        "main_shrine": "Monasterium Annuntiationis apud Villafranca del Bierzo (Hispania)"
     },
     "StMaryMagdalene_91": {
         "subject": "Sancta Maria Magdalena",
         "places": "Basilica Sanctae Mariae Magdalenae apud Saint-Maximin-la-Sainte-Baume (Francia); Basilica Sanctae Mariae Magdalenae apud Vezelay (Francia); Basilica Sancti Ioannis de Florentinis apud Roma (Italia)",
-        "place_of_death": "non pertinet",
+        "place_of_death": "Sanctus-Maximinus-Sancta-Bauma (Gallia)",
         "place_of_birth": "Magdala (Palaestina Romana)",
-        "place_of_burial": "non pertinet",
+        "place_of_burial": "Basilica Sanctae Mariae Magdalenae (Saint-Maximin-la-Sainte-Baume, Gallia)",
         "notes": "Maria Magdalena, a Iesu sanata, inter mulieres quae ei in ministerio suo serviunt (cf. Lc 8, 2-3). Cum eo Hierosolymam ascendit et sub cruce et in sepultura eius adest (cf. Mt 27, 56.61; Io 19, 25). Mane post sabbatum, dum lacrimans ad sepulcrum vacuum moratur, ab eo visitatur, qui eam mandat discipulis nuntium resurrectionis suae ferre verbis sollemnibus: «Vade ad fratres meos et dic eis: “Ascendo ad Patrem meum et Patrem vestrum, Deum meum et Deum vestrum”» (Io 20, 17). Memoria eius die 22 iulii in Martyrologio Bedae (saec. VIII) indicatur. Papa Franciscus memoriam ad gradum festi die 3 iunii 2016 elevavit ut singularem eius munus primae testis resurrectionis et «apostolae apostolorum» (Praefatio) extolleret. Ut sancta catholica, reliquiae Mariae Magdalenae in Saint-Maximin-la-Sainte-Baume, Provincia, veneratae sunt, tantam peregrinorum multitudinem attrahentes ut magna basilica medio saeculo XIII exstructa sit, una ex clarissimis ecclesiis Gothicis meridionalis Franciae. Inventio reliquiarum Carolo II Andegavensi, dicto \"claudo\", anno 1279 tribuitur. Reliquiae a papa Bonifacio VIII anno 1295 convalidatae et in basilica Saint-Maximin-la-Sainte-Baume custoditae sunt. Quamvis ossa eius tempore Revolutionis Francicae dispersa sint, dictum est caput eius in sacrario suo in caverna La Sainte-Baume prope Massiliam remansisse, ubi sancta se recepisse dicitur; etiam de magnis miraculis et benedictionibus narratur ab iis qui ad sacrarium venerunt ad venerandam Magdalenam. Pes sanctae, in pretioso reliquiario ambitus Benvenuti Cellini custoditus, per saecula Romae in capella ad ingressum Pontis Sancti Angeli veneratus est, ultima ex maioribus reliquiis antequam ad sepulcrum Sancti Petri perveniretur. Pes hodie in Basilica Sancti Ioannis de' Florentinis conservatur. Aliae reliquiae, in filamentis capillorum, fragmentis camisiarum et parvis ossium reliquiis consistentes, in Collegiata Atranensi (SA) custodiuntur.",
         "patronage": "",
         "main_shrine": "Basilica Sanctae Mariae Magdalenae apud Sanctum-Maximinum-la-Sainte-Baume (Francia);"
@@ -871,7 +871,7 @@
     },
     "StJamesGreaterAp_93": {
         "subject": "Sanctus Iacobus, apostolus",
-        "places": "Magdala, Palaestina Romana",
+        "places": "Bethsaida (Israel); Hierosolyma (Israel / Palaestina); Sancti Iacobi (Gallaecia, Hispania)",
         "place_of_death": "Hierosolyma",
         "place_of_birth": "Bethsaida (Palaestina Romana)",
         "place_of_burial": "Basilica Sancti Iacobi, Santiago (Hispania)",
