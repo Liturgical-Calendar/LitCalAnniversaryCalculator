@@ -381,7 +381,7 @@
     },
     "StMartinPope_42": {
         "subject": "Saint Martin I, pope and martyr",
-        "places": "N/A",
+        "places": "Pian di San Martino (Todi, Umbria, Italy); Cherson (current Sevastopol, Crimea)",
         "place_of_death": "Cherson (current Akherson), Ukraine",
         "place_of_birth": "Todi (Perugia, Italy)",
         "place_of_burial": "Martin was buried in Cherson in the basilica of Saint Mary at Blachernae, becoming an object of veneration for the many miracles attributed to his intercession. Later, his remains were transferred to Rome and possibly buried in the church of Saint Martin ai Monti.",
@@ -437,7 +437,7 @@
         "place_of_burial": "The remains of the missionary, hastily buried, were later claimed by M. Lavaux, French commander of the naval station in Tahiti, and brought back to France by a government transport in 1842.",
         "notes": "Peter (Montrevel-en-Bresse, France, July 12, 1803 - Futuna, French Oceania, April 28, 1841), a priest of the Society of Mary (Marists), was one of the first missionaries in Western Oceania. After some good results in the work of evangelization, he fell victim to the hostility of local religious leaders. His martyrdom helped to bring the population of the island of Futuna closer to the faith.",
         "patronage": "",
-        "main_shrine": "N/A"
+        "main_shrine": "Shrine of Saint Peter Chanel, Poi (Futuna Island, Wallis and Futuna)"
     },
     "StCatherineSiena_48": {
         "subject": "Saint Catherine of Siena, virgin and doctor of the Church",
@@ -862,7 +862,7 @@
     "StBridget_92": {
         "subject": "Saint Bridget, Religious",
         "places": "Church of Saint Bridget in Vadstena, Sweden; Church of Saint Bridget in Rome (Italy)",
-        "place_of_death": "Bucchianico (Italy); Rome (Italy)",
+        "place_of_death": "Rome (Italy)",
         "place_of_birth": "Finsta, Sweden",
         "place_of_burial": "Church of Saint Bridget in Rome (Italy)",
         "notes": "Bridget (Finsta, Sweden, 1302/1303 - Rome, July 23, 1373), belonging to the high Swedish aristocracy, dedicated herself with her husband to an intense spiritual life and a fervent charitable activity. After the death of her spouse and the marriage of her eight children, she lived a time of solitude and prayer, at the end of which she founded the monastic Order of the Most Holy Savior, comprising a male and a female branch. Moving to Rome, she became famous for her prophecies and her calls for the reform of the Church, also committing herself to the return of the pope from Avignon. In 1999, Saint John Paul II proclaimed her the patroness of Europe.",
@@ -902,7 +902,7 @@
     "StIgnatiusLoyola_97": {
         "subject": "Saint Ignatius of Loyola, priest",
         "places": "Loyola, Spain; Rome (Italy)",
-        "place_of_death": "Bucchianico (Italy); Rome (Italy)",
+        "place_of_death": "Rome (Italy)",
         "place_of_birth": "Loyola, Spain",
         "place_of_burial": "Church of the Most Holy Name of Jesus, Rome",
         "notes": "Iñigo López (Loyola, Spain, 1491 - Rome, July 31, 1556), from a noble Basque family, was injured in the defense of the city of Pamplona. During his convalescence, reading the life of Christ and some saints marked the beginning of his conversion for him. A long journey led him through a period of spiritual discernment and a prolonged season of philosophical and theological studies, culminating in Paris. Here a group of companions formed around him, with whom he presented himself to Pope Paul III. They exposed their ideal to him: defense and propagation of the faith and absolute availability to the Roman Pontiff regarding any mission he wanted to entrust to them for the missionary expansion of the Gospel and the reform of the Church. The spirituality of the Society of Jesus has its cornerstone in the Spiritual Exercises, which summarize Ignatius's inner experience. Pope Gregory XV enrolled him among the saints in 1622.",
@@ -961,8 +961,8 @@
     },
     "StSixtusIIPope_103": {
         "subject": "Saint Sixtus II, pope, and companion martyrs",
-        "places": "Nola (Italy)",
-        "place_of_death": "Bucchianico (Italy); Rome (Italy)",
+        "places": "Rome (Italy)",
+        "place_of_death": "Rome (Italy)",
         "place_of_birth": "Greece",
         "place_of_burial": "Basilica of Saint Sixtus the Old, Rome (Italy)",
         "notes": "Sixtus, pope (257-258), according to the testimony of Saint Cyprian of Carthage, was arrested in the Callisto cemetery, on the Appian Way, during the persecution with which Emperor Valerian wanted to strike the leaders of the Church. Put to death on August 6, 258, along with four deacons, he was buried in the same Callisto cemetery. He will be followed in martyrdom, after three days, by another deacon, Saint Lawrence. He is remembered in the Roman Canon.",
@@ -1021,7 +1021,7 @@
     },
     "StsPontianHippolytus_109": {
         "subject": "Saints Pontian, pope, and Hippolytus, priest, martyrs",
-        "places": "Basilica of Saint James, Santiago (Spain)",
+        "places": "Rome (Italy)",
         "place_of_death": "Sardinia (Italy)",
         "place_of_birth": "N/A",
         "place_of_burial": "Catacombs of Callixtus (Rome, Italy)",
@@ -1121,8 +1121,8 @@
     },
     "StJosephCalasanz_119": {
         "subject": "Saint Joseph Calasanz, priest",
-        "places": "Basilica of Saint James, Santiago (Spain)",
-        "place_of_death": "Nola (Italy)",
+        "places": "Rome (Italy)",
+        "place_of_death": "Rome (Italy)",
         "place_of_birth": "Peralta de la Sal, Spain",
         "place_of_burial": "Church of Saint Pantaleo, Rome (Italy)",
         "notes": "Joseph (Peralta de la Sal, Spain, 1557 - Rome, August 25, 1646), from a noble family, embarked on an ecclesiastical career, going to Rome in search of a suitable arrangement. Here he encountered many initiatives to assist the poor and the sick, and collaborated with Saint Camillus de Lellis. Taking to heart the situation of poor children, lacking adequate education, he opened free schools for them and founded the Congregation of the Poor Regular Clerics of the Mother of God of the Pious Schools (Piarists).",
@@ -1162,8 +1162,8 @@
     "StGregoryGreat_123": {
         "subject": "Saint Gregory the Great, pope and doctor",
         "places": "Rome",
-        "place_of_death": "Basilica of Saint James, Santiago (Spain)",
-        "place_of_birth": "Basilica of Saint James, Santiago (Spain)",
+        "place_of_death": "Rome (Italy)",
+        "place_of_birth": "Rome (Italy)",
         "place_of_burial": "Basilica of Saint Peter in the Vatican",
         "notes": "Gregory (Rome, mid-6th century - March 12, 604), formerly the city prefect, was a monk and abbot of St. Andrew at the Caelian, as well as a papal envoy to Constantinople. Elected pope (590), he carried out a multifaceted activity both in governing the Church and in administering the city, in the dramatic context of the invasions of Germanic populations. He opened new ways for the mission, for example in England, and paid particular attention to liturgy and care for the poor. With his writings of pastoral, exegetical and hagiographic content, his letters and homilies, he was one of the great masters of the Middle Ages. The date of the liturgical memory corresponds to the day of his election to the pontificate.",
         "patronage": "",
@@ -1222,7 +1222,7 @@
     "StRobertBellarmine_129": {
         "subject": "Saint Robert Bellarmine, bishop and doctor",
         "places": "N/A",
-        "place_of_death": "Basilica of Saint James, Santiago (Spain)",
+        "place_of_death": "Rome (Italy)",
         "place_of_birth": "Montepulciano (Siena, Italy)",
         "place_of_burial": "Church of Saint Ignatius, Rome (Italy)",
         "notes": "Robert (Montepulciano, Siena, October 4, 1542 - Rome, September 17, 1621), a Jesuit, used his considerable theological expertise in complex doctrinal controversies (Disputations on the controversies of the Christian faith), as well as in the drafting of a popular catechism. Cardinal and Archbishop of Capua, he gave exemplary application to the Council of Trent, until the heavy Roman commitments led him to leave the diocese to devote himself entirely to the service of the universal Church.",
@@ -1361,8 +1361,8 @@
     },
     "StJohnLeonardi_143": {
         "subject": "Saint John Leonardi, priest",
-        "places": "Basilica of Saint James, Santiago (Spain)",
-        "place_of_death": "Nola (Italy)",
+        "places": "Rome (Italy)",
+        "place_of_death": "Rome (Italy)",
         "place_of_birth": "Diecimo (Lucca, Italy)",
         "place_of_burial": "Church of Santa Maria in Campitelli, Rome (Italy)",
         "notes": "John (Diecimo, Lucca, 1541 - Rome, October 9, 1609) dedicated himself to the religious education of boys, involving adult laypeople in the \"Company of Christian Doctrine\". He promoted the renewal of the clergy with the \"Confraternity of the Reformed Priests of the Blessed Virgin\", later known as the Clerics Regular of the Mother of God. In Rome, he met Saint Philip Neri and participated in the missionary fervor of the time, collaborating on the project of the future Congregation for the Propagation of the Faith and a college for the training of missionaries to the nations.",
@@ -1371,8 +1371,8 @@
     },
     "StCallistusIPope_144": {
         "subject": "Saint Callistus I, pope and martyr",
-        "places": "Alençon (France); Lisieux (France)",
-        "place_of_death": "Alençon (France); Lisieux (France)",
+        "places": "Rome (Italy)",
+        "place_of_death": "Rome (Italy)",
         "place_of_birth": "N/A",
         "place_of_burial": "Cemetery of Calepodius, Via Aurelia, Rome",
         "notes": "Callixtus, a former slave, was pope from 218 to 222. He tied his name to the first official cemetery of the Church of Rome, on the Appian Way. He suffered due to internal conflicts within the Christian community and underwent martyrdom in Rome, in the place where the church named after him stands. His burial in the Catacomb of Calepodius, on the Aurelia Way, is remembered on October 14 in the Depositio martyrum (336).",
@@ -1411,8 +1411,8 @@
     },
     "StIgnatiusAntioch_148": {
         "subject": "Saint Ignatius of Antioch, bishop and martyr",
-        "places": "Basilica of Saint James, Santiago (Spain)",
-        "place_of_death": "Basilica of Saint James, Santiago (Spain)",
+        "places": "Rome (Italy)",
+        "place_of_death": "Rome (Italy)",
         "place_of_birth": "Antioch of Syria (now Antakya), Turkey",
         "place_of_burial": "Basilica of San Clemente, Rome (Italy)",
         "notes": "Ignatius, bishop of Antioch of Syria (now Antakya, Turkey), during the time of Emperor Trajan (98-117) was arrested as a Christian and taken to Rome to be thrown to the beasts in the circus. On his journey, he was comforted by meeting with some Churches of Asia Minor, to which he left seven letters that have come down to us, a living document of his doctrine and pastoral concern, a testimony of his desire to follow Christ to martyrdom. Faced with some divisions, he strongly urged the Christian communities to maintain harmony, drawn from the one Eucharistic table, under the guidance of the bishop with his presbytery. His memory is celebrated on October 17 in the Syriac tradition; his name was included in the Roman Canon.",
@@ -1442,7 +1442,7 @@
     "StPaulCross_151": {
         "subject": "Saint Paul of the Cross, priest",
         "places": "Ovada, Alessandria (Italy); Monte Argentario (Italy); Rome (Italy)",
-        "place_of_death": "Basilica of Saint James, Santiago (Spain)",
+        "place_of_death": "Rome (Italy)",
         "place_of_birth": "Ovada, Alessandria (Italy)",
         "place_of_burial": "Basilica of Saints John and Paul at the Celio, Rome (Italy)",
         "notes": "Paul Danei (Ovada, Alessandria, January 3, 1694 - Rome, October 18, 1775), attracted by the veneration for the Crucifix, became a penitent in solitude, then dedicated himself to preaching. He gathered around him a first group of \"poor of Jesus\", from which later the Congregation of the Passion of Jesus Christ (Passionists) was born: its members commit themselves to spreading the devotion to the Passion, especially through popular missions. He also gave rise to the Passionist nuns, with monasteries that were schools of spiritual life also for other women. At the time of profession, he took the name of Paul of the Cross, which well expresses the center of his life and his mission.",
@@ -1511,8 +1511,8 @@
     },
     "StLeoGreat_160": {
         "subject": "Saint Leo the Great, pope and doctor",
-        "places": "Midland (Canada)",
-        "place_of_death": "Midland (Canada)",
+        "places": "Rome (Italy)",
+        "place_of_death": "Rome (Italy)",
         "place_of_birth": "Volterra or Anghiara (Italy)",
         "place_of_burial": "Basilica of Saint Peter in the Vatican",
         "notes": "Leo, known as the Great for the magnitude of his work and his teaching, as bishop of Rome, led the Church for twenty-one years (440-461). His figure emerges with universal historical prominence in the dialogue between the East and the West, and in the encounter-clash between the Latin world and the new European populations. Teacher and mystagogue, he centered his mission in the mystery of Christ man-God, professed in the doctrine of the Incarnate Word (Council of Chalcedon, 451), actualized in liturgical celebrations (Sermons on the mysteries), witnessed in life: \"to accomplish in works what is celebrated in the sacrament\". His name is linked to the oldest eucological fund of the Roman Missal (Veronese Sacramentary, attributed to him by tradition). His \"deposition\" on November 10 is remembered by the Geronimian Martyrology (5th-6th century) and by the Calendar of Saint Willibrord (8th century).",

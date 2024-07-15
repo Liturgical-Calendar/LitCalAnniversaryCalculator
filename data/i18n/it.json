@@ -381,8 +381,8 @@
     },
     "StMartinPope_42": {
         "subject": "San Martino I, papa e martire",
-        "places": "N/A",
-        "place_of_death": "Cherson (attuale Akherson), Ucraina",
+        "places": "Pian di San Martino (Todi, Umbria, Italia); Cherson (attuale Sebastopoli, Crimea)",
+        "place_of_death": "Cherson (attuale Sebastopoli, Ucraina)",
         "place_of_birth": "Todi (Perugia, Italia)",
         "place_of_burial": "Martino fu sepolto a Cherson nella basilica di Santa Maria ad Blachernas, divenendo oggetto di culto per i molti miracoli dovuti alla sua intercessione. In seguito la salma fu traslata a Roma e sepolta forse nella chiesa di San Martino ai Monti.",
         "notes": "Martino (Todi, Perugia, fine sec. VI - Cherson, attuale Akherson, Ucraina, 16 settembre 655) fu eletto papa (649) durante le ultime controversie cristologiche. Avendo difeso con fermezza la fede nelle due volontà di Cristo, quella divina e quella umana, suscitò la reazione dell’imperatore di Bisanzio Costante II che lo condannò all’esilio in Crimea, dove morì.",
@@ -437,7 +437,7 @@
         "place_of_burial": "I resti del missionario, seppelliti frettolosamente, furono in seguito reclamati da M. Lavaux, comandante francese della stazione navale di Tahiti, e riportati in Francia con un mezzo di trasporto del governo, nel 1842.",
         "notes": "Pietro (Montrevel-en-Bresse, Francia, 12 luglio 1803 - Futuna, Oceania francese, 28 aprile 1841), presbitero della Società di Maria (Maristi), fu uno dei primi missionari nell’Oceania occidentale. Dopo alcuni buoni risultati nell’opera di evangelizzazione, cadde vittima dell’ostilità dei capi religiosi locali. Il suo martirio contribuì ad avvicinare alla fede la popolazione dell’isola di Futuna.",
         "patronage": "",
-        "main_shrine": "N/A"
+        "main_shrine": "Santuario di San Pietro Chanel, Poi (isola di Futuna, Wallis e Futuna)"
     },
     "StCatherineSiena_48": {
         "subject": "Santa Caterina da Siena, vergine e dottore della Chiesa",
@@ -593,7 +593,7 @@
         "subject": "Santi Marcellino e Pietro, martiri",
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
-        "place_of_birth": "N/A",
+        "place_of_birth": "Roma (Italia)",
         "place_of_burial": "Catacomba dei Santi Marcellino e Pietro \"Ad duas lauros\", Roma (Italia)",
         "notes": "Marcellino, presbitero, e Pietro, esorcista, furono martirizzati a Roma sotto Diocleziano ( 303-305), sulla via Casilina, in località Tor Pignattara. Il futuro papa Damaso, in gioventù, poté raccogliere il racconto della loro morte dalla testimonianza dello stesso carnefice. I due martiri sono citati nel Canone Romano e ricordati il 2 giugno dal Martirologio geronimiano (sec. V-VI).",
         "patronage": "",
