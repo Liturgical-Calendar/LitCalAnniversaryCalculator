@@ -442,7 +442,7 @@
     "StCatherineSiena_48": {
         "subject": "Sancta Catharina Senensis, virgo et Ecclesiae doctor",
         "places": "Senae, Roma",
-        "place_of_death": "Puteoli (Francia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Sena (Italia)",
         "place_of_burial": "Roma (Italia)",
         "notes": "Catharina (Senae, 1347 - Roma, 29 Aprilis 1380) se, adulescentula, orationi et paenitentiae apud propriam domum dedit; postea inter «mantellatas» Tertii Ordinis Dominicanorum admissa est. Intense publice egit, et pacis operatrix in societate contentionibus lacerata, et reformae Ecclesiae franca et appassionata fautrix. Reditum papae ab Avinione promovit et ad superandum magnum schisma, quod mox in sede Romana et in toto Occidente ortum est, operata est. Scripta theologicae densitatis et incisivi sermonis composuit, inter quae Dialogus divinae Providentiae. Patrona Italiae anno 1939 et Europae anno 1999 proclamata est.",
@@ -491,7 +491,7 @@
     },
     "StPancras_54": {
         "subject": "Sanctus Pancratius, martyr",
-        "places": "Puteoli (Francia)",
+        "places": "Roma (Italia)",
         "place_of_death": "Roma",
         "place_of_birth": "Sinnada (hodierna Şuhut, Turcia)",
         "place_of_burial": "Cœmeterium Octavillæ, Roma",
@@ -561,8 +561,8 @@
     },
     "StPhilipNeri_61": {
         "subject": "Sanctus Philippus Neri, sacerdos",
-        "places": "Senenses (Italia)",
-        "place_of_death": "Senenses (Italia)",
+        "places": "Roma (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Florentia (Italia)",
         "place_of_burial": "Ecclesia Nova, Roma",
         "notes": "Philippus (Florentia, 21 Iulii 1515 - Roma, 26 Maii 1595), adulescens Romam perveniens, incurabilibus aegrotis et pauperibus peregrinis assistentiam dedit. Presbyter ordinatus, assiduus in confessionali fuit et Eucharistiam cum intensa devotione celebravit, usque ad mysticum transportum. Ex periodicis conventibus cum coetu suorum paenitentium – quos laeto stilo in dialogis spiritualibus et in activitatibus recreativis, culturalibus, caritativis instruxit – orta est experientia «Oratorii» et Congregatio sacerdotum quae eodem nomine appellatur, a Gregorio XIII die 15 Iulii 1575 recognita.",
@@ -573,7 +573,7 @@
         "subject": "Sanctus Augustinus Cantuariensis, episcopus",
         "places": "Cantuaria (Regnum Unitum)",
         "place_of_death": "Cantuaria (Regnum Unitum)",
-        "place_of_birth": "Senenses (Italia)",
+        "place_of_birth": "Roma (Italia)",
         "place_of_burial": "Cathedrale Cantuariensis (Regnum Unitum)",
         "notes": "Augustinus († Cantuaria, Regnum Unitum, 604 circiter), abbas monasterii Sancti Andreae in Caelio, Romae, fuit discipulus Gregorii Magni, qui eum cum nonnullis sociis misit ad evangelizandas gentes anglosaxonicas Angliae (596) cum stilo fundato in observantia traditionum illarum gentium. Eius praedicatio, cum evangelica mansuetudine et vitae exemplariitate ducta, regem Cantii et totum populum ad christianismum attraxit. Primus archiepiscopus Cantuariensis, a catholicis et anglicanis conditor Ecclesiae Anglicanae habetur. Eius memoria indicatur die 26 Maii in editione gallicana Martyrologii Hieronymiani.",
         "patronage": "",
@@ -591,9 +591,9 @@
     },
     "StsMarcellinusPeter_65": {
         "subject": "Sancti Marcellinus et Petrus, martyres",
-        "places": "Senenses (Italia)",
-        "place_of_death": "Senenses (Italia)",
-        "place_of_birth": "non pertinet",
+        "places": "Roma (Italia)",
+        "place_of_death": "Roma (Italia)",
+        "place_of_birth": "Roma (Italia)",
         "place_of_burial": "Catacumba Sanctorum Marcellini et Petri \"Ad duas lauros\", Roma (Italia)",
         "notes": "Marcellinus, presbyter, et Petrus, exorcista, Romae sub Diocletiano (303-305), via Casilina, in loco Tor Pignattara, martyrio affecti sunt. Futurus papa Damasus, in iuventute, potuit narrationem mortis eorum ex testimonio ipsius carnificis colligere. Duo martyres in Canone Romano citantur et secundo Iunii a Martyrologio Hieronymiano (saec. V-VI) commemorantur.",
         "patronage": "",
@@ -672,7 +672,7 @@
     "StAloysiusGonzaga_73": {
         "subject": "Sanctus Aloysius Gonzaga, religiosus",
         "places": "Castellio Stivieri (Italia); Roma (Italia)",
-        "place_of_death": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Castellio Stiviarum, Mantua (Italia)",
         "place_of_burial": "Ecclesia Sancti Ignatii de Loyola, Roma; cranium conservatur in basilica ei dicata in Castiglionis Stivieri",
         "notes": "Aloysius (Castellio Stivieri, Mantua, 9 Martii 1568 - Roma, 21 Iunii 1591), primogenitus heres marchionatus gonzaghensis urbis natalis, patris firmam oppositionem provocans, vitam et cursum curiae renuntiavit et in Societatem Iesu ingressus est, ubi, vivida intelligentia et forti voluntate praeditus, spirituali ductu sancti Roberti Bellarmini frui potuit. Generosa dedicatio pauperibus et aegrotis eius delicatam constitutionem physicam laesit et paucis annis ad mortem duxit.",
@@ -812,7 +812,7 @@
     "StCamillusDeLellis_87": {
         "subject": "Sanctus Camillus de Lellis, sacerdos",
         "places": "Bucchianicum (Italia); Roma (Italia)",
-        "place_of_death": "Basilica Sancti Iacobi, Santiago (Hispania)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Bucchianicum (Teate) (Italia)",
         "place_of_burial": "Ecclesia Sanctae Mariae Magdalenae, Roma (Italia)",
         "notes": "Camillus (Bucchianicum, Theate, 25 Maii 1550 - Roma, 14 Iulii 1614) iuvenis miles fortunae et ludo deditus fuit; fidem in conventu Capuccinorum Manfredoniae rediscovit; desiderans Ordinem ingredi, bis novitiatum incepit, sed ulcus incurabile in pede eum prohibuit. In nosocomio Sancti Iacobi de Incurabilibus Romae receptus, sanctum Philippum Nerium convenit qui eum in itinere spirituali adiuvit; postea se totum vitae in servitium Christi, in curam amantem membrorum eius patientium, devovit. Presbyter factus, Clericos regulares infirmis ministrantes (Camillianos) fundavit.",
@@ -902,7 +902,7 @@
     "StIgnatiusLoyola_97": {
         "subject": "Sanctus Ignatius de Loyola, sacerdos",
         "places": "Loyola, Hispania; Roma (Italia)",
-        "place_of_death": "Basilica Sancti Iacobi, Santiago (Hispania)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Loyola, Hispania",
         "place_of_burial": "Ecclesia Iesu, Roma",
         "notes": "Iñigo Lòpez (Loyola, Hispania, 1491 - Roma, 31 iulii 1556), ex nobili familia Vasconica, vulneratus est in defensione urbis Pompei. Durante convalescentiam, lectio vitae Christi et nonnullorum sanctorum initium conversionis ei fuit. Longum iter eum perduxit ad tempus discretionis spiritualis et ad longam periodum studiorum philosophicorum et theologorum, quae Parisiis culminaverunt. Ibi circa eum coetus sociorum formatus est, cum quibus se Papae Paulo III praesentavit. Ei suum idealem exposuerunt: defensio et propagatio fidei et absoluta promptitudo Romano Pontifici quoad quamlibet missionem quam eis pro expansion missionaria Evangelii et reformatione Ecclesiae committere vellet. Spiritualitas Societatis Iesu cardinem habet in Exercitiis spiritualibus, quae compendium sunt interioris experientiae Ignatii. Papa Gregorius XV eum inter sanctos anno 1622 adscripsit.",
@@ -962,7 +962,7 @@
     "StSixtusIIPope_103": {
         "subject": "Sancti Sixtus II, papa, et socii martyres",
         "places": "Roma (Italia)",
-        "place_of_death": "Basilica Sancti Iacobi, Santiago (Hispania)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Graecia",
         "place_of_burial": "Basilica Sancti Sixti Veteris, Roma (Italia)",
         "notes": "Sixtus, papa (257-258), secundum testimonium sancti Cypriani Carthaginensis captus est in coemeterio Callisti, via Appia, durante persecutione qua imperator Valerianus duces Ecclesiae ferire voluit. Die 6 Augusti 258, una cum quattuor diaconis, interfectus est et in eodem coemeterio Callisti sepultus. Post tres dies, alius diaconus, sanctus Laurentius, eum in martyrio sequitur. In Canone Romano commemoratur.",
@@ -1021,7 +1021,7 @@
     },
     "StsPontianHippolytus_109": {
         "subject": "Sancti Pontianus, papa, et Hippolytus, presbyter, martyres",
-        "places": "Puteoli (Francia)",
+        "places": "Roma (Italia)",
         "place_of_death": "Sardinia (Italia)",
         "place_of_birth": "non pertinet",
         "place_of_burial": "Catacumbae Callisti (Roma, Italia)",
@@ -1072,7 +1072,7 @@
     "StPiusX_114": {
         "subject": "Sanctus Pius X, papa",
         "places": "non pertinet",
-        "place_of_death": "Basilica Sancti Iacobi, Santiago (Hispania)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Riese, Tarvisium (Italia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
         "notes": "Iosephus Melchior Sarto (Riese, Tarvisium, 2 iunii 1835 - Roma, 20 augusti 1914) vicarius parochialis et parochus, in campo liturgico et catechistico necnon caritativo, cholera aegrotis assistens, se praecipue dedit. Episcopus Mantuensis, deinde patriarcha Venetiarum et cardinalis fuit. Papa anno 1903 electus, in ministerium petrinum suam locupletem pastoralem experientiam attulit, reformationes praesertim in liturgia, musica sacra et catechesi promovens. Tempore culturaliter tumultuoso, firmus mansit in custodiendo nexu cum traditione Ecclesiae. Etiam in pontificatu illam vitae austeritatem, quae eius origines caracterizaverat, servavit.",
@@ -1121,8 +1121,8 @@
     },
     "StJosephCalasanz_119": {
         "subject": "Sanctus Iosephus a Calasanctio, sacerdos",
-        "places": "Basilica Sancti Iacobi, Santiago (Hispania)",
-        "place_of_death": "Puteoli (Francia)",
+        "places": "Roma (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Peralta de la Sal, Hispania",
         "place_of_burial": "Ecclesia Sancti Pantaleonis, Roma (Italia)",
         "notes": "Iosephus (Peralta de la Sal, Hispania, 1557 - Roma, 25 Augusti 1646), ex nobili familia, cursum ecclesiasticum suscepit, Romam proficiscens quaerens aptam collocationem. Ibi multas incepta ad pauperes et aegrotos adiuvandos invenit, et cum sancto Camillo de Lellis collaboravit. Causam pauperum puerorum, qui apta educatione carebant, suscipiens, pro eis scholas gratuitas aperuit et Congregationem Clericorum Regularium Pauperum Matris Dei Scholarum Piarum (Scolopi) fundavit.",
@@ -1162,8 +1162,8 @@
     "StGregoryGreat_123": {
         "subject": "Sanctus Gregorius Magnus, papa et doctor",
         "places": "Roma",
-        "place_of_death": "Basilica Sancti Iacobi, Santiago (Hispania)",
-        "place_of_birth": "Puteoli (Francia)",
+        "place_of_death": "Roma (Italia)",
+        "place_of_birth": "Roma (Italia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
         "notes": "Gregorius (Roma, medio saec. VI - 12 Martii 604), iam praefectus Urbis, fuit monachus et abbas Sancti Andreae ad Caelium, necnon legatus papalis Constantinopoli. Electus pontifex (590), multiplicem operam dedit tam regimini Ecclesiae quam administrationi urbis, in dramatis contextu incursionum gentium Germanicarum. Novas vias missioni aperuit, exempli gratia in Anglia, et peculiarem curam liturgiae et pauperum habuit. Scriptis suis pastoralis, exegetici et hagiographici contenti, epistulis et homiliis, unus ex magnis magistris Medii Aevi fuit. Dies memoriae liturgicae correspondet diei electionis eius ad pontificatum.",
         "patronage": "",
@@ -1211,9 +1211,9 @@
     },
     "StCornelius_128": {
         "subject": "Sancti Cornelius, papa, et Cyprianus, episcopus, martyres",
-        "places": "Roma, Italia; Carthago, Tunisia",
+        "places": "Roma (Italia)",
         "place_of_death": "Civitavecchia, et Sesti (Carthago)",
-        "place_of_birth": "Roma, et Carthago",
+        "place_of_birth": "Roma (Italia)",
         "place_of_burial": "Cornelius: Catacumbae Sancti Callisti, Reliquiae eius deinde translatae sunt in basilicam a papa Leone I volitam et postea papa Hadrianus I eas portavit in domum cultam Capracoro (apud aream Montegelato, Mazzano Romano), ubi pontifex domum paternam habebat. Tempore papae Gregorii IV corpus eius quiescebat in basilica Sanctae Mariae in Trastevere. Eo tempore pars reliquiarum portata est ad Compiègne, in Gallia, dum in secunda parte saeculi XVIII aliae partes corporis eius translatae sunt in ecclesiam Sanctorum Celsi et Iuliani. Cyprianus: Basilica Sancti Cypriani in Sesti (Carthago)",
         "notes": "Cornelius, papa (251-253), reconciliationem obtulit christianis qui cesserant impositioni sacrificandi idolis, decreta ab imperatore Decio. Sic opposuit rigorismo Novatiani et eius sequacibus qui apostatis negabant possibilitatem reditus ad communionem Ecclesiae. Post novam persecutionem, exsulatus est Civitavecchiam, ubi mortuus est. Cyprianus, episcopus Carthaginis, operatus est pro unione intra suam communitatem et pro cooperatione inter diversas Ecclesias africanas; evolvit doctrinam unitatis Ecclesiae collectae circa Eucharistiam, sub ductu episcopi. Fidelibus qui se debiles ostenderant coram persecutione, obtulit possibilitatem itinerarii poenitentialis. Mortuus est martyr sub Valeriano, die 14 Septembris 258. Duo sancti simul commemorantur in Canone Romano.",
         "patronage": "",
@@ -1361,7 +1361,7 @@
     },
     "StJohnLeonardi_143": {
         "subject": "Sanctus Ioannes Leonardi, sacerdos",
-        "places": "Puteoli (Francia)",
+        "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Decimum (Lucensis, Italia)",
         "place_of_burial": "Ecclesia Sanctae Mariae in Campitelli, Roma (Italia)",
@@ -1371,8 +1371,8 @@
     },
     "StCallistusIPope_144": {
         "subject": "Sanctus Callistus I, papa et martyr",
-        "places": "Puteoli (Francia)",
-        "place_of_death": "Puteoli (Francia)",
+        "places": "Roma (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "non pertinet",
         "place_of_burial": "Cimiterium Calepodii, Via Aurelia, Roma",
         "notes": "Callistus, servus quondam, fuit papa ab anno 218 ad 222. Nomen suum primo cimiterio officiali Ecclesiae Romanae, in via Appia, adiunxit. Passus est propter dissensiones internas in communitate christiana et martyrium passus est Romae, in loco ubi ecclesia ei dicata surgit. Sepultura eius in cimiterio Calepodii, in via Aurelia, memoratur die 14 Octobris in Depositio martyrum (336).",
@@ -1412,7 +1412,7 @@
     "StIgnatiusAntioch_148": {
         "subject": "Sanctus Ignatius Antiochenus, episcopus et martyr",
         "places": "Roma (Italia)",
-        "place_of_death": "Puteoli (Francia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Antiochia Syriae (hodierna Antakya), Turcia",
         "place_of_burial": "Basilica Sancti Clementis, Roma (Italia)",
         "notes": "Ignatius, episcopus Antiochiae Syriae (hodierna Antakya, Turcia), tempore imperatoris Traiani (98-117) captus est ut christianus et Romam ductus est ut bestiis in circo daretur. In itinere suo solatus est congressu cum quibusdam Ecclesiis Asiae Minoris, quibus septem epistulas reliquit ad nos perventas, vivum documentum doctrinae eius et sollicitudinis pastoralis, testimonium desiderii eius sequendi Christum usque ad martyrium. Coram quibusdam divisionibus, instanter invitavit communitates christianas ad concordiam servandam, ex unica mensa eucharistica haustam, sub ductu episcopi cum presbyterio suo. Memoria eius die 17 octobris in traditione syriaca recolitur; nomen eius in Canone Romano insertum est.",
@@ -1442,7 +1442,7 @@
     "StPaulCross_151": {
         "subject": "Sanctus Paulus a Cruce, sacerdos",
         "places": "Ovada, Alexandria (Italia); Mons Argentarius (Italia); Roma (Italia)",
-        "place_of_death": "Basilica Sancti Iacobi, Santiago (Hispania)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Ovada, Alexandria (Italia)",
         "place_of_burial": "Basilica Sanctorum Ioannis et Pauli ad Caelium, Roma (Italia)",
         "notes": "Paulus Danei (Ovada, Alexandria, 3 Ianuarii 1694 - Roma, 18 Octobris 1775), attrahitur ad venerationem Crucifixi, se poenitentem in solitudine fecit, deinde praedicationi se dedit. Circa se primum coetum «pauperum Iesu» congregavit, ex quo postea orta est Congregatio Passionis Iesu Christi (Passionistarum): eius sodales se obligant ad devotionem Passionis diffundendam, praesertim per missiones populares. Etiam moniales passionistas instituit, cum monasteriis quae essent scholae vitae spiritualis etiam pro aliis mulieribus. In professione nomen assumpsit Paulus a Cruce, quod bene exprimit centrum vitae et missionis suae.",
@@ -1511,8 +1511,8 @@
     },
     "StLeoGreat_160": {
         "subject": "Sanctus Leo Magnus, papa et doctor",
-        "places": "Puteoli (Francia)",
-        "place_of_death": "Puteoli (Francia)",
+        "places": "Roma (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Volaterrae vel Anghiara (Italia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
         "notes": "Leo, dictus Magnus propter magnitudinem operis et magisterii sui, ut episcopus Romae Ecclesiam per viginti unum annos (440-461) rexit. Eius figura cum universali historico relievo emergit in dialogo inter Orientem et Occidentem, et in occursu-confligendo inter mundum Latinum et novas Europaeas gentes. Magister et mystagogus, missionem suam in mysterio Christi hominis-Dei, in doctrina Verbi incarnati (Concilium Chalcedonense, 451) professus, in celebrationibus liturgicis (Sermones de mysteriis) actualizavit, in vita testatus est: «in operibus perficere quod in sacramento celebratur». Eius nomini connectitur antiquissimus eucologicus fundus Missalis Romani (Sacramentarium Veronense, ei a traditione attributum). Eius «depositio» die 10 novembris a Martyrologio Hieronymiano (saec. V-VI) et a Calendario sancti Willibrordi (saec. VIII) commemoratur.",
@@ -1601,9 +1601,9 @@
     },
     "StCecilia_169": {
         "subject": "Sancta Caecilia, virgo et martyr",
-        "places": "Senenses (Italia)",
-        "place_of_death": "Senenses (Italia)",
-        "place_of_birth": "Senenses (Italia)",
+        "places": "Roma (Italia)",
+        "place_of_death": "Roma (Italia)",
+        "place_of_birth": "Roma (Italia)",
         "place_of_burial": "Catacumbae Sancti Callisti, Roma (Italia)",
         "notes": "Caecilia (saec. III) martyr Romae fuit, ubi basilica in Trastevere (saec. IV) ei dicata est. Cultus eius late diffusus est ex Passione (saec. V) in qua tamquam exemplar virginis christianae exhibetur: dum cantus et soni pro eius nuptiis elevantur, Caecilia in corde hymnum Sponso suo divino canit. Hinc etiam munus patronae musicae ei attributum est. Memoria eius die 22 novembris iam saeculo VI celebrabatur. In Canone Romano commemoratur.",
         "patronage": "",
@@ -1691,9 +1691,9 @@
     },
     "StDamasusIPope_178": {
         "subject": "Sanctus Damasus I, papa",
-        "places": "Senenses (Italia)",
-        "place_of_death": "Senenses (Italia)",
-        "place_of_birth": "Senenses (Italia)",
+        "places": "Roma (Italia)",
+        "place_of_death": "Roma (Italia)",
+        "place_of_birth": "Roma (Italia)",
         "place_of_burial": "Basilica Sancti Laurentii in Damaso, Roma (Italia)",
         "notes": "Damasus (Roma, 305 circiter - 11 Decembris 384), diaconus papae Liberii (352-366), postquam comitatus est episcopum suum in exilio imposito ab imperatore propter oppositionem ad politicam filoarianam aulae, successit ei in pontificatu. Pugnavit pro unitate Ecclesiae Romanae, turbata a fortibus contrappositionibus internis, et affirmavit cum vigore primatum Sedis Apostolicae. Promovit cultum martyrum, redigens multas et elegantes epigraphas in eorum memoriam. Commendavit sancto Hieronymo recensionem translationis latinae Bibliorum.",
         "patronage": "",
@@ -1782,7 +1782,7 @@
     "StSylvesterIPope_187": {
         "subject": "Sanctus Silvester I, papa",
         "places": "non pertinet",
-        "place_of_death": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "non pertinet",
         "place_of_burial": "Catacumbae Priscillae, Roma",
         "notes": "Silvester fuit papa (314-335) annis quibus Ecclesia, cum Constantino, a potestate imperiali sustineri coepit et urbs Roma primis magnis basilicis christianis ditari. Durante eius pontificatu celebratum est Nicaeae (hodierna Íznik, Turcia) primum Concilium oecumenicum historiae (325). Magna congregatio, ad quam Silvester duos legatos misit, proclamavit, contra haeresim Arii, plenam divinitatem Filii, «consubstantialem Patri». Eius mors commemoratur die 31 Decembris in Depositio episcoporum anni 336. Sepultus est in coemeterio Priscillae, via Salaria.",
@@ -2232,9 +2232,9 @@
     "StCatherineSiena_263": {
         "subject": "Sancta Catharina Senensis, virgo et Ecclesiae doctor",
         "places": "Senae, Roma",
-        "place_of_death": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Senenses (Italia)",
-        "place_of_burial": "Senenses (Italia)",
+        "place_of_burial": "Roma (Italia)",
         "notes": "Catharina (Senae, 1347 - Roma, 29 aprilis 1380) se, adulescentula, orationi et paenitentiae apud propriam domum dedit; postea inter «mantellatas» Tertii Ordinis Dominicanorum admissa est. Intense publice egit, et pacis operatrix in societate contentionibus lacerata, et reformae Ecclesiae franca et appassionata fautrix. Reditum papae ab Avinione promovit et ad superandum magnum schisma, quod statim postea in sede romana et in toto Occidente ortum est, operata est. Scripta theologica et linguaggio incisiva composuit, inter quae Dialogus divinae Providentiae. Patrona Italiae anno 1939 et Europae anno 1999 proclamata est.",
         "patronage": "",
         "main_shrine": "Basilica Sanctae Mariae supra Minervam, Roma"
@@ -2242,7 +2242,7 @@
     "StPiusV_264": {
         "subject": "Sanctus Pius V, papa",
         "places": "non pertinet",
-        "place_of_death": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Bosco Marengo, Alexandria (Italia)",
         "place_of_burial": "Basilica Sanctae Mariae Maioris, Roma",
         "notes": "Michael (saeculo Antonius) Ghislieri (Bosco Marengo, Alexandria, 17 ianuarii 1504 - Roma, 1 maii 1572), Dominicanus, papa ab anno 1566 fuit. Primum Concilii Tridentini applicationem exsecutus est, incipiens a curia romana et Urbe. Catechismum (1566) edidit, Breviarii (1568) et Missalis (1570) reformationem curavit. Fidem in Europa et Oriente diffundere promovit, et contra expansionem Ottomanicam (Lepanto, 7 octobris 1571) defendit.",
@@ -2281,8 +2281,8 @@
     },
     "StPhilipNeri_276": {
         "subject": "Sanctus Philippus Neri, sacerdos",
-        "places": "Senenses (Italia)",
-        "place_of_death": "Senenses (Italia)",
+        "places": "Roma (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Florentia (Italia)",
         "place_of_burial": "Ecclesia Nova, Roma",
         "notes": "Philippus (Florentia, 21 Iulii 1515 - Roma, 26 Maii 1595), adulescens Romam perveniens, incurabilibus aegrotis et pauperibus peregrinis assistentiam dedit. Presbyter ordinatus, assiduus in confessionali fuit et Eucharistiam cum intensa devotione celebravit, usque ad mysticum transportum. Ex periodicis conventibus cum coetu suorum paenitentium – quos laeto stilo in dialogis spiritualibus et in activitatibus recreativis, culturalibus, caritativis instruxit – orta est experientia «Oratorii» et Congregatio sacerdotum quae eodem nomine appellatur, a Gregorio XIII die 15 Iulii 1575 recognita.",
@@ -2332,7 +2332,7 @@
     "StAloysiusGonzaga_288": {
         "subject": "Sanctus Aloisius Gonzaga, religiosus",
         "places": "Castellio Stivieri; Roma",
-        "place_of_death": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Castellio Stivieri, Mantua (Italia)",
         "place_of_burial": "Ecclesia Sancti Ignatii de Loyola, Roma; cranium conservatur in basilica ei dicata in Castiglionis Stivieri",
         "notes": "Aloisius (Castellio Stivieri, Mantua, 9 Martii 1568 - Roma, 21 Iunii 1591), primogenitus heres marchionatus gonzaghensis urbis natalis, patris firmam oppositionem provocans, vitae et curriculo aulico renuntiavit et in Societatem Iesu ingressus est, ubi, ingenio vivo et voluntate forti praeditus, spirituali ductu sancti Roberti Bellarmini frui potuit. Generosa pauperibus et aegrotis dedicatio eius delicatam constitutionem corporis laesit et paucis annis ad mortem perduxit.",
@@ -2392,7 +2392,7 @@
     "StCamillusDeLellis_302": {
         "subject": "Sanctus Camillus de Lellis, sacerdos",
         "places": "Bucchianicum (Italia); Roma (Italia)",
-        "place_of_death": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Bucchianicum (Teate, Italia)",
         "place_of_burial": "Ecclesia Sanctae Mariae Magdalenae, Roma (Italia)",
         "notes": "Camillus (Bucchianicum, Chieti, 25 maii 1550 - Roma, 14 iulii 1614) iuvenis miles fortunae et aleae deditus fuit; fidem in conventu Capuccinorum Manfredoniae rediscovit; desiderans Ordinem ingredi, bis novitiatum incepit, sed ulcus incurabile in pede eum impedivit. In nosocomio Sancti Iacobi Incurabilium Romae receptus, sanctum Philippum Nerium convenit, qui eum in itinere spirituali adiuvit; postea vitam totam Christo in curandis membris eius dolentibus dedicavit. Presbyter factus, Clericos regulares infirmis ministrantes (Camillianos) fundavit.",
@@ -2422,7 +2422,7 @@
     "StBridget_307": {
         "subject": "Sancta Brigida, religiosa",
         "places": "Ecclesia Sanctae Brigidae Vadstena, Suecia; Ecclesia Sanctae Brigidae Romae (Italia)",
-        "place_of_death": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Finsta, Suecia",
         "place_of_burial": "Ecclesia Sanctae Brigidae Romae (Italia)",
         "notes": "Brigida (Finsta, Suecia, 1302/1303 - Roma, 23 Iulii 1373), ex alta nobilitate Suecica, cum marito vitam spiritualem intensam et fervidam caritativam actionem egit. Post mortem coniugis et matrimonium octo filiorum, tempus solitudinis et orationis vixit, cuius in fine Ordinem monasticum Sanctissimi Salvatoris, ramum masculinum et femininum comprehendens, fundavit. Romam translata, propter prophetias et appellationes ad reformationem Ecclesiae clara facta est, etiam pro reditu papae ab Avinione laborans. Anno 1999 sanctus Ioannes Paulus II eam patronam Europae proclamavit.",
@@ -2432,7 +2432,7 @@
     "StIgnatiusLoyola_312": {
         "subject": "Sanctus Ignatius de Loyola, sacerdos",
         "places": "Loyola, Hispania; Roma (Italia)",
-        "place_of_death": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Loyola, Hispania",
         "place_of_burial": "Ecclesia Iesu, Roma",
         "notes": "Iñigo Lòpez (Loyola, Hispania, 1491 - Roma, 31 Iulii 1556), ex nobili familia Vasconica, in defensione urbis Pompei vulneratus est. Durante convalescentia, lectio vitae Christi et nonnullorum sanctorum initium conversionis ei fuit. Longum iter eum per tempus discretionis spiritualis et prolixam studiorum philosophicorum et theologorum periodum, quae Lutetiae culminavit, duxit. Hic coetus sociorum circa eum formatus est, cum quibus se papae Paulo III praesentavit. Ei suum idealem exposuerunt: defensionem et propagationem fidei et absolutam promptitudinem Romano Pontifici quoad quamlibet missionem quam eis pro missionaria Evangelii expansionem et reformationem Ecclesiae committeret. Spiritualitas Societatis Iesu in Exercitiis spiritualibus, quae interioris experientiae Ignatii compendium sunt, cardinem habet. Papa Gregorius XV eum inter sanctos anno 1622 adscripsit.",
@@ -2532,7 +2532,7 @@
     "StPiusX_329": {
         "subject": "Sanctus Pius X, papa",
         "places": "non pertinet",
-        "place_of_death": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Riese, Tarvisium (Italia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
         "notes": "Iosephus Melchior Sarto (Riese, Tarvisium, 2 Iunii 1835 - Roma, 20 Augusti 1914) ut vicarius parochialis et parochus se praecipue in campo liturgico et catechistico necnon in ambitu caritativo implicavit, cholera aegrotis assistens. Episcopus Mantuensis fuit, deinde patriarcha Venetiarum et cardinalis. Papa electus anno 1903, in ministerium petrinum suam divitem experientiam pastoralem attulit, reformationes praesertim in liturgia, musica sacra et catechesi promovens. In tempore culturaliter tumultuoso, firmus mansit in custodiendo nexu cum traditione Ecclesiae. Etiam in pontificatu illam vitae austeritatem servavit quae eius origines caracterizaverat.",
@@ -2561,8 +2561,8 @@
     },
     "StJosephCalasanz_334": {
         "subject": "Sanctus Iosephus a Calasanctio, sacerdos",
-        "places": "Senenses (Italia)",
-        "place_of_death": "Senenses (Italia)",
+        "places": "Roma (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Peralta de la Sal, Hispania",
         "place_of_burial": "Ecclesia Sancti Pantaleonis, Roma (Italia)",
         "notes": "Iosephus (Peralta de la Sal, Hispania, 1557 - Roma, 25 Augusti 1646), ex nobili familia, cursum ecclesiasticum iniit, Romam proficiscens quaerens aptam collocationem. Ibi multas incepta ad pauperes et aegrotos adiuvandos invenit, et cum sancto Camillo de Lellis collaboravit. Causam pauperum puerorum, qui educatione idonea carebant, suscipiens, pro eis scholas gratuitas aperuit et Congregationem Clericorum Regularium Pauperum Matris Dei Scholarum Piarum (Scolopi) fundavit.",
@@ -2572,7 +2572,7 @@
     "StRobertBellarmine_344": {
         "subject": "Sanctus Robertus Bellarminus, episcopus et doctor",
         "places": "non pertinet",
-        "place_of_death": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Montepulciano, Senae (Italia)",
         "place_of_burial": "Ecclesia Sancti Ignatii, Roma (Italia)",
         "notes": "Robertus (Montepulciano, Senae, 4 octobris 1542 - Roma, 17 septembris 1621), iesuita, suam insignem competentiam theologicam tam in complexis controversiis doctrinalibus (Disputationes de controversiis christianae fidei), quam in redactione catechismi popularis adhibuit. Cardinalis et archiepiscopus Capuanus, exemplarem applicationem Concilii Tridentini dedit, donec gravia munera Romana eum ad dioecesim relinquendam impulserunt ut se totum in servitium Ecclesiae universalis dedicaret.",
@@ -2621,8 +2621,8 @@
     },
     "StJohnLeonardi_358": {
         "subject": "Sanctus Ioannes Leonardi, sacerdos",
-        "places": "Senenses (Italia)",
-        "place_of_death": "Senenses (Italia)",
+        "places": "Roma (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Decimum (Lucensis) (Italia)",
         "place_of_burial": "Ecclesia Sanctae Mariae in Campitelli, Roma (Italia)",
         "notes": "Ioannes (Diecimo, Lucca, 1541 - Roma, 9 octobris 1609) se dedit institutioni religiosa puerorum, implicans laicos adultos in «Societate doctrinae christianae». Promovit renovationem cleri cum «Confraternitate sacerdotum reformatarum Beatae Virginis», postea dicti Clerici regulares Matris Dei. Romae occurrit sancto Philippo Neri et participavit missionarium fervorem temporis, cooperans in proposito futurae Congregationis de propaganda fide et collegii ad formationem missionariorum ad gentes.",
@@ -2672,7 +2672,7 @@
     "StPaulCross_366": {
         "subject": "Sanctus Paulus a Cruce, sacerdos",
         "places": "Ovada, Alexandria (Italia); Mons Argentarius (Italia); Roma (Italia)",
-        "place_of_death": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Ovada, Alexandria (Italia)",
         "place_of_burial": "Basilica Sanctorum Ioannis et Pauli ad Caelium, Roma (Italia)",
         "notes": "Paulus Danei (Ovada, Alexandria, 3 ianuarii 1694 - Roma, 18 octobris 1775), attrahitur ad venerationem Crucifixi, se fecit paenitens in solitudine, deinde se dedit praedicationi. Congregavit circa se primum coetum «pauperum Iesu», ex quo postea orta est Congregatio Passionis Iesu Christi (Passionistarum): eius membra se obligant ad devotionem Passionis diffundendam, praesertim per missiones populares. Instituit etiam moniales passionistas, cum monasteriis quae essent scholae vitae spiritualis etiam pro aliis mulieribus. In professione assumpsit nomen Pauli a Cruce, quod bene exprimit centrum vitae et missionis suae.",
@@ -2972,9 +2972,9 @@
     "StCatherineSiena_486": {
         "subject": "Sancta Catharina Senensis, virgo et doctor Ecclesiae",
         "places": "Sena, Roma",
-        "place_of_death": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Sena Iulia (Italia)",
-        "place_of_burial": "Senenses (Italia)",
+        "place_of_burial": "Roma (Italia)",
         "notes": "Catherina (Siena, 1347 - Roma, 29 aprilis 1380) se dedit, adulescentula, orationi et paenitentiae apud propriam domum; postea admissa est inter «mantellatas» Tertii Ordinis dominicani. Egisse publicam actionem intensam, et pacis operatrix in societate contentionibus lacerata, et reformae Ecclesiae fautrix aperta et ardens. Fovit reditum papae ab Avinione et operata est ad superandum magnum schisma ortum, statim postea, in sede romana et in toto Occidente. Composuit scripta plena contentis theologicis et incisiva in sermone, inter quae Dialogus divinae Providentiae. Proclamata est patrona Italiae anno 1939 et Europae anno 1999.",
         "patronage": "",
         "main_shrine": "Basilica Sanctae Mariae supra Minervam, Roma"
@@ -3032,7 +3032,7 @@
     "StRobertBellarmine_497": {
         "subject": "Sanctus Robertus Bellarminus, episcopus et doctor",
         "places": "non pertinet",
-        "place_of_death": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Mons Politianus, Sena Iulia (Italia)",
         "place_of_burial": "Ecclesia Sancti Ignatii, Roma (Italia)",
         "notes": "Robertus (Mons Politianus, Sena, 4 Octobris 1542 - Roma, 17 Septembris 1621), iesuita, suam insignem competentiam theologicam tam in complexis controversiis doctrinalibus (Disputationes de controversiis christianae fidei), quam in catechismo populari redigendo adhibuit. Cardinalis et archiepiscopus Capuanus, exemplarem applicationem Concilii Tridentini dedit, donec gravia munera Romana eum ad dioecesim relinquendam impulerunt ut se totum Ecclesiae universali servitio dedicaret.",
@@ -3082,7 +3082,7 @@
     "StPaulVI_544": {
         "subject": "Sanctus Paulus VI, Papa",
         "places": "Concesium, Mediolanum, Roma",
-        "place_of_death": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Concesio (Italia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
         "notes": "Ioannes Baptista Montini, natus Concesii (Brixiae) die 26 Septembris 1897 in familia profunde christiana et socialiter implicata, presbyter ordinatus est die 29 Maii 1920. In Sede Apostolica servivit et iuvenum universitariorum formationi se dicavit. Anno 1954 archiepiscopus Mediolanensis nominatus est. Summus Pontifex electus die 21 Iunii 1963, magna sapientia Concilium Oecumenicum Vaticanum II perfecit. Reformationem vitae Ecclesiae, praesertim liturgiae, dialogum oecumenicum et Evangelii nuntium in mundo hodierno promovit, imaginem Ecclesiae «peritae in humanitate» promovens, ad «civilitatem amoris» a Christo inchoatam diffundendam vocatae. Mortuus est die 6 Augusti 1978.",
@@ -3092,7 +3092,7 @@
     "StPaulVI_545": {
         "subject": "Sanctus Paulus VI, Papa",
         "places": "Concesium, Mediolanum, Roma",
-        "place_of_death": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Concesium (Italia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
         "notes": "Ioannes Baptista Montini, natus Concesii (Brixiae) die 26 Septembris 1897 in familia profunde christiana et socialiter implicata, presbyter ordinatus est die 29 Maii 1920. In Sede Apostolica servivit et iuvenum universitariorum formationi se dicavit. Anno 1954 archiepiscopus Mediolanensis nominatus est. Summus Pontifex electus die 21 Iunii 1963, magna sapientia Concilium Oecumenicum Vaticanum II perfecit. Reformationem vitae Ecclesiae, praesertim liturgiae, dialogum oecumenicum et Evangelii nuntium in mundo hodierno promovit, imaginem Ecclesiae «peritae in humanitate» promovens, ad «civilitatem amoris» a Christo inchoatam diffundendam vocatae. Mortuus est die 6 Augusti 1978.",
@@ -3122,7 +3122,7 @@
     "StJohnXXIII_548": {
         "subject": "Sanctus Ioannes XXIII, papa",
         "places": "Sub Monte, Bergomum (Italia); Roma (Italia)",
-        "place_of_death": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Sub Monte (Bergomum, Italia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
         "notes": "Angelus Iosephus Roncalli natus est Sub Monte (Bergomum) anno 1881. Undecim annos natus ingressus est seminarium Bergomi, deinde Pontificium Seminarium Romanum. Presbyter ordinatus anno 1904, fuit secretarius episcopi Bergomi. Anno 1921 incepit suum servitium apud Sanctam Sedem ut praeses pro Italia Consilii centralis Pontificiae Operae pro Propagatione Fidei; anno 1925 ut visitator apostolicus et deinde delegatus apostolicus in Bulgaria; anno 1935 ut delegatus apostolicus in Turcia et Graecia; anno 1944 ut nuntius apostolicus in Gallia. Anno 1953 creatus est cardinalis et nominatus patriarcha Venetiarum. Electus est papa anno 1958: convocavit Synodum Romanam, instituit Commissionem pro revisione Codicis Iuris Canonici, indixit et aperuit Concilium Oecumenicum Vaticanum II. Mortuus est vespere diei 3 Iunii 1963.",
@@ -3132,7 +3132,7 @@
     "StJohnXXIII_549": {
         "subject": "Sanctus Ioannes XXIII, papa",
         "places": "Sub Monte, Bergomum (Italia); Roma (Italia)",
-        "place_of_death": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Sub Monte (Bergomum, Italia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
         "notes": "Angelus Iosephus Roncalli natus est Sub Monte (Bergomum) anno 1881. Undecim annos natus ingressus est seminarium Bergomi, deinde Pontificium Seminarium Romanum. Presbyter ordinatus anno 1904, fuit secretarius episcopi Bergomi. Anno 1921 incepit suum servitium apud Sanctam Sedem ut praeses pro Italia Consilii centralis Pontificiae Operae pro Propagatione Fidei; anno 1925 ut visitator apostolicus et deinde delegatus apostolicus in Bulgaria; anno 1935 ut delegatus apostolicus in Turcia et Graecia; anno 1944 ut nuntius apostolicus in Gallia. Anno 1953 creatus est cardinalis et nominatus patriarcha Venetiarum. Electus est papa anno 1958: convocavit Synodum Romanam, instituit Commissionem pro revisione Codicis Iuris Canonici, indixit et aperuit Concilium Oecumenicum Vaticanum II. Mortuus est vespere diei 3 Iunii 1963.",
@@ -3142,7 +3142,7 @@
     "StJohnPaulII_550": {
         "subject": "Sanctus Ioannes Paulus II, papa",
         "places": "Wadowice (Polonia); Roma (Italia)",
-        "place_of_death": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Wadowice (Polonia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
         "notes": "Carolus Iosephus Wojtyla (Wadowice, Polonia, 18 Maii 1920 - Roma, 2 Aprilis 2005), presbyter ordinatus est die 1 Novembris 1946. Professor theologiae moralis (Lublinum), electus est auxiliaris et postea archiepiscopus Cracoviae (1964) annis durae repressionis regiminis communistarum. Participavit in Concilio Vaticano II. Electus est papa (1978) post breve pontificatum Ioannis Pauli I, nomen duplex assumpsit. Crescenti saecularizationi opposuit centralitatem Christi missionem Ecclesiae renovans, tum per numerosos apostolicos itinera per totum orbem, tum per proclamationem beatorum vel sanctorum innumerabilium testium fidei. Promovit dialogum oecumenicum et dialogum interreligiosum evolvit. Magno Iubilaeo anni 2000 Ecclesiam in tertium millennium suae historiae introduxit.",
@@ -3152,7 +3152,7 @@
     "StJohnPaulII_551": {
         "subject": "Sanctus Ioannes Paulus II, papa",
         "places": "Wadowice (Polonia); Roma (Italia)",
-        "place_of_death": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Wadowice (Polonia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
         "notes": "Carolus Iosephus Wojtyla (Wadowice, Polonia, 18 Maii 1920 - Roma, 2 Aprilis 2005), presbyter ordinatus est die 1 Novembris 1946. Professor theologiae moralis (Lublinum), electus est auxiliaris et postea archiepiscopus Cracoviae (1964) annis durae repressionis regiminis communistarum. Participavit in Concilio Vaticano II. Electus est papa (1978) post breve pontificatum Ioannis Pauli I, nomen duplex assumpsit. Crescenti saecularizationi opposuit centralitatem Christi missionem Ecclesiae renovans, tum per numerosos apostolicos itinera per totum orbem, tum per proclamationem beatorum vel sanctorum innumerabilium testium fidei. Promovit dialogum oecumenicum et dialogum interreligiosum evolvit. Magno Iubilaeo anni 2000 Ecclesiam in tertium millennium suae historiae introduxit.",
@@ -3332,8 +3332,8 @@
     "StGregoryGreat_571": {
         "subject": "Sanctus Gregorius Magnus, papa et doctor",
         "places": "Roma",
-        "place_of_death": "Senenses (Italia)",
-        "place_of_birth": "Senenses (Italia)",
+        "place_of_death": "Roma (Italia)",
+        "place_of_birth": "Roma (Italia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
         "notes": "Gregorius (Roma, medio saec. VI - 12 martii 604), iam praefectus Urbis, monachus et abbas Sancti Andreae in Caelio, necnon legatus papalis Constantinopoli. Pontifex electus (590), multiplicem operam tam in regimine Ecclesiae quam in administratione Urbis, in dramatis contextu invasionum gentium Germanicarum, explevit. Novas vias missioni aperuit, ut in Anglia, et liturgiae et curae pauperum peculiarem operam dedit. Scriptis pastoralibus, exegeticis et hagiographicis, epistulis et homiliis, unus ex magnis magistris Medii Aevi fuit. Dies memoriae liturgicae correspondet diei electionis ad pontificatum.",
         "patronage": "",
@@ -3401,8 +3401,8 @@
     },
     "StLeoGreat_578": {
         "subject": "Sanctus Leo Magnus, papa et doctor",
-        "places": "Senenses (Italia)",
-        "place_of_death": "Senenses (Italia)",
+        "places": "Roma (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Volaterrae vel Anghiara (Italia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
         "notes": "Leo, dictus Magnus propter magnitudinem operis et magisterii sui, ut episcopus Romae Ecclesiam viginti unum annos (440-461) rexit. Figura eius cum universali historico relievo emergit in dialogo inter Orientem et Occidentem, et in occursu-confligendo inter mundum Latinum et novas Europae gentes. Magister et mystagogus, missionem suam in mysterio Christi hominis-Dei, in doctrina Verbi incarnati (Concilium Chalcedonense, 451) professus, in celebrationibus liturgicis (Sermones de mysteriis) actualizatus, in vita testatus: «in operibus perficere quod in sacramento celebratur». Nomen eius connectitur cum antiquissimo fundo eucologico Missalis Romani (Sacramentarium Veronense, ei a traditione attributum). «Depositio» eius die 10 novembris a Martyrologio Hieronymiano (saec. V-VI) et a Calendario sancti Willibrordi (saec. VIII) commemoratur.",

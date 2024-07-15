@@ -41,9 +41,9 @@
     },
     "StFabianPope_5": {
         "subject": "São Fabiano, papa e mártir",
-        "places": "Andechs (Baviera)",
-        "place_of_death": "Andechs (Baviera)",
-        "place_of_birth": "Sotto il Monte (Bérgamo, Itália)",
+        "places": "Roma (Itália)",
+        "place_of_death": "Roma (Itália)",
+        "place_of_birth": "Roma (Itália)",
         "place_of_burial": "Basílica de São Sebastião fora dos Muros",
         "notes": "Ano de morte 250/251, após ter sido Papa por cerca de 15 anos",
         "patronage": "",
@@ -52,7 +52,7 @@
     "StSebastian_6": {
         "subject": "São Sebastião, mártir",
         "places": "Igreja de São Sebastião, Narbona (França); Basílica e Catacumbas de São Sebastião (Roma)",
-        "place_of_death": "Sotto il Monte (Bérgamo, Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Narbonne (França) https://www.google.com/maps/@43.186026,3.0067009,3a,90y,93.51h,99.16t/data=!3m6!1e1!3m4!1sboQV0f52ww1JNPTccgwatg!2e0!7i16384!8i8192",
         "place_of_burial": "Catacumbas de São Sebastião (Roma)",
         "notes": "Sebastião, estimando a fidelidade a Cristo acima de qualquer honra militar, aceitou ser expulso do exército e sofreu a morte durante a perseguição de Diocleciano (303-305). Foi sepultado nas catacumbas romanas que levaram seu nome. A Depositio martyrum (336) o recorda em 20 de janeiro.",
@@ -61,9 +61,9 @@
     },
     "StAgnes_7": {
         "subject": "Santa Inês, virgem e mártir",
-        "places": "Andechs (Baviera)",
+        "places": "Roma (Itália)",
         "place_of_death": "Basílica de Santa Inês em Agonia, Roma",
-        "place_of_birth": "Andechs (Baviera)",
+        "place_of_birth": "Roma (Itália)",
         "place_of_burial": "Catacumbas de Santa Inês fora dos Muros",
         "notes": "Inês, romana, ainda adolescente, colocada na alternativa entre permanecer fiel a Cristo e salvar sua própria vida, escolheu sem hesitação o Esposo celeste, unindo-se a Ele com o martírio (meados do século III). O relato de sua paixão, muito popular, foi recolhido desde o século IV pelo papa Dâmaso. Santo Ambrósio e Santo Agostinho a indicaram como um modelo luminoso de virgem cristã. Segundo a Depositio martyrum (336), sua memória era celebrada em 21 de janeiro em Roma no cemitério homônimo na via Nomentana. Seu nome é lembrado no Cânone Romano.",
         "patronage": "",
@@ -442,7 +442,7 @@
     "StCatherineSiena_48": {
         "subject": "Santa Catarina de Siena, virgem e doutora da Igreja",
         "places": "Siena, Roma",
-        "place_of_death": "Andechs (Baviera)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Siena (Itália)",
         "place_of_burial": "Roma (Itália)",
         "notes": "Catarina (Siena, 1347 - Roma, 29 de abril de 1380) dedicou-se, muito jovem, à oração e à penitência em sua própria casa; posteriormente foi admitida entre as «mantellate» da Terceira Ordem Dominicana. Realizou uma intensa ação pública, tanto como operadora de paz em uma sociedade dilacerada por disputas, quanto como defensora franca e apaixonada da reforma da Igreja. Favoreceu o retorno do papa de Avignon e trabalhou para superar o grande cisma que surgiu, logo depois, na sede romana e em todo o Ocidente. Compôs escritos densos em conteúdo teológico e incisivos na linguagem, entre os quais o Diálogo da Divina Providência. Foi proclamada padroeira da Itália em 1939 e da Europa em 1999.",
@@ -491,7 +491,7 @@
     },
     "StPancras_54": {
         "subject": "São Pancrácio, mártir",
-        "places": "Betsaida (Israel)",
+        "places": "Roma (Itália)",
         "place_of_death": "Roma",
         "place_of_birth": "Sinnada (atual Şuhut, Turquia)",
         "place_of_burial": "Cemitério de Ottavilla, Roma",
@@ -561,8 +561,8 @@
     },
     "StPhilipNeri_61": {
         "subject": "São Filipe Néri, sacerdote",
-        "places": "Siena (Itália)",
-        "place_of_death": "Catedral de Cantuária (Reino Unido)",
+        "places": "Roma (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Florença (Itália)",
         "place_of_burial": "Chiesa Nuova, Roma",
         "notes": "Filipe (Florença, 21 de julho de 1515 - Roma, 26 de maio de 1595), chegando a Roma em jovem idade, dedicou-se à assistência dos doentes incuráveis e dos peregrinos pobres. Ordenado presbítero, foi assíduo no confessionário e celebrou a Eucaristia com intensa devoção, até o transporte místico. Dos encontros periódicos com um grupo de seus penitentes – que ele entretinha, com estilo alegre, em diálogos espirituais e em atividades recreativas, culturais e caritativas – nasceram a experiência do «Oratório» e a Congregação dos sacerdotes que leva o mesmo nome, reconhecida por Gregório XIII em 15 de julho de 1575.",
@@ -573,7 +573,7 @@
         "subject": "Santo Agostinho de Cantuária, bispo",
         "places": "Cantuária (Reino Unido)",
         "place_of_death": "Cantuária (Reino Unido)",
-        "place_of_birth": "Siena (Itália)",
+        "place_of_birth": "Roma (Itália)",
         "place_of_burial": "Catedral de Cantuária (Reino Unido)",
         "notes": "Agostinho († Cantuária, Reino Unido, cerca de 604), abade do mosteiro de Santo André no Célio, em Roma, foi discípulo de Gregório Magno, que o enviou junto com alguns companheiros para evangelizar as populações anglo-saxônicas da Inglaterra (596) com um estilo baseado no respeito às tradições desses povos. Sua pregação, conduzida com mansidão evangélica e exemplaridade de vida, atraiu ao cristianismo o rei de Kent e todo o seu povo. Primeiro arcebispo de Cantuária, é considerado por católicos e anglicanos o fundador da Igreja inglesa. Sua memória é indicada em 26 de maio na redação galicana do Martirológio jeronimiano.",
         "patronage": "",
@@ -591,9 +591,9 @@
     },
     "StsMarcellinusPeter_65": {
         "subject": "Santos Marcelino e Pedro, mártires",
-        "places": "Catedral de Cantuária (Reino Unido)",
-        "place_of_death": "Catedral de Cantuária (Reino Unido)",
-        "place_of_birth": "N/D",
+        "places": "Roma (Itália)",
+        "place_of_death": "Roma (Itália)",
+        "place_of_birth": "Roma (Itália)",
         "place_of_burial": "Catacumba dos Santos Marcelino e Pedro \"Ad duas lauros\", Roma (Itália)",
         "notes": "Marcelino, presbítero, e Pedro, exorcista, foram martirizados em Roma sob Diocleciano (303-305), na via Casilina, em Tor Pignattara. O futuro papa Dâmaso, na juventude, pôde recolher o relato de sua morte do testemunho do próprio carrasco. Os dois mártires são citados no Cânone Romano e lembrados no dia 2 de junho pelo Martirológio Hieronymianum (séc. V-VI).",
         "patronage": "",
@@ -672,7 +672,7 @@
     "StAloysiusGonzaga_73": {
         "subject": "São Luís Gonzaga, religioso",
         "places": "Castiglione delle Stiviere (Itália); Roma (Itália)",
-        "place_of_death": "Catedral de Cantuária (Reino Unido)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Castiglione delle Stiviere, Mântua (Itália)",
         "place_of_burial": "Igreja de Santo Inácio de Loyola, Roma; o crânio é conservado na basílica a ele dedicada em Castiglione delle Stiviere",
         "notes": "Luís (Castiglione delle Stiviere, Mantova, 9 de março de 1568 - Roma, 21 de junho de 1591), primogênito herdeiro do marquesado gonzaga da cidade natal, desafiando a firme oposição paterna, renunciou à vida e à carreira na corte e entrou na Companhia de Jesus onde, dotado de viva inteligência e forte vontade, pôde beneficiar-se da orientação espiritual de São Roberto Belarmino. A generosa dedicação aos pobres e doentes comprometeu sua delicada constituição física e o levou à morte em poucos anos.",
@@ -812,7 +812,7 @@
     "StCamillusDeLellis_87": {
         "subject": "São Camilo de Lellis, sacerdote",
         "places": "Bucchianico (Itália); Roma (Itália)",
-        "place_of_death": "Betsaida (Israel)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Bucchianico (Chieti) (Itália)",
         "place_of_burial": "Igreja de Santa Maria Madalena, Roma (Itália)",
         "notes": "Camilo (Bucchianico, Chieti, 25 de maio de 1550 - Roma, 14 de julho de 1614) foi na juventude soldado mercenário e dedicado ao jogo; redescobriu a fé no convento dos Capuchinhos de Manfredonia; desejoso de entrar na Ordem, por duas vezes iniciou o noviciado, mas uma ferida incurável no pé o impediu de continuar. Internado no hospital de São Tiago dos Incuráveis em Roma, encontrou São Filipe Neri, que o ajudou em seu caminho espiritual; dedicou-se posteriormente a uma vida totalmente dedicada ao serviço de Cristo, no cuidado amoroso de seus membros sofredores. Tornando-se presbítero, fundou os Clérigos Regulares Ministros dos Enfermos (Camilianos).",
@@ -862,7 +862,7 @@
     "StBridget_92": {
         "subject": "Santa Brígida, religiosa",
         "places": "Igreja de Santa Brígida em Vadstena, Suécia; Igreja de Santa Brígida em Roma (Itália)",
-        "place_of_death": "Betsaida (Israel)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Finsta, Suécia",
         "place_of_burial": "Igreja de Santa Brígida em Roma (Itália)",
         "notes": "Brígida (Finsta, Suécia, 1302/1303 - Roma, 23 de julho de 1373), pertencente à alta aristocracia sueca, dedicou-se com o marido a uma intensa vida espiritual e a uma fervorosa atividade caritativa. Após a morte do cônjuge e o casamento dos oito filhos, viveu um período de solidão e oração, ao final do qual fundou a Ordem Monástica do Santíssimo Salvador, compreendendo um ramo masculino e um feminino. Transferindo-se para Roma, tornou-se célebre por suas profecias e seus apelos à reforma da Igreja, empenhando-se também pelo retorno do papa de Avinhão. Em 1999, São João Paulo II a proclamou padroeira da Europa.",
@@ -902,7 +902,7 @@
     "StIgnatiusLoyola_97": {
         "subject": "Santo Inácio de Loyola, sacerdote",
         "places": "Loyola, Espanha; Roma (Itália)",
-        "place_of_death": "Betsaida (Israel)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Loyola, Espanha",
         "place_of_burial": "Igreja do Gesù, Roma",
         "notes": "Iñigo Lòpez (Loyola, Espanha, 1491 - Roma, 31 de julho de 1556), de nobre família basca, foi ferido na defesa da cidade de Pamplona. Durante a convalescença, a leitura da vida de Cristo e de alguns santos marcou para ele o início da conversão. Um longo itinerário o levou a atravessar um período de discernimento espiritual e uma prolongada temporada de estudos filosóficos e teológicos, culminados em Paris. Lá se formou ao seu redor um grupo de companheiros, com os quais se apresentou ao papa Paulo III. A ele expuseram seu ideal: defesa e propagação da fé e disponibilidade absoluta ao Romano Pontífice em relação a qualquer missão que este quisesse lhes confiar para a expansão missionária do Evangelho e a reforma da Igreja. A espiritualidade da Companhia de Jesus tem seu ponto central nos Exercícios espirituais, que compendiam a experiência interior de Inácio. O Papa Gregório XV o inscreveu entre os santos em 1622.",
@@ -961,8 +961,8 @@
     },
     "StSixtusIIPope_103": {
         "subject": "Santos Sisto II, papa, e companheiros mártires",
-        "places": "Basílica de São Tiago, Santiago (Espanha)",
-        "place_of_death": "Basílica de São Tiago, Santiago (Espanha)",
+        "places": "Roma (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Grécia",
         "place_of_burial": "Basílica de São Sisto Velho, Roma (Itália)",
         "notes": "Sisto, papa (257-258), segundo o testemunho de São Cipriano de Cartago, foi preso no cemitério de Calisto, na via Ápia, durante a perseguição com que o imperador Valeriano quis atingir os líderes da Igreja. Executado em 6 de agosto de 258, junto com quatro diáconos, foi sepultado no mesmo cemitério de Calisto. Seguirá no martírio, após três dias, outro diácono, São Lourenço. É lembrado no Cânone Romano.",
@@ -1021,7 +1021,7 @@
     },
     "StsPontianHippolytus_109": {
         "subject": "Santos Ponciano, papa, e Hipólito, sacerdote, mártires",
-        "places": "Basílica de São Tiago, Santiago (Espanha)",
+        "places": "Roma (Itália)",
         "place_of_death": "Sardenha (Itália)",
         "place_of_birth": "N/D",
         "place_of_burial": "Catacumbas de Calisto (Roma, Itália)",
@@ -1072,7 +1072,7 @@
     "StPiusX_114": {
         "subject": "São Pio X, papa",
         "places": "N/D",
-        "place_of_death": "Basílica de São Tiago, Santiago (Espanha)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Riese, Treviso (Itália)",
         "place_of_burial": "Basílica de São Pedro no Vaticano",
         "notes": "Giuseppe Melchiorre Sarto (Riese, Treviso, 2 de junho de 1835 - Roma, 20 de agosto de 1914) como vigário paroquial e pároco, dedicou-se particularmente tanto ao campo litúrgico e catequético quanto ao caritativo, assistindo os doentes de cólera. Foi bispo de Mântua, depois patriarca de Veneza e cardeal. Eleito papa em 1903, trouxe ao ministério petrino sua rica experiência pastoral, promovendo reformas especialmente na liturgia, na música sacra e na catequese. Em um tempo culturalmente tumultuado, permaneceu firme em preservar o vínculo com a tradição da Igreja. Mesmo no pontificado, manteve aquela austeridade de vida que caracterizou suas origens.",
@@ -1121,8 +1121,8 @@
     },
     "StJosephCalasanz_119": {
         "subject": "São José de Calasanz, sacerdote",
-        "places": "Basílica de São Tiago, Santiago (Espanha)",
-        "place_of_death": "Basílica de São Tiago, Santiago (Espanha)",
+        "places": "Roma (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Peralta de la Sal, Espanha",
         "place_of_burial": "Igreja de São Pantaleão, Roma (Itália)",
         "notes": "José (Peralta de la Sal, Espanha, 1557 - Roma, 25 de agosto de 1646), de família nobre, seguiu a carreira eclesiástica, indo a Roma em busca de uma colocação adequada. Lá, encontrou muitas iniciativas de assistência aos pobres e doentes, e colaborou com São Camilo de Lellis. Preocupado com a situação dos meninos pobres, sem educação adequada, abriu escolas gratuitas para eles e fundou a Congregação dos Clérigos Regulares Pobres da Mãe de Deus das Escolas Pias (Escolápios).",
@@ -1162,8 +1162,8 @@
     "StGregoryGreat_123": {
         "subject": "São Gregório Magno, papa e doutor",
         "places": "Santos Primeiros Mártires da Igreja Romana",
-        "place_of_death": "Basílica de São Tiago, Santiago (Espanha)",
-        "place_of_birth": "Basílica de São Tiago, Santiago (Espanha)",
+        "place_of_death": "Roma (Itália)",
+        "place_of_birth": "Roma (Itália)",
         "place_of_burial": "Basílica de São Pedro no Vaticano",
         "notes": "Gregório (Roma, meados do séc. VI - 12 de março de 604), já prefeito da Urbe, foi monge e abade de Santo André no Célio, bem como enviado papal a Constantinopla. Eleito pontífice (590), desempenhou uma atividade multifacetada tanto no governo da Igreja quanto na administração da cidade, no dramático contexto das invasões de povos germânicos. Abriu novos caminhos para a missão, por exemplo na Ânglia, e dedicou particular atenção à liturgia e ao cuidado dos pobres. Com seus escritos de conteúdo pastoral, exegético e hagiográfico, suas cartas e homilias, foi um dos grandes mestres da Idade Média. A data da memória litúrgica corresponde ao dia de sua eleição ao pontificado.",
         "patronage": "",
@@ -1211,9 +1211,9 @@
     },
     "StCornelius_128": {
         "subject": "Santos Cornélio, papa, e Cipriano, bispo, mártires",
-        "places": "Roma, Itália; Cartago, Tunísia",
+        "places": "Roma (Itália)",
         "place_of_death": "Civitavecchia, e Sesti (Cartago)",
-        "place_of_birth": "Roma, e Cartago",
+        "place_of_birth": "Roma (Itália)",
         "place_of_burial": "Cornélio: Catacumbas de São Calisto, Suas relíquias foram depois transferidas para uma basílica desejada pelo papa Leão I e então o papa Adriano I as levou para a domus culta de Capracoro (perto da área de Montegelato, em Mazzano Romano), onde o pontífice tinha a casa paterna. No tempo do papa Gregório IV seu corpo repousava na basílica de Santa Maria em Trastevere. Naquele tempo parte das relíquias foram levadas para Compiègne, na França, enquanto na segunda metade do século XVIII outras partes de seu corpo foram transladadas para a igreja dos Santos Celso e Juliano. Cipriano: Basílica de São Cipriano em Sesti (Cartago)",
         "notes": "Cornélio, papa (251-253), ofereceu a reconciliação aos cristãos que haviam cedido à imposição de sacrificar aos ídolos, decretada pelo imperador Décio. Opos-se assim ao rigorismo de Novaciano e seus seguidores que negavam aos apóstatas a possibilidade de um retorno à comunhão da Igreja. Após uma nova perseguição, foi exilado em Civitavecchia, onde morreu. Cipriano, bispo de Cartago, trabalhou pela união dentro de sua comunidade e pela colaboração entre as diferentes Igrejas africanas; desenvolveu a doutrina da unidade da Igreja reunida em torno da Eucaristia, sob a orientação do bispo. Aos fiéis que se mostraram fracos diante da perseguição, ofereceu a possibilidade de um itinerário penitencial. Morreu mártir sob Valeriano, em 14 de setembro de 258. Os dois santos são lembrados juntos no Cânone Romano.",
         "patronage": "",
@@ -1222,7 +1222,7 @@
     "StRobertBellarmine_129": {
         "subject": "São Roberto Belarmino, bispo e doutor",
         "places": "N/D",
-        "place_of_death": "Andechs (Baviera)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Montepulciano (Siena, Itália)",
         "place_of_burial": "Igreja de Santo Inácio, Roma (Itália)",
         "notes": "Roberto (Montepulciano, Siena, 4 de outubro de 1542 - Roma, 17 de setembro de 1621), jesuíta, empregou sua notável competência teológica tanto em complexas controvérsias doutrinais (Disputationes de controversiis christianae fidei), quanto na redação de um catecismo popular. Cardeal e arcebispo de Cápua, deu exemplar aplicação ao Concílio de Trento, até que os pesados compromissos romanos o levaram a deixar a diocese para se dedicar inteiramente ao serviço da Igreja universal.",
@@ -1361,8 +1361,8 @@
     },
     "StJohnLeonardi_143": {
         "subject": "São Giovanni Leonardi, sacerdote",
-        "places": "Basílica de São Tiago, Santiago (Espanha)",
-        "place_of_death": "Basílica de São Tiago, Santiago (Espanha)",
+        "places": "Roma (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Diecimo (Lucca, Itália)",
         "place_of_burial": "Igreja de Santa Maria in Campitelli, Roma (Itália)",
         "notes": "Giovanni (Diecimo, Lucca, 1541 - Roma, 9 de outubro de 1609) se dedicou à instrução religiosa dos jovens, envolvendo leigos adultos na «Companhia da Doutrina Cristã». Promoveu a renovação do clero com a «Confraria dos Padres Reformados da Beata Virgem», posteriormente chamados de Clérigos Regulares da Mãe de Deus. Em Roma, encontrou-se com São Filipe Néri e participou do impulso missionário da época, colaborando no projeto da futura Congregação de Propaganda Fide e de um colégio para a formação de missionários ad gentes.",
@@ -1371,8 +1371,8 @@
     },
     "StCallistusIPope_144": {
         "subject": "São Calisto I, papa e mártir",
-        "places": "Andechs (Baviera)",
-        "place_of_death": "Andechs (Baviera)",
+        "places": "Roma (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "N/D",
         "place_of_burial": "Cemitério de Calepódio, Via Aurelia, Roma",
         "notes": "Calisto, um ex-escravo, foi papa de 218 a 222. Ligou seu nome ao primeiro cemitério oficial da Igreja de Roma, na Via Ápia. Sofreu por conflitos internos na comunidade cristã e foi martirizado em Roma, no local onde se ergue a igreja que leva seu nome. Seu sepultamento no cemitério de Calepódio, na Via Aurelia, é lembrado em 14 de outubro na Depositio martyrum (336).",
@@ -1411,8 +1411,8 @@
     },
     "StIgnatiusAntioch_148": {
         "subject": "Santo Inácio de Antioquia, bispo e mártir",
-        "places": "Basílica de São Tiago, Santiago (Espanha)",
-        "place_of_death": "Basílica de São Tiago, Santiago (Espanha)",
+        "places": "Roma (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Antioquia da Síria (atual Antakya), Turquia",
         "place_of_burial": "Basílica de São Clemente, Roma (Itália)",
         "notes": "Inácio, bispo de Antioquia da Síria (atual Antakya, Turquia), no tempo do imperador Trajano (98-117) foi preso como cristão e levado a Roma para ser jogado às feras no circo. Em sua viagem, foi confortado pelo encontro com algumas Igrejas da Ásia Menor, às quais deixou sete cartas que chegaram até nós, documento vivo de sua doutrina e solicitude pastoral, testemunho de seu desejo de seguir Cristo até o martírio. Diante de algumas divisões, ele insistiu para que as comunidades cristãs mantivessem a concórdia, alcançada na única mesa eucarística, sob a orientação do bispo com seu presbitério. Sua memória é celebrada em 17 de outubro na tradição síria; seu nome foi inserido no Cânone Romano.",
@@ -1442,7 +1442,7 @@
     "StPaulCross_151": {
         "subject": "São Paulo da Cruz, sacerdote",
         "places": "Ovada, Alessandria (Itália); Monte Argentario (Itália); Roma (Itália)",
-        "place_of_death": "Andechs (Baviera)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Ovada, Alessandria (Itália)",
         "place_of_burial": "Basílica dos Santos João e Paulo no Célio, Roma (Itália)",
         "notes": "Paulo Danei (Ovada, Alessandria, 3 de janeiro de 1694 - Roma, 18 de outubro de 1775), atraído pela veneração ao Crucifixo, tornou-se penitente em solidão, depois dedicou-se à pregação. Reuniu ao seu redor um primeiro grupo de \"pobres de Jesus\", do qual posteriormente nasceu a Congregação da Paixão de Jesus Cristo (Passionistas): seus membros se comprometem a difundir a devoção à Paixão, especialmente por meio de missões populares. Também deu origem às monjas passionistas, com mosteiros que fossem escolas de vida espiritual também para outras mulheres. No momento da profissão, assumiu o nome de Paulo da Cruz, que expressa bem o centro de sua vida e missão.",
@@ -1511,8 +1511,8 @@
     },
     "StLeoGreat_160": {
         "subject": "São Leão Magno, papa e doutor",
-        "places": "Andechs (Baviera)",
-        "place_of_death": "Andechs (Baviera)",
+        "places": "Roma (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Volterra ou Anghiara (Itália)",
         "place_of_burial": "Basílica de São Pedro no Vaticano",
         "notes": "Leão, chamado Magno pela grandeza de sua obra e de seu magistério, como bispo de Roma governou a Igreja por vinte e um anos (440-461). Sua figura emerge com relevância histórica universal no diálogo entre o Oriente e o Ocidente, e no encontro-confronto entre o mundo latino e as novas populações europeias. Mestre e mistagogo, centrou sua missão no mistério de Cristo homem-Deus, professado na doutrina do Verbo encarnado (Concílio de Calcedônia, 451), atualizado nas celebrações litúrgicas (Sermões sobre os mistérios), testemunhado na vida: «realizar nas obras o que é celebrado no sacramento». Ao seu nome está ligado o fundo eucológico mais antigo do Missal Romano (Sacramentário Veronense, a ele atribuído pela tradição). Sua «deposição» em 10 de novembro é lembrada pelo Martirológio Jeronimiano (séc. V-VI) e pelo Calendário de São Willibrordo (séc. VIII).",
@@ -1601,9 +1601,9 @@
     },
     "StCecilia_169": {
         "subject": "Santa Cecília, virgem e mártir",
-        "places": "Catedral de Cantuária (Reino Unido)",
-        "place_of_death": "Catedral de Cantuária (Reino Unido)",
-        "place_of_birth": "Catedral de Cantuária (Reino Unido)",
+        "places": "Roma (Itália)",
+        "place_of_death": "Roma (Itália)",
+        "place_of_birth": "Roma (Itália)",
         "place_of_burial": "Catacumbas de São Calisto, Roma (Itália)",
         "notes": "Cecília (séc. III) foi mártir em Roma, onde lhe foi dedicada uma basílica em Trastevere (séc. IV). A ampla difusão de seu culto remonta a uma Paixão (séc. V) na qual é apresentada como modelo de virgem cristã: enquanto se elevam cantos e sons para seu casamento, Cecília eleva no coração um hino ao seu Esposo divino. Daí também o papel atribuído a ela de padroeira da música. Sua memória em 22 de novembro já era celebrada no século VI. É lembrada no Cânone Romano.",
         "patronage": "",
@@ -1691,9 +1691,9 @@
     },
     "StDamasusIPope_178": {
         "subject": "São Dâmaso I, papa",
-        "places": "Catedral de Cantuária (Reino Unido)",
-        "place_of_death": "Catedral de Cantuária (Reino Unido)",
-        "place_of_birth": "Tréveris (Alemanha)",
+        "places": "Roma (Itália)",
+        "place_of_death": "Roma (Itália)",
+        "place_of_birth": "Roma (Itália)",
         "place_of_burial": "Basílica de São Lourenço em Damaso, Roma (Itália)",
         "notes": "Dâmaso (Roma, 305 ca. - 11 de dezembro de 384), diácono do papa Libério (352-366), após acompanhar seu bispo no exílio imposto pelo imperador devido à oposição à política filoariana da corte, sucedeu-lhe no pontificado. Lutou pela unidade da Igreja de Roma, perturbada por fortes contradições internas, e afirmou vigorosamente a primazia da Sé Apostólica. Promoveu o culto dos mártires, redigindo numerosas e elegantes epígrafes em sua memória. Confiou a São Jerônimo a revisão da tradução latina da Bíblia.",
         "patronage": "",
@@ -1782,7 +1782,7 @@
     "StSylvesterIPope_187": {
         "subject": "São Silvestre I, papa",
         "places": "N/D",
-        "place_of_death": "Tréveris (Alemanha)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "N/D",
         "place_of_burial": "Catacumbas de Priscila, Roma",
         "notes": "Silvestre foi papa (314-335) nos anos em que a Igreja começava, com Constantino, a ser apoiada pelo poder imperial e a cidade de Roma a enriquecer-se com as primeiras grandes basílicas cristãs. Durante seu pontificado, celebrou-se em Niceia (atual Íznik, Turquia) o primeiro Concílio Ecumênico da história (325). A grande assembleia, à qual Silvestre enviou dois legados, proclamou, contra a heresia de Ário, a plena divindade do Filho, «consubstancial ao Pai». Sua morte é lembrada em 31 de dezembro na Depositio episcoporum de 336. Foi sepultado no cemitério de Priscila, na via Salaria.",
@@ -2232,9 +2232,9 @@
     "StCatherineSiena_263": {
         "subject": "Santa Catarina de Siena, virgem e doutora da Igreja",
         "places": "Siena, Roma",
-        "place_of_death": "Tréveris (Alemanha)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Siena (Itália)",
-        "place_of_burial": "Andechs (Baviera)",
+        "place_of_burial": "Roma (Itália)",
         "notes": "Catarina (Siena, 1347 - Roma, 29 de abril de 1380) dedicou-se, muito jovem, à oração e à penitência em sua própria casa; posteriormente foi admitida entre as \"mantellate\" da Terceira Ordem Dominicana. Realizou uma intensa ação pública, tanto como operadora de paz em uma sociedade dilacerada por disputas, quanto como defensora franca e apaixonada da reforma da Igreja. Favoreceu o retorno do papa de Avignon e trabalhou para superar o grande cisma que surgiu, logo depois, na sede romana e em todo o Ocidente. Compôs escritos densos em conteúdo teológico e incisivos na linguagem, entre os quais o Diálogo da Divina Providência. Foi proclamada padroeira da Itália em 1939 e da Europa em 1999.",
         "patronage": "",
         "main_shrine": "Basílica de Santa Maria sopra Minerva, Roma"
@@ -2242,7 +2242,7 @@
     "StPiusV_264": {
         "subject": "São Pio V, papa",
         "places": "N/D",
-        "place_of_death": "Tréveris (Alemanha)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Bosco Marengo, Alessandria (Itália)",
         "place_of_burial": "Basílica de Santa Maria Maior, Roma",
         "notes": "Miguel (no século Antônio) Ghislieri (Bosco Marengo, Alessandria, 17 de janeiro de 1504 - Roma, 1 de maio de 1572), dominicano, foi papa a partir de 1566. Implementou a primeira aplicação do Concílio de Trento, começando pela cúria romana e pela Urbe. Publicou o Catecismo (1566), cuidou da reforma do Breviário (1568) e do Missal (1570). Promoveu a difusão da fé na Europa e no Oriente, e a defendeu contra a expansão otomana (Lepanto, 7 de outubro de 1571).",
@@ -2281,8 +2281,8 @@
     },
     "StPhilipNeri_276": {
         "subject": "São Filipe Néri, sacerdote",
-        "places": "Tréveris (Alemanha)",
-        "place_of_death": "Florença (Itália)",
+        "places": "Roma (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Florença (Itália)",
         "place_of_burial": "Chiesa Nuova, Roma",
         "notes": "Filipe (Florença, 21 de julho de 1515 - Roma, 26 de maio de 1595), chegando a Roma em jovem idade, dedicou-se à assistência dos doentes incuráveis e dos peregrinos pobres. Ordenado presbítero, foi assíduo no confessionário e celebrou a Eucaristia com intensa devoção, até o transporte místico. Dos encontros periódicos com um grupo de seus penitentes – que ele entretinha, com estilo alegre, em diálogos espirituais e em atividades recreativas, culturais e caritativas – nasceu a experiência do «Oratório» e a Congregação dos sacerdotes que leva o mesmo nome, reconhecida por Gregório XIII em 15 de julho de 1575.",
@@ -2332,7 +2332,7 @@
     "StAloysiusGonzaga_288": {
         "subject": "São Luís Gonzaga, religioso",
         "places": "Castiglione delle Stiviere; Roma",
-        "place_of_death": "Florença (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Castiglione delle Stiviere, Mântua (Itália)",
         "place_of_burial": "Igreja de Santo Inácio de Loyola, Roma; crânio é conservado na basílica a ele intitulada em Castiglione delle Stiviere",
         "notes": "Luís (Castiglione delle Stiviere, Mântua, 9 de março de 1568 - Roma, 21 de junho de 1591), primogênito herdeiro do marquesado gonzaga da cidade natal, desafiando a firme oposição paterna renunciou à vida e à carreira na corte e entrou na Companhia de Jesus onde, dotado de viva inteligência e forte vontade, pôde beneficiar-se da orientação espiritual de São Roberto Belarmino. A generosa dedicação aos pobres e doentes comprometeu sua delicada constituição física e o levou à morte em poucos anos.",
@@ -2392,7 +2392,7 @@
     "StCamillusDeLellis_302": {
         "subject": "São Camilo de Lellis, sacerdote",
         "places": "Bucchianico (Itália); Roma (Itália)",
-        "place_of_death": "Florença (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Bucchianico (Chieti, Itália)",
         "place_of_burial": "Igreja de Santa Maria Madalena, Roma (Itália)",
         "notes": "Camilo (Bucchianico, Chieti, 25 de maio de 1550 - Roma, 14 de julho de 1614) foi na juventude soldado de fortuna e dedicado ao jogo; redescobriu a fé no convento dos Capuchinhos de Manfredonia; desejoso de entrar na Ordem, por duas vezes iniciou o noviciado, mas uma ferida incurável no pé o impediu de continuar. Internado no hospital de São Tiago dos Incuráveis em Roma, encontrou São Filipe Néri que o ajudou em seu caminho espiritual; dedicou-se então a uma vida toda voltada ao serviço de Cristo, no cuidado amoroso de seus membros sofredores. Tornando-se presbítero, fundou os Clérigos Regulares Ministros dos Enfermos (Camilianos).",
@@ -2422,7 +2422,7 @@
     "StBridget_307": {
         "subject": "Santa Brígida, religiosa",
         "places": "Igreja de Santa Brígida em Vadstena, Suécia; Igreja de Santa Brígida em Roma (Itália)",
-        "place_of_death": "Siena (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Finsta, Suécia",
         "place_of_burial": "Igreja de Santa Brígida em Roma (Itália)",
         "notes": "Brígida (Finsta, Suécia, 1302/1303 - Roma, 23 de julho de 1373), pertencente à alta aristocracia sueca, dedicou-se com o marido a uma intensa vida espiritual e a uma fervorosa atividade caritativa. Após a morte do cônjuge e o casamento dos oito filhos, viveu um período de solidão e oração, ao final do qual fundou a Ordem Monástica do Santíssimo Salvador, compreendendo um ramo masculino e um feminino. Transferindo-se para Roma, tornou-se célebre por suas profecias e seus apelos à reforma da Igreja, empenhando-se também pelo retorno do papa de Avignon. Em 1999, São João Paulo II a proclamou padroeira da Europa.",
@@ -2432,7 +2432,7 @@
     "StIgnatiusLoyola_312": {
         "subject": "Santo Inácio de Loyola, sacerdote",
         "places": "Loyola, Espanha; Roma (Itália)",
-        "place_of_death": "Florença (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Loyola, Espanha",
         "place_of_burial": "Igreja do Gesù, Roma",
         "notes": "Iñigo Lòpez (Loyola, Espanha, 1491 - Roma, 31 de julho de 1556), de nobre família basca, foi ferido na defesa da cidade de Pamplona. Durante a convalescença, a leitura da vida de Cristo e de alguns santos marcou para ele o início da conversão. Um longo itinerário o levou a atravessar um período de discernimento espiritual e uma prolongada temporada de estudos filosóficos e teológicos, culminados em Paris. Lá, formou-se ao seu redor um grupo de companheiros, com os quais se apresentou ao papa Paulo III. A ele expuseram seu ideal: defesa e propagação da fé e disponibilidade absoluta ao Romano Pontífice em relação a qualquer missão que este quisesse lhes confiar para a expansão missionária do Evangelho e a reforma da Igreja. A espiritualidade da Companhia de Jesus tem seu ponto central nos Exercícios Espirituais, que compendiam a experiência interior de Inácio. O Papa Gregório XV o inscreveu entre os santos em 1622.",
@@ -2532,7 +2532,7 @@
     "StPiusX_329": {
         "subject": "São Pio X, papa",
         "places": "N/D",
-        "place_of_death": "Florença (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Riese, Treviso (Itália)",
         "place_of_burial": "Basílica de São Pedro no Vaticano",
         "notes": "Giuseppe Melchiorre Sarto (Riese, Treviso, 2 de junho de 1835 - Roma, 20 de agosto de 1914) como vigário paroquial e pároco, dedicou-se particularmente tanto no campo litúrgico e catequético quanto no âmbito caritativo, assistindo os doentes de cólera. Foi bispo de Mântua, depois patriarca de Veneza e cardeal. Eleito papa em 1903, trouxe ao ministério petrino sua rica experiência pastoral, promovendo reformas especialmente na liturgia, na música sacra e na catequese. Em um tempo culturalmente tumultuado, permaneceu firme em preservar o vínculo com a tradição da Igreja. Mesmo no pontificado, manteve aquela austeridade de vida que caracterizou suas origens.",
@@ -2561,8 +2561,8 @@
     },
     "StJosephCalasanz_334": {
         "subject": "São José de Calasanz, sacerdote",
-        "places": "Florença (Itália)",
-        "place_of_death": "Florença (Itália)",
+        "places": "Roma (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Peralta de la Sal, Espanha",
         "place_of_burial": "Igreja de São Pantaleão, Roma (Itália)",
         "notes": "José (Peralta de la Sal, Espanha, 1557 - Roma, 25 de agosto de 1646), de família nobre, seguiu a carreira eclesiástica, indo a Roma em busca de uma colocação conveniente. Lá, encontrou muitas iniciativas de assistência aos pobres e doentes, e colaborou com São Camilo de Lellis. Preocupado com a situação dos meninos pobres, sem uma educação adequada, abriu escolas gratuitas para eles e fundou a Congregação dos Clérigos Regulares Pobres da Mãe de Deus das Escolas Pias (Escolápios).",
@@ -2572,7 +2572,7 @@
     "StRobertBellarmine_344": {
         "subject": "São Roberto Belarmino, bispo e doutor",
         "places": "N/D",
-        "place_of_death": "Florença (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Montepulciano, Siena (Itália)",
         "place_of_burial": "Igreja de Santo Inácio, Roma (Itália)",
         "notes": "Roberto (Montepulciano, Siena, 4 de outubro de 1542 - Roma, 17 de setembro de 1621), jesuíta, utilizou sua notável competência teológica tanto em complexas controvérsias doutrinais (Disputationes de controversiis christianae fidei), quanto na redação de um catecismo popular. Cardeal e arcebispo de Cápua, aplicou exemplarmente o Concílio de Trento, até que os pesados compromissos romanos o levaram a deixar a diocese para se dedicar inteiramente ao serviço da Igreja universal.",
@@ -2621,8 +2621,8 @@
     },
     "StJohnLeonardi_358": {
         "subject": "São Giovanni Leonardi, sacerdote",
-        "places": "Florença (Itália)",
-        "place_of_death": "Florença (Itália)",
+        "places": "Roma (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Diecimo (Lucca) (Itália)",
         "place_of_burial": "Igreja de Santa Maria in Campitelli, Roma (Itália)",
         "notes": "Giovanni (Diecimo, Lucca, 1541 - Roma, 9 de outubro de 1609) se dedicou à instrução religiosa dos jovens, envolvendo leigos adultos na «Companhia da Doutrina Cristã». Promoveu a renovação do clero com a «Confraria dos Padres Reformados da Beata Virgem», depois chamados de Clérigos Regulares da Mãe de Deus. Em Roma, encontrou-se com São Filipe Neri e participou do impulso missionário da época, colaborando no projeto da futura Congregação de Propaganda Fide e de um colégio para a formação de missionários ad gentes.",
@@ -2672,7 +2672,7 @@
     "StPaulCross_366": {
         "subject": "São Paulo da Cruz, sacerdote",
         "places": "Ovada, Alessandria (Itália); Monte Argentario (Itália); Roma (Itália)",
-        "place_of_death": "Florença (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Ovada, Alessandria (Itália)",
         "place_of_burial": "Basílica dos Santos João e Paulo no Célio, Roma (Itália)",
         "notes": "Paulo Danei (Ovada, Alessandria, 3 de janeiro de 1694 - Roma, 18 de outubro de 1775), atraído pela veneração ao Crucifixo, tornou-se penitente em solidão, depois dedicou-se à pregação. Reuniu ao seu redor um primeiro grupo de «pobres de Jesus», do qual posteriormente nasceu a Congregação da Paixão de Jesus Cristo (Passionistas): seus membros se comprometem a difundir a devoção à Paixão, especialmente por meio de missões populares. Também deu origem às monjas passionistas, com mosteiros que fossem escolas de vida espiritual também para outras mulheres. No momento da profissão, assumiu o nome de Paulo da Cruz, que expressa bem o centro de sua vida e missão.",
@@ -2972,9 +2972,9 @@
     "StCatherineSiena_486": {
         "subject": "Santa Catarina de Siena, virgem e doutora da Igreja",
         "places": "Siena, Roma",
-        "place_of_death": "Florença (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Siena (Itália)",
-        "place_of_burial": "Florença (Itália)",
+        "place_of_burial": "Roma (Itália)",
         "notes": "Catarina (Siena, 1347 - Roma, 29 de abril de 1380) dedicou-se, muito jovem, à oração e à penitência em sua própria casa; posteriormente foi admitida entre as «mantellate» da Terceira Ordem Dominicana. Desempenhou uma intensa ação pública, tanto como pacificadora em uma sociedade dilacerada por contendas, quanto como defensora franca e apaixonada da reforma da Igreja. Favoreceu o retorno do papa de Avignon e trabalhou para superar o grande cisma que surgiu, logo depois, na sede romana e em todo o Ocidente. Compôs escritos densos em conteúdo teológico e incisivos na linguagem, entre os quais o Diálogo da Divina Providência. Foi proclamada padroeira da Itália em 1939 e da Europa em 1999.",
         "patronage": "",
         "main_shrine": "Basílica de Santa Maria sopra Minerva, Roma"
@@ -3032,7 +3032,7 @@
     "StRobertBellarmine_497": {
         "subject": "São Roberto Belarmino, bispo e doutor",
         "places": "N/D",
-        "place_of_death": "Florença (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Montepulciano, Siena (Itália)",
         "place_of_burial": "Igreja de Santo Inácio, Roma (Itália)",
         "notes": "Roberto (Montepulciano, Siena, 4 de outubro de 1542 - Roma, 17 de setembro de 1621), jesuíta, empregou sua notável competência teológica tanto em complexas controvérsias doutrinais (Disputationes de controversiis christianae fidei), quanto na redação de um catecismo popular. Cardeal e arcebispo de Cápua, deu exemplar aplicação ao Concílio de Trento, até que os pesados compromissos romanos o levaram a deixar a diocese para se dedicar inteiramente ao serviço da Igreja universal.",
@@ -3082,7 +3082,7 @@
     "StPaulVI_544": {
         "subject": "São Paulo VI, Papa",
         "places": "Concesio, Milão, Roma",
-        "place_of_death": "Florença (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Concesio (Itália)",
         "place_of_burial": "Basílica de São Pedro no Vaticano",
         "notes": "Giovanni Battista Montini, nascido em Concesio (Brescia) em 26 de setembro de 1897 em uma família profundamente cristã e engajada na área social, foi ordenado presbítero em 29 de maio de 1920. Prestou serviço à Sé Apostólica e se dedicou à formação dos jovens universitários. Em 1954 foi nomeado arcebispo de Milão. Eleito Sumo Pontífice em 21 de junho de 1963, com grande sabedoria conduziu à conclusão o Concílio Ecumênico Vaticano II. Promoveu a reforma da vida da Igreja, especialmente da liturgia, o diálogo ecumênico e o anúncio do Evangelho no mundo contemporâneo, promovendo uma imagem de Igreja «experta em humanidade», chamada a difundir a «civilização do amor» inaugurada por Cristo. Morreu em 6 de agosto de 1978.",
@@ -3092,7 +3092,7 @@
     "StPaulVI_545": {
         "subject": "São Paulo VI, Papa",
         "places": "Concesio, Milão, Roma",
-        "place_of_death": "Florença (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Concesio (Itália)",
         "place_of_burial": "Basílica de São Pedro no Vaticano",
         "notes": "Giovanni Battista Montini, nascido em Concesio (Brescia) em 26 de setembro de 1897 em uma família profundamente cristã e engajada na área social, foi ordenado presbítero em 29 de maio de 1920. Serviu na Sé Apostólica e se dedicou à formação de jovens universitários. Em 1954 foi nomeado arcebispo de Milão. Eleito Sumo Pontífice em 21 de junho de 1963, com grande sabedoria conduziu à conclusão o Concílio Ecumênico Vaticano II. Promoveu a reforma da vida da Igreja, especialmente da liturgia, o diálogo ecumênico e o anúncio do Evangelho no mundo contemporâneo, promovendo uma imagem de Igreja «experiente em humanidade», chamada a difundir a «civilização do amor» inaugurada por Cristo. Morreu em 6 de agosto de 1978.",
@@ -3122,7 +3122,7 @@
     "StJohnXXIII_548": {
         "subject": "São João XXIII, papa",
         "places": "Sotto il Monte, Bérgamo (Itália); Roma (Itália)",
-        "place_of_death": "Florença (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Sotto il Monte (Bérgamo, Itália)",
         "place_of_burial": "Basílica de São Pedro no Vaticano",
         "notes": "Angelo Giuseppe Roncalli nasceu em Sotto il Monte (Bérgamo) em 1881. Aos onze anos entrou no seminário de Bérgamo, para depois continuar no Pontifício Seminário Romano. Ordenado presbítero em 1904, foi secretário do bispo de Bérgamo. Em 1921 iniciou seu serviço à Santa Sé como presidente para a Itália do Conselho central da Pontifícia Obra para a Propagação da Fé; em 1925 como visitador apostólico e depois delegado apostólico na Bulgária; em 1935 como delegado apostólico na Turquia e Grécia; em 1944 como núncio apostólico na França. Em 1953 foi criado cardeal e nomeado patriarca de Veneza. Foi eleito papa em 1958: convocou o Sínodo Romano, instituiu a Comissão para a revisão do Código de Direito Canônico, convocou e abriu o Concílio Ecumênico Vaticano II. Morreu na noite de 3 de junho de 1963.",
@@ -3132,7 +3132,7 @@
     "StJohnXXIII_549": {
         "subject": "São João XXIII, papa",
         "places": "Sotto il Monte, Bérgamo (Itália); Roma (Itália)",
-        "place_of_death": "Florença (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Sotto il Monte (Bergamo, Itália)",
         "place_of_burial": "Basílica de São Pedro no Vaticano",
         "notes": "Angelo Giuseppe Roncalli nasceu em Sotto il Monte (Bérgamo) em 1881. Aos onze anos entrou no seminário de Bérgamo, para depois continuar no Pontifício Seminário Romano. Ordenado presbítero em 1904, foi secretário do bispo de Bérgamo. Em 1921 iniciou seu serviço à Santa Sé como presidente para a Itália do Conselho central da Pontifícia Obra para a Propagação da Fé; em 1925 como visitador apostólico e depois delegado apostólico na Bulgária; em 1935 como delegado apostólico na Turquia e Grécia; em 1944 como núncio apostólico na França. Em 1953 foi criado cardeal e nomeado patriarca de Veneza. Foi eleito papa em 1958: convocou o Sínodo Romano, instituiu a Comissão para a revisão do Código de Direito Canônico, convocou e abriu o Concílio Ecumênico Vaticano II. Morreu na noite de 3 de junho de 1963.",
@@ -3142,7 +3142,7 @@
     "StJohnPaulII_550": {
         "subject": "São João Paulo II, papa",
         "places": "Wadowice (Polônia); Roma (Itália)",
-        "place_of_death": "Sotto il Monte (Bérgamo, Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Wadowice (Polônia)",
         "place_of_burial": "Basílica de São Pedro no Vaticano",
         "notes": "Karol Józef Wojtyła (Wadowice, Polônia, 18 de maio de 1920 - Roma, 2 de abril de 2005), foi ordenado presbítero em 1 de novembro de 1946. Professor de teologia moral (Lublin), foi eleito auxiliar e depois arcebispo de Cracóvia (1964) nos anos da dura repressão do regime comunista. Participou do Concílio Vaticano II. Eleito papa (1978) após o breve pontificado de João Paulo I, assumiu o nome duplo. À crescente secularização contrapôs a centralidade de Cristo, relançando a missão da Igreja, tanto com as numerosas viagens apostólicas pelo mundo, quanto com a proclamação de inúmeros testemunhos da fé como beatos ou santos. Promoveu o diálogo ecumênico e desenvolveu o diálogo inter-religioso. Com o Grande Jubileu do ano 2000, introduziu a Igreja no terceiro milênio de sua história.",
@@ -3152,7 +3152,7 @@
     "StJohnPaulII_551": {
         "subject": "São João Paulo II, papa",
         "places": "Wadowice (Polônia); Roma (Itália)",
-        "place_of_death": "Sotto il Monte (Bérgamo, Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Wadowice (Polônia)",
         "place_of_burial": "Basílica de São Pedro no Vaticano",
         "notes": "Karol Józef Wojtyła (Wadowice, Polônia, 18 de maio de 1920 - Roma, 2 de abril de 2005), foi ordenado presbítero em 1 de novembro de 1946. Professor de teologia moral (Lublin), foi eleito auxiliar e depois arcebispo de Cracóvia (1964) nos anos da dura repressão do regime comunista. Participou do Concílio Vaticano II. Eleito papa (1978) após o breve pontificado de João Paulo I, assumiu o nome duplo. À crescente secularização contrapôs a centralidade de Cristo, relançando a missão da Igreja, tanto com as numerosas viagens apostólicas pelo mundo, quanto com a proclamação de inúmeros testemunhos da fé como beatos ou santos. Promoveu o diálogo ecumênico e desenvolveu o diálogo inter-religioso. Com o Grande Jubileu do ano 2000, introduziu a Igreja no terceiro milênio de sua história.",
@@ -3332,8 +3332,8 @@
     "StGregoryGreat_571": {
         "subject": "São Gregório Magno, papa e doutor",
         "places": "Cherson, Crimeia",
-        "place_of_death": "Sotto il Monte (Bérgamo, Itália)",
-        "place_of_birth": "Sotto il Monte (Bérgamo, Itália)",
+        "place_of_death": "Roma (Itália)",
+        "place_of_birth": "Roma (Itália)",
         "place_of_burial": "Basílica de São Pedro no Vaticano",
         "notes": "Gregório (Roma, meados do século VI - 12 de março de 604), já prefeito da Urbe, foi monge e abade de Santo André no Célio, bem como enviado papal a Constantinopla. Eleito pontífice (590), desempenhou uma multiforme atividade tanto de governo da Igreja quanto de administração da cidade, no dramático contexto das invasões de populações germânicas. Abriu novos caminhos para a missão, por exemplo, na Ânglia, e dedicou particular atenção à liturgia e ao cuidado dos pobres. Com seus escritos de conteúdo pastoral, exegético e hagiográfico, suas cartas e homilias, foi um dos grandes mestres da Idade Média. A data da memória litúrgica corresponde ao dia de sua eleição ao pontificado.",
         "patronage": "",
@@ -3401,8 +3401,8 @@
     },
     "StLeoGreat_578": {
         "subject": "São Leão Magno, papa e doutor",
-        "places": "Sotto il Monte (Bérgamo, Itália)",
-        "place_of_death": "Catedral de Cantuária (Reino Unido)",
+        "places": "Roma (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Volterra ou Anghiara (Itália)",
         "place_of_burial": "Basílica de São Pedro no Vaticano",
         "notes": "Leão, chamado Magno pela grandeza de sua obra e magistério, como bispo de Roma governou a Igreja por vinte e um anos (440-461). Sua figura emerge com destaque histórico universal no diálogo entre o Oriente e o Ocidente, e no encontro-confronto entre o mundo latino e as novas populações europeias. Mestre e mistagogo, centrou sua missão no mistério de Cristo homem-Deus, professado na doutrina do Verbo encarnado (Concílio de Calcedônia, 451), atualizado nas celebrações litúrgicas (Sermões sobre os mistérios), testemunhado na vida: \"realizar nas obras o que é celebrado no sacramento\". Ao seu nome está ligado o fundo eucológico mais antigo do Missal Romano (Sacramentário Veronense, a ele atribuído pela tradição). Sua \"deposição\" em 10 de novembro é lembrada pelo Martirológio Jeronimiano (séculos V-VI) e pelo Calendário de São Willibrordo (século VIII).",
