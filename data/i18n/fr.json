@@ -881,8 +881,8 @@
     },
     "StMartha_95": {
         "subject": "Sainte Marthe",
-        "places": "N/D",
-        "place_of_death": "N/D",
+        "places": "Béthanie (actuelle al-Azariyya, Palestine) ; Tarascon (France)",
+        "place_of_death": "Tarascon (France)",
         "place_of_birth": "Béthanie",
         "place_of_burial": "Église de Sainte Marthe, Tarascon (France)",
         "notes": "Marthe, sœur de Marie et de « Lazare de Béthanie » (Jn 11, 1), accueille et sert Jésus chez elle (cf. Lc 10, 38 ; Jn 12, 2), et il l'exhorte à chercher « la seule chose » dont il y a besoin, la « meilleure part » (Lc 10, 42), que sa sœur a choisie en écoutant sa parole. Avec Marie, lorsque Lazare tombe malade, elle envoie chercher Jésus (cf. Jn 11, 3), proclame sa foi en lui (cf. Jn 11, 21-27) et assiste au réveil de Lazare de la mort (cf. Jn 11, 40-44) ; elle sert au dîner de Béthanie, pendant lequel sa sœur Marie oint les pieds de Jésus avec du nard précieux (cf. Jn 12, 2-3).",
@@ -891,7 +891,7 @@
     },
     "StPeterChrysologus_96": {
         "subject": "Saint Pierre Chrysologue, évêque et docteur",
-        "places": "N/D",
+        "places": "Imola (Italie) ; Ravenne (Italie)",
         "place_of_death": "Ravenne (Italie)",
         "place_of_birth": "Imola (Italie)",
         "place_of_burial": "Cathédrale de Saint Cassien à Imola (Italie)",
@@ -991,7 +991,7 @@
     },
     "StLawrenceDeacon_106": {
         "subject": "Saint Laurent, diacre et martyr",
-        "places": "N/D",
+        "places": "Huesca (Espagne); Rome (Italie)",
         "place_of_death": "Église de Saint Laurent in Panisperna, Rome (Italie)",
         "place_of_birth": "Valence ou Huesca, Espagne",
         "place_of_burial": "Basilique Saint-Laurent-hors-les-Murs, Rome (Italie)",
