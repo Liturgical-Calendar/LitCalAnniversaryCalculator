@@ -881,8 +881,8 @@
     },
     "StMartha_95": {
         "subject": "Saint Martha",
-        "places": "N/A",
-        "place_of_death": "N/A",
+        "places": "Bethany (current al-Azariyya, Palestine); Tarascon (France)",
+        "place_of_death": "Tarascon (France)",
         "place_of_birth": "Bethany",
         "place_of_burial": "Church of Saint Martha, Tarascon (France)",
         "notes": "Martha, sister of Mary and \"Lazarus of Bethany\" (Jn 11, 1), hosts and serves Jesus in her home (cf. Lk 10, 38; Jn 12, 2), and is exhorted by him to seek \"the one thing\" that is needed, the \"better part\" (Lk 10, 42), which her sister has chosen by listening to his word. Together with Mary, when Lazarus falls ill, she sends for Jesus (cf. Jn 11, 3), proclaims her faith in him (cf. Jn 11, 21-27) and witnesses Lazarus' awakening from death (cf. Jn 11, 40-44); she serves at the Bethany dinner, during which her sister Mary anoints Jesus' feet with precious nard (cf. Jn 12, 2-3).",
@@ -891,7 +891,7 @@
     },
     "StPeterChrysologus_96": {
         "subject": "Saint Peter Chrysologus, bishop and doctor",
-        "places": "N/A",
+        "places": "Imola (Italy); Ravenna (Italy)",
         "place_of_death": "Ravenna (Italy)",
         "place_of_birth": "Imola (Italy)",
         "place_of_burial": "Cathedral of Saint Cassian in Imola (Italy)",
@@ -991,7 +991,7 @@
     },
     "StLawrenceDeacon_106": {
         "subject": "Saint Lawrence, deacon and martyr",
-        "places": "N/A",
+        "places": "Huesca (Spain); Rome (Italy)",
         "place_of_death": "Church of Saint Lawrence in Panisperna, Rome (Italy)",
         "place_of_birth": "Valencia or Huesca, Spain",
         "place_of_burial": "Basilica of Saint Lawrence Outside the Walls, Rome (Italy)",
