@@ -881,8 +881,8 @@
     },
     "StMartha_95": {
         "subject": "Heilige Martha",
-        "places": "N/V",
-        "place_of_death": "N/V",
+        "places": "Betanien (heutiges al-Azariyya, Palästina); Tarascon (Frankreich)",
+        "place_of_death": "Tarascon (Frankreich)",
         "place_of_birth": "Bethanien",
         "place_of_burial": "Kirche der Heiligen Marta, Tarascon (Frankreich)",
         "notes": "Marta, die Schwester von Maria und „Lazarus von Betanien“ (Joh 11, 1), beherbergt und dient Jesus in ihrem Haus (vgl. Lk 10, 38; Joh 12, 2) und wird von ihm ermahnt, „das eine Notwendige“ zu suchen, den „besseren Teil“ (Lk 10, 42), den ihre Schwester gewählt hat, indem sie seinem Wort lauschte. Zusammen mit Maria ruft sie Jesus, als Lazarus krank wird (vgl. Joh 11, 3), bekennt ihren Glauben an ihn (vgl. Joh 11, 21-27) und ist Zeugin der Auferweckung von Lazarus (vgl. Joh 11, 40-44); sie dient beim Abendessen in Betanien, während ihre Schwester Maria die Füße von Jesus mit kostbarem Nardenöl salbt (vgl. Joh 12, 2-3).",
@@ -891,7 +891,7 @@
     },
     "StPeterChrysologus_96": {
         "subject": "Sankt Petrus Chrysologus, Bischof und Kirchenlehrer",
-        "places": "N/V",
+        "places": "Imola (Italien); Ravenna (Italien)",
         "place_of_death": "Ravenna (Italien)",
         "place_of_birth": "Imola (Italien)",
         "place_of_burial": "Kathedrale von San Cassiano in Imola (Italien)",
@@ -951,13 +951,13 @@
     },
     "Transfiguration_102": {
         "subject": "Verklärung des Herrn",
-        "places": "N/V",
+        "places": "Berg Tabor (Israel)",
         "place_of_death": "N/V",
         "place_of_birth": "N/V",
-        "place_of_burial": "N/V",
-        "notes": "Auf dem Berg, in Begleitung von Petrus, Jakobus und Johannes, wird Jesus „vor ihnen“ verklärt (Mt 17, 2): Der Schleier fällt von den Augen der Jünger und sie sehen, durch Gottes Geschenk, die göttliche Identität, die aus der Menschlichkeit Christi hervorgeht. Der Menschensohn, der sich auf den Weg zum Kreuz gemacht hat (vgl. Mk 8, 31-34), ist der Sohn Gottes, die endgültige Offenbarung des Vaters. Das Gesetz und die Propheten zielen auf Christus und ihm gibt der Vater Zeugnis: „Das ist mein geliebter Sohn: Hört auf ihn!“ (Mk 9, 7). Eingehüllt in jene Herrlichkeit, die er beim Vater hatte, bevor die Welt war (vgl. Joh 1, 14), antizipiert und präfiguriert Christus sein glorreiches Kommen am letzten Tag, um alle Dinge zu verklären. Es war Papst Calixtus III., der dieses Fest 1457 auf die ganze Kirche ausdehnte.",
+        "place_of_burial": "n. z.",
+        "notes": "Papst Calixt III. führte das heutige Fest zur Erinnerung an den Sieg von Belgrad im August des Vorjahres ein. In der Schlacht von Belgrad führten János Hunyadi und Bruder Johannes von Capestrano einen Kreuzzug von Soldaten gegen die türkisch-osmanische Flotte von Mehmet II. Auf dem Berg, in Begleitung von Petrus, Jakobus und Johannes, wird Jesus „vor ihnen“ (Mt 17, 2) verklärt: Der Schleier fällt von den Augen der Jünger und sie sehen, durch Gottes Gnade, die göttliche Identität, die aus der Menschlichkeit Christi hervorgeht. Der Menschensohn, der sich auf den Weg zum Kreuz gemacht hat (vgl. Mk 8, 31-34), ist der Sohn Gottes, die endgültige Offenbarung des Vaters. Das Gesetz und die Propheten zielen auf Christus und der Vater bezeugt ihn: „Das ist mein geliebter Sohn; auf ihn sollt ihr hören!“ (Mk 9, 7). Eingehüllt in jene Herrlichkeit, die er beim Vater hatte, bevor die Welt war (vgl. Joh 1, 14), antizipiert und präfiguriert Christus sein glorreiches Kommen am letzten Tag, um alle Dinge zu verklären. Es war Papst Calixt III., der dieses Fest 1457 auf die ganze Kirche ausdehnte.",
         "patronage": "",
-        "main_shrine": "Berg Tabor, Israel"
+        "main_shrine": "Berg Tabor (Israel)"
     },
     "StSixtusIIPope_103": {
         "subject": "Heilige Sixtus II., Papst, und Gefährten, Märtyrer",
@@ -991,7 +991,7 @@
     },
     "StLawrenceDeacon_106": {
         "subject": "Sankt Laurentius, Diakon und Märtyrer",
-        "places": "N/V",
+        "places": "Huesca (Spanien); Rom (Italien)",
         "place_of_death": "Kirche San Lorenzo in Panisperna, Rom (Italien)",
         "place_of_birth": "Valencia oder Huesca, Spanien",
         "place_of_burial": "Basilika San Lorenzo fuori le Mura, Rom (Italien)",
