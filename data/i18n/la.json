@@ -1401,13 +1401,13 @@
     },
     "StMargaretAlacoque_147": {
         "subject": "Sancta Margarita Maria Alacoque, virgo",
-        "places": "Paray-le-Monial (Gallia)",
-        "place_of_death": "Paray-le-Monial, Gallia",
+        "places": "Verosvres (Gallia); Paray-le-Monial (Gallia)",
+        "place_of_death": "Paray-le-Monial (Gallia)",
         "place_of_birth": "Verosvres (Francia)",
-        "place_of_burial": "Sacellum Visitationis, Paray-le-Monial (Francia)",
+        "place_of_burial": "Sacellum Visitationis (Paray-le-Monial, Gallia)",
         "notes": "Margarita (Verosvres, Francia, 22 iulii 1647 - Paray-le-Monial, 17 octobris 1690), ingressa monasterium Visitationis Paray-le-Monial, ubi etiam nomen Mariae assumpsit, expertus est amorem intensum pro Christo, particularibus gratiis locupletatum. Praecipue coluit devotionem ad Cor Iesu et eius diffusionem promovit.",
         "patronage": "",
-        "main_shrine": "Capella Visitationis, Paray-le-Monial (Francia)"
+        "main_shrine": "Sacellum Visitationis (Paray-le-Monial, Gallia)"
     },
     "StIgnatiusAntioch_148": {
         "subject": "Sanctus Ignatius Antiochenus, episcopus et martyr",
@@ -3559,113 +3559,113 @@
         "main_shrine": "Basilica Sancti Cypriani (Carthago)"
     },
     "StHippolytus_593": {
-        "subject": "",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
-        "notes": "",
+        "subject": "Sanctus Hippolytus, sacerdos et martyr",
+        "places": "Roma (Italia); Sardinia (Italia)",
+        "place_of_death": "Sardinia (Italia)",
+        "place_of_birth": "Asia Minor",
+        "place_of_burial": "Catacumba Sancti Hippolyti (Roma, Italia)",
+        "notes": "Presbyter Romanus Hippolytus, oriundus ex Asia Minore, discipulus Sancti Irenaei, quamvis primus antipapa historiae esset, reconciliatus est cum Papa Pontiano durante communi condemnatione, et simul mortui sunt propter mala tractationes passae. Translatio Romam reliquiarum eorum commemoratur die 13 Augusti a Depositio martyrum (336). Corpus Hippolyti depositum est die 13 Augusti 236 in Campo Verano in Via Tiburtina. In loco sepulturae eius erecta esset statua inventa solum anno 1551 et conservata in Museo Lateranensi, deinde translata anno 1959 ad Bibliothecam Apostolicam Vaticanam.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Catacumbae Callisti (Roma, Italia)"
     },
     "SantaMariaInPortico_594": {
-        "subject": "",
-        "places": "",
+        "subject": "Sancta Maria in Portico",
+        "places": "Senenses (Italia)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
-        "notes": "",
+        "notes": "Sanctae Gallae apparuisse dicitur Virgo dum consuetis caritatis operibus vacaret. Miraculosus eventus memoratur in egregia opera nigellata saec. XI in ecclesia S. Mariae in Porticu in Campitelli. Festum commemorativum huius apparitionis, concessione Congregationis Rituum, Romae celebratur die 17 iulii, dum Sancta Galla in Martyrologio Romano commemoratur die 5 octobris.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Ecclesia Sanctae Mariae in Porticu in Campitelli (Roma, Italia)"
     },
     "OurLadyLaSalette_595": {
-        "subject": "",
-        "places": "",
+        "subject": "Domina Nostra de La Salette",
+        "places": "La Salette (Francia)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
-        "notes": "",
+        "notes": "Die 19 septembris 1846, circa hora tertia post meridiem, in monte prope vicum La Salette-Fallavaux, duo pueri, pastorella quindecim annorum nomine Mélanie Calvat et pastor undecim annorum nomine Maximin Giraud, dum vaccas pascunt, apparitionem Beatae Mariae Virginis accipiunt quae peccata hominum deplorat veniamque annuntiat iis qui convertuntur.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Sanctuarium Dominae Nostrae de La Salette (Francia)"
     },
     "OurLadyMiracle_596": {
-        "subject": "",
-        "places": "",
+        "subject": "Madonna Miraculi",
+        "places": "Senenses (Italia)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
-        "notes": "",
+        "notes": "Die 20 ianuarii 1842, cum Virgo apparuit Iudaeo Alsatiano Alfonso Ratisbonne, qui Romam quasi casu visitabat. Iuvenis advocatus et argentarius, vehementer adversus religionem catholicam, gestabat per ludibrium Medagliam Miraculosam quae fide ab amicis donata erat. Ingressus in Ecclesiam, clare vidit Mulierem in sacello tunc dicato archangelo Michaeli quae digito signum dedit ut genuflecteret. Huius gestus fructus fuit immediata conversio viri qui vix stupore recreatus petivit ut confiteri et baptizari posset. Postea Alfonso sacerdos ordinatus est et fratri Theodoro, etiam sacerdote, in motu Religiosarum Dominae Nostrae de Sion pro conversione Iudaeorum et Musulmanorum se coniunxit, quod eum usque in Palaestinam duxit, ubi sedem prope antiquum praetorium Pilati fundaverunt. Mortuus est in Ein Kerem anno 1884.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Basilica Sancti Andreae de Fractis (Roma, Italia)"
     },
     "OurLadyPontmain_597": {
-        "subject": "",
-        "places": "",
+        "subject": "Domina Nostra de Pontmain",
+        "places": "Pontmain (Francia)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
-        "notes": "",
+        "notes": "Vespere diei 17 ianuarii 1871 Eugène Barbedette, puer duodecim annorum, patri suo in horreo adiuvabat ut genistam, quae pro pabulum animalium adhibetur, tunderet; etiam frater eius decem annorum, Joseph, ibi cum eis erat. Eugène foras exiit ut videret quale esset tempus et vidisset supra domum oppositam splendidam dominam cum veste stellis ornata, quae nuntium dedisset: \"SED ORATE, FILII MEI. DEUS VOBIS CELERITER RESPONDEBIT. FILIUS MEUS PERMITTIT COR SUUM TANGI.\"",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Basilica Dominae Nostrae de Pontmain (Francia)"
     },
     "MiraculousMedal_598": {
-        "subject": "",
-        "places": "",
+        "subject": "Domina Nostra Medagliae Miraculosae",
+        "places": "Lutetia (Francia)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
-        "notes": "",
+        "notes": "A Iunio ad Decembrem anni 1830 Soror Catharina Laboure, iuvenis novitia Filiarum Caritatis, immensam gratiam accipit ter cum Maria Virgine colloquendi. Die 27 Novembris visionem Beatae Mariae Virginis habet quae Medagliam Miraculosam inspirat.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Sanctuarium Nostrae Dominae Medagliae Miraculosae in Rue du Bac (Parisiis, Gallia)"
     },
     "SacredHeart_599": {
-        "subject": "",
-        "places": "",
+        "subject": "Apparitiones Sacri Cordis ad Sanctam Margaritam Mariam Alacoque",
+        "places": "Paray-le-Monial (Gallia)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
-        "notes": "",
+        "notes": "A die 27 Decembris 1673 Margarita, soror Ordinis Visitationis, per 17 annos apparitiones Sacri Cordis Iesu accipit. Memoria liturgica sanctae die 16 Octobris cadit.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Basilica Sacri Cordis Iesu (Paray-le-Monial, Gallia)"
     },
     "OurLadySilenceKnock_600": {
-        "subject": "",
-        "places": "",
+        "subject": "Nostra Domina Silentii de Knock",
+        "places": "Knock (Hibernia)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
-        "notes": "",
+        "notes": "Apparitio silens Madonnae cum Sancto Iosepho et Sancto Ioanne Evangelista ad altare versus, super quod agnus et crux erant. Accidit die 21 Augusti 1879 in Knock, parva urbe comitatus Mayo Hiberniae, in provincia Connact, Mariae McLoughlin et Mariae Byrne.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Sanctuarium Nostrae Dominae Silentii (Knock, Hibernia)"
     },
     "OurLadyBeauraing_601": {
-        "subject": "",
-        "places": "",
+        "subject": "Nostra Domina de Beauraing",
+        "places": "Beauraing (Belgica)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
-        "notes": "",
+        "notes": "In Beauraing, die 29 Novembris 1932, Fernanda (15 annorum) et Albertus (11 annorum) Voisin cum amicis Andree (14 annorum) et Gilberte (9 annorum) Degeimbre apparitionem Beatae Mariae Virginis \"ex Corde Aureo\" acceperunt. Apparitiones diebus sequentibus continuatae sunt: in totum 33 fuerunt, et die 3 Ianuarii 1933 conclusae sunt.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Sanctuarium Virginis Cordis Aurei (Beauraing, Belgica)"
     },
     "OurLadyAkita_602": {
-        "subject": "",
-        "places": "",
+        "subject": "Nostra Domina de Akita",
+        "places": "Akita (Iaponia)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
-        "notes": "",
+        "notes": "Die 12 Iunii 1973 soror Agneta Katsuko Sasagawa, congregationis \"Ancillarum Eucharistiae\", lucem fulgentem e tabernaculo ecclesiae sui conventus vidit, una cum angelis adorantibus. Die 28 Iunii stigmata in forma crucis in manu sinistra sororis apparuerunt. Die 6 Iulii prima trium apparitionum Marianarum, cum nuntiis, secuta est. Inter diem 4 Ianuarii 1975 et diem 15 Septembris 1981, soror Agneta retulit se etiam 101 lacrimationes, etiam sanguinis, statuae Beatae Mariae Virginis vidisse.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Sanctuarium Nostrae Dominae de Akita (Iaponia)"
     },
     "OurLadyKibeho_603": {
-        "subject": "",
-        "places": "",
+        "subject": "Nostra Domina de Kibeho",
+        "places": "Kibeho (Ruanda)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
-        "notes": "",
+        "notes": "In collegio Kibeho a sororibus administrato, quod centum puellas regionis frequentabant, die Sabbati 28 Novembris 1981, circa horam 12:35, sedecim annorum Alphonsina Mumureke in refectorio cum sodalibus suis erat cum, secundum diarium suum, vocem se vocantem audivit: in corridore iuxta refectorium se contulit, et mulierem extraordinariae pulchritudinis, veste alba indutam, manibus iunctis vidit. Cum Alphonsina eam rogavit quis esset, respondit: «Ego sum Mater Verbi.»",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Sanctuarium Nostrae Dominae Dolorum (Kibeho, Ruanda)"
     }
 }
