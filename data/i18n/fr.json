@@ -1031,7 +1031,7 @@
     },
     "Assumption_110": {
         "subject": "Assomption de la Bienheureuse Vierge Marie",
-        "places": "N/D",
+        "places": "Tombe de Marie au Mont des Oliviers (Jérusalem, Israël / Palestine)",
         "place_of_death": "Église de la Dormition, Jérusalem",
         "place_of_birth": "Jérusalem / Nazareth",
         "place_of_burial": "Mont des Oliviers, Jérusalem",
@@ -1071,7 +1071,7 @@
     },
     "StPiusX_114": {
         "subject": "Saint Pie X, pape",
-        "places": "N/D",
+        "places": "Riese (Trévise, Italie) ; Trévise (Italie) ; Mantoue (Italie) ; Venise (Italie) ; Rome (Italie)",
         "place_of_death": "Rome (Italie)",
         "place_of_birth": "Riese, Trévise (Italie)",
         "place_of_burial": "Basilique Saint-Pierre au Vatican",
@@ -1091,7 +1091,7 @@
     },
     "StRoseLima_116": {
         "subject": "Sainte Rose de Lima, vierge",
-        "places": "N/D",
+        "places": "Lima (Pérou)",
         "place_of_death": "Lima, Pérou",
         "place_of_birth": "Lima, Pérou",
         "place_of_burial": "Couvent de Santo Domingo à Lima, Pérou",
@@ -1131,10 +1131,10 @@
     },
     "StMonica_120": {
         "subject": "Sainte Monique",
-        "places": "N/D",
+        "places": "Tagaste (Tunisie) ; Milan (Italie) ; Cassago Brianza (Italie) ; Ostie antique (Rome, Italie)",
         "place_of_death": "Ostie (Italie)",
         "place_of_birth": "Tagaste (actuelle Souk Ahras), Algérie",
-        "place_of_burial": "N/D",
+        "place_of_burial": "Basilique de Saint-Augustin à Campo Marzio (Rome, Italie)",
         "notes": "Monique (Tagaste, actuelle Souk Ahras, Algérie, 331 - Ostie, Rome, 387), née dans une famille chrétienne, épousa le païen Patrice et fut la mère d'Augustin. Après avoir donné à son fils la première éducation chrétienne, elle attendit pendant des années, entre larmes et prières, son arrivée à la vraie foi. Devenue veuve, elle suivit Augustin à Milan et put se réjouir de sa conversion, culminant dans le Baptême. Au cours du voyage de retour vers l'Afrique, elle atteignit la vraie patrie.",
         "patronage": "",
         "main_shrine": "Basilique Saint-Augustin, Rome (Italie)"
@@ -3570,7 +3570,7 @@
     },
     "SantaMariaInPortico_594": {
         "subject": "Sainte Marie en Portique",
-        "places": "Italie",
+        "places": "Rome (Italie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
@@ -3590,7 +3590,7 @@
     },
     "OurLadyMiracle_596": {
         "subject": "Notre-Dame du Miracle",
-        "places": "Italie",
+        "places": "Rome (Italie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
