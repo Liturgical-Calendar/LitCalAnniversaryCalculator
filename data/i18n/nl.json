@@ -1031,7 +1031,7 @@
     },
     "Assumption_110": {
         "subject": "Tenhemelopneming van de Heilige Maagd Maria",
-        "places": "n.v.t.",
+        "places": "Graf van Maria op de Olijfberg (Jeruzalem, Israël / Palestina)",
         "place_of_death": "Kerk van de Ontslaping, Jeruzalem",
         "place_of_birth": "Jeruzalem / Nazareth",
         "place_of_burial": "Olivetberg, Jeruzalem",
@@ -1071,7 +1071,7 @@
     },
     "StPiusX_114": {
         "subject": "Heilige Pius X, paus",
-        "places": "n.v.t.",
+        "places": "Riese (Treviso, Italië); Treviso (Italië); Mantova (Italië); Venetië (Italië); Rome (Italië)",
         "place_of_death": "Rome (Italië)",
         "place_of_birth": "Riese, Treviso (Italië)",
         "place_of_burial": "Basiliek van Sint-Pieter in Vaticaanstad",
@@ -1091,7 +1091,7 @@
     },
     "StRoseLima_116": {
         "subject": "Heilige Rosa van Lima, maagd",
-        "places": "n.v.t.",
+        "places": "Lima (Peru)",
         "place_of_death": "Lima, Peru",
         "place_of_birth": "Lima, Peru",
         "place_of_burial": "Klooster van Santo Domingo in Lima, Peru",
@@ -1131,10 +1131,10 @@
     },
     "StMonica_120": {
         "subject": "Sint Monica",
-        "places": "n.v.t.",
+        "places": "Tagaste (Tunesië); Milaan (Italië); Cassago Brianza (Italië); Ostia antica (Rome, Italië)",
         "place_of_death": "Ostia (Italië)",
         "place_of_birth": "Tagaste (huidige Souk Ahras), Algerije",
-        "place_of_burial": "n.v.t.",
+        "place_of_burial": "Basiliek van Sint-Augustinus in Campo Marzio (Rome, Italië)",
         "notes": "Monica (Tagaste, het huidige Souk Ahras, Algerije, 331 - Ostia, Rome, 387), geboren in een christelijke familie, trouwde met de heiden Patricius en was de moeder van Augustinus. Na haar zoon de eerste christelijke opvoeding te hebben gegeven, wachtte ze jaren, onder tranen en gebeden, op zijn bekering tot het ware geloof. Na weduwe te zijn geworden, volgde ze Augustinus naar Milaan en daar kon ze genieten van zijn bekering, die culmineerde in de Doop. Tijdens de terugreis naar Afrika bereikte ze het ware vaderland.",
         "patronage": "",
         "main_shrine": "Basiliek van Sint-Augustinus, Rome (Italië)"
@@ -3570,7 +3570,7 @@
     },
     "SantaMariaInPortico_594": {
         "subject": "Santa Maria in Portico",
-        "places": "Clairvaux (Frankrijk); Troyes (Frankrijk)",
+        "places": "Rome (Italië)",
         "place_of_death": "n.v.t.",
         "place_of_birth": "n.v.t.",
         "place_of_burial": "n.v.t.",
@@ -3590,7 +3590,7 @@
     },
     "OurLadyMiracle_596": {
         "subject": "Onze Lieve Vrouw van het Wonder",
-        "places": "Clairvaux (Frankrijk); Troyes (Frankrijk)",
+        "places": "Rome (Italië)",
         "place_of_death": "n.v.t.",
         "place_of_birth": "n.v.t.",
         "place_of_burial": "n.v.t.",
