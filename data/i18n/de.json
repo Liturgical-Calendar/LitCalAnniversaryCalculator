@@ -1031,7 +1031,7 @@
     },
     "Assumption_110": {
         "subject": "Mariä Aufnahme in den Himmel",
-        "places": "N/V",
+        "places": "Grab von Maria am Ölberg (Jerusalem, Israel / Palästina)",
         "place_of_death": "Dormitio-Kirche, Jerusalem",
         "place_of_birth": "Jerusalem / Nazareth",
         "place_of_burial": "Ölberg, Jerusalem",
@@ -1071,7 +1071,7 @@
     },
     "StPiusX_114": {
         "subject": "Papst Pius X.",
-        "places": "N/V",
+        "places": "Riese (Treviso, Italien); Treviso (Italien); Mantua (Italien); Venedig (Italien); Rom (Italien)",
         "place_of_death": "Rom (Italien)",
         "place_of_birth": "Riese, Treviso (Italien)",
         "place_of_burial": "Basilika St. Peter im Vatikan",
@@ -1091,7 +1091,7 @@
     },
     "StRoseLima_116": {
         "subject": "Heilige Rosa von Lima, Jungfrau",
-        "places": "N/V",
+        "places": "Lima (Peru)",
         "place_of_death": "Lima, Peru",
         "place_of_birth": "Lima, Peru",
         "place_of_burial": "Kloster Santo Domingo in Lima, Peru",
@@ -1131,10 +1131,10 @@
     },
     "StMonica_120": {
         "subject": "Heilige Monika",
-        "places": "N/V",
+        "places": "Tagaste (Tunesien); Mailand (Italien); Cassago Brianza (Italien); Ostia Antica (Rom, Italien)",
         "place_of_death": "Ostia (Italien)",
         "place_of_birth": "Tagaste (heutiges Souk Ahras), Algerien",
-        "place_of_burial": "N/V",
+        "place_of_burial": "Basilika St. Augustinus in Campo Marzio (Rom, Italien)",
         "notes": "Monika (Tagaste, heutiges Souk Ahras, Algerien, 331 - Ostia, Rom, 387), geboren in einer christlichen Familie, heiratete den Heiden Patrizio und war die Mutter von Augustinus. Nachdem sie ihrem Sohn die erste christliche Erziehung gegeben hatte, wartete sie jahrelang unter Tränen und Gebeten auf seine Hinwendung zum wahren Glauben. Als Witwe folgte sie Augustinus nach Mailand und konnte sich dort über seine Bekehrung freuen, die in der Taufe gipfelte. Auf der Rückreise nach Afrika erreichte sie die wahre Heimat.",
         "patronage": "",
         "main_shrine": "Basilika Sankt Augustinus, Rom (Italien)"
@@ -3570,7 +3570,7 @@
     },
     "SantaMariaInPortico_594": {
         "subject": "Santa Maria in Portico",
-        "places": "Eisleben (Deutschland)",
+        "places": "Rom (Italien)",
         "place_of_death": "N/V",
         "place_of_birth": "N/V",
         "place_of_burial": "N/V",
@@ -3590,7 +3590,7 @@
     },
     "OurLadyMiracle_596": {
         "subject": "Unsere Liebe Frau vom Wunder",
-        "places": "Eisleben (Deutschland)",
+        "places": "Rom (Italien)",
         "place_of_death": "N/V",
         "place_of_birth": "N/V",
         "place_of_burial": "N/V",
