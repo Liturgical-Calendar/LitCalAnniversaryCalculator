@@ -954,7 +954,7 @@
         "places": "Monte Tabor (Israel)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
-        "place_of_burial": "N/A",
+        "place_of_burial": "N/D",
         "notes": "O Papa Calisto III instituiu a festa de hoje em comemoração à vitória de Belgrado no mês de agosto do ano anterior. Na batalha de Belgrado, Jànos Hunyadi e frei Giovanni da Capestrano lideraram uma cruzada de soldados contra a frota turco-otomana de Maomé II. No monte, na companhia de Pedro, Tiago e João, Jesus é transfigurado «diante deles» (Mt 17, 2): o véu cai dos olhos dos discípulos e estes, por dom de Deus, veem a identidade divina que transparece da humanidade de Cristo. O Filho do homem que se encaminhou para a cruz (cf. Mc 8, 31-34) é o Filho de Deus, revelação definitiva do Pai. A Lei e os Profetas tendem a Cristo e a ele o Pai dá testemunho: «Este é o meu Filho amado: escutai-o!» (Mc 9, 7). Envolto naquela glória que tinha junto ao Pai antes que o mundo existisse (cf. Jo 1, 14), Cristo antecipa e prefigura a sua vinda gloriosa no último dia, para transfigurar todas as coisas. Foi o Papa Calisto III em 1457 que estendeu esta festa à Igreja universal.",
         "patronage": "",
         "main_shrine": "Monte Tabor (Israel)"
@@ -1019,7 +1019,7 @@
         "patronage": "",
         "main_shrine": "Basílica da Visitação, Annecy (França)"
     },
-    "StsPontianHippolytus_109": {
+    "StPontian_109": {
         "subject": "Santos Ponciano, papa, e Hipólito, sacerdote, mártires",
         "places": "Roma (Itália)",
         "place_of_death": "Sardenha (Itália)",
@@ -3557,5 +3557,115 @@
         "notes": "Bispo de Cartago, trabalhou pela união dentro de sua comunidade e pela colaboração entre as diferentes Igrejas africanas; desenvolveu a doutrina da unidade da Igreja reunida em torno da Eucaristia, sob a orientação do bispo. Aos fiéis que se mostraram fracos diante da perseguição, ofereceu a possibilidade de um itinerário penitencial. Morreu mártir sob Valeriano, em 14 de setembro de 258. É lembrado junto com o Papa Cornélio no Cânone Romano.",
         "patronage": "",
         "main_shrine": "Basílica de São Cipriano (Cartago)"
+    },
+    "StHippolytus_593": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "SantaMariaInPortico_594": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/D",
+        "place_of_birth": "N/D",
+        "place_of_burial": "N/D",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyLaSalette_595": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/D",
+        "place_of_birth": "N/D",
+        "place_of_burial": "N/D",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyMiracle_596": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/D",
+        "place_of_birth": "N/D",
+        "place_of_burial": "N/D",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyPontmain_597": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/D",
+        "place_of_birth": "N/D",
+        "place_of_burial": "N/D",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "MiraculousMedal_598": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/D",
+        "place_of_birth": "N/D",
+        "place_of_burial": "N/D",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "SacredHeart_599": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/D",
+        "place_of_birth": "N/D",
+        "place_of_burial": "N/D",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadySilenceKnock_600": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/D",
+        "place_of_birth": "N/D",
+        "place_of_burial": "N/D",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyBeauraing_601": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/D",
+        "place_of_birth": "N/D",
+        "place_of_burial": "N/D",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyAkita_602": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/D",
+        "place_of_birth": "N/D",
+        "place_of_burial": "N/D",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyKibeho_603": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/D",
+        "place_of_birth": "N/D",
+        "place_of_burial": "N/D",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
     }
 }

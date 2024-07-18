@@ -1019,7 +1019,7 @@
         "patronage": "",
         "main_shrine": "Basilica Visitationis, Annecy (Francia)"
     },
-    "StsPontianHippolytus_109": {
+    "StPontian_109": {
         "subject": "Sancti Pontianus, papa, et Hippolytus, presbyter, martyres",
         "places": "Roma (Italia)",
         "place_of_death": "Sardinia (Italia)",
@@ -3557,5 +3557,115 @@
         "notes": "Episcopus Carthaginis, operatus est pro unione intra suam communitatem et pro cooperatione inter diversas Ecclesias Africanae; doctrinam unitatis Ecclesiae circa Eucharistiam, sub episcopi ductu, evolvit. Fidelibus qui se debiles ostenderant coram persecutione, possibilitatem itinerarii paenitentialis obtulit. Martyr sub Valeriano, die 14 Septembris 258, obiit. Commemoratur una cum Papa Cornelio in Canone Romano.",
         "patronage": "",
         "main_shrine": "Basilica Sancti Cypriani (Carthago)"
+    },
+    "StHippolytus_593": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "SantaMariaInPortico_594": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "non pertinet",
+        "place_of_birth": "non pertinet",
+        "place_of_burial": "non pertinet",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyLaSalette_595": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "non pertinet",
+        "place_of_birth": "non pertinet",
+        "place_of_burial": "non pertinet",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyMiracle_596": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "non pertinet",
+        "place_of_birth": "non pertinet",
+        "place_of_burial": "non pertinet",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyPontmain_597": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "non pertinet",
+        "place_of_birth": "non pertinet",
+        "place_of_burial": "non pertinet",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "MiraculousMedal_598": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "non pertinet",
+        "place_of_birth": "non pertinet",
+        "place_of_burial": "non pertinet",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "SacredHeart_599": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "non pertinet",
+        "place_of_birth": "non pertinet",
+        "place_of_burial": "non pertinet",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadySilenceKnock_600": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "non pertinet",
+        "place_of_birth": "non pertinet",
+        "place_of_burial": "non pertinet",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyBeauraing_601": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "non pertinet",
+        "place_of_birth": "non pertinet",
+        "place_of_burial": "non pertinet",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyAkita_602": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "non pertinet",
+        "place_of_birth": "non pertinet",
+        "place_of_burial": "non pertinet",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyKibeho_603": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "non pertinet",
+        "place_of_birth": "non pertinet",
+        "place_of_burial": "non pertinet",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
     }
 }

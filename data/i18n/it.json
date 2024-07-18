@@ -1019,13 +1019,13 @@
         "patronage": "",
         "main_shrine": "Basilica della Visitazione, Annecy (Francia)"
     },
-    "StsPontianHippolytus_109": {
-        "subject": "Santi Ponziano, papa, e Ippolito, sacerdote, martiri",
+    "StPontian_109": {
+        "subject": "San Ponziano, papa e martire",
         "places": "Roma (Italia)",
         "place_of_death": "Sardegna (Italia)",
         "place_of_birth": "N/A",
         "place_of_burial": "Catacombe di Callisto (Roma, Italia)",
-        "notes": "Ponziano, papa (230-235), deportato dall’imperatore Massimino il Trace nelle miniere della Sardegna, si dimise dall’ufficio per consentire l’elezione di un nuovo vescovo. Con lui fu condannato anche il presbitero romano Ippolito e insieme morirono per i maltrattamenti subiti. La traslazione a Roma delle loro spoglie è ricordata il 13 agosto dalla Depositio martyrum ( 336).",
+        "notes": "Ponziano, papa (230-235), deportato dall’imperatore Massimino il Trace nelle miniere della Sardegna, si dimise dall’ufficio per consentire l’elezione di un nuovo vescovo. Con lui fu condannato anche il presbitero romano Ippolito e insieme morirono per i maltrattamenti subiti. La traslazione a Roma delle loro spoglie è ricordata il 13 agosto dalla Depositio martyrum (336).",
         "patronage": "",
         "main_shrine": "Catacombe di Callisto (Roma, Italia)"
     },
@@ -1401,13 +1401,13 @@
     },
     "StMargaretAlacoque_147": {
         "subject": "Santa Margherita Maria Alacoque, vergine",
-        "places": "Paray-le-Monial (Francia)",
-        "place_of_death": "Paray-le-Monial,Francia",
+        "places": "Verosvres (Francia); Paray-le-Monial (Francia)",
+        "place_of_death": "Paray-le-Monial (Francia)",
         "place_of_birth": "Verosvres (Francia)",
-        "place_of_burial": "Chapelle de la Visitation, Paray-le-Monial (Francia)",
+        "place_of_burial": "Cappella della Visitazione (Paray-le-Monial, Francia)",
         "notes": "Margherita (Verosvres, Francia, 22 luglio 1647 - Paray-le-Monial, 17 ottobre 1690), entrata nel monastero delle Visitandine di Paray-le-Monial, dove assunse anche il nome di Maria, sperimentò un amore intenso per Cristo, arricchito di particolari grazie. Coltivò soprattutto la devozione al Cuore di Gesù e ne promosse la diffusione.",
         "patronage": "",
-        "main_shrine": "Chapelle de la Visitation, Paray-le-Monial (Francia)"
+        "main_shrine": "Cappella della Visitazione (Paray-le-Monial, Francia)"
     },
     "StIgnatiusAntioch_148": {
         "subject": "Sant'Ignazio di Antiochia, vescovo e martire",
@@ -3557,5 +3557,115 @@
         "notes": "Vescovo di Cartagine, operò per l’unione all’interno della sua comunità e per la collaborazione tra le diverse Chiese africane; sviluppò la dottrina dell’unità della Chiesa raccolta attorno all’Eucaristia, sotto la guida del vescovo. Ai fedeli che si erano mostrati deboli di fronte alla persecuzione, offrì la possibilità di un itinerario penitenziale. Morì martire sotto Valeriano, il 14 settembre 258. E' ricordato insieme a Papa Cornelio nel Canone Romano.",
         "patronage": "",
         "main_shrine": "Basilica di San Cipriano (Cartagine)"
+    },
+    "StHippolytus_593": {
+        "subject": "Sant'Ippolito, sacerdote e martire",
+        "places": "Roma (Italia); Sardegna (Italia)",
+        "place_of_death": "Sardegna (Italia)",
+        "place_of_birth": "Asia Minore",
+        "place_of_burial": "Catacomba di Sant'Ippolito (Roma, Italia)",
+        "notes": "Il presbitero romano Ippolito, originario dell'Asia Minore, discepolo di Sant'Ireneo, nonostante fosse il primo antipapa della storia, si riconciliò con Papa Ponziano durante la loro comune condanna, e insieme morirono per i maltrattamenti subiti. La traslazione a Roma delle loro spoglie è ricordata il 13 agosto dalla Depositio martyrum (336). Il corpo di Ippolito fu deposto il 13 agosto del 236 nel Campo Verano in Via Tiburatina. Sul luogo della sua sepoltura sarebbe stata eretta la statua ritrovata solo nel 1551 e conservata nel Museo Lateranense, per essere poi trasferita nel 1959 alla Biblioteca apostolica vaticana.",
+        "patronage": "",
+        "main_shrine": "Catacombe di Callisto (Roma, Italia)"
+    },
+    "SantaMariaInPortico_594": {
+        "subject": "Santa Maria in Portico",
+        "places": "Roma (Italia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "A Santa Galla sarebbe apparsa la Vergine mentre ella attendeva alle consuete opere di carità. Il miracoloso avvenimento è ricordato da una pregevole opera a niello del sec. XI nella chiesa di S. Maria in Portico in Campitelli. La festa commemorativa di tale apparizione, per concessione della Congregazione dei Riti, si celebra in Roma il 17 luglio, mentre Santa Galla nel Martirologio Romano è commemorata il 5 ottobre.",
+        "patronage": "",
+        "main_shrine": "Chiesa di Santa Maria in Portico in Campitelli (Roma, Italia)"
+    },
+    "OurLadyLaSalette_595": {
+        "subject": "Nostra Signora di La Salette",
+        "places": "La Salette (Francia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il 19 settembre 1846, circa alle tre del pomeriggio, su una montagna vicina al villaggio di La Salette-Fallavaux, due ragazzi, una pastorella di quindici anni di nome Mélanie Calvat e un giovane pastore di undici anni di nome Maximin Giraud, mentre stanno pascolando le mucche, ricevono l'apparizione della Beata Vergine Maria la quale si lamenta dei peccati degli uomini annunciando il perdono per chi si converte.",
+        "patronage": "",
+        "main_shrine": "Santuario di Nostra Signora di La Salette (Francia)"
+    },
+    "OurLadyMiracle_596": {
+        "subject": "La Madonna del Miracolo",
+        "places": "Roma (Italia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il 20 gennaio 1842, quando la Vergine è apparsa all’ebreo alsaziano Alfonso Ratisbonne, in visita a Roma quasi per caso. Il giovane avvocato e banchiere, fortemente ostile alla religione cattolica, indossava per scherno la Medaglia miracolosa che gli era stata donata con fede da alcuni amici. Entrato nella Chiesa, vide chiaramente una Donna nella cappella allora dedicata all’arcangelo Michele che gli fece segno con il dito di inginocchiarsi. Il frutto di questo gesto è stato l’immediata conversione dell’uomo che appena ripresosi dallo stupore chiese di potersi confessare e battezzare. In seguito Alfonso fu ordinato sacerdote e si unì al fratello Theodore, anch'egli sacerdote, nel movimento Religiose di Nostra Signora di Sion per la conversione degli ebrei e dei musulmani, che lo condusse fino in Palestina, dove fondarono una sede nei pressi dell'antico pretorio di Pilato. Morì ad Ein Kerem nel 1884.",
+        "patronage": "",
+        "main_shrine": "Basilica di Sant'Andrea delle Fratte (Roma, Italia)"
+    },
+    "OurLadyPontmain_597": {
+        "subject": "Nostra Signora di Pontmain",
+        "places": "Pontmain (Francia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "La sera del 17 gennaio 1871 Eugène Barbedette, un ragazzino di dodici anni, stava aiutando suo padre nel granaio a pestare il ginestrone, usato come foraggio per gli animali; anche suo fratello di dieci anni, Joseph, si trovava lì con loro. Eugène uscì fuori per vedere che tempo faceva e avrebbe visto al di sopra della casa di fronte una splendida signora con un vestito ornato di stelle, che avrebbe dato il messaggio: \"MA PREGATE, MIEI BAMBINI. DIO VI RISPONDERÀ PRESTISSIMO. MIO FIGLIO PERMETTE CHE IL SUO CUORE SI LASCI TOCCARE.\"",
+        "patronage": "",
+        "main_shrine": "Basilica di Nostra Signora di Pontmain (Francia)"
+    },
+    "MiraculousMedal_598": {
+        "subject": "Nostra Signora della Medaglia Miracolosa",
+        "places": "Parigi (Francia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Da Giugno a Dicembre del 1830 Suor Caterina Laboure, giovane novizia delle Figlie della Carità, riceve l’immensa grazia di intrattenersi per ben tre volte con la Maria Vergine. Il giorno 27 novembre ha la visione della Beata Vergine Maria che ispira la Medaglia Miracolosa.",
+        "patronage": "",
+        "main_shrine": "Santuario di Nostra Signora della Medaglia Miracolosa a Rue du Bac (Parigi, Francia)"
+    },
+    "SacredHeart_599": {
+        "subject": "Apparizioni del Sacro Cuore a Santa Margherita Maria Alacoque",
+        "places": "Paray-le-Monial (Francia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "A partire dal 27 dicembre 1673 Margherita, suora dell'Ordine della Visitazione, riceve per 17 anni le apparizioni del Sacro Cuore di Gesù. La memoria liturgica della santa cade il 16 ottobre.",
+        "patronage": "",
+        "main_shrine": "Basilica del Sacro Cuore di Gesù (Paray-le-Monial, Francia)"
+    },
+    "OurLadySilenceKnock_600": {
+        "subject": "Nostra Signora del Silenzio di Knock",
+        "places": "Knock (Irlanda)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Un’apparizione silenziosa della Madonna con San Giuseppe e San Giovanni Evangelista rivolti verso un altare sovrastato da un agnello e da una croce. Accadeva il 21 agosto del 1879 a Knock, piccola cittadina della contea irlandese del Mayo, nella provincia del Connact, a Mary McLoughlin e a Mary Byrne.",
+        "patronage": "",
+        "main_shrine": "Santuario di Nostra Signora del Silenzio (Knock, Irlanda)"
+    },
+    "OurLadyBeauraing_601": {
+        "subject": "Nostra Signora di Beauraing",
+        "places": "Beauraing (Belgio)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "A Beauraing, il 29 novembre 1932, Fernande (15 anni) e Albert (11 anni) Voisin insieme alle amiche Andrée (14 anni) e Gilberte (9 anni) Degeimbre ricettero l'apparizione della Beata Vergine Maria \"dal Cuore d'Oro\". Le apparizioni continuarono nei giorni successivi: furono in tutto 33, e si conclusero il 3 gennaio 1933.",
+        "patronage": "",
+        "main_shrine": "Santuario della Vergine del Cuore d'Oro (Beauraing, Belgio)"
+    },
+    "OurLadyAkita_602": {
+        "subject": "Nostra Signora di Akita",
+        "places": "Akita (Giappone)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il 12 giugno 1973 suor Agnese Katsuko Sasagawa, della congregazione delle \"Serve dell'eucaristia\", vide una luce brillante proveniente dal tabernacolo della chiesa del suo convento, insieme ad angeli in adorazione. Il 28 giugno uno stimma a forma di croce sarebbe apparso sulla mano sinistra della suora. Il 6 luglio sarebbe seguita la prima di tre apparizioni mariane, accompagnate da messaggi. Tra il 4 gennaio 1975 e il 15 settembre 1981, suor Agnese riferì di aver assistito inoltre a 101 lacrimazioni, anche di sangue, di una statua della Madonna.",
+        "patronage": "",
+        "main_shrine": "Santuario di Nostra Signora di Akita (Giappone)"
+    },
+    "OurLadyKibeho_603": {
+        "subject": "Nostra Signora di Kibeho",
+        "places": "Kibeho (Rwanda)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "In un collegio di Kibeho gestito da suore, frequentato da un centinaio di ragazze della zona, sabato 28 novembre 1981, verso le 12:35, la sedicenne Alphonsine Mumureke si trovava nel refettorio insieme alle compagne quando, secondo quanto riportato nel suo diario, sentì una voce che la chiamava: recatasi nel corridoio accanto al refettorio, vide una donna di straordinaria bellezza, vestita di bianco, con le mani giunte. Quando Alphonsine le chiese chi fosse, rispose: «Io sono la Madre del Verbo.»",
+        "patronage": "",
+        "main_shrine": "Santuario di Nostra Signora dei Dolori (Kibeho, Rwanda)"
     }
 }

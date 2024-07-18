@@ -1019,7 +1019,7 @@
         "patronage": "",
         "main_shrine": "Basilica of the Visitation, Annecy (France)"
     },
-    "StsPontianHippolytus_109": {
+    "StPontian_109": {
         "subject": "Saints Pontian, pope, and Hippolytus, priest, martyrs",
         "places": "Rome (Italy)",
         "place_of_death": "Sardinia (Italy)",
@@ -3557,5 +3557,115 @@
         "notes": "Bishop of Carthage, he worked for unity within his community and for collaboration among the different African Churches; he developed the doctrine of the unity of the Church gathered around the Eucharist, under the guidance of the bishop. To the faithful who had shown weakness in the face of persecution, he offered the possibility of a penitential journey. He died a martyr under Valerian, on September 14, 258. He is remembered together with Pope Cornelius in the Roman Canon.",
         "patronage": "",
         "main_shrine": "Basilica of Saint Cyprian (Carthage)"
+    },
+    "StHippolytus_593": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "SantaMariaInPortico_594": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyLaSalette_595": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyMiracle_596": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyPontmain_597": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "MiraculousMedal_598": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "SacredHeart_599": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadySilenceKnock_600": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyBeauraing_601": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyAkita_602": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyKibeho_603": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
     }
 }

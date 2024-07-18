@@ -954,7 +954,7 @@
         "places": "Berg Tabor (Israel)",
         "place_of_death": "N/V",
         "place_of_birth": "N/V",
-        "place_of_burial": "n. z.",
+        "place_of_burial": "N/V",
         "notes": "Papst Calixt III. führte das heutige Fest zur Erinnerung an den Sieg von Belgrad im August des Vorjahres ein. In der Schlacht von Belgrad führten János Hunyadi und Bruder Johannes von Capestrano einen Kreuzzug von Soldaten gegen die türkisch-osmanische Flotte von Mehmet II. Auf dem Berg, in Begleitung von Petrus, Jakobus und Johannes, wird Jesus „vor ihnen“ (Mt 17, 2) verklärt: Der Schleier fällt von den Augen der Jünger und sie sehen, durch Gottes Gnade, die göttliche Identität, die aus der Menschlichkeit Christi hervorgeht. Der Menschensohn, der sich auf den Weg zum Kreuz gemacht hat (vgl. Mk 8, 31-34), ist der Sohn Gottes, die endgültige Offenbarung des Vaters. Das Gesetz und die Propheten zielen auf Christus und der Vater bezeugt ihn: „Das ist mein geliebter Sohn; auf ihn sollt ihr hören!“ (Mk 9, 7). Eingehüllt in jene Herrlichkeit, die er beim Vater hatte, bevor die Welt war (vgl. Joh 1, 14), antizipiert und präfiguriert Christus sein glorreiches Kommen am letzten Tag, um alle Dinge zu verklären. Es war Papst Calixt III., der dieses Fest 1457 auf die ganze Kirche ausdehnte.",
         "patronage": "",
         "main_shrine": "Berg Tabor (Israel)"
@@ -1019,7 +1019,7 @@
         "patronage": "",
         "main_shrine": "Basilika der Heimsuchung, Annecy (Frankreich)"
     },
-    "StsPontianHippolytus_109": {
+    "StPontian_109": {
         "subject": "Heilige Pontianus, Papst, und Hippolytus, Priester, Märtyrer",
         "places": "Rom (Italien)",
         "place_of_death": "Sardinien (Italien)",
@@ -3557,5 +3557,115 @@
         "notes": "Bischof von Karthago, er arbeitete für die Einheit innerhalb seiner Gemeinschaft und für die Zusammenarbeit zwischen den verschiedenen afrikanischen Kirchen; er entwickelte die Lehre von der Einheit der Kirche, die sich um die Eucharistie unter der Führung des Bischofs versammelt. Den Gläubigen, die sich angesichts der Verfolgung schwach gezeigt hatten, bot er die Möglichkeit eines Bußweges. Er starb als Märtyrer unter Valerian am 14. September 258. Er wird zusammen mit Papst Cornelius im Römischen Kanon erwähnt.",
         "patronage": "",
         "main_shrine": "Basilika des Heiligen Cyprian (Karthago)"
+    },
+    "StHippolytus_593": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "SantaMariaInPortico_594": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/V",
+        "place_of_birth": "N/V",
+        "place_of_burial": "N/V",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyLaSalette_595": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/V",
+        "place_of_birth": "N/V",
+        "place_of_burial": "N/V",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyMiracle_596": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/V",
+        "place_of_birth": "N/V",
+        "place_of_burial": "N/V",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyPontmain_597": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/V",
+        "place_of_birth": "N/V",
+        "place_of_burial": "N/V",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "MiraculousMedal_598": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/V",
+        "place_of_birth": "N/V",
+        "place_of_burial": "N/V",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "SacredHeart_599": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/V",
+        "place_of_birth": "N/V",
+        "place_of_burial": "N/V",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadySilenceKnock_600": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/V",
+        "place_of_birth": "N/V",
+        "place_of_burial": "N/V",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyBeauraing_601": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/V",
+        "place_of_birth": "N/V",
+        "place_of_burial": "N/V",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyAkita_602": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/V",
+        "place_of_birth": "N/V",
+        "place_of_burial": "N/V",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "OurLadyKibeho_603": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/V",
+        "place_of_birth": "N/V",
+        "place_of_burial": "N/V",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
     }
 }
