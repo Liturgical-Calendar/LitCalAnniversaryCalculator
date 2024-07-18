@@ -4784,6 +4784,34 @@
             "area": "world,marian",
             "calendar": "national",
             "calendar_area": "RW"
+        },
+        {
+            "event_idx": 604,
+            "event_key": "OurLadyGietrzwałd",
+            "anniversary": "apparition",
+            "event_date": "1877-06-27",
+            "event_year": 1877,
+            "event_month": 6,
+            "event_day": 27,
+            "memorial_month": 6,
+            "memorial_day": 27,
+            "area": "world,marian",
+            "calendar": "national",
+            "calendar_area": "PL"
+        },
+        {
+            "event_idx": 605,
+            "event_key": "OurLadyLaus",
+            "anniversary": "apparition",
+            "event_date": "1664-05-01",
+            "event_year": 1664,
+            "event_month": 5,
+            "event_day": 1,
+            "memorial_month": 5,
+            "memorial_day": 1,
+            "area": "world,marian",
+            "calendar": "national",
+            "calendar_area": "FR"
         }
     ]
 }
