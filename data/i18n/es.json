@@ -1031,7 +1031,7 @@
     },
     "Assumption_110": {
         "subject": "Asunción de la Beata Virgen María",
-        "places": "N/D",
+        "places": "Tumba de María en el Monte de los Olivos (Jerusalén, Israel / Palestina)",
         "place_of_death": "Iglesia de la Dormición, Jerusalén",
         "place_of_birth": "Jerusalén / Nazaret",
         "place_of_burial": "Monte de los Olivos, Jerusalén",
@@ -1071,7 +1071,7 @@
     },
     "StPiusX_114": {
         "subject": "San Pío X, papa",
-        "places": "N/D",
+        "places": "Riese (Treviso, Italia); Treviso (Italia); Mantua (Italia); Venecia (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Riese, Treviso (Italia)",
         "place_of_burial": "Basílica de San Pedro en el Vaticano",
@@ -1091,7 +1091,7 @@
     },
     "StRoseLima_116": {
         "subject": "Santa Rosa de Lima, virgen",
-        "places": "N/D",
+        "places": "Lima (Perú)",
         "place_of_death": "Lima, Perú",
         "place_of_birth": "Lima, Perú",
         "place_of_burial": "Convento de Santo Domingo en Lima, Perú",
@@ -1131,10 +1131,10 @@
     },
     "StMonica_120": {
         "subject": "Santa Mónica",
-        "places": "N/D",
+        "places": "Tagaste (Túnez); Milán (Italia); Cassago Brianza (Italia); Ostia antigua (Roma, Italia)",
         "place_of_death": "Ostia (Italia)",
         "place_of_birth": "Tagaste (actual Souk Ahras), Argelia",
-        "place_of_burial": "N/D",
+        "place_of_burial": "Basílica de San Agustín en Campo Marzio (Roma, Italia)",
         "notes": "Mónica (Tagaste, actual Souk Ahras, Argelia, 331 - Ostia, Roma, 387), nacida en una familia cristiana, se casó con el pagano Patricio y fue madre de Agustín. Después de darle a su hijo la primera educación cristiana, esperó durante años, entre lágrimas y oraciones, su llegada a la verdadera fe. Quedó viuda, siguió a Agustín a Milán y allí pudo alegrarse por su conversión, culminada en el Bautismo. Durante el viaje de regreso a África, alcanzó la verdadera patria.",
         "patronage": "",
         "main_shrine": "Basílica de San Agustín, Roma (Italia)"
@@ -3570,7 +3570,7 @@
     },
     "SantaMariaInPortico_594": {
         "subject": "Santa María en Pórtico",
-        "places": "Catedral de San Cassiano en Imola (Italia)",
+        "places": "Roma (Italia)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
@@ -3590,7 +3590,7 @@
     },
     "OurLadyMiracle_596": {
         "subject": "La Virgen del Milagro",
-        "places": "Santa María en Pórtico",
+        "places": "Roma (Italia)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
@@ -3669,23 +3669,23 @@
         "main_shrine": "Santuario de Nuestra Señora de los Dolores (Kibeho, Ruanda)"
     },
     "OurLadyGietrzwałd_604": {
-        "subject": "",
-        "places": "",
+        "subject": "Nuestra Señora de Gietrzwałd",
+        "places": "Gietrzwałd (Polonia)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "En la localidad polaca de Gietrzwałd, entre el 27 de junio y el 16 de septiembre de 1877, la Virgen María se apareció 166 veces a dos chicas, Justyna Szafranska y Barbara Samulowska.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Santuario de Gietrzwałd (Polonia)"
     },
     "OurLadyLaus_605": {
-        "subject": "",
-        "places": "",
+        "subject": "Nuestra Señora del Laus",
+        "places": "Laus (Francia)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Benedetta Rencurel (1647-1718), que fue elegida por la Virgen María para encomendarle una misión delicadísima: rezar y sufrir por la salvación de los pecadores. Fue un día, no precisado, del mes de mayo de 1664, cuando la joven de diecisiete años, mientras pastoreaba las ovejas en el Vallone dei Forni, vio a la Virgen con el Niño Jesús. Desde entonces, durante 54 años, de 1664 a 1718, la Virgen se aparecerá a Benedetta.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Santuario de Nuestra Señora del Laus (Francia)"
     }
 }

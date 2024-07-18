@@ -1031,7 +1031,7 @@
     },
     "Assumption_110": {
         "subject": "Assumption of the Blessed Virgin Mary",
-        "places": "N/A",
+        "places": "Tomb of Mary at the Mount of Olives (Jerusalem, Israel / Palestine)",
         "place_of_death": "Church of the Dormition, Jerusalem",
         "place_of_birth": "Jerusalem / Nazareth",
         "place_of_burial": "Mount of Olives, Jerusalem",
@@ -1071,7 +1071,7 @@
     },
     "StPiusX_114": {
         "subject": "Pope Saint Pius X",
-        "places": "N/A",
+        "places": "Riese (Treviso, Italy); Treviso (Italy); Mantua (Italy); Venice (Italy); Rome (Italy)",
         "place_of_death": "Rome (Italy)",
         "place_of_birth": "Riese, Treviso (Italy)",
         "place_of_burial": "Basilica of Saint Peter in the Vatican",
@@ -1091,7 +1091,7 @@
     },
     "StRoseLima_116": {
         "subject": "Saint Rose of Lima, virgin",
-        "places": "N/A",
+        "places": "Lima (Peru)",
         "place_of_death": "Lima, Peru",
         "place_of_birth": "Lima, Peru",
         "place_of_burial": "Convent of Santo Domingo in Lima, Peru",
@@ -1131,10 +1131,10 @@
     },
     "StMonica_120": {
         "subject": "Saint Monica",
-        "places": "N/A",
+        "places": "Tagaste (Tunisia); Milan (Italy); Cassago Brianza (Italy); Ostia Antica (Rome, Italy)",
         "place_of_death": "Ostia (Italy)",
         "place_of_birth": "Tagaste (now Souk Ahras), Algeria",
-        "place_of_burial": "N/A",
+        "place_of_burial": "Basilica of Saint Augustine in Campo Marzio (Rome, Italy)",
         "notes": "Monica (Tagaste, now Souk Ahras, Algeria, 331 - Ostia, Rome, 387), born into a Christian family, married the pagan Patrick and was the mother of Augustine. After giving her son his first Christian education, she waited for years, through tears and prayers, for his arrival at true faith. Left a widow, she followed Augustine to Milan and here she was able to rejoice at his conversion, culminating in Baptism. On the journey back to Africa, she reached her true homeland.",
         "patronage": "",
         "main_shrine": "Basilica of Saint Augustine, Rome (Italy)"
@@ -3570,7 +3570,7 @@
     },
     "SantaMariaInPortico_594": {
         "subject": "Santa Maria in Portico",
-        "places": "Göttingen (Germany)",
+        "places": "Rome (Italy)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
@@ -3590,7 +3590,7 @@
     },
     "OurLadyMiracle_596": {
         "subject": "Our Lady of the Miracle",
-        "places": "Göttingen (Germany)",
+        "places": "Rome (Italy)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
@@ -3669,23 +3669,23 @@
         "main_shrine": "Shrine of Our Lady of Sorrows (Kibeho, Rwanda)"
     },
     "OurLadyGietrzwałd_604": {
-        "subject": "",
-        "places": "",
+        "subject": "Our Lady of Gietrzwałd",
+        "places": "Gietrzwałd (Poland)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
-        "notes": "",
+        "notes": "In the Polish town of Gietrzwałd, between June 27 and September 16, 1877, the Madonna is said to have appeared 166 times to two girls, Justyna Szafranska and Barbara Samulowska.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Shrine of Gietrzwałd (Poland)"
     },
     "OurLadyLaus_605": {
-        "subject": "",
-        "places": "",
+        "subject": "Our Lady of Laus",
+        "places": "Laus (France)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
-        "notes": "",
+        "notes": "Benedicta Rencurel (1647-1718), who was chosen by the Madonna to be entrusted with a very delicate mission: to pray and suffer for the salvation of sinners. It was an unspecified day in May 1664, when the seventeen-year-old, while grazing sheep in the Vallone dei Forni, saw the Madonna with the Child Jesus. From then on, for 54 years, from 1664 to 1718, the Madonna would appear to Benedicta.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Shrine of Our Lady of Laus (France)"
     }
 }
