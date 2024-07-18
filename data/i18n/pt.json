@@ -1031,7 +1031,7 @@
     },
     "Assumption_110": {
         "subject": "Assunção da Bem-Aventurada Virgem Maria",
-        "places": "N/D",
+        "places": "Tumba de Maria no Monte das Oliveiras (Jerusalém, Israel / Palestina)",
         "place_of_death": "Igreja da Dormição, Jerusalém",
         "place_of_birth": "Jerusalém / Nazaré",
         "place_of_burial": "Monte das Oliveiras, Jerusalém",
@@ -1071,7 +1071,7 @@
     },
     "StPiusX_114": {
         "subject": "São Pio X, papa",
-        "places": "N/D",
+        "places": "Riese (Treviso, Itália); Treviso (Itália); Mântua (Itália); Veneza (Itália); Roma (Itália)",
         "place_of_death": "Roma (Itália)",
         "place_of_birth": "Riese, Treviso (Itália)",
         "place_of_burial": "Basílica de São Pedro no Vaticano",
@@ -1091,7 +1091,7 @@
     },
     "StRoseLima_116": {
         "subject": "Santa Rosa de Lima, virgem",
-        "places": "N/D",
+        "places": "Lima (Peru)",
         "place_of_death": "Lima, Peru",
         "place_of_birth": "Lima, Peru",
         "place_of_burial": "Convento de Santo Domingo em Lima, Peru",
@@ -1131,10 +1131,10 @@
     },
     "StMonica_120": {
         "subject": "Santa Mônica",
-        "places": "N/D",
+        "places": "Tagaste (Tunísia); Milão (Itália); Cassago Brianza (Itália); Óstia Antiga (Roma, Itália)",
         "place_of_death": "Ostia (Itália)",
         "place_of_birth": "Tagaste (atual Souk Ahras), Argélia",
-        "place_of_burial": "N/D",
+        "place_of_burial": "Basílica de Santo Agostinho em Campo Marzio (Roma, Itália)",
         "notes": "Mônica (Tagaste, atual Souk Ahras, Argélia, 331 - Óstia, Roma, 387), nascida em uma família cristã, casou-se com o pagão Patrício e foi mãe de Agostinho. Após dar ao filho a primeira educação cristã, esperou por anos, entre lágrimas e orações, que ele chegasse à verdadeira fé. Viúva, seguiu Agostinho até Milão, onde pôde se alegrar com sua conversão, culminando no Batismo. Durante a viagem de volta para a África, alcançou a verdadeira pátria.",
         "patronage": "",
         "main_shrine": "Basílica de Santo Agostinho, Roma (Itália)"
@@ -3570,7 +3570,7 @@
     },
     "SantaMariaInPortico_594": {
         "subject": "Santa Maria in Portico",
-        "places": "crianças com dificuldades acadêmicas, crianças aprendendo a andar, mães e doentes, invocado contra reumatismo e picadas de cobra",
+        "places": "Roma (Itália)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
@@ -3590,7 +3590,7 @@
     },
     "OurLadyMiracle_596": {
         "subject": "Nossa Senhora do Milagre",
-        "places": "crianças com dificuldades acadêmicas, crianças aprendendo a andar, mães e doentes, invocado contra reumatismo e picadas de cobra",
+        "places": "Roma (Itália)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
