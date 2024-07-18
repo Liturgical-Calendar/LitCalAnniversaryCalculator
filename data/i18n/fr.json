@@ -1401,13 +1401,13 @@
     },
     "StMargaretAlacoque_147": {
         "subject": "Sainte Marguerite-Marie Alacoque, vierge",
-        "places": "Paray-le-Monial (France)",
-        "place_of_death": "Paray-le-Monial, France",
+        "places": "Verosvres (France) ; Paray-le-Monial (France)",
+        "place_of_death": "Paray-le-Monial (France)",
         "place_of_birth": "Verosvres (France)",
-        "place_of_burial": "Chapelle de la Visitation, Paray-le-Monial (France)",
+        "place_of_burial": "Chapelle de la Visitation (Paray-le-Monial, France)",
         "notes": "Marguerite (Verosvres, France, 22 juillet 1647 - Paray-le-Monial, 17 octobre 1690), entrée au monastère des Visitandines de Paray-le-Monial, où elle prit aussi le nom de Marie, a expérimenté un amour intense pour le Christ, enrichi de grâces particulières. Elle a surtout cultivé la dévotion au Cœur de Jésus et en a promu la diffusion.",
         "patronage": "",
-        "main_shrine": "Chapelle de la Visitation, Paray-le-Monial (France)"
+        "main_shrine": "Chapelle de la Visitation (Paray-le-Monial, France)"
     },
     "StIgnatiusAntioch_148": {
         "subject": "Saint Ignace d'Antioche, évêque et martyr",
@@ -3559,114 +3559,114 @@
         "main_shrine": "Basilique de Saint Cyprien (Carthage)"
     },
     "StHippolytus_593": {
-        "subject": "",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
-        "notes": "",
+        "subject": "Saint Hippolyte, prêtre et martyr",
+        "places": "Rome (Italie); Sardaigne (Italie)",
+        "place_of_death": "Sardaigne (Italie)",
+        "place_of_birth": "Asie Mineure",
+        "place_of_burial": "Catacombe de Saint Hippolyte (Rome, Italie)",
+        "notes": "Le prêtre romain Hippolyte, originaire d'Asie Mineure, disciple de Saint Irénée, bien qu'il fût le premier antipape de l'histoire, se réconcilia avec le Pape Pontien lors de leur condamnation commune, et ils moururent ensemble des mauvais traitements subis. La translation à Rome de leurs dépouilles est rappelée le 13 août par la Depositio martyrum (336). Le corps d'Hippolyte fut déposé le 13 août 236 au Campo Verano sur la Via Tiburtina. Sur le lieu de sa sépulture aurait été érigée la statue retrouvée seulement en 1551 et conservée au Musée du Latran, pour être ensuite transférée en 1959 à la Bibliothèque apostolique vaticane.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Catacombes de Calliste (Rome, Italie)"
     },
     "SantaMariaInPortico_594": {
-        "subject": "",
-        "places": "",
+        "subject": "Sainte Marie en Portique",
+        "places": "Italie",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "À Sainte Galla serait apparue la Vierge alors qu'elle se consacrait aux œuvres de charité habituelles. L'événement miraculeux est rappelé par une précieuse œuvre en niello du XIe siècle dans l'église de Sainte Marie en Portique à Campitelli. La fête commémorative de cette apparition, par concession de la Congrégation des Rites, est célébrée à Rome le 17 juillet, tandis que Sainte Galla est commémorée dans le Martyrologe Romain le 5 octobre.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Église de Sainte Marie en Portique à Campitelli (Rome, Italie)"
     },
     "OurLadyLaSalette_595": {
-        "subject": "",
-        "places": "",
+        "subject": "Notre-Dame de La Salette",
+        "places": "La Salette (France)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le 19 septembre 1846, vers trois heures de l'après-midi, sur une montagne près du village de La Salette-Fallavaux, deux enfants, une bergère de quinze ans nommée Mélanie Calvat et un jeune berger de onze ans nommé Maximin Giraud, alors qu'ils faisaient paître les vaches, reçoivent l'apparition de la Bienheureuse Vierge Marie qui se plaint des péchés des hommes en annonçant le pardon pour ceux qui se convertissent.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Sanctuaire de Notre-Dame de La Salette (France)"
     },
     "OurLadyMiracle_596": {
-        "subject": "",
-        "places": "",
+        "subject": "Notre-Dame du Miracle",
+        "places": "Italie",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le 20 janvier 1842, lorsque la Vierge est apparue à l'Alsacien juif Alphonse Ratisbonne, en visite à Rome presque par hasard. Le jeune avocat et banquier, fortement hostile à la religion catholique, portait par dérision la Médaille miraculeuse qui lui avait été donnée avec foi par quelques amis. Entré dans l'église, il vit clairement une Dame dans la chapelle alors dédiée à l'archange Michel qui lui fit signe de s'agenouiller. Le fruit de ce geste fut la conversion immédiate de l'homme qui, à peine remis de sa stupéfaction, demanda à se confesser et à être baptisé. Par la suite, Alphonse fut ordonné prêtre et rejoignit son frère Théodore, lui aussi prêtre, dans le mouvement Religieuses de Notre-Dame de Sion pour la conversion des juifs et des musulmans, qui le conduisit jusqu'en Palestine, où ils fondèrent un siège près de l'ancien prétoire de Pilate. Il mourut à Ein Kerem en 1884.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Basilique Saint-André-des-Fratte (Rome, Italie)"
     },
     "OurLadyPontmain_597": {
-        "subject": "",
-        "places": "",
+        "subject": "Notre-Dame de Pontmain",
+        "places": "Pontmain (France)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le soir du 17 janvier 1871, Eugène Barbedette, un garçon de douze ans, aidait son père dans la grange à battre le genêt, utilisé comme fourrage pour les animaux ; son frère de dix ans, Joseph, se trouvait également avec eux. Eugène sortit pour voir le temps qu'il faisait et vit au-dessus de la maison d'en face une splendide dame vêtue d'une robe ornée d'étoiles, qui aurait donné le message : \"MAIS PRIEZ, MES ENFANTS. DIEU VOUS RÉPONDRA TRÈS BIENTÔT. MON FILS PERMET QUE SON CŒUR SE LAISSE TOUCHER.\"",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Basilique de Notre-Dame de Pontmain (France)"
     },
     "MiraculousMedal_598": {
-        "subject": "",
-        "places": "",
+        "subject": "Notre-Dame de la Médaille Miraculeuse",
+        "places": "Paris (France)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "De juin à décembre 1830, Sœur Catherine Labouré, jeune novice des Filles de la Charité, reçoit l'immense grâce de s'entretenir à trois reprises avec la Vierge Marie. Le 27 novembre, elle a la vision de la Bienheureuse Vierge Marie qui inspire la Médaille Miraculeuse.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Sanctuaire de Notre-Dame de la Médaille Miraculeuse à Rue du Bac (Paris, France)"
     },
     "SacredHeart_599": {
-        "subject": "",
-        "places": "",
+        "subject": "Apparitions du Sacré-Cœur à Sainte Marguerite-Marie Alacoque",
+        "places": "Paray-le-Monial (France)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "À partir du 27 décembre 1673, Marguerite, sœur de l'Ordre de la Visitation, reçoit pendant 17 ans les apparitions du Sacré-Cœur de Jésus. La mémoire liturgique de la sainte tombe le 16 octobre.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Basilique du Sacré-Cœur de Jésus (Paray-le-Monial, France)"
     },
     "OurLadySilenceKnock_600": {
-        "subject": "",
-        "places": "",
+        "subject": "Notre-Dame du Silence de Knock",
+        "places": "Knock (Irlande)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Une apparition silencieuse de la Vierge avec Saint Joseph et Saint Jean l'Évangéliste tournés vers un autel surmonté d'un agneau et d'une croix. Cela s'est produit le 21 août 1879 à Knock, petite ville du comté irlandais de Mayo, dans la province de Connacht, à Mary McLoughlin et Mary Byrne.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Sanctuaire de Notre-Dame du Silence (Knock, Irlande)"
     },
     "OurLadyBeauraing_601": {
-        "subject": "",
-        "places": "",
+        "subject": "Notre-Dame de Beauraing",
+        "places": "Beauraing (Belgique)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "À Beauraing, le 29 novembre 1932, Fernande (15 ans) et Albert (11 ans) Voisin, avec leurs amies Andrée (14 ans) et Gilberte (9 ans) Degeimbre, ont reçu l'apparition de la Bienheureuse Vierge Marie \"au Cœur d'Or\". Les apparitions ont continué les jours suivants : il y en a eu 33 au total, et elles se sont terminées le 3 janvier 1933.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Sanctuaire de la Vierge au Cœur d'Or (Beauraing, Belgique)"
     },
     "OurLadyAkita_602": {
-        "subject": "",
-        "places": "",
+        "subject": "Notre-Dame d'Akita",
+        "places": "Akita (Japon)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le 12 juin 1973, sœur Agnès Katsuko Sasagawa, de la congrégation des \"Servantes de l'Eucharistie\", a vu une lumière brillante provenant du tabernacle de l'église de son couvent, accompagnée d'anges en adoration. Le 28 juin, un stigmate en forme de croix serait apparu sur la main gauche de la sœur. Le 6 juillet, la première de trois apparitions mariales, accompagnées de messages, aurait suivi. Entre le 4 janvier 1975 et le 15 septembre 1981, sœur Agnès a également rapporté avoir assisté à 101 lacrimations, y compris de sang, d'une statue de la Vierge.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Sanctuaire de Notre-Dame d'Akita (Japon)"
     },
     "OurLadyKibeho_603": {
-        "subject": "",
-        "places": "",
+        "subject": "Notre-Dame de Kibeho",
+        "places": "Kibeho (Rwanda)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Dans un collège de Kibeho géré par des sœurs, fréquenté par une centaine de filles de la région, le samedi 28 novembre 1981, vers 12h35, la jeune Alphonsine Mumureke, âgée de seize ans, se trouvait dans le réfectoire avec ses camarades lorsque, selon son journal, elle entendit une voix l'appeler : se rendant dans le couloir à côté du réfectoire, elle vit une femme d'une beauté extraordinaire, vêtue de blanc, les mains jointes. Quand Alphonsine lui demanda qui elle était, elle répondit : « Je suis la Mère du Verbe. »",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Sanctuaire de Notre-Dame des Douleurs (Kibeho, Rwanda)"
     },
     "OurLadyGietrzwałd_604": {
         "subject": "",
