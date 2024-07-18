@@ -1031,7 +1031,7 @@
     },
     "Assumption_110": {
         "subject": "Assumptio Beatae Mariae Virginis",
-        "places": "non pertinet",
+        "places": "Sepulcrum Mariae in Monte Olivarum (Hierosolyma, Israel / Palaestina)",
         "place_of_death": "Ecclesia Dormitionis, Hierosolyma",
         "place_of_birth": "Hierosolyma / Nazareth",
         "place_of_burial": "Mons Oliveti, Hierosolyma",
@@ -1071,7 +1071,7 @@
     },
     "StPiusX_114": {
         "subject": "Sanctus Pius X, papa",
-        "places": "non pertinet",
+        "places": "Riese (Tarvisium, Italia); Tarvisium (Italia); Mantua (Italia); Venetiae (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Riese, Tarvisium (Italia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
@@ -1091,7 +1091,7 @@
     },
     "StRoseLima_116": {
         "subject": "Sancta Rosa de Lima, virgo",
-        "places": "non pertinet",
+        "places": "Lima (Peruvia)",
         "place_of_death": "Lima, Peruvia",
         "place_of_birth": "Lima, Peruvia",
         "place_of_burial": "Conventus Sancti Dominici Limae, Peruvia",
@@ -1131,10 +1131,10 @@
     },
     "StMonica_120": {
         "subject": "Sancta Monica",
-        "places": "non pertinet",
+        "places": "Tagaste (Tunisia); Mediolanum (Italia); Cassiacum (Italia); Ostia antiqua (Roma, Italia)",
         "place_of_death": "Ostia (Italia)",
         "place_of_birth": "Tagaste (actuale Souk Ahras), Algeria",
-        "place_of_burial": "non pertinet",
+        "place_of_burial": "Basilica Sancti Augustini in Campo Martio (Roma, Italia)",
         "notes": "Monica (Tagaste, actuale Souk Ahras, Algeria, 331 - Ostia, Roma, 387), nata da familia Christiana, ivit in uxorem pagano Patricio et fuit mater Augustini. Postquam filio primam educationem Christianam dedit, per annos, inter lacrimas et preces, conversionem eius ad veram fidem exspectavit. Vidua facta, Augustinum Mediolanum secuta est et ibi conversione eius, quae in Baptismo culminavit, laetata est. In itinere reditus in Africam, ad veram patriam pervenit.",
         "patronage": "",
         "main_shrine": "Basilica Sancti Augustini, Roma (Italia)"
@@ -3570,7 +3570,7 @@
     },
     "SantaMariaInPortico_594": {
         "subject": "Sancta Maria in Portico",
-        "places": "Senenses (Italia)",
+        "places": "Roma (Italia)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
@@ -3590,7 +3590,7 @@
     },
     "OurLadyMiracle_596": {
         "subject": "Madonna Miraculi",
-        "places": "Senenses (Italia)",
+        "places": "Roma (Italia)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
