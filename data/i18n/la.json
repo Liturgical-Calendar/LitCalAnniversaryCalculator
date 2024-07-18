@@ -1023,7 +1023,7 @@
         "subject": "Sancti Pontianus, papa, et Hippolytus, presbyter, martyres",
         "places": "Roma (Italia)",
         "place_of_death": "Sardinia (Italia)",
-        "place_of_birth": "non pertinet",
+        "place_of_birth": "Roma (Italia)",
         "place_of_burial": "Catacumbae Callisti (Roma, Italia)",
         "notes": "Pontianus, papa (230-235), ab imperatore Maximino Thrax in metalla Sardiniae deportatus, officio se abdicavit ut novus episcopus eligeretur. Cum eo etiam presbyter Romanus Hippolytus damnatus est et simul ob maltrata mentes mortui sunt. Translatio eorum reliquiarum Romam a Depositio martyrum (336) die 13 Augusti commemoratur.",
         "patronage": "",
@@ -1151,7 +1151,7 @@
     },
     "BeheadingJohnBaptist_122": {
         "subject": "Martyrium Sancti Ioannis Baptistae",
-        "places": "non pertinet",
+        "places": "Ein Kerem (Israel); Macheronte (Iordania); Sanctus Silvester in Capite (Roma, Italia)",
         "place_of_death": "Macheronte, Iordania",
         "place_of_birth": "Ein Kerem (Palaestina)",
         "place_of_burial": "Sebaste, Palaestina; sacrum caput (sine mandibula) in basilica Sancti Silvestri in Capite, Romae, a saeculo XII veneratur; “sacra mandibula” Viterbii est. Alia capita: unum in cathedrali Nostrae Dominae de Amiens, Constantinopoli anno 1206 quarta expeditione sacra allatum; unum in Magna Moschea Damasci. Anno 2012 nonnullae reliquiae in Bulgaria, prope Sozopol, inventae sunt; analysibus effectis, relatum est eas ad saeculum I pertinere, et ex inscriptionibus urnae creditur reliquias Sancti Ioannis Baptistae esse.",
@@ -1171,7 +1171,7 @@
     },
     "NativityVirginMary_124": {
         "subject": "Nativitas Beatae Mariae Virginis",
-        "places": "non pertinet",
+        "places": "Hierosolyma (Israel / Palaestina)",
         "place_of_death": "Hierusalem",
         "place_of_birth": "Hierusalem vel Sefforis",
         "place_of_burial": "Mons Oliveti",
@@ -1191,7 +1191,7 @@
     },
     "ExaltationCross_126": {
         "subject": "Exaltatio Sanctae Crucis",
-        "places": "non pertinet",
+        "places": "Hierosolyma (Israel / Palaestina); Constantinopolis (hodierna Istanbul, Turcia); Roma (Italia)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
