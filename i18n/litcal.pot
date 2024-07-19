@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-10 05:11+0000\n"
+"POT-Creation-Date: 2024-07-19 23:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -96,13 +96,13 @@ msgid ""
 msgstr ""
 
 #. translators: 1. count, 2. year
-#: src/AnniversaryCalculator.php:451
+#: src/AnniversaryCalculator.php:452
 #, php-format
 msgid "%1$d liturgical anniversary events were calculated for the year %2$d."
 msgstr ""
 
 #. translators: 1. language
-#: src/AnniversaryCalculator.php:458
+#: src/AnniversaryCalculator.php:459
 #, php-format
 msgid ""
 "English translation strings were used because the translation for %1$s was "
