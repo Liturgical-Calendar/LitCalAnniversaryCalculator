@@ -408,6 +408,7 @@ class AnniversaryCalculator
                 ) {
                     $englishResultsUsed = true;
                     $rowLocalizedData->$rowProperty = $translationDataEnglish->$label->$rowProperty;
+                    $this->RESPONSE->messages[] = "Using English translation for $label.$rowProperty";
                 }
             }
 
