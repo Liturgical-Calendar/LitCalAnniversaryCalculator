@@ -1023,7 +1023,7 @@
         "subject": "Saints Pontian, pope, and Hippolytus, priest, martyrs",
         "places": "Rome (Italy)",
         "place_of_death": "Sardinia (Italy)",
-        "place_of_birth": "N/A",
+        "place_of_birth": "Rome (Italy)",
         "place_of_burial": "Catacombs of Callixtus (Rome, Italy)",
         "notes": "Pontian, pope (230-235), was deported by Emperor Maximinus Thrax to the mines of Sardinia, where he resigned from office to allow the election of a new bishop. Along with him, the Roman priest Hippolytus was also condemned and they both died from the mistreatment they suffered. The transfer to Rome of their remains is commemorated on August 13 by the Depositio martyrum (336).",
         "patronage": "",
@@ -1151,7 +1151,7 @@
     },
     "BeheadingJohnBaptist_122": {
         "subject": "Martyrdom of Saint John the Baptist",
-        "places": "N/A",
+        "places": "Ein Kerem (Israel); Machaerus (Jordan); Saint Sylvester in Capite (Rome, Italy)",
         "place_of_death": "Machaerus, Jordan",
         "place_of_birth": "Ein Kerem (Palestine)",
         "place_of_burial": "Sebaste, Palestine; the sacred skull (without the jaw) is venerated in the basilica of Saint Sylvester in Capite, in Rome, from the 12th century; the \"sacred jaw\" is located in Viterbo. Other skulls: one displayed in the cathedral of Notre-Dame de Amiens, brought from Constantinople in 1206 during the fourth crusade; one in the Great Mosque of Damascus. In 2012, some relics found in Bulgaria, near Sozopol, were analyzed; the results of the analyses established that it dates back to the 1st century, and from the inscriptions on the urn it is believed that the relics belonged to Saint John the Baptist.",
@@ -1171,7 +1171,7 @@
     },
     "NativityVirginMary_124": {
         "subject": "Nativity of the Blessed Virgin Mary",
-        "places": "N/A",
+        "places": "Jerusalem (Israel / Palestine)",
         "place_of_death": "Jerusalem",
         "place_of_birth": "Jerusalem or Sepphoris",
         "place_of_burial": "Mount of Olives",
@@ -1191,7 +1191,7 @@
     },
     "ExaltationCross_126": {
         "subject": "Exaltation of the Holy Cross",
-        "places": "N/A",
+        "places": "Jerusalem (Israel / Palestine); Constantinople (now Istanbul, Turkey); Rome (Italy)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
