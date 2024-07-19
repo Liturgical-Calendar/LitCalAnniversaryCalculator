@@ -13,6 +13,16 @@ The API takes the following parameters:
 
 To test the API locally, simply launch using PHP's built-in server: `php -S localhost:8000`. You can choose to serve over a different port if you wish.
 
+# Locales
+
+In order to obtain localized results in development, you must have the correct locales installed on your local machine.
+
+Run `locale -a` and check to see if <kbd>de_DE.utf8</kbd>, <kbd>es_ES.utf8</kbd>, <kbd>fr_FR.utf8</kbd>, <kbd>it_IT.utf8</kbd>, <kbd>nl_NL.utf8</kbd>, <kbd>pt_PT.utf8</kbd> are among the results.
+
+For any locales that are not installed, you will not get translation results.
+
+In order to install a locale on Ubuntu, run `sudo apt-get install language-pack-{two-letter-iso-code}`. For example `sudo apt-get install language-pack-es` will install the Spanish locale on your machine. You will then be able to get translation results for Spanish.
+
 # Translation into other languages
 
 <a href="https://translate.johnromanodorazio.com/engage/liturgical-calendar/">
