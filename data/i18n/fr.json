@@ -1023,7 +1023,7 @@
         "subject": "Saints Pontien, pape, et Hippolyte, prêtre, martyrs",
         "places": "Rome (Italie)",
         "place_of_death": "Sardaigne (Italie)",
-        "place_of_birth": "N/D",
+        "place_of_birth": "Rome (Italie)",
         "place_of_burial": "Catacombes de Calliste (Rome, Italie)",
         "notes": "Pontien, pape (230-235), déporté par l'empereur Maximin le Thrace dans les mines de Sardaigne, démissionna de sa charge pour permettre l'élection d'un nouvel évêque. Avec lui fut également condamné le prêtre romain Hippolyte et ensemble ils moururent des mauvais traitements subis. La translation de leurs dépouilles à Rome est commémorée le 13 août par la Depositio martyrum (336).",
         "patronage": "",
@@ -1151,7 +1151,7 @@
     },
     "BeheadingJohnBaptist_122": {
         "subject": "Martyr de Saint Jean-Baptiste",
-        "places": "N/D",
+        "places": "Ein Kerem (Israël); Macheronte (Jordanie); Saint-Sylvestre-en-Tête (Rome, Italie)",
         "place_of_death": "Machaerus, Jordanie",
         "place_of_birth": "Ein Kerem (Palestine)",
         "place_of_burial": "Sébaste, Palestine; le crâne sacré (sans la mâchoire) est vénéré dans la basilique de Saint-Sylvestre-in-Capite, à Rome, depuis le XIIe siècle; la \"sainte mâchoire\" se trouve à Viterbe. D'autres crânes: un exposé dans la cathédrale de Notre-Dame d'Amiens, apporté de Constantinople en 1206 lors de la quatrième croisade; un dans la Grande Mosquée de Damas. En 2012, certaines reliques trouvées en Bulgarie, près de Sozopol, ont été analysées; les résultats des analyses ont établi qu'elles datent du Ier siècle, et d'après les inscriptions de l'urne, on croit que les reliques appartenaient à Saint Jean-Baptiste.",
@@ -1171,7 +1171,7 @@
     },
     "NativityVirginMary_124": {
         "subject": "Nativité de la Bienheureuse Vierge Marie",
-        "places": "N/D",
+        "places": "Jérusalem (Israël / Palestine)",
         "place_of_death": "Jérusalem",
         "place_of_birth": "Jérusalem ou Sepphoris",
         "place_of_burial": "Mont des Oliviers",
@@ -1191,7 +1191,7 @@
     },
     "ExaltationCross_126": {
         "subject": "Exaltation de la Sainte Croix",
-        "places": "N/D",
+        "places": "Jérusalem (Israël / Palestine); Constantinople (actuelle Istanbul, Turquie); Rome (Italie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",

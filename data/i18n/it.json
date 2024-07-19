@@ -1023,7 +1023,7 @@
         "subject": "San Ponziano, papa e martire",
         "places": "Roma (Italia)",
         "place_of_death": "Sardegna (Italia)",
-        "place_of_birth": "N/A",
+        "place_of_birth": "Roma (Italia)",
         "place_of_burial": "Catacombe di Callisto (Roma, Italia)",
         "notes": "Ponziano, papa (230-235), deportato dall’imperatore Massimino il Trace nelle miniere della Sardegna, si dimise dall’ufficio per consentire l’elezione di un nuovo vescovo. Con lui fu condannato anche il presbitero romano Ippolito e insieme morirono per i maltrattamenti subiti. La traslazione a Roma delle loro spoglie è ricordata il 13 agosto dalla Depositio martyrum (336).",
         "patronage": "",
@@ -1151,7 +1151,7 @@
     },
     "BeheadingJohnBaptist_122": {
         "subject": "Martirio di San Giovanni Battista",
-        "places": "N/A",
+        "places": "Ein Kerem (Israele); Macheronte (Giordania); San Silvestro in Capite (Roma, Italia)",
         "place_of_death": "Macheronte, Giordania",
         "place_of_birth": "Ein Kerem (Palestina)",
         "place_of_burial": "Sebaste, Palestina; il sacro cranio (senza la mandibola) è venerato nella basilica di San Silvestro in Capite, a Roma, dal XII sec; la “sacra mandibola” si trova a Viterbo. Altri crani: uno esposto nella cattedrale di Notre-Dame de Amiens, portato da Costantinopoli nel 1206 durante la quarta crociata; uno nella Grande Moschea di Damasco. Nel 2012 sono state analizzate alcune reliquie trovate in Bulgaria, vicino a Sozopol; i risultati delle analisi hanno stabilito che risale al I secolo, e dalle iscrizioni dell’urna si crede che le reliquie siano appartenute a San Giovanni il Battista.",
@@ -1171,7 +1171,7 @@
     },
     "NativityVirginMary_124": {
         "subject": "Natività della Beata Vergine Maria",
-        "places": "N/A",
+        "places": "Gerusalemme (Israele / Palestina)",
         "place_of_death": "Gerusalemme",
         "place_of_birth": "Gerusalemme o Sefforis",
         "place_of_burial": "Monte degli Ulivi",
@@ -1191,7 +1191,7 @@
     },
     "ExaltationCross_126": {
         "subject": "Esaltazione della Santa Croce",
-        "places": "N/A",
+        "places": "Gerusalemme (Israele / Palestina); Costantinopoli (attuale Istanbul, Turchia); Roma (Italia)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
