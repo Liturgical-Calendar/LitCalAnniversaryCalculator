@@ -3690,14 +3690,14 @@
         "main_shrine": "Sanctuarium Nostrae Dominae Laus (Francia)"
     },
     "OurLadyRosary_606": {
-        "subject": "",
-        "places": "",
+        "subject": "Nostra Domina Rosarii",
+        "places": "Prouilhe (Gallia)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
-        "notes": "",
+        "notes": "Dum Sanctus Dominicus haeresim Albigensem in Meridie Galliae oppugnabat, Beata Virgo ei apparuit anno 1208 donans ei spirituale arma, rosarium. Haec apparitio facta est in meridie Galliae, in parvo loco remoto noto ut Prouilhe in regione Languedociae.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Basilica Nostrae Dominae Rosarii (Prouilhe, Gallia)"
     },
     "OurLadyZeitoun_607": {
         "subject": "",
