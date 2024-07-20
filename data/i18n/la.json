@@ -1341,7 +1341,7 @@
     },
     "OurLadyRosary_141": {
         "subject": "Beata Maria Virgo a Rosario",
-        "places": "non pertinet",
+        "places": "Pompeii (Italia)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
@@ -1373,7 +1373,7 @@
         "subject": "Sanctus Callistus I, papa et martyr",
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
-        "place_of_birth": "non pertinet",
+        "place_of_birth": "Roma (Italia)",
         "place_of_burial": "Cimiterium Calepodii, Via Aurelia, Roma",
         "notes": "Callistus, servus quondam, fuit papa ab anno 218 ad 222. Nomen suum primo cimiterio officiali Ecclesiae Romanae, in via Appia, adiunxit. Passus est propter dissensiones internas in communitate christiana et martyrium passus est Romae, in loco ubi ecclesia ei dicata surgit. Sepultura eius in cimiterio Calepodii, in via Aurelia, memoratur die 14 Octobris in Depositio martyrum (336).",
         "patronage": "",
@@ -1434,7 +1434,7 @@
         "places": "Midland (Canada); Auriesville (Nova Eboracum, USA)",
         "place_of_death": "Midland (Canada)",
         "place_of_birth": "Condé-sur-Vire (Francia)",
-        "place_of_burial": "non pertinet",
+        "place_of_burial": "Ecclesia Sancti Ioseph de missione Iesu Societatis Sanctae Mariae inter Hurones (Midland, Ontario)",
         "notes": "Ioannes (Condatum super Viram, Francia, 15 Martii 1594 - Midland, Canada, 16 Martii 1649), missionarius Iesuita inter Hurones, in hodierno Canada, interfectus est in impetu in missionem ab aliis tribubus hostilibus. Paucos menses post eum secutus est in martyrio socius eius in missione Isaac Jogues (Aurelianum, Francia, 10 Ianuarii 1607 - Auriesville, USA, 18 Octobris 1649); cum eis commemorantur alii sex martyres Iesuitae. Evangelica mansuetudine vitam illarum populorum communicaverunt, usque ad plenam sui donationem.",
         "patronage": "",
         "main_shrine": "Sanctuarium Martyrum, Midland, Ontario, Canada; Sanctuarium Nostrae Dominae Martyrum, Auriesville"
@@ -1474,7 +1474,7 @@
         "places": "Roma (Italia); Lanciano (Italia)",
         "place_of_death": "Persia",
         "place_of_birth": "Simon: probabiliter Cana; Iudas Thaddaeus fortasse Banias",
-        "place_of_burial": "non pertinet",
+        "place_of_burial": "Altare Sancti Ioseph in Basilica Sancti Petri (Roma, Italia)",
         "notes": "Simon vocatur «zelotes» (Lc 6, 15; Act 1, 13) vel, in aramaico, «cananaeus» (Mt 10, 4; Mc 3, 18) propter eius probabiliter adhaesionem ad zelotarum coetum, qui militanti nationalismo intra iudaismum notabantur. Simon pars est coetus Duodecim, sicut Iudas filius Iacobi (Lc 6, 16; Act 1, 13; dictus Thaddaeus in Mt 10, 3 et Mc 3, 18) qui Iesum interrogat: «Domine, quomodo factum est ut nobis manifestaturus es, et non mundo?». Iesus ei respondet quod quicumque verbum eius accipit, ipse fit habitatio Dei (cf. Io 14, 22-23). Communis festum horum duorum apostolorum die 28 octobris in Martyrologio Hieronymiano (saec. V-VI) commemoratur.",
         "patronage": "",
         "main_shrine": "Basilica Sancti Petri in Vaticano; Conventus Sancti Augustini Lanciani (Italia)"
@@ -1501,7 +1501,7 @@
     },
     "DedicationLateran_159": {
         "subject": "Dedicatio Basilicae Lateranensis",
-        "places": "non pertinet",
+        "places": "Roma (Italia)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
@@ -1521,7 +1521,7 @@
     },
     "StMartinTours_161": {
         "subject": "Sanctus Martinus Turonensis, episcopus",
-        "places": "non pertinet",
+        "places": "Sabaria (hodierna Szombathely, Hungaria); Turones (Francia); Candes-Saint-Martin (Francia)",
         "place_of_death": "Candes-Saint-Martin (Francia)",
         "place_of_birth": "Sabaria (hodierna Szombathely), Hungaria",
         "place_of_burial": "Basilica Sancti Martini (Turones, Francia)",
@@ -1531,7 +1531,7 @@
     },
     "StJosaphat_162": {
         "subject": "Sanctus Iosaphat, episcopus et martyr",
-        "places": "non pertinet",
+        "places": "Volodymyr (Ucraina); Vilna (Lituania); Polockum (Bielorussia); Vicebskum (Bielorussia); Roma (Italia)",
         "place_of_death": "Vicebsk, Bielorussia",
         "place_of_birth": "Volodymyr-Volyn'kyj, Ucraina",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
@@ -1561,7 +1561,7 @@
     },
     "StGertrudeGreat_165": {
         "subject": "Sancta Gertrudis, virgo",
-        "places": "non pertinet",
+        "places": "Eisleben (Germania); Helfta (Germania)",
         "place_of_death": "Monasterium Helfta (Eisleben, Germania)",
         "place_of_birth": "Eisleben (Germania)",
         "place_of_burial": "Unicae reliquiae exsistentes, cum sepulcrum eius tempore Reformationis Lutheranae destructum esset, servantur apud Sanctam Mariam Licodiae, intra simulacrum in Ecclesia Matre conservatum.",
