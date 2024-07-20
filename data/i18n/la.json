@@ -1339,7 +1339,7 @@
         "patronage": "",
         "main_shrine": "Serra Sancti Brunonis (Italia); Cartusia (Francia)"
     },
-    "LadyRosary_141": {
+    "OurLadyRosary_141": {
         "subject": "Beata Maria Virgo a Rosario",
         "places": "non pertinet",
         "place_of_death": "non pertinet",
@@ -3688,5 +3688,15 @@
         "notes": "Benedicta Rencurel (1647-1718), quae a Beata Virgine electa est ut ei missionem delicatissimam committeret: orare et pati pro peccatorum salute. Erat dies, non praecisus, mensis Maii anni 1664, cum septendecim annos nata, dum oves in Vallone Forni pascebat, Beatam Virginem cum Infante Iesu vidit. Ex illo tempore, per 54 annos, ab anno 1664 ad 1718, Beata Virgo Benedictae apparebit.",
         "patronage": "",
         "main_shrine": "Sanctuarium Nostrae Dominae Laus (Francia)"
+    },
+    "OurLadyRosary_606": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
     }
 }

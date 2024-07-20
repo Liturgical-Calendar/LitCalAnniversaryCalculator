@@ -1339,7 +1339,7 @@
         "patronage": "",
         "main_shrine": "Serra San Bruno (Italia); Chartreuse (Francia)"
     },
-    "LadyRosary_141": {
+    "OurLadyRosary_141": {
         "subject": "Beata Maria Vergine del Rosario",
         "places": "N/A",
         "place_of_death": "N/A",
@@ -3688,5 +3688,15 @@
         "notes": "Benedetta Rencurel (1647-1718), che venne scelta dalla Madonna per affidarle una missione delicatissima: pregare e patire per la salvezza dei peccatori. Era un giorno, non precisato, del mese di maggio del 1664, quando la diciasettenne, mentre pascolava le pecore nel Vallone dei Forni, vide la Madonna con il Bambino Gesù. Da allora in poi, per ben 54 anni, dal 1664 al 1718, la Madonna apparirà a Benedetta.",
         "patronage": "",
         "main_shrine": "Santuario di Nostra Signora del Laus (Francia)"
+    },
+    "OurLadyRosary_606": {
+        "subject": "Nostra Signora del Rosario",
+        "places": "Prouilhe (Francia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Mentre San Domenico combatteva l'eresia albigese nel Sud della Francia, la Madonna gli apparve nell'anno 1208 donandogli un'arma spirituale, il rosario. Questa apparizione è avvenuta nel sud della Francia, in un piccolo luogo sperduto conosciuto come Prouilhe nella regione della Linguadoca.",
+        "patronage": "",
+        "main_shrine": "Basilica di Nostra Signora del Rosario (Prouilhe, Francia)"
     }
 }

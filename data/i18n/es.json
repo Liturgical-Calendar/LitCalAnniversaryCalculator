@@ -1339,7 +1339,7 @@
         "patronage": "",
         "main_shrine": "Serra San Bruno (Italia); Chartreuse (Francia)"
     },
-    "LadyRosary_141": {
+    "OurLadyRosary_141": {
         "subject": "Beata María Virgen del Rosario",
         "places": "N/D",
         "place_of_death": "N/D",
@@ -3688,5 +3688,15 @@
         "notes": "Benedetta Rencurel (1647-1718), que fue elegida por la Virgen María para encomendarle una misión delicadísima: rezar y sufrir por la salvación de los pecadores. Fue un día, no precisado, del mes de mayo de 1664, cuando la joven de diecisiete años, mientras pastoreaba las ovejas en el Vallone dei Forni, vio a la Virgen con el Niño Jesús. Desde entonces, durante 54 años, de 1664 a 1718, la Virgen se aparecerá a Benedetta.",
         "patronage": "",
         "main_shrine": "Santuario de Nuestra Señora del Laus (Francia)"
+    },
+    "OurLadyRosary_606": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
     }
 }

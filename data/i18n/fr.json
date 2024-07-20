@@ -1339,7 +1339,7 @@
         "patronage": "",
         "main_shrine": "Serra San Bruno (Italie); Chartreuse (France)"
     },
-    "LadyRosary_141": {
+    "OurLadyRosary_141": {
         "subject": "Bienheureuse Vierge Marie du Rosaire",
         "places": "N/D",
         "place_of_death": "N/D",
@@ -3688,5 +3688,15 @@
         "notes": "Benoîte Rencurel (1647-1718), qui fut choisie par la Vierge pour lui confier une mission très délicate : prier et souffrir pour le salut des pécheurs. C'était un jour, non précisé, du mois de mai 1664, lorsque la jeune fille de dix-sept ans, alors qu'elle faisait paître les moutons dans le Vallon des Fours, vit la Vierge avec l'Enfant Jésus. Dès lors, pendant 54 ans, de 1664 à 1718, la Vierge apparaîtra à Benoîte.",
         "patronage": "",
         "main_shrine": "Sanctuaire de Notre-Dame du Laus (France)"
+    },
+    "OurLadyRosary_606": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
     }
 }

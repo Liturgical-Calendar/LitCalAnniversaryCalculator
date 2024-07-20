@@ -1745,12 +1745,12 @@
         },
         {
             "event_idx": 141,
-            "event_key": "LadyRosary",
+            "event_key": "OurLadyRosary",
             "anniversary": "other",
-            "event_date": null,
+            "event_date": "1571-10-07",
             "event_year": 1571,
-            "event_month": null,
-            "event_day": null,
+            "event_month": 10,
+            "event_day": 7,
             "memorial_month": 10,
             "memorial_day": 7,
             "area": "italy",
@@ -4812,6 +4812,19 @@
             "area": "world,marian",
             "calendar": "national",
             "calendar_area": "FR"
+        },
+        {
+            "event_idx": 606,
+            "event_key": "OurLadyRosary",
+            "anniversary": "apparition",
+            "event_date": "1208-10-07",
+            "event_year": 1208,
+            "event_month": 10,
+            "event_day": 7,
+            "memorial_month": 10,
+            "memorial_day": 7,
+            "area": "world,marian",
+            "calendar": "universal"
         }
     ]
 }

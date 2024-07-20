@@ -1339,7 +1339,7 @@
         "patronage": "",
         "main_shrine": "Serra San Bruno (Italy); Chartreuse (France)"
     },
-    "LadyRosary_141": {
+    "OurLadyRosary_141": {
         "subject": "Blessed Virgin Mary of the Rosary",
         "places": "N/A",
         "place_of_death": "N/A",
@@ -3688,5 +3688,15 @@
         "notes": "Benedicta Rencurel (1647-1718), who was chosen by the Madonna to be entrusted with a very delicate mission: to pray and suffer for the salvation of sinners. It was an unspecified day in May 1664, when the seventeen-year-old, while grazing sheep in the Vallone dei Forni, saw the Madonna with the Child Jesus. From then on, for 54 years, from 1664 to 1718, the Madonna would appear to Benedicta.",
         "patronage": "",
         "main_shrine": "Shrine of Our Lady of Laus (France)"
+    },
+    "OurLadyRosary_606": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
     }
 }
