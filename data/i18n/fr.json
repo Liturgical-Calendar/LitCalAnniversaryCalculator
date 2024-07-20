@@ -3690,13 +3690,13 @@
         "main_shrine": "Sanctuaire de Notre-Dame du Laus (France)"
     },
     "OurLadyRosary_606": {
-        "subject": "",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
-        "notes": "",
+        "subject": "Notre-Dame du Rosaire",
+        "places": "Prouilhe (France)",
+        "place_of_death": "Ravenne (Italie)",
+        "place_of_birth": "Ravenne (Italie)",
+        "place_of_burial": "Ravenne (Italie)",
+        "notes": "Alors que Saint Dominique combattait l'hérésie albigeoise dans le sud de la France, la Vierge lui apparut en 1208 en lui offrant une arme spirituelle, le rosaire. Cette apparition a eu lieu dans le sud de la France, dans un petit endroit perdu connu sous le nom de Prouilhe, dans la région du Languedoc.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Basilique de Notre-Dame du Rosaire (Prouilhe, France)"
     }
 }
