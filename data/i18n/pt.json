@@ -1341,7 +1341,7 @@
     },
     "OurLadyRosary_141": {
         "subject": "Beata Maria Virgem do Rosário",
-        "places": "N/D",
+        "places": "Pompeia (Itália)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
@@ -1373,7 +1373,7 @@
         "subject": "São Calisto I, papa e mártir",
         "places": "Roma (Itália)",
         "place_of_death": "Roma (Itália)",
-        "place_of_birth": "N/D",
+        "place_of_birth": "Roma (Itália)",
         "place_of_burial": "Cemitério de Calepódio, Via Aurelia, Roma",
         "notes": "Calisto, um ex-escravo, foi papa de 218 a 222. Ligou seu nome ao primeiro cemitério oficial da Igreja de Roma, na Via Ápia. Sofreu por conflitos internos na comunidade cristã e foi martirizado em Roma, no local onde se ergue a igreja que leva seu nome. Seu sepultamento no cemitério de Calepódio, na Via Aurelia, é lembrado em 14 de outubro na Depositio martyrum (336).",
         "patronage": "",
@@ -1434,7 +1434,7 @@
         "places": "Midland (Canadá); Auriesville (Nova York, EUA)",
         "place_of_death": "Midland (Canadá)",
         "place_of_birth": "Condé-sur-Vire (França)",
-        "place_of_burial": "N/D",
+        "place_of_burial": "Igreja de São José da missão jesuíta de Sainte-Marie entre os Hurons (Midland, Ontário)",
         "notes": "João (Condé-sur-Vire, França, 15 de março de 1594 - Midland, Canadá, 16 de março de 1649), missionário jesuíta entre os Hurões, no atual Canadá, foi morto em um ataque à missão por outras tribos inimigas. Poucos meses depois, seu companheiro na missão Isaac Jogues (Orléans, França, 10 de janeiro de 1607 - Auriesville, EUA, 18 de outubro de 1649) seguiu-o no martírio; com eles são lembrados outros seis mártires jesuítas. Compartilharam com mansidão evangélica a vida dessas populações, até a doação total de si mesmos.",
         "patronage": "",
         "main_shrine": "Santuário dos Mártires, Midland, Ontário, Canadá; Santuário de Nossa Senhora dos Mártires, Auriesville"
@@ -1474,7 +1474,7 @@
         "places": "Roma (Itália); Lanciano (Itália)",
         "place_of_death": "Pérsia",
         "place_of_birth": "Simão: presumivelmente Cana; Judas Tadeu talvez Banias",
-        "place_of_burial": "N/D",
+        "place_of_burial": "Altar de São José na Basílica de São Pedro (Roma, Itália)",
         "notes": "Simão é chamado \"o zelote\" (Lc 6, 15; At 1, 13) ou, em aramaico, \"o cananeu\" (Mt 10, 4; Mc 3, 18) por sua provável pertença ao grupo dos zelotes, caracterizados por um nacionalismo militante dentro do judaísmo. Simão faz parte do grupo dos Doze, assim como Judas filho de Tiago (Lc 6, 16; At 1, 13; chamado Tadeu em Mt 10, 3 e Mc 3, 18) que faz a Jesus a pergunta: \"Senhor, como é que vais manifestar-te a nós, e não ao mundo?\". Jesus lhe responde que quem acolhe sua palavra torna-se, ele mesmo, morada de Deus (cf. Jo 14, 22-23). A festa comum desses dois apóstolos é lembrada em 28 de outubro no Martirológio Jeronimiano (séc. V-VI).",
         "patronage": "",
         "main_shrine": "Basílica de São Pedro no Vaticano; Convento de Santo Agostinho em Lanciano (Itália)"
@@ -1501,7 +1501,7 @@
     },
     "DedicationLateran_159": {
         "subject": "Dedicação da Basílica de Latrão",
-        "places": "N/D",
+        "places": "Roma (Itália)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
@@ -1521,7 +1521,7 @@
     },
     "StMartinTours_161": {
         "subject": "São Martinho de Tours, bispo",
-        "places": "N/D",
+        "places": "Sabaria (atual Szombathely, Hungria); Tours (França); Candes-Saint-Martin (França)",
         "place_of_death": "Candes-Saint-Martin (França)",
         "place_of_birth": "Sabaria (atual Szombathely), Hungria",
         "place_of_burial": "Basílica de São Martinho (Tours, França)",
@@ -1531,7 +1531,7 @@
     },
     "StJosaphat_162": {
         "subject": "São Josafá, bispo e mártir",
-        "places": "N/D",
+        "places": "Volodymyr (Ucrânia); Vilnius (Lituânia); Polack (Bielorrússia); Vicebsk (Bielorrússia); Roma (Itália)",
         "place_of_death": "Vicebsk, Bielorrússia",
         "place_of_birth": "Volodymyr-Volyn'kyj, Ucrânia",
         "place_of_burial": "Basílica de São Pedro no Vaticano",
@@ -1561,7 +1561,7 @@
     },
     "StGertrudeGreat_165": {
         "subject": "Santa Gertrudes, virgem",
-        "places": "N/D",
+        "places": "Eisleben (Alemanha); Helfta (Alemanha)",
         "place_of_death": "Mosteiro de Helfta (Eisleben, Alemanha)",
         "place_of_birth": "Eisleben (Alemanha)",
         "place_of_burial": "As únicas relíquias existentes, pois escaparam da destruição de seu túmulo durante a Reforma Luterana, são preservadas em Santa Maria di Licodia, dentro do simulacro conservado na Igreja Matriz.",
