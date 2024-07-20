@@ -3690,13 +3690,13 @@
         "main_shrine": "Sanctuarium Nostrae Dominae Laus (Francia)"
     },
     "OurLadyRosary_606": {
-        "subject": "",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
-        "notes": "",
+        "subject": "Nostra Domina Rosarii",
+        "places": "Prouilhe (Gallia)",
+        "place_of_death": "Sanctus Ephraem, diaconus et doctor",
+        "place_of_birth": "Sanctus Ephraem, diaconus et doctor",
+        "place_of_burial": "Sanctus Ephraem, diaconus et doctor",
+        "notes": "Dum Sanctus Dominicus haeresim Albigensem in Meridie Galliae oppugnabat, Beata Virgo ei apparuit anno 1208 donans ei spirituale arma, rosarium. Haec apparitio facta est in meridie Galliae, in parvo loco remoto noto ut Prouilhe in regione Languedociae.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Basilica Nostrae Dominae Rosarii (Prouilhe, Gallia)"
     }
 }
