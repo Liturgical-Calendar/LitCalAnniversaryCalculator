@@ -4825,6 +4825,20 @@
             "memorial_day": 7,
             "area": "world,marian",
             "calendar": "universal"
+        },
+        {
+            "event_idx": 607,
+            "event_key": "OurLadyZeitoun",
+            "anniversary": "apparition",
+            "event_date": "1968-05-12",
+            "event_year": 1968,
+            "event_month": 5,
+            "event_day": 12,
+            "memorial_month": 5,
+            "memorial_day": 12,
+            "area": "world,marian",
+            "calendar": "diocesan",
+            "calendar_area": "Cairo (EG)"
         }
     ]
 }
