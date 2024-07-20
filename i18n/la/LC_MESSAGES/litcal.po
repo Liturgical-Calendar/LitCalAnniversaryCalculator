@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-10 05:11+0000\n"
+"POT-Creation-Date: 2024-07-19 23:06+0000\n"
 "PO-Revision-Date: 2024-07-19 22:40+0000\n"
 "Last-Translator: \"John R. D'Orazio\" <priest@johnromanodorazio.com>\n"
 "Language-Team: Latin <https://translate.johnromanodorazio.com/projects/"
@@ -48,7 +48,8 @@ msgstr "Fasciculus translationis %s deest."
 #: src/AnniversaryCalculator.php:303
 #, php-format
 msgid "The following error occurred decoding the translation file %1$s: %2$s."
-msgstr "Sequens error occurrit in decodendo translationem fasciculi %1$s: %2$s."
+msgstr ""
+"Sequens error occurrit in decodendo translationem fasciculi %1$s: %2$s."
 
 #. translators: 1. count, 2. filename
 #: src/AnniversaryCalculator.php:313
@@ -74,9 +75,9 @@ msgid ""
 "tranlsation file %1$s, which is needed as a backup for any possible missing "
 "strings in the translation for %2$s: %3$s."
 msgstr ""
-"Error sequens productus est dum data ex translatione Anglica decodebantur %1$"
-"s, quae necessaria est ut subsidium pro quibusvis stringis in translatione "
-"%2$s deesse possit: %3$s."
+"Error sequens productus est dum data ex translatione Anglica decodebantur "
+"%1$s, quae necessaria est ut subsidium pro quibusvis stringis in "
+"translatione %2$s deesse possit: %3$s."
 
 #. translators: 1. count, 2. filename, 3. language
 #: src/AnniversaryCalculator.php:347
@@ -111,13 +112,13 @@ msgstr ""
 "eventuum ex archivo basico %3$s (%4$d)."
 
 #. translators: 1. count, 2. year
-#: src/AnniversaryCalculator.php:451
+#: src/AnniversaryCalculator.php:452
 #, php-format
 msgid "%1$d liturgical anniversary events were calculated for the year %2$d."
 msgstr "%1$d eventi anniversarii liturgici pro anno %2$d computati sunt."
 
 #. translators: 1. language
-#: src/AnniversaryCalculator.php:458
+#: src/AnniversaryCalculator.php:459
 #, php-format
 msgid ""
 "English translation strings were used because the translation for %1$s was "
