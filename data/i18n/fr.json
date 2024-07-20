@@ -1341,7 +1341,7 @@
     },
     "OurLadyRosary_141": {
         "subject": "Bienheureuse Vierge Marie du Rosaire",
-        "places": "N/D",
+        "places": "Pompéi (Italie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
@@ -1373,7 +1373,7 @@
         "subject": "Saint Calixte Ier, pape et martyr",
         "places": "Rome (Italie)",
         "place_of_death": "Rome (Italie)",
-        "place_of_birth": "N/D",
+        "place_of_birth": "Rome (Italie)",
         "place_of_burial": "Cimetière de Calepodio, Via Aurelia, Rome",
         "notes": "Calixte, un ancien esclave, fut pape de 218 à 222. Il a lié son nom au premier cimetière officiel de l'Église de Rome, sur la Via Appia. Il a souffert de conflits internes à la communauté chrétienne et a subi le martyre à Rome, à l'endroit où se dresse l'église qui lui est dédiée. Sa sépulture dans le cimetière de Calepodio, sur la Via Aurelia, est commémorée le 14 octobre dans la Depositio martyrum (336).",
         "patronage": "",
@@ -1434,7 +1434,7 @@
         "places": "Midland (Canada); Auriesville (New York, États-Unis)",
         "place_of_death": "Midland (Canada)",
         "place_of_birth": "Condé-sur-Vire (France)",
-        "place_of_burial": "N/D",
+        "place_of_burial": "Église Saint-Joseph de la mission jésuite de Sainte-Marie parmi les Hurons (Midland, Ontario)",
         "notes": "Jean (Condé-sur-Vire, France, 15 mars 1594 - Midland, Canada, 16 mars 1649), missionnaire jésuite parmi les Hurons, dans l'actuel Canada, fut tué lors d'une attaque contre la mission par d'autres tribus ennemies. Quelques mois plus tard, son compagnon de mission Isaac Jogues (Orléans, France, 10 janvier 1607 - Auriesville, USA, 18 octobre 1649) le suivit dans le martyre ; avec eux, on se souvient de six autres martyrs jésuites. Ils ont partagé avec douceur évangélique la vie de ces populations, jusqu'au don total de soi.",
         "patronage": "",
         "main_shrine": "Sanctuaire des Martyrs, Midland, Ontario, Canada ; Sanctuaire de Notre-Dame des Martyrs, Auriesville"
@@ -1474,7 +1474,7 @@
         "places": "Rome (Italie); Lanciano (Italie)",
         "place_of_death": "Perse",
         "place_of_birth": "Simon : probablement Cana ; Jude Thaddée peut-être Banias",
-        "place_of_burial": "N/D",
+        "place_of_burial": "Autel de Saint Joseph dans la Basilique Saint-Pierre (Rome, Italie)",
         "notes": "Simon est appelé « le zélote » (Lc 6, 15 ; Ac 1, 13) ou, en araméen, « le cananéen » (Mt 10, 4 ; Mc 3, 18) en raison de son appartenance probable au groupe des zélotes, caractérisés par un nationalisme militant au sein du judaïsme. Simon fait partie du groupe des Douze, tout comme Jude fils de Jacques (Lc 6, 16 ; Ac 1, 13 ; appelé Thaddée en Mt 10, 3 et Mc 3, 18) qui pose à Jésus la question : « Seigneur, comment se fait-il que tu doives te manifester à nous, et non au monde ? ». Jésus lui répond que quiconque accueille sa parole devient, lui-même, demeure de Dieu (cf. Jn 14, 22-23). La fête commune de ces deux apôtres est rappelée le 28 octobre dans le Martyrologe hiéronymien (Ve-VIe siècle).",
         "patronage": "",
         "main_shrine": "Basilique Saint-Pierre au Vatican; Couvent de Saint-Augustin à Lanciano (Italie)"
@@ -1501,7 +1501,7 @@
     },
     "DedicationLateran_159": {
         "subject": "Dédicace de la Basilique du Latran",
-        "places": "N/D",
+        "places": "Rome (Italie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
@@ -1521,7 +1521,7 @@
     },
     "StMartinTours_161": {
         "subject": "Saint Martin de Tours, évêque",
-        "places": "N/D",
+        "places": "Sabaria (actuelle Szombathely, Hongrie); Tours (France); Candes-Saint-Martin (France)",
         "place_of_death": "Candes-Saint-Martin (France)",
         "place_of_birth": "Sabaria (actuelle Szombathely), Hongrie",
         "place_of_burial": "Basilique Saint-Martin (Tours, France)",
@@ -1531,7 +1531,7 @@
     },
     "StJosaphat_162": {
         "subject": "Saint Josaphat, évêque et martyr",
-        "places": "N/D",
+        "places": "Volodymyr (Ukraine); Vilnius (Lituanie); Polack (Biélorussie); Vicebsk (Biélorussie); Rome (Italie)",
         "place_of_death": "Vicebsk, Biélorussie",
         "place_of_birth": "Volodymyr-Volynskyï, Ukraine",
         "place_of_burial": "Basilique Saint-Pierre au Vatican",
@@ -1561,7 +1561,7 @@
     },
     "StGertrudeGreat_165": {
         "subject": "Sainte Gertrude, vierge",
-        "places": "N/D",
+        "places": "Eisleben (Allemagne); Helfta (Allemagne)",
         "place_of_death": "Kloster Helfta (Eisleben, Allemagne)",
         "place_of_birth": "Eisleben (Allemagne)",
         "place_of_burial": "Les seules reliques existantes, ayant échappé à la destruction de son tombeau pendant la Réforme luthérienne, sont conservées à Santa Maria di Licodia, à l'intérieur du simulacre conservé dans l'église mère.",
