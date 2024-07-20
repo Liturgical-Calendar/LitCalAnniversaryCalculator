@@ -1341,7 +1341,7 @@
     },
     "OurLadyRosary_141": {
         "subject": "Beata María Virgen del Rosario",
-        "places": "N/D",
+        "places": "Pompeya (Italia)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
@@ -1373,7 +1373,7 @@
         "subject": "San Calixto I, papa y mártir",
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
-        "place_of_birth": "N/D",
+        "place_of_birth": "Roma (Italia)",
         "place_of_burial": "Cementerio de Calepodio, Via Aurelia, Roma",
         "notes": "Calixto, un ex esclavo, fue papa del 218 al 222. Ligó su nombre al primer cementerio oficial de la Iglesia de Roma, en la vía Apia. Sufrió por conflictos internos en la comunidad cristiana y sufrió el martirio en Roma, en el lugar donde se erige la iglesia que lleva su nombre. Su sepultura en el cementerio de Calepodio, en la vía Aurelia, se recuerda el 14 de octubre en la Depositio martyrum (336).",
         "patronage": "",
@@ -1434,7 +1434,7 @@
         "places": "Midland (Canadá)",
         "place_of_death": "Midland (Canadá)",
         "place_of_birth": "Condé-sur-Vire (Francia)",
-        "place_of_burial": "N/D",
+        "place_of_burial": "Iglesia de San José de la misión jesuita de Sainte-Marie entre los Hurones (Midland, Ontario)",
         "notes": "Juan (Condé-sur-Vire, Francia, 15 de marzo de 1594 - Midland, Canadá, 16 de marzo de 1649), misionero jesuita entre los Hurones, en la actual Canadá, fue asesinado en un asalto a la misión por parte de otras tribus enemigas. Pocos meses después lo siguió en el martirio su compañero en la misión Isaac Jogues (Orléans, Francia, 10 de enero de 1607 - Auriesville, EE.UU., 18 de octubre de 1649); con ellos se recuerdan otros seis mártires jesuitas. Compartieron con mansedumbre evangélica la vida de esas poblaciones, hasta el don total de sí mismos.",
         "patronage": "",
         "main_shrine": "Santuario de los Mártires, Midland, Ontario, Canadá; Santuario de Nuestra Señora de los Mártires, Auriesville"
@@ -1474,7 +1474,7 @@
         "places": "Roma (Italia); Lanciano (Italia)",
         "place_of_death": "Persia",
         "place_of_birth": "Simón: presumiblemente Caná; Judas Tadeo quizás Banias",
-        "place_of_burial": "N/D",
+        "place_of_burial": "Altar de San José en la Basílica de San Pedro (Roma, Italia)",
         "notes": "Simón es llamado «el zelote» (Lc 6, 15; Hch 1, 13) o, en arameo, «el cananeo» (Mt 10, 4; Mc 3, 18) por su probable pertenencia al grupo de los zelotes, caracterizados por un nacionalismo militante dentro del judaísmo. Simón forma parte del grupo de los Doce, al igual que Judas hijo de Santiago (Lc 6, 16; Hch 1, 13; llamado Tadeo en Mt 10, 3 y Mc 3, 18) quien le pregunta a Jesús: «Señor, ¿cómo es que te manifestarás a nosotros, y no al mundo?». Jesús le responde que quienquiera que acoja su palabra se convierte, él mismo, en morada de Dios (cf. Jn 14, 22-23). La fiesta común de estos dos apóstoles se recuerda el 28 de octubre en el Martirologio jeronimiano (siglos V-VI).",
         "patronage": "",
         "main_shrine": "Basílica de San Pedro en el Vaticano; Convento de San Agustín en Lanciano (Italia)"
@@ -1501,7 +1501,7 @@
     },
     "DedicationLateran_159": {
         "subject": "Dedicación de la Basílica de Letrán",
-        "places": "N/D",
+        "places": "Roma (Italia)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
@@ -1521,7 +1521,7 @@
     },
     "StMartinTours_161": {
         "subject": "San Martín de Tours, obispo",
-        "places": "N/D",
+        "places": "Sabaria (actual Szombathely, Hungría); Tours (Francia); Candes-Saint-Martin (Francia)",
         "place_of_death": "Candes-Saint-Martin (Francia)",
         "place_of_birth": "Sabaria (actual Szombathely), Hungría",
         "place_of_burial": "Basílica de San Martín (Tours, Francia)",
@@ -1531,7 +1531,7 @@
     },
     "StJosaphat_162": {
         "subject": "San Josafat, obispo y mártir",
-        "places": "N/D",
+        "places": "Volodymyr (Ucrania); Vilna (Lituania); Polack (Bielorrusia); Vítebsk (Bielorrusia); Roma (Italia)",
         "place_of_death": "Vicebsk, Bielorrusia",
         "place_of_birth": "Volodymyr-Volyn'kyj, Ucrania",
         "place_of_burial": "Basílica de San Pedro en el Vaticano",
@@ -1561,7 +1561,7 @@
     },
     "StGertrudeGreat_165": {
         "subject": "Santa Gertrudis, virgen",
-        "places": "N/D",
+        "places": "Eisleben (Alemania); Helfta (Alemania)",
         "place_of_death": "Monasterio de Helfta (Eisleben, Alemania)",
         "place_of_birth": "Eisleben (Alemania)",
         "place_of_burial": "Las únicas reliquias existentes, ya que escaparon a la destrucción de su sepulcro durante la Reforma Luterana, se conservan en Santa Maria di Licodia, dentro del simulacro conservado en la Chiesa Madre.",
