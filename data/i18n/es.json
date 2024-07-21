@@ -13,11 +13,11 @@
         "subject": "San Raimundo de Peñafort, sacerdote",
         "places": "Barcelona (España)",
         "place_of_death": "Barcelona (España)",
-        "place_of_birth": "Santa Margarida i els Monjos, España",
-        "place_of_burial": "Catedral de la Santa Cruz y Santa Eulalia, Barcelona",
+        "place_of_birth": "Santa Margarida i els Monjos (España)",
+        "place_of_burial": "Catedral de la Santa Cruz y Santa Eulalia (Barcelona, España)",
         "notes": "La memoria litúrgica es al día siguiente 7 de enero",
         "patronage": "de los abogados y de las Facultades jurídicas de todas las Universidades estatales",
-        "main_shrine": "Catedral de la Santa Cruz y Santa Eulalia, Barcelona"
+        "main_shrine": "Catedral de la Santa Cruz y Santa Eulalia (Barcelona, España)"
     },
     "StHilaryPoitiers_3": {
         "subject": "San Hilario de Poitiers, obispo y doctor",
@@ -31,9 +31,9 @@
     },
     "StAnthonyEgypt_4": {
         "subject": "San Antonio de Egipto, abad",
-        "places": "Egipto, Francia",
-        "place_of_death": "Monte Colzim, Egipto",
-        "place_of_birth": "Coma, actual Qiman el-Arus, Egipto",
+        "places": "Egipto; Francia",
+        "place_of_death": "Monte Colzim (Egipto)",
+        "place_of_birth": "Coma (actual Qiman el-Arus, Egipto)",
         "place_of_burial": "Saint Antoine l'Abbaye (Francia)",
         "notes": "Antonio (Coma, actual Qiman el-Arus, Egipto, 251 aprox.-356) es considerado el padre del monaquismo. Siguiendo las exhortaciones evangélicas – «Si quieres ser perfecto, ve, vende lo que posees, dalo a los pobres y tendrás un tesoro en el cielo» (Mt 19, 21) –, se fue al desierto. Allí luchó contra Satanás, fue taumaturgo y guía autoritaria para sus discípulos y para muchas otras personas que acudían a él. Atanasio, patriarca de Alejandría, contando la historia de Antonio, pocos años después de su muerte, dio gran resonancia a su modelo de vida. También los coptos, sirios y bizantinos recuerdan su dies natalis el 17 de enero.\nEtapa en el camino hacia Santiago de Compostela, el pueblo de Saint-Antoine-l'Abbaye, incluido en la lista de los pueblos más bellos de Francia, deleitará a los amantes del patrimonio arquitectónico con antiguas casas de entramado de madera, una estructura medieval para el mercado cubierto y la abadía fundada en 1297 por la orden de San Antonio para acoger las reliquias de San Antonio Abad, también conocido como San Antonio de Egipto. De su rico pasado religioso, Saint-Antoine-l'Abbaye aún conserva un edificio realmente notable: la iglesia abacial de San Antonio, construida entre los siglos XIII y XV. Clasificada como monumento histórico, esta construcción de estilo gótico presenta un magnífico portal esculpido. En su interior, peregrinos y visitantes podrán admirar pinturas murales, sillería de nogal, tapices de Aubusson, el altar mayor monumental que guarda el relicario de San Antonio Abad, y un órgano del período entre los siglos XVII y XVIII. Además, no se puede perder el tesoro de la orden hospitalaria de los canónigos de San Antonio Abad, en la sacristía de la iglesia, que consiste en relicarios, ornamentos, instrumentos quirúrgicos y un Cristo de marfil. El Museo departamental de Saint-Antoine-l'Abbaye, que se encuentra en el antiguo noviciado, propone exposiciones sobre la Edad Media, la abadía y la orden hospitalaria de los canónigos de San Antonio Abad. La visita se cierra con el jardín medieval en el patio de las Grandes Caballerizas.",
         "patronage": "de los animales, especialmente domésticos; del ganado, y de los carniceros",
@@ -57,7 +57,7 @@
         "place_of_burial": "Catacumbas de San Sebastián (Roma)",
         "notes": "Sebastián, estimando la fidelidad a Cristo por encima de cualquier honor militar, aceptó ser dado de baja del ejército y sufrió la muerte durante la persecución de Diocleciano (303-305). Fue sepultado en las catacumbas romanas que llevan su nombre. La Depositio martyrum (336) lo recuerda el 20 de enero.",
         "patronage": "",
-        "main_shrine": "Basílica de San Sebastián, Roma"
+        "main_shrine": "Basílica de San Sebastián (Roma, Italia)"
     },
     "StAgnes_7": {
         "subject": "Santa Inés, virgen y mártir",
@@ -72,8 +72,8 @@
     "StVincentDeacon_8": {
         "subject": "San Vicente, diácono y mártir",
         "places": "Valencia (España), Lisboa (Portugal), Acate (Ragusa, Italia)",
-        "place_of_death": "Valencia, España",
-        "place_of_birth": "Huesca / Valencia / Zaragoza",
+        "place_of_death": "Valencia (España)",
+        "place_of_birth": "Huesca / Valencia / Zaragoza (España)",
         "place_of_burial": "Catedral de Valencia (España) / Catedral de Lisboa (Portugal) / Acate (Ragusa, Italia; tradición popular)",
         "notes": "Vincenzo († Valencia, España, 22 de enero de 304), diácono de la Iglesia de Zaragoza, arrestado durante la persecución de Diocleciano, murió en prisión a consecuencia de las torturas sufridas. Ofreció su vida a Cristo junto con el obispo Valerio, con quien tantas veces había ofrecido el sacrificio del altar. Es recordado el 22 de enero en el Martirologio Jeronimiano (siglos V-VI). Con la llegada del emperador Constantino, que se había convertido al cristianismo, en Valencia se erigió una basílica en honor a San Vicente y bajo el altar principal se colocaron sus reliquias. Sin embargo, tras la invasión de los moros, los cristianos de Valencia robaron el cuerpo del mártir para ponerlo a salvo en Portugal, en una pequeña iglesia construida especialmente en el promontorio hoy llamado Cabo San Vicente. Terminada la guerra contra los moros, los restos fueron embarcados en un barco que se dirigió a Lisboa. Una leyenda devocional cuenta que durante el viaje algunos cuervos se posaron en la proa y en la popa de dicho barco, casi como queriendo significar su renovada protección al santo mártir que ya un día habían salvado de las fieras. Al llegar a la ciudad, el cuerpo fue depositado en la iglesia de Santa Justa y Santa Rufina y después de algún tiempo, el 15 de septiembre de 1173, trasladado solemnemente a la catedral. En recuerdo se acuñaron monedas. https://it.wikipedia.org/wiki/Monastero_di_S%C3%A3o_Vicente_de_Fora",
         "patronage": "",
@@ -217,7 +217,7 @@
         "place_of_burial": "Basílica de San Clemente, Roma",
         "notes": "Los hermanos Cirilo (Constantino) y Metodio (Miguel), nacidos en Tesalónica (actual Salónica, Grecia) a principios del siglo IX, evangelizaron a los pueblos de Panonia y Moravia. Inventando el alfabeto glagolítico para escribir en lengua eslava, tradujeron la Sagrada Escritura y los textos de la liturgia para los nuevos pueblos a los que fueron enviados. A pesar de las oposiciones levantadas por algunos obispos de área germánica, su misión fue aprobada por el papa Adriano II. Cirilo murió en Roma el 14 de febrero de 869. Metodio, elegido arzobispo de Sirmio (actual Sremska Mitrovica, Serbia) y legado papal ante los eslavos, murió en Moravia (en la actual República Checa) el 6 de abril de 885. El anuncio del Evangelio a nuevos pueblos respetando su cultura, llevado a cabo por estos santos, «sigue siendo un modelo vivo para la Iglesia y para los misioneros de todos los tiempos» (Juan Pablo II, Slavorum apostoli, 7).",
         "patronage": "",
-        "main_shrine": "Basílica de San Clemente, Roma"
+        "main_shrine": "Basílica de San Clemente (Roma, Italia)"
     },
     "SevenHolyFounders_24": {
         "subject": "Santos Siete Fundadores de los Siervos de la Beata María Virgen",
@@ -242,12 +242,12 @@
     "StPolycarp_27": {
         "subject": "San Policarpo, obispo y mártir",
         "places": "Esmirna (Turquía)",
-        "place_of_death": "Esmirna, Turquía",
-        "place_of_birth": "Esmirna, Turquía",
+        "place_of_death": "Esmirna (Turquía)",
+        "place_of_birth": "Esmirna (Turquía)",
         "place_of_burial": "San Ambrosio de la Máxima (Roma)",
         "notes": "Policarpo († 23 de febrero de 167), discípulo del apóstol Juan, fue obispo de Esmirna (Turquía), donde acogió a san Ignacio en su viaje hacia Roma, ciudad en la que sufriría el martirio. Después de un largo episcopado, en edad muy avanzada, Policarpo fue condenado a la hoguera por su fe. Era el día del Señor: mientras el fuego lo consumía, el obispo se unía, rezando, a la liturgia eucarística tantas veces celebrada con su Iglesia. El relato de su pasión es el documento más antiguo sobre el culto a los mártires.",
         "patronage": "",
-        "main_shrine": "Iglesia de San Policarpo, Esmirna, Turquía"
+        "main_shrine": "Iglesia de San Policarpo (Esmirna, Turquía)"
     },
     "StCasimir_28": {
         "subject": "San Casimiro",
@@ -353,7 +353,7 @@
         "subject": "San Vicente Ferrer, sacerdote",
         "places": "Valencia (España); Vannes (Francia)",
         "place_of_death": "Vannes (Francia)",
-        "place_of_birth": "Valencia, España",
+        "place_of_birth": "Valencia (España)",
         "place_of_burial": "Catedral de San Pedro en Vannes (Francia)",
         "notes": "Vicente (Valencia, España, 1350 - Vannes (Francia), 5 de abril de 1419), dominico, después de ser curado de una grave enfermedad, se dedicó con fervor a la predicación del Evangelio. En una Iglesia desorientada por la contraposición interna al papado, entre Roma y Aviñón, sus insistentes llamados a la conversión atrajeron a las multitudes, especialmente en España, Francia e Italia septentrional.",
         "patronage": "",
@@ -367,7 +367,7 @@
         "place_of_burial": "Iglesia de Saint-Sever (Ruan, Francia; luego en 1734 a la capilla de Saint-Yon (Ruan, Francia); luego en 1835 a la Escuela Normal de Ruan (Francia); luego en 1937 sus reliquias fueron trasladadas a Roma (Italia)",
         "notes": "Juan Bautista (Reims, Francia, 30 de abril de 1651 - Saint Yon cerca de Rouen, 7 de abril de 1719), después de cuidar, a la muerte de sus padres, de sus numerosos hermanos, ordenado presbítero se dedicó a la juventud desfavorecida, abriendo escuelas para pobres y redactando textos para la formación de maestros. Fundó la Congregación de los Hermanos de las Escuelas Cristianas, dedicada a la educación popular.",
         "patronage": "",
-        "main_shrine": "Iglesia y Santuario de San Juan Bautista de La Salle, Casa generalicia Hermanos de las Escuelas Cristianas, Roma"
+        "main_shrine": "Iglesia y Santuario de San Juan Bautista de La Salle, Casa Generalicia Hermanos de las Escuelas Cristianas (Roma, Italia)"
     },
     "StStanislaus_41": {
         "subject": "San Estanislao, obispo y mártir",
@@ -387,7 +387,7 @@
         "place_of_burial": "Martín fue sepultado en Cherson en la basílica de Santa María ad Blachernas, convirtiéndose en objeto de culto por los muchos milagros debidos a su intercesión. Posteriormente, el cuerpo fue trasladado a Roma y sepultado quizás en la iglesia de San Martín ai Monti.",
         "notes": "Martín (Todi, Perugia, finales del siglo VI - Cherson, actual Akherson, Ucrania, 16 de septiembre de 655) fue elegido papa (649) durante las últimas controversias cristológicas. Habiendo defendido con firmeza la fe en las dos voluntades de Cristo, la divina y la humana, suscitó la reacción del emperador de Bizancio Constante II, quien lo condenó al exilio en Crimea, donde murió.",
         "patronage": "",
-        "main_shrine": "Iglesia de San Martín ai Monti, Roma"
+        "main_shrine": "Iglesia de San Martín ai Monti (Roma, Italia)"
     },
     "StAnselm_43": {
         "subject": "San Anselmo de Canterbury, obispo y doctor de la Iglesia",
@@ -421,8 +421,8 @@
     },
     "StMarkEvangelist_46": {
         "subject": "San Marcos Evangelista",
-        "places": "Venecia, Alejandría, El Cairo, Roma",
-        "place_of_death": "Alejandría, Egipto",
+        "places": "Venecia (Italia); Alejandría (Egipto); El Cairo (Egipto); Roma (Italia)",
+        "place_of_death": "Alejandría (Egipto)",
         "place_of_birth": "Palestina o Chipre",
         "place_of_burial": "Inicialmente sus restos fueron venerados en una iglesia de Alejandría construida en el lugar del mausoleo más antiguo de Alejandro Magno. En el siglo VII sus restos fueron llevados a Venecia. La catedral de San Marcos en El Cairo conserva algunas reliquias transportadas desde la Basílica de San Marcos en Venecia.",
         "notes": "Juan, llamado Marcos, es hijo de María de Jerusalén, en cuya casa se reúne la comunidad cristiana y donde Pedro encuentra refugio después de ser liberado de la cárcel (cf. Hch 12, 12). Primo de Bernabé, colabora con Pablo en el primer viaje misionero, hasta Panfilia, donde se separa de él (cf. Hch 12, 25; 15, 37-38). Discípulo predilecto de Pedro – que lo llama «mi hijo» (1 Pe 5, 13) –, aparece de nuevo al lado de Pablo en Roma (cf. Flm 24; Col 4, 10). A Marcos la tradición le ha atribuido el Evangelio que lleva su nombre y que refleja la predicación del apóstol Pedro. En él, se presenta a Jesús como el «Cristo, Hijo de Dios» (Mc 1, 1) y se proclama que el Crucificado ha resucitado (cf. Mc 16, 6). Su fiesta se celebra el 25 de abril también por los coptos y los bizantinos.",
@@ -447,7 +447,7 @@
         "place_of_burial": "Roma (Italia)",
         "notes": "Catalina (Siena, 1347 - Roma, 29 de abril de 1380) se dedicó, muy joven, a la oración y la penitencia en su propia casa; posteriormente fue admitida entre las «mantellate» de la Tercera Orden Dominicana. Desarrolló una intensa acción pública, tanto como operadora de paz en una sociedad desgarrada por disputas, como defensora franca y apasionada de la reforma de la Iglesia. Favoreció el regreso del papa de Aviñón y trabajó para superar el gran cisma que surgió, poco después, en la sede romana y en todo Occidente. Compuso escritos densos en contenido teológico y con un lenguaje incisivo, entre los cuales se encuentra el Diálogo de la Divina Providencia. Fue proclamada patrona de Italia en 1939 y de Europa en 1999.",
         "patronage": "",
-        "main_shrine": "Basílica de Santa María sopra Minerva, Roma"
+        "main_shrine": "Basílica de Santa María sopra Minerva (Roma, Italia)"
     },
     "StPiusV_49": {
         "subject": "San Pío V, papa",
@@ -457,24 +457,24 @@
         "place_of_burial": "Basílica de Santa María la Mayor, Roma",
         "notes": "Miguel (en el siglo Antonio) Ghislieri (Bosco Marengo, Alessandria, 17 de enero de 1504 - Roma, 1 de mayo de 1572), dominico, fue papa desde 1566. Implementó la primera aplicación del Concilio de Trento, comenzando por la curia romana y la Urbe. Publicó el Catecismo (1566), se encargó de la reforma del Breviario (1568) y del Misal (1570). Promovió la difusión de la fe en Europa y Oriente, y la defendió contra la expansión otomana (Lepanto, 7 de octubre de 1571).",
         "patronage": "",
-        "main_shrine": "Basílica de Santa María la Mayor, Roma"
+        "main_shrine": "Basílica de Santa María la Mayor (Roma, Italia)"
     },
     "StAthanasius_51": {
         "subject": "San Atanasio, obispo y doctor",
         "places": "Alejandría de Egipto",
-        "place_of_death": "Alejandría, Egipto",
-        "place_of_birth": "Alejandría, Egipto",
-        "place_of_burial": "Catedral copta de San Marcos, Alejandría, Egipto",
+        "place_of_death": "Alejandría (Egipto)",
+        "place_of_birth": "Basílica de Santa María la Mayor (Roma, Italia)",
+        "place_of_burial": "Catedral copta de San Marcos (Alejandría, Egipto)",
         "notes": "Atanasio (300 ca. - 373), obispo de Alejandría de Egipto, fue tenaz defensor de la plena divinidad del Hijo, proclamada por el Concilio de Nicea (325) pero largamente disputada por los seguidores de Arrio, a menudo apoyados por la corte imperial: por esto sufrió largos periodos de exilio. La Vida de san Antonio, compuesta por él, favoreció la difusión del ideal monástico en Occidente.",
         "patronage": "",
-        "main_shrine": "Catedral copta de San Marcos, Alejandría, Egipto"
+        "main_shrine": "Catedral copta de San Marcos (Alejandría, Egipto)"
     },
     "StsPhilipJames_52": {
         "subject": "Santos Felipe y Santiago, apóstoles",
-        "places": "Roma; Jerusalén; Hierápolis (actual Pammukale), Turquía",
-        "place_of_death": "Hierápolis (actual Pammukale), Turquía; y Jerusalén",
+        "places": "Roma; Jerusalén; Hierápolis (actual Pammukale, Turquía)",
+        "place_of_death": "Hierápolis (actual Pammukale, Turquía); y Jerusalén",
         "place_of_birth": "Betsaida (Israel)",
-        "place_of_burial": "Hierápolis (actual Pammukale), Turquía; y Jerusalén",
+        "place_of_burial": "Hierápolis (actual Pammukale, Turquía); y Jerusalén",
         "notes": "Felipe, originario de Betsaida, es llamado por Jesús a seguirlo; a su vez él invita a Natanael a venir y ver al Mesías (cf. Jn 1, 43-46); está presente, con Andrés, en la multiplicación de los panes (cf. Jn 6, 1-15) y cuando algunos griegos, que subieron para la Pascua a Jerusalén, piden ver a Jesús (cf. Jn 12, 20-36). Durante la última Cena es él quien pregunta: «Señor, muéstranos al Padre y nos basta» (Jn 14, 8). Santiago, hijo de Alfeo, es uno de los doce apóstoles (cf. Mc 3, 18; Lc 6, 15). San Pablo le atribuye una aparición específica del Resucitado (cf. 1 Cor 15, 7). Gozó de particular honor y autoridad en las primeras comunidades cristianas (cf. Hch 15, 13-21; 21, 18; Gal 2, 9). Los dos apóstoles son recordados en una única fiesta porque, según una tradición, sus reliquias fueron colocadas bajo el altar de la basílica de los Doce Apóstoles en Roma el día de su dedicación (1 de mayo de 565 ca.).",
         "patronage": "",
         "main_shrine": "Basílica de los Santos Apóstoles, Roma (Italia); Iglesia armenia de San Jacobo, Jerusalén"
@@ -497,7 +497,7 @@
         "place_of_burial": "Cementerio de Ottavilla, Roma",
         "notes": "Pancracio (siglo III o IV), mártir romano, fue sepultado en el cementerio de Ottavilla, en la vía Aurelia, como atestigua la tradición de culto, confirmada por el papa Símaco (498-514) con la erección en ese lugar de una basílica en su honor. El relato más antiguo del martirio describe a Pancracio como muy joven, apenas catorce años. Es recordado el 12 de mayo en el Martirologio Jeronimiano (siglos V-VI).",
         "patronage": "",
-        "main_shrine": "Basílica de San Pancracio, Roma"
+        "main_shrine": "Basílica de San Pancracio (Roma, Italia)"
     },
     "StMatthiasAp_55": {
         "subject": "San Matías, apóstol",
@@ -567,7 +567,7 @@
         "place_of_burial": "Chiesa Nuova, Roma",
         "notes": "Felipe (Florencia, 21 de julio de 1515 - Roma, 26 de mayo de 1595), llegado a Roma a una edad temprana, se dedicó a la asistencia de los enfermos incurables y de los peregrinos pobres. Ordenado presbítero, fue asiduo al confesionario y celebró la Eucaristía con intensa devoción, hasta el transporte místico. De los encuentros periódicos con un grupo de sus penitentes – que él entretenía, con estilo alegre, en diálogos espirituales y en actividades recreativas, culturales y caritativas – nacieron la experiencia del «Oratorio» y la Congregación de sacerdotes que lleva el mismo nombre, reconocida por Gregorio XIII el 15 de julio de 1575.",
         "patronage": "",
-        "main_shrine": "Chiesa Nuova, Roma"
+        "main_shrine": "Chiesa Nuova (Roma, Italia)"
     },
     "StAugustineCanterbury_62": {
         "subject": "San Agustín de Canterbury, obispo",
@@ -632,10 +632,10 @@
     "StEphrem_69": {
         "subject": "San Efrén, diácono y doctor",
         "places": "Nísibis (actual Nusaybin, Turquía); Edesa (actual Şanlıurfa, Turquía)",
-        "place_of_death": "Edesa (actual Şanliurfa), Turquía",
-        "place_of_birth": "Nísibis (actual Nusaybin), Turquía",
+        "place_of_death": "Edesa (actual Şanliurfa, Turquía)",
+        "place_of_birth": "Nisibi (actual Nusaybin, Turquía)",
         "place_of_burial": "Edesa (actual Şanlıurfa, Turquía)",
-        "notes": "Efrén (Nísibis, actual Nusaybin, Turquía, 306 aprox. - Edesa, actual Şanliurfa, 9 de junio de 373) contribuyó a la fundación de una escuela teológica, primero en su tierra natal, luego en Edesa, donde se trasladó después del paso de Nísibis bajo el dominio persa. Compuso himnos litúrgicos ricos en imágenes y ritmos que lo hicieron famoso en todo el Oriente cristiano. Ejerció ejemplarmente el ministerio diaconal en la enseñanza, en la animación litúrgica y en la asistencia a los necesitados.",
+        "notes": "Efrén (Nisibi, actual Nusaybin, Turquía, 306 aprox. - Edesa, actual Şanliurfa, 9 de junio de 373) contribuyó a la fundación de una escuela teológica, primero en su tierra natal, luego en Edesa, donde se trasladó después del paso de Nisibi bajo el dominio persa. Compuso himnos litúrgicos ricos en imágenes y ritmos que lo hicieron famoso en todo el Oriente cristiano. Ejerció ejemplarmente el ministerio diaconal en la enseñanza, en la animación litúrgica y en la asistencia a los necesitados.",
         "patronage": "",
         "main_shrine": "N/D"
     },
@@ -677,7 +677,7 @@
         "place_of_burial": "Iglesia de San Ignacio de Loyola, Roma; el cráneo se conserva en la basílica dedicada a él en Castiglione delle Stiviere",
         "notes": "Luis (Castiglione delle Stiviere, Mantova, 9 de marzo de 1568 - Roma, 21 de junio de 1591), primogénito heredero del marquesado gonzaguesco de su ciudad natal, desafiando la firme oposición paterna renunció a la vida y a la carrera de la corte y entró en la Compañía de Jesús donde, dotado de viva inteligencia y fuerte voluntad, pudo beneficiarse de la guía espiritual de san Roberto Belarmino. La generosa dedicación a los pobres y a los enfermos comprometió su delicada constitución física y lo condujo en pocos años a la muerte.",
         "patronage": "",
-        "main_shrine": "Iglesia de San Ignacio de Loyola, Roma"
+        "main_shrine": "Iglesia de San Ignacio de Loyola (Roma, Italia)"
     },
     "StPaulinusNola_74": {
         "subject": "San Paulino de Nola, obispo",
@@ -707,13 +707,13 @@
         "place_of_burial": "Sebaste (Palestina)",
         "notes": "Juan Bautista es el único santo, además de la Madre del Señor, de quien la Iglesia celebra tanto el nacimiento al cielo como el nacimiento según la carne. Profeta desde el vientre materno (cf. Lc 1, 41), Juan testimonia al Cordero de Dios venido al mundo (cf. Jn 1, 29-34). «Amigo del Esposo» (Jn 3, 29), se regocija al preparar los caminos para el más fuerte que él mediante la palabra, el bautismo de conversión y el don de su propia vida (cf. Lc 1, 76; Mc 1, 7-8; 6, 17-29). Así comenta Agustín la fecha de la fiesta de hoy: «El Verbo nació el 25 de diciembre, cuando los días comienzan a alargarse, mientras que la Voz nació antes que el Verbo, pero cuando los días comienzan a acortarse: “Él debe crecer, yo en cambio debo disminuir” (Jn 3, 30)».",
         "patronage": "",
-        "main_shrine": "Basílica de los Santos Juan Bautista y Evangelista, Roma"
+        "main_shrine": "Basílica de los Santos Juan Bautista y Evangelista (Roma, Italia)"
     },
     "StCyrilAlexandria_77": {
         "subject": "San Cirilo de Alejandría, obispo y doctor",
         "places": "Teodosia (actual el-Mahalla el-Kubra, Egipto); Alejandría (Egipto)",
-        "place_of_death": "Alejandría, Egipto",
-        "place_of_birth": "Teodosia (actual el-Mahalla el-Kubra), Egipto",
+        "place_of_death": "Basílica de Santa María la Mayor (Roma, Italia)",
+        "place_of_birth": "Teodosia (actual el-Mahalla el-Kubra, Egipto)",
         "place_of_burial": "N/D",
         "notes": "Cirilo, obispo de Alejandría de Egipto desde 412 hasta 444, defendió enérgicamente la pureza de la fe en Cristo. Autor de numerosos escritos teológicos, sostuvo con firmeza el reconocimiento de María como Madre de Dios, especialmente en el Concilio de Éfeso (431). Su memoria es celebrada en este día también por los coptos y los bizantinos.",
         "patronage": "",
@@ -763,8 +763,8 @@
         "subject": "Santa Isabel de Portugal",
         "places": "Coímbra (Portugal)",
         "place_of_death": "Estremoz (Portugal)",
-        "place_of_birth": "Aragón, España",
-        "place_of_burial": "Monasterio de Santa Clara-a-Nova, Coímbra (Portugal)",
+        "place_of_birth": "Aragón (España)",
+        "place_of_burial": "Monasterio de Santa Clara-a-Nova (Coímbra, Portugal)",
         "notes": "Isabel (España, 1269/1270 - Estremoz, Portugal, 4 de julio de 1336), hija de Pedro, futuro rey de Aragón, fue dada en matrimonio, a los doce años, a Dionisio rey de Portugal. Sostuvo valientemente la difícil convivencia matrimonial, convirtiéndose en operadora de reconciliación en los graves conflictos que perturbaron a la familia y al reino. Quedando viuda, se hizo terciaria franciscana, dedicándose totalmente a la oración y a la caridad hacia los pobres.",
         "patronage": "",
         "main_shrine": "Monasterio de Santa Clara-a-Nova (Coímbra, Portugal)"
@@ -841,10 +841,10 @@
     },
     "StLawrenceBrindisi_90": {
         "subject": "San Lorenzo de Brindisi, sacerdote y doctor",
-        "places": "Iglesia de Santa María de los Ángeles, Brindisi (Italia); Lisboa (Portugal); Villafranca del Bierzo, España",
+        "places": "Iglesia de Santa María de los Ángeles (Brindisi, Italia); Lisboa (Portugal); Villafranca del Bierzo (España)",
         "place_of_death": "Lisboa (Portugal)",
         "place_of_birth": "Brindisi (Italia)",
-        "place_of_burial": "Convento de la Anunciada, Villafranca del Bierzo, España",
+        "place_of_burial": "Convento de la Anunciada (Villafranca del Bierzo, España)",
         "notes": "Lorenzo (Brindisi, 22 de julio de 1559 - Lisboa, Portugal, 22 de julio de 1619), religioso capuchino, brilló por su conocimiento de las lenguas y de la Sagrada Escritura. Comprometido en una vasta actividad de predicación en toda Europa, a menudo encargado de misiones diplomáticas en nombre de la Santa Sede, cultivó una ferviente vida espiritual, especialmente en la celebración devota y prolongada de la Eucaristía. La iglesia de Santa María de los Ángeles en Brindisi fue construida por el santo Lorenzo de Brindisi en terrenos de su propiedad.",
         "patronage": "",
         "main_shrine": "Monasterio de la Anunciación en Villafranca del Bierzo (España)"
@@ -901,13 +901,13 @@
     },
     "StIgnatiusLoyola_97": {
         "subject": "San Ignacio de Loyola, sacerdote",
-        "places": "Loyola, España; Roma (Italia)",
+        "places": "Loyola (España); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
-        "place_of_birth": "Loyola, España",
+        "place_of_birth": "Loyola (España)",
         "place_of_burial": "Iglesia del Gesù, Roma",
         "notes": "Iñigo López (Loyola, España, 1491 - Roma, 31 de julio de 1556), de noble familia vasca, fue herido en la defensa de la ciudad de Pamplona. Durante la convalecencia, la lectura de la vida de Cristo y de algunos santos marcó para él el inicio de la conversión. Un largo itinerario lo llevó a atravesar un período de discernimiento espiritual y una prolongada temporada de estudios filosóficos y teológicos, culminados en París. Allí se formó a su alrededor un grupo de compañeros, con los cuales se presentó al papa Pablo III. A él le expusieron su ideal: defensa y propagación de la fe y disponibilidad absoluta al Romano Pontífice respecto a cualquier misión que este quisiera encomendarles para la expansión misionera del Evangelio y la reforma de la Iglesia. La espiritualidad de la Compañía de Jesús tiene su eje en los Ejercicios espirituales, que compendian la experiencia interior de Ignacio. El papa Gregorio XV lo inscribió entre los santos en 1622.",
         "patronage": "",
-        "main_shrine": "Iglesia del Gesù, Roma"
+        "main_shrine": "Iglesia del Gesù (Roma, Italia)"
     },
     "StAlphonsusMariaDeLiguori_98": {
         "subject": "San Alfonso María de Ligorio, obispo y doctor",
@@ -983,8 +983,8 @@
         "subject": "San Domingo, sacerdote",
         "places": "Bolonia (Italia)",
         "place_of_death": "Bolonia (Italia)",
-        "place_of_birth": "Caleruega, España",
-        "place_of_burial": "Basílica de San Domingo, Bolonia",
+        "place_of_birth": "Caleruega (España)",
+        "place_of_burial": "Basílica de San Domingo (Bolonia, Italia)",
         "notes": "Domingo (Caleruega, España, 1170 aprox. - Bolonia, 6 de agosto de 1221) fue canónigo de la catedral de Osma (España). Al difundirse el movimiento herético de los Cátaros o Albigenses, en el sur de Francia, se dedicó con gran empeño a la defensa de la ortodoxia, llevando a cabo una predicación asidua en pobreza evangélica, arraigada en la íntima unión con Dios y sostenida por una intensa devoción mariana. Fundó en Toulouse la Orden de los Frailes Predicadores (Dominicos) aprobada por el papa Honorio III en 1216, para que, formados mediante una profunda vida espiritual y rigurosos estudios teológicos, renovaran la predicación apostólica, en beneficio de toda la Iglesia.",
         "patronage": "",
         "main_shrine": "Basílica de San Domingo, Bolonia"
@@ -993,7 +993,7 @@
         "subject": "San Lorenzo, diácono y mártir",
         "places": "Huesca (España); Roma (Italia)",
         "place_of_death": "Iglesia de San Lorenzo in Panisperna, Roma (Italia)",
-        "place_of_birth": "Valencia o Huesca, España",
+        "place_of_birth": "Valencia / Huesca (España)",
         "place_of_burial": "Basílica de San Lorenzo fuori le Mura, Roma (Italia)",
         "notes": "Lorenzo († Roma, 10 de agosto de 258), diácono de la Iglesia de Roma, tres días después del martirio del papa Sixto II confirmó en la efusión de sangre el servicio de caridad que había realizado en vida. Detalles conmovedores añadidos tardíamente al relato de su muerte (como la parrilla ardiente) atestiguan la devoción que rodeó a Lorenzo, principalmente en Roma, ciudad de la que se convirtió en copatrón, junto a los santos Pedro y Pablo. En el lugar de su sepultura, en el Verano, se edificó una basílica en su honor (siglo IV). Su memoria el 10 de agosto está atestiguada en la Depositio martyrum (336); su nombre es citado en el Canon Romano.",
         "patronage": "",
@@ -1123,7 +1123,7 @@
         "subject": "San José de Calasanz, sacerdote",
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
-        "place_of_birth": "Peralta de la Sal, España",
+        "place_of_birth": "Peralta de la Sal (España)",
         "place_of_burial": "Iglesia de San Pantaleo, Roma (Italia)",
         "notes": "José (Peralta de la Sal, España, 1557 - Roma, 25 de agosto de 1646), de noble familia, emprendió la carrera eclesiástica, trasladándose a Roma en busca de una conveniente colocación. Allí encontró muchas iniciativas de asistencia a los pobres y enfermos, y colaboró con san Camilo de Lelis. Preocupado por la situación de los niños pobres, sin una educación adecuada, abrió escuelas gratuitas para ellos y fundó la Congregación de los Clérigos Regulares Pobres de la Madre de Dios de las Escuelas Pías (Escolapios).",
         "patronage": "",
@@ -1157,7 +1157,7 @@
         "place_of_burial": "Sebaste, Palestina; el sagrado cráneo (sin la mandíbula) es venerado en la basílica de San Silvestro in Capite, en Roma, desde el siglo XII; la “sagrada mandíbula” se encuentra en Viterbo. Otros cráneos: uno expuesto en la catedral de Notre-Dame de Amiens, llevado desde Constantinopla en 1206 durante la cuarta cruzada; uno en la Gran Mezquita de Damasco. En 2012 se analizaron algunas reliquias encontradas en Bulgaria, cerca de Sozopol; los resultados de los análisis establecieron que datan del siglo I, y por las inscripciones del urna se cree que las reliquias pertenecieron a San Juan Bautista.",
         "notes": "Juan Bautista, después de señalar a sus discípulos el Cordero finalmente aparecido en el mundo (cf. Jn 1, 29.36), sella su testimonio con el martirio. La «voz» (Jn 1, 23) es silenciada por Herodes Antipas, quien lo hace encarcelar en la fortaleza de Macheronte y decapitar (cf. Mc 6, 17-29). «Fue encerrado en la oscuridad de la cárcel quien vino a dar testimonio de la luz (cf. Jn 1, 7) y que por la misma luz, que es Cristo, mereció ser llamado lámpara que arde y alumbra (cf. Jn 5, 35)» (Beda el Venerable). Antigua (siglo V) es la memoria litúrgica de su martirio.",
         "patronage": "",
-        "main_shrine": "Basílica de San Silvestro in Capite, Roma"
+        "main_shrine": "Basílica de San Silvestre in Capite (Roma, Italia)"
     },
     "StGregoryGreat_123": {
         "subject": "San Gregorio Magno, papa y doctor",
@@ -1167,7 +1167,7 @@
         "place_of_burial": "Basílica de San Pedro en el Vaticano",
         "notes": "Gregorio (Roma, mediados del siglo VI - 12 de marzo de 604), ya prefecto de la Urbe, fue monje y abad de San Andrés en el Celio, así como enviado papal a Constantinopla. Elegido pontífice (590), desarrolló una actividad multifacética tanto en el gobierno de la Iglesia como en la administración de la ciudad, en el dramático contexto de las invasiones de pueblos germánicos. Abrió nuevos caminos para la misión, por ejemplo en Anglia, y dedicó especial atención a la liturgia y al cuidado de los pobres. Con sus escritos de contenido pastoral, exegético y hagiográfico, sus cartas y homilías, fue uno de los grandes maestros de la Edad Media. La fecha de su memoria litúrgica corresponde al día de su elección al pontificado.",
         "patronage": "",
-        "main_shrine": "Basílica de San Pedro en el Vaticano; Iglesia de San Gregorio en el Celio, Roma"
+        "main_shrine": "Basílica de San Pedro en el Vaticano; Iglesia de San Gregorio en el Celio (Roma, Italia)"
     },
     "NativityVirginMary_124": {
         "subject": "Natividad de la Beata Virgen María",
@@ -1182,8 +1182,8 @@
     "StJohnChrysostom_125": {
         "subject": "San Juan Crisóstomo, obispo y doctor",
         "places": "Antakya (Turquía), Comana Póntica (Turquía), Estambul (Turquía)",
-        "place_of_death": "Comana Póntica, Turquía",
-        "place_of_birth": "Antioquía de Siria (actual Antakya), Turquía",
+        "place_of_death": "Comana Póntica (Turquía)",
+        "place_of_birth": "Antioquía de Siria (actual Antakya, Turquía)",
         "place_of_burial": "En 438, bajo el emperador Teodosio II, por iniciativa del arzobispo Proclo, sus restos fueron llevados solemnemente a Constantinopla y sepultados en la iglesia de los Santos Apóstoles. Trasladados a Roma, los restos de Juan Crisóstomo fueron colocados en la basílica vaticana, donde aún se conservan. Según una tradición, no confirmada por las fuentes, las reliquias de San Juan habrían llegado a Roma en la época de la cuarta cruzada, después del saqueo de Constantinopla en 1204.",
         "notes": "Juan (Antioquía de Siria, actual Antakya, Turquía, mediados del siglo IV - Comana Póntica, 14 de septiembre de 407) recibió una formación cultural meticulosa, con la perspectiva de suceder a su padre como funcionario imperial. Sin embargo, se retiró al desierto, sumergiéndose en el estudio de las Escrituras. Al regresar a la ciudad y ser ordenado presbítero, fascinó a las multitudes con su predicación, tanto que fue llamado \"Crisóstomo\" (\"boca de oro\"). Elegido obispo de Constantinopla, prestó especial atención a la liturgia: su anáfora eucarística es aún hoy la más difundida en Oriente. Predicó el Evangelio con franqueza y valentía, denunciando las faltas del clero y los abusos de los poderosos. Su celo le atrajo muchos enemigos: depuesto de su cargo episcopal y condenado al exilio, murió agotado por las fatigas soportadas durante el viaje.",
         "patronage": "",
@@ -1381,13 +1381,13 @@
     },
     "StTeresaJesus_145": {
         "subject": "Santa Teresa de Ávila, virgen y doctora",
-        "places": "Ávila, España; Alba de Tormes, España",
-        "place_of_death": "Alba de Tormes, España",
-        "place_of_birth": "Ávila, España",
-        "place_of_burial": "Basílica de Santa Teresa, Alba de Tormes, España",
+        "places": "Ávila (España); Alba de Tormes (España)",
+        "place_of_death": "Alba de Tormes (España)",
+        "place_of_birth": "Ávila (España)",
+        "place_of_burial": "Basílica de Santa Teresa (Alba de Tormes, España)",
         "notes": "Teresa (Ávila, España, 1515 - Alba de Tormes, 15 de octubre de 1582), ingresó en el Carmelo de Ávila y comenzó la reforma de la Orden, dando origen a los Carmelitas Descalzos. Su intensa actividad de fundaciones monásticas en toda España fue acompañada y sostenida por una profunda experiencia espiritual, hasta la unión mística con Cristo, testimoniada en sus escritos (entre ellos el autobiográfico Libro de la vida y el Camino de perfección) y sugerida como dimensión esencial para todo cristiano. Fue la primera mujer en ser proclamada doctora de la Iglesia (Pablo VI, 1970).",
         "patronage": "",
-        "main_shrine": "Basílica de Santa Teresa, Alba de Tormes, España"
+        "main_shrine": "Basílica de Santa Teresa (Alba de Tormes, España)"
     },
     "StHedwig_146": {
         "subject": "Santa Eduviges, religiosa",
@@ -1413,8 +1413,8 @@
         "subject": "San Ignacio de Antioquía, obispo y mártir",
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
-        "place_of_birth": "Antioquía de Siria (actual Antakya), Turquía",
-        "place_of_burial": "Basílica de San Clemente, Roma (Italia)",
+        "place_of_birth": "Antioquía de Siria (actual Antakya, Turquía)",
+        "place_of_burial": "Basílica de San Clemente (Roma, Italia)",
         "notes": "Ignacio, obispo de Antioquía de Siria (actual Antakya, Turquía), en tiempos del emperador Trajano (98-117) fue arrestado como cristiano y llevado a Roma para ser entregado a las fieras en el circo. En su viaje fue confortado por el encuentro con algunas Iglesias de Asia Menor, a las cuales dejó siete cartas que han llegado hasta nosotros, documento vivo de su doctrina y solicitud pastoral, testimonio de su deseo de seguir a Cristo hasta el martirio. Ante algunas divisiones, invitó insistentemente a las comunidades cristianas a mantener la concordia, obtenida en la única mesa eucarística, bajo la guía del obispo con su presbiterio. Su memoria se celebra el 17 de octubre en la tradición siríaca; su nombre fue incluido en el Canon Romano.",
         "patronage": "",
         "main_shrine": "Basílica de San Clemente, Roma (Italia)"
@@ -1423,7 +1423,7 @@
         "subject": "San Lucas Evangelista",
         "places": "Roma (Italia); Padua (Italia)",
         "place_of_death": "Tebas, Grecia",
-        "place_of_birth": "Antioquía de Siria (actual Antakya), Turquía",
+        "place_of_birth": "Catedral copta de San Marcos (Alejandría, Egipto)",
         "place_of_burial": "Basílica Santa Giustina, Padua (Italia)",
         "notes": "Lucas, autor del tercer Evangelio y de los Hechos de los Apóstoles, propone una visión teológica de la historia. Con la venida de Jesús, de quien Lucas subraya la misericordia, se cumple la espera del pueblo judío: Cristo es el Mesías esperado, gloria de Israel y luz de las naciones (cf. Lc 2, 32); la universalidad de la salvación y la predilección de Cristo por los pobres y los pecadores llevan a cumplimiento las Escrituras (cf. Lc 4, 16-21). En los Hechos, después de la Pascua en Jerusalén, Lucas narra Pentecostés y así el inicio del tiempo de la Iglesia: el Espíritu conduce a los testigos de Jesús «a Jerusalén, por toda Judea y Samaria y hasta los confines de la tierra» (Hch 1, 8). A partir del siglo III san Lucas ha sido considerado unánimemente «el querido médico» de Col 4, 14, compañero de Pablo y su colaborador hasta el final (cf. 2 Tm 4, 11; Flm 24).",
         "patronage": "",
@@ -1463,11 +1463,11 @@
         "subject": "San Antonio María Claret, obispo",
         "places": "Vic, España; Santiago de Cuba",
         "place_of_death": "Fontfroide (Francia)",
-        "place_of_birth": "Sallent, España",
-        "place_of_burial": "Casa madre de los claretianos en Vic, España",
+        "place_of_birth": "Sallent (España)",
+        "place_of_burial": "Casa madre de los claretianos en Vic (España)",
         "notes": "Antonio (Sallent, España, 23 de diciembre de 1807 - Fontfroide, Francia, 24 de octubre de 1870), después de algunos años de predicación itinerante, fundó la Congregación del Corazón Inmaculado de María, conocida como los Claretianos. Arzobispo de Santiago de Cuba (entonces española), renovó las instituciones eclesiásticas y llevó a cabo iniciativas de promoción social y cultural, en beneficio de los pobres y los esclavos, sufriendo calumnias y violencias. Llamado de vuelta a España para asumir el cargo de confesor de la reina, continuó su ministerio entre el pueblo con la predicación y los escritos.",
         "patronage": "",
-        "main_shrine": "Casa madre de los claretianos en Vic, España"
+        "main_shrine": "Casa madre de los claretianos en Vic (España)"
     },
     "StSimonStJudeAp_154": {
         "subject": "Santos Simón y Judas, apóstoles",
@@ -1587,7 +1587,7 @@
         "place_of_burial": "N/D",
         "notes": "Erigidas en los lugares del martirio de Pedro y Pablo – en la colina Vaticana y a lo largo de la vía Ostiense –, las dos basílicas evidencian la dignidad incomparable de la Iglesia de Roma, gracias al doble testimonio del primero y del último de los apóstoles (cf. Mt 10, 2; 1 Cor 15, 8). La fecha elegida para esta fiesta es la de la dedicación de la basílica de San Pedro tras la reconstrucción renacentista (18 de noviembre de 1636).",
         "patronage": "",
-        "main_shrine": "Basílicas de los Santos Pedro y Pablo, Roma"
+        "main_shrine": "Basílicas de los Santos Pedro y Pablo (Roma, Italia)"
     },
     "PresentationMary_168": {
         "subject": "Presentación de la Beata Virgen María",
@@ -1663,7 +1663,7 @@
         "subject": "San Nicolás, obispo",
         "places": "Bari; Venecia",
         "place_of_death": "Myra (actual Demre, Turquía)",
-        "place_of_birth": "Patara de Licia, Turquía",
+        "place_of_birth": "Patara de Licia (Turquía)",
         "place_of_burial": "N/D",
         "notes": "Nicolás (s. IV) fue obispo de Myra (actual Demre, Turquía). Desde Oriente, su culto se difundió también en Italia, después del robo de sus reliquias (1087) y su colocación en Bari, en la basílica que lleva su nombre, donde aún se conservan. En su nombre florecieron tradiciones populares e iniciativas de caridad relacionadas con la Navidad. La memoria de su muerte y sepultura se celebra el 6 de diciembre en los ritos bizantino y copto.",
         "patronage": "",
@@ -1685,7 +1685,7 @@
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "Desde los siglos VII-VIII en Oriente, nueve meses exactos antes de la fiesta de la Natividad (8 de septiembre), se celebraba una fiesta de la «concepción» de María. Celebrada luego en Occidente desde el s. XI, esta solemnidad se inserta en el contexto del Adviento-Navidad, uniendo la espera mesiánica y el retorno glorioso de Cristo con la admirada memoria de la Madre. En este sentido, este período litúrgico debe considerarse un tiempo particularmente adecuado para el culto de la Madre del Señor (cf. Pablo VI, Marialis cultus, 4). María es la Toda Santa, inmune de toda mancha de pecado, casi plasmada y hecha nueva criatura por el Espíritu Santo (cf. Lumen gentium, 56). Ya proféticamente insinuada en la promesa hecha a los progenitores de la victoria sobre la serpiente, María es la Virgen que concebirá y dará a luz un hijo cuyo nombre será Emmanuel. El dogma de la Inmaculada Concepción fue proclamado por Pío IX en 1854.",
+        "notes": "Desde los siglos VII-VIII en Oriente, nueve meses exactos antes de la fiesta de la Natividad (8 de septiembre), se celebraba una fiesta de la «concepción» de María. Celebrada luego en Occidente desde el siglo XI, esta solemnidad se inserta en el contexto del Adviento-Navidad, uniendo la espera mesiánica y el retorno glorioso de Cristo con la admirada memoria de la Madre. En este sentido, este período litúrgico debe ser considerado un tiempo particularmente adecuado para el culto de la Madre del Señor (cf. Pablo VI, Marialis cultus, 4). María es la Toda Santa, inmune de toda mancha de pecado, casi plasmada por el Espíritu Santo y hecha nueva criatura (cf. Lumen gentium, 56). Ya proféticamente insinuada en la promesa hecha a los progenitores de la victoria sobre la serpiente, María es la Virgen que concebirá y dará a luz un hijo cuyo nombre será Emmanuel. El dogma de la Inmaculada Concepción fue proclamado por Pío IX en 1854.",
         "patronage": "",
         "main_shrine": "N/D"
     },
@@ -1711,13 +1711,13 @@
     },
     "StJohnCross_180": {
         "subject": "San Juan de la Cruz, sacerdote y doctor",
-        "places": "Segovia, España",
-        "place_of_death": "Úbeda, España",
-        "place_of_birth": "Fontiveros, España",
-        "place_of_burial": "Monasterio de los Carmelitas Descalzos, Segovia, España",
+        "places": "Segovia (España)",
+        "place_of_death": "Úbeda (España)",
+        "place_of_birth": "Fontiveros (España)",
+        "place_of_burial": "Monasterio de los Carmelitas Descalzos (Segovia, España)",
         "notes": "Juan (Fontiveros, España, 1542 - Úbeda, 14 de diciembre de 1591), carmelita, dotado de una formación teológica precisa, fue involucrado por santa Teresa de Ávila en el proyecto de reforma de la Orden del cual nacieron los Carmelitas Descalzos, como iniciativa de retorno al antiguo rigor, en la contemplación y en la pobreza. La referencia a la cruz, entonces añadida por Juan a su propio nombre, fue para el joven reformador casi una profecía de las contradicciones y sufrimientos que habría de sufrir por parte de sus hermanos: sospechado y acusado injustamente, fue encarcelado durante nueve meses. Pero en esa noche oscura Juan experimentó la luz envolvente de la unión mística con Dios; la expresó en cantos con intensas y vibrantes expresiones poéticas, que, junto con sus admirables escritos, lo convirtieron en una excepcional guía espiritual: «Al atardecer de la vida seremos juzgados sobre el amor».",
         "patronage": "",
-        "main_shrine": "Monasterio de los Carmelitas Descalzos, Segovia, España"
+        "main_shrine": "Monasterio de los Carmelitas Descalzos (Segovia, España)"
     },
     "StPeterCanisius_181": {
         "subject": "San Pedro Canisio, sacerdote y doctor",
@@ -1797,7 +1797,7 @@
         "place_of_burial": "N/D",
         "notes": "El culto por el nombre de Jesús surgió en la época tardomedieval, gracias a las Órdenes mendicantes, en particular con la predicación de san Bernardino de Siena (siglo XV) que difundió el monograma compuesto por las tres primeras letras griegas del nombre de Jesús (IHS), aunque este, con la transliteración latina, fue interpretado como acrónimo de la expresión Iesus Hominum Salvator. La celebración litúrgica, introducida en el siglo XVI, fue extendida a toda la Iglesia por Inocencio XIII (1721-1724). Esta devoción tiene raíces en la Sagrada Escritura. El nombre de Jesús, asignado por el Padre al Hijo hecho hombre (cf. Mt 1, 21), prefigura – según el estilo bíblico – su misión: significa, de hecho, «Dios salva». Es «en el nombre de Jesús» que los discípulos realizan prodigios (Hch 4, 10) y sufren persecución (Hch 5, 41). El mismo Jesús anima a los discípulos a orar en su nombre (Jn 14, 13-14). Ya la primera comunidad cristiana es consciente de que no hay «bajo el cielo, otro nombre dado a los hombres, en el cual está establecido que seamos salvados» (Hch 4, 12). En el himno de la carta a los Filipenses se proclama: «… Dios lo exaltó y le dio el nombre que está por encima de todo nombre, para que en el nombre de Jesús toda rodilla se doble en los cielos, en la tierra y debajo de la tierra» (Fil 2, 9-10).",
         "patronage": "",
-        "main_shrine": "Iglesia del Gesù, Roma"
+        "main_shrine": "Iglesia del Gesù (Roma, Italia)"
     },
     "StJosephineBakhita_189": {
         "subject": "Santa Josefina Bakhita, virgen",
@@ -1805,7 +1805,7 @@
         "place_of_death": "Schio (Vicenza, Italia)",
         "place_of_birth": "Darfur (Sudán)",
         "place_of_burial": "Convento de las Canossianas de Schio (Vicenza, Italia)",
-        "notes": "Bakhita, es decir «Afortunada» (Darfur, Sudán, 1869 - Schio, Vicenza, 1947), fue el nombre asignado a una niña africana, secuestrada y vendida como esclava por mercaderes. Después de haber sido propiedad de varios amos, fue comprada por el cónsul italiano en Jartum, quien la llevó consigo a Venecia. Conoció la fe católica y recibió el Bautismo, asumiendo el nombre de Josefina. Ingresó entre las Canossianas, vivió en Schio, donde se distinguió por la gran caridad hacia los necesitados.",
+        "notes": "Bakhita, o «Fortunata» (Darfur, Sudán, 1869 - Schio, Vicenza, 1947), fue el nombre asignado a una niña africana, secuestrada y vendida como esclava por comerciantes. Después de ser propiedad de varios amos, fue comprada por el cónsul italiano en Jartum, quien la llevó con él a Venecia. Conoció la fe católica y recibió el Bautismo, asumiendo el nombre de Josefina. Entró entre las Canossianas y vivió en Schio, donde se distinguió por su gran caridad hacia los necesitados.",
         "patronage": "",
         "main_shrine": "Convento de las Canossianas de Schio (Vicenza, Italia)"
     },
@@ -1922,12 +1922,12 @@
     "StPeterClaver_201": {
         "subject": "San Pedro Claver, sacerdote",
         "places": "N/D",
-        "place_of_death": "Cartagena, Colombia",
-        "place_of_birth": "Verdú, España",
-        "place_of_burial": "Santuario de San Pedro Claver, Cartagena de Indias, Colombia",
+        "place_of_death": "Cartagena (Colombia)",
+        "place_of_birth": "Verdú (España)",
+        "place_of_burial": "Santuario de San Pedro Claver (Cartagena de Indias, Colombia)",
         "notes": "Pedro (Verdú, España, 1580 - Cartagena, Colombia, 8 de septiembre de 1657), jesuita, fue destinado a las Indias occidentales. Después de colaborar con su confraterno Alonso Sandoval, ya activo en el apostolado entre los esclavos negros, se dedicó definitivamente al servicio de esos infelices, tanto asistiendo durante el penoso viaje entre África y América, como formándolos en una vida espiritual correspondiente a su dignidad de hijos de Dios.",
         "patronage": "",
-        "main_shrine": "Santuario de San Pedro Claver, Cartagena de Indias, Colombia"
+        "main_shrine": "Santuario de San Pedro Claver (Cartagena de Indias, Colombia)"
     },
     "HolyNameMary_202": {
         "subject": "Santísimo Nombre de María",
@@ -1945,7 +1945,7 @@
         "place_of_death": "Saenamteo, Seúl, Corea del Sur",
         "place_of_birth": "Solmoi (Seúl), Corea del Sur",
         "place_of_burial": "Catedral de Myeongdong",
-        "notes": "Andrés (1821 - Seúl, Corea del Sur, 16 de septiembre de 1846) fue el primer presbítero de la Iglesia coreana, compuesta solo por laicos durante más de medio siglo; entre ellos el catequista Pablo, víctima, diez años antes, de la persecución emprendida por los gobernantes por temor a infiltraciones extranjeras en las tradiciones culturales y religiosas locales. A la memoria de Andrés y Pablo se asocian otros ciento un mártires, incluidos dos obispos europeos, Lorenzo Imbert y Simeón Berneux. Fueron más de diez mil los cristianos que, en varias ocasiones, a lo largo del siglo XIX, fecundaron con su sangre esa joven Iglesia. Surgió hacia finales del siglo XVIII de un encuentro espontáneo con el cristianismo chino, y creció también gracias a la llegada de algunos misioneros de Occidente, en las primeras décadas del siglo XIX. La luminosa historia de la Iglesia coreana y sus mártires constituye, por tanto, un claro testimonio de la acción oculta pero eficaz del Espíritu Santo, incluso en las condiciones más difíciles para la comunidad cristiana.",
+        "notes": "Andrés (1821 - Seúl, Corea del Sur, 16 de septiembre de 1846) fue el primer presbítero de la Iglesia coreana, durante más de medio siglo compuesta solo por laicos; entre ellos el catequista Pablo, víctima, diez años antes, de la persecución emprendida por los gobernantes por temor a infiltraciones extranjeras en las tradiciones culturales y religiosas locales. A la memoria de Andrés y Pablo se asocian otros ciento un mártires, incluidos dos obispos europeos, Lorenzo Imbert y Simeón Berneux. Fueron más de diez mil los cristianos que, en varias ocasiones, a lo largo del siglo XIX, fecundaron con su sangre esa joven Iglesia. Surgió hacia finales del siglo XVIII de un encuentro espontáneo con el cristianismo chino, y creció también gracias a la llegada de algunos misioneros de Occidente, en las primeras décadas del siglo XIX. La luminosa historia de la Iglesia coreana y sus mártires constituye un claro testimonio de la acción oculta pero eficaz del Espíritu Santo, incluso en las condiciones más difíciles para la comunidad cristiana.",
         "patronage": "",
         "main_shrine": "Santuario de los Mártires de Saenamteo, Seúl, Corea del Sur"
     },
@@ -1972,17 +1972,17 @@
     "StCatherineAlexandria_206": {
         "subject": "Santa Catalina de Alejandría, virgen y mártir",
         "places": "N/D",
-        "place_of_death": "Alejandría, Egipto",
-        "place_of_birth": "Alejandría, Egipto",
-        "place_of_burial": "Monasterio de Santa Catalina en el Monte Sinaí, Egipto",
+        "place_of_death": "Basílica de Santa María la Mayor (Roma, Italia)",
+        "place_of_birth": "Basílica de Santa María la Mayor (Roma, Italia)",
+        "place_of_burial": "Monasterio de Santa Catalina en el Monte Sinaí (Egipto)",
         "notes": "Catalina de Alejandría (siglo III-IV), según la Pasión que ha sido transmitida (siglo VI-VIII), defendió la fe frente a cincuenta sabios paganos y la testificó con el martirio. Las reliquias son veneradas en el monasterio que lleva su nombre al pie del monte Sinaí.",
         "patronage": "",
-        "main_shrine": "Monasterio de Santa Catalina en el Monte Sinaí, Egipto"
+        "main_shrine": "Monasterio de Santa Catalina en el Monte Sinaí (Egipto)"
     },
     "StGregoryNazianzen_207": {
         "subject": "San Gregorio Nacianceno",
         "places": "Capadocia, Constantinopla (Turquía), Roma (Italia)",
-        "place_of_death": "Constantinopla (actual Estambul), Turquía",
+        "place_of_death": "Constantinopla (actual Estambul, Turquía)",
         "place_of_birth": "Nacianzo, en la actual Turquía",
         "place_of_burial": "Basílica de San Pedro; anteriormente Iglesia de Santa María de la Concepción en Campo Marzio, Roma, donde quedó un brazo",
         "notes": "Gregorio (Nacianzo, en la actual Turquía, 329/330 - 390) compartió con Basilio la formación cultural y el deseo de la vida monástica. Elegido patriarca de Constantinopla, vivió un breve y sufrido episcopado, en medio de muchos contrastes. Valiente escritor y orador, también se dedicó a la poesía. Junto con Basilio contribuyó notablemente al desarrollo de la doctrina trinitaria. Memoria litúrgica el 2 de enero",
@@ -1993,8 +1993,8 @@
         "subject": "San Raimundo de Peñafort, sacerdote",
         "places": "Barcelona (España)",
         "place_of_death": "Barcelona (España)",
-        "place_of_birth": "Santa Margarida i els Monjos, España",
-        "place_of_burial": "Catedral de la Santa Cruz y Santa Eulalia, Barcelona",
+        "place_of_birth": "Santa Margarida i els Monjos (España)",
+        "place_of_burial": "Catedral de la Santa Cruz y Santa Eulalia (Barcelona, España)",
         "notes": "La memoria litúrgica se fija al día siguiente 7 de enero",
         "patronage": "",
         "main_shrine": "N/D"
@@ -2173,7 +2173,7 @@
         "subject": "San Vicente Ferrer, sacerdote",
         "places": "N/D",
         "place_of_death": "Vannes (Francia)",
-        "place_of_birth": "Valencia, España",
+        "place_of_birth": "Valencia (España)",
         "place_of_burial": "Catedral de San Pedro en Vannes (Francia)",
         "notes": "Vicente (Valencia, España, 1350 - Vannes, Francia, 5 de abril de 1419), dominico, después de ser curado de una grave enfermedad, se dedicó con fervor a la predicación del Evangelio. En una Iglesia desorientada por la contraposición interna al papado, entre Roma y Aviñón, sus insistentes llamados a la conversión atrajeron a las multitudes, especialmente en España, Francia e Italia septentrional.",
         "patronage": "",
@@ -2187,7 +2187,7 @@
         "place_of_burial": "Juan Bautista de La Salle fue sepultado en la iglesia de Saint-Sever, un barrio de Rouen. En 1734 su cuerpo fue llevado de nuevo a Saint-Yon en la capilla de su internado, luego en 1835 fue trasladado a la de la Escuela Normal de Rouen. En Reims se construyó, en 1898, una iglesia dedicada a él. En 1937 sus reliquias fueron trasladadas a Roma.",
         "notes": "Juan Bautista (Reims, Francia, 30 de abril de 1651 - Saint Yon cerca de Rouen, 7 de abril de 1719), después de cuidar, a la muerte de sus padres, de sus numerosos hermanos, ordenado presbítero se dedicó a la juventud desfavorecida, abriendo escuelas para pobres y redactando textos para la formación de maestros. Fundó la Congregación de los Hermanos de las Escuelas Cristianas, dedicada a la educación popular.",
         "patronage": "",
-        "main_shrine": "Iglesia y Santuario de San Juan Bautista de La Salle, Casa generalicia Hermanos de las Escuelas Cristianas, Roma"
+        "main_shrine": "Iglesia y Santuario de San Juan Bautista de La Salle, Casa Generalicia Hermanos de las Escuelas Cristianas (Roma, Italia)"
     },
     "StStanislaus_256": {
         "subject": "San Estanislao, obispo y mártir",
@@ -2237,7 +2237,7 @@
         "place_of_burial": "Roma (Italia)",
         "notes": "Catalina (Siena, 1347 - Roma, 29 de abril de 1380) se dedicó, muy joven, a la oración y la penitencia en su propia casa; posteriormente fue admitida entre las «mantellate» de la Tercera Orden Dominicana. Desarrolló una intensa acción pública, tanto como operadora de paz en una sociedad desgarrada por disputas, como defensora franca y apasionada de la reforma de la Iglesia. Favoreció el regreso del papa de Aviñón y trabajó para superar el gran cisma que surgió, poco después, en la sede romana y en todo Occidente. Compuso escritos densos en contenido teológico e incisivos en el lenguaje, entre ellos el Diálogo de la Divina Providencia. Fue proclamada patrona de Italia en 1939 y de Europa en 1999.",
         "patronage": "",
-        "main_shrine": "Basílica de Santa María sopra Minerva, Roma"
+        "main_shrine": "Basílica de Santa María sopra Minerva (Roma, Italia)"
     },
     "StPiusV_264": {
         "subject": "San Pío V, papa",
@@ -2247,7 +2247,7 @@
         "place_of_burial": "Basílica de Santa María la Mayor, Roma",
         "notes": "Miguel (de nombre secular Antonio) Ghislieri (Bosco Marengo, Alessandria, 17 de enero de 1504 - Roma, 1 de mayo de 1572), dominico, fue papa desde 1566. Implementó la primera aplicación del Concilio de Trento, comenzando por la curia romana y la Urbe. Publicó el Catecismo (1566), se encargó de la reforma del Breviario (1568) y del Misal (1570). Promovió la difusión de la fe en Europa y Oriente, y la defendió contra la expansión otomana (Lepanto, 7 de octubre de 1571).",
         "patronage": "",
-        "main_shrine": "Basílica de Santa María la Mayor, Roma"
+        "main_shrine": "Basílica de Santa María la Mayor (Roma, Italia)"
     },
     "StBernardineSiena_272": {
         "subject": "San Bernardino de Siena, sacerdote",
@@ -2287,7 +2287,7 @@
         "place_of_burial": "Chiesa Nuova, Roma",
         "notes": "Felipe (Florencia, 21 de julio de 1515 - Roma, 26 de mayo de 1595), llegado a Roma a una edad temprana, se dedicó a la asistencia de los enfermos incurables y de los peregrinos pobres. Ordenado presbítero, fue asiduo en el confesionario y celebró la Eucaristía con intensa devoción, hasta el transporte místico. De los encuentros periódicos con un grupo de sus penitentes – a quienes entretenía, con estilo alegre, en diálogos espirituales y en actividades recreativas, culturales y caritativas – nacieron la experiencia del «Oratorio» y la Congregación de sacerdotes que lleva el mismo nombre, reconocida por Gregorio XIII el 15 de julio de 1575.",
         "patronage": "",
-        "main_shrine": "Chiesa Nuova, Roma"
+        "main_shrine": "Iglesia Nueva (Roma, Italia)"
     },
     "StsCharlesLwanga_281": {
         "subject": "Santos Carlos Lwanga y compañeros, mártires",
@@ -2337,7 +2337,7 @@
         "place_of_burial": "Iglesia de San Ignacio de Loyola, Roma; el cráneo se conserva en la basílica dedicada a él en Castiglione delle Stiviere",
         "notes": "Luis (Castiglione delle Stiviere, Mantua, 9 de marzo de 1568 - Roma, 21 de junio de 1591), primogénito heredero del marquesado gonzaguesco de su ciudad natal, desafiando la firme oposición paterna renunció a la vida y carrera de la corte e ingresó en la Compañía de Jesús donde, dotado de viva inteligencia y fuerte voluntad, pudo beneficiarse de la guía espiritual de San Roberto Belarmino. La generosa dedicación a los pobres y enfermos comprometió su delicada constitución física y lo llevó a la muerte en pocos años.",
         "patronage": "",
-        "main_shrine": "Iglesia de San Ignacio de Loyola, Roma"
+        "main_shrine": "Iglesia de San Ignacio de Loyola (Roma, Italia)"
     },
     "StsJohnFisherThomasMore_290": {
         "subject": "Santos Juan Fisher, obispo y mártir y Tomás Moro, mártir",
@@ -2353,7 +2353,7 @@
         "subject": "Santa Isabel de Portugal",
         "places": "Coímbra (Portugal)",
         "place_of_death": "Estremoz (Portugal)",
-        "place_of_birth": "Aragón, España",
+        "place_of_birth": "Aragón (España)",
         "place_of_burial": "Monasterio de Santa Clara-a-Nova, Coímbra (Portugal)",
         "notes": "Isabel (España, 1269/1270 - Estremoz, Portugal, 4 de julio de 1336), hija de Pedro, futuro rey de Aragón, fue dada en matrimonio, a los doce años, a Dionisio, rey de Portugal. Sostuvo valientemente la difícil convivencia matrimonial, actuando como mediadora en los graves conflictos que perturbaron a la familia y al reino. Quedando viuda, se hizo terciaria franciscana, dedicándose totalmente a la oración y a la caridad hacia los pobres.",
         "patronage": "",
@@ -2411,10 +2411,10 @@
     },
     "StLawrenceBrindisi_305": {
         "subject": "San Lorenzo de Brindisi, sacerdote y doctor",
-        "places": "Iglesia de Santa María de los Ángeles, Brindisi (Italia); Lisboa (Portugal); Villafranca del Bierzo, España",
+        "places": "Iglesia de Santa María de los Ángeles, Brindisi (Italia); Lisboa (Portugal); Villafranca del Bierzo (España)",
         "place_of_death": "Lisboa (Portugal)",
         "place_of_birth": "Brindisi (Italia)",
-        "place_of_burial": "Convento de la Anunciada, Villafranca del Bierzo, España",
+        "place_of_burial": "Convento de la Anunciada (Villafranca del Bierzo, España)",
         "notes": "Lorenzo (Brindisi, 22 de julio de 1559 - Lisboa, Portugal, 22 de julio de 1619), religioso capuchino, brilló por su conocimiento de las lenguas y de la Sagrada Escritura. Comprometido en una vasta actividad de predicación en toda Europa, a menudo encargado de misiones diplomáticas en nombre de la Santa Sede, cultivó una ferviente vida espiritual, sobre todo en la celebración devota y prolongada de la Eucaristía. La iglesia de Santa María de los Ángeles en Brindisi fue construida por el santo Lorenzo de Brindisi en terrenos de su propiedad.",
         "patronage": "",
         "main_shrine": "N/D"
@@ -2433,11 +2433,11 @@
         "subject": "San Ignacio de Loyola, sacerdote",
         "places": "Loyola, España; Roma (Italia)",
         "place_of_death": "Roma (Italia)",
-        "place_of_birth": "Loyola, España",
+        "place_of_birth": "Loyola (España)",
         "place_of_burial": "Iglesia del Gesù, Roma",
         "notes": "Iñigo López (Loyola, España, 1491 - Roma, 31 de julio de 1556), de noble familia vasca, fue herido en la defensa de la ciudad de Pamplona. Durante la convalecencia, la lectura de la vida de Cristo y de algunos santos marcó para él el inicio de la conversión. Un largo itinerario lo llevó a atravesar un período de discernimiento espiritual y una prolongada temporada de estudios filosóficos y teológicos, culminados en París. Aquí se formó a su alrededor un grupo de compañeros, con los cuales se presentó al papa Pablo III. A él le expusieron su ideal: defensa y propagación de la fe y disponibilidad absoluta al Romano Pontífice respecto a cualquier misión que este quisiera encomendarles para la expansión misionera del Evangelio y la reforma de la Iglesia. La espiritualidad de la Compañía de Jesús tiene su eje en los Ejercicios espirituales, que compendian la experiencia interior de Ignacio. El papa Gregorio XV lo inscribió entre los santos en 1622.",
         "patronage": "",
-        "main_shrine": "Iglesia del Gesù, Roma"
+        "main_shrine": "Iglesia del Gesù (Roma, Italia)"
     },
     "StAlphonsusMariaDeLiguori_313": {
         "subject": "San Alfonso María de Ligorio, obispo y doctor",
@@ -2473,8 +2473,8 @@
         "subject": "San Domingo, sacerdote",
         "places": "Bolonia (Italia)",
         "place_of_death": "Bolonia (Italia)",
-        "place_of_birth": "Caleruega, España",
-        "place_of_burial": "Basílica de San Domingo, Bolonia",
+        "place_of_birth": "Caleruega (España)",
+        "place_of_burial": "Basílica de San Domingo (Bolonia, Italia)",
         "notes": "Domingo (Caleruega, España, 1170 aprox. - Bolonia, 6 de agosto de 1221) fue canónigo de la catedral de Osma (España). Al difundirse el movimiento herético de los Cátaros o Albigenses, en el sur de Francia, se dedicó con gran empeño a la defensa de la ortodoxia, llevando a cabo una predicación asidua en pobreza evangélica, arraigada en la íntima unión con Dios y sostenida por una intensa devoción mariana. Fundó en Toulouse la Orden de los Frailes Predicadores (Dominicos) aprobada por el papa Honorio III en 1216, para que, formados mediante una profunda vida espiritual y rigurosos estudios teológicos, renovaran la predicación apostólica, en beneficio de toda la Iglesia.",
         "patronage": "",
         "main_shrine": "Basílica de San Domingo, Bolonia"
@@ -2563,8 +2563,8 @@
         "subject": "San José de Calasanz, sacerdote",
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
-        "place_of_birth": "Peralta de la Sal, España",
-        "place_of_burial": "Iglesia de San Pantaleo, Roma (Italia)",
+        "place_of_birth": "Peralta de la Sal (España)",
+        "place_of_burial": "Iglesia de San Pantaleo (Roma, Italia)",
         "notes": "José (Peralta de la Sal, España, 1557 - Roma, 25 de agosto de 1646), de familia noble, emprendió la carrera eclesiástica, trasladándose a Roma en busca de una conveniente colocación. Allí encontró muchas iniciativas de asistencia a los pobres y enfermos, y colaboró con san Camilo de Lellis. Preocupado por la situación de los niños pobres, sin una educación adecuada, abrió para ellos escuelas gratuitas y fundó la Congregación de los Clérigos Regulares Pobres de la Madre de Dios de las Escuelas Pías (Escolapios).",
         "patronage": "",
         "main_shrine": "Iglesia de San Pantaleo, Roma (Italia)"
@@ -2631,13 +2631,13 @@
     },
     "StTeresaJesus_360": {
         "subject": "Santa Teresa de Ávila, virgen y doctora",
-        "places": "Ávila, España; Alba de Tormes, España",
-        "place_of_death": "Alba de Tormes, España",
-        "place_of_birth": "Ávila, España",
-        "place_of_burial": "Basílica de Santa Teresa, Alba de Tormes, España",
+        "places": "Ávila (España); Alba de Tormes (España)",
+        "place_of_death": "Alba de Tormes (España)",
+        "place_of_birth": "Ávila (España)",
+        "place_of_burial": "Basílica de Santa Teresa (Alba de Tormes, España)",
         "notes": "Teresa (Ávila, España, 1515 - Alba de Tormes, 15 de octubre de 1582), ingresó en el Carmelo de Ávila, inició la reforma de la Orden, dando origen a los Carmelitas Descalzos. Su intensa actividad de fundaciones monásticas en toda España fue acompañada y sostenida por una profunda experiencia espiritual, hasta la unión mística con Cristo, testimoniada en sus escritos (entre ellos el autobiográfico Libro de la vida y el Camino de perfección) y sugerida como dimensión esencial para todo cristiano. Fue la primera mujer en ser proclamada doctora de la Iglesia (Pablo VI, 1970).",
         "patronage": "",
-        "main_shrine": "Basílica de Santa Teresa, Alba de Tormes, España"
+        "main_shrine": "Basílica de Santa Teresa (Alba de Tormes, España)"
     },
     "StHedwig_361": {
         "subject": "Santa Eduviges, religiosa",
@@ -2655,7 +2655,7 @@
         "place_of_death": "Paray-le-Monial, Francia",
         "place_of_birth": "Verosvres (Francia)",
         "place_of_burial": "Capilla de la Visitación, Paray-le-Monial (Francia)",
-        "notes": "Margarita (Verosvres, Francia, 22 de julio de 1647 - Paray-le-Monial, 17 de octubre de 1690), ingresó en el monasterio de la Visitación de Paray-le-Monial, donde también asumió el nombre de María, experimentó un amor intenso por Cristo, enriquecido con gracias particulares. Cultivó sobre todo la devoción al Sagrado Corazón de Jesús y promovió su difusión.",
+        "notes": "Margarita (Verosvres, Francia, 22 de julio de 1647 - Paray-le-Monial, 17 de octubre de 1690), entró en el monasterio de las Visitandinas de Paray-le-Monial, donde también asumió el nombre de María, experimentó un amor intenso por Cristo, enriquecido con gracias particulares. Cultivó sobre todo la devoción al Corazón de Jesús y promovió su difusión.",
         "patronage": "",
         "main_shrine": "Capilla de la Visitación, Paray-le-Monial (Francia)"
     },
@@ -2693,11 +2693,11 @@
         "subject": "San Antonio María Claret, obispo",
         "places": "Vic, España; Santiago de Cuba",
         "place_of_death": "Fontfroide (Francia)",
-        "place_of_birth": "Sallent, España",
-        "place_of_burial": "Casa madre de los claretianos en Vic, España",
+        "place_of_birth": "Sallent (España)",
+        "place_of_burial": "Casa madre de los claretianos en Vic (España)",
         "notes": "Antonio (Sallent, España, 23 de diciembre de 1807 - Fontfroide, Francia, 24 de octubre de 1870), después de algunos años de predicación itinerante, fundó la Congregación del Corazón Inmaculado de María, conocida como los Claretianos. Arzobispo de Santiago de Cuba (entonces española), renovó las instituciones eclesiásticas y llevó a cabo iniciativas de promoción social y cultural, en beneficio de los pobres y los esclavos, sufriendo calumnias y violencias. Llamado de vuelta a España para asumir el cargo de confesor de la reina, continuó su ministerio entre el pueblo con la predicación y los escritos.",
         "patronage": "",
-        "main_shrine": "Casa madre de los claretianos en Vic, España"
+        "main_shrine": "Casa madre de los claretianos en Vic (España)"
     },
     "StMartinPorres_372": {
         "subject": "San Martín de Porres, religioso",
@@ -2773,21 +2773,21 @@
         "subject": "San Francisco Javier, sacerdote",
         "places": "China; India",
         "place_of_death": "Isla de Shangchuan (China)",
-        "place_of_birth": "Javier, España",
+        "place_of_birth": "Javier (España)",
         "place_of_burial": "Basílica de Bom Jesus (Ella, India)",
-        "notes": "Francisco (Javier, España, 7 de abril de 1506 - Isla de Shangchuan, China, 3 de diciembre de 1552), encaminado a una brillante actividad de enseñanza filosófica, conoció en París a Ignacio de Loyola, quien lo involucró en el primer grupo de seguidores del cual nació la Compañía de Jesús. Ordenado presbítero, partió como misionero hacia las Indias orientales. En solo diez años, entre dificultades de todo tipo, viajó desde la costa india hasta la actual Malasia e Indonesia, llegando hasta Japón, abriendo en todas partes el camino al Evangelio. Murió, en soledad y pobreza, mientras se disponía a difundir el mensaje de Cristo en el inmenso territorio chino.",
+        "notes": "Francisco (Javier, España, 7 de abril de 1506 - Isla de Shangchuan, China, 3 de diciembre de 1552), encaminado a una brillante actividad de enseñanza filosófica, conoció en París a Ignacio de Loyola, quien lo involucró en el primer grupo de seguidores del que nació la Compañía de Jesús. Ordenado presbítero, partió como misionero hacia las Indias Orientales. En solo diez años, entre dificultades de todo tipo, viajó desde la costa india hasta la actual Malasia e Indonesia, llegando hasta Japón, abriendo en todas partes el camino al Evangelio. Murió, en soledad y pobreza, mientras se disponía a difundir el mensaje de Cristo en el inmenso territorio chino.",
         "patronage": "",
         "main_shrine": "Basílica de Bom Jesus (Ella, India)"
     },
     "StJohnCross_395": {
         "subject": "San Juan de la Cruz, sacerdote y doctor",
-        "places": "Segovia, España",
-        "place_of_death": "Úbeda, España",
-        "place_of_birth": "Fontiveros, España",
-        "place_of_burial": "Monasterio de los Carmelitas Descalzos, Segovia, España",
+        "places": "Segovia (España)",
+        "place_of_death": "Úbeda (España)",
+        "place_of_birth": "Fontiveros (España)",
+        "place_of_burial": "Monasterio de los Carmelitas Descalzos (Segovia, España)",
         "notes": "Juan (Fontiveros, España, 1542 - Úbeda, 14 de diciembre de 1591), carmelita, dotado de una cuidadosa formación teológica, fue involucrado por santa Teresa de Ávila en el proyecto de reforma de la Orden del cual nacieron los Carmelitas Descalzos, como iniciativa de retorno al antiguo rigor, en la contemplación y la pobreza. La referencia a la cruz, entonces añadida por Juan a su propio nombre, fue para el joven reformador casi una profecía de las contradicciones y sufrimientos que habría de sufrir por parte de sus hermanos: sospechado y acusado injustamente, fue encarcelado durante nueve meses. Pero en esa noche oscura Juan experimentó la luz envolvente de la unión mística con Dios; la expresó en cantos con intensas y vibrantes expresiones poéticas, que, junto con sus admirables escritos, lo convirtieron en una excepcional guía espiritual: «Al atardecer de la vida seremos juzgados sobre el amor».",
         "patronage": "",
-        "main_shrine": "Monasterio de los Carmelitas Descalzos, Segovia, España"
+        "main_shrine": "Monasterio de los Carmelitas Descalzos (Segovia, España)"
     },
     "StPeterCanisius_396": {
         "subject": "San Pedro Canisio, sacerdote y doctor",
@@ -2825,7 +2825,7 @@
         "place_of_death": "Schio (Vicenza, Italia)",
         "place_of_birth": "Darfur (Sudán)",
         "place_of_burial": "Convento de las Canossianas de Schio (Vicenza, Italia)",
-        "notes": "Bakhita, es decir, «Afortunada» (Darfur, Sudán, 1869 - Schio, Vicenza, 1947), fue el nombre asignado a una niña africana, secuestrada y vendida como esclava por comerciantes. Después de haber sido propiedad de varios amos, fue comprada por el cónsul italiano en Jartum, quien la llevó consigo a Venecia. Conoció la fe católica y recibió el Bautismo, asumiendo el nombre de Josefina. Ingresó entre las Canossianas y vivió en Schio, donde se distinguió por su gran caridad hacia los necesitados.",
+        "notes": "Bakhita, es decir, «Afortunada» (Darfur, Sudán, 1869 - Schio, Vicenza, 1947), fue el nombre asignado a una niña africana, secuestrada y vendida como esclava por comerciantes. Después de haber sido propiedad de varios dueños, fue comprada por el cónsul italiano en Jartum, quien la llevó consigo a Venecia. Conoció la fe católica y recibió el Bautismo, asumiendo el nombre de Josefina. Entró entre las Canossianas, vivió en Schio, donde se distinguió por su gran caridad hacia los necesitados.",
         "patronage": "",
         "main_shrine": "Convento de las Canossianas de Schio (Vicenza, Italia)"
     },
@@ -2912,12 +2912,12 @@
     "StPeterClaver_416": {
         "subject": "San Pedro Claver, sacerdote",
         "places": "N/D",
-        "place_of_death": "Cartagena, Colombia",
-        "place_of_birth": "Verdú, España",
-        "place_of_burial": "Santuario de San Pedro Claver, Cartagena de Indias, Colombia",
+        "place_of_death": "Cartagena (Colombia)",
+        "place_of_birth": "Verdú (España)",
+        "place_of_burial": "Santuario de San Pedro Claver (Cartagena de Indias, Colombia)",
         "notes": "Pedro (Verdú, España, 1580 - Cartagena, Colombia, 8 de septiembre de 1657), jesuita, fue destinado a las Indias Occidentales. Después de colaborar con su compañero Alonso Sandoval, ya activo en el apostolado entre los esclavos negros, se dedicó definitivamente al servicio de esos infelices, tanto asistiendo durante el penoso viaje entre África y América, como formándolos en una vida espiritual correspondiente a su dignidad de hijos de Dios.",
         "patronage": "",
-        "main_shrine": "Santuario de San Pedro Claver, Cartagena de Indias, Colombia"
+        "main_shrine": "Santuario de San Pedro Claver (Cartagena de Indias, Colombia)"
     },
     "StAndrewKimTaegon_418": {
         "subject": "Santos Andrés Kim Taegon, sacerdote, Pablo Chong Hasang y compañeros mártires",
@@ -2925,7 +2925,7 @@
         "place_of_death": "Saenamteo, Seúl, Corea del Sur",
         "place_of_birth": "Solmoi (Seúl), Corea del Sur",
         "place_of_burial": "Catedral de Myeongdong",
-        "notes": "Andrés (1821 - Seúl, Corea del Sur, 16 de septiembre de 1846) fue el primer presbítero de la Iglesia coreana, compuesta por más de medio siglo solo por laicos; entre ellos el catequista Pablo, víctima, diez años antes, de la persecución emprendida por los gobernantes por temor a infiltraciones extranjeras en las tradiciones culturales y religiosas locales. A la memoria de Andrés y Pablo se asocian otros ciento un mártires, incluidos dos obispos europeos, Lorenzo Imbert y Simeón Berneux. Fueron más de diez mil los cristianos que, en varias ocasiones, a lo largo del siglo XIX, fecundaron con su sangre esa joven Iglesia. Surgió hacia finales del siglo XVIII de un encuentro espontáneo con el cristianismo chino, y creció también gracias a la llegada de algunos misioneros de Occidente, en las primeras décadas del siglo XIX. La luminosa historia de la Iglesia coreana y sus mártires constituye un claro testimonio de la acción oculta pero eficaz del Espíritu Santo, incluso en las condiciones más difíciles para la comunidad cristiana.",
+        "notes": "Andrés (1821 - Seúl, Corea del Sur, 16 de septiembre de 1846) fue el primer presbítero de la Iglesia coreana, durante más de medio siglo compuesta solo por laicos; entre ellos el catequista Pablo, víctima, diez años antes, de la persecución emprendida por los gobernantes por temor a infiltraciones extranjeras en las tradiciones culturales y religiosas locales. A la memoria de Andrés y Pablo se asocian otros ciento un mártires, incluidos dos obispos europeos, Lorenzo Imbert y Simeón Berneux. Fueron más de diez mil los cristianos que, en varias ocasiones, a lo largo del siglo XIX, fecundaron con su sangre esa joven Iglesia. Surgió hacia finales del siglo XVIII de un encuentro espontáneo con el cristianismo chino, y creció también gracias a la llegada de algunos misioneros de Occidente, en las primeras décadas del siglo XIX. La luminosa historia de la Iglesia coreana y sus mártires constituye un claro testimonio de la acción oculta pero eficaz del Espíritu Santo, incluso en las condiciones más difíciles para la comunidad cristiana.",
         "patronage": "",
         "main_shrine": "Santuario de los Mártires de Saenamteo, Seúl, Corea del Sur"
     },
@@ -2955,7 +2955,7 @@
         "place_of_death": "Lyon (Francia)",
         "place_of_birth": "Sales (Francia)",
         "place_of_burial": "Basílica de la Visitación, Annecy (Francia)",
-        "notes": "Francisco (Sales, Francia, 1567 - Lyon, 28 de diciembre de 1622), obispo de Ginebra (Suiza) con sede en Annecy (Francia), gracias a su humana dulzura y sabiduría pastoral, favoreció la unidad de la Iglesia en un territorio caracterizado por fuertes contrastes entre católicos y calvinistas. Con la Introducción a la vida devota y otras obras ascético-místicas propuso un camino de santidad accesible en todas las condiciones de vida, ya que estaba completamente basado en el amor de Dios, compendio de toda perfección. Con santa Juana Francisca Frémyot de Chantal fundó la Orden femenina de la Visitación. El día de la memoria litúrgica corresponde al de su sepultura en Annecy. Junto a San Francisco de Sales, también está enterrada Santa Juana Francisca Frémiot de Chantal en la misma iglesia de la visitación en Annecy.",
+        "notes": "Francisco (Sales, Francia, 1567 - Lyon, 28 de diciembre de 1622), obispo de Ginebra (Suiza) con sede en Annecy (Francia), gracias a su humana dulzura y sabiduría pastoral, favoreció la unidad de la Iglesia en un territorio caracterizado por fuertes contrastes entre católicos y calvinistas. Con la Introducción a la vida devota y otras obras ascético-místicas propuso un camino de santidad accesible en todas las condiciones de vida, ya que estaba completamente basado en el amor de Dios, compendio de toda perfección. Con santa Juana Francisca Frémyot de Chantal fundó la Orden femenina de la Visitación. El día de su memoria litúrgica corresponde al de su sepultura en Annecy. Junto a San Francisco de Sales, también está sepultada Santa Juana Francisca Frémiot de Chantal en la misma iglesia de la visitación en Annecy.",
         "patronage": "",
         "main_shrine": "Basílica de la Visitación, Annecy (Francia)"
     },
@@ -2977,7 +2977,7 @@
         "place_of_burial": "Roma (Italia)",
         "notes": "Catalina (Siena, 1347 - Roma, 29 de abril de 1380) se dedicó, muy joven, a la oración y la penitencia en su propia casa; posteriormente fue admitida entre las «mantellate» de la Tercera Orden Dominicana. Desarrolló una intensa acción pública, tanto como operadora de paz en una sociedad desgarrada por disputas, como defensora franca y apasionada de la reforma de la Iglesia. Favoreció el regreso del papa de Aviñón y trabajó para superar el gran cisma que surgió, poco después, en la sede romana y en todo Occidente. Compuso escritos densos en contenido teológico e incisivos en el lenguaje, entre ellos el Diálogo de la Divina Providencia. Fue proclamada patrona de Italia en 1939 y de Europa en 1999.",
         "patronage": "",
-        "main_shrine": "Basílica de Santa María sopra Minerva, Roma"
+        "main_shrine": "Basílica de Santa María sopra Minerva (Roma, Italia)"
     },
     "StAnthonyPadua_489": {
         "subject": "San Antonio de Padua, sacerdote y doctor",
@@ -3001,10 +3001,10 @@
     },
     "StLawrenceBrindisi_492": {
         "subject": "San Lorenzo de Brindisi, sacerdote y doctor",
-        "places": "Iglesia de Santa María de los Ángeles, Brindisi (Italia); Lisboa (Portugal); Villafranca del Bierzo, España",
+        "places": "Iglesia de Santa María de los Ángeles, Brindisi (Italia); Lisboa (Portugal); Villafranca del Bierzo (España)",
         "place_of_death": "Lisboa (Portugal)",
         "place_of_birth": "Brindisi (Italia)",
-        "place_of_burial": "Brindisi, Italia",
+        "place_of_burial": "Convento de la Anunciada (Villafranca del Bierzo, España)",
         "notes": "Lorenzo (Brindisi, 22 de julio de 1559 - Lisboa, Portugal, 22 de julio de 1619), religioso capuchino, brilló por su conocimiento de las lenguas y de la Sagrada Escritura. Comprometido en una vasta actividad de predicación en toda Europa, a menudo encargado de misiones diplomáticas en nombre de la Santa Sede, cultivó una ferviente vida espiritual, especialmente en la celebración devota y prolongada de la Eucaristía. La iglesia de Santa María de los Ángeles en Brindisi fue construida por san Lorenzo de Brindisi en terrenos de su propiedad.",
         "patronage": "",
         "main_shrine": "N/D"
@@ -3041,13 +3041,13 @@
     },
     "StTeresaJesus_499": {
         "subject": "Santa Teresa de Ávila, virgen y doctora",
-        "places": "Ávila, España; Alba de Tormes, España",
-        "place_of_death": "Alba de Tormes, España",
-        "place_of_birth": "Ávila, España",
-        "place_of_burial": "Basílica de Santa Teresa, Alba de Tormes, España",
+        "places": "Ávila (España)",
+        "place_of_death": "Alba de Tormes (España)",
+        "place_of_birth": "Ávila (España)",
+        "place_of_burial": "Basílica de Santa Teresa (Alba de Tormes, España)",
         "notes": "Teresa (Ávila, España, 1515 - Alba de Tormes, 15 de octubre de 1582), entró en el Carmelo de Ávila, inició la reforma de la Orden, dando origen a los Carmelitas Descalzos. Su intensa actividad de fundaciones monásticas en toda España fue acompañada y sostenida por una profunda experiencia espiritual, hasta la unión mística con Cristo, testimoniada en sus escritos (entre ellos el autobiográfico Libro de la vida y el Camino de perfección) y sugerida como dimensión esencial para todo cristiano. Fue la primera mujer en ser proclamada doctora de la Iglesia (Pablo VI, 1970).",
         "patronage": "",
-        "main_shrine": "Basílica de Santa Teresa, Alba de Tormes, España"
+        "main_shrine": "Basílica de Santa Teresa (Alba de Tormes, España)"
     },
     "StAlbertGreat_501": {
         "subject": "San Alberto Magno, obispo y doctor",
@@ -3061,13 +3061,13 @@
     },
     "StJohnCross_503": {
         "subject": "San Juan de la Cruz, sacerdote y doctor",
-        "places": "Segovia, España",
-        "place_of_death": "Úbeda, España",
-        "place_of_birth": "Fontiveros, España",
-        "place_of_burial": "Monasterio de los Carmelitas Descalzos, Segovia, España",
+        "places": "Segovia (España)",
+        "place_of_death": "Úbeda (España)",
+        "place_of_birth": "Fontiveros (España)",
+        "place_of_burial": "Fontiveros (España)",
         "notes": "Juan (Fontiveros, España, 1542 - Úbeda, 14 de diciembre de 1591), carmelita, dotado de una formación teológica precisa, fue involucrado por santa Teresa de Ávila en el proyecto de reforma de la Orden del cual nacieron los Carmelitas Descalzos, como iniciativa de retorno al antiguo rigor, en la contemplación y la pobreza. La referencia a la cruz, entonces añadida por Juan a su propio nombre, fue para el joven reformador casi una profecía de las contradicciones y sufrimientos que habría de sufrir por parte de sus hermanos: sospechado y acusado injustamente, fue encarcelado durante nueve meses. Pero en esa noche oscura Juan experimentó la luz envolvente de la unión mística con Dios; la expresó en cantos con intensas y vibrantes expresiones poéticas, que, junto con sus admirables escritos, lo convirtieron en una excepcional guía espiritual: «Al atardecer de la vida seremos juzgados sobre el amor».",
         "patronage": "",
-        "main_shrine": "Fontiveros, España"
+        "main_shrine": "Monasterio de los Carmelitas Descalzos (Segovia, España)"
     },
     "StPeterCanisius_504": {
         "subject": "San Pedro Canisio, sacerdote y doctor",
@@ -3211,9 +3211,9 @@
     },
     "StGregoryNarek_559": {
         "subject": "San Gregorio de Narek",
-        "places": "Sivas, Turquía; Naravank - Yemişlik, Turquía",
-        "place_of_death": "Narekavank, Turquía",
-        "place_of_birth": "Yemişlik, Turquía",
+        "places": "Sivas (Turquía); Naravank - Yemişlik (Turquía)",
+        "place_of_death": "Narekavank (Turquía)",
+        "place_of_birth": "Yemişlik (Turquía)",
         "place_of_burial": "A su muerte, el cuerpo de Gregorio fue depositado en la iglesia del monasterio dedicada a la santa Sanducht, según la tradición hija del rey Sanatruk y primera mártir armenia en el siglo I, asesinada a causa de su fe por orden de su padre. En 1021 las reliquias del santo fueron trasladadas a Sebaste, la actual Sivas, en la antigua provincia de Armenia Menor en Anatolia central. El pueblo donde fueron depositadas las reliquias fue luego apodado Narek en recuerdo del monasterio donde Gregorio había pasado su vida.",
         "notes": "El Monasterio de Narek fue arrasado por las autoridades turcas en 1915, pero fue refundado recientemente. https://it.cathopedia.org/wiki/Monastero_di_Narek https://www.centroculturaledimilano.it/wp-content/uploads/2012/09/Il-potere-delle-lacrime-LOsservatore-Romano-Rossella-Fabiani.pdf Gregorio de Narek (en idioma armenio: Գրիգոր Նարեկացի; 951 – 1003) fue un poeta, monje cristiano, teólogo y filósofo místico armenio. Es venerado como santo por la Iglesia apostólica armenia y por la Iglesia católica; esta última le ha otorgado el título de doctor de la Iglesia. Gregorio de Narek nació en una familia de escritores. Su padre, Khosrov, fue un arzobispo. Habiendo perdido a su madre muy temprano, fue educado por su primo, Anania de Narek, fundador de la escuela y del pueblo. Vivió gran parte de su vida en los monasterios de Narek (en la Gran Armenia, actualmente en Turquía) donde enseñaba en la escuela monástica. Fue uno de los poetas más importantes de la historia de la literatura armenia. Martirologio Romano: «En el monasterio de Narek en Armenia, san Gregorio, monje, doctor de los Armenios, insigne por la doctrina, los escritos y la ciencia mística.» El 21 de febrero de 2015 el papa Francisco confirmó la sentencia afirmativa de la sesión plenaria de los cardenales y obispos, miembros de la Congregación de las Causas de los Santos, anunciando la próxima concesión del título de doctor de la Iglesia a san Gregorio; la proclamación como doctor de la Iglesia se realizó con una carta apostólica del papa Francisco el 12 de abril de 2015, y se anunció solemnemente el mismo día durante la celebración en la Basílica de San Pedro con motivo del centenario del genocidio armenio. Gregorio es el 36º Doctor de la Iglesia proclamado por la Iglesia católica. El mismo papa el 25 de enero de 2021 instituyó su memoria opcional para toda la Iglesia universal, fijándola el 27 de febrero. No solo por su doctrina, sino también por su capacidad poética, Gregorio de Narek es un modelo para la poesía armenia de todos los tiempos. En los siglos XX y XXI, con el redescubrimiento de la mística en la poesía armenia, volvió a ser un modelo y un ejemplo para muchos poetas que lo han citado más o menos veladamente en su obra. Entre aquellos que más lo han tomado como ejemplo recordamos al poeta Hrand Nazariantz y a la poetisa Anahit Ghazakhetsyan.",
         "patronage": "",
@@ -3221,9 +3221,9 @@
     },
     "StGregoryNarek_560": {
         "subject": "San Gregorio de Narek",
-        "places": "Sivas, Turquía; Naravank - Yemişlik, Turquía",
-        "place_of_death": "Narekavank, Turquía",
-        "place_of_birth": "Yemişlik, Turquía",
+        "places": "Sivas, Turquía; Naravank - Yemişlik (Turquía)",
+        "place_of_death": "Narekavank (Turquía)",
+        "place_of_birth": "Yemişlik (Turquía)",
         "place_of_burial": "A su muerte, el cuerpo de Gregorio fue depositado en la iglesia del monasterio dedicada a la santa Sanducht, según la tradición hija del rey Sanatruk y primera mártir armenia en el siglo I, asesinada por su fe por orden de su padre. En 1021 las reliquias del santo fueron trasladadas a Sebaste, la actual Sivas, en la antigua provincia de Armenia Menor en Anatolia central. El pueblo donde fueron depositadas las reliquias fue luego apodado Narek en recuerdo del monasterio donde Gregorio había pasado su vida.",
         "notes": "El Monasterio de Narek fue arrasado por las autoridades turcas en 1915, pero fue refundado recientemente. https://it.cathopedia.org/wiki/Monastero_di_Narek https://www.centroculturaledimilano.it/wp-content/uploads/2012/09/Il-potere-delle-lacrime-LOsservatore-Romano-Rossella-Fabiani.pdf Gregorio de Narek (en armenio: Գրիգոր Նարեկացի; 951 – 1003) fue un poeta, monje cristiano, teólogo y filósofo místico armenio. Es venerado como santo por la Iglesia apostólica armenia y la Iglesia católica; esta última le ha otorgado el título de doctor de la Iglesia. Gregorio de Narek nació en una familia de escritores. Su padre, Khosrov, fue un arzobispo. Habiendo perdido a su madre muy temprano, fue educado por su primo, Anania de Narek, fundador de la escuela y del pueblo. Vivió gran parte de su vida en los monasterios de Narek (en la Gran Armenia, actualmente en Turquía) donde enseñaba en la escuela monástica. Fue uno de los poetas más importantes de la historia de la literatura armenia. Martirologio Romano: «En el monasterio de Narek en Armenia, san Gregorio, monje, doctor de los Armenios, insigne por la doctrina, los escritos y la ciencia mística.» El 21 de febrero de 2015 el papa Francisco confirmó la sentencia afirmativa de la sesión plenaria de los cardenales y obispos, miembros de la Congregación de las Causas de los Santos, anunciando la próxima concesión del título de doctor de la Iglesia a san Gregorio; la proclamación como doctor de la Iglesia se realizó con una carta apostólica del papa Francisco el 12 de abril de 2015, y se anunció solemnemente el mismo día durante la celebración en la Basílica de San Pedro con motivo del centenario del genocidio armenio. Gregorio es el 36° Doctor de la Iglesia proclamado por la Iglesia católica. El mismo papa el 25 de enero de 2021 instituyó su memoria opcional para toda la Iglesia universal, fijándola el 27 de febrero. No solo por su doctrina, sino también por su capacidad poética, Gregorio de Narek es un modelo para la poesía armenia de todos los tiempos. En los siglos XX y XXI, con el redescubrimiento de la mística en la poesía armenia, volvió a ser un modelo y un ejemplo para muchos poetas que lo han citado más o menos veladamente en sus obras. Entre aquellos que lo han tomado como ejemplo recordamos al poeta Hrand Nazariantz y la poetisa Anahit Ghazakhetsyan.",
         "patronage": "",
@@ -3231,33 +3231,33 @@
     },
     "StJohnAvila_561": {
         "subject": "San Juan de Ávila",
-        "places": "Montilla, España",
-        "place_of_death": "Montilla, España",
-        "place_of_birth": "Almodóvar del Campo, España",
-        "place_of_burial": "Basílica de San Juan de Ávila, Montilla, España",
+        "places": "Montilla (España)",
+        "place_of_death": "Montilla (España)",
+        "place_of_birth": "Almodóvar del Campo (España)",
+        "place_of_burial": "Almodóvar del Campo (España)",
         "notes": "Juan de Ávila (Almodóvar del Campo, 6 de enero de 1499 – Montilla, 10 de mayo de 1569) fue un sacerdote español, gran predicador y místico, y fue proclamado santo por el papa Pablo VI (1970); en 2012 fue declarado doctor de la Iglesia por el papa Benedicto XVI; es llamado el Apóstol de Andalucía. Nacido en una noble familia castellana, comenzó a estudiar jurisprudencia en Salamanca, pero pronto pasó a la universidad de Alcalá de Henares donde se graduó en teología y filosofía. Quedó huérfano cuando aún era estudiante y, ordenado sacerdote, en 1525 celebró su primera misa en la iglesia donde estaban sepultados sus padres y distribuyó su parte de herencia a los pobres. En 1527 planeó partir a México como misionero, pero su celo y su habilidad oratoria fueron señalados al Obispo de Sevilla, Alfonso Manrique de Lara, quien le encargó organizar misiones populares en toda Andalucía para avivar la fe en esas tierras: su fama de orador se difundió rápidamente entre todos los estratos sociales de la población hasta volverse legendaria; también fue encargado de pronunciar el sermón con motivo de los funerales de la reina Isabel de Portugal, esposa de Carlos V, celebrados el 17 de mayo de 1538. Amigo de san Ignacio de Loyola, favoreció el desarrollo y la difusión de los Jesuitas en España; apoyó a santa Teresa de Ávila en su obra de reforma de la Orden carmelita y a san Juan de Dios en la fundación de los Hermanos Hospitalarios; fue una de sus homilías, la pronunciada en los funerales de Isabel de Portugal, la que causó la conversión de san Francisco de Borja, quien abandonó el cargo de Virrey de Cataluña para convertirse en sacerdote de la Compañía de Jesús. Fue autor de numerosas obras de carácter devocional entre las que se encuentran el Epistolario espiritual entre todos los estados y Audi, filia, et vide, que tuvieron un éxito extraordinario en la segunda mitad del siglo XVII y fueron traducidos y difundidos por toda Europa.",
         "patronage": "",
-        "main_shrine": "Basílica de San Juan de Ávila, Montilla, España"
+        "main_shrine": "Basílica de San Juan de Ávila (Montilla, España)"
     },
     "StJohnAvila_562": {
         "subject": "San Juan de Ávila",
-        "places": "Montilla, España",
-        "place_of_death": "Montilla, España",
-        "place_of_birth": "Almodóvar del Campo, España",
-        "place_of_burial": "Basílica de San Juan de Ávila, Montilla, España",
+        "places": "Montilla (España)",
+        "place_of_death": "Montilla (España)",
+        "place_of_birth": "Almodóvar del Campo (España)",
+        "place_of_burial": "Almodóvar del Campo (España)",
         "notes": "Juan de Ávila (Almodóvar del Campo, 6 de enero de 1499 - Montilla, 10 de mayo de 1569) fue un sacerdote español, gran predicador y místico, y fue proclamado santo por el papa Pablo VI (1970); en 2012 fue declarado doctor de la Iglesia por el papa Benedicto XVI; es llamado el Apóstol de Andalucía. Nacido en una noble familia castellana, comenzó a estudiar jurisprudencia en Salamanca, pero pronto pasó a la universidad de Alcalá de Henares donde se graduó en teología y filosofía. Quedó huérfano cuando aún era estudiante y, ordenado sacerdote, en 1525 celebró su primera misa en la iglesia donde estaban enterrados sus padres y distribuyó su parte de la herencia a los pobres. En 1527 planeó partir a México como misionero, pero su celo y su habilidad oratoria fueron señalados al Obispo de Sevilla, Alfonso Manrique de Lara, quien le encargó organizar misiones populares en toda Andalucía para avivar la fe en esas tierras: su fama de orador se difundió rápidamente entre todos los estratos sociales de la población hasta volverse legendaria; también se le encargó pronunciar el sermón con motivo de los funerales de la reina Isabel de Portugal, esposa de Carlos V, celebrados el 17 de mayo de 1538. Amigo de san Ignacio de Loyola, favoreció el desarrollo y la difusión de los Jesuitas en España; apoyó a santa Teresa de Ávila en su obra de reforma de la Orden carmelita y a san Juan de Dios en la fundación de los Hermanos Hospitalarios; fue una de sus homilías, la pronunciada en los funerales de Isabel de Portugal, la que causó la conversión de san Francisco de Borja, quien abandonó el cargo de Virrey de Cataluña para convertirse en sacerdote de la Compañía de Jesús. Fue autor de numerosas obras de carácter devocional, entre ellas el Epistolario espiritual entre todos los estados y Audi, filia, et vide, que tuvieron un éxito extraordinario en la segunda mitad del siglo XVII y fueron traducidas y difundidas por toda Europa.",
         "patronage": "",
-        "main_shrine": "1970-05-31"
+        "main_shrine": "Almodóvar del Campo (España)"
     },
     "StJohnAvila_563": {
         "subject": "San Juan de Ávila",
-        "places": "Montilla, España",
-        "place_of_death": "Montilla, España",
-        "place_of_birth": "Almodóvar del Campo, España",
-        "place_of_burial": "1970-05-31",
+        "places": "Montilla (España)",
+        "place_of_death": "Montilla (España)",
+        "place_of_birth": "Almodóvar del Campo (España)",
+        "place_of_burial": "Basílica de San Juan de Ávila (Montilla, España)",
         "notes": "Juan de Ávila (Almodóvar del Campo, 6 de enero de 1499 - Montilla, 10 de mayo de 1569) fue un sacerdote español, gran predicador y místico, y fue proclamado santo por el papa Pablo VI (1970); en 2012 fue declarado doctor de la Iglesia por el papa Benedicto XVI; es llamado el Apóstol de Andalucía. Nacido en una noble familia castellana, comenzó a estudiar jurisprudencia en Salamanca, pero pronto pasó a la universidad de Alcalá de Henares donde se graduó en teología y filosofía. Quedó huérfano cuando aún era estudiante y, ordenado sacerdote, en 1525 celebró su primera misa en la iglesia donde estaban enterrados sus padres y distribuyó su parte de la herencia a los pobres. En 1527 planeó partir a México como misionero, pero su celo y su habilidad oratoria fueron señalados al Obispo de Sevilla, Alfonso Manrique de Lara, quien le encargó organizar misiones populares en toda Andalucía para avivar la fe en esas tierras: su fama de orador se difundió rápidamente entre todos los estratos sociales de la población hasta volverse legendaria; también se le encargó pronunciar el sermón con motivo de los funerales de la reina Isabel de Portugal, esposa de Carlos V, celebrados el 17 de mayo de 1538. Amigo de san Ignacio de Loyola, favoreció el desarrollo y la difusión de los Jesuitas en España; apoyó a santa Teresa de Ávila en su obra de reforma de la Orden carmelita y a san Juan de Dios en la fundación de los Hermanos Hospitalarios; fue una de sus homilías, la pronunciada en los funerales de Isabel de Portugal, la que causó la conversión de san Francisco de Borja, quien abandonó el cargo de Virrey de Cataluña para convertirse en sacerdote de la Compañía de Jesús. Fue autor de numerosas obras de carácter devocional, entre ellas el Epistolario espiritual entre todos los estados y Audi, filia, et vide, que tuvieron un éxito extraordinario en la segunda mitad del siglo XVII y fueron traducidas y difundidas por toda Europa.",
         "patronage": "",
-        "main_shrine": "1970-05-31"
+        "main_shrine": "Basílica de San Juan de Ávila (Montilla, España)"
     },
     "StHildegardBingen_564": {
         "subject": "Santa Hildegarda de Bingen",
@@ -3337,14 +3337,14 @@
         "place_of_burial": "Basílica de San Pedro en el Vaticano",
         "notes": "Gregorio (Roma, mediados del siglo VI - 12 de marzo de 604), ya prefecto de la Urbe, fue monje y abad de San Andrés en el Celio, así como enviado papal a Constantinopla. Elegido pontífice (590), desarrolló una multiforme actividad tanto de gobierno de la Iglesia como de administración de la ciudad, en el dramático contexto de las invasiones de pueblos germánicos. Abrió nuevos caminos a la misión, por ejemplo en Anglia, y dedicó particular atención a la liturgia y al cuidado de los pobres. Con sus escritos de contenido pastoral, exegético y hagiográfico, sus cartas y homilías, fue uno de los grandes maestros de la Edad Media. La fecha de la memoria litúrgica corresponde al día de su elección al pontificado.",
         "patronage": "",
-        "main_shrine": "Basílica de San Pedro en el Vaticano; Iglesia de San Gregorio en el Celio, Roma"
+        "main_shrine": "Basílica de San Pedro en el Vaticano; Iglesia de San Gregorio en el Celio (Roma, Italia)"
     },
     "StJohnChrysostom_572": {
         "subject": "San Juan Crisóstomo, obispo y doctor",
         "places": "Antakya (Turquía), Comana Pontica (Turquía), Estambul (Turquía)",
-        "place_of_death": "Comana Pontica, Turquía",
-        "place_of_birth": "Antioquía de Siria (actual Antakya), Turquía",
-        "place_of_burial": "En 438, bajo el emperador Teodosio II, por iniciativa del arzobispo Proclo, sus restos fueron llevados solemnemente a Constantinopla y sepultados en la iglesia de los Santos Apóstoles. Trasladados a Roma, los restos de Juan Crisóstomo fueron colocados en la basílica vaticana, donde aún se conservan. Según una tradición, no confirmada por las fuentes, las reliquias de San Juan habrían llegado a Roma en la época de la cuarta cruzada, después del saqueo de Constantinopla en 1204.",
+        "place_of_death": "Comana Póntica (Turquía)",
+        "place_of_birth": "Antioquía de Siria (actual Antakya, Turquía)",
+        "place_of_burial": "En 438, bajo el emperador Teodosio II, por iniciativa del arzobispo Proclo, sus restos fueron llevados solemnemente a Constantinopla y sepultados en la iglesia de los Santos Apóstoles. Trasladados a Roma, los restos de Juan Crisóstomo fueron colocados en la basílica vaticana, donde aún se conservan. Según una tradición, no confirmada por las fuentes, las reliquias de san Juan habrían llegado a Roma en la época de la cuarta cruzada, después del saqueo de Constantinopla en 1204.",
         "notes": "Juan (Antioquía de Siria, actual Antakya, Turquía, mediados del siglo IV - Comana Pontica, 14 de septiembre de 407) recibió una formación cultural meticulosa, con la perspectiva de suceder a su padre como funcionario imperial. Sin embargo, se retiró al desierto, sumergiéndose en el estudio de las Escrituras. Al regresar a la ciudad y ser ordenado presbítero, fascinó a las multitudes con su predicación, tanto que fue llamado «Crisóstomo» («boca de oro»). Elegido obispo de Constantinopla, prestó especial atención a la liturgia: su anáfora eucarística es aún hoy la más difundida en Oriente. Predicó el Evangelio con franqueza y valentía, denunciando las faltas del clero y los abusos de los poderosos. Su celo le atrajo muchos enemigos: depuesto de su cargo episcopal y condenado al exilio, murió agotado por las fatigas soportadas durante el viaje.",
         "patronage": "",
         "main_shrine": "Basílica de San Pedro en el Vaticano"
@@ -3361,8 +3361,8 @@
     },
     "StGregoryNazianzen_574": {
         "subject": "San Gregorio Nacianceno",
-        "places": "Capadocia, Constantinopla (Turquía), Roma (Italia)",
-        "place_of_death": "Constantinopla (actual Estambul), Turquía",
+        "places": "Capadocia (Turquía); Constantinopla (Turquía); Roma (Italia)",
+        "place_of_death": "Constantinopla (actual Estambul, Turquía)",
         "place_of_birth": "Nazianzo, en la actual Turquía",
         "place_of_burial": "Basílica de San Pedro; anteriormente Iglesia de Santa María de la Concepción en Campo Marzio, Roma, donde se conserva un brazo",
         "notes": "Gregorio (Nazianzo, en la actual Turquía, 329/330 - 390) compartió con Basilio la formación cultural y el deseo de la vida monástica. Elegido patriarca de Constantinopla, vivió un breve y sufrido episcopado, en medio de muchos conflictos. Valente escritor y orador, también se dedicó a la poesía. Junto con Basilio contribuyó notablemente al desarrollo de la doctrina trinitaria. Memoria litúrgica el 2 de enero",
@@ -3372,12 +3372,12 @@
     "StAthanasius_575": {
         "subject": "San Atanasio, obispo y doctor",
         "places": "Alejandría de Egipto",
-        "place_of_death": "Alejandría, Egipto",
-        "place_of_birth": "Alejandría, Egipto",
-        "place_of_burial": "Catedral copta de San Marcos, Alejandría, Egipto",
+        "place_of_death": "Basílica de Santa María la Mayor (Roma, Italia)",
+        "place_of_birth": "Basílica de Santa María la Mayor (Roma, Italia)",
+        "place_of_burial": "Catedral copta de San Marcos (Alejandría, Egipto)",
         "notes": "Atanasio (300 aprox. - 373), obispo de Alejandría de Egipto, fue tenaz defensor de la plena divinidad del Hijo, proclamada por el Concilio de Nicea (325) pero largamente disputada por los seguidores de Arrio, a menudo apoyados por la corte imperial: por esto sufrió largos periodos de exilio. La Vida de San Antonio, compuesta por él, favoreció la difusión del ideal monástico en Occidente.",
         "patronage": "",
-        "main_shrine": "Catedral copta de San Marcos, Alejandría, Egipto"
+        "main_shrine": "Catedral copta de San Marcos (Alejandría, Egipto)"
     },
     "StIsidore_576": {
         "subject": "San Isidoro, obispo y doctor de la Iglesia",
@@ -3422,8 +3422,8 @@
     "StCyrilAlexandria_580": {
         "subject": "San Cirilo de Alejandría, obispo y doctor",
         "places": "N/D",
-        "place_of_death": "Alejandría, Egipto",
-        "place_of_birth": "Teodosia (actual el-Mahalla el-Kubra), Egipto",
+        "place_of_death": "Basílica de Santa María la Mayor (Roma, Italia)",
+        "place_of_birth": "Teodosia (actual el-Mahalla el-Kubra, Egipto)",
         "place_of_burial": "N/D",
         "notes": "Cirilo, obispo de Alejandría de Egipto del 412 al 444, defendió enérgicamente la pureza de la fe en Cristo. Autor de numerosos escritos teológicos, sostuvo con firmeza el reconocimiento de María como Madre de Dios, especialmente en el Concilio de Éfeso (431). Su memoria es celebrada en este día también por los coptos y los bizantinos.",
         "patronage": "",
