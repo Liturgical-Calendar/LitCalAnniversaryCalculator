@@ -2,9 +2,9 @@
     "StBasilGreat_1": {
         "subject": "San Basilio Magno",
         "places": "Cappadocia (Turchia)",
-        "place_of_death": "Kayseri, Turchia",
-        "place_of_birth": "Cesarea di Cappadocia, attuale Kayseri, Turchia",
-        "place_of_burial": "St. George's Cathedral, Istanbul, Turchia",
+        "place_of_death": "Kayseri (Turchia)",
+        "place_of_birth": "Cesarea di Cappadocia (attuale Kayseri, Turchia)",
+        "place_of_burial": "Monastero della Grande Laura (Monte Athos, Grecia)",
         "notes": "Morto il 1 gennaio, la memoria liturgica è al giorno successivo 2 gennaio",
         "patronage": "della Russia, dei monaci, degli amministratori ospedalieri, dei poeti",
         "main_shrine": "Ptochoptopheion o Basileiade (Cesarea Mazaca, attuale Kayseri, Cappadocia)"
@@ -12,7 +12,7 @@
     "StRayPenyafort_2": {
         "subject": "San Raimondo di Peñafort, sacerdote",
         "places": "Barcellona (Spagna)",
-        "place_of_death": "Barcellona, Spagna",
+        "place_of_death": "Barcellona (Spagna)",
         "place_of_birth": "Santa Margarida i els Monjos, Spagna",
         "place_of_burial": "Cattedrale della Santa Croce e Sant'Eulalia, Barcellona",
         "notes": "La memoria liturgica è fissata al giorno successivo 7 gennaio",
@@ -403,7 +403,7 @@
         "subject": "San Giorgio, martire",
         "places": "Lidda (vicino all'attuale Tel Aviv, Israele)",
         "place_of_death": "Nicomedia (attuale İzmit), Turchia | oppure | Lidda (attuale Lod) - Tel Aviv, Israele",
-        "place_of_birth": "Cappadocia, Turchia",
+        "place_of_birth": "Cappadocia (Turchia)",
         "place_of_burial": "Lidda, Tel Aviv (Israele)",
         "notes": "Giorgio, il cui sepolcro è a Lidda (attuale Lod, Israele), a partire almeno dal secolo IV venne onorato quale martire di Cristo. Questa antica tradizione di culto induce a riconoscere la storicità del personaggio, benché non si abbiano di lui informazioni sicure. Fu spesso raffigurato come un cavaliere che, sconfiggendo il drago, simboleggia il trionfo della fede sul male. La popolarità del santo nel Medioevo è testimoniata dalla presenza del suo corpo in almeno una trentina di chiese, in Francia, Spagna, Germania, Italia e Paesi Bassi; la sua testa è oggi esposta a Venezia, Praga, Costantinopoli e Lidda, mentre tre delle braccia esistenti del santo si trovano a Roma, Parigi e Conques. Nella chiesa di San Giorgio in Lemine ad Almenno San Salvatore (BG) è esposta, appesa al soffitto, una costola del drago ucciso da San Giorgio. A Roma, Belisario (ca. 527) affidò alla protezione del santo la porta di san Sebastiano e la chiesa del Velabro, dove venne poi trasferito il cranio di san Giorgio, trovato in Cappadocia da papa Zaccaria (744–752). Una frazione del cranio di san Giorgio è custodita presso la chiesa di San Giorgio Martire in Oriolo (CS). Nella chiesa Matrice di Matino, intitolata a San Giorgio, è conservato un pezzo dello stinco del santo.",
         "patronage": "",
@@ -1685,7 +1685,7 @@
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
-        "notes": "Fin dai secoli VII-VIII in Oriente, nove mesi esatti prima della festa della Natività (8 settembre), veniva celebrata una festa della «concezione» di Maria. Celebrata poi in Occidente dal sec. XI, questa solennità si inserisce nel contesto dell’Avvento- Natale, congiungendo l’attesa messianica e il ritorno glorioso di Cristo con l’ammirata memoria della Madre. In tal senso questo periodo liturgico deve essere considerato un tempo particolarmente adatto per il culto della Madre del Signore (cf. Paolo VI, Marialis cultus, 4). Maria è la Tuttasanta, immune da ogni macchia di peccato, dallo Spirito Santo quasi plasmata e resa nuova creatura (cf. Lumen gentium, 56). Già profeticamente adombrata nella promessa fatta ai progenitori della vittoria sul serpente, Maria è la Vergine che concepirà e partorirà un figlio il cui nome sarà Emmanuele. Il dogma dell’Immacolata Concezione fu proclamato da Pio IX nel 1854",
+        "notes": "Fin dai secoli VII-VIII in Oriente, nove mesi esatti prima della festa della Natività (8 settembre), veniva celebrata una festa della «concezione» di Maria. Celebrata poi in Occidente dal sec. XI, questa solennità si inserisce nel contesto dell’Avvento- Natale, congiungendo l’attesa messianica e il ritorno glorioso di Cristo con l’ammirata memoria della Madre. In tal senso questo periodo liturgico deve essere considerato un tempo particolarmente adatto per il culto della Madre del Signore (cf. Paolo VI, Marialis cultus, 4). Maria è la Tuttasanta, immune da ogni macchia di peccato, dallo Spirito Santo quasi plasmata e resa nuova creatura (cf. Lumen gentium, 56). Già profeticamente adombrata nella promessa fatta ai progenitori della vittoria sul serpente, Maria è la Vergine che concepirà e partorirà un figlio il cui nome sarà Emmanuele. Il dogma dell’Immacolata Concezione fu proclamato da Pio IX nel 1854.",
         "patronage": "",
         "main_shrine": "N/A"
     },
@@ -1754,10 +1754,10 @@
         "places": "N/A",
         "place_of_death": "Efeso",
         "place_of_birth": "Betsaida",
-        "place_of_burial": "Sul sito a Efeso, considerato sede del sepolcro di Giovanni, fu costruita una basilica nel VI secolo, sotto l'imperatore Giustiniano, della quale oggi rimangono solo tracce",
+        "place_of_burial": "Sul sito a Efeso, considerato sede del sepolcro di Giovanni, fu costruita una basilica nel VI secolo, sotto l'imperatore Giustiniano, della quale oggi rimangono solo tracce.",
         "notes": "Giovanni, figlio di Zebedeo, è chiamato da Gesù insieme al fratello Giacomo, durante il loro lavoro di pescatori (cf. Mt 4, 21-22); i due sono annoverati tra i Dodici e vengono nominati da Gesù «Boanèrghes, cioè “figli del tuono”» (Mc 3, 17). Giovanni, con Pietro e Giacomo, è tra i discepoli più intimi di Gesù, quelli che accompagnano il Maestro in alcuni momenti particolarmente importanti: quando Gesù guarisce la suocera di Pietro (Mc 1, 29); quando fa rivivere la figlia del capo della sinagoga, Giairo (Mc 5, 37); quando si trasfigura sul monte (Mc 9, 2); nella preghiera al Getsemani (cf. Mc 14, 33). Appare sempre accanto a Pietro nei primi momenti della comunità: la guarigione dello storpio (At 3, 1-4.11); nel primo arresto e giudizio del sinedrio (cf. At 4, 1-20); in Samaria a confermare i primi credenti (At 8, 14). Sempre insieme a Pietro e a Giacomo, il «fratello del Signore», è presentato come una delle «colonne» della comunità di Gerusalemme (Gal 2, 9). La tradizione riconosce in lui il «discepolo amato», di cui parla il Vangelo di Giovanni, che gli è attribuito insieme alle tre lettere che portano il suo nome e all’Apocalisse. Giovanni è ricordato il 27 dicembre nel cosidetto Breviario siriaco (sec. IV) e nel Martirologio geronimiano (sec. V-VI). A Patmo una grotta detta \"dell'Apocalisse\" viene indicata come dimora dell'apostolo durante il suo momentaneo esilio. Dal 1999 è uno dei Patrimoni dell'umanità dell'UNESCO, assieme al Monastero di San Giovanni; a Roma, Basilica di San Giovanni a Porta Latina, con cappella San Giovanni in Oleo.",
         "patronage": "",
-        "main_shrine": "A Patmo una grotta detta \"dell'Apocalisse\" viene indicata come dimora dell'apostolo durante il suo momentaneo esilio. Dal 1999 è uno dei Patrimoni dell'umanità dell'UNESCO, assieme al Monastero di San Giovanni; a Roma, Basilica di San Giovanni a Porta Lat"
+        "main_shrine": "A Patmos una grotta detta \"dell'Apocalisse\" viene indicata come dimora dell'apostolo durante il suo momentaneo esilio. Dal 1999 è uno dei Patrimoni dell'umanità dell'UNESCO, assieme al Monastero di San Giovanni; a Roma, Basilica di San Giovanni a Porta Latina e vicina cappella di San Giovanni \"in oleo\", oltre che la Basilica di San Giovanni in Laterano"
     },
     "HolyInnocents_185": {
         "subject": "Santi Innocenti, martiri",
@@ -1805,7 +1805,7 @@
         "place_of_death": "Schio (Vicenza, Italia)",
         "place_of_birth": "Darfur (Sudan)",
         "place_of_burial": "Convento delle Canossiane di Schio (Vicenza, Italia)",
-        "notes": "Bakhita, ovvero «Fortunata» (Darfur, Sudan, 1869 - Schio, Vicenza, 1947), fu il nome assegnato a una bambina africana, rapita e venduta come schiava da mercanti. Dopo esser stata di proprietà di vari padroni, fu acquistata dal console italiano a Karthoum il quale la condusse con sé a Venezia. Conobbe la fede cattolica e ricevette il Battesimo, assumendo il nome di Giuseppina. Entrata fra le Canossiane, visse a Schio, dove si distinse per la grande carità verso i bisognosi",
+        "notes": "Bakhita, ovvero «Fortunata» (Darfur, Sudan, 1869 - Schio, Vicenza, 1947), fu il nome assegnato a una bambina africana, rapita e venduta come schiava da mercanti. Dopo esser stata di proprietà di vari padroni, fu acquistata dal console italiano a Karthoum il quale la condusse con sé a Venezia. Conobbe la fede cattolica e ricevette il Battesimo, assumendo il nome di Giuseppina. Entrata fra le Canossiane, visse a Schio, dove si distinse per la grande carità verso i bisognosi.",
         "patronage": "",
         "main_shrine": "Convento delle Canossiane di Schio (Vicenza, Italia)"
     },
@@ -1877,7 +1877,7 @@
         "place_of_burial": "Apollinariskirche (Remagen, Germania); Basilica di St. Lambertus, Düsseldorf (Germania)",
         "notes": "Apollinare (seconda metà sec. II) fu il primo vescovo di Ravenna e uno tra i primi pastori di tutta l’Italia settentrionale. Fu anche martire per la fede, come attesta uno dei suoi successori, san Pietro Crisologo (sec.V). Sulla sua tomba venne edificata la basilica di Sant’Apollinare in Classe (sec.VI). Sul luogo del martirio, a Civitas Classis fu eretta nel VI secolo la chiesa di Sant'Apollinare. Le reliquie del santo furono nel IX secolo trasferite in città, nella chiesa che da quel momento prese il nome di Sant'Apollinare Nuovo. Successivamente le ossa furono portate in Germania, dove tutt'oggi si trovano. A Ravenna rimasero il capo e la mano destra che, dal 1874 sono conservate nel Duomo.",
         "patronage": "",
-        "main_shrine": "Sul luogo del martirio, a Civitas Classis fu eretta nel VI secolo la chiesa di Sant'Apollinare. Le reliquie del santo furono nel IX secolo trasferite in città, nella chiesa che da quel momento prese il nome di Sant'Apollinare Nuovo. Successivamente le oss"
+        "main_shrine": "Sul luogo del martirio, a Civitas Classis, fu eretta nel VI secolo la basilica di Sant'Apollinare. Le reliquie del santo furono nel IX secolo trasferite in città, nella chiesa che da quel momento prese il nome di Sant'Apollinare Nuovo. Successivamente le ossa furono portate in Germania, prima nell'Apollinariskirche a Remagen, poi nel sec. XIV furono trasferite nella vicina Düsseldorf dove tutt'oggi si trovano. A Ravenna rimasero il capo e la mano destra che, dal 1874, sono conservate nel duomo."
     },
     "StSharbelMakhluf_197": {
         "subject": "San Charbel Makhluf, eremita",
@@ -1945,7 +1945,7 @@
         "place_of_death": "Saenamteo, Seoul, Corea del Sud",
         "place_of_birth": "Solmoi (Seoul), Corea del Sud",
         "place_of_burial": "Cattedrale di Myeongdong",
-        "notes": "Andrea (1821 - Seoul, Corea del Sud, 16 settembre 1846) fu il primo presbitero della Chiesa coreana, per oltre mezzo secolo composta solo da laici; tra questi il catechista Paolo, vittima, dieci anni prima, della persecuzione intrapresa dai governanti per il timore di infiltrazioni straniere nelle tradizioni culturali e religiose locali. Alla memoria di Andrea e Paolo vengono associati altri centouno martiri, compresi due vescovi europei, Lorenzo Imbert e Simeone Berneux. Furono oltre diecimila i cristiani che, a diverse riprese, lungo il secolo XIX, fecondarono con il sangue quella giovane Chiesa. Essa era sorta verso la fine del secolo XVIII da un incontro spontaneo con il cristianesimo cinese, quindi era cresciuta anche grazie all’arrivo di alcuni missionari dall’Occidente, nei primi decenni dell’Ottocento. La luminosa vicenda della Chiesa coreana e dei suoi martiri costituisce dunque una chiara testimonianza della nascosta ma efficace azione dello Spirito Santo, anche nelle condizioni più difficili per la comunità cristiana",
+        "notes": "Andrea (1821 - Seoul, Corea del Sud, 16 settembre 1846) fu il primo presbitero della Chiesa coreana, per oltre mezzo secolo composta solo da laici; tra questi il catechista Paolo, vittima, dieci anni prima, della persecuzione intrapresa dai governanti per il timore di infiltrazioni straniere nelle tradizioni culturali e religiose locali. Alla memoria di Andrea e Paolo vengono associati altri centouno martiri, compresi due vescovi europei, Lorenzo Imbert e Simeone Berneux. Furono oltre diecimila i cristiani che, a diverse riprese, lungo il secolo XIX, fecondarono con il sangue quella giovane Chiesa. Essa era sorta verso la fine del secolo XVIII da un incontro spontaneo con il cristianesimo cinese, quindi era cresciuta anche grazie all’arrivo di alcuni missionari dall’Occidente, nei primi decenni dell’Ottocento. La luminosa vicenda della Chiesa coreana e dei suoi martiri costituisce dunque una chiara testimonianza della nascosta ma efficace azione dello Spirito Santo, anche nelle condizioni più difficili per la comunità cristiana.",
         "patronage": "",
         "main_shrine": "Saenamteo Martyrs Shrine, Seoul, Corea del Sud"
     },
@@ -1992,7 +1992,7 @@
     "StRayPenyafort_208": {
         "subject": "San Raimondo di Peñafort, sacerdote",
         "places": "Barcellona (Spagna)",
-        "place_of_death": "Barcellona, Spagna",
+        "place_of_death": "Barcellona (Spagna)",
         "place_of_birth": "Santa Margarida i els Monjos, Spagna",
         "place_of_burial": "Cattedrale della Santa Croce e Sant'Eulalia, Barcellona",
         "notes": "La memoria liturgica è fissata al giorno successivo 7 gennaio",
@@ -2655,7 +2655,7 @@
         "place_of_death": "Paray-le-Monial,Francia",
         "place_of_birth": "Verosvres (Francia)",
         "place_of_burial": "Chapelle de la Visitation, Paray-le-Monial (Francia)",
-        "notes": "Margherita (Verosvres, Francia, 22 luglio 1647 - Paray-le-Monial, 17 ottobre 1690), entrata nel monastero delle Visitandine di Paray-le-Monial, dove assunse anche il nome di Maria, sperimentò un amore intenso per Cristo, arricchito di particolari grazie. Coltivò soprattutto la devozione al Cuore di Gesù e ne promosse la diffusione",
+        "notes": "Margherita (Verosvres, Francia, 22 luglio 1647 - Paray-le-Monial, 17 ottobre 1690), entrata nel monastero delle Visitandine di Paray-le-Monial, dove assunse anche il nome di Maria, sperimentò un amore intenso per Cristo, arricchito di particolari grazie. Coltivò soprattutto la devozione al Cuore di Gesù e ne promosse la diffusione.",
         "patronage": "",
         "main_shrine": "Chapelle de la Visitation, Paray-le-Monial (Francia)"
     },
@@ -2825,7 +2825,7 @@
         "place_of_death": "Schio (Vicenza, Italia)",
         "place_of_birth": "Darfur (Sudan)",
         "place_of_burial": "Convento delle Canossiane di Schio (Vicenza, Italia)",
-        "notes": "Bakhita, ovvero «Fortunata» (Darfur, Sudan, 1869 - Schio, Vicenza, 1947), fu il nome assegnato a una bambina africana, rapita e venduta come schiava da mercanti. Dopo esser stata di proprietà di vari padroni, fu acquistata dal console italiano a Karthoum il quale la condusse con sé a Venezia. Conobbe la fede cattolica e ricevette il Battesimo, assumendo il nome di Giuseppina. Entrata fra le Canossiane, visse a Schio, dove si distinse per la grande carità verso i bisognosi",
+        "notes": "Bakhita, ovvero «Fortunata» (Darfur, Sudan, 1869 - Schio, Vicenza, 1947), fu il nome assegnato a una bambina africana, rapita e venduta come schiava da mercanti. Dopo esser stata di proprietà di vari padroni, fu acquistata dal console italiano a Karthoum il quale la condusse con sé a Venezia. Conobbe la fede cattolica e ricevette il Battesimo, assumendo il nome di Giuseppina. Entrata fra le Canossiane, visse a Schio, dove si distinse per la grande carità verso i bisognosi.",
         "patronage": "",
         "main_shrine": "Convento delle Canossiane di Schio (Vicenza, Italia)"
     },
@@ -2925,7 +2925,7 @@
         "place_of_death": "Saenamteo, Seoul, Corea del Sud",
         "place_of_birth": "Solmoi (Seoul), Corea del Sud",
         "place_of_burial": "Cattedrale di Myeongdong",
-        "notes": "Andrea (1821 - Seoul, Corea del Sud, 16 settembre 1846) fu il primo presbitero della Chiesa coreana, per oltre mezzo secolo composta solo da laici; tra questi il catechista Paolo, vittima, dieci anni prima, della persecuzione intrapresa dai governanti per il timore di infiltrazioni straniere nelle tradizioni culturali e religiose locali. Alla memoria di Andrea e Paolo vengono associati altri centouno martiri, compresi due vescovi europei, Lorenzo Imbert e Simeone Berneux. Furono oltre diecimila i cristiani che, a diverse riprese, lungo il secolo XIX, fecondarono con il sangue quella giovane Chiesa. Essa era sorta verso la fine del secolo XVIII da un incontro spontaneo con il cristianesimo cinese, quindi era cresciuta anche grazie all’arrivo di alcuni missionari dall’Occidente, nei primi decenni dell’Ottocento. La luminosa vicenda della Chiesa coreana e dei suoi martiri costituisce dunque una chiara testimonianza della nascosta ma efficace azione dello Spirito Santo, anche nelle condizioni più difficili per la comunità cristiana",
+        "notes": "Andrea (1821 - Seoul, Corea del Sud, 16 settembre 1846) fu il primo presbitero della Chiesa coreana, per oltre mezzo secolo composta solo da laici; tra questi il catechista Paolo, vittima, dieci anni prima, della persecuzione intrapresa dai governanti per il timore di infiltrazioni straniere nelle tradizioni culturali e religiose locali. Alla memoria di Andrea e Paolo vengono associati altri centouno martiri, compresi due vescovi europei, Lorenzo Imbert e Simeone Berneux. Furono oltre diecimila i cristiani che, a diverse riprese, lungo il secolo XIX, fecondarono con il sangue quella giovane Chiesa. Essa era sorta verso la fine del secolo XVIII da un incontro spontaneo con il cristianesimo cinese, quindi era cresciuta anche grazie all’arrivo di alcuni missionari dall’Occidente, nei primi decenni dell’Ottocento. La luminosa vicenda della Chiesa coreana e dei suoi martiri costituisce dunque una chiara testimonianza della nascosta ma efficace azione dello Spirito Santo, anche nelle condizioni più difficili per la comunità cristiana.",
         "patronage": "",
         "main_shrine": "Saenamteo Martyrs Shrine, Seoul, Corea del Sud"
     },
@@ -2955,7 +2955,7 @@
         "place_of_death": "Lione (Francia)",
         "place_of_birth": "Sales (Francia)",
         "place_of_burial": "Basilica della Visitazione, Annecy (Francia)",
-        "notes": "Francesco (Sales, Francia, 1567 - Lione, 28 dicembre 1622), vescovo di Ginevra (Svizzera) con sede ad Annecy (Francia), grazie alla sua umana dolcezza e alla saggezza pastorale, favorì l’unità della Chiesa in un territorio caratterizzato da forti contrasti tra cattolici e calvinisti. Con l’Introduzione alla vita devota e altre opere ascetico-mistiche propose una via di santità accessibile in tutte le condizioni di vita, in quanto fondata interamente sull’amore di Dio, compendio di ogni perfezione. Con santa Giovanna Francesca Frémyot de Chantal fondò l’Ordine femminile della Visitazione. Il giorno della memoria liturgica corrisponde a quello della sua sepoltura ad Annecy. Insieme a San Francesco di Sales, è sepolta anche Santa Giovanna Francesca Frémiot de Chantal nella stessa chiesa della visitazione ad Annecy",
+        "notes": "Francesco (Sales, Francia, 1567 - Lione, 28 dicembre 1622), vescovo di Ginevra (Svizzera) con sede ad Annecy (Francia), grazie alla sua umana dolcezza e alla saggezza pastorale, favorì l’unità della Chiesa in un territorio caratterizzato da forti contrasti tra cattolici e calvinisti. Con l’Introduzione alla vita devota e altre opere ascetico-mistiche propose una via di santità accessibile in tutte le condizioni di vita, in quanto fondata interamente sull’amore di Dio, compendio di ogni perfezione. Con santa Giovanna Francesca Frémyot de Chantal fondò l’Ordine femminile della Visitazione. Il giorno della memoria liturgica corrisponde a quello della sua sepoltura ad Annecy. Insieme a San Francesco di Sales, è sepolta anche Santa Giovanna Francesca Frémiot de Chantal nella stessa chiesa della visitazione ad Annecy.",
         "patronage": "",
         "main_shrine": "Basilica della Visitazione, Annecy (Francia)"
     },
@@ -3354,7 +3354,7 @@
         "places": "Antakya (Turchia), Comana Pontica (Turchia), Istanbul (Turchia)",
         "place_of_death": "Comana Pontica, Turchia",
         "place_of_birth": "Antiochia di Siria (attuale Antakya), Turchia",
-        "place_of_burial": "Nel 438, sotto l'imperatore Teodosio II, dietro iniziativa dell'arcivescovo Proclo, le sue spoglie furono portate solennemente a Costantinopoli e sepolte nella chiesa dei Santi Apostoli. Trasportate a Roma, le spoglie di Giovanni Crisostomo furono collocate nella basilica vaticana, in cui tuttora sono conservate. Secondo una tradizione, non confermata dalle fonti, le reliquie di san Giovanni sarebbero giunte a Roma all'epoca della quarta crociata, dopo il sacco di Costantinopoli del 1204",
+        "place_of_burial": "Nel 438, sotto l'imperatore Teodosio II, dietro iniziativa dell'arcivescovo Proclo, le sue spoglie furono portate solennemente a Costantinopoli e sepolte nella chiesa dei Santi Apostoli. Trasportate a Roma, le spoglie di Giovanni Crisostomo furono collocate nella basilica vaticana, in cui tuttora sono conservate. Secondo una tradizione, non confermata dalle fonti, le reliquie di san Giovanni sarebbero giunte a Roma all'epoca della quarta crociata, dopo il sacco di Costantinopoli del 1204.",
         "notes": "Giovanni (Antiochia di Siria, attuale Antakya, Turchia, metà sec. IV - Comana Pontica, 14 settembre 407) ebbe un’accurata formazione culturale, nella prospettiva di succedere al padre quale funzionario imperiale. Invece si ritirò nel deserto, immergendosi nello studio della Scrittura. Tornato in città e ordinato presbitero, affascinò le folle con la sua predicazione, tanto da essere chiamato «Crisostomo» («bocca d’oro»). Eletto vescovo di Costantinopoli, ebbe particolare attenzione alla liturgia: la sua anafora eucaristica è ancora oggi la più diffusa in Oriente. Predicò il Vangelo con franchezza e coraggio, denunciando le colpe del clero e i soprusi dei potenti. Il suo zelo gli attirò molti nemici: deposto dalla carica episcopale e condannato all’esilio, morì stremato dalle fatiche sopportate lungo il viaggio.",
         "patronage": "",
         "main_shrine": "Basilica di San Pietro in Vaticano"
@@ -3362,9 +3362,9 @@
     "StBasilGreat_573": {
         "subject": "San Basilio Magno",
         "places": "Cappadocia (Turchia)",
-        "place_of_death": "Kayseri, Turchia",
-        "place_of_birth": "Cesarea di Cappadocia, attuale Kayseri, Turchia",
-        "place_of_burial": "St. George's Cathedral, Istanbul, Turchia",
+        "place_of_death": "Kayseri (Turchia)",
+        "place_of_birth": "Cesarea di Cappadocia (attuale Kayseri, Turchia)",
+        "place_of_burial": "Monastero della Grande Laura (Monte Athos, Grecia)",
         "notes": "Morto il 1 gennaio, la memoria liturgica è al giorno successivo 2 gennaio",
         "patronage": "",
         "main_shrine": "N/A"
@@ -3397,7 +3397,7 @@
         "place_of_burial": "Real Colegiata Basílica de San Isidoro (León, Spagna)",
         "notes": "Isidoro (560 ca. - Siviglia, 4 aprile 636), di famiglia e formazione cristiana, esperto anche nella cultura profana, con le sue opere letterarie ed erudite divenne un punto di riferimento per tutto il Medioevo. Arcivescovo di Siviglia per circa trentacinque anni, promosse, anche mediante alcuni Concili locali, una legislazione liturgica e canonica di importanza fondamentale per la Chiesa iberica.",
         "patronage": "",
-        "main_shrine": "Cattedrale Santa Maria della Sede di Siviglia?"
+        "main_shrine": "Basilica di Sant'Isidoro (Leon, Spagna)"
     },
     "StPeterChrysologus_577": {
         "subject": "San Pietro Crisologo, vescovo e dottore",
