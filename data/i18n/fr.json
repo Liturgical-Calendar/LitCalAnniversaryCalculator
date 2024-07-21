@@ -2,9 +2,9 @@
     "StBasilGreat_1": {
         "subject": "Saint Basile le Grand",
         "places": "Cappadoce (Turquie)",
-        "place_of_death": "Kayseri, Turquie",
-        "place_of_birth": "Césarée de Cappadoce, actuellement Kayseri, Turquie",
-        "place_of_burial": "La cathédrale Saint-Georges, Istanbul, Turquie",
+        "place_of_death": "Kayseri (Turquie)",
+        "place_of_birth": "Césarée de Cappadoce (actuelle Kayseri, Turquie)",
+        "place_of_burial": "Monastère de la Grande Laure (Mont Athos, Grèce)",
         "notes": "Décédé le 1er janvier, la mémoire liturgique est le lendemain, le 2 janvier",
         "patronage": "de la Russie, des moines, des administrateurs hospitaliers, des poètes",
         "main_shrine": "Ptochoptopheion ou Basileiade (Césarée de Cappadoce, actuellement Kayseri, Cappadoce)"
@@ -12,7 +12,7 @@
     "StRayPenyafort_2": {
         "subject": "Saint Raymond de Peñafort, prêtre",
         "places": "Barcelone (Espagne)",
-        "place_of_death": "Barcelone, Espagne",
+        "place_of_death": "Barcelone (Espagne)",
         "place_of_birth": "Santa Margarida i els Monjos, Espagne",
         "place_of_burial": "Cathédrale de la Sainte Croix et Sainte Eulalie, Barcelone",
         "notes": "La mémoire liturgique est fixée au lendemain du 7 janvier",
@@ -1341,7 +1341,7 @@
     },
     "OurLadyRosary_141": {
         "subject": "Bienheureuse Vierge Marie du Rosaire",
-        "places": "N/D",
+        "places": "Pompéi (Italie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
@@ -1373,7 +1373,7 @@
         "subject": "Saint Calixte Ier, pape et martyr",
         "places": "Rome (Italie)",
         "place_of_death": "Rome (Italie)",
-        "place_of_birth": "N/D",
+        "place_of_birth": "Rome (Italie)",
         "place_of_burial": "Cimetière de Calepodio, Via Aurelia, Rome",
         "notes": "Calixte, un ancien esclave, fut pape de 218 à 222. Il a lié son nom au premier cimetière officiel de l'Église de Rome, sur la Via Appia. Il a souffert de conflits internes à la communauté chrétienne et a subi le martyre à Rome, à l'endroit où se dresse l'église qui lui est dédiée. Sa sépulture dans le cimetière de Calepodio, sur la Via Aurelia, est commémorée le 14 octobre dans la Depositio martyrum (336).",
         "patronage": "",
@@ -1431,10 +1431,10 @@
     },
     "StsJeanBrebeuf_150": {
         "subject": "Saints Jean de Brébeuf et Isaac Jogues, prêtres et compagnons martyrs",
-        "places": "Midland (Canada); Auriesville (New York, États-Unis)",
+        "places": "Midland (Canada) ; Auriesville (New York, États-Unis)",
         "place_of_death": "Midland (Canada)",
         "place_of_birth": "Condé-sur-Vire (France)",
-        "place_of_burial": "N/D",
+        "place_of_burial": "Église Saint-Joseph de la mission jésuite de Sainte-Marie parmi les Hurons (Midland, Ontario)",
         "notes": "Jean (Condé-sur-Vire, France, 15 mars 1594 - Midland, Canada, 16 mars 1649), missionnaire jésuite parmi les Hurons, dans l'actuel Canada, fut tué lors d'une attaque contre la mission par d'autres tribus ennemies. Quelques mois plus tard, son compagnon de mission Isaac Jogues (Orléans, France, 10 janvier 1607 - Auriesville, USA, 18 octobre 1649) le suivit dans le martyre ; avec eux, on se souvient de six autres martyrs jésuites. Ils ont partagé avec douceur évangélique la vie de ces populations, jusqu'au don total de soi.",
         "patronage": "",
         "main_shrine": "Sanctuaire des Martyrs, Midland, Ontario, Canada ; Sanctuaire de Notre-Dame des Martyrs, Auriesville"
@@ -1474,7 +1474,7 @@
         "places": "Rome (Italie); Lanciano (Italie)",
         "place_of_death": "Perse",
         "place_of_birth": "Simon : probablement Cana ; Jude Thaddée peut-être Banias",
-        "place_of_burial": "N/D",
+        "place_of_burial": "Autel de Saint Joseph dans la Basilique Saint-Pierre (Rome, Italie)",
         "notes": "Simon est appelé « le zélote » (Lc 6, 15 ; Ac 1, 13) ou, en araméen, « le cananéen » (Mt 10, 4 ; Mc 3, 18) en raison de son appartenance probable au groupe des zélotes, caractérisés par un nationalisme militant au sein du judaïsme. Simon fait partie du groupe des Douze, tout comme Jude fils de Jacques (Lc 6, 16 ; Ac 1, 13 ; appelé Thaddée en Mt 10, 3 et Mc 3, 18) qui pose à Jésus la question : « Seigneur, comment se fait-il que tu doives te manifester à nous, et non au monde ? ». Jésus lui répond que quiconque accueille sa parole devient, lui-même, demeure de Dieu (cf. Jn 14, 22-23). La fête commune de ces deux apôtres est rappelée le 28 octobre dans le Martyrologe hiéronymien (Ve-VIe siècle).",
         "patronage": "",
         "main_shrine": "Basilique Saint-Pierre au Vatican; Couvent de Saint-Augustin à Lanciano (Italie)"
@@ -1501,7 +1501,7 @@
     },
     "DedicationLateran_159": {
         "subject": "Dédicace de la Basilique du Latran",
-        "places": "N/D",
+        "places": "Rome (Italie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
@@ -1521,7 +1521,7 @@
     },
     "StMartinTours_161": {
         "subject": "Saint Martin de Tours, évêque",
-        "places": "N/D",
+        "places": "Sabaria (actuelle Szombathely, Hongrie); Tours (France); Candes-Saint-Martin (France)",
         "place_of_death": "Candes-Saint-Martin (France)",
         "place_of_birth": "Sabaria (actuelle Szombathely), Hongrie",
         "place_of_burial": "Basilique Saint-Martin (Tours, France)",
@@ -1531,7 +1531,7 @@
     },
     "StJosaphat_162": {
         "subject": "Saint Josaphat, évêque et martyr",
-        "places": "N/D",
+        "places": "Volodymyr (Ukraine); Vilnius (Lituanie); Polack (Biélorussie); Vicebsk (Biélorussie); Rome (Italie)",
         "place_of_death": "Vicebsk, Biélorussie",
         "place_of_birth": "Volodymyr-Volynskyï, Ukraine",
         "place_of_burial": "Basilique Saint-Pierre au Vatican",
@@ -1561,7 +1561,7 @@
     },
     "StGertrudeGreat_165": {
         "subject": "Sainte Gertrude, vierge",
-        "places": "N/D",
+        "places": "Eisleben (Allemagne); Helfta (Allemagne)",
         "place_of_death": "Kloster Helfta (Eisleben, Allemagne)",
         "place_of_birth": "Eisleben (Allemagne)",
         "place_of_burial": "Les seules reliques existantes, ayant échappé à la destruction de son tombeau pendant la Réforme luthérienne, sont conservées à Santa Maria di Licodia, à l'intérieur du simulacre conservé dans l'église mère.",
@@ -1581,7 +1581,7 @@
     },
     "DedicationStsPeterPaul_167": {
         "subject": "Dédicace des basiliques des Saints Pierre et Paul, apôtres",
-        "places": "N/D",
+        "places": "Rome (Italie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
@@ -1591,7 +1591,7 @@
     },
     "PresentationMary_168": {
         "subject": "Présentation de la Bienheureuse Vierge Marie",
-        "places": "N/D",
+        "places": "Jérusalem (Israël / Palestine)",
         "place_of_death": "Église de la Dormition, Jérusalem",
         "place_of_birth": "Jérusalem / Nazareth",
         "place_of_burial": "Mont des Oliviers, Jérusalem",
@@ -1754,10 +1754,10 @@
         "places": "N/D",
         "place_of_death": "Éphèse",
         "place_of_birth": "Bethsaïde",
-        "place_of_burial": "Sur le site à Éphèse, considéré comme le tombeau de Jean, une basilique fut construite au VIe siècle, sous l'empereur Justinien, dont il ne reste aujourd'hui que des traces",
+        "place_of_burial": "Sur le site à Éphèse, considéré comme le tombeau de Jean, une basilique fut construite au VIe siècle, sous l'empereur Justinien, dont il ne reste aujourd'hui que des traces.",
         "notes": "Jean, fils de Zébédée, est appelé par Jésus avec son frère Jacques, pendant leur travail de pêcheurs (cf. Mt 4, 21-22) ; les deux sont comptés parmi les Douze et sont nommés par Jésus « Boanerges, c'est-à-dire “fils du tonnerre” » (Mc 3, 17). Jean, avec Pierre et Jacques, est parmi les disciples les plus proches de Jésus, ceux qui accompagnent le Maître à certains moments particulièrement importants : lorsque Jésus guérit la belle-mère de Pierre (Mc 1, 29) ; lorsqu'il fait revivre la fille du chef de la synagogue, Jaïre (Mc 5, 37) ; lorsqu'il se transfigure sur la montagne (Mc 9, 2) ; dans la prière à Gethsémani (cf. Mc 14, 33). Il apparaît toujours aux côtés de Pierre dans les premiers moments de la communauté : la guérison du boiteux (Ac 3, 1-4.11) ; lors de la première arrestation et du jugement du sanhédrin (cf. Ac 4, 1-20) ; en Samarie pour confirmer les premiers croyants (Ac 8, 14). Toujours avec Pierre et Jacques, le « frère du Seigneur », il est présenté comme l'une des « colonnes » de la communauté de Jérusalem (Gal 2, 9). La tradition le reconnaît comme le « disciple bien-aimé », dont parle l'Évangile de Jean, qui lui est attribué ainsi que les trois lettres qui portent son nom et l'Apocalypse. Jean est commémoré le 27 décembre dans le soi-disant Bréviaire syriaque (IVe siècle) et dans le Martyrologe hiéronymien (Ve-VIe siècle). À Patmos, une grotte dite \"de l'Apocalypse\" est indiquée comme la demeure de l'apôtre pendant son exil momentané. Depuis 1999, elle est l'un des sites du patrimoine mondial de l'UNESCO, avec le Monastère de Saint-Jean ; à Rome, la Basilique de Saint-Jean à Porta Latina, avec la chapelle Saint-Jean en Oleo.",
         "patronage": "",
-        "main_shrine": "À Patmos, une grotte dite \"de l'Apocalypse\" est indiquée comme la demeure de l'apôtre pendant son exil momentané. Depuis 1999, elle est l'un des sites du patrimoine mondial de l'UNESCO, avec le Monastère de Saint-Jean ; à Rome, la Basilique de Saint-Jean à Porta Lat"
+        "main_shrine": "À Patmos, une grotte appelée \"de l'Apocalypse\" est indiquée comme la demeure de l'apôtre pendant son exil momentané. Depuis 1999, elle fait partie du Patrimoine mondial de l'UNESCO, avec le Monastère de Saint-Jean ; à Rome, la Basilique de Saint-Jean à Porta Latina et la chapelle voisine de Saint-Jean \"in oleo\", ainsi que la Basilique de Saint-Jean de Latran"
     },
     "HolyInnocents_185": {
         "subject": "Saints Innocents, martyrs",
@@ -1877,7 +1877,7 @@
         "place_of_burial": "Apollinariskirche (Remagen, Allemagne); Basilique de Saint Lambert, Düsseldorf (Allemagne)",
         "notes": "Apollinaire (seconde moitié du IIe siècle) fut le premier évêque de Ravenne et l'un des premiers pasteurs de toute l'Italie septentrionale. Il fut également martyr pour la foi, comme en témoigne l'un de ses successeurs, saint Pierre Chrysologue (Ve siècle). Sur sa tombe fut édifiée la basilique de Saint-Apollinaire in Classe (VIe siècle). Sur le lieu du martyre, à Civitas Classis, fut érigée au VIe siècle l'église de Saint-Apollinaire. Les reliques du saint furent transférées en ville au IXe siècle, dans l'église qui prit alors le nom de Saint-Apollinaire-le-Neuf. Par la suite, les ossements furent transportés en Allemagne, où ils se trouvent encore aujourd'hui. À Ravenne, la tête et la main droite restèrent et, depuis 1874, sont conservées dans la cathédrale.",
         "patronage": "",
-        "main_shrine": "Sur le lieu du martyre, à Civitas Classis, fut érigée au VIe siècle l'église de Saint-Apollinaire. Les reliques du saint furent transférées en ville au IXe siècle, dans l'église qui prit alors le nom de Saint-Apollinaire-le-Neuf. Par la suite, les os"
+        "main_shrine": "Sur le lieu du martyre, à Civitas Classis, fut érigée au VIe siècle la basilique de Saint-Apollinaire. Les reliques du saint furent transférées en ville au IXe siècle, dans l'église qui prit alors le nom de Saint-Apollinaire-le-Neuf. Par la suite, les ossements furent emportés en Allemagne, d'abord à l'Apollinariskirche de Remagen, puis au XIVe siècle, ils furent transférés dans la ville voisine de Düsseldorf où ils se trouvent encore aujourd'hui. À Ravenne, il resta la tête et la main droite qui, depuis 1874, sont conservées dans la cathédrale."
     },
     "StSharbelMakhluf_197": {
         "subject": "Saint Charbel Makhlouf, ermite",
@@ -1992,7 +1992,7 @@
     "StRayPenyafort_208": {
         "subject": "Saint Raymond de Peñafort, prêtre",
         "places": "Barcelone (Espagne)",
-        "place_of_death": "Barcelone, Espagne",
+        "place_of_death": "Barcelone (Espagne)",
         "place_of_birth": "Santa Margarida i els Monjos, Espagne",
         "place_of_burial": "Cathédrale de la Sainte Croix et Sainte Eulalie, Barcelone",
         "notes": "La mémoire liturgique est fixée au lendemain du 7 janvier",
@@ -2964,7 +2964,7 @@
         "places": "N/D",
         "place_of_death": "Cantorbéry (Royaume-Uni)",
         "place_of_birth": "Aoste (Italie)",
-        "place_of_burial": "Aoste, Italie",
+        "place_of_burial": "Anselme mourut le 21 avril 1109, mercredi saint, et fut enterré dans la cathédrale de Cantorbéry. Ses reliques furent cependant exhumées lors des troubles religieux qui eurent lieu sous le règne d'Henri VIII d'Angleterre et on en perdit la trace.",
         "notes": "Anselme (Aoste, 1033/1034 - Cantorbéry, Royaume-Uni, 21 avril 1109), moine et abbé de Bec en Normandie pendant environ trente ans, devint archevêque de Cantorbéry et primat d'Angleterre. Il lutta pour la liberté de l'Église contre les ingérences du pouvoir politique. Profond théologien, il sut valoriser le rôle de la raison dans l'approfondissement des mystères de la foi.",
         "patronage": "",
         "main_shrine": "Cathédrale de Canterbury (Royaume-Uni)"
@@ -3352,9 +3352,9 @@
     "StBasilGreat_573": {
         "subject": "Saint Basile le Grand",
         "places": "Cappadoce (Turquie)",
-        "place_of_death": "Kayseri, Turquie",
-        "place_of_birth": "Césarée de Cappadoce, actuellement Kayseri, Turquie",
-        "place_of_burial": "La cathédrale Saint-Georges, Istanbul, Turquie",
+        "place_of_death": "Kayseri (Turquie)",
+        "place_of_birth": "Césarée de Cappadoce (actuelle Kayseri, Turquie)",
+        "place_of_burial": "Monastère de la Grande Laure (Mont Athos, Grèce)",
         "notes": "Décédé le 1er janvier, la mémoire liturgique est le lendemain, le 2 janvier",
         "patronage": "",
         "main_shrine": "N/D"
@@ -3387,7 +3387,7 @@
         "place_of_burial": "Real Colegiata Basílica de San Isidoro (León, Espagne)",
         "notes": "Isidore (vers 560 - Séville, 4 avril 636), de famille et de formation chrétienne, également expert en culture profane, devint avec ses œuvres littéraires et érudites un point de référence pour tout le Moyen Âge. Archevêque de Séville pendant environ trente-cinq ans, il promut, également par le biais de certains conciles locaux, une législation liturgique et canonique d'importance fondamentale pour l'Église ibérique.",
         "patronage": "",
-        "main_shrine": "Cathédrale Sainte-Marie de la Sede de Séville ?"
+        "main_shrine": "Basilique de Saint Isidore (Léon, Espagne)"
     },
     "StPeterChrysologus_577": {
         "subject": "Saint Pierre Chrysologue, évêque et docteur",
@@ -3477,7 +3477,7 @@
         "place_of_burial": "N/D",
         "notes": "Le 9 décembre 1531, Jean Diego, un Indien aztèque parmi les premiers convertis au christianisme au début de la conquête espagnole du Mexique, arriva au pied de la colline de Tepeyac (aujourd'hui à Mexico). Là, il eut la vision d'une « Dame très belle », qui se présenta comme « la sainte Vierge Marie, Mère du vrai Dieu » et demanda qu'une église soit érigée en ce lieu, promettant de manifester à tous son amour et son aide. Face à la résistance de l'évêque, la Morenita imprima le 12 décembre son image sur la tilma de Juan Diego. Convaincu par ce signe miraculeux, l'évêque érigea un premier sanctuaire (1553), dit « de Guadalupe » comme celui déjà existant en Espagne depuis le XIVe siècle. Le bâtiment fut agrandi à plusieurs reprises pour accueillir les pèlerins de plus en plus nombreux, attirés par l'image miraculeuse. La Vierge de Guadalupe a été reconnue par les Églises de ce continent comme la « grande missionnaire qui a apporté l'Évangile à notre Amérique » (Document d'Aparecida, 269).",
         "patronage": "",
-        "main_shrine": "Jean Diego (Cuautitlán, Mexique, 1474 - Mexico 1548) fut, avec sa femme, parmi les premiers indigènes à recevoir le Baptême à l'arrivée des missionnaires franciscains. Devenu veuf, il intensifia sa vie spirituelle. Le 9 décembre 1531, sur la colline de Tepeyac (aujourd'hui à Mexico), il eut une vision de la Vierge. En obéissance à la Morenita, une première chapelle fut érigée près de laquelle le voyant resta, se consacrant aux soins de l'église et à l'accueil des nombreux pèlerins qui commencèrent à affluer en ce lieu."
+        "main_shrine": "Basilique de Notre-Dame de Guadalupe, Mexico, Mexique"
     },
     "LadyLourdes_585": {
         "subject": "Bienheureuse Vierge Marie de Lourdes",
@@ -3700,13 +3700,13 @@
         "main_shrine": "Basilique de Notre-Dame du Rosaire (Prouilhe, France)"
     },
     "OurLadyZeitoun_607": {
-        "subject": "",
-        "places": "",
+        "subject": "Notre-Dame de Zeitoun",
+        "places": "Le Caire (Égypte)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "La première apparition de la Vierge Marie à Zeitoun a été enregistrée le soir du 2 avril 1968, lorsqu'un mécanicien de bus musulman nommé Farouk Mohammed Atwa a cru voir une femme au sommet du bâtiment. Une semaine plus tard, le 9 avril, le phénomène s'est reproduit, durant à nouveau seulement quelques minutes. Après cette période, les apparitions sont devenues plus fréquentes, jusqu'à deux ou trois fois par semaine, pendant plusieurs années, jusqu'en 1971. Selon la tradition copte, Zeitoun est proche d'un des lieux où la Sainte Famille a séjourné lors de la fuite en Égypte. Le 12 mai 2018, l'Église copte a célébré le jubilé d'or de l'événement.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Église Sainte-Marie de Zeitoun (Le Caire, Égypte)"
     }
 }

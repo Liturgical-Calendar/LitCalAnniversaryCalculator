@@ -2,9 +2,9 @@
     "StBasilGreat_1": {
         "subject": "Sankt Basilius der Große",
         "places": "Kappadokien (Türkei)",
-        "place_of_death": "Kayseri, Türkei",
-        "place_of_birth": "Cäsarea in Kappadokien, heutiges Kayseri, Türkei",
-        "place_of_burial": "St. Georgs-Kathedrale, Istanbul, Türkei",
+        "place_of_death": "Kayseri (Türkei)",
+        "place_of_birth": "Cäsarea in Kappadokien (heutiges Kayseri, Türkei)",
+        "place_of_burial": "Kloster der Großen Laura (Berg Athos, Griechenland)",
         "notes": "Gestorben am 1. Januar, das liturgische Gedenken ist am folgenden Tag, dem 2. Januar",
         "patronage": "Russland, Mönche, Krankenhausverwalter, Dichter",
         "main_shrine": "Ptochoptopheion oder Basileiade (Cäsarea Mazaca, heutiges Kayseri, Kappadokien)"
@@ -12,7 +12,7 @@
     "StRayPenyafort_2": {
         "subject": "Sankt Raimund von Peñafort, Priester",
         "places": "Barcelona (Spanien)",
-        "place_of_death": "Barcelona, Spanien",
+        "place_of_death": "Barcelona (Spanien)",
         "place_of_birth": "Santa Margarida i els Monjos, Spanien",
         "place_of_burial": "Kathedrale des Heiligen Kreuzes und der Heiligen Eulalia, Barcelona",
         "notes": "Das liturgische Gedenken ist am folgenden Tag, dem 7. Januar",
@@ -195,7 +195,7 @@
         "place_of_death": "Montecassino, Frosinone, Italien",
         "place_of_birth": "Norcia (Perugia, Italien)",
         "place_of_burial": "Abtei von Montecassino",
-        "notes": "Scholastika (Norcia, Perugia, ca. 480 - Montecassino, Frosinone, ca. 547) wird von der Tradition als Schwester des Heiligen Benedikt bezeichnet. Die Dialoge von Gregor dem Großen beschreiben sie als Jungfrau, die die Kontemplation liebte und weise darin war, die Nächstenliebe über jede menschliche Regel zu stellen. Sie wird am 10. Februar im Marmor-Kalender von Neapel (9. Jahrhundert) und im Martyrologium von Usuard (ca. 870) erwähnt.",
+        "notes": "Scholastika (Norcia, Perugia, ca. 480 - Montecassino, Frosinone, ca. 547) wird von der Tradition als Schwester des Heiligen Benedikt bezeichnet. Die Dialoge von Gregor dem Großen beschreiben sie als Jungfrau, die Kontemplation liebte und weise darin war, die Nächstenliebe über jede menschliche Regel zu stellen. Sie wird am 10. Februar im Marmor-Kalender von Neapel (9. Jahrhundert) und im Martyrologium von Usuard (ca. 870) erwähnt.",
         "patronage": "",
         "main_shrine": "Abtei Montecassino (Italien)"
     },
@@ -403,7 +403,7 @@
         "subject": "Heiliger Georg, Märtyrer",
         "places": "Lidda (in der Nähe des heutigen Tel Aviv, Israel)",
         "place_of_death": "Nikomedia (heutiges İzmit), Türkei | oder | Lydda (heutiges Lod) - Tel Aviv, Israel",
-        "place_of_birth": "Kappadokien, Türkei",
+        "place_of_birth": "Kappadokien (Türkei)",
         "place_of_burial": "Lydda, Tel Aviv (Israel)",
         "notes": "Georg, dessen Grab in Lydda (heutiges Lod, Israel) liegt, wurde ab dem 4. Jahrhundert als Märtyrer Christi verehrt. Diese alte Kulttradition lässt auf die historische Existenz der Person schließen, obwohl keine sicheren Informationen über ihn vorliegen. Er wurde oft als Ritter dargestellt, der den Drachen besiegt und damit den Triumph des Glaubens über das Böse symbolisiert. Die Popularität des Heiligen im Mittelalter wird durch die Anwesenheit seines Körpers in mindestens dreißig Kirchen in Frankreich, Spanien, Deutschland, Italien und den Niederlanden bezeugt; sein Kopf ist heute in Venedig, Prag, Konstantinopel und Lydda ausgestellt, während drei der existierenden Arme des Heiligen in Rom, Paris und Conques aufbewahrt werden. In der Kirche San Giorgio in Lemine in Almenno San Salvatore (BG) hängt eine Rippe des von Sankt Georg getöteten Drachen von der Decke. In Rom vertraute Belisarius (ca. 527) das Tor von San Sebastiano und die Kirche von Velabro dem Schutz des Heiligen an, wo später der Schädel von Sankt Georg, der von Papst Zacharias (744–752) in Kappadokien gefunden wurde, übertragen wurde. Ein Teil des Schädels von Sankt Georg wird in der Kirche San Giorgio Martire in Oriolo (CS) aufbewahrt. In der Pfarrkirche von Matino, die Sankt Georg gewidmet ist, wird ein Stück des Schienbeins des Heiligen aufbewahrt.",
         "patronage": "",
@@ -540,7 +540,7 @@
         "main_shrine": "Kathedrale von Durham (Vereinigtes Königreich)"
     },
     "StGregoryVII_59": {
-        "subject": "Papst Gregor VII.",
+        "subject": "Sankt Gregor VII., Papst",
         "places": "Salerno (Italien)",
         "place_of_death": "Salerno (Italien)",
         "place_of_birth": "Sovana (Italien)",
@@ -625,7 +625,7 @@
         "place_of_death": "Magdeburg (Deutschland)",
         "place_of_birth": "Xanten (Deutschland)",
         "place_of_burial": "Strahov-Kloster, Prag, Tschechische Republik",
-        "notes": "Norbert (Xanten, Deutschland, 1080/1085 - Magdeburg, 6. Juni 1134) begann nach seiner Bekehrung, obwohl er noch Laie war, mit einer Wanderpredigt. In Prémontré (Frankreich) sammelte er eine Gruppe von Jüngern, Klerikern und Laien, aus der der Orden der Prämonstratenser-Chorherren entstand. Zum Erzbischof von Magdeburg gewählt, widmete er sich der Reform des Klerus.",
+        "notes": "Norbert (Xanten, Deutschland, 1080/1085 - Magdeburg, 6. Juni 1134) begann nach seiner Bekehrung, obwohl er noch Laie war, mit einer Wanderpredigt. In Prémontré (Frankreich) sammelte er eine Gruppe von Jüngern, Klerikern und Laien, aus der Orden der Prämonstratenser-Chorherren entstand. Zum Erzbischof von Magdeburg gewählt, widmete er sich der Reform des Klerus.",
         "patronage": "",
         "main_shrine": "Strahov-Kloster, Prag, Tschechische Republik"
     },
@@ -765,7 +765,7 @@
         "place_of_death": "Estremoz (Portugal)",
         "place_of_birth": "Aragonien, Spanien",
         "place_of_burial": "Kloster Santa Clara-a-Nova, Coimbra (Portugal)",
-        "notes": "Elisabeth (Spanien, 1269/1270 - Estremoz, Portugal, 4. Juli 1336), Tochter von Peter, dem zukünftigen König von Aragonien, wurde im Alter von zwölf Jahren mit Dionysius, dem König von Portugal, verheiratet. Sie ertrug mutig die schwierige eheliche Gemeinschaft und wurde zur Vermittlerin der Versöhnung in den schweren Konflikten, die die Familie und das Königreich erschütterten. Nach dem Tod ihres Mannes wurde sie Franziskanische Tertiarin und widmete sich ganz dem Gebet und der Nächstenliebe gegenüber den Armen.",
+        "notes": "Elisabeth (Spanien, 1269/1270 - Estremoz, Portugal, 4. Juli 1336), Tochter von Peter, dem zukünftigen König von Aragonien, wurde im Alter von zwölf Jahren mit Dionysius, dem König von Portugal, verheiratet. Sie ertrug mutig die schwierige eheliche Gemeinschaft und wurde zur Vermittlerin der Versöhnung in den schweren Konflikten, die Familie und das Königreich erschütterten. Nach dem Tod ihres Mannes wurde sie Franziskanische Tertiarin und widmete sich ganz dem Gebet und der Nächstenliebe gegenüber den Armen.",
         "patronage": "",
         "main_shrine": "Kloster Santa Clara-a-Nova (Coimbra, Portugal)"
     },
@@ -905,7 +905,7 @@
         "place_of_death": "Rom (Italien)",
         "place_of_birth": "Loyola, Spanien",
         "place_of_burial": "Kirche Il Gesù, Rom",
-        "notes": "Iñigo Lòpez (Loyola, Spanien, 1491 - Rom, 31. Juli 1556), aus einer adligen baskischen Familie, wurde bei der Verteidigung der Stadt Pamplona verwundet. Während der Genesung markierte die Lektüre des Lebens Christi und einiger Heiliger den Beginn seiner Bekehrung. Ein langer Weg führte ihn durch eine Zeit der geistlichen Unterscheidung und eine ausgedehnte Phase philosophischer und theologischer Studien, die in Paris ihren Höhepunkt fanden. Hier bildete sich um ihn eine Gruppe von Gefährten, mit denen er sich Papst Paul III. vorstellte. Ihm legten sie ihr Ideal dar: Verteidigung und Verbreitung des Glaubens und absolute Verfügbarkeit gegenüber dem Römischen Pontifex in Bezug auf jede Mission, die dieser ihnen zur missionarischen Ausbreitung des Evangeliums und zur Reform der Kirche anvertrauen wollte. Die Spiritualität der Gesellschaft Jesu hat ihren Kern in den Exerzitien, die die innere Erfahrung von Ignatius zusammenfassen. Papst Gregor XV. nahm ihn 1622 in das Verzeichnis der Heiligen auf.",
+        "notes": "Iñigo Lòpez (Loyola, Spanien, 1491 - Rom, 31. Juli 1556), aus einer adligen baskischen Familie, wurde bei der Verteidigung der Stadt Pamplona verwundet. Während der Genesung markierte die Lektüre des Lebens Christi und einiger Heiliger den Beginn seiner Bekehrung. Ein langer Weg führte ihn durch eine Zeit der geistlichen Unterscheidung und eine ausgedehnte Phase philosophischer und theologischer Studien, die in Paris ihren Höhepunkt fanden. Hier bildete sich um ihn eine Gruppe von Gefährten, mit denen er sich Papst Paul III. vorstellte. Ihm legten sie ihr Ideal dar: Verteidigung und Verbreitung des Glaubens und absolute Verfügbarkeit gegenüber dem Römischen Pontifex in Bezug auf jede Mission, die dieser ihnen zur missionarischen Ausbreitung des Evangeliums und zur Reform der Kirche anvertrauen wollte. Die Spiritualität der Gesellschaft Jesu hat ihren Kern in den Exerzitien, die innere Erfahrung von Ignatius zusammenfassen. Papst Gregor XV. nahm ihn 1622 in das Verzeichnis der Heiligen auf.",
         "patronage": "",
         "main_shrine": "Kirche Il Gesù, Rom"
     },
@@ -1070,7 +1070,7 @@
         "main_shrine": "Abtei von Clairvaux (Frankreich)"
     },
     "StPiusX_114": {
-        "subject": "Papst Pius X.",
+        "subject": "Der heilige Pius X., Papst",
         "places": "Riese (Treviso, Italien); Treviso (Italien); Mantua (Italien); Venedig (Italien); Rom (Italien)",
         "place_of_death": "Rom (Italien)",
         "place_of_birth": "Riese, Treviso (Italien)",
@@ -1205,7 +1205,7 @@
         "place_of_death": "N/V",
         "place_of_birth": "N/V",
         "place_of_burial": "N/V",
-        "notes": "Die Verehrung der Schmerzensmutter entwickelte sich stark in den letzten Jahrhunderten des Mittelalters, sowohl in der religiösen Poesie (Stabat Mater) als auch in der Darstellung der Pietà. Das liturgische Gedenken wurde 1814 von Pius VII. eingeführt, auch im Hinblick auf die Leiden, die die Kirche in jenen Jahren erlitten hatte. Durch die innige Vereinigung mit dem Sohn erstreckt sich die Mutterschaft Marias auf die gesamte Menschheit, die durch Christus am Kreuz erlöst wurde (vgl. Joh 19, 25-27). Die Verehrung der Schmerzensmutter entwickelte sich ab dem Ende des 11. Jahrhunderts, mit einem ersten Hinweis auf Feiern ihrer 5 Freuden und ihrer fünf Schmerzen, symbolisiert durch 5 Schwerter, die der später eingeführten liturgischen Feier vorausgingen. Als ein Unbekannter das Liber de passione Christi et dolore et planctu Matris eius schrieb, begannen die Kompositionen zum Thema der Klage der Jungfrau. Im 12. Jahrhundert, auch infolge von Erscheinungen der Madonna, nahm dieser Kult zu und das Stabat Mater, das Jacopone da Todi zugeschrieben wird, wurde komponiert. Aber seine Geschichte hat einen genauen Anfang: am 15. August 1233, als sieben adlige Florentiner, die in der Kunst der Kaufleute eingeschrieben waren und Dichter-Schauspieler der Laudesi-Gesellschaft waren, ihre Liebe zu Maria in Lobgesängen vor einem an einer Straßenwand gemalten Bild ausdrückten, wie die Gaukler es mit der geliebten Frau taten. Plötzlich sahen sie das Bild lebendig werden, traurig erscheinen und in Trauerkleidung wegen des brudermörderischen Hasses, der Florenz spaltete. Diese jungen Männer legten die Waffen nieder, zogen Trauerkleidung an, gründeten die Gesellschaft der Schmerzensmutter, genannt die Serviten, und zogen sich zur Buße und zum Gebet auf den Monte Sanario zurück. Im Laufe der Jahrhunderte entstanden verschiedene Ausdrucksformen der Verehrung: die Madonna am Fuße des Kreuzes; die Gesellschaft des Gewandes; die Bruderschaft der Sieben Schmerzen, die 1645 von Rom anerkannt wurde; der Dritte Orden; die Krone der Schmerzensmutter; die verschiedenen weiblichen Kongregationen der Schmerzensmutter usw. Zwischen 1668 und 1690 förderten die Initiativen der Serviten die Verbreitung des Kultes der Madonna der Schmerzen. Am 9. Juni 1668 erlaubte die Heilige Kongregation der Riten dem Orden, die Votivmesse der Sieben Schmerzen der Seligen Jungfrau zu feiern. Im entsprechenden Dekret wurde erwähnt, dass die Serviten das schwarze Gewand in Erinnerung an die Witwenschaft Marias und die Schmerzen, die sie in der Passion des Sohnes erlitten hatte, trugen. Ursprünglich war der Kult der Schmerzensmutter mit der Karwoche verbunden, dann entstand ihr Fest, das ursprünglich am Freitag vor der Karwoche oder nach Ostern gefeiert wurde und schließlich auf den 15. September verlegt wurde, in Verbindung mit dem Fest der Kreuzerhöhung, das am Vortag gefeiert wird. Auch heute noch wird sie an einigen Orten an den alten Daten gefeiert. Der Kult der Schmerzensmutter wird auch durch die Verbreitung der Gebete zur Schmerzensmutter und das Beten des Rosenkranzes der sieben Schmerzen, besonders in der Karwoche, hervorgehoben.",
+        "notes": "Die Verehrung der Schmerzensmutter entwickelte sich stark in den letzten Jahrhunderten des Mittelalters, sowohl in der religiösen Poesie (Stabat Mater) als auch in der Darstellung der Pietà. Das liturgische Gedenken wurde 1814 von Pius VII. eingeführt, auch im Hinblick auf die Leiden, die Kirche in jenen Jahren erlitten hatte. Durch die innige Vereinigung mit dem Sohn erstreckt sich die Mutterschaft Marias auf die gesamte Menschheit, die durch Christus am Kreuz erlöst wurde (vgl. Joh 19, 25-27). Die Verehrung der Schmerzensmutter entwickelte sich ab dem Ende des 11. Jahrhunderts, mit einem ersten Hinweis auf Feiern ihrer 5 Freuden und ihrer fünf Schmerzen, symbolisiert durch 5 Schwerter, die der später eingeführten liturgischen Feier vorausgingen. Als ein Unbekannter das Liber de passione Christi et dolore et planctu Matris eius schrieb, begannen die Kompositionen zum Thema der Klage der Jungfrau. Im 12. Jahrhundert, auch infolge von Erscheinungen der Madonna, nahm dieser Kult zu und das Stabat Mater, das Jacopone da Todi zugeschrieben wird, wurde komponiert. Aber seine Geschichte hat einen genauen Anfang: am 15. August 1233, als sieben adlige Florentiner, die in der Kunst der Kaufleute eingeschrieben waren und Dichter-Schauspieler der Laudesi-Gesellschaft waren, ihre Liebe zu Maria in Lobgesängen vor einem an einer Straßenwand gemalten Bild ausdrückten, wie die Gaukler es mit der geliebten Frau taten. Plötzlich sahen sie das Bild lebendig werden, traurig erscheinen und in Trauerkleidung wegen des brudermörderischen Hasses, der Florenz spaltete. Diese jungen Männer legten die Waffen nieder, zogen Trauerkleidung an, gründeten die Gesellschaft der Schmerzensmutter, genannt die Serviten, und zogen sich zur Buße und zum Gebet auf den Monte Sanario zurück. Im Laufe der Jahrhunderte entstanden verschiedene Ausdrucksformen der Verehrung: die Madonna am Fuße des Kreuzes; die Gesellschaft des Gewandes; die Bruderschaft der Sieben Schmerzen, die 1645 von Rom anerkannt wurde; der Dritte Orden; die Krone der Schmerzensmutter; die verschiedenen weiblichen Kongregationen der Schmerzensmutter usw. Zwischen 1668 und 1690 förderten die Initiativen der Serviten die Verbreitung des Kultes der Madonna der Schmerzen. Am 9. Juni 1668 erlaubte die Heilige Kongregation der Riten dem Orden, die Votivmesse der Sieben Schmerzen der Seligen Jungfrau zu feiern. Im entsprechenden Dekret wurde erwähnt, dass die Serviten das schwarze Gewand in Erinnerung an die Witwenschaft Marias und die Schmerzen, die sie in der Passion des Sohnes erlitten hatte, trugen. Ursprünglich war der Kult der Schmerzensmutter mit der Karwoche verbunden, dann entstand ihr Fest, das ursprünglich am Freitag vor der Karwoche oder nach Ostern gefeiert wurde und schließlich auf den 15. September verlegt wurde, in Verbindung mit dem Fest der Kreuzerhöhung, das am Vortag gefeiert wird. Auch heute noch wird sie an einigen Orten an den alten Daten gefeiert. Der Kult der Schmerzensmutter wird auch durch die Verbreitung der Gebete zur Schmerzensmutter und das Beten des Rosenkranzes der sieben Schmerzen, besonders in der Karwoche, hervorgehoben.",
         "patronage": "",
         "main_shrine": "Kalvarienkapelle, Basilika des Heiligen Grabes, Jerusalem"
     },
@@ -1341,7 +1341,7 @@
     },
     "OurLadyRosary_141": {
         "subject": "Selige Jungfrau Maria vom Rosenkranz",
-        "places": "N/V",
+        "places": "Pompeji (Italien)",
         "place_of_death": "N/V",
         "place_of_birth": "N/V",
         "place_of_burial": "N/V",
@@ -1373,7 +1373,7 @@
         "subject": "Heiliger Kallistus I., Papst und Märtyrer",
         "places": "Rom (Italien)",
         "place_of_death": "Rom (Italien)",
-        "place_of_birth": "N/V",
+        "place_of_birth": "Rom (Italien)",
         "place_of_burial": "Friedhof von Calepodio, Via Aurelia, Rom",
         "notes": "Kallistus, ein ehemaliger Sklave, war von 218 bis 222 Papst. Er verband seinen Namen mit dem ersten offiziellen Friedhof der Kirche von Rom an der Via Appia. Er litt unter internen Konflikten in der christlichen Gemeinschaft und erlitt das Martyrium in Rom, an dem Ort, an dem die ihm geweihte Kirche steht. Seine Beisetzung auf dem Friedhof von Calepodio an der Via Aurelia wird am 14. Oktober in der Depositio martyrum (336) erinnert.",
         "patronage": "",
@@ -1434,7 +1434,7 @@
         "places": "Midland (Kanada); Auriesville (New York, USA)",
         "place_of_death": "Midland (Kanada)",
         "place_of_birth": "Condé-sur-Vire (Frankreich)",
-        "place_of_burial": "N/V",
+        "place_of_burial": "Kirche St. Josef der Jesuitenmission von Sainte-Marie unter den Huronen (Midland, Ontario)",
         "notes": "Johann (Condé-sur-Vire, Frankreich, 15. März 1594 - Midland, Kanada, 16. März 1649), Jesuitenmissionar unter den Huronen im heutigen Kanada, wurde bei einem Angriff feindlicher Stämme auf die Mission getötet. Wenige Monate später folgte ihm sein Missionsgefährte Isaak Jogues (Orléans, Frankreich, 10. Januar 1607 - Auriesville, USA, 18. Oktober 1649) ins Martyrium; mit ihnen werden sechs weitere Jesuitenmärtyrer erinnert. Sie teilten mit evangelischer Sanftmut das Leben dieser Völker bis zur völligen Hingabe.",
         "patronage": "",
         "main_shrine": "Schrein der Märtyrer, Midland, Ontario, Kanada; Schrein Unserer Lieben Frau der Märtyrer, Auriesville"
@@ -1474,7 +1474,7 @@
         "places": "Rom (Italien); Lanciano (Italien)",
         "place_of_death": "Persien",
         "place_of_birth": "Simon: vermutlich Kana; Judas Thaddäus vielleicht Banias",
-        "place_of_burial": "N/V",
+        "place_of_burial": "Altar von Sankt Josef in der Basilika Sankt Peter (Rom, Italien)",
         "notes": "Simon wird „der Zelot“ genannt (Lk 6, 15; Apg 1, 13) oder auf Aramäisch „der Kanaanäer“ (Mt 10, 4; Mk 3, 18) wegen seiner wahrscheinlichen Zugehörigkeit zur Gruppe der Zeloten, die sich durch militanten Nationalismus innerhalb des Judentums auszeichneten. Simon gehört zur Gruppe der Zwölf, ebenso wie Judas, Sohn des Jakobus (Lk 6, 16; Apg 1, 13; genannt Thaddäus in Mt 10, 3 und Mk 3, 18), der Jesus die Frage stellt: „Herr, wie kommt es, dass du dich uns offenbaren willst und nicht der Welt?“ Jesus antwortet ihm, dass jeder, der sein Wort annimmt, selbst zur Wohnung Gottes wird (vgl. Joh 14, 22-23). Das gemeinsame Fest dieser beiden Apostel wird am 28. Oktober im Hieronymianischen Martyrologium (5.-6. Jh.) erwähnt.",
         "patronage": "",
         "main_shrine": "Basilika Sankt Peter im Vatikan; Kloster des Heiligen Augustinus in Lanciano (Italien)"
@@ -1501,7 +1501,7 @@
     },
     "DedicationLateran_159": {
         "subject": "Weihe der Lateranbasilika",
-        "places": "N/V",
+        "places": "Rom (Italien)",
         "place_of_death": "N/V",
         "place_of_birth": "N/V",
         "place_of_burial": "N/V",
@@ -1521,7 +1521,7 @@
     },
     "StMartinTours_161": {
         "subject": "Sankt Martin von Tours, Bischof",
-        "places": "N/V",
+        "places": "Sabaria (heutiges Szombathely, Ungarn); Tours (Frankreich); Candes-Saint-Martin (Frankreich)",
         "place_of_death": "Candes-Saint-Martin (Frankreich)",
         "place_of_birth": "Sabaria (heutiges Szombathely), Ungarn",
         "place_of_burial": "Basilika des Heiligen Martin (Tours, Frankreich)",
@@ -1531,7 +1531,7 @@
     },
     "StJosaphat_162": {
         "subject": "Sankt Josaphat, Bischof und Märtyrer",
-        "places": "N/V",
+        "places": "Wolodymyr (Ukraine); Vilnius (Litauen); Polazk (Weißrussland); Wizebsk (Weißrussland); Rom (Italien)",
         "place_of_death": "Wizebsk, Weißrussland",
         "place_of_birth": "Wolodymyr-Wolynskyj, Ukraine",
         "place_of_burial": "Basilika St. Peter im Vatikan",
@@ -1561,7 +1561,7 @@
     },
     "StGertrudeGreat_165": {
         "subject": "Heilige Gertrud, Jungfrau",
-        "places": "N/V",
+        "places": "Eisleben (Deutschland); Helfta (Deutschland)",
         "place_of_death": "Kloster Helfta (Eisleben, Deutschland)",
         "place_of_birth": "Eisleben (Deutschland)",
         "place_of_burial": "Die einzigen existierenden Reliquien, die der Zerstörung ihres Grabes während der Reformation entgangen sind, werden in Santa Maria di Licodia, innerhalb des Simulakrums in der Chiesa Madre, aufbewahrt.",
@@ -1581,7 +1581,7 @@
     },
     "DedicationStsPeterPaul_167": {
         "subject": "Weihe der Basiliken der Heiligen Petrus und Paulus, Apostel",
-        "places": "N/V",
+        "places": "Rom (Italien)",
         "place_of_death": "N/V",
         "place_of_birth": "N/V",
         "place_of_burial": "N/V",
@@ -1591,7 +1591,7 @@
     },
     "PresentationMary_168": {
         "subject": "Darstellung der seligen Jungfrau Maria",
-        "places": "N/V",
+        "places": "Jerusalem (Israel / Palästina)",
         "place_of_death": "Kirche der Dormitio, Jerusalem",
         "place_of_birth": "Jerusalem / Nazareth",
         "place_of_burial": "Ölberg, Jerusalem",
@@ -1715,7 +1715,7 @@
         "place_of_death": "Ubeda, Spanien",
         "place_of_birth": "Fontiveros, Spanien",
         "place_of_burial": "Kloster der Unbeschuhten Karmeliten, Segovia, Spanien",
-        "notes": "Johannes (Fontiveros, Spanien, 1542 - Úbeda, 14. Dezember 1591), Karmelit, ausgestattet mit einer gründlichen theologischen Ausbildung, wurde von der heiligen Teresa von Ávila in das Reformprojekt des Ordens einbezogen, aus dem die Unbeschuhten Karmeliten hervorgingen, als Initiative zur Rückkehr zur alten Strenge, in Kontemplation und Armut. Der Bezug auf das Kreuz, den Johannes damals seinem Namen hinzufügte, war für den jungen Reformer fast eine Prophezeiung der Widersprüche und Leiden, die er von seinen Mitbrüdern erleiden würde: verdächtigt und zu Unrecht beschuldigt, wurde er neun Monate lang eingesperrt. Aber in dieser dunklen Nacht erlebte Johannes das umhüllende Licht der mystischen Vereinigung mit Gott; er drückte es in Liedern mit intensiven und vibrierenden poetischen Ausdrücken aus, die zusammen mit seinen wunderbaren Schriften ihn zu einem außergewöhnlichen geistlichen Führer machten: «Am Abend des Lebens werden wir nach der Liebe gerichtet.»",
+        "notes": "Johannes (Fontiveros, Spanien, 1542 - Úbeda, 14. Dezember 1591), Karmelit, ausgestattet mit einer gründlichen theologischen Ausbildung, wurde von der heiligen Teresa von Ávila in das Reformprojekt des Ordens einbezogen, aus dem die Unbeschuhten Karmeliten hervorgingen, als Initiative zur Rückkehr zur alten Strenge, in Kontemplation und Armut. Der Bezug auf das Kreuz, den Johannes damals seinem Namen hinzufügte, war für den jungen Reformer fast eine Prophezeiung der Widersprüche und Leiden, die er von seinen Mitbrüdern erleiden würde: verdächtigt und zu Unrecht beschuldigt, wurde er neun Monate lang eingesperrt. Aber in dieser dunklen Nacht erlebte Johannes das umhüllende Licht der mystischen Vereinigung mit Gott; er drückte es in Liedern mit intensiven und vibrierenden poetischen Ausdrücken aus, die zusammen mit seinen wunderbaren Schriften ihn zu einem außergewöhnlichen geistlichen Führer machten: «Am Abend des Lebens werden wir nach der Liebe gerichtet».",
         "patronage": "",
         "main_shrine": "Kloster der Unbeschuhten Karmeliten, Segovia, Spanien"
     },
@@ -1757,7 +1757,7 @@
         "place_of_burial": "An der Stelle in Ephesus, die als Grabstätte von Johannes gilt, wurde im 6. Jahrhundert unter Kaiser Justinian eine Basilika errichtet, von der heute nur noch Spuren erhalten sind.",
         "notes": "Johannes, der Sohn des Zebedäus, wird von Jesus zusammen mit seinem Bruder Jakobus während ihrer Arbeit als Fischer berufen (vgl. Mt 4, 21-22); die beiden gehören zu den Zwölf und werden von Jesus „Boanerges, das heißt ‚Donnersöhne‘“ (Mk 3, 17) genannt. Johannes gehört zusammen mit Petrus und Jakobus zu den engsten Jüngern Jesu, die den Meister in einigen besonders wichtigen Momenten begleiten: als Jesus die Schwiegermutter des Petrus heilt (Mk 1, 29); als er die Tochter des Synagogenvorstehers Jairus wieder zum Leben erweckt (Mk 5, 37); als er sich auf dem Berg verklärt (Mk 9, 2); im Gebet in Gethsemane (vgl. Mk 14, 33). Er erscheint immer an der Seite von Petrus in den ersten Momenten der Gemeinschaft: die Heilung des Gelähmten (Apg 3, 1-4.11); bei der ersten Verhaftung und dem Urteil des Sanhedrin (vgl. Apg 4, 1-20); in Samaria, um die ersten Gläubigen zu bestätigen (Apg 8, 14). Zusammen mit Petrus und Jakobus, dem „Bruder des Herrn“, wird er als eine der „Säulen“ der Gemeinschaft von Jerusalem dargestellt (Gal 2, 9). Die Tradition erkennt in ihm den „geliebten Jünger“, von dem das Johannesevangelium spricht, das ihm zusammen mit den drei Briefen, die seinen Namen tragen, und der Offenbarung zugeschrieben wird. Johannes wird am 27. Dezember im sogenannten Syrischen Brevier (4. Jahrhundert) und im Hieronymianischen Martyrologium (5.-6. Jahrhundert) erwähnt. Auf Patmos wird eine Höhle, die „Höhle der Apokalypse“ genannt wird, als Wohnstätte des Apostels während seines vorübergehenden Exils bezeichnet. Seit 1999 ist sie zusammen mit dem Kloster des heiligen Johannes ein UNESCO-Weltkulturerbe; in Rom, Basilika San Giovanni a Porta Latina, mit der Kapelle San Giovanni in Oleo.",
         "patronage": "",
-        "main_shrine": "Auf Patmos wird eine Höhle, die „Höhle der Apokalypse“ genannt wird, als Wohnstätte des Apostels während seines vorübergehenden Exils bezeichnet. Seit 1999 ist sie zusammen mit dem Kloster des heiligen Johannes ein UNESCO-Weltkulturerbe; in Rom, Basilika San Giovanni a Porta Lat"
+        "main_shrine": "Auf Patmos wird eine Höhle, die \"Apokalypse-Höhle\" genannt wird, als Wohnort des Apostels während seines vorübergehenden Exils bezeichnet. Seit 1999 gehört sie zusammen mit dem Kloster des Heiligen Johannes zum UNESCO-Weltkulturerbe. In Rom gibt es die Basilika San Giovanni a Porta Latina und die nahegelegene Kapelle San Giovanni \"in oleo\" sowie die Basilika San Giovanni in Laterano"
     },
     "HolyInnocents_185": {
         "subject": "Heilige Unschuldige, Märtyrer",
@@ -1877,7 +1877,7 @@
         "place_of_burial": "Apollinariskirche (Remagen, Deutschland); Basilika St. Lambertus, Düsseldorf (Deutschland)",
         "notes": "Apollinaris (zweite Hälfte des 2. Jahrhunderts) war der erste Bischof von Ravenna und einer der ersten Hirten in ganz Norditalien. Er war auch ein Märtyrer des Glaubens, wie einer seiner Nachfolger, der heilige Petrus Chrysologus (5. Jahrhundert), bezeugt. Auf seinem Grab wurde die Basilika Sant'Apollinare in Classe (6. Jahrhundert) errichtet. Am Ort des Martyriums, in Civitas Classis, wurde im 6. Jahrhundert die Kirche Sant'Apollinare errichtet. Die Reliquien des Heiligen wurden im 9. Jahrhundert in die Stadt übertragen, in die Kirche, die von da an den Namen Sant'Apollinare Nuovo erhielt. Später wurden die Gebeine nach Deutschland gebracht, wo sie sich noch heute befinden. In Ravenna blieben der Kopf und die rechte Hand, die seit 1874 im Dom aufbewahrt werden.",
         "patronage": "",
-        "main_shrine": "Am Ort des Martyriums, in Civitas Classis, wurde im 6. Jahrhundert die Kirche Sant'Apollinare errichtet. Die Reliquien des Heiligen wurden im 9. Jahrhundert in die Stadt übertragen, in die Kirche, die von da an den Namen Sant'Apollinare Nuovo erhielt. Später wurden die Gebeine nach Deutschland gebracht, wo sie sich noch heute befinden. In Ravenna blieben der Kopf und die rechte Hand, die seit 1874 im Dom aufbewahrt werden."
+        "main_shrine": "Am Ort des Martyriums, in Civitas Classis, wurde im 6. Jahrhundert die Basilika des heiligen Apollinaris errichtet. Die Reliquien des Heiligen wurden im 9. Jahrhundert in die Stadt übertragen, in die Kirche, die von da an den Namen Sant'Apollinare Nuovo trug. Später wurden die Gebeine nach Deutschland gebracht, zuerst in die Apollinariskirche in Remagen, dann im 14. Jahrhundert ins nahegelegene Düsseldorf, wo sie sich noch heute befinden. In Ravenna blieben der Kopf und die rechte Hand, die seit 1874 im Dom aufbewahrt werden."
     },
     "StSharbelMakhluf_197": {
         "subject": "Sankt Charbel Makhluf, Einsiedler",
@@ -1935,7 +1935,7 @@
         "place_of_death": "N/V",
         "place_of_birth": "N/V",
         "place_of_burial": "N/V",
-        "notes": "Die Verehrung des Namens Maria entstand im Mittelalter zusammen mit der des Namens Jesu. Das liturgische Fest wurde von Innozenz XI. nach dem Sieg über die Türken in Wien am 12. September 1683 in der gesamten westlichen Kirche eingeführt. Der Name in der Bibel bezeichnet die Identität und Mission einer Person. Wenn der Name Maria vielleicht ägyptischen Ursprungs ist, enthält er die Wurzel des Verbs „lieben“. Sie ist also die Geliebte, in der kein Makel ist (vgl. Hld 4, 7), „voll der Gnade“, wie der Engel Gabriel sie nennt (Lk 1, 28). Maria ist daher das Bild und die Erstlingsfrucht der Kirche, der Braut, die die Gnade Gottes von „nicht-geliebt“ in „geliebt“ verwandelt hat (vgl. Hos 1, 6; 2, 3).",
+        "notes": "Die Verehrung des Namens Maria entstand im Mittelalter zusammen mit der des Namens Jesu. Das liturgische Fest wurde von Innozenz XI. nach dem Sieg über die Türken in Wien am 12. September 1683 in der gesamten westlichen Kirche eingeführt. Der Name in der Bibel bezeichnet die Identität und Mission einer Person. Wenn der Name Maria vielleicht ägyptischen Ursprungs ist, enthält er die Wurzel des Verbs „lieben“. Sie ist also die Geliebte, in der kein Makel ist (vgl. Hld 4, 7), „voll der Gnade“, wie der Engel Gabriel sie nennt (Lk 1, 28). Maria ist daher das Bild und die Erstlingsfrucht der Kirche, der Braut, die Gnade Gottes von „nicht-geliebt“ in „geliebt“ verwandelt hat (vgl. Hos 1, 6; 2, 3).",
         "patronage": "",
         "main_shrine": "Kirche des Heiligsten Namens Mariens, Rom (Italien)"
     },
@@ -1992,7 +1992,7 @@
     "StRayPenyafort_208": {
         "subject": "Heiliger Raimund von Peñafort, Priester",
         "places": "Barcelona (Spanien)",
-        "place_of_death": "Barcelona, Spanien",
+        "place_of_death": "Barcelona (Spanien)",
         "place_of_birth": "Santa Margarida i els Monjos, Spanien",
         "place_of_burial": "Kathedrale Heiliges Kreuz und Heilige Eulalia, Barcelona",
         "notes": "Das liturgische Gedenken ist auf den folgenden Tag, den 7. Januar, festgelegt",
@@ -2305,7 +2305,7 @@
         "place_of_death": "Magdeburg (Deutschland)",
         "place_of_birth": "Xanten (Deutschland)",
         "place_of_burial": "Kloster Strahov, Prag, Tschechische Republik",
-        "notes": "Norbert (Xanten, Deutschland, 1080/1085 - Magdeburg, 6. Juni 1134) begann nach seiner Bekehrung, obwohl er noch Laie war, eine Wanderpredigt. In Prémontré (Frankreich) sammelte er eine Gruppe von Jüngern, Klerikern und Laien, aus der der Orden der Prämonstratenser-Chorherren entstand. Zum Erzbischof von Magdeburg gewählt, widmete er sich der Reform des Klerus.",
+        "notes": "Norbert (Xanten, Deutschland, 1080/1085 - Magdeburg, 6. Juni 1134) begann nach seiner Bekehrung, obwohl er noch Laie war, eine Wanderpredigt. In Prémontré (Frankreich) sammelte er eine Gruppe von Jüngern, Klerikern und Laien, aus der Orden der Prämonstratenser-Chorherren entstand. Zum Erzbischof von Magdeburg gewählt, widmete er sich der Reform des Klerus.",
         "patronage": "",
         "main_shrine": "Kloster Strahov, Prag, Tschechische Republik"
     },
@@ -2355,7 +2355,7 @@
         "place_of_death": "Estremoz (Portugal)",
         "place_of_birth": "Aragonien, Spanien",
         "place_of_burial": "Kloster Santa Clara-a-Nova, Coimbra (Portugal)",
-        "notes": "Elisabeth (Spanien, 1269/1270 - Estremoz, Portugal, 4. Juli 1336), Tochter von Peter, dem zukünftigen König von Aragonien, wurde im Alter von zwölf Jahren mit Dionysius, dem König von Portugal, verheiratet. Sie ertrug mutig die schwierige eheliche Gemeinschaft und wurde zur Vermittlerin in den schweren Konflikten, die die Familie und das Königreich erschütterten. Nach dem Tod ihres Mannes wurde sie Franziskanische Tertiarin und widmete sich ganz dem Gebet und der Nächstenliebe gegenüber den Armen.",
+        "notes": "Elisabeth (Spanien, 1269/1270 - Estremoz, Portugal, 4. Juli 1336), Tochter von Peter, dem zukünftigen König von Aragonien, wurde im Alter von zwölf Jahren mit Dionysius, dem König von Portugal, verheiratet. Sie ertrug mutig die schwierige eheliche Gemeinschaft und wurde zur Vermittlerin in den schweren Konflikten, die Familie und das Königreich erschütterten. Nach dem Tod ihres Mannes wurde sie Franziskanische Tertiarin und widmete sich ganz dem Gebet und der Nächstenliebe gegenüber den Armen.",
         "patronage": "",
         "main_shrine": "Kloster Santa Clara-a-Nova, Coimbra (Portugal)"
     },
@@ -2435,7 +2435,7 @@
         "place_of_death": "Rom (Italien)",
         "place_of_birth": "Loyola, Spanien",
         "place_of_burial": "Kirche des Gesù, Rom",
-        "notes": "Iñigo Lòpez (Loyola, Spanien, 1491 - Rom, 31. Juli 1556), aus einer adligen baskischen Familie, wurde bei der Verteidigung der Stadt Pamplona verwundet. Während der Genesung markierte die Lektüre des Lebens Christi und einiger Heiliger den Beginn seiner Bekehrung. Ein langer Weg führte ihn durch eine Zeit der spirituellen Unterscheidung und eine verlängerte Phase philosophischer und theologischer Studien, die in Paris ihren Höhepunkt fanden. Hier bildete sich eine Gruppe von Gefährten um ihn, mit denen er sich Papst Paul III. vorstellte. Ihm legten sie ihr Ideal dar: Verteidigung und Verbreitung des Glaubens und absolute Verfügbarkeit gegenüber dem Römischen Pontifex in Bezug auf jede Mission, die dieser ihnen zur missionarischen Ausbreitung des Evangeliums und zur Reform der Kirche anvertrauen wollte. Die Spiritualität der Gesellschaft Jesu hat ihren Kern in den Exerzitien, die die innere Erfahrung des Ignatius zusammenfassen. Papst Gregor XV. nahm ihn 1622 in das Verzeichnis der Heiligen auf.",
+        "notes": "Iñigo Lòpez (Loyola, Spanien, 1491 - Rom, 31. Juli 1556), aus einer adligen baskischen Familie, wurde bei der Verteidigung der Stadt Pamplona verwundet. Während der Genesung markierte die Lektüre des Lebens Christi und einiger Heiliger den Beginn seiner Bekehrung. Ein langer Weg führte ihn durch eine Zeit der spirituellen Unterscheidung und eine verlängerte Phase philosophischer und theologischer Studien, die in Paris ihren Höhepunkt fanden. Hier bildete sich eine Gruppe von Gefährten um ihn, mit denen er sich Papst Paul III. vorstellte. Ihm legten sie ihr Ideal dar: Verteidigung und Verbreitung des Glaubens und absolute Verfügbarkeit gegenüber dem Römischen Pontifex in Bezug auf jede Mission, die dieser ihnen zur missionarischen Ausbreitung des Evangeliums und zur Reform der Kirche anvertrauen wollte. Die Spiritualität der Gesellschaft Jesu hat ihren Kern in den Exerzitien, die innere Erfahrung des Ignatius zusammenfassen. Papst Gregor XV. nahm ihn 1622 in das Verzeichnis der Heiligen auf.",
         "patronage": "",
         "main_shrine": "Kirche des Gesù, Rom"
     },
@@ -2530,7 +2530,7 @@
         "main_shrine": "Abtei von Chiaravalle (Frankreich)"
     },
     "StPiusX_329": {
-        "subject": "Papst Pius X.",
+        "subject": "Der heilige Pius X., Papst",
         "places": "N/V",
         "place_of_death": "Rom (Italien)",
         "place_of_birth": "Riese, Treviso (Italien)",
@@ -2785,7 +2785,7 @@
         "place_of_death": "Ubeda, Spanien",
         "place_of_birth": "Fontiveros, Spanien",
         "place_of_burial": "Kloster der Unbeschuhten Karmeliten, Segovia, Spanien",
-        "notes": "Johannes (Fontiveros, Spanien, 1542 - Úbeda, 14. Dezember 1591), Karmelit, mit einer gründlichen theologischen Ausbildung, wurde von der heiligen Teresa von Ávila in das Reformprojekt des Ordens einbezogen, aus dem die Unbeschuhten Karmeliten hervorgingen, als Initiative zur Rückkehr zur alten Strenge, in Kontemplation und Armut. Der Bezug auf das Kreuz, den Johannes damals seinem Namen hinzufügte, war für den jungen Reformer fast eine Prophezeiung der Widersprüche und Leiden, die er von seinen Mitbrüdern erleiden würde: Verdächtigt und zu Unrecht beschuldigt, wurde er neun Monate lang eingesperrt. Aber in dieser dunklen Nacht erlebte Johannes das umhüllende Licht der mystischen Vereinigung mit Gott; er drückte es in Liedern mit intensiven und vibrierenden poetischen Ausdrücken aus, die zusammen mit seinen wunderbaren Schriften ihn zu einem außergewöhnlichen geistlichen Führer machten: „Am Abend des Lebens werden wir nach der Liebe gerichtet.“",
+        "notes": "Johannes (Fontiveros, Spanien, 1542 - Úbeda, 14. Dezember 1591), Karmelit, mit einer gründlichen theologischen Ausbildung, wurde von der heiligen Teresa von Ávila in das Reformprojekt des Ordens einbezogen, aus dem die Unbeschuhten Karmeliten hervorgingen, als Initiative zur Rückkehr zur alten Strenge, in Kontemplation und Armut. Der Bezug auf das Kreuz, den Johannes damals seinem Namen hinzufügte, war für den jungen Reformer fast eine Prophezeiung der Widersprüche und Leiden, die er von seinen Mitbrüdern erleiden würde: Verdächtigt und zu Unrecht beschuldigt, wurde er neun Monate lang eingesperrt. Aber in dieser dunklen Nacht erlebte Johannes das umhüllende Licht der mystischen Vereinigung mit Gott; er drückte es in Liedern mit intensiven und vibrierenden poetischen Ausdrücken aus, die zusammen mit seinen wunderbaren Schriften ihn zu einem außergewöhnlichen geistlichen Führer machten: „Am Abend des Lebens werden wir nach der Liebe gerichtet“.",
         "patronage": "",
         "main_shrine": "Kloster der Unbeschuhten Karmeliten, Segovia, Spanien"
     },
@@ -3165,7 +3165,7 @@
         "place_of_death": "Mexiko-Stadt, Mexiko",
         "place_of_birth": "Cuautitlán, Mexiko",
         "place_of_burial": "Basilika Unserer Lieben Frau von Guadalupe, Mexiko-Stadt, Mexiko",
-        "notes": "Johannes Diego (Cuautitlán, Mexiko, 1474 - Mexiko-Stadt 1548) war zusammen mit seiner Frau einer der ersten Indios, die bei der Ankunft der Franziskanermissionare getauft wurden. Nachdem er verwitwet war, intensivierte er sein spirituelles Leben. Am 9. Dezember 1531 hatte er auf dem Hügel von Tepeyac (heute in Mexiko-Stadt) eine Vision der Jungfrau. In Gehorsam gegenüber der Morenita wurde eine erste Kapelle errichtet, bei der der Seher blieb und sich der Pflege der Kirche und der Aufnahme der zahlreichen Pilger widmete, die an diesen Ort zu strömen begannen.",
+        "notes": "Johannes Diego (Cuautitlán, Mexiko, 1474 - Mexiko-Stadt 1548) war zusammen mit seiner Frau einer der ersten Indios, die bei der Ankunft der Franziskanermissionare getauft wurden. Nachdem er verwitwet war, intensivierte er sein spirituelles Leben. Am 9. Dezember 1531 hatte er auf dem Hügel von Tepeyac (heute in Mexiko-Stadt) eine Vision der Jungfrau. In Gehorsam gegenüber der Morenita wurde eine erste Kapelle errichtet, bei der Seher blieb und sich der Pflege der Kirche und der Aufnahme der zahlreichen Pilger widmete, die an diesen Ort zu strömen begannen.",
         "patronage": "",
         "main_shrine": "Basilika Unserer Lieben Frau von Guadalupe, Mexiko-Stadt, Mexiko"
     },
@@ -3175,7 +3175,7 @@
         "place_of_death": "Mexiko-Stadt, Mexiko",
         "place_of_birth": "Cuautitlán, Mexiko",
         "place_of_burial": "Basilika Unserer Lieben Frau von Guadalupe, Mexiko-Stadt, Mexiko",
-        "notes": "Johannes Diego (Cuautitlán, Mexiko, 1474 - Mexiko-Stadt 1548) war zusammen mit seiner Frau einer der ersten Indios, die bei der Ankunft der Franziskanermissionare getauft wurden. Nachdem er verwitwet war, intensivierte er sein spirituelles Leben. Am 9. Dezember 1531 hatte er auf dem Hügel von Tepeyac (heute in Mexiko-Stadt) eine Vision der Jungfrau. In Gehorsam gegenüber der Morenita wurde eine erste Kapelle errichtet, bei der der Seher blieb und sich der Pflege der Kirche und der Aufnahme der zahlreichen Pilger widmete, die an diesen Ort zu strömen begannen.",
+        "notes": "Johannes Diego (Cuautitlán, Mexiko, 1474 - Mexiko-Stadt 1548) war zusammen mit seiner Frau einer der ersten Indios, die bei der Ankunft der Franziskanermissionare getauft wurden. Nachdem er verwitwet war, intensivierte er sein spirituelles Leben. Am 9. Dezember 1531 hatte er auf dem Hügel von Tepeyac (heute in Mexiko-Stadt) eine Vision der Jungfrau. In Gehorsam gegenüber der Morenita wurde eine erste Kapelle errichtet, bei der Seher blieb und sich der Pflege der Kirche und der Aufnahme der zahlreichen Pilger widmete, die an diesen Ort zu strömen begannen.",
         "patronage": "",
         "main_shrine": "Basilika Unserer Lieben Frau von Guadalupe, Mexiko-Stadt, Mexiko"
     },
@@ -3265,7 +3265,7 @@
         "place_of_death": "Bingen am Rhein (Deutschland)",
         "place_of_birth": "Bermersheim vor der Höhe (Deutschland)",
         "place_of_burial": "Das Kloster Rupertsberg beherbergte die Reliquien der heiligen Hildegard, die dort von 1179 bis 1632 in einem prächtigen Mausoleum aufbewahrt wurden, als sie nach der Zerstörung des Klosters in das zweite von Hildegard gegründete Kloster in Eibingen in der Region Rheingau überführt wurden, wo sie heute in der Pfarrkirche St. Hildegard und St. Johannes der Täufer aufbewahrt werden.",
-        "notes": "Eine Frau mit vielen Talenten, war sie in ihrem Leben auch Prophetin, Heilerin, Kräuterkundige, Naturforscherin, Kosmologin, Gemmologin, Philosophin, Künstlerin, Dichterin, Dramatikerin, Musikerin, Linguistin und politische Beraterin. Sie wurde als jüngstes von zehn Geschwistern in Bermersheim vor der Höhe, nahe Alzey in Rheinhessen, im Sommer 1098 geboren, ein Jahr bevor die Kreuzfahrer Jerusalem eroberten. Hildegards Visionen sollen in jungen Jahren begonnen haben und prägten ihr ganzes Leben. Im Alter von acht Jahren, aufgrund ihrer schwachen Gesundheit, wurde sie von ihren adeligen Eltern, Hildebert und Mathilde von Vendersheim, in die Abtei Disibodenberg gegeben, wo sie von Jutta (oder Judith) von Sponheim, einer jungen Aristokratin, die sich ins Kloster zurückgezogen hatte, erzogen wurde. Sie legte zwischen 1112 und 1115 die Gelübde in den Händen des Bischofs Otto von Bamberg ab. Hildegard studierte die Texte der mittelalterlichen Enzyklopädisten Dionysius Areopagita und Augustinus. Sie begann erst um 1136, als sie fast vierzig Jahre alt war, über ihre Visionen zu sprechen und zu schreiben (die sie als „Visionen nicht des Herzens oder des Geistes, sondern der Seele“ bezeichnete). Nach dem Tod von Judith folgte Hildegard ihr als Magistra (oder Priorin) der Gemeinschaft mit Zustimmung der wenigen Mitschwestern, die damals Teil des Männerklosters von St. Disibod waren. Wenige Jahre später, um der wachsenden Zahl von Novizinnen gerecht zu werden, zog sie in die von ihr selbst 1150 in Bingen gegründete Frauenklostergemeinschaft Rupertsberg, die dem heiligen Rupert gewidmet war (über den sie die einzige existierende Biografie schrieb), deren Ruinen 1857 für den Bau einer Eisenbahn entfernt wurden. Es wird gesagt, dass sie die Mitschwestern prächtig kleiden ließ und sie mit Schmuck schmückte, um die Sonntagsfeste mit Gesang zu begrüßen. In ihrer religiösen Sicht der Schöpfung repräsentierte der Mann die Göttlichkeit Gottes, während die Frau idealerweise die Menschlichkeit Jesu personifizierte. 1165 gründete sie eine weitere Abtei, die noch heute existiert und ein blühendes religiös-kulturelles Zentrum ist, in Eibingen auf der gegenüberliegenden Seite des Rheins. Die Abtei ist zu besichtigen, und in der Kirche kann man Fresken bewundern, die die wichtigsten Momente im Leben von Hildegard und die außergewöhnlichen Zeichen, die ihren Tod am 17. September 1179 begleiteten, darstellen. Innerhalb von etwa einem Dutzend Jahren, zwischen Ende 1159 und 1170, unternahm sie vier pastorale Reisen und predigte in den Kathedralen von Köln, Trier, Lüttich, Mainz, Metz und Würzburg.",
+        "notes": "Eine Frau mit vielen Talenten, war sie in ihrem Leben auch Prophetin, Heilerin, Kräuterkundige, Naturforscherin, Kosmologin, Gemmologin, Philosophin, Künstlerin, Dichterin, Dramatikerin, Musikerin, Linguistin und politische Beraterin. Sie wurde als jüngstes von zehn Geschwistern in Bermersheim vor der Höhe, nahe Alzey in Rheinhessen, im Sommer 1098 geboren, ein Jahr bevor die Kreuzfahrer Jerusalem eroberten. Hildegards Visionen sollen in jungen Jahren begonnen haben und prägten ihr ganzes Leben. Im Alter von acht Jahren, aufgrund ihrer schwachen Gesundheit, wurde sie von ihren adeligen Eltern, Hildebert und Mathilde von Vendersheim, in die Abtei Disibodenberg gegeben, wo sie von Jutta (oder Judith) von Sponheim, einer jungen Aristokratin, die sich ins Kloster zurückgezogen hatte, erzogen wurde. Sie legte zwischen 1112 und 1115 die Gelübde in den Händen des Bischofs Otto von Bamberg ab. Hildegard studierte die Texte der mittelalterlichen Enzyklopädisten Dionysius Areopagita und Augustinus. Sie begann erst um 1136, als sie fast vierzig Jahre alt war, über ihre Visionen zu sprechen und zu schreiben (die sie als „Visionen nicht des Herzens oder des Geistes, sondern der Seele“ bezeichnete). Nach dem Tod von Judith folgte Hildegard ihr als Magistra (oder Priorin) der Gemeinschaft mit Zustimmung der wenigen Mitschwestern, die damals Teil des Männerklosters von St. Disibod waren. Wenige Jahre später, um der wachsenden Zahl von Novizinnen gerecht zu werden, zog sie in die von ihr selbst 1150 in Bingen gegründete Frauenklostergemeinschaft Rupertsberg, die dem heiligen Rupert gewidmet war (über den sie die einzige existierende Biografie schrieb), deren Ruinen 1857 für den Bau einer Eisenbahn entfernt wurden. Es wird gesagt, dass sie die Mitschwestern prächtig kleiden ließ und sie mit Schmuck schmückte, um die Sonntagsfeste mit Gesang zu begrüßen. In ihrer religiösen Sicht der Schöpfung repräsentierte der Mann die Göttlichkeit Gottes, während die Frau idealerweise die Menschlichkeit Jesu personifizierte. 1165 gründete sie eine weitere Abtei, die noch heute existiert und ein blühendes religiös-kulturelles Zentrum ist, in Eibingen auf der gegenüberliegenden Seite des Rheins. Die Abtei ist zu besichtigen, und in der Kirche kann man Fresken bewundern, die wichtigsten Momente im Leben von Hildegard und die außergewöhnlichen Zeichen, die ihren Tod am 17. September 1179 begleiteten, darstellen. Innerhalb von etwa einem Dutzend Jahren, zwischen Ende 1159 und 1170, unternahm sie vier pastorale Reisen und predigte in den Kathedralen von Köln, Trier, Lüttich, Mainz, Metz und Würzburg.",
         "patronage": "",
         "main_shrine": "Kapelle des Benediktinerpriorats in Bingen (Deutschland)"
     },
@@ -3275,7 +3275,7 @@
         "place_of_death": "Bingen am Rhein (Deutschland)",
         "place_of_birth": "Bermersheim vor der Höhe (Deutschland)",
         "place_of_burial": "Das Kloster Rupertsberg beherbergte die Reliquien der heiligen Hildegard, die dort von 1179 bis 1632 in einem prächtigen Mausoleum aufbewahrt wurden. Nach der Zerstörung wurden sie in das zweite von Hildegard gegründete Kloster in Eibingen in der Region Rheingau überführt, wo sie heute in der Pfarrkirche St. Hildegard und St. Johannes der Täufer aufbewahrt werden.",
-        "notes": "Eine Frau mit vielen Talenten, war sie in ihrem Leben auch Prophetin, Heilerin, Kräuterkundige, Naturforscherin, Kosmologin, Gemmologin, Philosophin, Künstlerin, Dichterin, Dramatikerin, Musikerin, Linguistin und politische Beraterin. Sie wurde als jüngstes von zehn Geschwistern in Bermersheim vor der Höhe, nahe Alzey in Rheinhessen, im Sommer 1098 geboren, ein Jahr bevor die Kreuzfahrer Jerusalem eroberten. Hildegards Visionen sollen in jungen Jahren begonnen haben und prägten ihr ganzes Leben. Im Alter von acht Jahren, aufgrund ihrer schwachen Gesundheit, wurde sie von ihren adeligen Eltern, Hildebert und Mathilde von Vendersheim, in die Abtei Disibodenberg gegeben, wo sie von Jutta (oder Judith) von Sponheim, einer jungen Aristokratin, die sich ins Kloster zurückgezogen hatte, erzogen wurde. Sie legte zwischen 1112 und 1115 die Gelübde in den Händen des Bischofs Otto von Bamberg ab. Hildegard studierte die Texte der mittelalterlichen Enzyklopädisten Dionysius Areopagita und Augustinus. Sie begann erst um 1136, als sie fast vierzig Jahre alt war, über ihre Visionen zu sprechen und zu schreiben (die sie als „Visionen nicht des Herzens oder des Geistes, sondern der Seele“ bezeichnete). Nach dem Tod von Judith folgte Hildegard ihr als Magistra (oder Priorin) der Gemeinschaft mit Zustimmung der wenigen Mitschwestern, die damals Teil des Männerklosters von St. Disibod waren. Wenige Jahre später, um der wachsenden Zahl von Novizinnen gerecht zu werden, zog sie in die von ihr selbst 1150 in Bingen gegründete Frauenklostergemeinschaft Rupertsberg, die dem heiligen Rupert gewidmet war (über den sie die einzige existierende Biografie schrieb), deren Ruinen 1857 für den Bau einer Eisenbahn entfernt wurden. Es wird gesagt, dass sie die Mitschwestern prächtig kleiden ließ und sie mit Schmuck schmückte, um die Sonntagsfeste mit Gesang zu begrüßen. In ihrer religiösen Sicht der Schöpfung repräsentierte der Mann die Göttlichkeit Gottes, während die Frau idealerweise die Menschlichkeit Jesu personifizierte. 1165 gründete sie eine weitere Abtei, die noch heute existiert und ein blühendes religiös-kulturelles Zentrum ist, in Eibingen auf der gegenüberliegenden Seite des Rheins. Die Abtei ist zu besichtigen, und in der Kirche kann man Fresken bewundern, die die wichtigsten Momente im Leben von Hildegard und die außergewöhnlichen Zeichen, die ihren Tod am 17. September 1179 begleiteten, darstellen. Innerhalb von etwa einem Dutzend Jahren, zwischen Ende 1159 und 1170, unternahm sie vier pastorale Reisen und predigte in den Kathedralen von Köln, Trier, Lüttich, Mainz, Metz und Würzburg.",
+        "notes": "Eine Frau mit vielen Talenten, war sie in ihrem Leben auch Prophetin, Heilerin, Kräuterkundige, Naturforscherin, Kosmologin, Gemmologin, Philosophin, Künstlerin, Dichterin, Dramatikerin, Musikerin, Linguistin und politische Beraterin. Sie wurde als jüngstes von zehn Geschwistern in Bermersheim vor der Höhe, nahe Alzey in Rheinhessen, im Sommer 1098 geboren, ein Jahr bevor die Kreuzfahrer Jerusalem eroberten. Hildegards Visionen sollen in jungen Jahren begonnen haben und prägten ihr ganzes Leben. Im Alter von acht Jahren, aufgrund ihrer schwachen Gesundheit, wurde sie von ihren adeligen Eltern, Hildebert und Mathilde von Vendersheim, in die Abtei Disibodenberg gegeben, wo sie von Jutta (oder Judith) von Sponheim, einer jungen Aristokratin, die sich ins Kloster zurückgezogen hatte, erzogen wurde. Sie legte zwischen 1112 und 1115 die Gelübde in den Händen des Bischofs Otto von Bamberg ab. Hildegard studierte die Texte der mittelalterlichen Enzyklopädisten Dionysius Areopagita und Augustinus. Sie begann erst um 1136, als sie fast vierzig Jahre alt war, über ihre Visionen zu sprechen und zu schreiben (die sie als „Visionen nicht des Herzens oder des Geistes, sondern der Seele“ bezeichnete). Nach dem Tod von Judith folgte Hildegard ihr als Magistra (oder Priorin) der Gemeinschaft mit Zustimmung der wenigen Mitschwestern, die damals Teil des Männerklosters von St. Disibod waren. Wenige Jahre später, um der wachsenden Zahl von Novizinnen gerecht zu werden, zog sie in die von ihr selbst 1150 in Bingen gegründete Frauenklostergemeinschaft Rupertsberg, die dem heiligen Rupert gewidmet war (über den sie die einzige existierende Biografie schrieb), deren Ruinen 1857 für den Bau einer Eisenbahn entfernt wurden. Es wird gesagt, dass sie die Mitschwestern prächtig kleiden ließ und sie mit Schmuck schmückte, um die Sonntagsfeste mit Gesang zu begrüßen. In ihrer religiösen Sicht der Schöpfung repräsentierte der Mann die Göttlichkeit Gottes, während die Frau idealerweise die Menschlichkeit Jesu personifizierte. 1165 gründete sie eine weitere Abtei, die noch heute existiert und ein blühendes religiös-kulturelles Zentrum ist, in Eibingen auf der gegenüberliegenden Seite des Rheins. Die Abtei ist zu besichtigen, und in der Kirche kann man Fresken bewundern, die wichtigsten Momente im Leben von Hildegard und die außergewöhnlichen Zeichen, die ihren Tod am 17. September 1179 begleiteten, darstellen. Innerhalb von etwa einem Dutzend Jahren, zwischen Ende 1159 und 1170, unternahm sie vier pastorale Reisen und predigte in den Kathedralen von Köln, Trier, Lüttich, Mainz, Metz und Würzburg.",
         "patronage": "",
         "main_shrine": "Kapelle des Benediktinerpriorats in Bingen (Deutschland)"
     },
@@ -3285,7 +3285,7 @@
         "place_of_death": "Bingen am Rhein (Deutschland)",
         "place_of_birth": "Bermersheim vor der Höhe (Deutschland)",
         "place_of_burial": "Das Kloster Rupertsberg beherbergte die Reliquien der heiligen Hildegard, die dort von 1179 bis 1632 in einem prächtigen Mausoleum aufbewahrt wurden. Nach der Zerstörung wurden sie in das zweite von Hildegard gegründete Kloster in Eibingen in der Region Rheingau überführt, wo sie heute in der Pfarrkirche St. Hildegard und St. Johannes der Täufer aufbewahrt werden.",
-        "notes": "Eine Frau mit vielen Talenten, war sie in ihrem Leben auch Prophetin, Heilerin, Kräuterkundige, Naturforscherin, Kosmologin, Gemmologin, Philosophin, Künstlerin, Dichterin, Dramatikerin, Musikerin, Linguistin und politische Beraterin. Sie wurde als jüngstes von zehn Geschwistern in Bermersheim vor der Höhe, nahe Alzey in Rheinhessen, im Sommer 1098 geboren, ein Jahr bevor die Kreuzfahrer Jerusalem eroberten. Hildegards Visionen sollen in jungen Jahren begonnen haben und prägten ihr ganzes Leben. Im Alter von acht Jahren, aufgrund ihrer schwachen Gesundheit, wurde sie von ihren adeligen Eltern, Hildebert und Mathilde von Vendersheim, in die Abtei Disibodenberg gegeben, wo sie von Jutta (oder Judith) von Sponheim, einer jungen Aristokratin, die sich ins Kloster zurückgezogen hatte, erzogen wurde. Sie legte zwischen 1112 und 1115 die Gelübde in den Händen des Bischofs Otto von Bamberg ab. Hildegard studierte die Texte der mittelalterlichen Enzyklopädisten Dionysius Areopagita und Augustinus. Sie begann erst um 1136, als sie fast vierzig Jahre alt war, über ihre Visionen zu sprechen und zu schreiben (die sie als „Visionen nicht des Herzens oder des Geistes, sondern der Seele“ bezeichnete). Nach dem Tod von Judith folgte Hildegard ihr als Magistra (oder Priorin) der Gemeinschaft mit Zustimmung der wenigen Mitschwestern, die damals Teil des Männerklosters von St. Disibod waren. Wenige Jahre später, um der wachsenden Zahl von Novizinnen gerecht zu werden, zog sie in die von ihr selbst 1150 in Bingen gegründete Frauenklostergemeinschaft Rupertsberg, die dem heiligen Rupert gewidmet war (über den sie die einzige existierende Biografie schrieb), deren Ruinen 1857 für den Bau einer Eisenbahn entfernt wurden. Es wird gesagt, dass sie die Mitschwestern prächtig kleiden ließ und sie mit Schmuck schmückte, um die Sonntagsfeste mit Gesang zu begrüßen. In ihrer religiösen Sicht der Schöpfung repräsentierte der Mann die Göttlichkeit Gottes, während die Frau idealerweise die Menschlichkeit Jesu personifizierte. 1165 gründete sie eine weitere Abtei, die noch heute existiert und ein blühendes religiös-kulturelles Zentrum ist, in Eibingen auf der gegenüberliegenden Seite des Rheins. Die Abtei ist zu besichtigen, und in der Kirche kann man Fresken bewundern, die die wichtigsten Momente im Leben von Hildegard und die außergewöhnlichen Zeichen, die ihren Tod am 17. September 1179 begleiteten, darstellen. Innerhalb von etwa einem Dutzend Jahren, zwischen Ende 1159 und 1170, unternahm sie vier pastorale Reisen und predigte in den Kathedralen von Köln, Trier, Lüttich, Mainz, Metz und Würzburg.",
+        "notes": "Eine Frau mit vielen Talenten, war sie in ihrem Leben auch Prophetin, Heilerin, Kräuterkundige, Naturforscherin, Kosmologin, Gemmologin, Philosophin, Künstlerin, Dichterin, Dramatikerin, Musikerin, Linguistin und politische Beraterin. Sie wurde als jüngstes von zehn Geschwistern in Bermersheim vor der Höhe, nahe Alzey in Rheinhessen, im Sommer 1098 geboren, ein Jahr bevor die Kreuzfahrer Jerusalem eroberten. Hildegards Visionen sollen in jungen Jahren begonnen haben und prägten ihr ganzes Leben. Im Alter von acht Jahren, aufgrund ihrer schwachen Gesundheit, wurde sie von ihren adeligen Eltern, Hildebert und Mathilde von Vendersheim, in die Abtei Disibodenberg gegeben, wo sie von Jutta (oder Judith) von Sponheim, einer jungen Aristokratin, die sich ins Kloster zurückgezogen hatte, erzogen wurde. Sie legte zwischen 1112 und 1115 die Gelübde in den Händen des Bischofs Otto von Bamberg ab. Hildegard studierte die Texte der mittelalterlichen Enzyklopädisten Dionysius Areopagita und Augustinus. Sie begann erst um 1136, als sie fast vierzig Jahre alt war, über ihre Visionen zu sprechen und zu schreiben (die sie als „Visionen nicht des Herzens oder des Geistes, sondern der Seele“ bezeichnete). Nach dem Tod von Judith folgte Hildegard ihr als Magistra (oder Priorin) der Gemeinschaft mit Zustimmung der wenigen Mitschwestern, die damals Teil des Männerklosters von St. Disibod waren. Wenige Jahre später, um der wachsenden Zahl von Novizinnen gerecht zu werden, zog sie in die von ihr selbst 1150 in Bingen gegründete Frauenklostergemeinschaft Rupertsberg, die dem heiligen Rupert gewidmet war (über den sie die einzige existierende Biografie schrieb), deren Ruinen 1857 für den Bau einer Eisenbahn entfernt wurden. Es wird gesagt, dass sie die Mitschwestern prächtig kleiden ließ und sie mit Schmuck schmückte, um die Sonntagsfeste mit Gesang zu begrüßen. In ihrer religiösen Sicht der Schöpfung repräsentierte der Mann die Göttlichkeit Gottes, während die Frau idealerweise die Menschlichkeit Jesu personifizierte. 1165 gründete sie eine weitere Abtei, die noch heute existiert und ein blühendes religiös-kulturelles Zentrum ist, in Eibingen auf der gegenüberliegenden Seite des Rheins. Die Abtei ist zu besichtigen, und in der Kirche kann man Fresken bewundern, die wichtigsten Momente im Leben von Hildegard und die außergewöhnlichen Zeichen, die ihren Tod am 17. September 1179 begleiteten, darstellen. Innerhalb von etwa einem Dutzend Jahren, zwischen Ende 1159 und 1170, unternahm sie vier pastorale Reisen und predigte in den Kathedralen von Köln, Trier, Lüttich, Mainz, Metz und Würzburg.",
         "patronage": "",
         "main_shrine": "Kapelle des Benediktinerpriorats in Bingen (Deutschland)"
     },
@@ -3352,9 +3352,9 @@
     "StBasilGreat_573": {
         "subject": "Heiliger Basilius der Große",
         "places": "Kappadokien (Türkei)",
-        "place_of_death": "Kayseri, Türkei",
-        "place_of_birth": "Cäsarea in Kappadokien, heutiges Kayseri, Türkei",
-        "place_of_burial": "St. Georgs-Kathedrale, Istanbul, Türkei",
+        "place_of_death": "Kayseri (Türkei)",
+        "place_of_birth": "Cäsarea in Kappadokien (heutiges Kayseri, Türkei)",
+        "place_of_burial": "Kloster der Großen Laura (Berg Athos, Griechenland)",
         "notes": "Gestorben am 1. Januar, das liturgische Gedenken ist am folgenden Tag, dem 2. Januar",
         "patronage": "",
         "main_shrine": "N/V"
@@ -3387,7 +3387,7 @@
         "place_of_burial": "Königliche Kollegiatbasilika San Isidoro (León, Spanien)",
         "notes": "Isidor (ca. 560 - Sevilla, 4. April 636), aus christlicher Familie und Bildung, auch in der weltlichen Kultur bewandert, wurde mit seinen literarischen und gelehrten Werken zu einem Bezugspunkt für das gesamte Mittelalter. Erzbischof von Sevilla für etwa fünfunddreißig Jahre, förderte er durch einige lokale Konzilien eine liturgische und kanonische Gesetzgebung von grundlegender Bedeutung für die iberische Kirche.",
         "patronage": "",
-        "main_shrine": "Kathedrale Santa Maria de la Sede von Sevilla"
+        "main_shrine": "Basilika von Sankt Isidor (León, Spanien)"
     },
     "StPeterChrysologus_577": {
         "subject": "Sankt Peter Chrysologus, Bischof und Kirchenlehrer",
@@ -3595,7 +3595,7 @@
         "place_of_death": "N/V",
         "place_of_birth": "N/V",
         "place_of_burial": "N/V",
-        "notes": "Am 20. Januar 1842, als die Jungfrau dem Elsässer Juden Alfonso Ratisbonne erschien, der fast zufällig Rom besuchte. Der junge Anwalt und Bankier, der der katholischen Religion stark feindlich gegenüberstand, trug aus Spott die Wundertätige Medaille, die ihm von einigen Freunden mit Glauben geschenkt worden war. Als er die Kirche betrat, sah er deutlich eine Frau in der Kapelle, die damals dem Erzengel Michael gewidmet war, die ihm mit dem Finger bedeutete, sich zu knien. Die Folge dieser Geste war die sofortige Bekehrung des Mannes, der, kaum aus dem Staunen erwacht, um Beichte und Taufe bat. Später wurde Alfonso zum Priester geweiht und schloss sich seinem Bruder Theodore, ebenfalls Priester, in der Bewegung der Schwestern Unserer Lieben Frau von Sion zur Bekehrung der Juden und Muslime an, die ihn bis nach Palästina führte, wo sie eine Niederlassung in der Nähe des alten Prätoriums von Pilatus gründeten. Er starb 1884 in Ein Kerem.",
+        "notes": "Am 20. Januar 1842, als die Jungfrau dem Elsässer Juden Alfonso Ratisbonne erschien, der fast zufällig Rom besuchte. Der junge Anwalt und Bankier, der katholischen Religion stark feindlich gegenüberstand, trug aus Spott die Wundertätige Medaille, die ihm von einigen Freunden mit Glauben geschenkt worden war. Als er die Kirche betrat, sah er deutlich eine Frau in der Kapelle, die damals dem Erzengel Michael gewidmet war, die ihm mit dem Finger bedeutete, sich zu knien. Die Folge dieser Geste war die sofortige Bekehrung des Mannes, der, kaum aus dem Staunen erwacht, um Beichte und Taufe bat. Später wurde Alfonso zum Priester geweiht und schloss sich seinem Bruder Theodore, ebenfalls Priester, in der Bewegung der Schwestern Unserer Lieben Frau von Sion zur Bekehrung der Juden und Muslime an, die ihn bis nach Palästina führte, wo sie eine Niederlassung in der Nähe des alten Prätoriums von Pilatus gründeten. Er starb 1884 in Ein Kerem.",
         "patronage": "",
         "main_shrine": "Basilika Sant'Andrea delle Fratte (Rom, Italien)"
     },
@@ -3605,7 +3605,7 @@
         "place_of_death": "N/V",
         "place_of_birth": "N/V",
         "place_of_burial": "N/V",
-        "notes": "Am Abend des 17. Januar 1871 half der zwölfjährige Eugène Barbedette seinem Vater im Heuboden, den Stechginster zu stampfen, der als Futter für die Tiere verwendet wurde; auch sein zehnjähriger Bruder Joseph war bei ihnen. Eugène ging hinaus, um das Wetter zu überprüfen, und sah über dem Haus gegenüber eine wunderschöne Frau in einem mit Sternen verzierten Kleid, die die Botschaft überbrachte: \"ABER BETET, MEINE KINDER. GOTT WIRD EUCH SEHR BALD ANTWORTEN. MEIN SOHN ERLAUBT, DASS SEIN HERZ BERÜHRT WIRD.\"",
+        "notes": "Am Abend des 17. Januar 1871 half der zwölfjährige Eugène Barbedette seinem Vater im Heuboden, den Stechginster zu stampfen, der als Futter für die Tiere verwendet wurde; auch sein zehnjähriger Bruder Joseph war bei ihnen. Eugène ging hinaus, um das Wetter zu überprüfen, und sah über dem Haus gegenüber eine wunderschöne Frau in einem mit Sternen verzierten Kleid, die Botschaft überbrachte: \"ABER BETET, MEINE KINDER. GOTT WIRD EUCH SEHR BALD ANTWORTEN. MEIN SOHN ERLAUBT, DASS SEIN HERZ BERÜHRT WIRD.\"",
         "patronage": "",
         "main_shrine": "Basilika Unsere Liebe Frau von Pontmain (Frankreich)"
     },
@@ -3615,7 +3615,7 @@
         "place_of_death": "N/V",
         "place_of_birth": "N/V",
         "place_of_burial": "N/V",
-        "notes": "Von Juni bis Dezember 1830 erhält Schwester Catherine Labouré, eine junge Novizin der Töchter der Nächstenliebe, die immense Gnade, sich dreimal mit der Heiligen Jungfrau Maria zu unterhalten. Am 27. November hat sie die Vision der Heiligen Jungfrau Maria, die die Wundertätige Medaille inspiriert.",
+        "notes": "Von Juni bis Dezember 1830 erhält Schwester Catherine Labouré, eine junge Novizin der Töchter der Nächstenliebe, die immense Gnade, sich dreimal mit der Heiligen Jungfrau Maria zu unterhalten. Am 27. November hat sie die Vision der Heiligen Jungfrau Maria, die Wundertätige Medaille inspiriert.",
         "patronage": "",
         "main_shrine": "Heiligtum Unserer Lieben Frau von der Wundertätigen Medaille in der Rue du Bac (Paris, Frankreich)"
     },
@@ -3700,13 +3700,13 @@
         "main_shrine": "Basilika Unserer Lieben Frau vom Rosenkranz (Prouilhe, Frankreich)"
     },
     "OurLadyZeitoun_607": {
-        "subject": "",
-        "places": "",
+        "subject": "Unsere Liebe Frau von Zeitoun",
+        "places": "Kairo (Ägypten)",
         "place_of_death": "N/V",
         "place_of_birth": "N/V",
         "place_of_burial": "N/V",
-        "notes": "",
+        "notes": "Die erste Erscheinung der Jungfrau Maria in Zeitoun wurde am Abend des 2. April 1968 registriert, als ein muslimischer Busmechaniker namens Farouk Mohammed Atwa dachte, er habe eine Frau auf dem Gebäude gesehen. Eine Woche später, am 9. April, trat das Phänomen erneut auf, diesmal wieder nur für wenige Minuten. Nach dieser Zeit wurden die Erscheinungen häufiger, sogar zwei- oder dreimal pro Woche, über mehrere Jahre hinweg bis 1971. Laut koptischer Tradition liegt Zeitoun in der Nähe eines der Orte, an denen die Heilige Familie während der Flucht nach Ägypten verweilte. Am 12. Mai 2018 feierte die koptische Kirche das goldene Jubiläum des Ereignisses.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Kirche der Heiligen Maria von Zeitoun (Kairo, Ägypten)"
     }
 }
