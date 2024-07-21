@@ -3172,7 +3172,7 @@
     "JuanDiego_553": {
         "subject": "Sanctus Ioannes Didacus Cuauhtlatoatzin",
         "places": "Mexicopolis, Mexicum",
-        "place_of_death": "",
+        "place_of_death": "Mexicopolis, Mexicum",
         "place_of_birth": "Cuautitlán, Mexicum",
         "place_of_burial": "Basilica Nostrae Dominae de Guadalupe, Mexicopolis, Mexicum",
         "notes": "Ioannes Didacus (Cuautitlán, Mexicum, 1474 - Mexicopolis 1548) fuit, cum uxore, inter primos indos qui Baptismum acceperunt adventu missionariorum franciscanorum. Viduitate relicta, vitam spiritualem suam intensificavit. Die 9 Decembris 1531, in colle Tepeyac (hodie in Mexicopoli), visionem Virginis habuit. Obedientia Morenitae, prima cappella erecta est apud quam vates mansit, se dedicans curae ecclesiae et susceptioni numerosi peregrinorum qui ad locum illum affluere coeperunt.",
@@ -3471,7 +3471,7 @@
     },
     "Guadalupe_555": {
         "subject": "Beata Virgo Maria de Guadalupe",
-        "places": "",
+        "places": "Mexicopolis, Mexicum",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
