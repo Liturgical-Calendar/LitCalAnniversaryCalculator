@@ -412,7 +412,7 @@
     "StFidelisSigmaringen_45": {
         "subject": "San Fedele di Sigmaringen, sacerdote e martire",
         "places": "Austria; Svizzera",
-        "place_of_death": "Seewis im Prättigau, Svizzera",
+        "place_of_death": "Seewis im Prättigau (Svizzera)",
         "place_of_birth": "Sigmaringen (Germania)",
         "place_of_burial": "La sua testa fu portata a Feldkirch (attualmente in Austria), mentre il resto del corpo fu seppellito nella Cattedrale di Coira (Svizzera), dove ancora riposano i suoi resti mortali.",
         "notes": "Fedele, al secolo Marco (Sigmaringen, Germania, 1578 - Seewis im Prättigau, Svizzera, 24 aprile 1622), cappuccino, dottore in utroque iure, guidò la prima missione promossa dalla Congregazione de propaganda fide, ancora in fase di costituzione, verso i territori nei quali si era diffusa la Riforma protestante. Nel clima di forte tensione interna ai Grigioni, aggravato dalle pressioni politiche internazionali, la predicazione dei religiosi cattolici sollevò reazioni violente, di fronte alle quali Fedele rese testimonianza a Cristo fino alla morte.",
@@ -612,7 +612,7 @@
     "StBoniface_67": {
         "subject": "San Bonifacio, vescovo e martire",
         "places": "Fulda (Germania)",
-        "place_of_death": "Dokkum, Paesi Bassi",
+        "place_of_death": "Dokkum (Paesi Bassi)",
         "place_of_birth": "Wessex (Regno Unito)",
         "place_of_burial": "Abbazia di Fulda (Germania)",
         "notes": "Vinfrido, nome che papa Gregorio II mutò in Bonifacio (Wessex, Regno Unito, 675 ca. - Dokkum, Paesi Bassi, 754), fu monaco nell’abbazia di Nursling (Regno Unito). Di qui, secondo la tradizione del monachesimo insulare, iniziò a peregrinare nel continente europeo. Inviato dal papa come missionario tra le popolazioni germaniche, quindi eletto arcivescovo, operò in Assia e Turingia, fondando diverse diocesi e monasteri. In età già avanzata iniziò una missione tra i Frisoni, ma vi trovò la morte per mano di predoni. Fu sepolto a Fulda (Germania).",
@@ -1721,23 +1721,23 @@
     },
     "StPeterCanisius_181": {
         "subject": "San Pietro Canisio, sacerdote e dottore",
-        "places": "Friburgo, Svizzera",
-        "place_of_death": "Friburgo, Svizzera",
-        "place_of_birth": "Nimega, Paesi Bassi",
-        "place_of_burial": "Collegio di San Michele, Friburgo, Svizzera",
+        "places": "Friburgo (Svizzera)",
+        "place_of_death": "Friburgo (Svizzera)",
+        "place_of_birth": "Nimega (Paesi Bassi)",
+        "place_of_burial": "Collegio di San Michele (Friburgo, Svizzera)",
         "notes": "Pietro Kanijs – latinizzato in Canisius – ( Nimega, Paesi Bassi, 8 maggio 1521 - Friburgo, Svizzera, 21 dicembre 1597), gesuita, fu protagonista della restaurazione del cattolicesimo in Germania, dopo la Riforma protestante, con iniziative di formazione e testi di catechismo, soprattutto per i giovani e i candidati al ministero. Riformatore di università e promotore di seminari, fu assiduo anche nella predicazione tra le popolazioni rurali.",
         "patronage": "",
-        "main_shrine": "Collegio di San Michele, Friburgo, Svizzera"
+        "main_shrine": "Collegio di San Michele (Friburgo, Svizzera)"
     },
     "StJohnKanty_182": {
         "subject": "San Giovanni da Kęty, sacerdote",
         "places": "Cracovia (Polonia)",
         "place_of_death": "Cracovia (Polonia)",
         "place_of_birth": "Kęty (Polonia)",
-        "place_of_burial": "Chiesa di Sant'Anna, Cracovia",
+        "place_of_burial": "Chiesa di Sant'Anna (Cracovia, Polonia)",
         "notes": "Giovanni (Kęty, Polonia, 1390 - Cracovia, 24 dicembre 1473), presbitero, filosofo e teologo, fu professore all’università di Cracovia, membro della Cappella musicale della collegiata di San Floriano e canonico della cattedrale. Era noto in tutta la città per la rettitudine di vita, l’inesauribile bontà e la predilezione verso i poveri.",
         "patronage": "",
-        "main_shrine": "Chiesa di Sant'Anna, Cracovia"
+        "main_shrine": "Chiesa di Sant'Anna (Cracovia, Polonia)"
     },
     "StStephenProtomartyr_183": {
         "subject": "Santo Stefano, protomartire",
@@ -1841,13 +1841,13 @@
     },
     "StChristopherMagallanes_193": {
         "subject": "San Cristoforo Magallanes e compagni martiri",
-        "places": "Jalisco, Messico",
-        "place_of_death": "Colotlán, Messico",
-        "place_of_birth": "Totatiche, Messico",
-        "place_of_burial": "Santuario de San Cristóbal Magallanes, Jalisco, Messico",
+        "places": "Jalisco (Messico)",
+        "place_of_death": "Colotlán (Messico)",
+        "place_of_birth": "Totatiche (Messico)",
+        "place_of_burial": "Santuario de San Cristóbal Magallanes (Jalisco, Messico)",
         "notes": "Cristoforo (Totatiche, Messico, 30 luglio 1869 - Colotlán, 25 maggio 1927) fu parroco e missionario tra gli indigeni. Nella complessa situazione locale – tra la persecuzione dello Stato contro la Chiesa cattolica e le conseguenti reazioni popolari, talora anche violente – testimoniò con il sacrificio della vita il primato del regno di Dio. Alla sua figura è unita la memoria di altri ventiquattro martiri, preti e laici, uccisi tra il 1915 e il 1937.",
         "patronage": "",
-        "main_shrine": "Santuario de San Cristóbal Magallanes, Jalisco, Messico"
+        "main_shrine": "Santuario de San Cristóbal Magallanes (Jalisco, Messico)"
     },
     "StRitaCascia_194": {
         "subject": "Santa Rita da Cascia, religiosa",
@@ -2212,7 +2212,7 @@
     "StFidelisSigmaringen_260": {
         "subject": "San Fedele di Sigmaringen, sacerdote e martire",
         "places": "N/A",
-        "place_of_death": "Seewis im Prättigau, Svizzera",
+        "place_of_death": "Seewis im Prättigau (Svizzera)",
         "place_of_birth": "Sigmaringen (Germania)",
         "place_of_burial": "La sua testa fu portata a Feldkirch (attualmente in Austria), mentre il resto del corpo fu seppellito nella Cattedrale di Coira (Svizzera), dove ancora riposano i suoi resti mortali.",
         "notes": "Fedele, al secolo Marco (Sigmaringen, Germania, 1578 - Seewis im Prättigau, Svizzera, 24 aprile 1622), cappuccino, dottore in utroque iure, guidò la prima missione promossa dalla Congregazione de propaganda fide, ancora in fase di costituzione, verso i territori nei quali si era diffusa la Riforma protestante. Nel clima di forte tensione interna ai Grigioni, aggravato dalle pressioni politiche internazionali, la predicazione dei religiosi cattolici sollevò reazioni violente, di fronte alle quali Fedele rese testimonianza a Cristo fino alla morte.",
@@ -2791,13 +2791,13 @@
     },
     "StPeterCanisius_396": {
         "subject": "San Pietro Canisio, sacerdote e dottore",
-        "places": "Friburgo, Svizzera",
-        "place_of_death": "Friburgo, Svizzera",
-        "place_of_birth": "Nimega, Paesi Bassi",
-        "place_of_burial": "Collegio di San Michele, Friburgo, Svizzera",
+        "places": "Friburgo (Svizzera)",
+        "place_of_death": "Friburgo (Svizzera)",
+        "place_of_birth": "Nimega (Paesi Bassi)",
+        "place_of_burial": "Collegio di San Michele (Friburgo, Svizzera)",
         "notes": "Pietro Kanijs – latinizzato in Canisius – ( Nimega, Paesi Bassi, 8 maggio 1521 - Friburgo, Svizzera, 21 dicembre 1597), gesuita, fu protagonista della restaurazione del cattolicesimo in Germania, dopo la Riforma protestante, con iniziative di formazione e testi di catechismo, soprattutto per i giovani e i candidati al ministero. Riformatore di università e promotore di seminari, fu assiduo anche nella predicazione tra le popolazioni rurali.",
         "patronage": "",
-        "main_shrine": "Collegio di San Michele, Friburgo, Svizzera"
+        "main_shrine": "Collegio di San Michele (Friburgo, Svizzera)"
     },
     "StJohnKanty_397": {
         "subject": "San Giovanni da Kęty, sacerdote",
@@ -2841,13 +2841,13 @@
     },
     "StChristopherMagallanes_408": {
         "subject": "San Cristoforo Magallanes e compagni martiri",
-        "places": "Jalisco, Messico",
-        "place_of_death": "Colotlán, Messico",
-        "place_of_birth": "Totatiche, Messico",
-        "place_of_burial": "Santuario de San Cristóbal Magallanes, Jalisco, Messico",
+        "places": "Jalisco (Messico)",
+        "place_of_death": "Colotlán (Messico)",
+        "place_of_birth": "Totatiche (Messico)",
+        "place_of_burial": "Santuario de San Cristóbal Magallanes (Jalisco, Messico)",
         "notes": "Cristoforo (Totatiche, Messico, 30 luglio 1869 - Colotlán, 25 maggio 1927) fu parroco e missionario tra gli indigeni. Nella complessa situazione locale – tra la persecuzione dello Stato contro la Chiesa cattolica e le conseguenti reazioni popolari, talora anche violente – testimoniò con il sacrificio della vita il primato del regno di Dio. Alla sua figura è unita la memoria di altri ventiquattro martiri, preti e laici, uccisi tra il 1915 e il 1937.",
         "patronage": "",
-        "main_shrine": "Santuario de San Cristóbal Magallanes, Jalisco, Messico"
+        "main_shrine": "Santuario de San Cristóbal Magallanes (Jalisco, Messico)"
     },
     "StRitaCascia_409": {
         "subject": "Santa Rita da Cascia, religiosa",
@@ -2954,10 +2954,10 @@
         "places": "N/A",
         "place_of_death": "Lione (Francia)",
         "place_of_birth": "Sales (Francia)",
-        "place_of_burial": "Basilica della Visitazione, Annecy (Francia)",
+        "place_of_burial": "Basilica della Visitazione (Annecy, Francia)",
         "notes": "Francesco (Sales, Francia, 1567 - Lione, 28 dicembre 1622), vescovo di Ginevra (Svizzera) con sede ad Annecy (Francia), grazie alla sua umana dolcezza e alla saggezza pastorale, favorì l’unità della Chiesa in un territorio caratterizzato da forti contrasti tra cattolici e calvinisti. Con l’Introduzione alla vita devota e altre opere ascetico-mistiche propose una via di santità accessibile in tutte le condizioni di vita, in quanto fondata interamente sull’amore di Dio, compendio di ogni perfezione. Con santa Giovanna Francesca Frémyot de Chantal fondò l’Ordine femminile della Visitazione. Il giorno della memoria liturgica corrisponde a quello della sua sepoltura ad Annecy. Insieme a San Francesco di Sales, è sepolta anche Santa Giovanna Francesca Frémiot de Chantal nella stessa chiesa della visitazione ad Annecy.",
         "patronage": "",
-        "main_shrine": "Basilica della Visitazione, Annecy (Francia)"
+        "main_shrine": "Basilica della Visitazione (Annecy, Francia)"
     },
     "StAugustineCanterbury_485": {
         "subject": "Sant'Anselmo di Canterbury, vescovo e dottore della Chiesa",
@@ -2981,19 +2981,19 @@
     },
     "StAnthonyPadua_489": {
         "subject": "Sant'Antonio di Padova, sacerdote e dottore",
-        "places": "Lisbona (Portogallo); Eremo di Montepaolo, Forli'; Rimini; Padova",
+        "places": "Lisbona (Portogallo); Eremo di Montepaolo (Forlì, Italia); Rimini (Italia); Padova (Italia)",
         "place_of_death": "Padova (Italia)",
         "place_of_birth": "Lisbona (Portogallo)",
-        "place_of_burial": "Basilica di Sant'Antonio, Padova (Italia)",
+        "place_of_burial": "Basilica di Sant'Antonio (Padova, Italia)",
         "notes": "Antonio, al secolo Fernando (Lisbona, Portogallo, 1190/1195 ca. - Padova, 13 giugno 1231), dopo un’intensa vita ascetica presso i Canonici regolari agostiniani di Coimbra, entrò tra i Frati Minori con il desiderio, non realizzato a causa di una malattia, di partire per la missione in Marocco. Fu il primo francescano a insegnare teologia, con il consenso dello stesso san Francesco. Di grande cultura biblica ed efficace predicatore del Vangelo, esercitò il ministero nell’Italia settentrionale e nella Francia meridionale, suscitando numerose conversioni. Concluse la sua vita a Padova, dove contribuì alla pacificazione cittadina: là rimasero le sue spoglie mortali, oggetto di venerazione molto diffusa.",
         "patronage": "",
-        "main_shrine": "Basilica di Sant'Antonio, Padova (Italia)"
+        "main_shrine": "Basilica di Sant'Antonio (Padova, Italia)"
     },
     "StBonaventure_491": {
         "subject": "San Bonaventura, vescovo e dottore",
         "places": "Lione (Francia); Bagnoregio (Italia)",
         "place_of_death": "Lione (Francia)",
-        "place_of_birth": "Civita di Bagnoregio, Viterbo",
+        "place_of_birth": "Civita di Bagnoregio (Viterbo, Italia)",
         "place_of_burial": "http://www.doctorseraphicus.it/images/annate/1958_67-81_Petrangeli_Papini.pdf",
         "notes": "Bonaventura (Civita di Bagnoregio, Viterbo, 1217 ca. - Lione, Francia, 15 luglio 1274), entrò nell’Ordine dei Frati Minori compiendo gli studi a Parigi. Teologo, si dedicò all’insegnamento, producendo opere di ispirazione sapienziale, tra cui l’Itinerario della mente verso Dio. Ministro generale, ordinò la legislazione precedente promulgando nuove Costituzioni (Narbona, 1260) e, con la sua opera agiografica (Legenda maior e Legenda minor, scritta – quest’ultima – per l’ufficiatura liturgica), propose una visione unitaria della figura di san Francesco. Vescovo di Albano e cardinale, partecipò al Concilio Lionese II durante il quale, improvvisamente, passò dalla Chiesa terrena all’assemblea celeste.",
         "patronage": "",
@@ -3011,13 +3011,13 @@
     },
     "StAlphonsusMariaDeLiguori_494": {
         "subject": "Sant'Alfonso Maria de Liguori, vescovo e dottore",
-        "places": "Marianella, Napoli; Pagani, Salerno",
+        "places": "Marianella (Napoli, Italia); Pagani (Salerno, Italia)",
         "place_of_death": "Pagani (Salerno, Italia)",
         "place_of_birth": "Marianella (Napoli, Italia)",
         "place_of_burial": "Basilica pontificia di Sant'Alfonso Maria de' Liguori, Pagani",
         "notes": "Alfonso (Marianella, Napoli, 27 settembre 1696 - Pagani, Salerno, 1 agosto 1787), avvicinatosi in giovinezza all’Oratorio filippino e all’assistenza dei malati incurabili, lasciò la professione forense e fu ordinato presbitero. Predicò con stile semplice nei quartieri più poveri di Napoli e nelle comunità rurali, promovendo devozioni ricche di sentimento religioso. Per incrementare le missioni al popolo, fondò la Congregazione del Santissimo Redentore (Redentoristi). Vescovo di Sant’Agata dei Goti (Benevento), si dedicò particolarmente alla formazione del clero. Con i suoi numerosi scritti e con canti dalla dolce melodia popolare alimentò la spiritualità dei fedeli e contribuì a una equilibrata preparazione teologico-morale dei confessori.",
         "patronage": "",
-        "main_shrine": "Basilica pontificia di Sant'Alfonso Maria de' Liguori, Pagani"
+        "main_shrine": "Basilica pontificia di Sant'Alfonso Maria de' Liguori (Pagani, Italia)"
     },
     "StBernardClairvaux_495": {
         "subject": "San Bernardo di Chiaravalle, abate e dottore della Chiesa",
@@ -3033,11 +3033,11 @@
         "subject": "San Roberto Bellarmino, vescovo e dottore",
         "places": "N/A",
         "place_of_death": "Roma (Italia)",
-        "place_of_birth": "Montepulciano, Siena (Italia)",
-        "place_of_burial": "Chiesa di Sant'Ignazio, Roma (Italia)",
+        "place_of_birth": "Montepulciano (Siena, Italia)",
+        "place_of_burial": "Chiesa di Sant'Ignazio (Roma, Italia)",
         "notes": "Roberto (Montepulciano, Siena, 4 ottobre 1542 - Roma, 17 settembre 1621), gesuita, impiegò la sua notevole competenza teologica sia in complesse controversie dottrinali (Disputationes de controversiis christianae fidei ), sia nella redazione di un catechismo popolare. Cardinale e arcivescovo di Capua, diede esemplare applicazione al Concilio di Trento, finché i gravosi impegni romani lo spinsero a lasciare la diocesi per dedicarsi interamente al servizio della Chiesa universale.",
         "patronage": "",
-        "main_shrine": "Chiesa di Sant'Ignazio, Roma (Italia)"
+        "main_shrine": "Chiesa di Sant'Ignazio (Roma, Italia)"
     },
     "StTeresaJesus_499": {
         "subject": "Santa Teresa d'Avila, vergine e dottore",
@@ -3071,17 +3071,17 @@
     },
     "StPeterCanisius_504": {
         "subject": "San Pietro Canisio, sacerdote e dottore",
-        "places": "Friburgo, Svizzera",
-        "place_of_death": "Friburgo, Svizzera",
-        "place_of_birth": "Nimega, Paesi Bassi",
-        "place_of_burial": "Collegio di San Michele, Friburgo, Svizzera",
+        "places": "Friburgo (Svizzera)",
+        "place_of_death": "Friburgo (Svizzera)",
+        "place_of_birth": "Nimega (Paesi Bassi)",
+        "place_of_burial": "Collegio di San Michele (Friburgo, Svizzera)",
         "notes": "Pietro Kanijs – latinizzato in Canisius – ( Nimega, Paesi Bassi, 8 maggio 1521 - Friburgo, Svizzera, 21 dicembre 1597), gesuita, fu protagonista della restaurazione del cattolicesimo in Germania, dopo la Riforma protestante, con iniziative di formazione e testi di catechismo, soprattutto per i giovani e i candidati al ministero. Riformatore di università e promotore di seminari, fu assiduo anche nella predicazione tra le popolazioni rurali.",
         "patronage": "",
-        "main_shrine": "Collegio di San Michele, Friburgo, Svizzera"
+        "main_shrine": "Collegio di San Michele (Friburgo, Svizzera)"
     },
     "StPaulVI_544": {
         "subject": "San Paolo VI, Papa",
-        "places": "Concesio, Milano, Roma",
+        "places": "Concesio (Italia); Milano (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Concesio (Italia)",
         "place_of_burial": "Basilica di San Pietro in Vaticano",
@@ -3091,7 +3091,7 @@
     },
     "StPaulVI_545": {
         "subject": "San Paolo VI, Papa",
-        "places": "Concesio, Milano, Roma",
+        "places": "Concesio (Italia; Milano (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Concesio (Italia)",
         "place_of_burial": "Basilica di San Pietro in Vaticano",
@@ -3112,16 +3112,16 @@
     "StPioPietrelcina_547": {
         "subject": "San Pio da Pietrelcina (Padre Pio), presbitero",
         "places": "Pietrelcina (Italia); San Giovanni Rotondo (Italia)",
-        "place_of_death": "San Giovanni Rotondo, Foggia (Italia)",
-        "place_of_birth": "Pietrelcina, Benevento (Italia)",
+        "place_of_death": "San Giovanni Rotondo (Foggia, Italia)",
+        "place_of_birth": "Pietrelcina (Benevento, Italia)",
         "place_of_burial": "San Giovanni Rotondo (Italia)",
         "notes": "Pio, al secolo Francesco Forgione (Pietrelcina, Benevento, 25 maggio 1887 - San Giovanni Rotondo, Foggia, 23 settembre 1968), cappuccino e presbitero, visse il suo ministero nel convento di San Giovanni Rotondo. Qui accompagnò moltissime persone all’incontro con Dio nei sacramenti della Riconciliazione e dell’Eucaristia. Fu padre spirituale illuminato per moltissimi fedeli. Con la «Casa sollievo della sofferenza» volle offrire aiuto e conforto agli ammalati. La sua intima adesione a Cristo crocifisso trovò espressione anche nel segno esteriore delle stigmate.",
         "patronage": "",
-        "main_shrine": "Santuario di San Pio da Pietrelcina, San Giovanni Rotondo (Italia)"
+        "main_shrine": "Santuario di San Pio da Pietrelcina (San Giovanni Rotondo, Italia)"
     },
     "StJohnXXIII_548": {
         "subject": "San Giovanni XXIII, papa",
-        "places": "Sotto il Monte, Bergamo (Italia); Roma (Italia)",
+        "places": "Sotto il Monte (Bergamo, Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Sotto il Monte (Bergamo, Italia)",
         "place_of_burial": "Basilica di San Pietro in Vaticano",
@@ -3131,7 +3131,7 @@
     },
     "StJohnXXIII_549": {
         "subject": "San Giovanni XXIII, papa",
-        "places": "Sotto il Monte, Bergamo (Italia); Roma (Italia)",
+        "places": "Sotto il Monte (Bergamo, Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Sotto il Monte (Bergamo, Italia)",
         "place_of_burial": "Basilica di San Pietro in Vaticano",
@@ -3147,7 +3147,7 @@
         "place_of_burial": "Basilica San Pietro in Vaticano",
         "notes": "Karol Józef Wojtyl-a (Wadowice, Polonia, 18 maggio 1920 - Roma, 2 aprile 2005), fu ordinato presbitero il 1 novembre 1946. Docente di teologia morale (Lublino), fu eletto ausiliare e in seguito arcivescovo di Cracovia (1964) negli anni della dura repressione del regime comunista. Partecipò al Concilio Vaticano II. Eletto papa (1978) dopo il breve pontificato di Giovanni Paolo I, ne assunse il doppio nome. Alla crescente secolarizzazione contrappose la centralità di Cristo rilanciando la missione della Chiesa, sia con i numerosi viaggi apostolici in tutto il mondo, sia con la proclamazione a beati o santi di innumerevoli testimoni della fede. Promosse il confronto ecumenico e sviluppò il dialogo interreligioso. Con il Grande Giubileo dell’anno 2000 introdusse la Chiesa nel terzo millennio della sua storia.",
         "patronage": "",
-        "main_shrine": "Basilica San Pietro in Vaticano; Santuario di San Giovanni Paolo II, Cracovia"
+        "main_shrine": "Basilica San Pietro in Vaticano; Santuario di San Giovanni Paolo II (Cracovia, Polonia)"
     },
     "StJohnPaulII_551": {
         "subject": "San Giovanni Paolo II, papa",
@@ -3157,27 +3157,27 @@
         "place_of_burial": "Basilica San Pietro in Vaticano",
         "notes": "Karol Józef Wojtyl-a (Wadowice, Polonia, 18 maggio 1920 - Roma, 2 aprile 2005), fu ordinato presbitero il 1 novembre 1946. Docente di teologia morale (Lublino), fu eletto ausiliare e in seguito arcivescovo di Cracovia (1964) negli anni della dura repressione del regime comunista. Partecipò al Concilio Vaticano II. Eletto papa (1978) dopo il breve pontificato di Giovanni Paolo I, ne assunse il doppio nome. Alla crescente secolarizzazione contrappose la centralità di Cristo rilanciando la missione della Chiesa, sia con i numerosi viaggi apostolici in tutto il mondo, sia con la proclamazione a beati o santi di innumerevoli testimoni della fede. Promosse il confronto ecumenico e sviluppò il dialogo interreligioso. Con il Grande Giubileo dell’anno 2000 introdusse la Chiesa nel terzo millennio della sua storia.",
         "patronage": "",
-        "main_shrine": "Basilica San Pietro in Vaticano; Santuario di San Giovanni Paolo II, Cracovia"
+        "main_shrine": "Basilica San Pietro in Vaticano; Santuario di San Giovanni Paolo II (Cracovia, Polonia)"
     },
     "JuanDiego_552": {
         "subject": "San Giovanni Diego Cuauhtlatoatzin",
-        "places": "Città del Messico, Messico",
-        "place_of_death": "Città del Messico, Messico",
-        "place_of_birth": "Cuautitlán, Messico",
-        "place_of_burial": "Basilica di Nostra Signora di Guadalupe, Città del Messico, Messico",
+        "places": "Città del Messico (Messico)",
+        "place_of_death": "Città del Messico (Messico)",
+        "place_of_birth": "Cuautitlán (Messico)",
+        "place_of_burial": "Basilica di Nostra Signora di Guadalupe (Città del Messico, Messico)",
         "notes": "Giovanni Diego (Cuautitlán, Messico, 1474 - Città del Messico 1548) fu, con la moglie, tra i primi indios a ricevere il Battesimo all’arrivo dei missionari francescani. Rimasto vedovo, intensificò la propria vita spirituale. Il 9 dicembre 1531, sulla collina di Tepeyac (oggi in Città del Messico), ebbe una visione della Vergine. In obbedienza alla Morenita, venne eretta una prima cappella presso la quale il veggente rimase, dedicandosi alla cura della chiesa e all’accoglienza dei numerosi pellegrini che iniziarono ad affluire in quel luogo.",
         "patronage": "",
-        "main_shrine": "Basilica di Nostra Signora di Guadalupe, Città del Messico, Messico"
+        "main_shrine": "Basilica di Nostra Signora di Guadalupe (Città del Messico, Messico)"
     },
     "JuanDiego_553": {
         "subject": "San Giovanni Diego Cuauhtlatoatzin",
-        "places": "Città del Messico, Messico",
-        "place_of_death": "Città del Messico, Messico",
-        "place_of_birth": "Cuautitlán, Messico",
-        "place_of_burial": "Basilica di Nostra Signora di Guadalupe, Città del Messico, Messico",
+        "places": "Città del Messico (Messico)",
+        "place_of_death": "Città del Messico (Messico)",
+        "place_of_birth": "Cuautitlán (Messico)",
+        "place_of_burial": "Basilica di Nostra Signora di Guadalupe (Città del Messico, Messico)",
         "notes": "Giovanni Diego (Cuautitlán, Messico, 1474 - Città del Messico 1548) fu, con la moglie, tra i primi indios a ricevere il Battesimo all’arrivo dei missionari francescani. Rimasto vedovo, intensificò la propria vita spirituale. Il 9 dicembre 1531, sulla collina di Tepeyac (oggi in Città del Messico), ebbe una visione della Vergine. In obbedienza alla Morenita, venne eretta una prima cappella presso la quale il veggente rimase, dedicandosi alla cura della chiesa e all’accoglienza dei numerosi pellegrini che iniziarono ad affluire in quel luogo.",
         "patronage": "",
-        "main_shrine": "Basilica di Nostra Signora di Guadalupe, Città del Messico, Messico"
+        "main_shrine": "Basilica di Nostra Signora di Guadalupe (Città del Messico, Messico)"
     },
     "LadyLoreto_554": {
         "subject": "Beata Vergine Maria di Loreto",
@@ -3191,33 +3191,33 @@
     },
     "Guadalupe_555": {
         "subject": "Beata Vergine Maria di Guadalupe",
-        "places": "Città del Messico, Messico",
+        "places": "Città del Messico (Messico)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "Il 9 dicembre 1531, Giovanni Diego, un indio azteco tra i primi convertiti al cristianesimo all’inizio della conquista spagnola del Messico, giunse ai piedi della collina di Tepeyac (oggi in Città del Messico). Qui egli ebbe la visione di una «Signora bellissima», che si presentò come «la santa Vergine Maria, Madre del vero Dio» e chiese che le fosse eretta una chiesa in quel luogo, promettendo di manifestare a tutti la sua amorevolezza e il suo aiuto. Di fronte alla resistenza del vescovo, la Morenita il 12 dicembre impresse sulla tilma di Juan Diego la sua immagine. Convinto da questo segno miracoloso, il vescovo eresse un primo santuario (1553), detto «di Guadalupe» come quello già esistente in Spagna dal secolo XIV. L’edificio fu ripetutamente ampliato per accogliere i sempre più numerosi pellegrini, attratti dall’immagine miracolosa. La Madonna di Guadalupe è stata riconosciuta dalle Chiese di quel continente come la «grande missionaria che portò il Vangelo alla nostra America» (Documento di Aparecida, 269).",
         "patronage": "",
-        "main_shrine": "Basilica di Nostra Signora di Guadalupe, Città del Messico, Messico"
+        "main_shrine": "Basilica di Nostra Signora di Guadalupe (Città del Messico, Messico)"
     },
     "StFaustinaKowalska_557": {
         "subject": "Santa Faustina Kowalska",
         "places": "Cracovia (Polonia)",
         "place_of_death": "Cracovia (Polonia)",
         "place_of_birth": "Głogowiec (Polonia)",
-        "place_of_burial": "Santuario della Divina Misericordia a Cracovia (Polonia)",
+        "place_of_burial": "Santuario della Divina Misericordia (Cracovia, Polonia)",
         "notes": "Nata nel villaggio di Głogowiec, presso Łódź, in Polonia nel 1905, e morta a Cracovia nel 1938, santa Faustina ha consumato la sua giovane esistenza tra le Suore della Beata Vergine Maria della Misericordia, conformandosi generosamente alla vocazione ricevuta da Dio e maturando un’intensa vita spirituale, ricca di doni mistici e di fedele corrispondenza ad essi. Il racconto di quanto il Signore ha operato in lei a beneficio di tutti, essa stessa lo ha descritto nel Diario della sua anima, santuario dell’incontro con il Signore Gesù: ascoltando Colui che è l’Amore e la Misericordia, comprese che nessuna miseria umana può misurarsi con la misericordia che sgorga inesauribile dal cuore di Cristo. Divenne perciò ispiratrice di un movimento volto a proclamare e ad implorare la misericordia divina per il mondo intero. Canonizzata nell’anno 2000 da san Giovanni Paolo II, il nome di santa Faustina è divenuto presto noto in tutto il mondo, promuovendo in tutte le componenti del popolo di Dio, Pastori e fedeli laici, l’invocazione della divina misericordia e la sua credibile testimonianza nella condotta di vita dei credenti.",
         "patronage": "",
-        "main_shrine": "Santuario della Divina Misericordia a Cracovia (Polonia)"
+        "main_shrine": "Santuario della Divina Misericordia (Cracovia, Polonia)"
     },
     "StFaustinaKowalska_558": {
         "subject": "Santa Faustina Kowalska",
         "places": "Cracovia (Polonia)",
         "place_of_death": "Cracovia (Polonia)",
         "place_of_birth": "Głogowiec (Polonia)",
-        "place_of_burial": "Santuario della Divina Misericordia a Cracovia (Polonia)",
+        "place_of_burial": "Santuario della Divina Misericordia (Cracovia, Polonia)",
         "notes": "Nata nel villaggio di Głogowiec, presso Łódź, in Polonia nel 1905, e morta a Cracovia nel 1938, santa Faustina ha consumato la sua giovane esistenza tra le Suore della Beata Vergine Maria della Misericordia, conformandosi generosamente alla vocazione ricevuta da Dio e maturando un’intensa vita spirituale, ricca di doni mistici e di fedele corrispondenza ad essi. Il racconto di quanto il Signore ha operato in lei a beneficio di tutti, essa stessa lo ha descritto nel Diario della sua anima, santuario dell’incontro con il Signore Gesù: ascoltando Colui che è l’Amore e la Misericordia, comprese che nessuna miseria umana può misurarsi con la misericordia che sgorga inesauribile dal cuore di Cristo. Divenne perciò ispiratrice di un movimento volto a proclamare e ad implorare la misericordia divina per il mondo intero. Canonizzata nell’anno 2000 da san Giovanni Paolo II, il nome di santa Faustina è divenuto presto noto in tutto il mondo, promuovendo in tutte le componenti del popolo di Dio, Pastori e fedeli laici, l’invocazione della divina misericordia e la sua credibile testimonianza nella condotta di vita dei credenti.",
         "patronage": "",
-        "main_shrine": "Santuario della Divina Misericordia a Cracovia (Polonia)"
+        "main_shrine": "Santuario della Divina Misericordia (Cracovia, Polonia)"
     },
     "StGregoryNarek_559": {
         "subject": "San Gregorio di Narek",
