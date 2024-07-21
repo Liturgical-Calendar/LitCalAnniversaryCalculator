@@ -2,9 +2,9 @@
     "StBasilGreat_1": {
         "subject": "São Basílio Magno",
         "places": "Capadócia (Turquia)",
-        "place_of_death": "Kayseri, Turquia",
-        "place_of_birth": "Cesareia da Capadócia, atual Kayseri, Turquia",
-        "place_of_burial": "Catedral de São Jorge, Istambul, Turquia",
+        "place_of_death": "Kayseri (Turquia)",
+        "place_of_birth": "Cesareia da Capadócia (atual Kayseri, Turquia)",
+        "place_of_burial": "Mosteiro da Grande Laura (Monte Athos, Grécia)",
         "notes": "Morreu em 1º de janeiro, a memória litúrgica é no dia seguinte, 2 de janeiro",
         "patronage": "da Rússia, dos monges, dos administradores hospitalares, dos poetas",
         "main_shrine": "Ptochoptopheion ou Basileiade (Cesareia Mazaca, atual Kayseri, Capadócia)"
@@ -12,7 +12,7 @@
     "StRayPenyafort_2": {
         "subject": "São Raimundo de Peñafort, sacerdote",
         "places": "Barcelona (Espanha)",
-        "place_of_death": "Barcelona, Espanha",
+        "place_of_death": "Barcelona (Espanha)",
         "place_of_birth": "Santa Margarida i els Monjos, Espanha",
         "place_of_burial": "Catedral da Santa Cruz e Santa Eulália, Barcelona",
         "notes": "A memória litúrgica é no dia seguinte, 7 de janeiro",
@@ -403,7 +403,7 @@
         "subject": "São Jorge, mártir",
         "places": "Lida (perto da atual Tel Aviv, Israel)",
         "place_of_death": "Nicomédia (atual İzmit), Turquia | ou | Lida (atual Lod) - Tel Aviv, Israel",
-        "place_of_birth": "Capadócia, Turquia",
+        "place_of_birth": "Capadócia (Turquia)",
         "place_of_burial": "Lida, Tel Aviv (Israel)",
         "notes": "Jorge, cujo túmulo está em Lida (atual Lod, Israel), a partir pelo menos do século IV foi honrado como mártir de Cristo. Esta antiga tradição de culto leva a reconhecer a historicidade da personagem, embora não haja informações seguras sobre ele. Foi frequentemente retratado como um cavaleiro que, derrotando o dragão, simboliza o triunfo da fé sobre o mal. A popularidade do santo na Idade Média é testemunhada pela presença de seu corpo em pelo menos trinta igrejas, na França, Espanha, Alemanha, Itália e Países Baixos; sua cabeça está hoje exposta em Veneza, Praga, Constantinopla e Lida, enquanto três dos braços existentes do santo estão em Roma, Paris e Conques. Na igreja de São Jorge em Lemine em Almenno San Salvatore (BG) está exposta, pendurada no teto, uma costela do dragão morto por São Jorge. Em Roma, Belisário (ca. 527) confiou à proteção do santo a porta de São Sebastião e a igreja do Velabro, onde foi depois transferido o crânio de São Jorge, encontrado na Capadócia pelo papa Zacarias (744–752). Uma fração do crânio de São Jorge é guardada na igreja de São Jorge Mártir em Oriolo (CS). Na igreja Matriz de Matino, dedicada a São Jorge, é conservado um pedaço da tíbia do santo.",
         "patronage": "",
@@ -1685,7 +1685,7 @@
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "Desde os séculos VII-VIII no Oriente, nove meses exatos antes da festa da Natividade (8 de setembro), era celebrada uma festa da \"conceição\" de Maria. Celebrada depois no Ocidente a partir do século XI, esta solenidade se insere no contexto do Advento-Natal, unindo a espera messiânica e o retorno glorioso de Cristo com a memória admirada da Mãe. Nesse sentido, este período litúrgico deve ser considerado um tempo particularmente adequado para o culto da Mãe do Senhor (cf. Paulo VI, Marialis cultus, 4). Maria é a Toda Santa, imune de toda mancha de pecado, quase moldada pelo Espírito Santo e feita nova criatura (cf. Lumen gentium, 56). Já profeticamente insinuada na promessa feita aos progenitores da vitória sobre a serpente, Maria é a Virgem que conceberá e dará à luz um filho cujo nome será Emanuel. O dogma da Imaculada Conceição foi proclamado por Pio IX em 1854",
+        "notes": "Desde os séculos VII-VIII no Oriente, nove meses exatos antes da festa da Natividade (8 de setembro), era celebrada uma festa da \"conceição\" de Maria. Celebrada depois no Ocidente a partir do século XI, esta solenidade se insere no contexto do Advento-Natal, unindo a espera messiânica e o retorno glorioso de Cristo com a memória admirada da Mãe. Nesse sentido, este período litúrgico deve ser considerado um tempo particularmente adequado para o culto da Mãe do Senhor (cf. Paulo VI, Marialis cultus, 4). Maria é a Toda Santa, imune de toda mancha de pecado, quase moldada pelo Espírito Santo e feita nova criatura (cf. Lumen gentium, 56). Já profeticamente insinuada na promessa feita aos progenitores da vitória sobre a serpente, Maria é a Virgem que conceberá e dará à luz um filho cujo nome será Emanuel. O dogma da Imaculada Conceição foi proclamado por Pio IX em 1854.",
         "patronage": "",
         "main_shrine": "N/D"
     },
@@ -1754,10 +1754,10 @@
         "places": "N/D",
         "place_of_death": "Éfeso",
         "place_of_birth": "Betsaida",
-        "place_of_burial": "No local em Éfeso, considerado o túmulo de João, foi construída uma basílica no século VI, sob o imperador Justiniano, da qual hoje restam apenas vestígios",
+        "place_of_burial": "No local em Éfeso, considerado o túmulo de João, foi construída uma basílica no século VI, sob o imperador Justiniano, da qual hoje restam apenas vestígios.",
         "notes": "João, filho de Zebedeu, é chamado por Jesus junto com seu irmão Tiago, durante seu trabalho como pescadores (cf. Mt 4, 21-22); os dois são contados entre os Doze e são nomeados por Jesus «Boanèrghes, ou seja, “filhos do trovão”» (Mc 3, 17). João, com Pedro e Tiago, está entre os discípulos mais íntimos de Jesus, aqueles que acompanham o Mestre em alguns momentos particularmente importantes: quando Jesus cura a sogra de Pedro (Mc 1, 29); quando ressuscita a filha do chefe da sinagoga, Jairo (Mc 5, 37); quando se transfigura no monte (Mc 9, 2); na oração no Getsêmani (cf. Mc 14, 33). Aparece sempre ao lado de Pedro nos primeiros momentos da comunidade: a cura do coxo (At 3, 1-4.11); na primeira prisão e julgamento do sinédrio (cf. At 4, 1-20); na Samaria para confirmar os primeiros crentes (At 8, 14). Sempre junto com Pedro e Tiago, o «irmão do Senhor», é apresentado como uma das «colunas» da comunidade de Jerusalém (Gal 2, 9). A tradição reconhece nele o «discípulo amado», de quem fala o Evangelho de João, que lhe é atribuído junto com as três cartas que levam seu nome e o Apocalipse. João é lembrado em 27 de dezembro no chamado Breviário Siríaco (século IV) e no Martirológio Jeronimiano (séculos V-VI). Em Patmos, uma caverna chamada \"do Apocalipse\" é indicada como morada do apóstolo durante seu exílio temporário. Desde 1999, é um dos Patrimônios da Humanidade da UNESCO, junto com o Mosteiro de São João; em Roma, Basílica de São João em Porta Latina, com a capela São João em Oleo.",
         "patronage": "",
-        "main_shrine": "Em Patmos, uma caverna chamada \"do Apocalipse\" é indicada como morada do apóstolo durante seu exílio temporário. Desde 1999, é um dos Patrimônios da Humanidade da UNESCO, junto com o Mosteiro de São João; em Roma, Basílica de São João em Porta Latina, com a capela São João em Oleo."
+        "main_shrine": "Em Patmos, uma caverna chamada \"do Apocalipse\" é indicada como a morada do apóstolo durante seu exílio temporário. Desde 1999, é um dos Patrimônios da Humanidade da UNESCO, junto com o Mosteiro de São João; em Roma, a Basílica de São João em Porta Latina e a capela próxima de São João \"in oleo\", além da Basílica de São João de Latrão"
     },
     "HolyInnocents_185": {
         "subject": "Santos Inocentes, mártires",
@@ -1877,7 +1877,7 @@
         "place_of_burial": "Apollinariskirche (Remagen, Alemanha); Basílica de São Lambertus, Düsseldorf (Alemanha)",
         "notes": "Apolinário (segunda metade do século II) foi o primeiro bispo de Ravenna e um dos primeiros pastores de toda a Itália setentrional. Foi também mártir pela fé, como atesta um de seus sucessores, São Pedro Crisólogo (século V). Sobre seu túmulo foi edificada a basílica de Sant'Apollinare in Classe (século VI). No local do martírio, em Civitas Classis, foi erguida no século VI a igreja de Sant'Apollinare. As relíquias do santo foram no século IX transferidas para a cidade, na igreja que a partir de então tomou o nome de Sant'Apollinare Nuovo. Posteriormente, os ossos foram levados para a Alemanha, onde ainda se encontram. Em Ravenna permaneceram a cabeça e a mão direita que, desde 1874, são conservadas na Catedral.",
         "patronage": "",
-        "main_shrine": "No local do martírio, em Civitas Classis, foi erguida no século VI a igreja de Sant'Apollinare. As relíquias do santo foram no século IX transferidas para a cidade, na igreja que a partir de então tomou o nome de Sant'Apollinare Nuovo. Posteriormente, os oss"
+        "main_shrine": "No local do martírio, em Civitas Classis, foi erguida no século VI a basílica de Santo Apolinário. As relíquias do santo foram no século IX transferidas para a cidade, na igreja que a partir de então passou a se chamar Santo Apolinário Novo. Posteriormente, os ossos foram levados para a Alemanha, primeiro na Apollinariskirche em Remagen, depois no século XIV foram transferidos para a vizinha Düsseldorf onde se encontram até hoje. Em Ravenna permaneceram a cabeça e a mão direita que, desde 1874, são conservadas na catedral."
     },
     "StSharbelMakhluf_197": {
         "subject": "São Charbel Makhluf, eremita",
@@ -1992,7 +1992,7 @@
     "StRayPenyafort_208": {
         "subject": "São Raimundo de Peñafort, sacerdote",
         "places": "Barcelona (Espanha)",
-        "place_of_death": "Barcelona, Espanha",
+        "place_of_death": "Barcelona (Espanha)",
         "place_of_birth": "Santa Margarida i els Monjos, Espanha",
         "place_of_burial": "Catedral da Santa Cruz e Santa Eulália, Barcelona",
         "notes": "A memória litúrgica é fixada no dia seguinte, 7 de janeiro",
@@ -2174,7 +2174,7 @@
         "places": "N/D",
         "place_of_death": "Vannes (França)",
         "place_of_birth": "Valência, Espanha",
-        "place_of_burial": "Vicente (Valência, Espanha, 1350 - Vannes (França), 5 de abril de 1419), dominicano, após ser curado de uma grave doença, dedicou-se com fervor à pregação do Evangelho. Em uma Igreja desorientada pela oposição interna ao papado, entre Roma e Avignon, seus insistentes convites à conversão atraíram multidões, especialmente na Espanha, França e norte da Itália.",
+        "place_of_burial": "Catedral de São Pedro em Vannes (França)",
         "notes": "Vicente (Valência, Espanha, 1350 - Vannes, França, 5 de abril de 1419), dominicano, após ser curado de uma grave doença, dedicou-se com fervor à pregação do Evangelho. Em uma Igreja desorientada pela oposição interna ao papado, entre Roma e Avinhão, seus insistentes convites à conversão atraíram multidões, especialmente na Espanha, França e norte da Itália.",
         "patronage": "",
         "main_shrine": "Somasca, Lecco (Itália)"
@@ -3344,7 +3344,7 @@
         "places": "Antakya (Turquia), Comana Pontica (Turquia), Istambul (Turquia)",
         "place_of_death": "Comana Pontica, Turquia",
         "place_of_birth": "Antioquia da Síria (atual Antakya), Turquia",
-        "place_of_burial": "Em 438, sob o imperador Teodósio II, por iniciativa do arcebispo Proclo, seus restos mortais foram solenemente levados a Constantinopla e sepultados na igreja dos Santos Apóstolos. Transportados para Roma, os restos mortais de João Crisóstomo foram colocados na basílica vaticana, onde ainda são conservados. Segundo uma tradição, não confirmada pelas fontes, as relíquias de São João teriam chegado a Roma na época da quarta cruzada, após o saque de Constantinopla em 1204",
+        "place_of_burial": "Em 438, sob o imperador Teodósio II, por iniciativa do arcebispo Proclo, seus restos mortais foram solenemente levados a Constantinopla e sepultados na igreja dos Santos Apóstolos. Transportados para Roma, os restos mortais de João Crisóstomo foram colocados na basílica vaticana, onde ainda são conservados. Segundo uma tradição, não confirmada pelas fontes, as relíquias de São João teriam chegado a Roma na época da quarta cruzada, após o saque de Constantinopla em 1204.",
         "notes": "João (Antioquia da Síria, atual Antakya, Turquia, meados do século IV - Comana Pontica, 14 de setembro de 407) teve uma formação cultural cuidadosa, com a perspectiva de suceder ao pai como funcionário imperial. Em vez disso, retirou-se para o deserto, mergulhando no estudo das Escrituras. De volta à cidade e ordenado presbítero, fascinou as multidões com sua pregação, a ponto de ser chamado de \"Crisóstomo\" (\"boca de ouro\"). Eleito bispo de Constantinopla, teve particular atenção à liturgia: sua anáfora eucarística ainda hoje é a mais difundida no Oriente. Pregou o Evangelho com franqueza e coragem, denunciando as falhas do clero e os abusos dos poderosos. Seu zelo lhe atraiu muitos inimigos: deposto do cargo episcopal e condenado ao exílio, morreu exausto pelos esforços suportados ao longo da viagem.",
         "patronage": "",
         "main_shrine": "Basílica de São Pedro no Vaticano"
@@ -3352,9 +3352,9 @@
     "StBasilGreat_573": {
         "subject": "São Basílio Magno",
         "places": "Capadócia (Turquia)",
-        "place_of_death": "Kayseri, Turquia",
-        "place_of_birth": "Cesareia da Capadócia, atual Kayseri, Turquia",
-        "place_of_burial": "Catedral de São Jorge, Istambul, Turquia",
+        "place_of_death": "Kayseri (Turquia)",
+        "place_of_birth": "Cesareia da Capadócia (atual Kayseri, Turquia)",
+        "place_of_burial": "Mosteiro da Grande Laura (Monte Athos, Grécia)",
         "notes": "Morreu em 1º de janeiro, a memória litúrgica é no dia seguinte, 2 de janeiro",
         "patronage": "",
         "main_shrine": "N/D"
@@ -3387,7 +3387,7 @@
         "place_of_burial": "Real Colegiada Basílica de São Isidoro (León, Espanha)",
         "notes": "Isidoro (c. 560 - Sevilha, 4 de abril de 636), de família e formação cristã, também especialista em cultura profana, com suas obras literárias e eruditas tornou-se um ponto de referência para toda a Idade Média. Arcebispo de Sevilha por cerca de trinta e cinco anos, promoveu, também através de alguns Concílios locais, uma legislação litúrgica e canônica de importância fundamental para a Igreja ibérica.",
         "patronage": "",
-        "main_shrine": "Catedral de Santa Maria da Sé de Sevilha?"
+        "main_shrine": "Basílica de São Isidoro (Leão, Espanha)"
     },
     "StPeterChrysologus_577": {
         "subject": "São Pedro Crisólogo, bispo e doutor",
