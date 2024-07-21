@@ -2,9 +2,9 @@
     "StBasilGreat_1": {
         "subject": "Sanctus Basilius Magnus",
         "places": "Cappadocia (Turcia)",
-        "place_of_death": "Caesarea, Turcia",
-        "place_of_birth": "Cæsarea Cappadociæ, nunc Kayseri, Turcia",
-        "place_of_burial": "Cathedralis Sancti Georgii, Constantinopolis, Turcia",
+        "place_of_death": "Caesarea (Turcia)",
+        "place_of_birth": "Caesarea Cappadociae (hodierna Kayseri, Turcia)",
+        "place_of_burial": "Monasterium Magna Laura (Mons Athos, Graecia)",
         "notes": "Defunctus est die 1 Ianuarii, memoria liturgica celebratur sequenti die, id est 2 Ianuarii",
         "patronage": "de Russia, monachorum, administratorum hospitalium, poetarum",
         "main_shrine": "Ptochoptopheion vel Vasiliadis (Cesarea Mazaca, nunc Kayseri, Cappadocia)"
@@ -12,7 +12,7 @@
     "StRayPenyafort_2": {
         "subject": "Sanctus Raimundus de Peñafort, sacerdos",
         "places": "Barcino (Hispania)",
-        "place_of_death": "Barcino, Hispania",
+        "place_of_death": "Barcinona (Hispania)",
         "place_of_birth": "Sancta Margarita et Monachos, Hispania",
         "place_of_burial": "Basilica Sanctae Crucis et Sanctae Eulaliae, Barcino",
         "notes": "Memoria liturgica statuitur in sequenti die Ianuarii septimo",
@@ -403,7 +403,7 @@
         "subject": "Sanctus Georgius, martyr",
         "places": "Lydda (prope Tel Aviv, Israel)",
         "place_of_death": "Nicomedia (hodierna İzmit), Turcia | vel | Lydda (hodierna Lod) - Tel Aviv, Israel",
-        "place_of_birth": "Cappadocia, Turcia",
+        "place_of_birth": "Cappadocia (Turcia)",
         "place_of_burial": "Lydda, Tel Aviv (Israel)",
         "notes": "Georgius, cuius sepulcrum est in Lydda (hodierna Lod, Israel), saltem a saeculo IV honoratus est ut martyr Christi. Haec antiqua cultus traditio inducit ad agnoscendam historicitatem personae, quamvis de eo certa notitia non habeatur. Saepe depictus est ut eques qui, draconem vincens, symbolizat triumphum fidei super malum. Popularitas sancti in Medio Aevo testatur praesentia corporis eius in saltem triginta ecclesiis, in Gallia, Hispania, Germania, Italia et Belgio; caput eius hodie exponitur Venetiis, Pragae, Constantinopoli et Lydda, dum tres exstantia brachia sancti Romae, Parisiis et Conques reperiuntur. In ecclesia Sancti Georgii in Lemine apud Almenno San Salvatore (BG) pendet a laqueari costa draconis a Sancto Georgio occisi. Romae, Belisarius (ca. 527) sancti protectioni commisit portam sancti Sebastiani et ecclesiam Velabri, ubi postea translatum est cranium sancti Georgii, inventum in Cappadocia a papa Zacharia (744–752). Pars cranii sancti Georgii custoditur in ecclesia Sancti Georgii Martyris in Oriolo (CS). In ecclesia Matrice Matini, Sancto Georgio dicata, conservatur fragmentum tibiae sancti.",
         "patronage": "",
@@ -1685,7 +1685,7 @@
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
-        "notes": "A saeculis VII-VIII in Oriente, novem menses exactos ante festum Nativitatis (8 Septembris), celebrabatur festum «conceptionis» Mariae. Celebrata deinde in Occidente a saeculo XI, haec sollemnitas inseritur in contextu Adventus-Nativitatis, coniungens exspectationem messianicam et reditum gloriosum Christi cum admirata memoria Matris. Hoc sensu hoc tempus liturgicum considerandum est tempus peculiari modo aptum ad cultum Matris Domini (cf. Paulus VI, Marialis cultus, 4). Maria est Omnino Sancta, immunis ab omni labe peccati, a Spiritu Sancto quasi formata et nova creatura facta (cf. Lumen gentium, 56). Iam prophetice adumbrata in promissione facta progenitoribus de victoria super serpentem, Maria est Virgo quae concipiet et pariet filium cuius nomen erit Emmanuel. Dogma Immaculatae Conceptionis proclamavit Pius IX anno 1854",
+        "notes": "A saeculis VII-VIII in Oriente, novem menses exactos ante festum Nativitatis (8 Septembris), celebrabatur festum «conceptionis» Mariae. Celebrata deinde in Occidente a saeculo XI, haec sollemnitas inseritur in contextu Adventus-Nativitatis, coniungens exspectationem messianicam et reditum gloriosum Christi cum admirata memoria Matris. Hoc sensu hoc tempus liturgicum considerandum est tempus peculiari modo aptum ad cultum Matris Domini (cf. Paulus VI, Marialis cultus, 4). Maria est Omnino Sancta, immunis ab omni labe peccati, a Spiritu Sancto quasi formata et nova creatura facta (cf. Lumen gentium, 56). Iam prophetice adumbrata in promissione facta progenitoribus de victoria super serpentem, Maria est Virgo quae concipiet et pariet filium cuius nomen erit Emmanuel. Dogma Immaculatae Conceptionis proclamavit Pius IX anno 1854.",
         "patronage": "",
         "main_shrine": "non pertinet"
     },
@@ -1754,10 +1754,10 @@
         "places": "non pertinet",
         "place_of_death": "Ephesus",
         "place_of_birth": "Bethsaida",
-        "place_of_burial": "In loco Ephesi, considerato sede sepulcri Ioannis, aedificata est basilica saeculo VI, sub imperatore Iustiniano, cuius hodie tantum vestigia manent",
+        "place_of_burial": "In loco Ephesi, considerato sede sepulcri Ioannis, aedificata est basilica saeculo VI, sub imperatore Iustiniano, cuius hodie tantum vestigia manent.",
         "notes": "Ioannes, filius Zebedaei, vocatur a Iesu una cum fratre Iacobo, dum piscatores sunt (cf. Mt 4, 21-22); ambo inter Duodecim annumerantur et a Iesu nominantur «Boanèrghes, id est “filii tonitrui”» (Mc 3, 17). Ioannes, cum Petro et Iacobo, est inter discipulos intimos Iesu, qui Magistrum comitantur in quibusdam momentis praecipuis: cum Iesus socrum Petri sanat (Mc 1, 29); cum filiam principis synagogae, Iairi, revivificat (Mc 5, 37); cum in monte transfiguratur (Mc 9, 2); in oratione in Gethsemani (cf. Mc 14, 33). Semper adest Petro in primis momentis communitatis: sanatio claudi (At 3, 1-4.11); in primo arresto et iudicio sanhedrii (cf. At 4, 1-20); in Samaria ad confirmandos primos credentes (At 8, 14). Semper cum Petro et Iacobo, «fratre Domini», praesentatur ut una ex «columnis» communitatis Hierosolymitanae (Gal 2, 9). Traditio eum agnoscit ut «discipulum quem diligebat Iesus», de quo loquitur Evangelium Ioannis, quod ei tribuitur una cum tribus epistulis quae eius nomen ferunt et Apocalypsi. Ioannes memoratur die 27 Decembris in sic dicto Breviario Syriaco (saec. IV) et in Martyrologio Hieronymiano (saec. V-VI). In Pathmo spelunca dicta \"Apocalypsis\" indicatur ut habitatio apostoli durante eius exilio temporaneo. Ab anno 1999 est unum ex Patrimoniis humanitatis UNESCO, una cum Monasterio Sancti Ioannis; Romae, Basilica Sancti Ioannis ad Portam Latinam, cum capella Sancti Ioannis in Oleo.",
         "patronage": "",
-        "main_shrine": "In Pathmo spelunca dicta \"Apocalypsis\" indicatur ut habitatio apostoli durante eius exilio temporaneo. Ab anno 1999 est unum ex Patrimoniis humanitatis UNESCO, una cum Monasterio Sancti Ioannis; Romae, Basilica Sancti Ioannis ad Portam Latinam"
+        "main_shrine": "Patmos, spelunca quae \"Apocalypsis\" appellatur, ut domus apostoli in exilio temporaneo indicatur. Ab anno 1999 est una ex Patrimoniis Humanitatis UNESCO, una cum Monasterio Sancti Ioannis; Romae, Basilica Sancti Ioannis ad Portam Latinam et proxima cappella Sancti Ioannis \"in oleo\", praeterea Basilica Sancti Ioannis in Laterano"
     },
     "HolyInnocents_185": {
         "subject": "Sancti Innocentes, martyres",
@@ -1877,7 +1877,7 @@
         "place_of_burial": "Apollinariskirche (Remagen, Germania); Basilica Sancti Lamberti, Düsseldorf (Germania)",
         "notes": "Apollinaris (secunda medietas saec. II) primus episcopus Ravennae fuit et unus ex primis pastoribus totius Italiae septentrionalis. Etiam martyr pro fide fuit, ut testatur unus ex successoribus eius, sanctus Petrus Chrysologus (saec. V). Super eius sepulcrum aedificata est basilica Sancti Apollinaris in Classe (saec. VI). In loco martyrii, in Civitate Classis erecta est ecclesia Sancti Apollinaris saeculo VI. Reliquiae sancti saeculo IX in urbem translatae sunt, in ecclesiam quae ex illo tempore nomen Sancti Apollinaris Novi accepit. Postea ossa in Germaniam translata sunt, ubi hodie manent. Ravennae remanserunt caput et manus dextra quae, ab anno 1874, in Cathedrali conservantur.",
         "patronage": "",
-        "main_shrine": "In loco martyrii, in Civitate Classis erecta est ecclesia Sancti Apollinaris saeculo VI. Reliquiae sancti saeculo IX in urbem translatae sunt, in ecclesiam quae ex illo tempore nomen Sancti Apollinaris Novi accepit. Postea oss"
+        "main_shrine": "In loco martyrii, in Civitas Classis, erecta est saeculo VI basilica Sancti Apollinaris. Reliquiae sancti saeculo IX in urbem translatae sunt, in ecclesiam quae ex illo tempore nomen Sancti Apollinaris Novi accepit. Postea ossa in Germaniam translata sunt, primum in Apollinariskirche Remagen, deinde saeculo XIV in proximam Düsseldorf translata sunt ubi hodie manent. Ravennae remanserunt caput et manus dextra quae, ab anno 1874, in cathedrali conservantur."
     },
     "StSharbelMakhluf_197": {
         "subject": "Sanctus Charbel Makhluf, eremita",
@@ -1992,7 +1992,7 @@
     "StRayPenyafort_208": {
         "subject": "Sanctus Raimundus de Peñafort, sacerdos",
         "places": "Barcinona (Hispania)",
-        "place_of_death": "Barcinona, Hispania",
+        "place_of_death": "Barcinona (Hispania)",
         "place_of_birth": "Sancta Margarida i els Monjos, Hispania",
         "place_of_burial": "Cathedrale Sanctae Crucis et Sanctae Eulaliae, Barcinona",
         "notes": "Memoria liturgica die sequenti 7 Ianuarii fixa est",
@@ -3352,9 +3352,9 @@
     "StBasilGreat_573": {
         "subject": "Sanctus Basilius Magnus",
         "places": "Cappadocia (Turcia)",
-        "place_of_death": "Caesarea, Turcia",
-        "place_of_birth": "Caesarea Cappadociae, hodierna Kayseri, Turcia",
-        "place_of_burial": "Cathedrale Sancti Georgii, Constantinopolis, Turcia",
+        "place_of_death": "Caesarea (Turcia)",
+        "place_of_birth": "Caesarea Cappadociae (hodierna Kayseri, Turcia)",
+        "place_of_burial": "Monasterium Magna Laura (Mons Athos, Graecia)",
         "notes": "Mortuus die 1 Ianuarii, memoria liturgica die sequenti 2 Ianuarii",
         "patronage": "",
         "main_shrine": "non pertinet"
@@ -3387,7 +3387,7 @@
         "place_of_burial": "Real Colegiata Basilica Sancti Isidori (Legio, Hispania)",
         "notes": "Isidorus (circa 560 - Hispalis, 4 Aprilis 636), familia et formatione christiana, etiam in cultura profana peritus, operibus suis litterariis et eruditis toti Medio Aevo referentiam factus est. Archiepiscopus Hispalensis per circiter triginta quinque annos, etiam per aliquos Concilii locales, legislationem liturgicam et canonicam magni momenti pro Ecclesia Iberica promovit.",
         "patronage": "",
-        "main_shrine": "Cathedrale Sanctae Mariae Sedes Hispalensis?"
+        "main_shrine": "Basilica Sancti Isidori (Legio, Hispania)"
     },
     "StPeterChrysologus_577": {
         "subject": "Sanctus Petrus Chrysologus, episcopus et doctor",
