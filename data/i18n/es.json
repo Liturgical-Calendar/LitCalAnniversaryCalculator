@@ -2,9 +2,9 @@
     "StBasilGreat_1": {
         "subject": "San Basilio el Grande",
         "places": "Capadocia (Turquía)",
-        "place_of_death": "Kayseri, Turquía",
-        "place_of_birth": "Cesarea de Capadocia, actual Kayseri, Turquía",
-        "place_of_burial": "Catedral de San Jorge, Estambul, Turquía",
+        "place_of_death": "Kayseri (Turquía)",
+        "place_of_birth": "Cesarea de Capadocia (actual Kayseri, Turquía)",
+        "place_of_burial": "Monasterio de la Gran Laura (Monte Athos, Grecia)",
         "notes": "Murió el 1 de enero, la memoria litúrgica es al día siguiente 2 de enero",
         "patronage": "de Rusia, de los monjes, de los administradores hospitalarios, de los poetas",
         "main_shrine": "Ptochoptopheion o Basileiade (Cesarea Mazaca, actual Kayseri, Capadocia)"
@@ -12,7 +12,7 @@
     "StRayPenyafort_2": {
         "subject": "San Raimundo de Peñafort, sacerdote",
         "places": "Barcelona (España)",
-        "place_of_death": "Barcelona, España",
+        "place_of_death": "Barcelona (España)",
         "place_of_birth": "Santa Margarida i els Monjos, España",
         "place_of_burial": "Catedral de la Santa Cruz y Santa Eulalia, Barcelona",
         "notes": "La memoria litúrgica es al día siguiente 7 de enero",
@@ -403,7 +403,7 @@
         "subject": "San Jorge, mártir",
         "places": "Lida (cerca de la actual Tel Aviv, Israel)",
         "place_of_death": "Nicomedia (actual İzmit), Turquía | o | Lida (actual Lod) - Tel Aviv, Israel",
-        "place_of_birth": "Capadocia, Turquía",
+        "place_of_birth": "Capadocia (Turquía)",
         "place_of_burial": "Lida, Tel Aviv (Israel)",
         "notes": "Jorge, cuyo sepulcro está en Lida (actual Lod, Israel), a partir al menos del siglo IV fue honrado como mártir de Cristo. Esta antigua tradición de culto induce a reconocer la historicidad del personaje, aunque no se tienen de él informaciones seguras. Fue a menudo representado como un caballero que, venciendo al dragón, simboliza el triunfo de la fe sobre el mal. La popularidad del santo en la Edad Media está testimoniada por la presencia de su cuerpo en al menos una treintena de iglesias, en Francia, España, Alemania, Italia y Países Bajos; su cabeza está hoy expuesta en Venecia, Praga, Constantinopla y Lida, mientras que tres de los brazos existentes del santo se encuentran en Roma, París y Conques. En la iglesia de San Jorge en Lemine en Almenno San Salvatore (BG) está expuesta, colgada del techo, una costilla del dragón muerto por San Jorge. En Roma, Belisario (ca. 527) confió a la protección del santo la puerta de san Sebastián y la iglesia del Velabro, donde luego fue trasladado el cráneo de san Jorge, encontrado en Capadocia por el papa Zacarías (744–752). Una fracción del cráneo de san Jorge se custodia en la iglesia de San Jorge Mártir en Oriolo (CS). En la iglesia Matriz de Matino, dedicada a San Jorge, se conserva un trozo de la espinilla del santo.",
         "patronage": "",
@@ -1754,10 +1754,10 @@
         "places": "N/D",
         "place_of_death": "Éfeso",
         "place_of_birth": "Betsaida",
-        "place_of_burial": "En el sitio de Éfeso, considerado sede del sepulcro de Juan, se construyó una basílica en el siglo VI, bajo el emperador Justiniano, de la cual hoy solo quedan rastros",
+        "place_of_burial": "En el sitio de Éfeso, considerado sede del sepulcro de Juan, se construyó una basílica en el siglo VI, bajo el emperador Justiniano, de la cual hoy solo quedan rastros.",
         "notes": "Juan, hijo de Zebedeo, es llamado por Jesús junto con su hermano Santiago, durante su trabajo como pescadores (cf. Mt 4, 21-22); los dos son contados entre los Doce y son nombrados por Jesús «Boanerges, es decir, “hijos del trueno”» (Mc 3, 17). Juan, con Pedro y Santiago, está entre los discípulos más íntimos de Jesús, aquellos que acompañan al Maestro en algunos momentos particularmente importantes: cuando Jesús cura a la suegra de Pedro (Mc 1, 29); cuando revive a la hija del jefe de la sinagoga, Jairo (Mc 5, 37); cuando se transfigura en el monte (Mc 9, 2); en la oración en Getsemaní (cf. Mc 14, 33). Aparece siempre junto a Pedro en los primeros momentos de la comunidad: la curación del lisiado (Hch 3, 1-4.11); en el primer arresto y juicio del sanedrín (cf. Hch 4, 1-20); en Samaria para confirmar a los primeros creyentes (Hch 8, 14). Siempre junto a Pedro y Santiago, el «hermano del Señor», es presentado como una de las «columnas» de la comunidad de Jerusalén (Gal 2, 9). La tradición lo reconoce como el «discípulo amado», del que habla el Evangelio de Juan, que se le atribuye junto con las tres cartas que llevan su nombre y el Apocalipsis. Juan es recordado el 27 de diciembre en el llamado Breviario siríaco (siglo IV) y en el Martirologio jeronimiano (siglos V-VI). En Patmos, una cueva llamada \"del Apocalipsis\" se indica como la morada del apóstol durante su exilio momentáneo. Desde 1999 es uno de los Patrimonios de la Humanidad de la UNESCO, junto con el Monasterio de San Juan; en Roma, Basílica de San Juan en Porta Latina, con la capilla San Juan en Oleo.",
         "patronage": "",
-        "main_shrine": "En Patmos, una cueva llamada \"del Apocalipsis\" se indica como la morada del apóstol durante su exilio momentáneo. Desde 1999 es uno de los Patrimonios de la Humanidad de la UNESCO, junto con el Monasterio de San Juan; en Roma, Basílica de San Juan en Porta Lat"
+        "main_shrine": "En Patmos, una cueva llamada \"del Apocalipsis\" se señala como la morada del apóstol durante su exilio temporal. Desde 1999 es uno de los Patrimonios de la Humanidad de la UNESCO, junto con el Monasterio de San Juan; en Roma, la Basílica de San Juan en Porta Latina y la cercana capilla de San Juan \"in oleo\", además de la Basílica de San Juan de Letrán"
     },
     "HolyInnocents_185": {
         "subject": "Santos Inocentes, mártires",
@@ -1877,7 +1877,7 @@
         "place_of_burial": "Iglesia de San Apolinar (Remagen, Alemania); Basílica de San Lamberto, Düsseldorf (Alemania)",
         "notes": "Apolinar (segunda mitad del siglo II) fue el primer obispo de Rávena y uno de los primeros pastores de toda la Italia septentrional. También fue mártir por la fe, como atestigua uno de sus sucesores, san Pedro Crisólogo (siglo V). Sobre su tumba se edificó la basílica de San Apolinar in Classe (siglo VI). En el lugar del martirio, en Civitas Classis, se erigió en el siglo VI la iglesia de San Apolinar. Las reliquias del santo fueron trasladadas en el siglo IX a la ciudad, a la iglesia que desde ese momento tomó el nombre de San Apolinar Nuovo. Posteriormente, los huesos fueron llevados a Alemania, donde aún se encuentran. En Rávena quedaron la cabeza y la mano derecha que, desde 1874, se conservan en la Catedral.",
         "patronage": "",
-        "main_shrine": "En el lugar del martirio, en Civitas Classis, se erigió en el siglo VI la iglesia de San Apolinar. Las reliquias del santo fueron trasladadas en el siglo IX a la ciudad, a la iglesia que desde ese momento tomó el nombre de San Apolinar Nuovo. Posteriormente, los huesos"
+        "main_shrine": "En el lugar del martirio, en Civitas Classis, se erigió en el siglo VI la basílica de San Apolinar. Las reliquias del santo fueron trasladadas en el siglo IX a la ciudad, a la iglesia que desde ese momento tomó el nombre de San Apolinar Nuevo. Posteriormente, los huesos fueron llevados a Alemania, primero a la Apollinariskirche en Remagen, luego en el siglo XIV fueron trasladados a la cercana Düsseldorf donde se encuentran hasta hoy. En Rávena quedaron la cabeza y la mano derecha que, desde 1874, se conservan en la catedral."
     },
     "StSharbelMakhluf_197": {
         "subject": "San Charbel Makhluf, ermitaño",
@@ -1992,7 +1992,7 @@
     "StRayPenyafort_208": {
         "subject": "San Raimundo de Peñafort, sacerdote",
         "places": "Barcelona (España)",
-        "place_of_death": "Barcelona, España",
+        "place_of_death": "Barcelona (España)",
         "place_of_birth": "Santa Margarida i els Monjos, España",
         "place_of_burial": "Catedral de la Santa Cruz y Santa Eulalia, Barcelona",
         "notes": "La memoria litúrgica se fija al día siguiente 7 de enero",
@@ -3352,9 +3352,9 @@
     "StBasilGreat_573": {
         "subject": "San Basilio Magno",
         "places": "Capadocia (Turquía)",
-        "place_of_death": "Kayseri, Turquía",
-        "place_of_birth": "Cesarea de Capadocia, actual Kayseri, Turquía",
-        "place_of_burial": "Catedral de San Jorge, Estambul, Turquía",
+        "place_of_death": "Kayseri (Turquía)",
+        "place_of_birth": "Cesarea de Capadocia (actual Kayseri, Turquía)",
+        "place_of_burial": "Monasterio de la Gran Laura (Monte Athos, Grecia)",
         "notes": "Murió el 1 de enero, la memoria litúrgica es al día siguiente 2 de enero",
         "patronage": "",
         "main_shrine": "N/D"
@@ -3387,7 +3387,7 @@
         "place_of_burial": "Real Colegiata Basílica de San Isidoro (León, España)",
         "notes": "Isidoro (560 aprox. - Sevilla, 4 de abril de 636), de familia y formación cristiana, experto también en la cultura profana, con sus obras literarias y eruditas se convirtió en un punto de referencia para toda la Edad Media. Arzobispo de Sevilla durante unos treinta y cinco años, promovió, también mediante algunos Concilios locales, una legislación litúrgica y canónica de importancia fundamental para la Iglesia ibérica.",
         "patronage": "",
-        "main_shrine": "¿Catedral de Santa María de la Sede de Sevilla?"
+        "main_shrine": "Basílica de San Isidoro (León, España)"
     },
     "StPeterChrysologus_577": {
         "subject": "San Pedro Crisólogo, obispo y doctor",
