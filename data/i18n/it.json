@@ -417,7 +417,7 @@
         "place_of_burial": "La sua testa fu portata a Feldkirch (attualmente in Austria), mentre il resto del corpo fu seppellito nella Cattedrale di Coira (Svizzera), dove ancora riposano i suoi resti mortali.",
         "notes": "Fedele, al secolo Marco (Sigmaringen, Germania, 1578 - Seewis im Prättigau, Svizzera, 24 aprile 1622), cappuccino, dottore in utroque iure, guidò la prima missione promossa dalla Congregazione de propaganda fide, ancora in fase di costituzione, verso i territori nei quali si era diffusa la Riforma protestante. Nel clima di forte tensione interna ai Grigioni, aggravato dalle pressioni politiche internazionali, la predicazione dei religiosi cattolici sollevò reazioni violente, di fronte alle quali Fedele rese testimonianza a Cristo fino alla morte.",
         "patronage": "",
-        "main_shrine": "Cattedrale di Coira, Svizzera; Feldkirch, Austria"
+        "main_shrine": "Cattedrale di Coira (Svizzera); Feldkirch (Austria)"
     },
     "StMarkEvangelist_46": {
         "subject": "San Marco Evangelista",
@@ -427,7 +427,7 @@
         "place_of_burial": "Inizialmente le sue spoglie furono venerate in una chiesa di Alessandria costruita sul luogo del più antico mausoleo di Alessandro Magno. Nel sec. VII i suoi resti furono portati a Venezia. La cattedrale di San Marco al Cairo conserva alcune reliquie trasportate dalla Basilica di San Marco a Venezia.",
         "notes": "Giovanni, detto Marco, è figlio di Maria di Gerusalemme, nella cui casa si raduna la comunità cristiana e dove Pietro trova rifugio dopo la liberazione dal carcere (cf. At 12, 12). Cugino di Barnaba, collabora con Paolo nel primo viaggio missionario, fino in Panfilia, dove si separa da lui (cf. At 12, 25; 15, 37-38). Discepolo prediletto di Pietro – che lo chiama «figlio mio» (1 Pt 5, 13) –, compare di nuovo al fianco di Paolo a Roma (cf. Fm 24; Col 4, 10). A Marco la tradizione ha attribuito il Vangelo che porta il suo nome e riecheggia la predicazione dell’apostolo Pietro. In esso, si presenta Gesù come il «Cristo, Figlio di Dio» (Mc 1, 1) e si proclama che il Crocifisso è risorto (cf. Mc 16, 6). La sua festa è celebrata il 25 aprile anche dai Copti e dai Bizantini.",
         "patronage": "",
-        "main_shrine": "Basilica di San Marco a Venezia, e Cattedrale di San Marco al Cairo"
+        "main_shrine": "Basilica di San Marco (Venezia, Italia); Cattedrale di San Marco (Cairo, Egitto)"
     },
     "StPeterChanel_47": {
         "subject": "San Pietro Chanel, sacerdote e martire",
@@ -3708,5 +3708,15 @@
         "notes": "La prima apparizione della Vergine Maria a Zeitoun fu registrata la sera del 2 aprile 1968, quando un meccanico di autobus musulmano di nome Farouk Mohammed Atwa  pensò di aver visto una donna in cima all'edificio. Una settimana dopo, il 9 aprile, il fenomeno si ripresentò, di nuovo durando solo pochi minuti. Dopo quel periodo le apparizioni divennero più frequenti, anche due o tre volte alla settimana, per diversi anni, fino al 1971. Secondo la tradizione copta, Zeitoun è vicino a uno dei luoghi in cui la Sacra famiglia soggiornò durante la fuga in Egitto. Il 12 maggio 2018 la Chiesa copta celebrò il Giubileo d'oro dell'evento.",
         "patronage": "",
         "main_shrine": "Chiesa di Santa Maria di Zeitoun (Cairo, Egitto)"
+    },
+    "StMarkEvangelist_608": {
+        "subject": "San Marco Evangelista",
+        "places": "Venezia (Italia); Alessandria (Egitto); Cairo (Egitto); Roma (Italia)",
+        "place_of_death": "Alessandria (Egitto)",
+        "place_of_birth": "Palestina o Cipro",
+        "place_of_burial": "Inizialmente le sue spoglie furono venerate in una chiesa di Alessandria costruita sul luogo del più antico mausoleo di Alessandro Magno. Nel sec. VII i suoi resti furono portati a Venezia. La cattedrale di San Marco al Cairo conserva alcune reliquie trasportate dalla Basilica di San Marco a Venezia.",
+        "notes": "Giovanni, detto Marco, è figlio di Maria di Gerusalemme, nella cui casa si raduna la comunità cristiana e dove Pietro trova rifugio dopo la liberazione dal carcere (cf. At 12, 12). Cugino di Barnaba, collabora con Paolo nel primo viaggio missionario, fino in Panfilia, dove si separa da lui (cf. At 12, 25; 15, 37-38). Discepolo prediletto di Pietro – che lo chiama «figlio mio» (1 Pt 5, 13) –, compare di nuovo al fianco di Paolo a Roma (cf. Fm 24; Col 4, 10). A Marco la tradizione ha attribuito il Vangelo che porta il suo nome e riecheggia la predicazione dell’apostolo Pietro. In esso, si presenta Gesù come il «Cristo, Figlio di Dio» (Mc 1, 1) e si proclama che il Crocifisso è risorto (cf. Mc 16, 6). La sua festa è celebrata il 25 aprile anche dai Copti e dai Bizantini.",
+        "patronage": "",
+        "main_shrine": "Basilica di San Marco (Venezia, Italia); Cattedrale di San Marco (Cairo, Egitto)"
     }
 }
