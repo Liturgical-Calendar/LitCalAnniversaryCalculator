@@ -689,13 +689,13 @@
         "patronage": "",
         "main_shrine": "Cattedrale di Nola"
     },
-    "StsJohnFisherThomasMore_75": {
-        "subject": "Santi Giovanni Fisher, vescovo e martire e Tommaso Moro, martire",
-        "places": "Londra (Regno Unito)",
+    "StJohnFisher_75": {
+        "subject": "San Giovanni Fisher, vescovo e martire",
+        "places": "Beverley (Regno Unito); Londra (Regno Unito)",
         "place_of_death": "Londra (Regno Unito)",
-        "place_of_birth": "rispettivamente Beverley e Londra (Regno Unito)",
+        "place_of_birth": "Beverley (Regno Unito)",
         "place_of_burial": "Chiesa di San Pietro ad Vincula (Londra, Regno Unito)",
-        "notes": "Giovanni Fisher (Beverley, Regno Unito, 1469 ca. - Londra, 22 giugno 1535), vescovo di Rochester e cancelliere dell’Università, fu animato da carità pastorale e cultura umanistica di ispirazione cristiana. Tommaso Moro (Londra, 7 febbraio 1477 - 22 giugno 1535), laico di grande cultura ed esperienza politica, fu cancelliere del regno. L’uno e l’altro si opposero al tentativo del re Enrico VIII di ottenere da Roma lo scioglimento del proprio matrimonio e, soprattutto, alla sua pretesa di porsi a capo della Chiesa d’Inghilterra, spezzando la comunione ecclesiale. Furono messi a morte entrambi per la loro coerente testimonianza.",
+        "notes": "Giovanni Fisher (Beverley, Regno Unito, 1469 ca. - Londra, 22 giugno 1535), vescovo di Rochester e cancelliere dell’Università, fu animato da carità pastorale e cultura umanistica di ispirazione cristiana. Insieme a Tommaso Moro si oppose al tentativo del re Enrico VIII di ottenere da Roma lo scioglimento del proprio matrimonio e, soprattutto, alla sua pretesa di porsi a capo della Chiesa d’Inghilterra, spezzando la comunione ecclesiale. Furono messi a morte entrambi per la loro coerente testimonianza.",
         "patronage": "",
         "main_shrine": "Chiesa di San Pietro ad Vincula (Londra, Regno Unito)"
     },
@@ -3718,5 +3718,15 @@
         "notes": "Giovanni, detto Marco, è figlio di Maria di Gerusalemme, nella cui casa si raduna la comunità cristiana e dove Pietro trova rifugio dopo la liberazione dal carcere (cf. At 12, 12). Cugino di Barnaba, collabora con Paolo nel primo viaggio missionario, fino in Panfilia, dove si separa da lui (cf. At 12, 25; 15, 37-38). Discepolo prediletto di Pietro – che lo chiama «figlio mio» (1 Pt 5, 13) –, compare di nuovo al fianco di Paolo a Roma (cf. Fm 24; Col 4, 10). A Marco la tradizione ha attribuito il Vangelo che porta il suo nome e riecheggia la predicazione dell’apostolo Pietro. In esso, si presenta Gesù come il «Cristo, Figlio di Dio» (Mc 1, 1) e si proclama che il Crocifisso è risorto (cf. Mc 16, 6). La sua festa è celebrata il 25 aprile anche dai Copti e dai Bizantini.",
         "patronage": "",
         "main_shrine": "Basilica di San Marco (Venezia, Italia); Cattedrale di San Marco (Cairo, Egitto)"
+    },
+    "StThomasMore_609": {
+        "subject": "San Tommaso Moro, martire",
+        "places": "Londra (Regno Unito)",
+        "place_of_death": "Londra (Regno Unito)",
+        "place_of_birth": "Londra (Regno Unito)",
+        "place_of_burial": "Chiesa di San Pietro ad Vincula (Londra, Regno Unito)",
+        "notes": "Tommaso Moro (Londra, 7 febbraio 1477 - 22 giugno 1535), laico di grande cultura ed esperienza politica, fu cancelliere del regno. Insieme al vescovo Giovanni Fisher si oppose al tentativo del re Enrico VIII di ottenere da Roma lo scioglimento del proprio matrimonio e, soprattutto, alla sua pretesa di porsi a capo della Chiesa d’Inghilterra, spezzando la comunione ecclesiale. Furono messi a morte entrambi per la loro coerente testimonianza.",
+        "patronage": "",
+        "main_shrine": "Chiesa di San Pietro ad Vincula (Londra, Regno Unito)"
     }
 }

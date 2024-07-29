@@ -689,7 +689,7 @@
         "patronage": "",
         "main_shrine": "Nola Cathedral"
     },
-    "StsJohnFisherThomasMore_75": {
+    "StJohnFisher_75": {
         "subject": "Saints John Fisher, bishop and martyr, and Thomas More, martyr",
         "places": "London (United Kingdom)",
         "place_of_death": "London (United Kingdom)",
@@ -3710,6 +3710,16 @@
         "main_shrine": "Church of Saint Mary of Zeitoun (Cairo, Egypt)"
     },
     "StMarkEvangelist_608": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "StThomasMore_609": {
         "subject": "",
         "places": "",
         "place_of_death": "",

@@ -689,7 +689,7 @@
         "patronage": "",
         "main_shrine": "Kathedrale von Nola"
     },
-    "StsJohnFisherThomasMore_75": {
+    "StJohnFisher_75": {
         "subject": "Heilige Johannes Fisher, Bischof und Märtyrer und Thomas Morus, Märtyrer",
         "places": "London (Vereinigtes Königreich)",
         "place_of_death": "London (Vereinigtes Königreich)",
@@ -3710,6 +3710,16 @@
         "main_shrine": "Kirche der Heiligen Maria von Zeitoun (Kairo, Ägypten)"
     },
     "StMarkEvangelist_608": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "StThomasMore_609": {
         "subject": "",
         "places": "",
         "place_of_death": "",

@@ -689,7 +689,7 @@
         "patronage": "",
         "main_shrine": "Cathedrale Nolana"
     },
-    "StsJohnFisherThomasMore_75": {
+    "StJohnFisher_75": {
         "subject": "Sancti Ioannes Fisher, episcopus et martyr et Thomas More, martyr",
         "places": "Londinium (Regnum Unitum)",
         "place_of_death": "Londinium (Regnum Unitum)",
@@ -3710,6 +3710,16 @@
         "main_shrine": "Ecclesia Sanctae Mariae de Zeitoun (Cairo, Aegyptus)"
     },
     "StMarkEvangelist_608": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "StThomasMore_609": {
         "subject": "",
         "places": "",
         "place_of_death": "",

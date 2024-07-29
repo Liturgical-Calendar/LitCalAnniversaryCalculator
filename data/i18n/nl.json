@@ -689,7 +689,7 @@
         "patronage": "",
         "main_shrine": "Kathedraal van Nola"
     },
-    "StsJohnFisherThomasMore_75": {
+    "StJohnFisher_75": {
         "subject": "Heiligen Johannes Fisher, bisschop en martelaar en Thomas More, martelaar",
         "places": "Londen (Verenigd Koninkrijk)",
         "place_of_death": "Londen (Verenigd Koninkrijk)",
@@ -3710,6 +3710,16 @@
         "main_shrine": "Kerk van Sint-Maria van Zeitoun (Caïro, Egypte)"
     },
     "StMarkEvangelist_608": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "StThomasMore_609": {
         "subject": "",
         "places": "",
         "place_of_death": "",
