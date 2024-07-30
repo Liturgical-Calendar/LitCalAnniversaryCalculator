@@ -2125,7 +2125,7 @@
         "place_of_death": "Hrodna (Bielorussia)",
         "place_of_birth": "Cracovia",
         "place_of_burial": "Vilnius (Lituania)",
-        "notes": "Casimiro (Cracovia, Polonia, 3 ottobre 1458 - Grodno, attuale Hrodna, Bielorussia, 4 marzo 1484), figlio del re di Polonia e di Lituania, formato nella cultura umanistica, all’esercizio del potere preferì una vita sobria e casta, dedita alla preghiera e alla penitenza.",
+        "notes": "Casimiro (Cracovia, Polonia, 3 ottobre 1458 - Grodno, attuale Hrodna, Bielorussia, 4 marzo 1484), figlio del re di Polonia e di Lituania, formato nella cultura umanistica, all’esercizio del potere preferì una vita sobria e casta, dedita alla preghiera e alla penitenza. Con ogni probabilità venne canonizzato nel 1521 da Papa Leone X oppure nel 1522 da Papa Adriano VI, ma la canonizzazione fu ufficialmente riconfermata nel 1602 da Papa Clemente VIII, a cui seguì una solenne cerimonia nel 1604, e nel 1620 fu inserito nel Calendario Romano Generale.",
         "patronage": "",
         "main_shrine": "Cattedrale di San Casimiro a Vilnius (Lituania)"
     },
@@ -2199,16 +2199,6 @@
         "patronage": "",
         "main_shrine": "Cattedrale di Cracovia"
     },
-    "StAugustineCanterbury_258": {
-        "subject": "Sant'Anselmo di Canterbury, vescovo e dottore della Chiesa",
-        "places": "N/A",
-        "place_of_death": "Canterbury (Regno Unito)",
-        "place_of_birth": "Aosta (Italia)",
-        "place_of_burial": "Anselmo morì il 21 aprile 1109, mercoledì santo, e venne sepolto nella cattedrale di Canterbury. Le sue spoglie vennero però esumate durante i disordini a sfondo religioso che ebbero luogo durante il regno di Enrico VIII d'Inghilterra e se ne persero le tracce.",
-        "notes": "Anselmo (Aosta, 1033/1034 - Canterbury, Regno Unito, 21 aprile 1109), per circa trent’anni monaco e abate di Bec, in Normandia, divenne arcivescovo di Canterbury e primate d’Inghilterra. Lottò per la libertà della Chiesa contro le invadenze del potere politico. Profondo teologo, seppe valorizzare il ruolo della ragione nell’approfondimento dei misteri della fede.",
-        "patronage": "",
-        "main_shrine": "Cattedrale di Canterbury (Regno Unito)"
-    },
     "StFidelisSigmaringen_260": {
         "subject": "San Fedele di Sigmaringen, sacerdote e martire",
         "places": "N/A",
@@ -2265,7 +2255,7 @@
         "place_of_death": "Salerno (Italia)",
         "place_of_birth": "Sovana (Italia)",
         "place_of_burial": "Cattedrale di Salerno (Italia)",
-        "notes": "Ildebrando (Sovana, Grosseto, 1025/1030 - Salerno, 25 maggio 1085), monaco, chiamato da papa Leone IX a collaborare alla riforma della Chiesa, assunse un ruolo di primo piano nella curia romana. Eletto papa (1073), rivendicò l’autonomia del potere spirituale rispetto a quello temporale ed esercitò una costante sollecitudine nei confronti della Chiesa universale. Dopo aver subìto l’opposizione violenta di Enrico IV, re di Germania e imperatore, morì in esilio.",
+        "notes": "Ildebrando (Sovana, Grosseto, 1025/1030 - Salerno, 25 maggio 1085), monaco, chiamato da papa Leone IX a collaborare alla riforma della Chiesa, assunse un ruolo di primo piano nella curia romana. Eletto papa (1073), rivendicò l’autonomia del potere spirituale rispetto a quello temporale ed esercitò una costante sollecitudine nei confronti della Chiesa universale. Dopo aver subìto l’opposizione violenta di Enrico IV, re di Germania e imperatore, morì in esilio. Fu canonizzato nel 1606 da Papa Paolo V, ed il culto fu riconfermato nel 1728 da Papa Benedetto XIII.",
         "patronage": "",
         "main_shrine": "Cattedrale di Salerno (Italia)"
     },
@@ -2958,16 +2948,6 @@
         "notes": "Francesco (Sales, Francia, 1567 - Lione, 28 dicembre 1622), vescovo di Ginevra (Svizzera) con sede ad Annecy (Francia), grazie alla sua umana dolcezza e alla saggezza pastorale, favorì l’unità della Chiesa in un territorio caratterizzato da forti contrasti tra cattolici e calvinisti. Con l’Introduzione alla vita devota e altre opere ascetico-mistiche propose una via di santità accessibile in tutte le condizioni di vita, in quanto fondata interamente sull’amore di Dio, compendio di ogni perfezione. Con santa Giovanna Francesca Frémyot de Chantal fondò l’Ordine femminile della Visitazione. Il giorno della memoria liturgica corrisponde a quello della sua sepoltura ad Annecy. Insieme a San Francesco di Sales, è sepolta anche Santa Giovanna Francesca Frémiot de Chantal nella stessa chiesa della visitazione ad Annecy.",
         "patronage": "",
         "main_shrine": "Basilica della Visitazione (Annecy, Francia)"
-    },
-    "StAugustineCanterbury_485": {
-        "subject": "Sant'Anselmo di Canterbury, vescovo e dottore della Chiesa",
-        "places": "N/A",
-        "place_of_death": "Canterbury (Regno Unito)",
-        "place_of_birth": "Aosta (Italia)",
-        "place_of_burial": "Anselmo morì il 21 aprile 1109, mercoledì santo, e venne sepolto nella cattedrale di Canterbury. Le sue spoglie vennero però esumate durante i disordini a sfondo religioso che ebbero luogo durante il regno di Enrico VIII d'Inghilterra e se ne persero le tracce.",
-        "notes": "Anselmo (Aosta, 1033/1034 - Canterbury, Regno Unito, 21 aprile 1109), per circa trent’anni monaco e abate di Bec, in Normandia, divenne arcivescovo di Canterbury e primate d’Inghilterra. Lottò per la libertà della Chiesa contro le invadenze del potere politico. Profondo teologo, seppe valorizzare il ruolo della ragione nell’approfondimento dei misteri della fede.",
-        "patronage": "",
-        "main_shrine": "Cattedrale di Canterbury (Regno Unito)"
     },
     "StCatherineSiena_486": {
         "subject": "Santa Caterina da Siena, vergine e dottore della Chiesa",

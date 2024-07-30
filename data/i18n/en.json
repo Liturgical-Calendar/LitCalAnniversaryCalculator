@@ -2199,16 +2199,6 @@
         "patronage": "",
         "main_shrine": "Krakow Cathedral"
     },
-    "StAugustineCanterbury_258": {
-        "subject": "Saint Anselm of Canterbury, bishop and doctor of the Church",
-        "places": "N/A",
-        "place_of_death": "Canterbury (United Kingdom)",
-        "place_of_birth": "Aosta (Italy)",
-        "place_of_burial": "Anselm died on April 21, 1109, Holy Wednesday, and was buried in Canterbury Cathedral. However, his remains were exhumed during the religious unrest that took place during the reign of Henry VIII of England and their traces were lost.",
-        "notes": "Anselm (Aosta, 1033/1034 - Canterbury, United Kingdom, April 21, 1109), for about thirty years a monk and abbot of Bec, in Normandy, became Archbishop of Canterbury and primate of England. He fought for the freedom of the Church against the encroachments of political power. A profound theologian, he knew how to value the role of reason in deepening the mysteries of faith.",
-        "patronage": "",
-        "main_shrine": "Canterbury Cathedral (United Kingdom)"
-    },
     "StFidelisSigmaringen_260": {
         "subject": "Saint Fidelis of Sigmaringen, priest and martyr",
         "places": "N/A",
@@ -2958,16 +2948,6 @@
         "notes": "Francis (Sales, France, 1567 - Lyon, December 28, 1622), bishop of Geneva (Switzerland) with his seat in Annecy (France), thanks to his human kindness and pastoral wisdom, favored the unity of the Church in a territory characterized by strong contrasts between Catholics and Calvinists. With the Introduction to the Devout Life and other ascetic-mystical works, he proposed a path of holiness accessible in all conditions of life, as it is entirely based on the love of God, compendium of all perfection. With Saint Jane Frances Frémyot de Chantal, he founded the female Order of the Visitation. The day of liturgical memory corresponds to that of his burial in Annecy. Along with Saint Francis of Sales, Saint Jane Frances Frémiot de Chantal is also buried in the same Visitation church in Annecy.",
         "patronage": "",
         "main_shrine": "Basilica of the Visitation, Annecy (France)"
-    },
-    "StAugustineCanterbury_485": {
-        "subject": "Saint Anselm of Canterbury, bishop and doctor of the Church",
-        "places": "N/A",
-        "place_of_death": "Canterbury (United Kingdom)",
-        "place_of_birth": "Aosta (Italy)",
-        "place_of_burial": "Anselm died on April 21, 1109, Holy Wednesday, and was buried in Canterbury Cathedral. However, his remains were exhumed during the religious unrest that took place during the reign of Henry VIII of England and their traces were lost.",
-        "notes": "Anselm (Aosta, 1033/1034 - Canterbury, United Kingdom, April 21, 1109), for about thirty years a monk and abbot of Bec, in Normandy, became Archbishop of Canterbury and primate of England. He fought for the freedom of the Church against the encroachments of political power. A profound theologian, he knew how to value the role of reason in deepening the mysteries of faith.",
-        "patronage": "",
-        "main_shrine": "Canterbury Cathedral (United Kingdom)"
     },
     "StCatherineSiena_486": {
         "subject": "Saint Catherine of Siena, virgin and doctor of the Church",

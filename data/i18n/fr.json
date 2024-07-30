@@ -2199,16 +2199,6 @@
         "patronage": "",
         "main_shrine": "Cathédrale de Cracovie"
     },
-    "StAugustineCanterbury_258": {
-        "subject": "Saint Anselme de Cantorbéry, évêque et docteur de l'Église",
-        "places": "N/D",
-        "place_of_death": "Cantorbéry (Royaume-Uni)",
-        "place_of_birth": "Aoste (Italie)",
-        "place_of_burial": "Anselme mourut le 21 avril 1109, mercredi saint, et fut enterré dans la cathédrale de Cantorbéry. Ses reliques furent cependant exhumées lors des troubles religieux qui eurent lieu sous le règne d'Henri VIII d'Angleterre et on en perdit la trace.",
-        "notes": "Anselme (Aoste, 1033/1034 - Canterbury, Royaume-Uni, 21 avril 1109), moine et abbé de Bec en Normandie pendant environ trente ans, devint archevêque de Canterbury et primat d'Angleterre. Il lutta pour la liberté de l'Église contre les ingérences du pouvoir politique. Profond théologien, il sut valoriser le rôle de la raison dans l'approfondissement des mystères de la foi.",
-        "patronage": "",
-        "main_shrine": "Cathédrale de Cantorbéry (Royaume-Uni)"
-    },
     "StFidelisSigmaringen_260": {
         "subject": "Saint Fidèle de Sigmaringen, prêtre et martyr",
         "places": "N/D",
@@ -2958,16 +2948,6 @@
         "notes": "François (Sales, France, 1567 - Lyon, 28 décembre 1622), évêque de Genève (Suisse) avec siège à Annecy (France), grâce à sa douceur humaine et à sa sagesse pastorale, favorisa l'unité de l'Église dans un territoire caractérisé par de forts contrastes entre catholiques et calvinistes. Avec l'Introduction à la vie dévote et d'autres œuvres ascético-mystiques, il proposa une voie de sainteté accessible dans toutes les conditions de vie, car entièrement fondée sur l'amour de Dieu, compendium de toute perfection. Avec sainte Jeanne Françoise Frémyot de Chantal, il fonda l'Ordre féminin de la Visitation. Le jour de la mémoire liturgique correspond à celui de sa sépulture à Annecy. Avec saint François de Sales, sainte Jeanne Françoise Frémiot de Chantal est également enterrée dans la même église de la Visitation à Annecy.",
         "patronage": "",
         "main_shrine": "Basilique de la Visitation, Annecy (France)"
-    },
-    "StAugustineCanterbury_485": {
-        "subject": "Saint Anselme de Cantorbéry, évêque et docteur de l'Église",
-        "places": "N/D",
-        "place_of_death": "Cantorbéry (Royaume-Uni)",
-        "place_of_birth": "Aoste (Italie)",
-        "place_of_burial": "Anselme mourut le 21 avril 1109, mercredi saint, et fut enterré dans la cathédrale de Cantorbéry. Ses reliques furent cependant exhumées lors des troubles religieux qui eurent lieu sous le règne d'Henri VIII d'Angleterre et on en perdit la trace.",
-        "notes": "Anselme (Aoste, 1033/1034 - Cantorbéry, Royaume-Uni, 21 avril 1109), moine et abbé de Bec en Normandie pendant environ trente ans, devint archevêque de Cantorbéry et primat d'Angleterre. Il lutta pour la liberté de l'Église contre les ingérences du pouvoir politique. Profond théologien, il sut valoriser le rôle de la raison dans l'approfondissement des mystères de la foi.",
-        "patronage": "",
-        "main_shrine": "Cathédrale de Canterbury (Royaume-Uni)"
     },
     "StCatherineSiena_486": {
         "subject": "Sainte Catherine de Sienne, vierge et docteur de l'Église",

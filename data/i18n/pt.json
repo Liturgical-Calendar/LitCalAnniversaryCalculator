@@ -2199,16 +2199,6 @@
         "patronage": "",
         "main_shrine": "Catedral de Cracóvia"
     },
-    "StAugustineCanterbury_258": {
-        "subject": "Santo Anselmo de Cantuária, bispo e doutor da Igreja",
-        "places": "N/D",
-        "place_of_death": "Canterbury (Reino Unido)",
-        "place_of_birth": "Aosta (Itália)",
-        "place_of_burial": "Anselmo morreu em 21 de abril de 1109, quarta-feira santa, e foi sepultado na catedral de Cantuária. Seus restos mortais, no entanto, foram exumados durante os distúrbios religiosos que ocorreram durante o reinado de Henrique VIII da Inglaterra e se perderam.",
-        "notes": "Anselmo (Aosta, 1033/1034 - Cantuária, Reino Unido, 21 de abril de 1109), por cerca de trinta anos monge e abade de Bec, na Normandia, tornou-se arcebispo de Cantuária e primaz da Inglaterra. Lutou pela liberdade da Igreja contra as invasões do poder político. Profundo teólogo, soube valorizar o papel da razão no aprofundamento dos mistérios da fé.",
-        "patronage": "",
-        "main_shrine": "Catedral de Cantuária (Reino Unido)"
-    },
     "StFidelisSigmaringen_260": {
         "subject": "São Fidelis de Sigmaringen, sacerdote e mártir",
         "places": "N/D",
@@ -2958,16 +2948,6 @@
         "notes": "Francisco (Sales, França, 1567 - Lyon, 28 de dezembro de 1622), bispo de Genebra (Suíça) com sede em Annecy (França), graças à sua doçura humana e à sabedoria pastoral, favoreceu a unidade da Igreja em um território caracterizado por fortes contrastes entre católicos e calvinistas. Com a Introdução à vida devota e outras obras ascético-místicas, propôs um caminho de santidade acessível em todas as condições de vida, pois era inteiramente baseado no amor de Deus, resumo de toda perfeição. Com Santa Joana Francisca Frémyot de Chantal, fundou a Ordem feminina da Visitação. O dia da memória litúrgica corresponde ao de seu sepultamento em Annecy. Junto com São Francisco de Sales, também está sepultada Santa Joana Francisca Frémyot de Chantal na mesma igreja da Visitação em Annecy.",
         "patronage": "",
         "main_shrine": "Basílica da Visitação, Annecy (França)"
-    },
-    "StAugustineCanterbury_485": {
-        "subject": "Santo Anselmo de Cantuária, bispo e doutor da Igreja",
-        "places": "N/D",
-        "place_of_death": "Cantuária (Reino Unido)",
-        "place_of_birth": "Aosta (Itália)",
-        "place_of_burial": "Anselmo morreu em 21 de abril de 1109, quarta-feira santa, e foi sepultado na catedral de Canterbury. Seus restos mortais foram exumados durante os distúrbios religiosos que ocorreram durante o reinado de Henrique VIII da Inglaterra e se perderam.",
-        "notes": "Anselmo (Aosta, 1033/1034 - Canterbury, Reino Unido, 21 de abril de 1109), por cerca de trinta anos monge e abade de Bec, na Normandia, tornou-se arcebispo de Canterbury e primaz da Inglaterra. Lutou pela liberdade da Igreja contra as invasões do poder político. Profundo teólogo, soube valorizar o papel da razão no aprofundamento dos mistérios da fé.",
-        "patronage": "",
-        "main_shrine": "Catedral de Cantuária (Reino Unido)"
     },
     "StCatherineSiena_486": {
         "subject": "Santa Catarina de Siena, virgem e doutora da Igreja",
