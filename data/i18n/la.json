@@ -27,7 +27,7 @@
         "place_of_burial": "Ecclesia Sancti Hilarii Magni, Pictavium (patrimonium UNESCO)",
         "notes": "Hilarius (Pictavi, Francia, 310/320 - 367/368), episcopus civitatis suae natalis, scriptis eminentibus (inter quae praesertim tractatus De Trinitate) fidem in plenam divinitatem Filii defendit, a Concilio Nicaeno (325) contra haeresim Arii affirmatam. Propter firmam oppositionem ad orientem proariarum curiae imperiali persecutionem passus est et exsulavit. In Martyrologio Hieronymiano (saec. V-VI) memoria eius celebratur die 13 Ianuarii. Ecclesia Sancti Hilarii Magni est ecclesia catholica Pictavensis, in Vienne departmento sita, sancto Hilario Pictaviensi dedicata. Anno 1840 in Monumentorum Historiarum Galliae index relata est et ab anno 1998 etiam a UNESCO ut Patrimonium Humanitatis classificata est, quippe quae in Via Turonensi, Camini Sancti Iacobi Compostellam pergentis, sita est.",
         "patronage": "pueri academicis post, pueri ambulare discentes, matres, et infirmi, invocati contra rheumatismum et morsus serpentium",
-        "main_shrine": "Ecclesia Sancti Hilarii Magni, Pictavium"
+        "main_shrine": "Ecclesia Sancti Hilarii Magni (Pictavi, Gallia)"
     },
     "StAnthonyEgypt_4": {
         "subject": "Sanctus Antonius Aegyptius, Abbas",
@@ -412,12 +412,12 @@
     "StFidelisSigmaringen_45": {
         "subject": "Sanctus Fidelis Sigmaringensis, sacerdos et martyr",
         "places": "Austria; Helvetia",
-        "place_of_death": "Seewis im Prättigau, Helvetia",
+        "place_of_death": "Seewis im Prättigau (Helvetia)",
         "place_of_birth": "Sigmaringa (Germania)",
         "place_of_burial": "Caput eius delatum est ad Feldkirch (hodie in Austria), dum reliquum corpus sepultum est in Cathedrali Curiae (Helvetia), ubi adhuc quiescunt eius reliquiae.",
         "notes": "Fidelis, saeculo Marcus (Sigmaringen, Germania, 1578 - Seewis im Prättigau, Helvetia, 24 Aprilis 1622), cappuccinus, doctor in utroque iure, primam missionem a Congregatione de propaganda fide, adhuc in constitutione, promotam duxit ad terras ubi Reformatio protestantica diffusa erat. In clima magnae tensionis internae in Grisonibus, aggravata pressionibus politicis internationalibus, praedicatio religiosorum catholicorum violentas reactiones excitavit, coram quibus Fidelis testimonium Christo usque ad mortem reddidit.",
         "patronage": "",
-        "main_shrine": "Cathedrale Curiae, Helvetia; Feldkirch, Austria"
+        "main_shrine": "Cathedrale Curiensis (Helvetia); Feldkirch (Austria)"
     },
     "StMarkEvangelist_46": {
         "subject": "Sanctus Marcus Evangelista",
@@ -427,7 +427,7 @@
         "place_of_burial": "Initio reliquiae eius veneratae sunt in ecclesia Alexandriae aedificata in loco antiquissimi mausolei Alexandri Magni. Saeculo VII reliquiae eius Venetias delatae sunt. Cathedrale Sancti Marci Cairo reliquias quasdam ex Basilica Sancti Marci Venetiarum translatas conservat.",
         "notes": "Ioannes, dictus Marcus, est filius Mariae Hierosolymitanae, in cuius domo communitas christiana congregatur et ubi Petrus post liberationem e carcere refugium invenit (cf. At 12, 12). Consobrinus Barnabae, cooperatur cum Paulo in primo itinere missionario, usque in Pamphyliam, ubi ab eo separatur (cf. At 12, 25; 15, 37-38). Discipulus dilectus Petri – qui eum «filium meum» appellat (1 Pt 5, 13) –, iterum ad latus Pauli Romae apparet (cf. Fm 24; Col 4, 10). Marco traditio Evangelium quod nomen eius fert attribuit, quod praedicationem apostoli Petri resonat. In eo, Iesus ut «Christus, Filius Dei» (Mc 1, 1) praesentatur et proclamatur Crucifixum resurrexisse (cf. Mc 16, 6). Festum eius celebratur die 25 Aprilis etiam a Coptis et Byzantinis.",
         "patronage": "",
-        "main_shrine": "Basilica Sancti Marci Venetiarum, et Cathedralis Sancti Marci Cairi"
+        "main_shrine": "Basilica Sancti Marci (Venetiae, Italia); Cathedrale Sancti Marci (Cairo, Aegyptus)"
     },
     "StPeterChanel_47": {
         "subject": "Sanctus Petrus Chanel, sacerdos et martyr",
@@ -564,7 +564,7 @@
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Florentia (Italia)",
-        "place_of_burial": "Ecclesia Nova, Roma",
+        "place_of_burial": "Ecclesia Sanctae Mariae in Vallicella seu \"Ecclesia Nova\" (Roma, Italia)",
         "notes": "Philippus (Florentia, 21 Iulii 1515 - Roma, 26 Maii 1595), adulescens Romam perveniens, incurabilibus aegrotis et pauperibus peregrinis assistentiam dedit. Presbyter ordinatus, assiduus in confessionali fuit et Eucharistiam cum intensa devotione celebravit, usque ad mysticum transportum. Ex periodicis conventibus cum coetu suorum paenitentium – quos laeto stilo in dialogis spiritualibus et in activitatibus recreativis, culturalibus, caritativis instruxit – orta est experientia «Oratorii» et Congregatio sacerdotum quae eodem nomine appellatur, a Gregorio XIII die 15 Iulii 1575 recognita.",
         "patronage": "",
         "main_shrine": "Ecclesia Nova, Roma"
@@ -612,7 +612,7 @@
     "StBoniface_67": {
         "subject": "Sanctus Bonifacius, episcopus et martyr",
         "places": "Fulda (Germania)",
-        "place_of_death": "Dokkum, Nederlandia",
+        "place_of_death": "Dokkum (Bataviae)",
         "place_of_birth": "Wessex (Regnum Unitum)",
         "place_of_burial": "Abbatia Fuldensis (Germania)",
         "notes": "Winfridus, nomen quod papa Gregorius II in Bonifacium mutavit (Wessex, Regnum Unitum, circiter 675 - Dokkum, Nederlandia, 754), monachus fuit in abbatia Nursling (Regnum Unitum). Inde, secundum traditionem monachismi insularis, peregrinari in continente Europae coepit. A papa missus ut missionarius inter gentes Germanicas, deinde archiepiscopus electus, in Hassia et Thuringia operatus est, plures dioeceses et monasteria fundavit. Iam aetate provecta missionem inter Frisones incepit, sed ibi a praedonibus interfectus est. Sepultus est Fuldensis (Germania).",
@@ -1141,8 +1141,8 @@
     },
     "StAugustineHippo_121": {
         "subject": "Sanctus Augustinus Hipponensis, episcopus et Ecclesiae doctor",
-        "places": "Souk Ahras, Annaba (Algeria); Roma; sepultus Basilica Sancti Petri in Caelo Aureo (Papia, Italia)",
-        "place_of_death": "Hippo, Annaba, Algeria",
+        "places": "Tagaste (hodierna Souk Ahras, Algeria); Hippo (hodierna Annaba, Algeria); Ostia antiqua (Roma, Italia); Roma (Italia); Mediolanum (Italia); Cassago Brianza (Italia); Papia (Italia)",
+        "place_of_death": "Hippo (hodierna Annaba, Algeria)",
         "place_of_birth": "Tagaste (hodierna Souk Ahras, Algeria)",
         "place_of_burial": "Basilica Sancti Petri in Caelo Aureo (Papia, Italia)",
         "notes": "Augustinus (Tagaste, actuale Souk Ahras, Algeria, 13 Novembris 354 - Hippo, actuale Annaba, 28 Augusti 430), patre pagano et matre Christiana, ad studia litteraria avocatus est. Post iuvenilem disorientationem, veritatis investigationem ardentem incepit, adhaerens Christianismo manichaeo. Rhetoricae professor Mediolani, sanctum Ambrosium convenit, cuius praedicationem audivit et a quo Baptismum accepit. In Africam reversus et episcopus Hipponensis electus, cum clero suo in communitate monastica vixit; regula ab eo composita textus referentialis multis institutis vitae consecratae in Occidente facta est. Ministerii exercitio, praesertim praedicationis, assiduum studium fidei profundendae et defendendae adiunxit, corpus operum tantae amplitudinis et profunditatis producens ut una ex fecundissimis hereditatibus traditionis Christianae antiquae constitueret. Eius reliquiae mortales, ut Possidius, primus biographus eius, narrat, in cathedrali \"Basilica Pacis\" dicta depositae sunt et a Christianis Hipponensibus diligenter custoditae, ut in vita quam amanter scripsit, et cuius editionem criticam (ab anno 1955) habemus, a professore litterarum Christianarum, hodie Card. Michaele Pellegrino (Augustinus Trapè, Bibliotheca Sanctorum, vol. 1, col. 433). Postea corpus S. Augustini ab Hippo in Sardiniam et a Sardinia in Papiam translatum est, ubi adhuc requiescit. Ergo etiam ossa Sancti episcopi suam peregrinationem habuerunt! Hae duae translationes certissimae sunt et diversis auctoribus documentatae. Difficilius est duas datas et circumstantias particulares documentare.",
@@ -1287,13 +1287,13 @@
         "place_of_burial": "non pertinet",
         "notes": "Michael («Quis ut Deus?»), primus archangelorum, protegit populum Dei (cf. Dn 10, 13.21; 12, 1) et ducit exercitus caelestes in pugna contra diabolum (Iud 9; cf. Ap 12, 1-17). Gabriel («vir Dei» vel «Deus est fortitudo mea») est nuntius Dei ad homines: explicat prophetae Daniele secreta consilii Dei (cf. Dn 8, 16; 9, 21), annuntiat Zachariae nativitatem Ioannis Baptistae (cf. Lc 1, 5-25) et Mariae nativitatem Iesu (cf. Lc 1, 26-38). Raphael («Deus sanavit») est inter «septem angelos qui semper parati sunt introire in conspectum gloriae Domini» (Tb 12, 15; cf. Ap 8, 2), comitatur Tobiam in itinere, docet eum quomodo sanare caecitatem patris Tobi et liberare uxorem Saram a daemonio Asmodeo (cf. Tb 3, 16-17; 6, 1). In Eucharistia Ecclesia iam participat liturgiam caelestem, ubi «innumerabiles exercitus angelorum» (Prex Eucharistica IV) acclamant Deo et Agno (cf. Ap 5, 11-14). In Martyrologio Hieronymiano (saec. V-VI) commemoratur, die 29 Septembris, dedicatio ecclesiae Sancti Michaelis Romae, in via Salaria (saec. V). Anno 493 Papa Gelasius instituit festum ad commemorationem huius dedicationis.",
         "patronage": "",
-        "main_shrine": "Castellum Sancti Angeli, Roma; Spelunca Sancti Michaelis Gargani (Italia); Mons Sancti Michaelis (Francia)"
+        "main_shrine": "Castellum Sancti Angeli (Roma, Italia); Spelunca Sancti Michaelis in Gargano (Italia); Mons Sancti Michaelis (Francia)"
     },
     "StJerome_136": {
         "subject": "Sanctus Hieronymus, presbyter et doctor",
-        "places": "Roma (Italia); Bethlehem, Palestina",
-        "place_of_death": "Bethlehem, Palaestina",
-        "place_of_birth": "Stridon, antiqua Dalmatia",
+        "places": "Roma (Italia); Bethlehem (Palaestina)",
+        "place_of_death": "Bethlehem (Palaestina)",
+        "place_of_birth": "Stridon (antiqua Dalmatia)",
         "place_of_burial": "Basilica Sanctae Mariae Maioris, urna sub altari maiore",
         "notes": "Hieronymus (Stridon, antiqua Dalmatia, circiter 347 - Bethlehem, Palaestina, 30 Septembris 420), amplissima cultura praeditus, post tempus vitae eremiticae in Oriente, factus est collaboratus papae Damasi Romae. Deinde Bethlehem se contulit, orationi, paenitentiae et coetibus vitae asceticae ducendis se dedicans. Praeterquam quod scripta eruditionis et commentarios biblicos composuit, grandiosum opus revisionis translationis Bibliorum in linguam Latinam suscepit. Textus ab eo praeparati, in Vulgatam conflati, pars essentialis traditionis liturgicae, theologicae et iuridicae Ecclesiae occidentalis facti sunt. Commemoratur die 30 Septembris in Martyrologio Hieronymiano (saec. V-VI).",
         "patronage": "",
@@ -1721,23 +1721,23 @@
     },
     "StPeterCanisius_181": {
         "subject": "Sanctus Petrus Canisius, sacerdos et doctor",
-        "places": "Friburgum, Helvetia",
-        "place_of_death": "Friburgum, Helvetia",
+        "places": "Friburgum (Helvetia)",
+        "place_of_death": "Friburgum (Helvetia)",
         "place_of_birth": "Noviomagus (Batavia)",
-        "place_of_burial": "Collegium Sancti Michaelis, Friburgum, Helvetia",
+        "place_of_burial": "Collegium Sancti Michaelis (Friburgum, Helvetia)",
         "notes": "Petrus Kanijs – latinizatus in Canisius – (Noviomagus, Nederlandia, 8 Maii 1521 - Friburgum, Helvetia, 21 Decembris 1597), iesuita, fuit protagonist restaurandae catholicismi in Germania, post Reformationem protestanticam, cum inceptis formationis et textibus catechismi, praesertim pro iuvenibus et candidatis ad ministerium. Reformator universitatum et promotor seminariorum, assiduus etiam in praedicatione inter rusticas populationes fuit.",
         "patronage": "",
-        "main_shrine": "Collegium Sancti Michaelis, Friburgum, Helvetia"
+        "main_shrine": "Collegium Sancti Michaelis (Friburgum, Helvetia)"
     },
     "StJohnKanty_182": {
         "subject": "Sanctus Ioannes a Kęty, sacerdos",
         "places": "Wadowice (Polonia)",
         "place_of_death": "Wadowice (Polonia)",
         "place_of_birth": "Kantii (Polonia)",
-        "place_of_burial": "Ecclesia Sanctae Annae, Cracovia",
+        "place_of_burial": "Ecclesia Sanctae Annae (Cracovia, Polonia)",
         "notes": "Ioannes (Kęty, Polonia, 1390 - Cracovia, 24 Decembris 1473), presbyter, philosophus et theologus, fuit professor in universitate Cracoviensi, membrum Cappellae musicae collegiatae Sancti Floriani et canonicus cathedralis. Notus erat in tota urbe propter rectitudinem vitae, inexhaustam bonitatem et praedilectionem erga pauperes.",
         "patronage": "",
-        "main_shrine": "Ecclesia Sanctae Annae, Cracovia"
+        "main_shrine": "Ecclesia Sanctae Annae (Cracovia, Polonia)"
     },
     "StStephenProtomartyr_183": {
         "subject": "Sanctus Stephanus, protomartyr",
@@ -1795,7 +1795,7 @@
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
-        "notes": "Cultus pro nomine Iesu orta est in tempore medioevali, gratias Ordines mendicantes, praesertim cum praedicatione sancti Bernardini Senensis (saec. XV) qui monogramma compositum ex primis tribus litteris graecis nominis Iesu (IHS) diffudit, quamvis hoc, cum translitteratione latina, interpretatum est ut acronyma expressionis Iesus Hominum Salvator. Celebratio liturgica, introducta saeculo XVI, extenditur ad totam Ecclesiam ab Innocentio XIII (1721-1724). Haec devotio radices habet in Sacra Scriptura. Nomen Iesu, a Patre Filio facto homine assignatum (cf. Mt 1, 21), missionem eius praefigurat secundum stilum biblicum: significat enim «Deus salvat». Est «in nomine Iesu» quod discipuli prodigia faciunt (Act 4, 10) et persecutionem patiuntur (Act 5, 41). Iesus ipse discipulos hortatur ut orent in nomine suo (Io 14, 13-14). Prima communitas christiana iam conscia est quod non est «sub caelo aliud nomen datum hominibus, in quo oportet nos salvos fieri» (Act 4, 12). In hymno epistulae ad Philippenses proclamatur: «... Deus illum exaltavit et donavit illi nomen quod est super omne nomen, ut in nomine Iesu omne genu flectatur caelestium, terrestrium et infernorum» (Phil 2, 9-10).",
+        "notes": "Cultus pro nomine Iesu orta est in tempore medioevali, gratias Ordines mendicantes, praesertim cum praedicatione sancti Bernardini Senensis (saec. XV) qui monogramma compositum ex primis tribus litteris Graecis nominis Iesu (IHS) diffudit, quamvis id, cum translitteratione Latina, interpretatum sit ut acronymum expressionis Iesus Hominum Salvator. Celebratio liturgica, introducta saeculo XVI, extensa est ad totam Ecclesiam ab Innocentio XII cum decreto 11 Iulii 1722. Haec devotio radices habet in Sacra Scriptura. Nomen Iesu, a Patre Filio facto homine assignatum (cf. Mt 1, 21), missionem eius praefigurat – secundum stilum biblicum: significat enim «Deus salvat». Est «in nomine Iesu» quod discipuli prodigia faciunt (Act 4, 10) et persecutionem patiuntur (Act 5, 41). Iesus ipse discipulos hortatur ut in nomine suo orent (Io 14, 13-14). Prima communitas christiana iam conscia est quod non est «sub caelo aliud nomen datum hominibus, in quo statutum est ut salvemur» (Act 4, 12). In hymno epistulae ad Philippenses proclamatur: «… Deus illum exaltavit et donavit illi nomen quod est super omne nomen, ut in nomine Iesu omne genu flectatur caelestium, terrestrium et infernorum» (Phil 2, 9-10).",
         "patronage": "",
         "main_shrine": "Ecclesia Iesu, Roma"
     },
@@ -1841,13 +1841,13 @@
     },
     "StChristopherMagallanes_193": {
         "subject": "Sanctus Christophorus Magallanes et socii martyres",
-        "places": "Jalisco, Mexicum",
-        "place_of_death": "Colotlán, Mexicum",
-        "place_of_birth": "Totatiche, Mexicum",
-        "place_of_burial": "Sanctuarium Sancti Christophori Magallanes, Jalisco, Mexicum",
+        "places": "Jalisco (Mexicum)",
+        "place_of_death": "Colotlán (Mexicum)",
+        "place_of_birth": "Totatiche (Mexicum)",
+        "place_of_burial": "Sanctuarium Sancti Christophori Magallanes (Jalisco, Mexicum)",
         "notes": "Christophorus (Totatiche, Mexicum, 30 iulii 1869 - Colotlán, 25 maii 1927) parochus et missionarius inter indigenas fuit. In complexa condicione locali – inter persecutionem Status contra Ecclesiam catholicam et consequentia popularia, interdum etiam violenta – testimonio vitae suae sacrificio primatum regni Dei ostendit. Eius figurae memoria viginti quattuor aliorum martyrum, presbyterorum et laicorum, inter 1915 et 1937 occisorum, coniungitur.",
         "patronage": "",
-        "main_shrine": "Sanctuarium Sancti Christophori Magallanes, Jalisco, Mexicum"
+        "main_shrine": "Sanctuarium Sancti Christophori Magallanes (Jalisco, Mexicum)"
     },
     "StRitaCascia_194": {
         "subject": "Sancta Rita de Cascia, religiosa",
@@ -1941,29 +1941,29 @@
     },
     "StAndrewKimTaegon_203": {
         "subject": "Sancti Andreas Kim Taegon, presbyter, Paulus Chong Hasang et socii martyres",
-        "places": "Seul, Corea Meridionalis",
-        "place_of_death": "Saenamteo, Seul, Corea Meridionalis",
-        "place_of_birth": "Solmoi (Seul), Corea Meridionalis",
+        "places": "Seul (Corea Meridiana)",
+        "place_of_death": "Saenamteo (Seul, Corea Meridionalis)",
+        "place_of_birth": "Solmoi (Seul, Corea Meridionalis)",
         "place_of_burial": "Cathedrale Myeongdong",
         "notes": "Andreas (1821 - Seul, Corea Meridionalis, 16 Septembris 1846) fuit primus presbyter Ecclesiae Coreanae, per plus quam dimidium saeculum solum ex laicis compositae; inter hos catechista Paulus, decem annis ante persecutionis victimam, a gubernatoribus susceptae propter timorem infiltrationum exterarum in traditiones culturales et religiosas locales. Memoriae Andreae et Pauli associantur alii centum unus martyres, inter quos duo episcopi Europaei, Laurentius Imbert et Simeon Berneux. Plus quam decem milia Christianorum, diversis temporibus, per saeculum XIX, sanguine illam iuvenem Ecclesiam fecundaverunt. Ipsa orta est circa finem saeculi XVIII ex spontaneo occursu cum christianismo Sinensi, deinde crevit etiam gratia adventus nonnullorum missionariorum ex Occidente, primis decenniis saeculi XIX. Luminosa historia Ecclesiae Coreanae et martyrum eius est igitur clara testimonium occultae sed efficacis actionis Spiritus Sancti, etiam in condicionibus difficillimis pro communitate christiana.",
         "patronage": "",
-        "main_shrine": "Saenamteo Martyrum Sacellum, Seoul, Corea Meridionalis"
+        "main_shrine": "Sacellum martyrum Saenamteo (Seul, Corea Meridionalis)"
     },
     "StsLawrenceRuiz_204": {
         "subject": "Sancti Laurentius Ruiz et socii martyres",
-        "places": "Manila, Philippinae; Nagasaki (Iaponia)",
+        "places": "Manila (Philippinae); Nagasaki (Iaponia)",
         "place_of_death": "Nagasaki (Iaponia)",
-        "place_of_birth": "Binondo (hodierna Manila), Philippinae",
-        "place_of_burial": "Nishizaka Park (Nagasaki, Iaponia)",
+        "place_of_birth": "Binondo (hodierna Manila, Philippinae)",
+        "place_of_burial": "Parcus Nishizaka (Nagasaki, Iaponia)",
         "notes": "Laurentius (Binondo, hodierna Manila, Philippinae, circiter 1600 - Nagasaki, Iaponia, 29 Septembris 1637), laicus et paterfamilias, interfuit missioni dominicanae quae a Philippinis ad Iaponiam pervenit, ubi captus et ad crudelem mortem damnatus est. Fides christiana, a sancto Francisco Xaverio in Iaponiam introducta, initio recepta et fovenda ab aliquibus dominis localibus fuit. Post politicam unificationem terrae, primis annis saeculi XVII, christiani coeperunt suspicari de favendis commodis potentiarum externarum, praesertim Hispaniae, quae Philippinas occupaverat. Una cum Laurentio commemorantur alii quindecim martyres – novem presbyteri et sex laici, variis originibus, omnes diversis titulis Ordini dominicano aggregati – qui inter 1633 et 1637 occisi sunt, in eadem colle quae iam passionem protomartyrum Iaponensium Pauli Miki et sociorum anno 1597 viderat.",
         "patronage": "",
         "main_shrine": "Ecclesia Sancti Philippi (Ecclesia Nishizaka, Nagasaki, Iaponia)"
     },
     "StAndrewDungLac_205": {
         "subject": "Sanctus Andreas Dung-Lac et socii martyres",
-        "places": "Hanoi, Vietnam; Hà Nam, Vietnam",
-        "place_of_death": "Hanoi, Vietnam",
-        "place_of_birth": "Bac Ninh, Vietnam",
+        "places": "Hanoi (Vietnam); Hà Nam (Vietnam)",
+        "place_of_death": "Hanoi (Vietnam)",
+        "place_of_birth": "Bac Ninh (Vietnam)",
         "place_of_burial": "Nhà Thờ Giáo Xứ Lan Mát (Basilica Immaculatae Conceptionis, Hà Nam, Vietnam)",
         "notes": "Andreas Dung († Hanoi, Vietnam, 21 Decembris 1839), filius parentum paganorum in extrema paupertate, venditus est puer catechistae catholico; baptizatus et in fide instructus, ipse catechista factus est, deinde presbyter. Primo captus ut christianus, deinde liberatus, conatus est se celare sub novo cognomine Lac. Iterum detectus et captus, fidem suam usque ad mortem testatus est. Cum eo commemorantur alii 116 martyres, inter episcopos, presbyteros et laicos, plerique Vietnamenses, variarum persecutionum inter 1745 et 1862 victimae. Ecclesia Vietnamensis, ex primo annuntio a Iesuitis initio saeculi XVII portato orta, magnum incrementum habuit sed fortes resistentias a culturis et religionibus localibus obvenerunt, facta obiectum repetitarum persecutionum, cum innumerabili multitudine martyrum (aestimati in 130.000).",
         "patronage": "",
@@ -2125,7 +2125,7 @@
         "place_of_death": "Hrodna (Bielorussia)",
         "place_of_birth": "Cracovia",
         "place_of_burial": "Vilnius (Lituania)",
-        "notes": "Casimirus (Cracovia, Polonia, 3 octobris 1458 - Grodno, hodierna Hrodna, Bielorussia, 4 martii 1484), filius regis Poloniae et Lituaniae, in cultura humanistica formatus, exercitio potestatis vitam sobriam et castam, precationi et paenitentiae deditam, praeferre maluit.",
+        "notes": "Casimirus (Cracovia, Polonia, 3 octobris 1458 - Grodno, hodierna Hrodna, Bielorussia, 4 martii 1484), filius regis Poloniae et Lituaniae, humanistica cultura formatus, potestati exercendae vitam sobriam et castam, precationi et paenitentiae deditam, praeferre maluit. Probabiliter canonizatus est anno 1521 a Papa Leone X vel anno 1522 a Papa Hadriano VI, sed canonizatio officialiter confirmata est anno 1602 a Papa Clemente VIII, cui secuta est sollemnis caerimonia anno 1604, et anno 1620 in Calendarium Romanum Generale insertus est.",
         "patronage": "",
         "main_shrine": "Cathedrale Sancti Casimiri Vilnae (Lituania)"
     },
@@ -2202,7 +2202,7 @@
     "StFidelisSigmaringen_260": {
         "subject": "Sanctus Fidelis Sigmaringensis, sacerdos et martyr",
         "places": "non pertinet",
-        "place_of_death": "Seewis im Prättigau, Helvetia",
+        "place_of_death": "Seewis im Prättigau (Helvetia)",
         "place_of_birth": "Sigmaringen (Germania)",
         "place_of_burial": "Caput eius Feldkirch (nunc in Austria) delatum est, dum reliquum corpus in Cathedrali Curiae (Helvetia) sepultum est, ubi eius reliquiae adhuc quiescunt.",
         "notes": "Fidelis, saeculo Marcus (Sigmaringa, Germania, 1578 - Seewis im Prättigau, Helvetia, 24 Aprilis 1622), cappuccinus, doctor in utroque iure, primam missionem a Congregatione de propaganda fide, adhuc constituenda, in terras ubi Reformatio protestantica diffusa erat, duxit. In gravi tensione interna Rhaetorum, politicis internationalibus pressionibus aggravata, praedicatio religiosorum catholicorum violentas reactiones excitavit, coram quibus Fidelis usque ad mortem testimonium Christo reddidit.",
@@ -2675,7 +2675,7 @@
         "place_of_death": "Ilok, Croatia",
         "place_of_birth": "Capestranum, Aquila (Italia)",
         "place_of_burial": "Ecclesia Franciscana Sancti Ioannis a Capestrano ad Ilok, Croatia",
-        "notes": "Ioannes (Capestranum, Aquila, 24 iunii 1386 - Ilok, Croatia, 23 octobris 1456) reliquit activitatem administrativam et politicam ut fieret franciscanus. Exercuit incessantem ministerium praedicationis in multis nationibus Europae, saepe una cum sancto Bernardino Senensi, et contulit ad ordinationem Fratrum Minorum Observantium. Fecit officium inquisitoris, praesertim contra radicatiores franciscanismi, et peregit missiones politicas pro Sancta Sede. In ultimis annis vitae suae fuit occupatus promovendo expeditionem militarem contra Turcarum progressum, personaliter interveniens ad animandam resistentiam Belgradi, usque ad eius liberationem (iulii 1456).",
+        "notes": "Ioannes (Capestrano, Aquila, 24 Iunii 1386 - Ilok, Croatia, 23 Octobris 1456) reliquit activitatem administrativam et politicam ut Franciscani fieret. Incessabile ministerium praedicationis in multis nationibus Europae explicavit, saepe una cum sancto Bernardino Senensi, et ad Fratrum Minorum Observantium ordinationem contulit. Inquisitoris munus exercuit, praesertim contra radicaliores franciscanismi partes, et missiones politicas pro Sancta Sede perfecit. Ultimis vitae annis expeditionem militarem contra Turcarum progressum promovit, personaliter Belgradensis resistentiam animans, usque ad eius liberationem (Iulii 1456). Cultus eius confirmatus est a Papa Alexandro VIII die 16 Octobris 1690, et confirmatus a Papa Benedicto XIII bulla die 4 Iunii 1724.",
         "patronage": "",
         "main_shrine": "Ecclesia Franciscana Sancti Ioannis a Capestrano ad Ilok, Croatia"
     },
@@ -2781,13 +2781,13 @@
     },
     "StPeterCanisius_396": {
         "subject": "Sanctus Petrus Canisius, sacerdos et doctor",
-        "places": "Friburgum, Helvetia",
-        "place_of_death": "Friburgum, Helvetia",
-        "place_of_birth": "Noviomagus, Nederlandia",
-        "place_of_burial": "Collegium Sancti Michaelis, Friburgum, Helvetia",
+        "places": "Friburgum (Helvetia)",
+        "place_of_death": "Friburgum (Helvetia)",
+        "place_of_birth": "Noviomagus (Batavia)",
+        "place_of_burial": "Collegium Sancti Michaelis (Friburgum, Helvetia)",
         "notes": "Petrus Kanijs – latinizatus in Canisius – (Noviomagus, Nederlandia, 8 Maii 1521 - Friburgum, Helvetia, 21 Decembris 1597), iesuita, fuit auctor restaurationis catholicismi in Germania, post Reformationem protestanticam, cum inceptis formationis et textibus catechismi, praesertim pro iuvenibus et candidatis ad ministerium. Reformator universitatum et promotor seminariorum, assiduus etiam in praedicatione inter rusticas populationes fuit.",
         "patronage": "",
-        "main_shrine": "Collegium Sancti Michaelis, Friburgum, Helvetia"
+        "main_shrine": "Collegium Sancti Michaelis (Friburgum, Helvetia)"
     },
     "StJohnKanty_397": {
         "subject": "Sanctus Ioannes a Kęty, sacerdos",
@@ -2831,13 +2831,13 @@
     },
     "StChristopherMagallanes_408": {
         "subject": "Sanctus Christophorus Magallanes et socii martyres",
-        "places": "Jalisco, Mexicum",
-        "place_of_death": "Colotlán, Mexicum",
-        "place_of_birth": "Totatiche, Mexicum",
-        "place_of_burial": "Sanctuarium Sancti Christophori Magallanes, Jalisco, Mexicum",
+        "places": "Jalisco (Mexicum)",
+        "place_of_death": "Colotlán (Mexicum)",
+        "place_of_birth": "Totatiche (Mexicum)",
+        "place_of_burial": "Sanctuarium Sancti Christophori Magallanes (Jalisco, Mexicum)",
         "notes": "Christophorus (Totatiche, Mexicum, 30 iulii 1869 - Colotlán, 25 maii 1927) parochus et missionarius inter indigenas fuit. In complexa condicione locali – inter persecutionem Status contra Ecclesiam catholicam et consequentia popularia, interdum etiam violenta – testimonio vitae suae sacrificio primatum regni Dei ostendit. Eius figurae memoria viginti quattuor aliorum martyrum, presbyterorum et laicorum, inter 1915 et 1937 occisorum, coniungitur.",
         "patronage": "",
-        "main_shrine": "Sanctuarium Sancti Christophori Magallanes, Jalisco, Mexicum"
+        "main_shrine": "Sanctuarium Sancti Christophori Magallanes (Jalisco, Mexicum)"
     },
     "StRitaCascia_409": {
         "subject": "Sancta Rita de Cascia, religiosa",
@@ -2911,29 +2911,29 @@
     },
     "StAndrewKimTaegon_418": {
         "subject": "Sancti Andreas Kim Taegon, sacerdos, Paulus Chong Hasang et socii martyres",
-        "places": "Seul, Corea Meridiana",
-        "place_of_death": "Saenamteo, Seoul, Corea Meridiana",
-        "place_of_birth": "Solmoi (Seoul), Corea Meridiana",
-        "place_of_burial": "Cathedrale Myeongdong",
+        "places": "Seul (Corea Meridionalis)",
+        "place_of_death": "Saenamteo (Seul, Corea Meridionalis)",
+        "place_of_birth": "Solmoi (Seul, Corea Meridionalis)",
+        "place_of_burial": "Cathedralis Myeongdong (Seul, Corea Meridionalis)",
         "notes": "Andreas (1821 - Seul, Corea Meridionalis, 16 Septembris 1846) fuit primus presbyter Ecclesiae Coreanae, per plus quam dimidium saeculum solum ex laicis compositae; inter hos catechista Paulus, decem annis ante persecutionis victimam, a gubernatoribus susceptae propter timorem infiltrationum exterarum in traditiones culturales et religiosas locales. Memoriae Andreae et Pauli associantur alii centum unus martyres, inter quos duo episcopi Europaei, Laurentius Imbert et Simeon Berneux. Plus quam decem milia Christianorum, diversis temporibus, per saeculum XIX, sanguine illam iuvenem Ecclesiam fecundaverunt. Ipsa orta est circa finem saeculi XVIII ex spontaneo occursu cum christianismo Sinensi, deinde crevit etiam gratia adventus nonnullorum missionariorum ex Occidente, primis decenniis saeculi XIX. Luminosa historia Ecclesiae Coreanae et martyrum eius est igitur clara testimonium occultae sed efficacis actionis Spiritus Sancti, etiam in condicionibus difficillimis pro communitate christiana.",
         "patronage": "",
-        "main_shrine": "Sanctuarium Martyrum Saenamteo, Seoul, Corea Meridiana"
+        "main_shrine": "Sanctuaria Martyrum Saenamteo (Seul, Corea Meridionalis)"
     },
     "StsLawrenceRuiz_419": {
         "subject": "Sancti Laurentius Ruiz et socii martyres",
-        "places": "Manila, Philippinae; Nagasaki (Iaponia)",
+        "places": "Manila (Philippinae); Nagasaki (Iaponia)",
         "place_of_death": "Nagasaki (Iaponia)",
-        "place_of_birth": "Binondo (hodierna Manila), Philippinae",
-        "place_of_burial": "Nishizaka Park, Nagasaki (Iaponia)",
+        "place_of_birth": "Binondo (hodierna Manila, Philippinae)",
+        "place_of_burial": "Parcus Nishizaka (Nagasaki, Iaponia)",
         "notes": "Laurentius (Binondo, hodierna Manila, Philippinae, circiter 1600 - Nagasaki (Iaponia), 29 Septembris 1637), laicus et paterfamilias, missioni dominicanae quae ex Philippinis Iaponiam pervenit interfuit, ubi captus et ad crudelem mortem damnatus est. Fides christiana, a sancto Francisco Xaverio in Iaponiam introducta, initio accepta et a quibusdam dominis localibus fovebatur. Post politicam unificationem terrae, primis annis saeculi XVII, christiani incipiebant suspicari de favendis commodis potentiarum externarum, praesertim Hispaniae, quae Philippinas occupaverat. Una cum Laurentio commemorantur alii quindecim martyres - novem sacerdotes et sex laici, variae originis, omnes diversis titulis Ordini dominicano aggregati - qui inter 1633 et 1637 occisi sunt, in eadem colle quae iam passionem protomartyrum Iaponensium Pauli Miki et sociorum anno 1597 viderat.",
         "patronage": "",
-        "main_shrine": "Ecclesia Sancti Philippi (Ecclesia Nishizaka), Nagasaki (Iaponia)"
+        "main_shrine": "Ecclesia Sancti Philippi (Ecclesia Nishizaka, Nagasaki, Iaponia)"
     },
     "StAndrewDungLac_420": {
         "subject": "Sanctus Andreas Dung-Lac et socii martyres",
-        "places": "Hanoi, Vietnamia; Hà Nam, Vietnamia",
-        "place_of_death": "Hanoi, Vietnamia",
-        "place_of_birth": "Bac Ninh, Vietnamia",
+        "places": "Hanoi (Vietnam); Hà Nam (Vietnam)",
+        "place_of_death": "Hanoi (Vietnam)",
+        "place_of_birth": "Bac Ninh (Vietnam)",
         "place_of_burial": "Nhà Thờ Giáo Xứ Lan Mát (Basilica Immaculatae Conceptionis, Hà Nam, Vietnamia)",
         "notes": "Andreas Dung († Hanoi, Vietnamia, 21 decembris 1839), filius parentum paganorum in extrema paupertate, a pueritia venditus est catechistae catholico; baptizatus et in fide instructus, ipse catechista factus est, deinde presbyter. Primo captus ut christianus, deinde liberatus, conatus est se celare sub novo cognomine Lac. Iterum detectus et captus, fidem suam usque ad mortem testatus est. Cum eo commemorantur alii 116 martyres, inter episcopos, presbyteros et laicos, plerique Vietnamenses, variarum persecutionum inter 1745 et 1862 victimae. Ecclesia Vietnamensis, ex primo nuntio a Iesuitis initio saeculi XVII allato orta, magnum incrementum habuit sed fortes resistentias a culturis et religionibus localibus obvenerunt, facta obiectum repetitarum persecutionum, cum innumerabili multitudine martyrum (aestimati 130.000).",
         "patronage": "",
@@ -2944,10 +2944,10 @@
         "places": "non pertinet",
         "place_of_death": "Lugdunum (Francia)",
         "place_of_birth": "Sales (Gallia)",
-        "place_of_burial": "Basilica Visitationis, Annecy (Francia)",
+        "place_of_burial": "Basilica Visitationis (Annecy, Gallia)",
         "notes": "Franciscus (Sales, Gallia, 1567 - Lugdunum, 28 Decembris 1622), episcopus Genevensis (Helvetia) cum sede Annecii (Gallia), humanitate sua dulcedine et sapientia pastorali, unitatem Ecclesiae in territorio acribus contentionibus inter catholicos et calvinistas insignito fovit. Cum Introductione ad vitam devotam et aliis operibus ascetico-mysticis viam sanctitatis in omnibus vitae condicionibus accessibilem proposuit, quippe quae tota in Dei amore fundata sit, compendium omnis perfectionis. Cum sancta Ioanna Francisca Frémyot de Chantal Ordinem femininum Visitationis condidit. Dies memoriae liturgicae eius correspondet diei sepulturae Annecii. Una cum Sancto Francisco Salesio, etiam Sancta Ioanna Francisca Frémiot de Chantal in eadem ecclesia visitationis Annecii sepulta est.",
         "patronage": "",
-        "main_shrine": "Basilica Visitationis, Annecy (Francia)"
+        "main_shrine": "Basilica Visitationis (Annecy, Gallia)"
     },
     "StCatherineSiena_486": {
         "subject": "Sancta Catharina Senensis, virgo et doctor Ecclesiae",
@@ -2961,19 +2961,19 @@
     },
     "StAnthonyPadua_489": {
         "subject": "Sanctus Antonius Patavinus, sacerdos et doctor",
-        "places": "Olisipo (Portugallia); Eremus Montis Pauli, Forum Livii; Ariminum; Patavium",
+        "places": "Olisipo (Lusitania); Eremus Montis Pauli (Forum Livii, Italia); Ariminum (Italia); Patavium (Italia)",
         "place_of_death": "Patavium (Italia)",
         "place_of_birth": "Olisipo (Portugallia)",
-        "place_of_burial": "Basilica Sancti Antonii, Patavium (Italia)",
+        "place_of_burial": "Basilica Sancti Antonii (Patavium, Italia)",
         "notes": "Antonius, saeculo Ferdinandus (Olisipo, Lusitania, 1190/1195 ca. - Patavium, 13 Iunii 1231), post intensam vitam asceticam apud Canonicos regulares Augustinianos Conimbricenses, inter Fratres Minores ingressus est cum desiderio, non impleto propter morbum, proficiscendi in missionem in Marochum. Primus franciscanus fuit qui theologiam docuit, cum consensu ipsius sancti Francisci. Magna biblica cultura et efficax Evangelii praedicator, ministerium exercuit in Italia septentrionali et in Gallia meridionali, multas conversiones excitans. Vitam suam Patavii conclusit, ubi ad pacificationem civitatis contulit: ibi reliquiae eius mortales remanserunt, magna veneratione affectae.",
         "patronage": "",
-        "main_shrine": "Basilica Sancti Antonii, Patavium (Italia)"
+        "main_shrine": "Basilica Sancti Antonii (Patavium, Italia)"
     },
     "StBonaventure_491": {
         "subject": "Sanctus Bonaventura, episcopus et doctor",
         "places": "Lugdunum (Francia); Balneoregium (Italia)",
         "place_of_death": "Lugdunum (Francia)",
-        "place_of_birth": "Civitas Balneoregi, Viterbium",
+        "place_of_birth": "Civitas Bagnoregio (Viterbium, Italia)",
         "place_of_burial": "http://www.doctorseraphicus.it/images/annate/1958_67-81_Petrangeli_Papini.pdf",
         "notes": "Bonaventura (Civitas Balneoregi, Viterbium, 1217 ca. - Lugdunum, Gallia, 15 iulii 1274), ingressus est Ordinem Fratrum Minorum studiis perficiendis Lutetiae. Theologus, se dedit docendi, opera sapientiae inspirationis producens, inter quae Itinerarium mentis in Deum. Minister generalis, ordinavit leges priores novas Constitutiones promulgans (Narbo, 1260) et, cum sua opera hagiographica (Legenda maior et Legenda minor, scripta – haec ultima – pro officiatura liturgica), proposuit visionem unitariam figurae sancti Francisci. Episcopus Albanensis et cardinalis, interfuit Concilio Lugdunensi II durante quo, subito, transivit ab Ecclesia terrena ad coetum caelestem.",
         "patronage": "",
@@ -2991,13 +2991,13 @@
     },
     "StAlphonsusMariaDeLiguori_494": {
         "subject": "Sanctus Alphonsus Maria de Liguori, episcopus et doctor",
-        "places": "Marianella, Neapolis; Pagani, Salernum",
+        "places": "Marianella (Neapolis, Italia); Pagani (Salernum, Italia)",
         "place_of_death": "Pagani (Salernum, Italia)",
         "place_of_birth": "Marianella (Neapolis, Italia)",
         "place_of_burial": "Basilica pontificia Sancti Alphonsi Mariae de Liguori, Pagani",
         "notes": "Alphonsus (Marianella, Neapolis, 27 Septembris 1696 - Pagani, Salernum, 1 Augusti 1787), in iuventute Oratorio Philippino et incurabilibus aegrotis assistentiae appropinquans, professionem forensem reliquit et presbyter ordinatus est. Simplici stilo in pauperrimis Neapolis regionibus et in communitatibus ruralibus praedicavit, devotiones religiosae sensu divites promovens. Ad missiones populo augendas, Congregationem Sanctissimi Redemptoris (Redemptoristas) fundavit. Episcopus Sanctae Agathae Gothorum (Beneventum), cleri formationi peculiariter se dedidit. Cum suis multis scriptis et cantibus dulci melodia populari fidelium spiritualitatem aluit et ad aequatam praeparationem theologico-moralem confessariorum contulit.",
         "patronage": "",
-        "main_shrine": "Basilica pontificia Sancti Alphonsi Mariae de Liguori, Pagani"
+        "main_shrine": "Basilica pontificia Sancti Alfonsi Mariae de' Liguori (Pagani, Italia)"
     },
     "StBernardClairvaux_495": {
         "subject": "Sanctus Bernardus Claraevallensis, abbas et Ecclesiae doctor",
@@ -3013,11 +3013,11 @@
         "subject": "Sanctus Robertus Bellarminus, episcopus et doctor",
         "places": "non pertinet",
         "place_of_death": "Roma (Italia)",
-        "place_of_birth": "Mons Politianus, Sena Iulia (Italia)",
-        "place_of_burial": "Ecclesia Sancti Ignatii, Roma (Italia)",
+        "place_of_birth": "Mons Politianus (Sena, Italia)",
+        "place_of_burial": "Ecclesia Sancti Ignatii (Roma, Italia)",
         "notes": "Robertus (Mons Politianus, Sena, 4 Octobris 1542 - Roma, 17 Septembris 1621), iesuita, suam insignem competentiam theologicam tam in complexis controversiis doctrinalibus (Disputationes de controversiis christianae fidei), quam in catechismo populari redigendo adhibuit. Cardinalis et archiepiscopus Capuanus, exemplarem applicationem Concilii Tridentini dedit, donec gravia munera Romana eum ad dioecesim relinquendam impulerunt ut se totum Ecclesiae universali servitio dedicaret.",
         "patronage": "",
-        "main_shrine": "Ecclesia Sancti Ignatii, Roma (Italia)"
+        "main_shrine": "Ecclesia Sancti Ignatii (Roma, Italia)"
     },
     "StTeresaJesus_499": {
         "subject": "Sancta Teresia Abulensis, virgo et doctor",
@@ -3051,17 +3051,17 @@
     },
     "StPeterCanisius_504": {
         "subject": "Sanctus Petrus Canisius, sacerdos et doctor",
-        "places": "Friburgum, Helvetia",
-        "place_of_death": "Friburgum, Helvetia",
-        "place_of_birth": "Noviomagus, Nederlandia",
-        "place_of_burial": "Collegium Sancti Michaelis, Friburgum, Helvetia",
+        "places": "Friburgum (Helvetia)",
+        "place_of_death": "Friburgum (Helvetia)",
+        "place_of_birth": "Noviomagus (Batavia)",
+        "place_of_burial": "Collegium Sancti Michaelis (Friburgum, Helvetia)",
         "notes": "Petrus Kanijs – latinizatus in Canisius – (Noviomagus, Nederlandia, 8 Maii 1521 - Friburgum, Helvetia, 21 Decembris 1597), iesuita, fuit auctor restaurationis catholicismi in Germania, post Reformationem protestanticam, cum inceptis formationis et textibus catechismi, praesertim pro iuvenibus et candidatis ad ministerium. Reformator universitatum et promotor seminariorum, assiduus etiam in praedicatione inter rusticas populationes fuit.",
         "patronage": "",
-        "main_shrine": "Collegium Sancti Michaelis, Friburgum, Helvetia"
+        "main_shrine": "Collegium Sancti Michaelis (Friburgum, Helvetia)"
     },
     "StPaulVI_544": {
         "subject": "Sanctus Paulus VI, Papa",
-        "places": "Concesium, Mediolanum, Roma",
+        "places": "Concesium (Italia); Mediolanum (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Concesio (Italia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
@@ -3071,7 +3071,7 @@
     },
     "StPaulVI_545": {
         "subject": "Sanctus Paulus VI, Papa",
-        "places": "Concesium, Mediolanum, Roma",
+        "places": "Concesium (Italia); Mediolanum (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Concesium (Italia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
@@ -3092,16 +3092,16 @@
     "StPioPietrelcina_547": {
         "subject": "Sanctus Pius a Pietrelcina (Pater Pius), presbyter",
         "places": "Pietrelcina (Italia); Sanctus Ioannes Rotundus (Italia)",
-        "place_of_death": "Sanctus Ioannes Rotundus, Foggia (Italia)",
-        "place_of_birth": "Pietrelcina, Beneventum (Italia)",
+        "place_of_death": "Sanctus Ioannes Rotundus (Foggia, Italia)",
+        "place_of_birth": "Pietrelcina (Beneventum, Italia)",
         "place_of_burial": "Sanctus Ioannes Rotundus (Italia)",
         "notes": "Pius, saeculo Franciscus Forgione (Pietrelcina, Beneventum, 25 Maii 1887 - Sanctus Ioannes Rotundus, Foggia, 23 Septembris 1968), cappuccinus et presbyter, ministerium suum in conventu Sancti Ioannis Rotundi egit. Hic multos homines ad occursum cum Deo in sacramentis Reconciliationis et Eucharistiae duxit. Pater spiritualis illuminatus multis fidelibus fuit. Cum «Domus solacii doloris» auxilium et solatium aegrotis praebere voluit. Intima eius adhaesio Christo crucifixo etiam in signo exteriori stigmatum expressa est.",
         "patronage": "",
-        "main_shrine": "Sanctuarium Sancti Pii a Pietrelcina, Sanctus Ioannes Rotundus (Italia)"
+        "main_shrine": "Sanctuarium Sancti Pii a Pietrelcina (San Giovanni Rotondo, Italia)"
     },
     "StJohnXXIII_548": {
         "subject": "Sanctus Ioannes XXIII, papa",
-        "places": "Sub Monte, Bergomum (Italia); Roma (Italia)",
+        "places": "Sub Monte (Bergomum, Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Sub Monte (Bergomum, Italia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
@@ -3111,7 +3111,7 @@
     },
     "StJohnXXIII_549": {
         "subject": "Sanctus Ioannes XXIII, papa",
-        "places": "Sub Monte, Bergomum (Italia); Roma (Italia)",
+        "places": "Sub Monte (Bergomum, Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Sub Monte (Bergomum, Italia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
@@ -3127,7 +3127,7 @@
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
         "notes": "Carolus Iosephus Wojtyla (Wadowice, Polonia, 18 Maii 1920 - Roma, 2 Aprilis 2005), presbyter ordinatus est die 1 Novembris 1946. Professor theologiae moralis (Lublinum), electus est auxiliaris et postea archiepiscopus Cracoviae (1964) annis durae repressionis regiminis communistarum. Participavit in Concilio Vaticano II. Electus est papa (1978) post breve pontificatum Ioannis Pauli I, nomen duplex assumpsit. Crescenti saecularizationi opposuit centralitatem Christi missionem Ecclesiae renovans, tum per numerosos apostolicos itinera per totum orbem, tum per proclamationem beatorum vel sanctorum innumerabilium testium fidei. Promovit dialogum oecumenicum et dialogum interreligiosum evolvit. Magno Iubilaeo anni 2000 Ecclesiam in tertium millennium suae historiae introduxit.",
         "patronage": "",
-        "main_shrine": "Basilica Sancti Petri in Vaticano; Sacellum Sancti Ioannis Pauli II, Cracovia"
+        "main_shrine": "Basilica Sancti Petri in Vaticano; Sacellum Sancti Ioannis Pauli II (Cracovia, Polonia)"
     },
     "StJohnPaulII_551": {
         "subject": "Sanctus Ioannes Paulus II, papa",
@@ -3137,27 +3137,27 @@
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
         "notes": "Carolus Iosephus Wojtyla (Wadowice, Polonia, 18 Maii 1920 - Roma, 2 Aprilis 2005), presbyter ordinatus est die 1 Novembris 1946. Professor theologiae moralis (Lublinum), electus est auxiliaris et postea archiepiscopus Cracoviae (1964) annis durae repressionis regiminis communistarum. Participavit in Concilio Vaticano II. Electus est papa (1978) post breve pontificatum Ioannis Pauli I, nomen duplex assumpsit. Crescenti saecularizationi opposuit centralitatem Christi missionem Ecclesiae renovans, tum per numerosos apostolicos itinera per totum orbem, tum per proclamationem beatorum vel sanctorum innumerabilium testium fidei. Promovit dialogum oecumenicum et dialogum interreligiosum evolvit. Magno Iubilaeo anni 2000 Ecclesiam in tertium millennium suae historiae introduxit.",
         "patronage": "",
-        "main_shrine": "Basilica Sancti Petri in Vaticano; Sacellum Sancti Ioannis Pauli II, Cracovia"
+        "main_shrine": "Basilica Sancti Petri in Vaticano; Sacellum Sancti Ioannis Pauli II (Cracovia, Polonia)"
     },
     "JuanDiego_552": {
         "subject": "Sanctus Ioannes Didacus Cuauhtlatoatzin",
-        "places": "Mexicopolis, Mexicum",
-        "place_of_death": "Mexicopolis, Mexicum",
-        "place_of_birth": "Cuautitlán, Mexicum",
-        "place_of_burial": "Basilica Nostrae Dominae de Guadalupe, Mexicopolis, Mexicum",
+        "places": "Mexicopolis (Mexicum)",
+        "place_of_death": "Mexicopolis (Mexicum)",
+        "place_of_birth": "Cuautitlán (Mexicum)",
+        "place_of_burial": "Basilica Nostrae Dominae de Guadalupe (Mexicopolis, Mexicum)",
         "notes": "Ioannes Didacus (Cuautitlán, Mexicum, 1474 - Mexicopolis 1548) fuit, cum uxore, inter primos indigenas qui Baptismum acceperunt adventu missionariorum franciscanorum. Viduitate relicta, vitam spiritualem auxit. Die 9 Decembris 1531, in colle Tepeyac (hodie in Mexicopoli), visionem Virginis habuit. Obsequens Morenitae, prima capella erecta est apud quam vates mansit, ecclesiae curae et peregrinorum numerosi qui ad locum confluebant se dedicans.",
         "patronage": "",
-        "main_shrine": "Basilica Nostrae Dominae de Guadalupe, Mexicopolis, Mexicum"
+        "main_shrine": "Basilica Nostrae Dominae de Guadalupe (Mexicopolis, Mexicum)"
     },
     "JuanDiego_553": {
         "subject": "Sanctus Ioannes Didacus Cuauhtlatoatzin",
-        "places": "Mexicopolis, Mexicum",
-        "place_of_death": "Mexicopolis, Mexicum",
-        "place_of_birth": "Cuautitlán, Mexicum",
-        "place_of_burial": "Basilica Nostrae Dominae de Guadalupe, Mexicopolis, Mexicum",
+        "places": "Mexicopolis (Mexicum)",
+        "place_of_death": "Mexicopolis (Mexicum)",
+        "place_of_birth": "Cuautitlán (Mexicum)",
+        "place_of_burial": "Basilica Nostrae Dominae de Guadalupe (Mexicopolis, Mexicum)",
         "notes": "Ioannes Didacus (Cuautitlán, Mexicum, 1474 - Mexicopolis 1548) fuit, cum uxore, inter primos indos qui Baptismum acceperunt adventu missionariorum franciscanorum. Viduitate relicta, vitam spiritualem suam intensificavit. Die 9 Decembris 1531, in colle Tepeyac (hodie in Mexicopoli), visionem Virginis habuit. Obedientia Morenitae, prima cappella erecta est apud quam vates mansit, se dedicans curae ecclesiae et susceptioni numerosi peregrinorum qui ad locum illum affluere coeperunt.",
         "patronage": "",
-        "main_shrine": "Basilica Nostrae Dominae de Guadalupe, Mexicopolis, Mexicum"
+        "main_shrine": "Basilica Nostrae Dominae de Guadalupe (Mexicopolis, Mexicum)"
     },
     "LadyLoreto_554": {
         "subject": "Beata Virgo Maria de Loreto",
@@ -3174,20 +3174,20 @@
         "places": "Wadowice (Polonia)",
         "place_of_death": "Wadowice (Polonia)",
         "place_of_birth": "Głogowiec (Polonia)",
-        "place_of_burial": "Sacellum Divinae Misericordiae Cracoviae (Polonia)",
+        "place_of_burial": "Sanctuarium Divinae Misericordiae (Cracovia, Polonia)",
         "notes": "Nata in vico Głogowiec, prope Łódź, in Polonia anno 1905, et mortua Cracoviae anno 1938, sancta Faustina consumpsit suam iuvenem vitam inter Sorores Beatae Mariae Virginis de Misericordia, generose conformans vocationi a Deo acceptae et maturans intensam vitam spiritualem, divitem mysticis donis et fidelibus responsionibus ad ea. Narrationem de iis quae Dominus in ea operatus est ad beneficium omnium, ipsa descripsit in Diario animae suae, sanctuario occursus cum Domino Iesu: audiens Eum qui est Amor et Misericordia, intellexit nullam humanam miseriam posse comparari cum misericordia quae inexhausta fluit ex corde Christi. Facta est igitur inspiratrix motus ad proclamandam et implorandam divinam misericordiam pro toto mundo. Canonizata anno 2000 a sancto Ioanne Paulo II, nomen sanctae Faustinae cito notum factum est in toto orbe, promovens in omnibus partibus populi Dei, Pastoribus et fidelibus laicis, invocationem divinae misericordiae et eius credibile testimonium in vita credentium.",
         "patronage": "",
-        "main_shrine": "Sacellum Divinae Misericordiae Cracoviae (Polonia)"
+        "main_shrine": "Sanctuarium Divinae Misericordiae (Cracovia, Polonia)"
     },
     "StFaustinaKowalska_558": {
         "subject": "Sancta Faustina Kowalska",
         "places": "Cracovia (Polonia)",
         "place_of_death": "Wadowice (Polonia)",
         "place_of_birth": "Głogowiec (Polonia)",
-        "place_of_burial": "Sanctuarium Divinae Misericordiae Cracoviae (Polonia)",
+        "place_of_burial": "Sanctuarium Divinae Misericordiae (Cracovia, Polonia)",
         "notes": "Nata in vico Głogowiec, prope Łódź, in Polonia anno 1905, et mortua Cracoviae anno 1938, sancta Faustina consumpsit suam iuvenem vitam inter Sorores Beatae Mariae Virginis de Misericordia, generose conformans vocationi a Deo acceptae et maturans intensam vitam spiritualem, divitem mysticis donis et fidelibus responsionibus ad ea. Narrationem de iis quae Dominus in ea operatus est ad beneficium omnium, ipsa descripsit in Diario animae suae, sanctuario occursus cum Domino Iesu: audiens Eum qui est Amor et Misericordia, intellexit nullam humanam miseriam posse comparari cum misericordia quae inexhausta fluit ex corde Christi. Facta est igitur inspiratrix motus ad proclamandam et implorandam divinam misericordiam pro toto mundo. Canonizata anno 2000 a sancto Ioanne Paulo II, nomen sanctae Faustinae cito notum factum est in toto orbe, promovens in omnibus partibus populi Dei, Pastoribus et fidelibus laicis, invocationem divinae misericordiae et eius credibile testimonium in vita credentium.",
         "patronage": "",
-        "main_shrine": "Sacellum Divinae Misericordiae Cracoviae (Polonia)"
+        "main_shrine": "Sanctuarium Divinae Misericordiae (Cracovia, Polonia)"
     },
     "StGregoryNarek_559": {
         "subject": "Sanctus Gregorius Narekensis",
@@ -3291,9 +3291,9 @@
     },
     "StAugustineHippo_569": {
         "subject": "Sanctus Augustinus Hipponensis, episcopus et doctor Ecclesiae",
-        "places": "Souk Ahras, Annaba (Algeria); Roma; sepultus Basilica Sancti Petri in Caelo Aureo (Papia, Italia)",
-        "place_of_death": "Hippo, Annaba, Algeria",
-        "place_of_birth": "Tagaste (nunc Souk Ahras, Algeria)",
+        "places": "Tagaste (hodierna Souk Ahras, Algeria); Hippo (hodierna Annaba, Algeria); Ostia antiqua (Roma, Italia); Roma (Italia); Mediolanum (Italia); Cassago Brianza (Italia); Papia (Italia)",
+        "place_of_death": "Hippo (hodierna Annaba, Algeria)",
+        "place_of_birth": "Tagaste (hodierna Souk Ahras, Algeria)",
         "place_of_burial": "Basilica Sancti Petri in Caelo Aureo (Papia, Italia)",
         "notes": "Augustinus (Tagaste, nunc Souk Ahras, Algeria, 13 novembris 354 - Hippo, nunc Annaba, 28 augusti 430), patre pagano et matre christiana, ad studia litteraria avocatus est. Post tempus iuvenilis erroris, veritatem ardenter quaerere coepit, adhaerens christianismo manichaeo. Rhetoricae professor Mediolani, sanctum Ambrosium convenit, cuius praedicationem audivit et a quo Baptismum accepit. In Africam reversus et episcopus Hipponensis electus, cum clero suo in communitate monastica vixit; regula ab eo composita textus referentialis multis institutis vitae consecratae in Occidente facta est. Ministerium exercens, praesertim praedicationis, fidei investigationem et defensionem constanter adiunxit, corpus operum tanta amplitudine et profunditate producens ut una ex fecundissimis hereditatibus traditionis christianae antiquae fieret. Eius reliquiae mortales, ut videtur, in cathedrali \"Basilica Pacis\" depositae sunt et a christianis Hipponensibus diligenter custoditae, ut narrat Possidius, primus biographus eius, in vita quam amanter scripsit et cuius hodie (ab anno 1955) editionem criticam habemus, a professore litterarum christianarum, hodie Card. Michaele Pellegrino (Augustinus Trapè, Bibliotheca Sanctorum, vol. 1, col. 433). Postea corpus S. Augustini ab Hippo in Sardiniam et a Sardinia in Papiam translatum est, ubi adhuc requiescit. Ergo etiam ossa Sancti episcopi suam tribulationem habuerunt! Hae duae translationes certissimae sunt et diversis auctoribus documentatae. Difficilius est duas datas et circumstantias particulares documentare.",
         "patronage": "",
@@ -3301,17 +3301,17 @@
     },
     "StJerome_570": {
         "subject": "Sanctus Hieronymus, presbyter et doctor",
-        "places": "Roma (Italia); Bethlehem, Palestina",
-        "place_of_death": "Bethlehem, Palaestina",
-        "place_of_birth": "Stridon, antiqua Dalmatia",
+        "places": "Roma (Italia); Bethlehem (Palaestina)",
+        "place_of_death": "Bethlehem (Palaestina)",
+        "place_of_birth": "Stridon (antiqua Dalmatia)",
         "place_of_burial": "Basilica Sanctae Mariae Maioris, urna sub altari maiore",
         "notes": "Hieronymus (Stridon, antiqua Dalmatia, 347 circiter - Bethlehem, Palaestina, 30 septembris 420), amplissima cultura praeditus, post tempus vitae eremiticae in Oriente, collaboravit cum papa Damaso Romae. Deinde Bethlehem se contulit, orationi, paenitentiae et directioni coetuum vitae asceticae se dedicavit. Praeter scripta eruditionis et commentarios biblicos componens, grandem operam revisionis translationis Bibliorum in linguam latinam suscepit. Textus ab eo praeparati, in Vulgatam conflati, pars essentialis traditionis liturgicae, theologicae et iuridicae Ecclesiae occidentalis facti sunt. Die 30 septembris in Martyrologio Hieronymiano (saec. V-VI) commemoratur.",
         "patronage": "",
-        "main_shrine": "Ecclesia Sanctae Catharinae, Bethlehem"
+        "main_shrine": "Ecclesia Sanctae Catharinae (Bethlehem, Palaestina)"
     },
     "StGregoryGreat_571": {
         "subject": "Sanctus Gregorius Magnus, papa et doctor",
-        "places": "Roma",
+        "places": "Senenses (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Roma (Italia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
@@ -3451,13 +3451,13 @@
     },
     "Guadalupe_555": {
         "subject": "Beata Virgo Maria de Guadalupe",
-        "places": "Mexicopolis, Mexicum",
+        "places": "Mexicopolis (Mexicum)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
         "notes": "Die 9 Decembris 1531, Ioannes Didacus, aztecus indus inter primos ad christianismum conversos initio conquisitionis Hispanicae Mexici, ad pedes collis Tepeyac (hodie in Mexicopoli) pervenit. Ibi visionem habuit «Dominae pulcherrimae», quae se praesentavit ut «sancta Virgo Maria, Mater veri Dei» et petivit ut ecclesia sibi in illo loco erigeretur, promittens omnibus suam amorem et auxilium manifestare. Coram resistentia episcopi, Morenita die 12 Decembris imaginem suam impressit in tilma Ioannis Didaci. Hoc signo miraculoso convictus, episcopus primum sanctuarium erexit (1553), dictum «de Guadalupe» sicut illud iam exsistens in Hispania a saeculo XIV. Aedificium iterum atque iterum amplificatum est ut crescentes peregrinorum numeros acciperet, attractos imagine miraculosa. Madonna de Guadalupe agnita est ab Ecclesiis illius continentis ut «magna missionaria quae Evangelium ad nostram Americam attulit» (Documentum Aparecida, 269).",
         "patronage": "",
-        "main_shrine": "Basilica Nostrae Dominae de Guadalupe, Urbs Mexicopolis, Mexicum"
+        "main_shrine": "Basilica Nostrae Dominae de Guadalupe (Mexicopolis, Mexicum)"
     },
     "LadyLourdes_585": {
         "subject": "Beata Maria Virgo de Lourdes",
@@ -3690,23 +3690,23 @@
         "main_shrine": "Ecclesia Sanctae Mariae de Zeitoun (Cairo, Aegyptus)"
     },
     "StMarkEvangelist_608": {
-        "subject": "",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
-        "notes": "",
+        "subject": "Sanctus Marcus Evangelista",
+        "places": "Venetiae (Italia); Alexandria (Aegyptus); Cairo (Aegyptus); Roma (Italia)",
+        "place_of_death": "Alexandria (Aegyptus)",
+        "place_of_birth": "Palaestina aut Cyprus",
+        "place_of_burial": "Initio eius reliquiae in ecclesia Alexandriae veneratae sunt, quae in loco antiquissimi mausolei Alexandri Magni aedificata erat. Saeculo VII eius reliquiae Venetias translatae sunt. Cathedralis Sancti Marci Cairi aliquas reliquias conservat, quae ex Basilica Sancti Marci Venetiarum translatae sunt.",
+        "notes": "Ioannes, dictus Marcus, est filius Mariae Hierosolymitanae, in cuius domo communitas christiana congregatur et ubi Petrus post liberationem e carcere refugium invenit (cf. At 12, 12). Consobrinus Barnabae, cooperatur cum Paulo in primo itinere missionario, usque in Pamphyliam, ubi ab eo separatur (cf. At 12, 25; 15, 37-38). Discipulus dilectus Petri – qui eum «filium meum» appellat (1 Pt 5, 13) –, iterum ad latus Pauli Romae apparet (cf. Fm 24; Col 4, 10). Marco traditio Evangelium quod nomen eius fert attribuit, quod praedicationem apostoli Petri resonat. In eo, Iesus ut «Christus, Filius Dei» (Mc 1, 1) praesentatur et proclamatur Crucifixum resurrexisse (cf. Mc 16, 6). Festum eius celebratur die 25 Aprilis etiam a Coptis et Byzantinis.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Basilica Sancti Marci (Venetiae, Italia); Cathedralis Sancti Marci (Cairus, Aegyptus)"
     },
     "StThomasMore_609": {
-        "subject": "",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
-        "notes": "",
+        "subject": "Sanctus Thomas More, martyr",
+        "places": "Londinium (Regnum Unitum)",
+        "place_of_death": "Londinium (Regnum Unitum)",
+        "place_of_birth": "Londinium (Regnum Unitum)",
+        "place_of_burial": "Ecclesia Sancti Petri ad Vincula (Londinium, Regnum Unitum)",
+        "notes": "Thomas Morus (Londinium, 7 februarii 1477 - 22 iunii 1535), laicus magnae culturae et experientiae politicae, fuit cancellarius regni. Una cum episcopo Ioanne Fisher opposuit conatum regis Henrici VIII obtinendi a Roma dissolutionem matrimonii sui et, praesertim, eius praetensionem se ponendi caput Ecclesiae Anglicanae, frangendo communionem ecclesialem. Ambo morti addicti sunt propter eorum constantem testimonium.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Ecclesia Sancti Petri ad Vincula (Londinium, Regnum Unitum)"
     }
 }
