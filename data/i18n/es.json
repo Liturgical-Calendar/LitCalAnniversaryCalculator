@@ -91,8 +91,8 @@
     },
     "StPaulApostle_10": {
         "subject": "San Pablo, apóstol",
-        "places": "Iglesia de San Pablo alla Regola, Roma Iglesia de Santa María in Via Lata, Roma; GRECIA; TURQUÍA",
-        "place_of_death": "Santuario de las Tres Fuentes, Roma",
+        "places": "Iglesia de San Pablo alla Regola (Roma, Italia); Iglesia de Santa María in Via Lata (Roma, Italia); Grecia; Turquía; Siria",
+        "place_of_death": "Santuario de las Tres Fuentes (Roma, Italia)",
         "place_of_birth": "Tarso (Turquía) https://www.google.com/maps/place/36%C2%B055'00.0%22N+34%C2%B054'00.0%22E/@36.9546925,34.8770442,11.25z/data=!4m5!3m4!1s0x0:0x0!8m2!3d36.916667!4d34.9",
         "place_of_burial": "Basílica de San Pablo Extramuros, Roma",
         "notes": "Pablo de Tarso, conquistado por Cristo en el camino a Damasco (cf. Hch 9, 1-19; Flp 3, 12), consagra todo su ser al servicio de la inteligencia y al anuncio de la nueva existencia que él vive en Cristo Jesús su Señor (cf. Ef 3, 1-4; 1 Cor 9, 16; Rm 6, 4; Gal 2, 20). Ambos apóstoles, que «de diferentes maneras han reunido a la única familia de Cristo» (Prefacio), sellaron su testimonio a Cristo con el martirio en Roma, en los años sesenta del primer siglo. En la Depositio martyrum (336) se les recuerda juntos el 29 de junio.",
@@ -567,7 +567,7 @@
         "place_of_burial": "Iglesia de Santa María in Vallicella o \"Chiesa Nuova\" (Roma, Italia)",
         "notes": "Felipe (Florencia, 21 de julio de 1515 - Roma, 26 de mayo de 1595), llegado a Roma a una edad temprana, se dedicó a la asistencia de los enfermos incurables y de los peregrinos pobres. Ordenado presbítero, fue asiduo al confesionario y celebró la Eucaristía con intensa devoción, hasta el transporte místico. De los encuentros periódicos con un grupo de sus penitentes – que él entretenía, con estilo alegre, en diálogos espirituales y en actividades recreativas, culturales y caritativas – nacieron la experiencia del «Oratorio» y la Congregación de sacerdotes que lleva el mismo nombre, reconocida por Gregorio XIII el 15 de julio de 1575.",
         "patronage": "",
-        "main_shrine": "Chiesa Nuova (Roma, Italia)"
+        "main_shrine": "Iglesia de Santa María in Vallicella o \"Chiesa Nuova\" (Roma, Italia)"
     },
     "StAugustineCanterbury_62": {
         "subject": "San Agustín de Canterbury, obispo",
@@ -1981,7 +1981,7 @@
     },
     "StGregoryNazianzen_207": {
         "subject": "San Gregorio Nacianceno",
-        "places": "Capadocia, Constantinopla (Turquía), Roma (Italia)",
+        "places": "Capadocia (Turquía); Constantinopla (actual Estambul, Turquía); Roma (Italia)",
         "place_of_death": "Constantinopla (actual Estambul, Turquía)",
         "place_of_birth": "Nacianzo, en la actual Turquía",
         "place_of_burial": "Basílica de San Pedro; anteriormente Iglesia de Santa María de la Concepción en Campo Marzio, Roma, donde quedó un brazo",
@@ -2277,7 +2277,7 @@
         "place_of_burial": "Iglesia de Santa María in Vallicella o \"Chiesa Nuova\" (Roma, Italia)",
         "notes": "Felipe (Florencia, 21 de julio de 1515 - Roma, 26 de mayo de 1595), llegado a Roma a una edad temprana, se dedicó a la asistencia de los enfermos incurables y de los peregrinos pobres. Ordenado presbítero, fue asiduo en el confesionario y celebró la Eucaristía con intensa devoción, hasta el transporte místico. De los encuentros periódicos con un grupo de sus penitentes – a quienes entretenía, con estilo alegre, en diálogos espirituales y en actividades recreativas, culturales y caritativas – nacieron la experiencia del «Oratorio» y la Congregación de sacerdotes que lleva el mismo nombre, reconocida por Gregorio XIII el 15 de julio de 1575.",
         "patronage": "",
-        "main_shrine": "Iglesia Nueva (Roma, Italia)"
+        "main_shrine": "Iglesia de Santa María in Vallicella o \"Chiesa Nuova\" (Roma, Italia)"
     },
     "StsCharlesLwanga_281": {
         "subject": "Santos Carlos Lwanga y compañeros, mártires",
@@ -2401,7 +2401,7 @@
     },
     "StLawrenceBrindisi_305": {
         "subject": "San Lorenzo de Brindisi, sacerdote y doctor",
-        "places": "Iglesia de Santa María de los Ángeles, Brindisi (Italia); Lisboa (Portugal); Villafranca del Bierzo (España)",
+        "places": "Iglesia de Santa María de los Ángeles (Brindisi, Italia); Lisboa (Portugal); Villafranca del Bierzo (España)",
         "place_of_death": "Lisboa (Portugal)",
         "place_of_birth": "Brindisi (Italia)",
         "place_of_burial": "Convento de la Anunciada (Villafranca del Bierzo, España)",
@@ -2981,7 +2981,7 @@
     },
     "StLawrenceBrindisi_492": {
         "subject": "San Lorenzo de Brindisi, sacerdote y doctor",
-        "places": "Iglesia de Santa María de los Ángeles, Brindisi (Italia); Lisboa (Portugal); Villafranca del Bierzo (España)",
+        "places": "Iglesia de Santa María de los Ángeles (Brindisi, Italia); Lisboa (Portugal); Villafranca del Bierzo (España)",
         "place_of_death": "Lisboa (Portugal)",
         "place_of_birth": "Brindisi (Italia)",
         "place_of_burial": "Convento de la Anunciada (Villafranca del Bierzo, España)",
@@ -3341,7 +3341,7 @@
     },
     "StGregoryNazianzen_574": {
         "subject": "San Gregorio Nacianceno",
-        "places": "Capadocia (Turquía); Constantinopla (Turquía); Roma (Italia)",
+        "places": "Capadocia (Turquía); Constantinopla (actual Estambul, Turquía); Roma (Italia)",
         "place_of_death": "Constantinopla (actual Estambul, Turquía)",
         "place_of_birth": "Nazianzo, en la actual Turquía",
         "place_of_burial": "Basílica de San Pedro; anteriormente Iglesia de Santa María de la Concepción en Campo Marzio, Roma, donde se conserva un brazo",
@@ -3394,7 +3394,7 @@
         "places": "Francia",
         "place_of_death": "Poitiers (Francia)",
         "place_of_birth": "Poitiers (Francia)",
-        "place_of_burial": "Iglesia de Saint-Hilaire le Grand, Poitiers (patrimonio UNESCO)",
+        "place_of_burial": "Iglesia de San Hilario el Grande (Poitiers, Francia) (patrimonio UNESCO)",
         "notes": "Hilario (Poitiers, Francia, 310/320 - 367/368), obispo de su ciudad natal, defendió con escritos de alto perfil (entre los cuales destaca el tratado De Trinitate) la fe en la plena divinidad del Hijo, afirmada por el Concilio de Nicea (325) contra la herejía de Arrio. Por su firme oposición a las orientaciones filoarianas de la corte imperial fue perseguido y exiliado. Es recordado en el Martirologio Jeronimiano (siglos V-VI) el 13 de enero. La iglesia de Saint-Hilaire le Grand es una iglesia católica de Poitiers, en el departamento de Vienne, dedicada a San Hilario de Poitiers. En 1840 fue declarada Monumento Histórico de Francia y desde 1998 también está clasificada como Patrimonio de la Humanidad por la UNESCO, como etapa del Camino de Santiago de Compostela a lo largo de la Vía Turonensis.",
         "patronage": "",
         "main_shrine": "N/D"
@@ -3550,7 +3550,7 @@
         "main_shrine": "Catacumbas de Calixto (Roma, Italia)"
     },
     "SantaMariaInPortico_594": {
-        "subject": "Santa María en Pórtico",
+        "subject": "Santa María en Portico (Roma, Italia)",
         "places": "Roma (Italia)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
