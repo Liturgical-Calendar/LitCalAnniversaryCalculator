@@ -492,7 +492,7 @@
     "StPancras_54": {
         "subject": "Heiliger Pancratius, Märtyrer",
         "places": "Rom (Italien)",
-        "place_of_death": "Eisleben (Deutschland)",
+        "place_of_death": "Rom (Italien)",
         "place_of_birth": "Synnada (heutiges Şuhut, Türkei)",
         "place_of_burial": "Friedhof von Ottavilla (Rom, Italien)",
         "notes": "Pancratius (3. oder 4. Jahrhundert), römischer Märtyrer, wurde auf dem Friedhof von Ottavilla an der Via Aurelia beigesetzt, wie die Kulttradition bezeugt, die von Papst Symmachus (498-514) durch den Bau einer Basilika zu seinen Ehren an diesem Ort bestätigt wurde. Der älteste Bericht über das Martyrium beschreibt Pancratius als sehr jung, erst vierzehn Jahre alt. Er wird am 12. Mai im Martyrologium Hieronymianum (5.-6. Jahrhundert) erwähnt.",
@@ -741,8 +741,8 @@
     },
     "FirstMartyrsRome_80": {
         "subject": "Heilige Ersten Märtyrer der Römischen Kirche",
-        "places": "Eisleben (Deutschland)",
-        "place_of_death": "Eisleben (Deutschland)",
+        "places": "Rom (Italien)",
+        "place_of_death": "Rom (Italien)",
         "place_of_birth": "N/V",
         "place_of_burial": "Katakomben von Rom",
         "notes": "Die Ersten Märtyrer der Kirche von Rom sind «die große Menge» von Christen, die vom Kaiser Nero getötet wurden, um den Verdacht von sich abzulenken, dass er die Stadt (Juli 64) in Brand gesetzt hatte. Wie der heidnische Historiker Tacitus in seinen Annalen bezeugt, erregten diese Unschuldigen, die «raffiniertesten Qualen» ausgesetzt waren, «ein Gefühl des Mitleids, da sie offensichtlich nicht dem öffentlichen Wohl, sondern der Grausamkeit eines Einzelnen geopfert wurden».",
@@ -2142,9 +2142,9 @@
     "StFrancesRome_247": {
         "subject": "Heilige Franziska Romana, Ordensfrau",
         "places": "N/V",
-        "place_of_death": "Eisleben (Deutschland)",
-        "place_of_birth": "Eisleben (Deutschland)",
-        "place_of_burial": "Eisleben (Deutschland)",
+        "place_of_death": "Rom (Italien)",
+        "place_of_birth": "Rom (Italien)",
+        "place_of_burial": "Rom (Italien)",
         "notes": "Francesca Bussa (Rom, 1384 - 9. März 1440), obwohl sie zur Ehe gezwungen wurde, war sie eine vorbildliche Ehefrau und Mutter. Gestützt auf eine innige Verbindung mit Gott, praktizierte sie unermüdlich Nächstenliebe, indem sie Arme und Kranke in ihrem Haus aufnahm. Sie gründete in Rom die Oblatinnen von Tor de’ Specchi, denen sie sich nach dem Tod ihres Mannes anschloss.",
         "patronage": "",
         "main_shrine": "Basilika Santa Francesca Romana am Forum Romanum"
