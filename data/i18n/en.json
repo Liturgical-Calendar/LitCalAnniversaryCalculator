@@ -91,8 +91,8 @@
     },
     "StPaulApostle_10": {
         "subject": "Saint Paul, Apostle",
-        "places": "Church of San Paolo alla Regola, Rome; Church of Santa Maria in Via Lata, Rome; GREECE; TURKEY",
-        "place_of_death": "Shrine of the Three Fountains, Rome",
+        "places": "Church of Saint Paul alla Regola (Rome, Italy); Church of Saint Mary in Via Lata (Rome, Italy); Greece; Turkey; Syria",
+        "place_of_death": "Shrine of the Three Fountains (Rome, Italy)",
         "place_of_birth": "Tarsus (Turkey) https://www.google.com/maps/place/36%C2%B055'00.0%22N+34%C2%B054'00.0%22E/@36.9546925,34.8770442,11.25z/data=!4m5!3m4!1s0x0:0x0!8m2!3d36.916667!4d34.9",
         "place_of_burial": "Basilica of St. Paul Outside the Walls, Rome",
         "notes": "Paul of Tarsus, conquered by Christ on the road to Damascus (cf. Acts 9, 1-19; Phil 3, 12), consecrates himself entirely to the service of understanding and announcing the new existence that he lives in Christ Jesus his Lord (cf. Eph 3, 1-4; 1 Cor 9, 16; Rom 6, 4; Gal 2, 20). Both apostles, who «in different ways brought together the one family of Christ» (Preface), sealed their testimony to Christ with martyrdom in Rome in the sixties of the first century. In the Depositio martyrum ( 336) they are remembered together on 29 June.",
@@ -567,7 +567,7 @@
         "place_of_burial": "Church of Santa Maria in Vallicella or \"New Church\" (Rome, Italy)",
         "notes": "Philip (Florence, July 21, 1515 - Rome, May 26, 1595), arrived in Rome at a young age, dedicated himself to the assistance of incurable patients and poor pilgrims. Ordained a priest, he was assiduous at the confessional and celebrated the Eucharist with intense devotion, until mystical transport. From periodic meetings with a group of his penitents - whom he entertained, with a joyful style, in spiritual dialogues and in recreational, cultural, charitable activities - the experience of the \"Oratory\" and the Congregation of priests bearing the same name, recognized by Gregory XIII on July 15, 1575, were born.",
         "patronage": "",
-        "main_shrine": "Chiesa Nuova (Rome, Italy)"
+        "main_shrine": "Church of Santa Maria in Vallicella or \"New Church\" (Rome, Italy)"
     },
     "StAugustineCanterbury_62": {
         "subject": "Saint Augustine of Canterbury, bishop",
@@ -1981,7 +1981,7 @@
     },
     "StGregoryNazianzen_207": {
         "subject": "Saint Gregory Nazianzus",
-        "places": "Cappadocia, Constantinople (Turkey), Rome (Italy)",
+        "places": "Cappadocia (Turkey); Constantinople (now Istanbul, Turkey); Rome (Italy)",
         "place_of_death": "Constantinople (current Istanbul, Turkey)",
         "place_of_birth": "Nazianzus, in present-day Turkey",
         "place_of_burial": "Basilica of Saint Peter; previously Church of Saint Mary of the Conception in Campo Marzio, Rome, where an arm remains",
@@ -2277,7 +2277,7 @@
         "place_of_burial": "Church of Santa Maria in Vallicella or \"New Church\" (Rome, Italy)",
         "notes": "Philip (Florence, July 21, 1515 - Rome, May 26, 1595), arrived in Rome at a young age, dedicated himself to the assistance of incurable patients and poor pilgrims. Ordained a priest, he was assiduous at the confessional and celebrated the Eucharist with intense devotion, until mystical transport. From periodic meetings with a group of his penitents - whom he entertained, with a joyful style, in spiritual dialogues and in recreational, cultural, charitable activities - the experience of the \"Oratory\" and the Congregation of priests bearing the same name, recognized by Gregory XIII on July 15, 1575, were born.",
         "patronage": "",
-        "main_shrine": "Chiesa Nuova (Rome, Italy)"
+        "main_shrine": "Church of Santa Maria in Vallicella or \"New Church\" (Rome, Italy)"
     },
     "StsCharlesLwanga_281": {
         "subject": "Saints Charles Lwanga and companions, martyrs",
@@ -2401,7 +2401,7 @@
     },
     "StLawrenceBrindisi_305": {
         "subject": "Saint Lawrence of Brindisi, priest and doctor",
-        "places": "Church of Saint Mary of the Angels, Brindisi (Italy); Lisbon (Portugal); Villafranca del Bierzo (Spain)",
+        "places": "Church of Saint Mary of the Angels (Brindisi, Italy); Lisbon (Portugal); Villafranca del Bierzo (Spain)",
         "place_of_death": "Lisbon (Portugal)",
         "place_of_birth": "Brindisi (Italy)",
         "place_of_burial": "Convent of the Annunciation (Villafranca del Bierzo, Spain)",
@@ -2981,7 +2981,7 @@
     },
     "StLawrenceBrindisi_492": {
         "subject": "Saint Lawrence of Brindisi, priest and doctor",
-        "places": "Church of Saint Mary of the Angels, Brindisi (Italy); Lisbon (Portugal); Villafranca del Bierzo (Spain)",
+        "places": "Church of Saint Mary of the Angels (Brindisi, Italy); Lisbon (Portugal); Villafranca del Bierzo (Spain)",
         "place_of_death": "Lisbon (Portugal)",
         "place_of_birth": "Brindisi (Italy)",
         "place_of_burial": "Convent of the Annunciation (Villafranca del Bierzo, Spain)",
@@ -3341,7 +3341,7 @@
     },
     "StGregoryNazianzen_574": {
         "subject": "Saint Gregory Nazianzus",
-        "places": "Cappadocia (Turkey); Constantinople (Turkey); Rome (Italy)",
+        "places": "Cappadocia (Turkey); Constantinople (now Istanbul, Turkey); Rome (Italy)",
         "place_of_death": "Constantinople (current Istanbul, Turkey)",
         "place_of_birth": "Nazianzus, in present-day Turkey",
         "place_of_burial": "Basilica of Saint Peter; previously Church of Saint Mary of the Conception in Campo Marzio, Rome, where an arm remains",
@@ -3394,7 +3394,7 @@
         "places": "France",
         "place_of_death": "Poitiers (France)",
         "place_of_birth": "Poitiers (France)",
-        "place_of_burial": "Church of Saint-Hilaire le Grand, Poitiers (UNESCO World Heritage)",
+        "place_of_burial": "Church of Saint Hilary the Great (Poitiers, France) (UNESCO heritage)",
         "notes": "Hilary (Poitiers, France, 310/320 - 367/368), bishop of his hometown, defended faith in the full divinity of the Son, affirmed by the Council of Nicaea, with high-profile writings (including above all the treatise De Trinitate). (325) against the Arius heresy. For his firm opposition to the pro-Arian orientations of the imperial court he was persecuted and exiled. He is mentioned in the Geronian Martyrology (5th-6th century) on 13 January. The church of Saint-Hilaire le Grand is a Catholic church in Poitiers, in the Vienne department, dedicated to Saint Hilary of Poitiers. In 1840 it was declared a Historical Monument of France and since 1998 it has also been classified as a World Heritage Site by UNESCO, as a stop on the Camino de Santiago de Compostela along the Via Turonensis.",
         "patronage": "",
         "main_shrine": "N/A"
@@ -3550,7 +3550,7 @@
         "main_shrine": "Catacombs of Callixtus (Rome, Italy)"
     },
     "SantaMariaInPortico_594": {
-        "subject": "Santa Maria in Portico",
+        "subject": "Saint Mary in Portico (Rome, Italy)",
         "places": "Rome (Italy)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
