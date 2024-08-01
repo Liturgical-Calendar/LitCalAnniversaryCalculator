@@ -26,7 +26,7 @@
         "place_of_birth": "Poitiers (Francia)",
         "place_of_burial": "Iglesia de San Hilario el Grande (Poitiers, Francia) (patrimonio UNESCO)",
         "notes": "Hilario (Poitiers, Francia, 310/320 - 367/368), obispo de su ciudad natal, defendió con escritos de alto perfil (entre los cuales destaca el tratado De Trinitate) la fe en la plena divinidad del Hijo, afirmada por el Concilio de Nicea (325) contra la herejía de Arrio. Por su firme oposición a las orientaciones filoarianas de la corte imperial fue perseguido y exiliado. Es recordado en el Martirologio Jeronimiano (siglos V-VI) el 13 de enero. La iglesia de Saint-Hilaire le Grand es una iglesia católica de Poitiers, en el departamento de Vienne, dedicada a San Hilario de Poitiers. En 1840 fue declarada Monumento Histórico de Francia y desde 1998 también está clasificada como Patrimonio de la Humanidad por la UNESCO, como etapa del Camino de Santiago de Compostela a lo largo de la Vía Turonensis.",
-        "patronage": "niños con retraso académico, niños que aprenden a caminar, madres y enfermos, invocado contra el reumatismo y las mordeduras de serpiente",
+        "patronage": "niños atrasados en los estudios, niños que aprenden a caminar, madres y enfermos, invocado contra el reumatismo y las mordeduras de serpiente",
         "main_shrine": "Iglesia de San Hilario el Grande (Poitiers, Francia)"
     },
     "StAnthonyEgypt_4": {
@@ -114,10 +114,10 @@
         "places": "Desenzano del Garda, Brescia (Italia) http://www.angelamerici.org/luoghi/ http://www.angelamerici.it/news_schede.php?testata=Casa%20di%20santa%20Angela&get_id=6",
         "place_of_death": "Brescia (Italia)",
         "place_of_birth": "Desenzano del Garda (Italia)",
-        "place_of_burial": "Iglesia de Santa Ángela Merici (Sant'Afra), Brescia (Italia)",
+        "place_of_burial": "Iglesia de Santa Ángela de Mérici (anteriormente iglesia de Santa Afra) (Brescia, Italia)",
         "notes": "Ángela Merici (Desenzano del Garda, 1470 - Brescia, 1540) fundó en Brescia en 1535 la Compañía de Santa Úrsula, institución de vida consagrada en el mundo, dotándola de Regla propia. Los Recuerdos y el Testamento manifiestan profundo espíritu evangélico e intensa vida espiritual. La difusión de la Compañía y el nacimiento de los diversos Institutos de hermanas Ursulinas han divulgado la veneración de la santa en el mundo. Fue canonizada por Pío VII en 1807.",
         "patronage": "",
-        "main_shrine": "Iglesia de Santa Ángela Merici (Sant'Afra), Brescia (Italia)"
+        "main_shrine": "Iglesia de Santa Ángela de Mérici (anteriormente iglesia de Santa Afra) (Brescia, Italia)"
     },
     "StThomasAquinas_13": {
         "subject": "Santo Tomás de Aquino, sacerdote y doctor",
@@ -823,7 +823,7 @@
         "subject": "San Buenaventura, obispo y doctor",
         "places": "Lyon (Francia); Bagnoregio (Italia)",
         "place_of_death": "Lyon (Francia)",
-        "place_of_birth": "Civita di Bagnoregio (Viterbo)",
+        "place_of_birth": "Civita di Bagnoregio (Viterbo, Italia)",
         "place_of_burial": "http://www.doctorseraphicus.it/images/annate/1958_67-81_Petrangeli_Papini.pdf",
         "notes": "Buenaventura (Civita de Bagnoregio, Viterbo, 1217 aprox. - Lyon, Francia, 15 de julio de 1274), entró en la Orden de los Frailes Menores y estudió en París. Teólogo, se dedicó a la enseñanza, produciendo obras de inspiración sapiencial, entre ellas el Itinerario de la mente hacia Dios. Ministro general, ordenó la legislación anterior promulgando nuevas Constituciones (Narbonne, 1260) y, con su obra hagiográfica (Legenda maior y Legenda minor, escrita – esta última – para la liturgia), propuso una visión unitaria de la figura de san Francisco. Obispo de Albano y cardenal, participó en el Concilio de Lyon II durante el cual, de repente, pasó de la Iglesia terrenal a la asamblea celestial.",
         "patronage": "",
@@ -1437,7 +1437,7 @@
         "place_of_burial": "Iglesia de San José de la misión jesuita de Sainte-Marie entre los Hurones (Midland, Ontario)",
         "notes": "Juan (Condé-sur-Vire, Francia, 15 de marzo de 1594 - Midland, Canadá, 16 de marzo de 1649), misionero jesuita entre los Hurones, en la actual Canadá, fue asesinado en un asalto a la misión por parte de otras tribus enemigas. Pocos meses después lo siguió en el martirio su compañero en la misión Isaac Jogues (Orléans, Francia, 10 de enero de 1607 - Auriesville, EE.UU., 18 de octubre de 1649); con ellos se recuerdan otros seis mártires jesuitas. Compartieron con mansedumbre evangélica la vida de esas poblaciones, hasta el don total de sí mismos.",
         "patronage": "",
-        "main_shrine": "Santuario de los Mártires, Midland, Ontario, Canadá; Santuario de Nuestra Señora de los Mártires, Auriesville"
+        "main_shrine": "Santuario de los Mártires de Midland (Ontario, Canadá); Santuario de Nuestra Señora de los Mártires de Auriesville (Nueva York, EE.UU.)"
     },
     "StPaulCross_151": {
         "subject": "San Pablo de la Cruz, sacerdote",
@@ -1611,8 +1611,8 @@
     },
     "StClementIPope_170": {
         "subject": "San Clemente I, papa y mártir",
-        "places": "Roma (Italia); Sebastopol - Cherson, Crimea",
-        "place_of_death": "Quersoneso, Crimea",
+        "places": "Roma (Italia); Sebastopoli - Cherson (Crimea)",
+        "place_of_death": "Cherson (Crimea)",
         "place_of_birth": "Roma",
         "place_of_burial": "mar de Crimea; túmulo hallado por San Cirilo, que lo llevó de vuelta a Roma",
         "notes": "Clemente papa (92-99) es conocido esencialmente por la epístola a la Iglesia de Corinto, que se le atribuye. Ante las divisiones internas de esa comunidad, el escrito enviado desde Roma exhorta a la concordia, en continuidad con el ministerio de comunión confiado al apóstol Pedro, cuyo martirio se recuerda, junto con el de Pablo y muchos cristianos asesinados en la persecución de Nerón. La carta también permite conocer algunos aspectos del pensamiento y la vida de la comunidad de Roma. Clemente es recordado en el Martirologio Jeronimiano (siglos V-VI), en el Canon Romano y en todos los libros litúrgicos romanos.",
@@ -1622,22 +1622,22 @@
     "StColumban_171": {
         "subject": "San Columbano, abad",
         "places": "Bobbio (Italia)",
-        "place_of_death": "Bobbio, Piacenza (Italia)",
-        "place_of_birth": "Monte Leinster, Irlanda",
-        "place_of_burial": "Abadía de San Columbano, Bobbio (Italia)",
+        "place_of_death": "Bobbio (Piacenza, Italia)",
+        "place_of_birth": "Monte Leinster (Irlanda)",
+        "place_of_burial": "Abadía de San Columbano (Bobbio, Italia)",
         "notes": "Columbano (Irlanda, 543 aprox. - Bobbio, Piacenza, 23 de noviembre de 615), monje en Bangor (Irlanda del Norte), hacia los cincuenta años, con algunos compañeros, dejó su tierra para peregrinar por Europa. Esta era, originalmente, una práctica penitencial que de hecho constituyó uno de los canales de evangelización del continente. Pasó por territorios que hoy pertenecen a Francia, Suiza e Italia septentrional, fundando varios monasterios, entre ellos Luxeuil (Francia) y Bobbio, célebres por los libros litúrgicos a los que dieron nombre. La regla monástica escrita por Columbano está marcada por un gran rigor ascético. La práctica penitencial monástica irlandesa –con la confesión individual y el uso de «tarifarios» para las diversas culpas– tuvo una notable influencia en la disciplina de la Reconciliación sacramental en Occidente. Columbano es recordado en el Martirologio Jeronimiano.",
         "patronage": "",
-        "main_shrine": "Abadía de San Columbano, Bobbio (Italia)"
+        "main_shrine": "Abadía de San Columbano (Bobbio, Italia)"
     },
     "StAndrewAp_172": {
         "subject": "San Andrés apóstol",
         "places": "N/D",
-        "place_of_death": "Patras, Grecia",
-        "place_of_birth": "Betsaida, Galilea",
+        "place_of_death": "Patras (Grecia)",
+        "place_of_birth": "Betsaida (Galilea, Israel)",
         "place_of_burial": "Iglesia de San Andrés, Patras; Catedral de Amalfi (Italia); Basílica de San Pedro en el Vaticano",
         "notes": "Andrés, ya discípulo de Juan Bautista, siguió a Jesús cuando el Precursor lo señaló como el Cordero de Dios que quita el pecado del mundo (Jn 1, 35-40). Hermano de Pedro, le comunicó el descubrimiento del Mesías (Jn 1, 41-42). Ambos fueron llamados por el Maestro a orillas del lago para convertirse en pescadores de hombres (Mt 4, 18-19). En el milagro de la multiplicación de los panes, señala a Jesús al muchacho con los cinco panes y los dos peces (Jn 6, 8-9). Él mismo, junto con Felipe, informa que algunos griegos quieren ver a Jesús (Jn 12, 20-21). Crucificado en Patras, según la tradición, es particularmente venerado en la Iglesia como protocletós, el «primer llamado» por Jesús. Su memoria el 30 de noviembre es recordada por todos los calendarios, tanto orientales como occidentales. San Jerónimo escribió que las reliquias de Andrés fueron llevadas de Patras a Constantinopla por orden del emperador romano Constancio II en 357. Permanecieron allí hasta 1208, cuando fueron llevadas a Amalfi, en Italia, por el cardenal Pietro Capuano, nativo de Amalfi. En el siglo XV, la cabeza de San Andrés fue llevada a Roma, donde fue colocada en una urna en uno de los cuatro pilares principales de la basílica de San Pedro. En septiembre de 1964, como gesto de apertura hacia la Iglesia ortodoxa griega, el papa Pablo VI entregó un dedo y parte de la cabeza a la iglesia de Patras. En el siglo VI, dos reliquias (una mano y un brazo) de San Andrés fueron donadas a Venancio, obispo de Luni, por el papa Gregorio I, su gran amigo. Es tradición que en ese tiempo, y con motivo del donativo, se construyó en Sarzana la iglesia de San Andrés, que se convirtió en la morada de la reliquia. Desde ese día, el apóstol se convirtió en el patrón de la ciudad. Estas reliquias se conservan hoy en la catedral de Sarzana; fueron llevadas de Constantinopla a Roma por un tal Andrés, mayordomo del palacio del emperador Mauricio. En Città di Castello, en la iglesia de San Francisco, se conserva una reliquia del hueso de un brazo, que una tradición local dice que fue donada por el papa Celestino II, nativo de la ciudad y ya canónigo de la catedral, a un monasterio local donde vivía una hermana suya; en el siglo XV, el municipio hizo realizar un relicario de plata, hoy en la Pinacoteca Comunal. La cabeza del santo fue donada, junto con otras reliquias (un dedo meñique y algunas pequeñas partes de la cruz), por Tomás Paleólogo, déspota de Morea depuesto por los turcos, al papa Pío II en 1461, a cambio del compromiso para una cruzada que debía recuperar Constantinopla. El papa aceptó el don prometiendo devolver las reliquias cuando Grecia fuera liberada y envió la mandíbula custodiada en el antiguo relicario a Pienza. Por decisión del papa Pablo VI en 1964, las reliquias conservadas en Roma fueron enviadas nuevamente a Patras dentro del antiguo relicario bizantino, hasta entonces custodiado en la catedral de Pienza; a cambio, el Papa donó a la catedral de Pienza el busto-relicario de la cabeza encargado por Pío II a Simone di Giovanni Ghini para la basílica de San Pedro en el Vaticano. Las reliquias devueltas se conservan hasta hoy en la iglesia de San Andrés en Patras en una urna especial y se muestran a los fieles con motivo de la fiesta del 30 de noviembre.",
         "patronage": "",
-        "main_shrine": "Iglesia de San Andrés, Patras"
+        "main_shrine": "Iglesia de San Andrés (Patras, Grecia)"
     },
     "StFrancisXavier_173": {
         "subject": "San Francisco Javier, sacerdote",
@@ -1667,11 +1667,11 @@
         "place_of_burial": "N/D",
         "notes": "Nicolás (s. IV) fue obispo de Myra (actual Demre, Turquía). Desde Oriente, su culto se difundió también en Italia, después del robo de sus reliquias (1087) y su colocación en Bari, en la basílica que lleva su nombre, donde aún se conservan. En su nombre florecieron tradiciones populares e iniciativas de caridad relacionadas con la Navidad. La memoria de su muerte y sepultura se celebra el 6 de diciembre en los ritos bizantino y copto.",
         "patronage": "",
-        "main_shrine": "Basílica de San Nicolás, Bari (Italia); Iglesia de San Nicolás al Lido, Venecia"
+        "main_shrine": "Basílica de San Nicolás (Bari, Italia); Iglesia de San Nicolás al Lido (Venecia, Italia)"
     },
     "StAmbrose_176": {
         "subject": "San Ambrosio, obispo y doctor",
-        "places": "Tréveris (Alemania), Milán (Italia)",
+        "places": "Tréveris (Alemania); Milán (Italia)",
         "place_of_death": "Milán (Italia)",
         "place_of_birth": "Tréveris (Alemania)",
         "place_of_burial": "Basílica de San Ambrosio, Milán (Italia)",
@@ -1701,13 +1701,13 @@
     },
     "StLucySyracuse_179": {
         "subject": "Santa Lucía, virgen y mártir",
-        "places": "Siracusa; Venecia",
-        "place_of_death": "Siracusa, Sicilia (Italia)",
-        "place_of_birth": "Siracusa, Sicilia (Italia)",
+        "places": "Siracusa (Italia); Venecia (Italia)",
+        "place_of_death": "Siracusa (Sicilia, Italia)",
+        "place_of_birth": "Siracusa (Sicilia, Italia)",
         "place_of_burial": "Iglesia de los Santos Jeremías y Lucía - Santuario de Lucía",
         "notes": "Lucía, martirizada probablemente durante la persecución de Diocleciano (303-305), fue sepultada en Siracusa. De allí su culto, atestiguado ya en el siglo V, pasó a Roma y se difundió por todas partes. El nombre, evocador de luz, y la fecha de su memoria, cercana al solsticio de invierno, favorecieron su fama de protectora de la vista. Es recordada el 13 de diciembre en el Martirologio Jeronimiano (siglo V-VI) y es recordada en el Canon Romano.",
         "patronage": "",
-        "main_shrine": "Santuario de Santa Lucía al Sepulcro, Siracusa, Sicilia"
+        "main_shrine": "Santuario de Santa Lucía al Sepulcro (Siracusa, Italia)"
     },
     "StJohnCross_180": {
         "subject": "San Juan de la Cruz, sacerdote y doctor",
@@ -2024,10 +2024,10 @@
         "places": "Desenzano del Garda, Brescia (Italia) http://www.angelamerici.org/luoghi/ http://www.angelamerici.it/news_schede.php?testata=Casa%20di%20santa%20Angela&get_id=6",
         "place_of_death": "Brescia (Italia)",
         "place_of_birth": "Desenzano del Garda (Italia)",
-        "place_of_burial": "Iglesia de Santa Ángela de Mérici (Santa Afra); Brescia (Italia)",
+        "place_of_burial": "Iglesia de Santa Ángela de Mérici (anteriormente iglesia de Santa Afra) (Brescia, Italia)",
         "notes": "Ángela Merici (Desenzano del Garda, 1470 - Brescia, 1540) fundó en Brescia en 1535 la Compañía de Santa Úrsula, institución de vida consagrada en el mundo, dotándola de su propia Regla. Los Recuerdos y el Testamento manifiestan un profundo espíritu evangélico y una intensa vida espiritual. La difusión de la Compañía y el nacimiento de los diversos Institutos de monjas Ursulinas han divulgado la veneración de la santa en el mundo. Fue canonizada por Pío VII en 1807.",
         "patronage": "",
-        "main_shrine": "Iglesia de Santa Ángela Merici (Santa Afra), Brescia (Italia)"
+        "main_shrine": "Siracusa (Italia); Venecia (Italia)"
     },
     "StThomasAquinas_218": {
         "subject": "Santo Tomás de Aquino, sacerdote y doctor",
@@ -2393,7 +2393,7 @@
         "subject": "San Buenaventura, obispo y doctor",
         "places": "Lyon (Francia); Bagnoregio (Italia)",
         "place_of_death": "Lyon (Francia)",
-        "place_of_birth": "Civita di Bagnoregio, Viterbo",
+        "place_of_birth": "Civita di Bagnoregio (Viterbo, Italia)",
         "place_of_burial": "http://www.doctorseraphicus.it/images/annate/1958_67-81_Petrangeli_Papini.pdf",
         "notes": "Buenaventura (Civita di Bagnoregio, Viterbo, 1217 aprox. - Lyon, Francia, 15 de julio de 1274), entró en la Orden de los Frailes Menores realizando sus estudios en París. Teólogo, se dedicó a la enseñanza, produciendo obras de inspiración sapiencial, entre ellas el Itinerario de la mente hacia Dios. Ministro general, ordenó la legislación anterior promulgando nuevas Constituciones (Narbonne, 1260) y, con su obra hagiográfica (Legenda maior y Legenda minor, escrita – esta última – para el oficio litúrgico), propuso una visión unitaria de la figura de san Francisco. Obispo de Albano y cardenal, participó en el Concilio de Lyon II durante el cual, repentinamente, pasó de la Iglesia terrenal a la asamblea celestial.",
         "patronage": "",
@@ -2651,13 +2651,13 @@
     },
     "StsJeanBrebeuf_365": {
         "subject": "Santos Juan de Brébeuf e Isaac Jogues, sacerdotes y compañeros mártires",
-        "places": "Midland, Canadá; Auriesville, Nueva York, EE.UU.",
-        "place_of_death": "Midland, Canadá",
+        "places": "Midland (Canadá)",
+        "place_of_death": "Auriesville (Nueva York, EE.UU.)",
         "place_of_birth": "Condé-sur-Vire (Francia)",
         "place_of_burial": "N/D",
         "notes": "Juan (Condé-sur-Vire, Francia, 15 de marzo de 1594 - Midland, Canadá, 16 de marzo de 1649), misionero jesuita entre los Hurones, en la actual Canadá, fue asesinado en un asalto a la misión por parte de otras tribus enemigas. Pocos meses después lo siguió en el martirio su compañero en la misión Isaac Jogues (Orléans, Francia, 10 de enero de 1607 - Auriesville, EE.UU., 18 de octubre de 1649); con ellos se recuerdan otros seis mártires jesuitas. Compartieron con mansedumbre evangélica la vida de esas poblaciones, hasta el don total de sí mismos.",
         "patronage": "",
-        "main_shrine": "Santuario de los Mártires, Midland, Ontario, Canadá; Santuario de Nuestra Señora de los Mártires, Auriesville"
+        "main_shrine": "Santuario de los Mártires de Midland (Ontario, Canadá); Santuario de Nuestra Señora de los Mártires de Auriesville (Nueva York, EE.UU.)"
     },
     "StPaulCross_366": {
         "subject": "San Pablo de la Cruz, sacerdote",
