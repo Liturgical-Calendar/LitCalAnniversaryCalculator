@@ -492,7 +492,7 @@
     "StPancras_54": {
         "subject": "Saint Pancras, martyr",
         "places": "Rome (Italy)",
-        "place_of_death": "Florence (Italy)",
+        "place_of_death": "Rome (Italy)",
         "place_of_birth": "Sinnada (current Şuhut, Turkey)",
         "place_of_burial": "Ottavilla Cemetery (Rome, Italy)",
         "notes": "Pancras (3rd or 4th century), a Roman martyr, was buried in the cemetery of Ottavilla, on the Via Aurelia, as attested by the tradition of worship, confirmed by Pope Symmachus (498-514) with the erection of a basilica in his honor at that place. The oldest account of the martyrdom describes Pancras as very young, just fourteen years old. He is remembered on May 12 in the Hieronymian Martyrology (5th-6th century).",
@@ -741,8 +741,8 @@
     },
     "FirstMartyrsRome_80": {
         "subject": "First Martyrs of the Church of Rome",
-        "places": "Church of Saint Catherine (Bethlehem, Palestine)",
-        "place_of_death": "Church of Saint Catherine (Bethlehem, Palestine)",
+        "places": "Rome (Italy)",
+        "place_of_death": "Rome (Italy)",
         "place_of_birth": "N/A",
         "place_of_burial": "Catacombs of Rome",
         "notes": "The First Martyrs of the Church of Rome are \"the great crowd\" of Christians killed by Emperor Nero, in an attempt to divert suspicion from himself about the fire of the City (July 64). As attested by the pagan historian Tacitus in his Annals, those innocent people subjected to \"exquisite torments\" aroused \"a feeling of pity, since they were evidently sacrificed not for the public good, but to the cruelty of one individual\".",
@@ -2142,9 +2142,9 @@
     "StFrancesRome_247": {
         "subject": "Saint Frances of Rome, religious",
         "places": "N/A",
-        "place_of_death": "Church of Saint Catherine (Bethlehem, Palestine)",
-        "place_of_birth": "Church of Saint Catherine (Bethlehem, Palestine)",
-        "place_of_burial": "Florence (Italy)",
+        "place_of_death": "Rome (Italy)",
+        "place_of_birth": "Rome (Italy)",
+        "place_of_burial": "Rome (Italy)",
         "notes": "Francesca Bussa (Rome, 1384 - March 9, 1440), although forced into marriage, was an exemplary wife and mother. Sustained by intimate union with God, she tirelessly practiced charity, welcoming the poor and the sick into her home. She founded the Oblates of Tor de’ Specchi in Rome, and joined them after the death of her husband.",
         "patronage": "",
         "main_shrine": "Basilica of Saint Frances of Rome at the Roman Forum"

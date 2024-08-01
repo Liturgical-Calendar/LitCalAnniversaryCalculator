@@ -26,7 +26,7 @@
         "place_of_birth": "Poitiers (França)",
         "place_of_burial": "Igreja de Santo Hilário, o Grande (Poitiers, França) (patrimônio UNESCO)",
         "notes": "Ilario (Poitiers, França, 310/320 - 367/368), bispo de sua cidade natal, defendeu com escritos de alto perfil (entre os quais principalmente o tratado De Trinitate) a fé na plena divindade do Filho, afirmada pelo Concílio de Niceia (325) contra a heresia de Ário. Por sua firme oposição às orientações filoarianas da corte imperial, foi perseguido e exilado. É lembrado no Martirológio Jeronimiano (séc. V-VI) em 13 de janeiro. A igreja de Saint-Hilaire le Grand é uma igreja católica de Poitiers, no departamento de Vienne, dedicada a santo Ilario de Poitiers. Em 1840 foi declarada Monumento Histórico da França e desde 1998 também é classificada como Patrimônio da Humanidade pela UNESCO, como etapa do Caminho de Santiago de Compostela ao longo da Via Turonensis.",
-        "patronage": "crianças com dificuldades acadêmicas, crianças aprendendo a andar, mães e doentes, invocado contra reumatismo e picadas de cobra",
+        "patronage": "crianças atrasadas nos estudos, crianças que aprendem a andar, mães e doentes, invocado contra o reumatismo e picadas de cobra",
         "main_shrine": "Igreja de Santo Hilário o Grande (Poitiers, França)"
     },
     "StAnthonyEgypt_4": {
@@ -492,7 +492,7 @@
     "StPancras_54": {
         "subject": "São Pancrácio, mártir",
         "places": "Roma (Itália)",
-        "place_of_death": "crianças com dificuldades acadêmicas, crianças aprendendo a andar, mães e doentes, invocado contra reumatismo e picadas de cobra",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "Sinnada (atual Şuhut, Turquia)",
         "place_of_burial": "Cemitério de Ottavilla (Roma, Itália)",
         "notes": "Pancrácio (séc. III ou IV), mártir romano, foi sepultado no cemitério de Ottavilla, na via Aurélia, como atestado pela tradição de culto, confirmada pelo papa Símaco (498-514) com a ereção naquele local de uma basílica em sua honra. O mais antigo relato do martírio descreve Pancrácio como muito jovem, com apenas quatorze anos. É lembrado no dia 12 de maio no Martirológio Hieronymiano (séc. V-VI).",
@@ -741,8 +741,8 @@
     },
     "FirstMartyrsRome_80": {
         "subject": "Santos Primeiros Mártires da Igreja Romana",
-        "places": "Basílica dos Santos Apóstolos (Roma, Itália)",
-        "place_of_death": "Basílica dos Santos Apóstolos (Roma, Itália)",
+        "places": "Roma (Itália)",
+        "place_of_death": "Roma (Itália)",
         "place_of_birth": "N/D",
         "place_of_burial": "Catacumbas de Roma",
         "notes": "Os Primeiros Mártires da Igreja de Roma são «a grande multidão» de cristãos mortos pelo imperador Nero, na tentativa de desviar de si as suspeitas sobre o incêndio de Roma (julho de 64). Como atesta o historiador pagão Tácito em seus Anais, esses inocentes submetidos a «tormentos refinadíssimos» suscitaram «um sentimento de piedade, já que eram evidentemente sacrificados não pelo bem público, mas pela crueldade de um único homem».",
@@ -2142,9 +2142,9 @@
     "StFrancesRome_247": {
         "subject": "Santa Francisca Romana, religiosa",
         "places": "N/D",
-        "place_of_death": "Basílica dos Santos Apóstolos (Roma, Itália)",
-        "place_of_birth": "Basílica dos Santos Apóstolos (Roma, Itália)",
-        "place_of_burial": "Basílica dos Santos Apóstolos (Roma, Itália)",
+        "place_of_death": "Roma (Itália)",
+        "place_of_birth": "Roma (Itália)",
+        "place_of_burial": "Roma (Itália)",
         "notes": "Francisca Bussa (Roma, 1384 - 9 de março de 1440), embora forçada ao casamento, foi esposa e mãe exemplar. Sustentada por uma íntima união com Deus, praticou incansavelmente a caridade, acolhendo em sua casa pobres e doentes. Fundou em Roma as Oblatas de Tor de’ Specchi, às quais se uniu após a morte do marido.",
         "patronage": "",
         "main_shrine": "Basílica Santa Francisca Romana no Fórum Romano"

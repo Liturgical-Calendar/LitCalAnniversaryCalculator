@@ -222,7 +222,7 @@
     "SevenHolyFounders_24": {
         "subject": "Sancti Septem Fundatores Servorum Beatae Mariae Virginis",
         "places": "non pertinet",
-        "place_of_death": "Montesenario (Italia)",
+        "place_of_death": "Montesenarius (Italia)",
         "place_of_birth": "Florentia",
         "place_of_burial": "Florentia",
         "notes": "Hae sunt singulae figurae septem sanctorum fundatorum, quorum cognomina tantum saeculis XV-XVI addita sunt. Bonagiunta de Florentia (Manetti), documentatus die 7 octobris 1251; prior generalis anno 1256; mortuus anno 1257; sepultus est in Monte Senario, prope altare maius ecclesiae. Bonfiglio de Florentia (Monaldi), secundum traditionem primus septem et eorum dux; prior Montis Senarii die 17 martii 1250, cum episcopus Senensis Bonfiglio licentiam dedit ad aedificandam in urbe ecclesiam et conventum Sanctae Mariae de Cafaggio, hodie basilica Sanctissimae Annuntiationis Florentiae. Annis 1251-1252 etiam ipse in Cafaggio vixit, ubi iuvenem Philippum Benizi in Ordinem recepit. Mortuus est, secundum traditionem, die 1 ianuarii 1262 et sepultus est in Monte Senario. Amadeus de Florentia (Amidei), qui videtur totam vitam in conventu Montis Senarii egisse. Traditio vult, ad eius mortem anno 1266, omnes Patres flammam ignis ascendere vidisse, signum et symbolum amoris eius erga Deum, sicut nomen eius indicat. Manettus de Florentia (dell'Antella), prior conventus Lucae anno 1264, electus est anno 1265 Generalis Ordinis. Generalatu renuntiavit anno 1267 et successorem habuit Philippum Benizi. Uguccio de Florentia (Uguccioni), fortasse prior Montis Senarii anno 1259, de familia in Urbe Castelli die 21 augusti 1255, et socius Sostegni et Philippi cum hic, secundum Legendam B. Philippi saeculi XIV, pauperem leprosum sanavit. Mortuus est anno 1282, in Monte Senario, postquam a Capitulo generali Viterbii rediit, eodem die et eadem hora amici Sostegni. Sostegnus de Florentia (Sostegni), in Legenda de Origine etiam memoratus ut avunculus fratris Lapi de Florentia (28); fortasse vicarius generalis in Gallia. Mortuus est anno 1282 (vide supra) et sepultus est cum aliis fundatoribus in Monte Senario. Alexius Falconieri, notissimus septem sanctorum. Humilis, poenitentiae cupidus, etiam in senectute operibus materialibus et quaestu (eleemosyna domo per domum) se dedit, non obstante incommodis aetatis et temporis (Legenda de Origine). Iuvenes Ordinis protexit et pecuniam vestimentorum quae ei debebantur (mos Servorum) adhibuit ut digniores eorum ad studendum in Sorbona Parisiensi mitteret. Fere 110 annos vixit et mortuus est anno 1310.",
@@ -492,7 +492,7 @@
     "StPancras_54": {
         "subject": "Sanctus Pancratius, martyr",
         "places": "Roma (Italia)",
-        "place_of_death": "Mexicopolis (Mexicum)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "Sinnada (hodierna Şuhut, Turcia)",
         "place_of_burial": "Cœmeterium Ottavillae (Roma, Italia)",
         "notes": "Pancratius (saec. III vel IV), martyr Romanus, sepultus est in cœmeterio Octavillæ, via Aurelia, ut cultus traditio testatur, confirmata a papa Symmacho (498-514) cum erectione in eo loco basilicæ in eius honorem. Antiquissimum martyrii narratio describit Pancratium ut adulescentem, vix quattuordecim annorum. Recolitur die 12 Maii in Martyrologio Hieronymiano (saec. V-VI).",
@@ -741,8 +741,8 @@
     },
     "FirstMartyrsRome_80": {
         "subject": "Sancti Primi Martyres Ecclesiae Romanae",
-        "places": "Mexicopolis (Mexicum)",
-        "place_of_death": "Mexicopolis (Mexicum)",
+        "places": "Roma (Italia)",
+        "place_of_death": "Roma (Italia)",
         "place_of_birth": "non pertinet",
         "place_of_burial": "Catacumbae Romae",
         "notes": "Primi Martyres Ecclesiae Romanae sunt «magna turba» christianorum a Nerone imperatore occisorum, conante suspiciones de incendio Urbis (Iulio 64) a se removere. Ut testatur historicus paganus Tacitus in Annalibus suis, illi innocentes «tormentis exquisitissimis» subiecti «misericordiam excitaverunt, cum palam esset eos non ad publicum bonum, sed ad unius saevitiam immolatos esse».",
@@ -1731,8 +1731,8 @@
     },
     "StJohnKanty_182": {
         "subject": "Sanctus Ioannes a Kęty, sacerdos",
-        "places": "Wadowice (Polonia)",
-        "place_of_death": "Wadowice (Polonia)",
+        "places": "Cracovia (Polonia)",
+        "place_of_death": "Cracovia (Polonia)",
         "place_of_birth": "Kantii (Polonia)",
         "place_of_burial": "Ecclesia Sanctae Annae (Cracovia, Polonia)",
         "notes": "Ioannes (Kęty, Polonia, 1390 - Cracovia, 24 Decembris 1473), presbyter, philosophus et theologus, fuit professor in universitate Cracoviensi, membrum Cappellae musicae collegiatae Sancti Floriani et canonicus cathedralis. Notus erat in tota urbe propter rectitudinem vitae, inexhaustam bonitatem et praedilectionem erga pauperes.",
@@ -1922,9 +1922,9 @@
     "StPeterClaver_201": {
         "subject": "Sanctus Petrus Claver, sacerdos",
         "places": "non pertinet",
-        "place_of_death": "Carthago Nova, Columbia",
-        "place_of_birth": "Verduum, Hispania",
-        "place_of_burial": "Sanctuarium Sancti Petri Claver, Carthago Nova, Columbia",
+        "place_of_death": "Carthago Nova (Columbia)",
+        "place_of_birth": "Verdú (Hispania)",
+        "place_of_burial": "Sanctuarium Sancti Petri Claver (Carthagena Indiarum, Columbia)",
         "notes": "Petrus (Verduum, Hispania, 1580 - Carthago Nova, Columbia, 8 Septembris 1657), Iesuita, ad Indias Occidentales destinatus est. Postquam cum confratre Alonso Sandoval, iam in apostolatu inter servos nigros operante, collaboravit, se in perpetuum illorum infelicium servitio devovit, eos tum in itinere laborioso inter Africam et Americam adiuvans, tum ad vitam spiritualem eorum dignitati filiorum Dei congruentem formans.",
         "patronage": "",
         "main_shrine": "Sanctuarium Sancti Petri Claver, Carthago Nova, Columbia"
@@ -2123,7 +2123,7 @@
         "subject": "Sanctus Casimirus",
         "places": "non pertinet",
         "place_of_death": "Hrodna (Bielorussia)",
-        "place_of_birth": "Trzebnica (Polonia); Andechs (Germania)",
+        "place_of_birth": "Cracovia (Polonia)",
         "place_of_burial": "Vilnius (Lituania)",
         "notes": "Casimirus (Cracovia, Polonia, 3 octobris 1458 - Grodno, hodierna Hrodna, Bielorussia, 4 martii 1484), filius regis Poloniae et Lituaniae, humanistica cultura formatus, potestati exercendae vitam sobriam et castam, precationi et paenitentiae deditam, praeferre maluit. Probabiliter canonizatus est anno 1521 a Papa Leone X vel anno 1522 a Papa Hadriano VI, sed canonizatio officialiter confirmata est anno 1602 a Papa Clemente VIII, cui secuta est sollemnis caerimonia anno 1604, et anno 1620 in Calendarium Romanum Generale insertus est.",
         "patronage": "",
@@ -2142,9 +2142,9 @@
     "StFrancesRome_247": {
         "subject": "Sancta Francesca Romana, religiosa",
         "places": "non pertinet",
-        "place_of_death": "Mexicopolis (Mexicum)",
-        "place_of_birth": "Mexicopolis (Mexicum)",
-        "place_of_burial": "Mexicopolis (Mexicum)",
+        "place_of_death": "Roma (Italia)",
+        "place_of_birth": "Roma (Italia)",
+        "place_of_burial": "Roma (Italia)",
         "notes": "Francesca Bussa (Roma, 1384 - 9 martii 1440), quamvis ad matrimonium coacta, uxor et mater exemplaris fuit. Intima unione cum Deo suffulta, caritatem indefessa exercuit, pauperes et aegrotos in domum suam accipiens. Fundavit Romae Oblatas Turris Speculorum, quibus post mortem mariti se coniunxit.",
         "patronage": "",
         "main_shrine": "Basilica Sanctae Franciscae Romanae ad Forum Romanum"
@@ -2791,8 +2791,8 @@
     },
     "StJohnKanty_397": {
         "subject": "Sanctus Ioannes a Kęty, sacerdos",
-        "places": "Wadowice (Polonia)",
-        "place_of_death": "Wadowice (Polonia)",
+        "places": "Cracovia (Polonia)",
+        "place_of_death": "Cracovia (Polonia)",
         "place_of_birth": "Kęty (Polonia)",
         "place_of_burial": "Ecclesia Sanctae Annae, Cracovia",
         "notes": "Ioannes (Kęty, Polonia, 1390 - Cracovia, 24 Decembris 1473), presbyter, philosophus et theologus, fuit professor in universitate Cracoviensi, membrum Cappellae musicae collegiatae Sancti Floriani et canonicus cathedralis. Notus erat in tota urbe propter rectitudinem vitae, inexhaustam bonitatem et praedilectionem erga pauperes.",
@@ -2902,9 +2902,9 @@
     "StPeterClaver_416": {
         "subject": "Sanctus Petrus Claver, sacerdos",
         "places": "non pertinet",
-        "place_of_death": "Carthagena, Columbia",
-        "place_of_birth": "Verdú, Hispania",
-        "place_of_burial": "Sanctuarium Sancti Petri Claver, Carthagena de Indias, Columbia",
+        "place_of_death": "Carthago Nova (Columbia)",
+        "place_of_birth": "Verdú (Hispania)",
+        "place_of_burial": "Sanctuarium Sancti Petri Claver (Carthagena Indiarum, Columbia)",
         "notes": "Petrus (Verdú, Hispania, 1580 - Carthagena, Columbia, 8 Septembris 1657), iesuita, ad Indias occidentales destinatus est. Postquam cum confratre Alonso Sandoval, iam in apostolatu inter servos nigros activo, collaboravit, se definitivum in servitium illorum infelicium devovit, eos tam in itinere laborioso inter Africam et Americam adiuvans, quam ad vitam spiritualem dignitati filiorum Dei respondentem formans.",
         "patronage": "",
         "main_shrine": "Sanctuarium Sancti Petri Claver, Carthagena de Indias, Columbia"
@@ -3171,8 +3171,8 @@
     },
     "StFaustinaKowalska_557": {
         "subject": "Sancta Faustina Kowalska",
-        "places": "Wadowice (Polonia)",
-        "place_of_death": "Wadowice (Polonia)",
+        "places": "Cracovia (Polonia)",
+        "place_of_death": "Cracovia (Polonia)",
         "place_of_birth": "Głogowiec (Polonia)",
         "place_of_burial": "Sanctuarium Divinae Misericordiae (Cracovia, Polonia)",
         "notes": "Nata in vico Głogowiec, prope Łódź, in Polonia anno 1905, et mortua Cracoviae anno 1938, sancta Faustina consumpsit suam iuvenem vitam inter Sorores Beatae Mariae Virginis de Misericordia, generose conformans vocationi a Deo acceptae et maturans intensam vitam spiritualem, divitem mysticis donis et fidelibus responsionibus ad ea. Narrationem de iis quae Dominus in ea operatus est ad beneficium omnium, ipsa descripsit in Diario animae suae, sanctuario occursus cum Domino Iesu: audiens Eum qui est Amor et Misericordia, intellexit nullam humanam miseriam posse comparari cum misericordia quae inexhausta fluit ex corde Christi. Facta est igitur inspiratrix motus ad proclamandam et implorandam divinam misericordiam pro toto mundo. Canonizata anno 2000 a sancto Ioanne Paulo II, nomen sanctae Faustinae cito notum factum est in toto orbe, promovens in omnibus partibus populi Dei, Pastoribus et fidelibus laicis, invocationem divinae misericordiae et eius credibile testimonium in vita credentium.",
@@ -3182,7 +3182,7 @@
     "StFaustinaKowalska_558": {
         "subject": "Sancta Faustina Kowalska",
         "places": "Cracovia (Polonia)",
-        "place_of_death": "Wadowice (Polonia)",
+        "place_of_death": "Cracovia (Polonia)",
         "place_of_birth": "Głogowiec (Polonia)",
         "place_of_burial": "Sanctuarium Divinae Misericordiae (Cracovia, Polonia)",
         "notes": "Nata in vico Głogowiec, prope Łódź, in Polonia anno 1905, et mortua Cracoviae anno 1938, sancta Faustina consumpsit suam iuvenem vitam inter Sorores Beatae Mariae Virginis de Misericordia, generose conformans vocationi a Deo acceptae et maturans intensam vitam spiritualem, divitem mysticis donis et fidelibus responsionibus ad ea. Narrationem de iis quae Dominus in ea operatus est ad beneficium omnium, ipsa descripsit in Diario animae suae, sanctuario occursus cum Domino Iesu: audiens Eum qui est Amor et Misericordia, intellexit nullam humanam miseriam posse comparari cum misericordia quae inexhausta fluit ex corde Christi. Facta est igitur inspiratrix motus ad proclamandam et implorandam divinam misericordiam pro toto mundo. Canonizata anno 2000 a sancto Ioanne Paulo II, nomen sanctae Faustinae cito notum factum est in toto orbe, promovens in omnibus partibus populi Dei, Pastoribus et fidelibus laicis, invocationem divinae misericordiae et eius credibile testimonium in vita credentium.",

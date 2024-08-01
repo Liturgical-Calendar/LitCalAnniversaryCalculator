@@ -492,7 +492,7 @@
     "StPancras_54": {
         "subject": "Saint Pancrace, martyr",
         "places": "Rome (Italie)",
-        "place_of_death": "Mexico (Mexique)",
+        "place_of_death": "Rome (Italie)",
         "place_of_birth": "Sinnada (actuelle Şuhut, Turquie)",
         "place_of_burial": "Cimetière d'Ottavilla (Rome, Italie)",
         "notes": "Pancrace (IIIe ou IVe siècle), martyr romain, fut enterré dans le cimetière d'Ottavilla, sur la via Aurelia, comme attesté par la tradition du culte, confirmée par le pape Symmaque (498-514) avec l'érection en ce lieu d'une basilique en son honneur. Le plus ancien récit du martyre décrit Pancrace comme très jeune, à peine quatorze ans. Il est commémoré le 12 mai dans le Martyrologe hiéronymien (Ve-VIe siècle).",
@@ -741,8 +741,8 @@
     },
     "FirstMartyrsRome_80": {
         "subject": "Saints Premiers Martyrs de l'Église Romaine",
-        "places": "Mexico (Mexique)",
-        "place_of_death": "Mexico (Mexique)",
+        "places": "Rome (Italie)",
+        "place_of_death": "Rome (Italie)",
         "place_of_birth": "N/D",
         "place_of_burial": "Catacombes de Rome",
         "notes": "Les Premiers Martyrs de l'Église de Rome sont «la grande foule» de chrétiens tués par l'empereur Néron, dans une tentative de détourner de lui les soupçons sur l'incendie de l'Urbs (juillet 64). Comme en témoigne l'historien païen Tacite dans ses Annales, ces innocents soumis à des «tourments raffinés» ont suscité «un sentiment de pitié, car ils étaient manifestement sacrifiés non pour le bien public, mais à la cruauté d'un seul».",
@@ -2142,9 +2142,9 @@
     "StFrancesRome_247": {
         "subject": "Sainte Françoise Romaine, religieuse",
         "places": "N/D",
-        "place_of_death": "Mexico (Mexique)",
-        "place_of_birth": "Mexico (Mexique)",
-        "place_of_burial": "Mexico (Mexique)",
+        "place_of_death": "Rome (Italie)",
+        "place_of_birth": "Rome (Italie)",
+        "place_of_burial": "Rome (Italie)",
         "notes": "Françoise Bussa (Rome, 1384 - 9 mars 1440), bien que forcée au mariage, fut une épouse et une mère exemplaire. Soutenue par une union intime avec Dieu, elle pratiqua inlassablement la charité, accueillant les pauvres et les malades dans sa maison. Elle fonda à Rome les Oblates de Tor de’ Specchi, auxquelles elle se joignit après la mort de son mari.",
         "patronage": "",
         "main_shrine": "Basilique Sainte Françoise Romaine au Forum Romain"
