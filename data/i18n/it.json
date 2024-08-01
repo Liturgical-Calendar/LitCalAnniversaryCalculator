@@ -2274,7 +2274,7 @@
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Firenze (Italia)",
-        "place_of_burial": "Chiesa Nuova, Roma",
+        "place_of_burial": "Chiesa di Santa Maria in Vallicella o \"Chiesa Nuova\" (Roma, Italia)",
         "notes": "Filippo (Firenze, 21 luglio 1515 - Roma, 26 maggio 1595), giunto a Roma in giovane età, si dedicò all’assistenza dei malati incurabili e dei pellegrini poveri. Ordinato presbitero, fu assiduo al confessionale e celebrò l’Eucaristia con devozione intensa, fino al trasporto mistico. Dagli incontri periodici con un gruppo di suoi penitenti – che egli intratteneva, con stile gioioso, in dialoghi spirituali e in attività ricreative, culturali, caritative – nacquero l’esperienza dell’«Oratorio» e la Congregazione dei sacerdoti che porta lo stesso nome, riconosciuta da Gregorio XIII il 15 luglio 1575.",
         "patronage": "",
         "main_shrine": "Chiesa Nuova (Roma, Italia)"
@@ -3071,7 +3071,7 @@
     },
     "StPaulVI_545": {
         "subject": "San Paolo VI, Papa",
-        "places": "Concesio (Italia; Milano (Italia); Roma (Italia)",
+        "places": "Concesio (Italia); Milano (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Concesio (Italia)",
         "place_of_burial": "Basilica di San Pietro in Vaticano",
