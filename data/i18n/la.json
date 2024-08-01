@@ -91,8 +91,8 @@
     },
     "StPaulApostle_10": {
         "subject": "Sanctus Paulus, apostolus",
-        "places": "Ecclesia Sancti Pauli ad Regulam, Roma; Ecclesia Sanctae Mariae in Via Lata, Roma; Graecia; Turcia",
-        "place_of_death": "Sanctuarium Tribus Fontibus, Roma",
+        "places": "Ecclesia Sancti Pauli ad Regulam (Roma, Italia); Ecclesia Sanctae Mariae in Via Lata (Roma, Italia); Graecia; Turcia; Syria",
+        "place_of_death": "Sanctuarium Trium Fontium (Roma, Italia)",
         "place_of_birth": "Tarsus (Turcia) https://www.google.com/maps/place/36%C2%B055'00.0%22N+34%C2%B054'00.0%22E/@36.9546925,34.8770442,11.25z/data=!4m5!3m4!1s0x0:0x0!8m2!3d36.916667!4d34.9",
         "place_of_burial": "Basilica Sancti Pauli extra muros, Roma",
         "notes": "Paulus Tarsensis, a Christo in via Damascena superatus (cf. Actus Apostolorum 9, 1-19; Philippenses 3, 12), totum se ipsum consecrat ad ministerium cognitionis et nuntiationis novae vitae quam in Christo Iesu Domino suo vivit (cf. Ephesios 3, 1-4; 1 Corinthios 9, 16; Romani 6, 4; Galatae 2, 20). Ambi apostoli, qui \"diversis modis unam Christi familiam congregaverunt\" (Prefatio), suam testimonium Christo martyrio Romae signaverunt, circa annum sexagesimum primi saeculi. In Depositio martyrum (336) una cum memoria eorum fit die XXIX Iunii.",
@@ -567,7 +567,7 @@
         "place_of_burial": "Ecclesia Sanctae Mariae in Vallicella seu \"Ecclesia Nova\" (Roma, Italia)",
         "notes": "Philippus (Florentia, 21 Iulii 1515 - Roma, 26 Maii 1595), adulescens Romam perveniens, incurabilibus aegrotis et pauperibus peregrinis assistentiam dedit. Presbyter ordinatus, assiduus in confessionali fuit et Eucharistiam cum intensa devotione celebravit, usque ad mysticum transportum. Ex periodicis conventibus cum coetu suorum paenitentium – quos laeto stilo in dialogis spiritualibus et in activitatibus recreativis, culturalibus, caritativis instruxit – orta est experientia «Oratorii» et Congregatio sacerdotum quae eodem nomine appellatur, a Gregorio XIII die 15 Iulii 1575 recognita.",
         "patronage": "",
-        "main_shrine": "Ecclesia Nova (Roma, Italia)"
+        "main_shrine": "Ecclesia Sanctae Mariae in Vallicella seu \"Ecclesia Nova\" (Roma, Italia)"
     },
     "StAugustineCanterbury_62": {
         "subject": "Sanctus Augustinus Cantuariensis, episcopus",
@@ -1981,7 +1981,7 @@
     },
     "StGregoryNazianzen_207": {
         "subject": "Sanctus Gregorius Nazianzenus",
-        "places": "Cappadocia, Constantinopolis (Turcia), Roma (Italia)",
+        "places": "Cappadocia (Turcia); Constantinopolis (hodierna Istanbul, Turcia); Roma (Italia)",
         "place_of_death": "Constantinopolis (hodierna Istanbul), Turcia",
         "place_of_birth": "Nazianzus, in hodierna Turcia",
         "place_of_burial": "Basilica Sancti Petri; prius Ecclesia Sanctae Mariae Conceptionis in Campo Martio, Roma, ubi brachium remansit",
@@ -2277,7 +2277,7 @@
         "place_of_burial": "Ecclesia Sanctae Mariae in Vallicella seu \"Ecclesia Nova\" (Roma, Italia)",
         "notes": "Philippus (Florentia, 21 Iulii 1515 - Roma, 26 Maii 1595), adulescens Romam perveniens, incurabilibus aegrotis et pauperibus peregrinis assistentiam dedit. Presbyter ordinatus, assiduus in confessionali fuit et Eucharistiam cum intensa devotione celebravit, usque ad mysticum transportum. Ex periodicis conventibus cum coetu suorum paenitentium – quos laeto stilo in dialogis spiritualibus et in activitatibus recreativis, culturalibus, caritativis instruxit – orta est experientia «Oratorii» et Congregatio sacerdotum quae eodem nomine appellatur, a Gregorio XIII die 15 Iulii 1575 recognita.",
         "patronage": "",
-        "main_shrine": "Ecclesia Nova (Roma, Italia)"
+        "main_shrine": "Ecclesia Sanctae Mariae in Vallicella seu \"Ecclesia Nova\" (Roma, Italia)"
     },
     "StsCharlesLwanga_281": {
         "subject": "Sancti Carolus Lwanga et socii, martyres",
@@ -2401,7 +2401,7 @@
     },
     "StLawrenceBrindisi_305": {
         "subject": "Sanctus Laurentius a Brundusio, sacerdos et doctor",
-        "places": "Ecclesia Sanctae Mariae Angelorum, Brundisium (Italia); Olisipo (Portugallia); Villafranca Bierzi, Hispania",
+        "places": "Ecclesia Sanctae Mariae Angelorum (Brundisium, Italia); Olisipo (Portugallia); Villafranca del Bierzo (Hispania)",
         "place_of_death": "Olisipo (Portugallia)",
         "place_of_birth": "Brundisium (Italia)",
         "place_of_burial": "Conventus Annuntiationis, Villafranca del Bierzo, Hispania",
@@ -2981,7 +2981,7 @@
     },
     "StLawrenceBrindisi_492": {
         "subject": "San Laurentius a Brundisio, sacerdos et doctor",
-        "places": "Ecclesia Sanctae Mariae Angelorum, Brundisium (Italia); Olisipo (Portugallia); Villafranca del Bierzo, Hispania",
+        "places": "Ecclesia Sanctae Mariae Angelorum (Brundisium, Italia); Olisipo (Portugallia); Villafranca del Bierzo (Hispania)",
         "place_of_death": "Olisipo (Portugallia)",
         "place_of_birth": "Brundisium (Italia)",
         "place_of_burial": "Conventus Annuntiationis, Villafranca del Bierzo, Hispania",
@@ -3341,7 +3341,7 @@
     },
     "StGregoryNazianzen_574": {
         "subject": "Sanctus Gregorius Nazianzenus",
-        "places": "Cappadocia, Constantinopolis (Turcia), Roma (Italia)",
+        "places": "Cappadocia (Turcia); Constantinopolis (hodierna Istanbul, Turcia); Roma (Italia)",
         "place_of_death": "Constantinopolis (hodierna Istanbul), Turcia",
         "place_of_birth": "Nazianzus, in hodierna Turcia",
         "place_of_burial": "Basilica Sancti Petri; prius Ecclesia Sanctae Mariae de Conceptione in Campo Martio, Roma, ubi brachium remansit",
@@ -3394,7 +3394,7 @@
         "places": "Francia",
         "place_of_death": "Pictavium (Francia)",
         "place_of_birth": "Pictavium (Francia)",
-        "place_of_burial": "Ecclesia Sancti Hilarii Magni, Pictavium (patrimonium UNESCO)",
+        "place_of_burial": "Ecclesia Sancti Hilarii Magni (Pictavium, Gallia) (patrimonium UNESCO)",
         "notes": "Hilarius (Pictavium, Gallia, 310/320 - 367/368), episcopus suae urbis natalis, scripta altae dignitatis (inter quae praecipue tractatus De Trinitate) fidem in plenam divinitatem Filii, affirmatam a Concilio Nicaeno (325) contra haeresim Arii, defendit. Propter firmam oppositionem ad orientationes filoarianas aulae imperialis persecutus et exsulatus est. In Martyrologio Hieronymiano (saec. V-VI) die 13 ianuarii commemoratur. Ecclesia Sancti Hilarii Magni est ecclesia catholica Pictavii, in provincia Viennensi, dicata sancto Hilario Pictaviensi. Anno 1840 declarata est Monumentum historicum Galliae et ab anno 1998 etiam Patrimonium humanitatis ab UNESCO, ut statio Viae Turonensis in itinere Sancti Iacobi Compostellani.",
         "patronage": "",
         "main_shrine": "non pertinet"
@@ -3550,7 +3550,7 @@
         "main_shrine": "Catacumbae Callisti (Roma, Italia)"
     },
     "SantaMariaInPortico_594": {
-        "subject": "Sancta Maria in Portico",
+        "subject": "Sancta Maria in Porticu (Roma, Italia)",
         "places": "Roma (Italia)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
