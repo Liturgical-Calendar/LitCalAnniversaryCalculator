@@ -67,11 +67,11 @@
         "place_of_burial": "Catacombae Sanctae Agnetis extra Muros",
         "notes": "Agnes, romana, adhuc adulescens, posita in alternativa inter manere fidelis Christo et vitam suam servare, sine dubio elegit Sponsum caelestem, cum eo se coniungens per martyrium (saec. III media). Narratio de eius passione, valde popularis, a papa Damaso iam ab saeculo IV collecta est. Sanctus Ambrosius et sanctus Augustinus eam ut lucidum exemplum virginis Christianae indicaverunt. Secundum Depositio martyrum (336), eius memoria celebrabatur die 21 Ianuarii Romae in coemeterio eiusdem nominis ad viam Nomentanam. Nomen eius recolitur in Canone Romano.",
         "patronage": "",
-        "main_shrine": "Basilica Sanctae Agnetis extra Muros"
+        "main_shrine": "Basilica Sanctae Agnetis extra Muros (Roma, Italia)"
     },
     "StVincentDeacon_8": {
         "subject": "Sanctus Vincentius, diaconus et martyr",
-        "places": "Valentia (Hispania), Olisipo (Lusitania), Achates (Ragusae, Italia)",
+        "places": "Valentia (Hispania); Olisipo (Portugallia); Acate (Ragusa, Italia)",
         "place_of_death": "Valentia, Hispania",
         "place_of_birth": "Osca / Valentia / Caesaraugusta",
         "place_of_burial": "Basilica Valentina (Hispania) / Basilica Olisiponensis (Lusitania) / Achates (Ragusae, Italia; consuetudo popularis)",
@@ -81,7 +81,7 @@
     },
     "StFrancisDeSales_9": {
         "subject": "Sanctus Franciscus de Sales, episcopus et doctor",
-        "places": "Castrum Thorens (Thorens-Glières, Gallia), Lugdunum (Gallia), Genava (Helvetia), Annecium (Gallia)",
+        "places": "Castrum Thorens (Thorens-Glières, Francia); Lugdunum (Francia); Genava (Helvetia); Anicium (Francia)",
         "place_of_death": "Lugdunum (Francia)",
         "place_of_birth": "Salesium (Gallia)",
         "place_of_burial": "Basilica Visitationis, Annecium (Gallia)",
@@ -94,7 +94,7 @@
         "places": "Ecclesia Sancti Pauli ad Regulam (Roma, Italia); Ecclesia Sanctae Mariae in Via Lata (Roma, Italia); Graecia; Turcia; Syria",
         "place_of_death": "Sanctuarium Trium Fontium (Roma, Italia)",
         "place_of_birth": "Tarsus (Turcia) https://www.google.com/maps/place/36%C2%B055'00.0%22N+34%C2%B054'00.0%22E/@36.9546925,34.8770442,11.25z/data=!4m5!3m4!1s0x0:0x0!8m2!3d36.916667!4d34.9",
-        "place_of_burial": "Basilica Sancti Pauli extra muros, Roma",
+        "place_of_burial": "Basilica Sancti Pauli extra Muros (Roma, Italia)",
         "notes": "Paulus Tarsensis, a Christo in via Damascena superatus (cf. Actus Apostolorum 9, 1-19; Philippenses 3, 12), totum se ipsum consecrat ad ministerium cognitionis et nuntiationis novae vitae quam in Christo Iesu Domino suo vivit (cf. Ephesios 3, 1-4; 1 Corinthios 9, 16; Romani 6, 4; Galatae 2, 20). Ambi apostoli, qui \"diversis modis unam Christi familiam congregaverunt\" (Prefatio), suam testimonium Christo martyrio Romae signaverunt, circa annum sexagesimum primi saeculi. In Depositio martyrum (336) una cum memoria eorum fit die XXIX Iunii.",
         "patronage": "",
         "main_shrine": "Basilica Sancti Pauli extra muros"
@@ -151,27 +151,27 @@
     },
     "StAnsgar_17": {
         "subject": "Sanctus Ansgarius, episcopus",
-        "places": "Gallia (Germania), Dania, Suecia",
+        "places": "Gallia; Germania; Dania; Suetia",
         "place_of_death": "Brema (Germania)",
         "place_of_birth": "Ambianis (Gallia)",
-        "place_of_burial": "Hamburgum",
+        "place_of_burial": "Hamburg (Germania)",
         "notes": "Ansgarius (Germania, 801 - 3 Februarii 865), monachus abbatis Corbiensis (Francia), deinde magister in Corbeia (Germania), evangelium in Daniam et Sueciam propagavit. Primus episcopus Hamburgensis fuit (831), cuius sedi postea Bremensis (848) coniuncta est. Papa Gregorius IV eum archiepiscopum et legatum papalem Danis et Svecis nominavit.",
         "patronage": "",
         "main_shrine": "Reliquiae in Hamburgo in duabus ecclesiis reperiuntur: in Cathedrali Sanctae Mariae (Germ.: Domkirche St. Marien) et in Ecclesia paroeciali Sancti Ansgarii et Sancti Bernardi (Germ.: Pfarrkirche St. Ansgar und St. Bernhard)."
     },
     "StAgatha_18": {
         "subject": "Sancta Agatha, virgo et martyr",
-        "places": "Catania (Sicilia, Italia), Roma, Ecclesia Sanctae Sophiae Constantinopoli (hodierno Istanbul, Turcia)",
+        "places": "Catana (Sicilia, Italia); Roma (Italia); Ecclesia Sanctae Sophiae Constantinopoli (hodierna Istanbul, Turcia)",
         "place_of_death": "Catana (Sicilia, Italia)",
         "place_of_birth": "Catania (Sicilia, Italia)",
-        "place_of_burial": "Catania, Constantinopolis",
+        "place_of_burial": "Catana (Sicilia, Italia); Constantinopolis (hodierna Istanbul, Turcia)",
         "notes": "Agatha fuit martyr Cataniae, probabiliter durante persecutione Decii (251). Cultus eius coepit diffundi saeculo V, cum papa Symmachus ei basilicam in via Aurelia dicavit. Anniversarium mortis eius commemoratur die 5 Februarii a Martyrologio Hieronymiano (saec. V-VI); nomen eius insertum est in Canone Romano. 1040, Georgius Maniaces generalis missus ab imperatore byzantino Michaele IV Paphlagone ad reconquisitionem Siciliae, quae ab anno 945 constituta erat in Emirato Siciliae, reliquias Sanctae Agathae a civitate subtrahit, quae in primitivo templo custodiebantur. Reliquiae in basilica cathedrali Sanctae Sophiae custoditae sunt et per octoginta sex annos Constantinopoli manserunt. Suntne reliquiae ecclesiae a Papa Symmacho in Via Aurelia dicatae? S. Agatha in Fundo Lardario Est ecclesia ei dicata a saeculo V Romae: https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Agata_dei_Goti",
         "patronage": "",
         "main_shrine": "Cathedrale Sanctae Agathae Cataniae (https://it.wikipedia.org/wiki/Cattedrale_di_Sant%27Agata)"
     },
     "StsPaulMiki_19": {
         "subject": "Sancti Paulus Miki et socii, martyres",
-        "places": "Settsu (Iaponia), Nagasaki (Iaponia)",
+        "places": "Settsu (Iaponia); Nagasaki (Iaponia)",
         "place_of_death": "Nagasaki (Iaponia)",
         "place_of_birth": "Kyoto (Iaponia)",
         "place_of_burial": "Nagasaki (Iaponia)",
@@ -182,19 +182,19 @@
     "StJeromeEmiliani_20": {
         "subject": "Sanctus Hieronymus Aemilianus",
         "places": "Somasca (Italia)",
-        "place_of_death": "Somasca, Leucum (Italia)",
+        "place_of_death": "Somasca (Leucum, Italia)",
         "place_of_birth": "Venetiae (Italia)",
         "place_of_burial": "Sanctuarium Sancti Hieronymi Aemiliani apud Vercuragum Somascae (Leucum, Italia)",
         "notes": "Hieronymus Miani, sive Aemilianus (Venetiae, 1486 - Somasca, Leucum, 8 februarii 1537), castellanus Serenissimae, captus et prodigiose liberatus, se pauperibus et infirmis servitio dedit; curam habuit orphanorum et meretricum. Postquam in variis urbibus operatus est, Somascae «Societatem servorum pauperum» condidit, postea Clerici Regulares Somascae dicti.",
         "patronage": "",
-        "main_shrine": "Basilica Sancti Bartholomaei et Sancti Hieronymi Aemiliani, Somasca (Leucum, Italia)"
+        "main_shrine": "Basilica Sancti Bartholomaei et Sancti Hieronymi Aemiliani de Somasca (Lecco, Italia)"
     },
     "StScholastica_21": {
         "subject": "Sancta Scholastica, virgo",
-        "places": "Nursia, Montecassinum, Subiacum (Italia)",
-        "place_of_death": "Montecassinum, Frusino (Italia)",
+        "places": "Nursia (Italia); Mons Cassinus (Italia); Subiacum (Italia)",
+        "place_of_death": "Mons Cassinus (Frosinone, Italia)",
         "place_of_birth": "Nursia (Perusia, Italia)",
-        "place_of_burial": "Abbatia Montis Cassini",
+        "place_of_burial": "Abbatia Montis Cassini (Italia)",
         "notes": "Scholastica (Nursia, Perusia, 480 ca. - Montecassinum, Frusino, 547 ca.) a traditione ut soror sancti Benedicti indicatur. Dialogi Gregorii Magni eam describunt ut virginem contemplationis amantem, sapientem in caritate omni regula humana praeferenda. Die 10 februarii commemoratur in Calendario marmoreo Neapolitano (saec. IX) et in Martyrologio Usuardi (870 ca.).",
         "patronage": "",
         "main_shrine": "Abbatia Montis Cassini (Italia)"
@@ -211,10 +211,10 @@
     },
     "StCyrilThessalonica_23": {
         "subject": "San Cyrillus, monachus",
-        "places": "Thessalonica (Graecia), Roma (Italia)",
+        "places": "Thessalonica (Graecia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Thessalonica (Graecia)",
-        "place_of_burial": "Basilica Sancti Clementis, Roma",
+        "place_of_burial": "Basilica Sancti Clementis (Roma, Italia)",
         "notes": "Fratres Cyrillus (Constantinus) et Methodius (Michael), nati Thessalonicae (hodierna Thessalonica, Graecia) ineunte saeculo IX, populos Pannoniae et Moraviae evangelizaverunt. Alphabetum glagoliticum ad scribendum in lingua slavica invenientes, Sacram Scripturam et textus liturgicos pro novis populis ad quos missi erant, traduxerunt. Quamvis oppositiones a nonnullis episcopis germanicae regionis ortae sint, eorum missio a papa Hadriano II approbata est. Cyrillus Romae mortuus est die 14 februarii 869. Methodius, archiepiscopus Sirmii (hodierna Sremska Mitrovica, Serbia) electus et legatus papalis apud Slavos, in Moravia (hodierna Res Publica Bohemica) mortuus est die 6 aprilis 885. Evangelii nuntiatio novis populis cum respectu eorum culturae, a his sanctis peracta, «exemplar vivum manet pro Ecclesia et missionariis omnium temporum» (Ioannes Paulus II, Slavorum apostoli, 7).",
         "patronage": "",
         "main_shrine": "Basilica Sancti Clementis, Roma"
@@ -233,11 +233,11 @@
         "subject": "Sanctus Petrus Damianus, episcopus et Ecclesiae doctor",
         "places": "non pertinet",
         "place_of_death": "Faventia (Italia)",
-        "place_of_birth": "Ravenna",
+        "place_of_birth": "Ravenna (Italia)",
         "place_of_burial": "Monasterium Benedictinum Sanctae Mariae Extra Muros (Faventia)",
         "notes": "Plura monasteria condidit, sed peculiari modo monasterio Fontis Avellanae coniungitur. In itinere reditus ad eremum Gamognam (unum ex multis ab eo conditis), subito morbo coactus est Faventiae subsistere. Hospitio exceptus est in monasterio Benedictino Sanctae Mariae Extra Muros (hodie nota ut Sancta Maria Vetus), ubi nocte inter diem 21 et 22 Februarii 1072 animam efflavit. Primo sepultus est in ecclesia monasterii et postea ossa eius translata sunt in cathedralem Faventiae, ubi adhuc servantur.",
         "patronage": "",
-        "main_shrine": "Cathedrale Faventiae"
+        "main_shrine": "Cathedralis Faventiae (Italia)"
     },
     "StPolycarp_27": {
         "subject": "Sanctus Polycarpus, episcopus et martyr",
@@ -271,7 +271,7 @@
     },
     "StJohnGod_30": {
         "subject": "Sanctus Ioannes a Deo, religiosus",
-        "places": "Montemor-o-Novo (Lusitania), Granata (Hispania)",
+        "places": "Montemor-o-Novo (Portogallia); Granata (Hispania)",
         "place_of_death": "Granata (Hispania)",
         "place_of_birth": "Montemor-o-Novo (Lusitania)",
         "place_of_burial": "Granata (Hispania)",
@@ -311,7 +311,7 @@
     },
     "StJoseph_34": {
         "subject": "Sanctus Ioseph Sponsus Beatae Mariae Virginis",
-        "places": "Bethlehem (Palaestina), Nazareth (Israël)",
+        "places": "Bethlehem (Palaestina); Nazareth (Israël)",
         "place_of_death": "Nazareth (Israel)",
         "place_of_birth": "Bethlehem (Palaestina)",
         "place_of_burial": "Sepulcrum Iusti Nazareth?",
@@ -441,7 +441,7 @@
     },
     "StCatherineSiena_48": {
         "subject": "Sancta Catharina Senensis, virgo et Ecclesiae doctor",
-        "places": "Senae, Roma",
+        "places": "Senensis (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Sena (Italia)",
         "place_of_burial": "Roma (Italia)",
@@ -454,7 +454,7 @@
         "places": "Bosco Marengo (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Bosco Marengo, Alexandria (Italia)",
-        "place_of_burial": "Basilica Sanctae Mariae Maioris, Roma",
+        "place_of_burial": "Basilica Sanctae Mariae Maioris (Roma, Italia)",
         "notes": "Michael (saeculo Antonius) Ghislieri (Bosco Marengo, Alexandria, 17 Ianuarii 1504 - Roma, 1 Maii 1572), Dominicanus, fuit papa ab 1566. Primam applicationem Concilii Tridentini attuavit, incipiens a curia romana et Urbe. Catechismum (1566) publicavit, reformationem Breviarii (1568) et Missalis (1570) curavit. Fidem in Europa et Oriente diffundere promovit, eamque contra expansionem Ottomanicam defendit (Lepanto, 7 Octobris 1571).",
         "patronage": "",
         "main_shrine": "Basilica Sanctae Mariae Maioris, Roma"
@@ -477,7 +477,7 @@
         "place_of_burial": "Hierapolis (hodierna Pammukale), Turcia; et Hierosolyma",
         "notes": "Philippus, oriundus Bethsaida, a Iesu vocatus est ut eum sequeretur; ipse Natanaelem invitat ut veniat et videat Messiam (cf. Io 1, 43-46); adest, cum Andrea, ad multiplicationem panum (cf. Io 6, 1-15) et cum quidam Graeci, ad Pascha Hierosolymam ascenderunt, petunt ut Iesum videant (cf. Io 12, 20-36). Durante ultima Cena ipse rogat: «Domine, ostende nobis Patrem et sufficit nobis» (Io 14, 8). Iacobus, filius Alphaei, unus est ex duodecim apostolis (cf. Mc 3, 18; Lc 6, 15). Sanctus Paulus ei attribuit specificam apparitionem Resurgentis (cf. 1 Cor 15, 7). Peculiari honore et auctoritate in primis communitatibus christianis fruebatur (cf. Act 15, 13-21; 21, 18; Gal 2, 9). Duo apostoli una festa commemorantur quia, secundum traditionem, eorum reliquiae sub altari basilicae Duodecim Apostolorum Romae die dedicationis eius (1 Maii 565 ca.) collocatae sunt.",
         "patronage": "",
-        "main_shrine": "Basilica Sanctorum Apostolorum, Roma (Italia); Ecclesia Armena Sancti Iacobi, Hierosolyma"
+        "main_shrine": "Basilica Sanctorum Apostolorum (Roma, Italia); Ecclesia Armena Sancti Iacobi, Hierosolyma"
     },
     "StsNereusAchilleus_53": {
         "subject": "Sancti Nereus et Achilleus, martyres",
@@ -492,9 +492,9 @@
     "StPancras_54": {
         "subject": "Sanctus Pancratius, martyr",
         "places": "Roma (Italia)",
-        "place_of_death": "Roma",
+        "place_of_death": "Mexicopolis (Mexicum)",
         "place_of_birth": "Sinnada (hodierna Şuhut, Turcia)",
-        "place_of_burial": "Cœmeterium Octavillæ, Roma",
+        "place_of_burial": "Cœmeterium Ottavillae (Roma, Italia)",
         "notes": "Pancratius (saec. III vel IV), martyr Romanus, sepultus est in cœmeterio Octavillæ, via Aurelia, ut cultus traditio testatur, confirmata a papa Symmacho (498-514) cum erectione in eo loco basilicæ in eius honorem. Antiquissimum martyrii narratio describit Pancratium ut adulescentem, vix quattuordecim annorum. Recolitur die 12 Maii in Martyrologio Hieronymiano (saec. V-VI).",
         "patronage": "",
         "main_shrine": "Basilica Sancti Pancratii, Roma"
@@ -511,7 +511,7 @@
     },
     "StJohnIPope_56": {
         "subject": "Sanctus Ioannes I, papa et martyr",
-        "places": "Ravenna, Roma",
+        "places": "Ravenna (Italia); Roma (Italia)",
         "place_of_death": "Ravenna (Italia)",
         "place_of_birth": "Sena Iulia vel Clusinum vel Anglaria, Tuscia (Italia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
@@ -594,10 +594,10 @@
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Roma (Italia)",
-        "place_of_burial": "Catacumba Sanctorum Marcellini et Petri \"Ad duas lauros\", Roma (Italia)",
+        "place_of_burial": "Catacumba Sanctorum Marcellini et Petri \"Ad duas lauros\" (Roma, Italia)",
         "notes": "Marcellinus, presbyter, et Petrus, exorcista, Romae sub Diocletiano (303-305), via Casilina, in loco Tor Pignattara, martyrio affecti sunt. Futurus papa Damasus, in iuventute, potuit narrationem mortis eorum ex testimonio ipsius carnificis colligere. Duo martyres in Canone Romano citantur et secundo Iunii a Martyrologio Hieronymiano (saec. V-VI) commemorantur.",
         "patronage": "",
-        "main_shrine": "Catacumba Sanctorum Marcellini et Petri \"Ad duas lauros\", Roma (Italia)"
+        "main_shrine": "Catacumba Sanctorum Marcellini et Petri \"Ad duas lauros\" (Roma, Italia)"
     },
     "StsCharlesLwanga_66": {
         "subject": "Sancti Carolus Lwanga et socii, martyres",
@@ -621,13 +621,13 @@
     },
     "StNorbert_68": {
         "subject": "Sanctus Norbertus",
-        "places": "Praga, Res Publica Bohemica",
+        "places": "Praga (Res Publica Bohemica)",
         "place_of_death": "Magdeburgum (Germania)",
         "place_of_birth": "Xanten (Germania)",
-        "place_of_burial": "Monasterium Strahoviense, Praga, Res Publica Bohemica",
+        "place_of_burial": "Monasterium Strahoviense (Praga, Res Publica Bohemica)",
         "notes": "Norbertus (Xanten, Germania, 1080/1085 - Magdeburgum, 6 Iunii 1134) post conversionem, quamvis adhuc laicus, praedicationem itinerantem incepit. Apud Prémontré (Francia) coetum discipulorum, clericorum et laicorum, congregavit, ex quo Ordo Canonicorum Regularium Praemonstratensium ortus est. Archiepiscopus Magdeburgensis electus, reformationi cleri se dedit.",
         "patronage": "",
-        "main_shrine": "Monasterium Strahoviense, Praga, Res Publica Bohemica"
+        "main_shrine": "Monasterium Strahoviense (Praga, Res Publica Bohemica)"
     },
     "StEphrem_69": {
         "subject": "Sanctus Ephraem, diaconus et doctor",
@@ -673,8 +673,8 @@
         "subject": "Sanctus Aloysius Gonzaga, religiosus",
         "places": "Castellio Stivieri (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
-        "place_of_birth": "Castellio Stiviarum, Mantua (Italia)",
-        "place_of_burial": "Ecclesia Sancti Ignatii de Loyola, Roma; cranium conservatur in basilica ei dicata in Castiglionis Stivieri",
+        "place_of_birth": "Castillionum Stivieri (Mantua, Italia)",
+        "place_of_burial": "Ecclesia Sancti Ignatii de Loyola (Roma, Italia); cranium servatur in basilica ei dicata Castillionis Stivieri (Mantua, Italia)",
         "notes": "Aloysius (Castellio Stivieri, Mantua, 9 Martii 1568 - Roma, 21 Iunii 1591), primogenitus heres marchionatus gonzaghensis urbis natalis, patris firmam oppositionem provocans, vitam et cursum curiae renuntiavit et in Societatem Iesu ingressus est, ubi, vivida intelligentia et forti voluntate praeditus, spirituali ductu sancti Roberti Bellarmini frui potuit. Generosa dedicatio pauperibus et aegrotis eius delicatam constitutionem physicam laesit et paucis annis ad mortem duxit.",
         "patronage": "",
         "main_shrine": "Ecclesia Sancti Ignatii de Loyola, Roma"
@@ -687,7 +687,7 @@
         "place_of_burial": "Cathedrale Nolana",
         "notes": "Paulinus (Burdigala, Gallia, 355 ca. - Nola, Neapolis, 22 iunii 431), vir eruditus, Campaniae praefectus, se a publica scena subtraxit et, cum uxore Therasia, vitam asceticam prope Nolam egit. Episcopus illius urbis electus, Ecclesiam suam viginti duos annos cum mansuetudine et fervore rexit. In relatione fuit cum Ambrosio Mediolanensi, Martino Turonensi, Augustino. Etiam in poesi versatus, carmina eruditione et fide plena composuit. Recolitur die 22 iunii in Martyrologio Hieronymiano (saec. V-VI). De re reliquiarum vide https://www.diocesinola.it/comunicazioni-sociali/indialogo-blog/post/2020/5/reliquie-paolino",
         "patronage": "",
-        "main_shrine": "Cathedrale Nolana"
+        "main_shrine": "Cathedrale Nolana (Italia)"
     },
     "StJohnFisher_75": {
         "subject": "Sancti Ioannes Fisher, episcopus et martyr et Thomas More, martyr",
@@ -701,9 +701,9 @@
     },
     "NativityJohnBaptist_76": {
         "subject": "Nativitas Sancti Ioannis Baptistae",
-        "places": "Sebaste, Palaestina; Macheronte, Iordania; Roma (Italia)",
-        "place_of_death": "Macheronte, Iordania",
-        "place_of_birth": "Ein Kerem, Palaestina / Israel",
+        "places": "Sebaste (Palaestina); Macheronte (Iordania); Roma (Italia)",
+        "place_of_death": "Macheronte (Iordania)",
+        "place_of_birth": "Ein Kerem (Palaestina / Israel)",
         "place_of_burial": "Sebaste (Palaestina)",
         "notes": "Ioannes Baptista est unicus sanctus – praeter Matrem Domini – cuius Ecclesia celebrat simul nativitatem in caelum et secundum carnem. Propheta ex utero matris (cf. Lc 1, 41), Ioannes testimonium perhibet Agno Dei in mundum venienti (cf. Io 1, 29-34). «Amicus Sponsi» (Io 3, 29), exsultat praeparans vias fortiori se per verbum, baptismum conversionis et donum vitae suae (cf. Lc 1, 76; Mc 1, 7-8; 6, 17-29). Sic Augustinus diem festum hodiernum commentatur: «Verbum natum est die 25 decembris, cum dies incipiunt crescere, dum Vox nata est ante Verbum, sed cum dies incipiunt minui: “Illum oportet crescere, me autem minui” (Io 3, 30)».",
         "patronage": "",
@@ -731,20 +731,20 @@
     },
     "StPeterApostle_79": {
         "subject": "Sanctus Petrus, apostolus",
-        "places": "Sanctus Petrus in Montorio, Roma Sanctus Petrus in Vinculis, Roma Sancta Pudentiana, Roma",
+        "places": "Sanctus Petrus in Montorio (Roma, Italia); Sanctus Petrus in Vinculis (Roma, Italia); Sancta Pudentiana (Roma, Italia)",
         "place_of_death": "Roma",
         "place_of_birth": "Bethsaida, Lacus Galilaeae, hodierna Israel",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
         "notes": "Simon, piscator Bethsaidae, unus ex primis discipulis Christi (cf. Mc 1, 16-20), eligitur ut «primus» (Mt 10, 2) inter Duodecim. Mutans nomen eius in Petrum, Iesus ei committit officium confirmandi fratres in fide et pascendi gregem Ecclesiae suae (cf. Mt 16, 13-19; Lc 22, 31-32; Io 21, 15-19). Paulus Tarsensis, a Christo captus in via Damasci (cf. Act 9, 1-19; Phil 3, 12), totum se ipsum consecrat ad servitium intelligentiae et annuntiationis novae vitae quam in Christo Iesu Domino suo vivit (cf. Eph 3, 1-4; 1 Cor 9, 16; Rom 6, 4; Gal 2, 20). Ambo apostoli, qui «diversis modis unam Christi familiam congregaverunt» (Praefatio), testimonium suum Christo martyrio Romae signaverunt, annis sexagesimis primi saeculi. In Depositio martyrum (336) simul commemorantur die 29 Iunii.",
         "patronage": "",
-        "main_shrine": "Basilica Sancti Petri in Vaticano; Ecclesia Sancti Petri in Capharnaum"
+        "main_shrine": "Basilica Sancti Petri in Vaticano; Ecclesia Sancti Petri in Capharnaum (Israel)"
     },
     "FirstMartyrsRome_80": {
         "subject": "Sancti Primi Martyres Ecclesiae Romanae",
-        "places": "Roma",
-        "place_of_death": "Roma",
+        "places": "Mexicopolis (Mexicum)",
+        "place_of_death": "Mexicopolis (Mexicum)",
         "place_of_birth": "non pertinet",
-        "place_of_burial": "Catacumbae",
+        "place_of_burial": "Catacumbae Romae",
         "notes": "Primi Martyres Ecclesiae Romanae sunt «magna turba» christianorum a Nerone imperatore occisorum, conante suspiciones de incendio Urbis (Iulio 64) a se removere. Ut testatur historicus paganus Tacitus in Annalibus suis, illi innocentes «tormentis exquisitissimis» subiecti «misericordiam excitaverunt, cum palam esset eos non ad publicum bonum, sed ad unius saevitiam immolatos esse».",
         "patronage": "",
         "main_shrine": "non pertinet"
@@ -753,11 +753,11 @@
         "subject": "Sanctus Thomas Apostolus",
         "places": "Ortona (Italia); Chennai (India)",
         "place_of_death": "Mylapore (India)",
-        "place_of_birth": "Galilaea, Palaestina Romana",
+        "place_of_birth": "Galilaea (Palaestina Romana)",
         "place_of_burial": "saec. I-III: Meliapor (hodierna Chennai, India); saec. III-?: Edessa (hodierna Şanlıurfa), Turcia: saec. ?-XIII: Insula Chii in Aegaeo; saec. XIII-hodie: Basilica Sancti Thomae, Ortona (Italia)",
         "notes": "Thomas, «qui dicitur Didymus» – quod significat «geminus» –, est «unus ex Duodecim» (Io 20, 24; cf. Mc 3, 18). Cum Iesus velit redire in Iudaeam ut suscitaret Lazarum e sepulcro, Thomas hortatur alios discipulos ut sequantur Magistrum et sint parati «mori cum eo» (Io 11, 16); in ultima Cena, rogat Magistrum ut ostendat quae sit «via» de qua loquitur (cf. Io 14, 5). Absens cum Iesus apparuit vesperi resurrectionis suae, ille, ad nuntium aliorum discipulorum, incredulus manet et, «post dies octo» (Io 20, 26), donum accipit videndi Resurgentem et proclamandi eum «Dominus meus et Deus meus» (Io 20, 28). Martyrologium Hieronymianum (saec. V-VI) memorat translationem corporis eius ad Edessam die 3 Iulii.",
         "patronage": "",
-        "main_shrine": "Basilica Sancti Thomae (Ortona, Italia); Cathedralis Sancti Thomae, Chennai (Madras, India)"
+        "main_shrine": "Basilica Sancti Thomae (Ortona, Italia); Cathedralis Sancti Thomae Chennai (Madras, India)"
     },
     "StElizabethPortugal_82": {
         "subject": "Sancta Elisabeth Lusitaniae",
@@ -774,10 +774,10 @@
         "places": "Cremona (Italia); Mediolanum (Italia)",
         "place_of_death": "Cremona (Italia)",
         "place_of_birth": "Cremona (Italia)",
-        "place_of_burial": "Ecclesia Sanctorum Pauli et Barnabae seu sacellum Sancti Antonii Mariae Zaccaria, Mediolanum",
+        "place_of_burial": "Ecclesia Sanctorum Pauli et Barnabae seu sacellum Sancti Antonii Mariae Zaccaria (Mediolanum, Italia)",
         "notes": "Antonius (Cremona, 1502/1503 - 5 iulii 1539), medicus, pauperibus curam praestitit. Presbyter ordinatus, Societatem Clericorum Regularium Sancti Pauli – Barnabitas dictos ab ecclesia Sancti Barnabae Mediolani ubi originem habuerunt – et Societatem coniugatorum, ad sanctitatem in matrimonio, condidit. Praedicatione sua fidem et devotionem popularem renovavit.",
         "patronage": "",
-        "main_shrine": "Ecclesia Sanctorum Pauli et Barnabae seu sacellum Sancti Antonii Mariae Zaccaria, Mediolanum"
+        "main_shrine": "Ecclesia Sanctorum Pauli et Barnabae seu sacellum Sancti Antonii Mariae Zaccaria (Mediolanum, Italia)"
     },
     "StMariaGoretti_84": {
         "subject": "Sancta Maria Goretti, virgo et martyr",
@@ -814,10 +814,10 @@
         "places": "Bucchianicum (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Bucchianicum (Teate) (Italia)",
-        "place_of_burial": "Ecclesia Sanctae Mariae Magdalenae, Roma (Italia)",
+        "place_of_burial": "Ecclesia Sanctae Mariae Magdalenae (Roma, Italia)",
         "notes": "Camillus (Bucchianicum, Theate, 25 Maii 1550 - Roma, 14 Iulii 1614) iuvenis miles fortunae et ludo deditus fuit; fidem in conventu Capuccinorum Manfredoniae rediscovit; desiderans Ordinem ingredi, bis novitiatum incepit, sed ulcus incurabile in pede eum prohibuit. In nosocomio Sancti Iacobi de Incurabilibus Romae receptus, sanctum Philippum Nerium convenit qui eum in itinere spirituali adiuvit; postea se totum vitae in servitium Christi, in curam amantem membrorum eius patientium, devovit. Presbyter factus, Clericos regulares infirmis ministrantes (Camillianos) fundavit.",
         "patronage": "",
-        "main_shrine": "Ecclesia Sanctae Mariae Magdalenae, Roma (Italia)"
+        "main_shrine": "Ecclesia Sanctae Mariae Magdalenae (Roma, Italia)"
     },
     "StBonaventure_88": {
         "subject": "Sanctus Bonaventura, episcopus et doctor",
@@ -861,9 +861,9 @@
     },
     "StBridget_92": {
         "subject": "Sancta Brigida, religiosa",
-        "places": "Ecclesia Sanctae Brigidae Vadstena, Suetia; Ecclesia Sanctae Brigidae Romae (Italia)",
+        "places": "Ecclesia Sanctae Brigidae Vadstena (Suetia); Ecclesia Sanctae Brigidae Roma (Italia)",
         "place_of_death": "Roma (Italia)",
-        "place_of_birth": "Finsta, Suecia",
+        "place_of_birth": "Finsta (Suecia)",
         "place_of_burial": "Ecclesia Sanctae Brigidae Romae (Italia)",
         "notes": "Brigida (Finsta, Suecia, 1302/1303 - Roma, 23 iulii 1373), ex alta nobilitate Suecica, cum marito ad intensam vitam spiritualem et fervidam caritativam operam se dedit. Post mortem coniugis et matrimonium octo filiorum tempus solitudinis et orationis vixit, cuius fine Ordinem monasticum Sanctissimi Salvatoris, ramum masculinum et femininum comprehendens, fundavit. Romam translata, propter prophetias suas et adhortationes ad reformationem Ecclesiae clara facta est, etiam pro reditu papae ab Avinione laborans. Anno 1999 sanctus Ioannes Paulus II eam patronam Europae proclamavit.",
         "patronage": "",
@@ -904,7 +904,7 @@
         "places": "Loyola, Hispania; Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Loyola, Hispania",
-        "place_of_burial": "Ecclesia Iesu, Roma",
+        "place_of_burial": "Ecclesia Iesu (Roma, Italia)",
         "notes": "Iñigo Lòpez (Loyola, Hispania, 1491 - Roma, 31 iulii 1556), ex nobili familia Vasconica, vulneratus est in defensione urbis Pompei. Durante convalescentiam, lectio vitae Christi et nonnullorum sanctorum initium conversionis ei fuit. Longum iter eum perduxit ad tempus discretionis spiritualis et ad longam periodum studiorum philosophicorum et theologorum, quae Parisiis culminaverunt. Ibi circa eum coetus sociorum formatus est, cum quibus se Papae Paulo III praesentavit. Ei suum idealem exposuerunt: defensio et propagatio fidei et absoluta promptitudo Romano Pontifici quoad quamlibet missionem quam eis pro expansion missionaria Evangelii et reformatione Ecclesiae committere vellet. Spiritualitas Societatis Iesu cardinem habet in Exercitiis spiritualibus, quae compendium sunt interioris experientiae Ignatii. Papa Gregorius XV eum inter sanctos anno 1622 adscripsit.",
         "patronage": "",
         "main_shrine": "Ecclesia Iesu, Roma"
@@ -964,10 +964,10 @@
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Graecia",
-        "place_of_burial": "Basilica Sancti Sixti Veteris, Roma (Italia)",
+        "place_of_burial": "Basilica Sancti Sixti Veteris (Roma, Italia)",
         "notes": "Sixtus, papa (257-258), secundum testimonium sancti Cypriani Carthaginensis captus est in coemeterio Callisti, via Appia, durante persecutione qua imperator Valerianus duces Ecclesiae ferire voluit. Die 6 Augusti 258, una cum quattuor diaconis, interfectus est et in eodem coemeterio Callisti sepultus. Post tres dies, alius diaconus, sanctus Laurentius, eum in martyrio sequitur. In Canone Romano commemoratur.",
         "patronage": "",
-        "main_shrine": "Basilica Sancti Sixti Veteris, Roma (Italia)"
+        "main_shrine": "Basilica Sancti Sixti Veteris (Roma, Italia)"
     },
     "StCajetan_104": {
         "subject": "Sanctus Caietanus, sacerdos",
@@ -992,12 +992,12 @@
     "StLawrenceDeacon_106": {
         "subject": "Sanctus Laurentius, diaconus et martyr",
         "places": "Osca (Hispania); Roma (Italia)",
-        "place_of_death": "Ecclesia Sancti Laurentii in Panisperna, Roma (Italia)",
+        "place_of_death": "Ecclesia Sancti Laurentii in Panisperna (Roma, Italia)",
         "place_of_birth": "Valentia vel Osca, Hispania",
-        "place_of_burial": "Basilica Sancti Laurentii extra Muros, Roma (Italia)",
+        "place_of_burial": "Basilica Sancti Laurentii extra Muros (Roma, Italia)",
         "notes": "Laurentius († Roma, 10 Augusti 258), diaconus Ecclesiae Romanae, tribus diebus post martyrium papae Xysti II in effusione sanguinis caritatis servitium quod in vita exercuerat confirmavit. Singulares commoventes postea additi ad narrationem mortis eius (ut craticula ignita) devotionem testantur qua Laurentius circumdatus erat, imprimis Romae, urbe cuius compatronus factus est, una cum sanctis Petro et Paulo. In loco sepulturae eius, ad Veranum, basilica in eius honorem aedificata est (saec. IV). Memoria eius die 10 Augusti in Depositio martyrum (336) testatur; nomen eius in Canone Romano citatur.",
         "patronage": "",
-        "main_shrine": "Basilica Sancti Laurentii extra Muros, Roma (Italia)"
+        "main_shrine": "Basilica Sancti Laurentii extra Muros (Roma, Italia)"
     },
     "StClare_107": {
         "subject": "Sancta Clara, virgo",
@@ -1124,10 +1124,10 @@
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Peralta de la Sal, Hispania",
-        "place_of_burial": "Ecclesia Sancti Pantaleonis, Roma (Italia)",
+        "place_of_burial": "Ecclesia Sancti Pantaleonis (Roma, Italia)",
         "notes": "Iosephus (Peralta de la Sal, Hispania, 1557 - Roma, 25 Augusti 1646), ex nobili familia, cursum ecclesiasticum suscepit, Romam proficiscens quaerens aptam collocationem. Ibi multas incepta ad pauperes et aegrotos adiuvandos invenit, et cum sancto Camillo de Lellis collaboravit. Causam pauperum puerorum, qui apta educatione carebant, suscipiens, pro eis scholas gratuitas aperuit et Congregationem Clericorum Regularium Pauperum Matris Dei Scholarum Piarum (Scolopi) fundavit.",
         "patronage": "",
-        "main_shrine": "Ecclesia Sancti Pantaleonis, Roma (Italia)"
+        "main_shrine": "Ecclesia Sancti Pantaleonis (Roma, Italia)"
     },
     "StMonica_120": {
         "subject": "Sancta Monica",
@@ -1137,7 +1137,7 @@
         "place_of_burial": "Basilica Sancti Augustini in Campo Martio (Roma, Italia)",
         "notes": "Monica (Tagaste, actuale Souk Ahras, Algeria, 331 - Ostia, Roma, 387), nata da familia Christiana, ivit in uxorem pagano Patricio et fuit mater Augustini. Postquam filio primam educationem Christianam dedit, per annos, inter lacrimas et preces, conversionem eius ad veram fidem exspectavit. Vidua facta, Augustinum Mediolanum secuta est et ibi conversione eius, quae in Baptismo culminavit, laetata est. In itinere reditus in Africam, ad veram patriam pervenit.",
         "patronage": "",
-        "main_shrine": "Basilica Sancti Augustini, Roma (Italia)"
+        "main_shrine": "Basilica Sancti Augustini (Roma, Italia)"
     },
     "StAugustineHippo_121": {
         "subject": "Sanctus Augustinus Hipponensis, episcopus et Ecclesiae doctor",
@@ -1224,10 +1224,10 @@
         "places": "Montepulciano (Italia); Capua (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Mons Politianus (Siena, Italia)",
-        "place_of_burial": "Ecclesia Sancti Ignatii, Roma (Italia)",
+        "place_of_burial": "Ecclesia Sancti Ignatii (Roma, Italia)",
         "notes": "Robertus (Montepulciano, Siena, 4 Octobris 1542 - Roma, 17 Septembris 1621), iesuita, suam notabilem competentiam theologicam tam in complexis controversiis doctrinalibus (Disputationes de controversiis christianae fidei), quam in redactione catechismi popularis impendit. Cardinalis et archiepiscopus Capuae, exemplarem applicationem Concilii Tridentini dedit, donec gravia munera Romana eum impulserunt ut dioecesim relinqueret ad se totum in servitium Ecclesiae universalis dedicandum.",
         "patronage": "",
-        "main_shrine": "Ecclesia Sancti Ignatii, Roma (Italia)"
+        "main_shrine": "Ecclesia Sancti Ignatii (Roma, Italia)"
     },
     "StJanuarius_130": {
         "subject": "Sanctus Ianuarius, episcopus et martyr",
@@ -1271,13 +1271,13 @@
     },
     "StWenceslaus_134": {
         "subject": "Sanctus Venceslaus, martyr",
-        "places": "Praga, Res Publica Bohemica",
-        "place_of_death": "Starà Boleslav, Res Publica Bohemica",
-        "place_of_birth": "Praga, Res Publica Bohemica",
-        "place_of_burial": "Cathedrale Sancti Viti Pragae, Res Publica Bohemica",
+        "places": "Praga (Res Publica Bohemica)",
+        "place_of_death": "Starà Boleslav (Res Publica Bohemica)",
+        "place_of_birth": "Praga (Res Publica Bohemica)",
+        "place_of_burial": "Cathedrale Sancti Viti Pragae (Res Publica Bohemica)",
         "notes": "Venceslaus (ca. 907 - Starà Boleslav, Res Publica Bohemica, 28 Septembris 929 vel 935), dux Bohemiae, in fide educatus – etiam gratia aviae, sanctae Ludmillae –, christianizationem patriae promovit. A fratre suo Boleslao occisus, dum ad ecclesiam oratum iret, cultum popularem habuit ut martyr et «princeps perpetuus» Bohemiae.",
         "patronage": "",
-        "main_shrine": "Cathedrale Sancti Viti Pragae, Res Publica Bohemica"
+        "main_shrine": "Cathedrale Sancti Viti Pragae (Res Publica Bohemica)"
     },
     "StsArchangels_135": {
         "subject": "Sancti Michael, Gabriel et Raphael, archangeli",
@@ -1364,20 +1364,20 @@
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Decimum (Lucensis, Italia)",
-        "place_of_burial": "Ecclesia Sanctae Mariae in Campitelli, Roma (Italia)",
+        "place_of_burial": "Ecclesia Sanctae Mariae in Campitelli (Roma, Italia)",
         "notes": "Ioannes (Diecimo, Lucae, 1541 - Roma, 9 Octobris 1609) se dedit institutioni religiosa puerorum, laicos adultos implicans in «Societate doctrinae christianae». Promovit renovationem cleri cum «Confraternitate presbyterorum reformatarum Beatae Virginis», postea dicti Clerici regulares Matris Dei. Romae occurrit sancto Philippo Neri et participavit in impetu missionario temporis, cooperans in consilio futurae Congregationis de propaganda fide et collegii ad formationem missionariorum ad gentes.",
         "patronage": "",
-        "main_shrine": "Ecclesia Sanctae Mariae in Campitelli, Roma (Italia)"
+        "main_shrine": "Ecclesia Sanctae Mariae in Campitelli (Roma, Italia)"
     },
     "StCallistusIPope_144": {
         "subject": "Sanctus Callistus I, papa et martyr",
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Roma (Italia)",
-        "place_of_burial": "Cimiterium Calepodii, Via Aurelia, Roma",
+        "place_of_burial": "Cemeterium Calepodii, Via Aurelia (Roma, Italia)",
         "notes": "Callistus, servus quondam, fuit papa ab anno 218 ad 222. Nomen suum primo cimiterio officiali Ecclesiae Romanae, in via Appia, adiunxit. Passus est propter dissensiones internas in communitate christiana et martyrium passus est Romae, in loco ubi ecclesia ei dicata surgit. Sepultura eius in cimiterio Calepodii, in via Aurelia, memoratur die 14 Octobris in Depositio martyrum (336).",
         "patronage": "",
-        "main_shrine": "Basilica Sanctae Mariae in Trastevere, Roma (Italia)"
+        "main_shrine": "Basilica Sanctae Mariae in Trastevere (Roma, Italia)"
     },
     "StTeresaJesus_145": {
         "subject": "Sancta Teresia Abulensis, virgo et doctor",
@@ -1417,7 +1417,7 @@
         "place_of_burial": "Basilica Sancti Clementis, Roma (Italia)",
         "notes": "Ignatius, episcopus Antiochiae Syriae (hodierna Antakya, Turcia), tempore imperatoris Traiani (98-117) captus est ut christianus et Romam ductus est ut bestiis in circo daretur. In itinere suo solatus est congressu cum quibusdam Ecclesiis Asiae Minoris, quibus septem epistulas reliquit ad nos perventas, vivum documentum doctrinae eius et sollicitudinis pastoralis, testimonium desiderii eius sequendi Christum usque ad martyrium. Coram quibusdam divisionibus, instanter invitavit communitates christianas ad concordiam servandam, ex unica mensa eucharistica haustam, sub ductu episcopi cum presbyterio suo. Memoria eius die 17 octobris in traditione syriaca recolitur; nomen eius in Canone Romano insertum est.",
         "patronage": "",
-        "main_shrine": "Basilica Sancti Clementis, Roma (Italia)"
+        "main_shrine": "Basilica Sanctae Caeciliae in Trastevere (Roma, Italia)"
     },
     "StLukeEvangelist_149": {
         "subject": "Sanctus Lucas Evangelista",
@@ -1444,10 +1444,10 @@
         "places": "Ovada, Alexandria (Italia); Mons Argentarius (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Ovada, Alexandria (Italia)",
-        "place_of_burial": "Basilica Sanctorum Ioannis et Pauli ad Caelium, Roma (Italia)",
+        "place_of_burial": "Basilica Sanctorum Ioannis et Pauli ad Caelium (Roma, Italia)",
         "notes": "Paulus Danei (Ovada, Alexandria, 3 Ianuarii 1694 - Roma, 18 Octobris 1775), attrahitur ad venerationem Crucifixi, se poenitentem in solitudine fecit, deinde praedicationi se dedit. Circa se primum coetum «pauperum Iesu» congregavit, ex quo postea orta est Congregatio Passionis Iesu Christi (Passionistarum): eius sodales se obligant ad devotionem Passionis diffundendam, praesertim per missiones populares. Etiam moniales passionistas instituit, cum monasteriis quae essent scholae vitae spiritualis etiam pro aliis mulieribus. In professione nomen assumpsit Paulus a Cruce, quod bene exprimit centrum vitae et missionis suae.",
         "patronage": "",
-        "main_shrine": "Basilica Sanctorum Ioannis et Pauli ad Caelium, Roma (Italia)"
+        "main_shrine": "Basilica Sanctorum Ioannis et Pauli ad Caelium (Roma, Italia)"
     },
     "StJohnCapistrano_152": {
         "subject": "Sanctus Ioannes a Capestrano, sacerdos",
@@ -1507,7 +1507,7 @@
         "place_of_burial": "non pertinet",
         "notes": "Anniversarium dedicationis basilicae, a Constantino imperatore aedificatae, probabiliter celebratum est a saeculo XII die 9 novembris. Initio erat festum solum urbis Romae. Postea celebratio ad omnes Ecclesias Ritus romani extensa est ad honorandam basilicam quae dicitur ecclesia-mater omnium ecclesiarum Urbis et Orbis et ut signum amoris et unionis erga cathedram Petri.",
         "patronage": "",
-        "main_shrine": "Basilica Sancti Ioannis in Laterano, Roma (Italia)"
+        "main_shrine": "Basilica Sancti Ioannis in Laterano (Roma, Italia)"
     },
     "StLeoGreat_160": {
         "subject": "Sanctus Leo Magnus, papa et doctor",
@@ -1551,13 +1551,13 @@
     },
     "StMargaretScotland_164": {
         "subject": "Sancta Margarita Scotiae",
-        "places": "Abbatia Dunfermline, Scotia; Abbatia Iona, Scotia",
+        "places": "Abbatia Dunfermline (Scotia); Abbatia Iona (Scotia)",
         "place_of_death": "Edimburgum (Regnum Unitum)",
         "place_of_birth": "Nádasd, Hungaria",
-        "place_of_burial": "Abbatia Dunfermline, Scotia",
+        "place_of_burial": "Abbatia Dunfermline (Scotia)",
         "notes": "Margarita (Nádasd, Hungaria, 1045 circiter - Edimburgum, Regnum Unitum, 16 novembris 1093), uxor Malcolmi III regis Scotiae, profundam reformationem in patria et in Ecclesia promovit; abbatiam Ionae sustinuit et ad fundationem illius Dunfermliniensis collaboravit, ubi cum marito sepulta est.",
         "patronage": "",
-        "main_shrine": "Abbatia Dunfermline, Scotia"
+        "main_shrine": "Abbatia Dunfermline (Scotia)"
     },
     "StGertrudeGreat_165": {
         "subject": "Sancta Gertrudis, virgo",
@@ -1604,10 +1604,10 @@
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Roma (Italia)",
-        "place_of_burial": "Catacumbae Sancti Callisti, Roma (Italia)",
+        "place_of_burial": "Catacumbae Sancti Callisti (Roma, Italia)",
         "notes": "Caecilia (saec. III) martyr Romae fuit, ubi basilica in Trastevere (saec. IV) ei dicata est. Cultus eius late diffusus est ex Passione (saec. V) in qua tamquam exemplar virginis christianae exhibetur: dum cantus et soni pro eius nuptiis elevantur, Caecilia in corde hymnum Sponso suo divino canit. Hinc etiam munus patronae musicae ei attributum est. Memoria eius die 22 novembris iam saeculo VI celebrabatur. In Canone Romano commemoratur.",
         "patronage": "",
-        "main_shrine": "Basilica Sanctae Caeciliae in Trastevere, Roma (Italia)"
+        "main_shrine": "Basilica Sanctae Caeciliae in Trastevere (Roma, Italia)"
     },
     "StClementIPope_170": {
         "subject": "Sanctus Clemens I, papa et martyr",
@@ -1617,7 +1617,7 @@
         "place_of_burial": "mare Chersonesi Tauricae; tumulus a Sancto Cyrillo repertus, qui eum Romam reportavit",
         "notes": "Clemens papa (92-99) notus est praecipue propter epistolam ad Ecclesiam Corinthi, ei attributam. Coram divisionibus internis illius communitatis, scriptum Roma missum ad concordiam hortatur, in continuatione ministerii communionis apostolo Petro concrediti, cuius martyrium commemoratur, una cum Pauli et multorum christianorum in persecutione Neronis occisorum. Epistola etiam permittit cognoscere nonnullos aspectus cogitationis et vitae communitatis Romanae. Clemens commemoratur in Martyrologio Hieronymiano (saec. V-VI), in Canone Romano et in omnibus libris liturgicis Romanis.",
         "patronage": "",
-        "main_shrine": "Basilica Sancti Clementis, Roma (Italia)"
+        "main_shrine": "Basilica Sancti Clementis (Roma, Italia)"
     },
     "StColumban_171": {
         "subject": "Sanctus Columbanus, abbas",
@@ -1694,10 +1694,10 @@
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Roma (Italia)",
-        "place_of_burial": "Basilica Sancti Laurentii in Damaso, Roma (Italia)",
+        "place_of_burial": "Basilica Sancti Laurentii in Damaso (Roma, Italia)",
         "notes": "Damasus (Roma, 305 circiter - 11 Decembris 384), diaconus papae Liberii (352-366), postquam comitatus est episcopum suum in exilio imposito ab imperatore propter oppositionem ad politicam filoarianam aulae, successit ei in pontificatu. Pugnavit pro unitate Ecclesiae Romanae, turbata a fortibus contrappositionibus internis, et affirmavit cum vigore primatum Sedis Apostolicae. Promovit cultum martyrum, redigens multas et elegantes epigraphas in eorum memoriam. Commendavit sancto Hieronymo recensionem translationis latinae Bibliorum.",
         "patronage": "",
-        "main_shrine": "Basilica Sancti Laurentii in Damaso, Roma (Italia)"
+        "main_shrine": "Basilica Sancti Laurentii in Damaso (Roma, Italia)"
     },
     "StLucySyracuse_179": {
         "subject": "Sancta Lucia, virgo et martyr",
@@ -1784,7 +1784,7 @@
         "places": "non pertinet",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "non pertinet",
-        "place_of_burial": "Catacumbae Priscillae, Roma",
+        "place_of_burial": "Catacumbae Priscillae (Roma, Italia)",
         "notes": "Silvester fuit papa (314-335) annis quibus Ecclesia, cum Constantino, a potestate imperiali sustineri coepit et urbs Roma primis magnis basilicis christianis ditari. Durante eius pontificatu celebratum est Nicaeae (hodierna Íznik, Turcia) primum Concilium oecumenicum historiae (325). Magna congregatio, ad quam Silvester duos legatos misit, proclamavit, contra haeresim Arii, plenam divinitatem Filii, «consubstantialem Patri». Eius mors commemoratur die 31 Decembris in Depositio episcoporum anni 336. Sepultus est in coemeterio Priscillae, via Salaria.",
         "patronage": "",
         "main_shrine": "non pertinet"
@@ -1811,9 +1811,9 @@
     },
     "StAdalbert_190": {
         "subject": "Sanctus Adalbertus, episcopus et martyr",
-        "places": "Gnesna (Polonia); Praga, Res Publica Bohemica; Roma",
-        "place_of_death": "Tenkitten, hodierna Beregowoje, Russia",
-        "place_of_birth": "Libice nad Cidlinou, Res Publica Bohemica",
+        "places": "Gnesna (Polonia); Praga (Res Publica Bohemica); Roma (Italia)",
+        "place_of_death": "Tenkitten (hodierna Beregowoje, Russia)",
+        "place_of_birth": "Libice nad Cidlinou (Res Publica Bohemica)",
         "place_of_burial": "Dux Polonicus Boleslaus I corpus auro redemit et in cathedrale Gnesnense transtulit. Translatio a Ecclesia Polonica die 20 Octobris commemoratur. Anno 998 imperator Germanicus Otto III ecclesiam Sancti Bartholomaei Romae aedificavit ad reliquias duorum martyrum recipiendas: Sancti Bartholomaei apostoli, cuius corpus in altari maiore custoditur, et Sancti Adalberti, episcopi Pragensis, qui anno 997 occisus est dum gentes paganas ad extremum septentrionalem Europae Christianae evangelizabat.",
         "notes": "Adalbertus (Libice nad Cidlinou, Res Publica Bohemica, circiter 956 - Tenkitten, hodierna Beregowoje, Russia, 23 Aprilis 997) electus est episcopus Pragensis anno 983. Frustratus ob resistentias ad suam actionem pastoralem a populo et clero, Romam se recepit, in monasterium sanctorum Bonifacii et Alexii, in Aventino. Reversus Pragam, missionariae operae se dedit, durante qua a grege paganorum occisus est. Reliquiae eius venerantur Gnesnae et Pragae, ubi anno 1039 portatae sunt.",
         "patronage": "",
@@ -1937,7 +1937,7 @@
         "place_of_burial": "non pertinet",
         "notes": "Devotio ad nomen Mariae orta est in tempore medievali, una cum devotione ad nomen Iesu. Festum liturgicum in universa Ecclesia occidentali introductum est ab Innocentio XI post victoriam de Turcis Vindobonae, die 12 Septembris 1683. Nomen in Bibliis indicat identitatem et missionem personae. Nunc, si nomen Mariae fortasse originis Aegyptiae est, radicem verbi «amare» continet. Ipsa est igitur Amata in qua nullus est defectus (cf. Ct 4, 7), «gratia plena», sicut eam vocat angelus Gabriel (Lc 1, 28). Maria est proinde imago et primitia Ecclesiae, Sponsae quam gratia Dei ex “non-amata” in “amata” transformavit (cf. Os 1, 6; 2, 3).",
         "patronage": "",
-        "main_shrine": "Ecclesia Sanctissimi Nominis Mariae, Roma (Italia)"
+        "main_shrine": "Ecclesia Sanctissimi Nominis Mariae (Roma, Italia)"
     },
     "StAndrewKimTaegon_203": {
         "subject": "Sancti Andreas Kim Taegon, presbyter, Paulus Chong Hasang et socii martyres",
@@ -2001,20 +2001,20 @@
     },
     "StThomasAquinas_212": {
         "subject": "Sanctus Thomas Aquinas, sacerdos et doctor",
-        "places": "Roccasecca, Fossanova (Italia), Tolosa (Francia)",
-        "place_of_death": "Abbatia Fossae Novae apud Privernum, Latium (Italia)",
+        "places": "Roccasecca (Italia); Fossanova (Italia); Tolosa (Francia)",
+        "place_of_death": "Abbatia Fossanova apud Privernum (Latina, Italia)",
         "place_of_birth": "Roccasecca (Frosinone, Italia)",
         "place_of_burial": "Tolosa (Francia)",
         "notes": "Thomas (Roccasecca apud Aquinum, Frosinone, 1224/1225 - Fossanova, Latina, 7 Martii 1274), post primam formationem in monasterio Montis Cassini, discipulus sancti Alberti Magni factus est. Ingressus Ordinem Fratrum Praedicatorum (Dominicanorum), magister innovator Parisiis, Romae et Neapoli fuit, originalem methodum theologicam formans, quae in foedere inter fidem et rationem fundata est. Celeberrima, inter eius multiplices opera, Summa theologiae, systematicam et ingeniosam doctrinam traditam praebet. Eius influxus in cogitationem philosophicam et theologicam saeculorum sequentium determinans fuit. Die 28 Ianuarii est dies translationis eius reliquiarum in conventum Dominicanorum Tolosanum (Francia), anno 1369.",
         "patronage": "",
-        "main_shrine": "Ecclesia Iacobinorum (Tolosa)"
+        "main_shrine": "Ecclesia Iacobinorum (Tolosa, Francia)"
     },
     "StTitus_216": {
         "subject": "Sanctus Titus, episcopus",
         "places": "Creta",
-        "place_of_death": "Gortyna, Creta",
+        "place_of_death": "Gortyna (Creta)",
         "place_of_birth": "non pertinet",
-        "place_of_burial": "Gortyna, Creta",
+        "place_of_burial": "Gortyna (Creta)",
         "notes": "Memoria communis cum Sancto Timotheo. Etiam Titus, Graecae et paganae originis, est «socius et adiutor» apostoli (2 Cor 8, 23), praesertim Corinthi. Tres epistulae Pauli (dictae «pastorales») duobus discipulis diriguntur, qui – secundum traditionem – unus Ephesi, alter Cretae activi erant. Mortuus post annum 69. Non certo scitur quando.",
         "patronage": "",
         "main_shrine": "In ecclesia Sancti Titi apud Candiacum in insula Cretae eius cranium colitur."
@@ -2024,15 +2024,15 @@
         "places": "Desenzano ad Benacum, Brixia (Italia) http://www.angelamerici.org/luoghi/ http://www.angelamerici.it/news_schede.php?testata=Casa%20di%20sancta%20Angela&get_id=6",
         "place_of_death": "Brixia (Italia)",
         "place_of_birth": "Desenzanum ad Benacum (Italia)",
-        "place_of_burial": "Ecclesia Sanctae Angelae Merici (Sanctae Afrae), Brixia (Italia)",
+        "place_of_burial": "Ecclesia Sanctae Angelae Merici (Sanctae Afrae); Brixia (Italia)",
         "notes": "Angela Merici (Desenzanum ad Benacum, 1470 - Brixia, 1540) condidit Brixiae anno 1535 Societatem sanctae Ursulae, institutum vitae consecratae in mundo, propriam Regulam ei tribuens. Memorabilia et Testamentum profundum spiritum evangelicum et intensam vitam spiritualem manifestant. Diffusio Societatis et ortus diversorum Institutorum sororum Ursulinarum venerationem sanctae in mundo divulgaverunt. Canonizata est a Pio VII anno 1807.",
         "patronage": "",
         "main_shrine": "Ecclesia Sanctae Angelae Merici (Sanctae Afrae), Brixia (Italia)"
     },
     "StThomasAquinas_218": {
         "subject": "Sanctus Thomas Aquinas, sacerdos et doctor",
-        "places": "Roccasecca, Fossanova (Italia), Tolosa (Francia)",
-        "place_of_death": "Abbatia Fossae Novae apud Privernum, Latium (Italia)",
+        "places": "Roccasecca (Italia); Fossanova (Italia); Tolosana (Francia)",
+        "place_of_death": "Abbatia Fossanovae Privernensis (Latina, Italia)",
         "place_of_birth": "Roccasecca (Frusino, Italia)",
         "place_of_burial": "Tolosa (Francia)",
         "notes": "Thomas (Roccasecca apud Aquinum, Frusino, 1224/1225 - Fossanova, Latina, 7 Martii 1274), post primam formationem in monasterio Montis Cassini, discipulus sancti Alberti Magni factus est. Ingressus Ordinem Fratrum Praedicatorum (Dominicanorum), magister innovator Parisiis, Romae et Neapoli fuit, originale methodum theologicum fundatum in foedere inter fidem et rationem formulans. Celeberrima, inter suas multiplices opera, Summa theologiae, systematica et ingeniosa doctrinae traditae praesentatione. Determinans fuit eius influxus in cogitationem philosophicam et theologicam saeculorum sequentium. Die 28 Ianuarii est dies translationis eius reliquiarum in conventum Dominicanorum Tolosanum (Francia), anno 1369.",
@@ -2041,8 +2041,8 @@
     },
     "StThomasAquinas_219": {
         "subject": "Sanctus Thomas Aquinas, sacerdos et doctor",
-        "places": "Roccasecca, Fossanova (Italia), Tolosa (Francia)",
-        "place_of_death": "Abbatia Fossae Novae apud Privernum, Latium (Italia)",
+        "places": "Roccasecca (Italia); Fossanova (Italia); Tolosa (Francia)",
+        "place_of_death": "Abbatia Fossanova apud Privernum (Latina, Italia)",
         "place_of_birth": "Roccasecca (Frusino, Italia)",
         "place_of_burial": "Tolosa (Francia)",
         "notes": "Thomas (Roccasecca apud Aquinum, Frusino, 1224/1225 - Fossanova, Latina, 7 Martii 1274), post primam formationem in monasterio Montis Cassini, discipulus sancti Alberti Magni factus est. Ingressus Ordinem Fratrum Praedicatorum (Dominicanorum), magister innovator Parisiis, Romae et Neapoli fuit, originale methodum theologicum fundatum in foedere inter fidem et rationem formulans. Celeberrima, inter suas multiplices opera, Summa theologiae, systematica et ingeniosa doctrinae traditae praesentatione. Determinans fuit eius influxus in cogitationem philosophicam et theologicam saeculorum sequentium. Die 28 Ianuarii est dies translationis eius reliquiarum in conventum Dominicanorum Tolosanum (Francia), anno 1369.",
@@ -2061,13 +2061,13 @@
     },
     "StJohnBosco_221": {
         "subject": "Sanctus Ioannes Bosco, sacerdos",
-        "places": "Basilica Mariae Auxiliatricis (Valdocco, Taurini), Basilica Sacratissimi Cordis (Roma)",
+        "places": "Basilica Mariae Auxiliatricis (Valdocco, Taurini); Basilica Sacratissimi Cordis (Roma)",
         "place_of_death": "Augusta Taurinorum (Italia)",
         "place_of_birth": "Castrum Novum Astensis (Italia)",
-        "place_of_burial": "Basilica Mariae Auxiliatricis, Taurinum (Italia)",
+        "place_of_burial": "Basilica Mariae Auxiliatricis (Taurini, Italia)",
         "notes": "Ioannes Bosco (Castrum Novum Astensis, 16 Augusti 1815 - Taurinum, 31 Ianuarii 1888), presbyter Taurini, curam egit multorum iuvenum in caput Pedemontii post primam urbanizationem industrialem confluentium. Pro eis locum conventus, formationis humanae et professionis, nomine «oratorium» aperuit. In suo methodo educativo amabilitatem sancti Francisci de Sales secutus est, cuius nomine novam congregationem (Societatem sancti Francisci de Sales, seu Salesianos) appellavit, associans, una cum sancta Maria Dominica Mazzarello, Filias Mariae Auxiliatricis.",
         "patronage": "",
-        "main_shrine": "Basilica Mariae Auxiliatricis, Taurinum (Italia)"
+        "main_shrine": "Basilica Mariae Auxiliatricis (Taurini, Italia)"
     },
     "StsPaulMiki_222": {
         "subject": "Sancti Paulus Miki et socii, martyres",
@@ -2082,7 +2082,7 @@
     "StJeromeEmiliani_223": {
         "subject": "San Hieronymus Aemilianus",
         "places": "non pertinet",
-        "place_of_death": "Somasca, Leucum (Italia)",
+        "place_of_death": "Somasca (Leucum, Italia)",
         "place_of_birth": "Venetiae (Italia)",
         "place_of_burial": "Sanctuarium Sancti Hieronymi Aemiliani apud Vercuragum Somascae (Lecco, Italia)",
         "notes": "Hieronymus Miani, sive Aemilianus (Venetiae, 1486 - Somasca, Lecco, 8 februarii 1537), castellanus Serenissimae, captus et prodigiose liberatus, se pauperibus et infirmis servitio dedit; curam habuit orphanorum et meretricum. Postquam in variis urbibus operatus est, fundavit Somascae «Societatem servorum pauperum», postea dictos Clericos Regulares Somascae.",
@@ -2091,30 +2091,30 @@
     },
     "StMethodiusThessalonica_224": {
         "subject": "San Methodius, episcopus",
-        "places": "Thessalonica (Graecia), Velehrad (Res Publica Bohemica)",
-        "place_of_death": "Velehrad, Res Publica Bohemica",
+        "places": "Thessalonica (Graecia); Velehrad (Res Publica Bohemica)",
+        "place_of_death": "Velehrad (Res Publica Bohemica)",
         "place_of_birth": "Thessalonica (Graecia)",
-        "place_of_burial": "Velehrad",
+        "place_of_burial": "Velehrad (Res Publica Bohemica)",
         "notes": "Fratres Cyrillus (Constantinus) et Methodius (Michael), nati Thessalonicae (hodierna Thessalonica, Graecia) ineunte saeculo IX, populos Pannoniae et Moraviae evangelizaverunt. Alphabetum glagoliticum ad scribendum in lingua slavica invenientes, Sacram Scripturam et textus liturgicos pro novis populis ad quos missi erant, transtulerunt. Non obstantibus oppositionibus a nonnullis episcopis germanicae regionis, eorum missio a papa Hadriano II approbata est. Cyrillus Romae mortuus est die 14 februarii 869. Methodius, electus archiepiscopus Sirmii (hodierna Sremska Mitrovica, Serbia) et legatus papalis apud Slavos, mortuus est in Moravia (in hodierna Res Publica Bohemica) die 6 aprilis 885. Evangelii annuntiatio novis populis cum respectu ad eorum culturam, a sanctis hisce peracta, «manet exemplar vivum pro Ecclesia et missionariis omnium temporum» (Ioannes Paulus II, Slavorum apostoli, 7).",
         "patronage": "",
-        "main_shrine": "Basilica Sanctae Mariae Assumptae et Sanctorum Cyrilli et Methodii, Velehrad"
+        "main_shrine": "Basilica Sanctae Mariae Assumptae et Sanctorum Cyrilli et Methodii (Velehrad, Res Publica Bohemica)"
     },
     "StPeterDamian_225": {
         "subject": "Sanctus Petrus Damianus, episcopus et Ecclesiae doctor",
         "places": "non pertinet",
-        "place_of_death": "Faventia",
-        "place_of_birth": "Ravenna",
-        "place_of_burial": "Monasterium Benedictinum Sanctae Mariae Foris Muris (Faventia)",
+        "place_of_death": "Faventia (Italia)",
+        "place_of_birth": "Ravenna (Italia)",
+        "place_of_burial": "Monasterium Benedictinum Sanctae Mariae Extra Muros (Faventia, Italia)",
         "notes": "Plura monasteria condidit, sed praecipue monasterio Fontis Avellanae coniungitur. In reditu ad eremum Gamognam (unum ex multis ab eo conditis) subito morbo correptus est et Faventiae subsistere coactus. Hospitio exceptus est in monasterio Benedictino Sanctae Mariae Foris Muris (hodie nota ut Sancta Maria Vetus), ubi nocte inter diem 21 et 22 Februarii 1072 obiit. Primo sepultus est in ecclesia monasterii, deinde ossa eius translata sunt in cathedralem Faventiae, ubi adhuc servantur.",
         "patronage": "",
-        "main_shrine": "Cathedrale Faventiae"
+        "main_shrine": "Cathedrale Faventina (Italia)"
     },
     "SevenHolyFounders_240": {
         "subject": "Sancti Septem Fundatores Servorum Beatae Mariae Virginis",
         "places": "non pertinet",
-        "place_of_death": "Mons Senarius",
-        "place_of_birth": "Florentia",
-        "place_of_burial": "Florentia",
+        "place_of_death": "Montesenarius (Italia)",
+        "place_of_birth": "Florentia (Italia)",
+        "place_of_burial": "Florentia (Italia)",
         "notes": "Hae sunt singulae figurae septem sanctorum fundatorum, quorum cognomina tantum saeculis XV-XVI addita sunt. Bonagiunta de Florentia (Manetti), documentatus die 7 Octobris 1251; prior generalis anno 1256; obiit anno 1257; sepultus est in Monte Senario, prope altare maius ecclesiae. Bonfiglius de Florentia (Monaldi), secundum traditionem primus septem et eorum dux; prior Montis Senarii die 17 Martii 1250, cum episcopus Senensis Bonfiglius licentiam dedit ad aedificandam in urbe ecclesiam et conventum Sanctae Mariae de Cafaggio, hodie basilica Sanctissimae Annuntiationis Florentiae. Annis 1251-1252 etiam ipse vixit in Cafaggio, ubi iuvenem Philippum Benizi in Ordinem recepit. Mortuus est, secundum traditionem, die 1 Ianuarii 1262 et sepultus est in Monte Senario. Amadius de Florentia (Amidei), qui videtur totam vitam in conventu Montis Senarii egisse. Traditio vult, ad eius mortem anno 1266, omnes Patres flammam ignis ascendere vidisse, signum et symbolum amoris eius erga Deum, sicut nomen eius indicat. Manettus de Florentia (dell'Antella), prior conventus Lucae anno 1264, electus est anno 1265 Generalis Ordinis. Renuntiavit generalatui anno 1267 et successorem habuit Philippum Benizi. Uguccio de Florentia (Uguccioni), fortasse prior Montis Senarii anno 1259, de familia Civitatis Castelli die 21 Augusti 1255, et socius Sostegni et Philippi cum hic, secundum Legendam B. Philippi saeculi XIV, pauperem leprosum sanavit. Mortuus est anno 1282, in Monte Senario, post reditum a Capitulo generali Viterbii, eodem die et eadem hora cum amico Sostegno. Sostegnus de Florentia (Sostegni), memoratus in Legenda de Origine etiam ut avunculus fratris Lapi de Florentia; fortasse vicarius generalis in Gallia. Mortuus est anno 1282 et sepultus est cum aliis fundatoribus in Monte Senario. Alexius Falconieri, notissimus septem sanctorum. Humilis, poenitentiae cupidus, etiam in senectute operibus materialibus et quaestu (eleemosyna domo per domum) se dedit, non obstante incommodis aetatis et temporis (Legenda de Origine). Iuvenes Ordinis protexit et pecuniam vestimentorum quae ei debebantur (mos Servorum) adhibuit ut digniores eorum ad studendum in Sorbona Parisiensi mitteret. Fere 110 annos vixit et mortuus est anno 1310.",
         "patronage": "",
         "main_shrine": "Ecclesia Septem Sanctorum Fundatorum (Florentia), Basilica sanctuarium Montis Senarii (Vaglia)"
@@ -2123,7 +2123,7 @@
         "subject": "Sanctus Casimirus",
         "places": "non pertinet",
         "place_of_death": "Hrodna (Bielorussia)",
-        "place_of_birth": "Cracovia",
+        "place_of_birth": "Trzebnica (Polonia); Andechs (Germania)",
         "place_of_burial": "Vilnius (Lituania)",
         "notes": "Casimirus (Cracovia, Polonia, 3 octobris 1458 - Grodno, hodierna Hrodna, Bielorussia, 4 martii 1484), filius regis Poloniae et Lituaniae, humanistica cultura formatus, potestati exercendae vitam sobriam et castam, precationi et paenitentiae deditam, praeferre maluit. Probabiliter canonizatus est anno 1521 a Papa Leone X vel anno 1522 a Papa Hadriano VI, sed canonizatio officialiter confirmata est anno 1602 a Papa Clemente VIII, cui secuta est sollemnis caerimonia anno 1604, et anno 1620 in Calendarium Romanum Generale insertus est.",
         "patronage": "",
@@ -2142,9 +2142,9 @@
     "StFrancesRome_247": {
         "subject": "Sancta Francesca Romana, religiosa",
         "places": "non pertinet",
-        "place_of_death": "Roma",
-        "place_of_birth": "Roma",
-        "place_of_burial": "Roma",
+        "place_of_death": "Mexicopolis (Mexicum)",
+        "place_of_birth": "Mexicopolis (Mexicum)",
+        "place_of_burial": "Mexicopolis (Mexicum)",
         "notes": "Francesca Bussa (Roma, 1384 - 9 martii 1440), quamvis ad matrimonium coacta, uxor et mater exemplaris fuit. Intima unione cum Deo suffulta, caritatem indefessa exercuit, pauperes et aegrotos in domum suam accipiens. Fundavit Romae Oblatas Turris Speculorum, quibus post mortem mariti se coniunxit.",
         "patronage": "",
         "main_shrine": "Basilica Sanctae Franciscae Romanae ad Forum Romanum"
@@ -2197,7 +2197,7 @@
         "place_of_burial": "Cathedrale Cracoviae (Polonia)",
         "notes": "Stanislaus (Szczepanowice, Polonia, 1030 ca. - Cracovia, 11 Aprilis 1079), episcopus Cracoviae, sollicitus pastor gregis sui fuit: christianizationem patriae complevit, clerum reformavit, pauperibus curam adhibuit. Propter dissensiones cum rege Boleslao II, ab eo occisus est. Patronus nationis proclamatus, Stanislaus a populo Polonico semper veneratus est; eius reliquiae, in cathedrali Cracoviae, continuae peregrinationis meta factae sunt.",
         "patronage": "",
-        "main_shrine": "Cathedrale Cracoviensis"
+        "main_shrine": "Cathedrale Cracoviae (Polonia)"
     },
     "StFidelisSigmaringen_260": {
         "subject": "Sanctus Fidelis Sigmaringensis, sacerdos et martyr",
@@ -2212,7 +2212,7 @@
     "StPeterChanel_262": {
         "subject": "Sanctus Petrus Chanel, sacerdos et martyr",
         "places": "non pertinet",
-        "place_of_death": "Futuna, Oceania Francogallica",
+        "place_of_death": "Futuna (Oceania Gallica)",
         "place_of_birth": "Mons Revellius in Brissia (Francia)",
         "place_of_burial": "Reliquiae missionarii, festinanter sepultae, postea a M. Lavaux, praefecto stationis navalis Tahiti, vindicatae sunt et in Galliam cum medio transporti gubernationis, anno 1842, reportatae sunt.",
         "notes": "Petrus (Montrevel-en-Bresse, Gallia, 12 iulii 1803 - Futuna, Oceania Francogallica, 28 aprilis 1841), presbyter Societatis Mariae (Maristae), unus ex primis missionariis in Oceania occidentali fuit. Post aliquos bonos eventus in opere evangelizationis, hostilitate localium ducum religiosorum victima cecidit. Eius martyrium ad fidem populum insulae Futunae appropinquavit.",
@@ -2221,7 +2221,7 @@
     },
     "StCatherineSiena_263": {
         "subject": "Sancta Catharina Senensis, virgo et Ecclesiae doctor",
-        "places": "Senae, Roma",
+        "places": "Senarum (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Senenses (Italia)",
         "place_of_burial": "Roma (Italia)",
@@ -2233,8 +2233,8 @@
         "subject": "Sanctus Pius V, papa",
         "places": "non pertinet",
         "place_of_death": "Roma (Italia)",
-        "place_of_birth": "Bosco Marengo, Alexandria (Italia)",
-        "place_of_burial": "Basilica Sanctae Mariae Maioris, Roma",
+        "place_of_birth": "Bosco Marengo (Alexandria, Italia)",
+        "place_of_burial": "Basilica Sanctae Mariae Maioris (Roma, Italia)",
         "notes": "Michael (saeculo Antonius) Ghislieri (Bosco Marengo, Alexandria, 17 ianuarii 1504 - Roma, 1 maii 1572), Dominicanus, papa ab anno 1566 fuit. Primum Concilii Tridentini applicationem exsecutus est, incipiens a curia romana et Urbe. Catechismum (1566) edidit, Breviarii (1568) et Missalis (1570) reformationem curavit. Fidem in Europa et Oriente diffundere promovit, et contra expansionem Ottomanicam (Lepanto, 7 octobris 1571) defendit.",
         "patronage": "",
         "main_shrine": "Basilica Sanctae Mariae Maioris, Roma"
@@ -2243,7 +2243,7 @@
         "subject": "Sanctus Bernardinus Senensis, sacerdos",
         "places": "Aquila (Italia)",
         "place_of_death": "Aquila (Italia)",
-        "place_of_birth": "Massa Veternensis, Grossetum (Italia)",
+        "place_of_birth": "Massa Maritima (Grossetum, Italia)",
         "place_of_burial": "Basilica Sancti Bernardini Aquilana (Italia)",
         "notes": "Bernardinus (Massa Marittima, Grossetum, 8 septembris 1380 - Aquila, 20 maii 1444), ex nobili familia Senensi Albizzeschi, post studia iuridica, inter Fratres Minores receptus est, motui Observantiae adhaerens. Praedicator magnae culturae, immediatae concretitudinis et magnae popularitatis, Italiam centralem et septentrionalem peragravit, intensum renovationem vitae christianae excitans. Ubique devotionem ad nomen Iesu diffudit.",
         "patronage": "",
@@ -2281,23 +2281,23 @@
     },
     "StsCharlesLwanga_281": {
         "subject": "Sancti Carolus Lwanga et socii, martyres",
-        "places": "Namugongo, Uganda",
-        "place_of_death": "Kampala, Uganda",
+        "places": "Namugongo (Uganda)",
+        "place_of_death": "Kampala (Uganda)",
         "place_of_birth": "non pertinet",
         "place_of_burial": "Basilica Sanctorum Martyrum Ugandae, Namugongo, Uganda",
         "notes": "Carolus Lwanga († Kampala, Uganda, 3 Iunii 1886), princeps pagorum Mutesa I, regis Bugandae (in hodierna Uganda), accusatus est, una cum aliis dignitariis regni, quod vindictam spirituum propter fidem suam in Christum attraxisset. Ad rogum damnatus est una cum aliis viginti uno sociis, plerumque iuvenibus. Una cum his primis martyribus catholicis Africae nigrae, vitam pro Christo obtulerunt etiam nonnulli christiani anglicani.",
         "patronage": "",
-        "main_shrine": "Basilica Sanctorum Martyrum Ugandae, Namugongo, Uganda"
+        "main_shrine": "Basilica Sanctorum Martyrum Ugandae (Namugongo, Uganda)"
     },
     "StNorbert_283": {
         "subject": "Sanctus Norbertus",
-        "places": "Praga, Res Publica Bohemica",
+        "places": "Praga (Res Publica Bohemica)",
         "place_of_death": "Magdeburgum (Germania)",
         "place_of_birth": "Xanten (Germania)",
-        "place_of_burial": "Monasterium Strahoviense, Praga, Res Publica Bohemica",
+        "place_of_burial": "Monasterium Strahoviense (Praga, Res Publica Bohemica)",
         "notes": "Norbertus (Xanten, Germania, 1080/1085 - Magdeburgum, 6 Iunii 1134) post conversionem, quamvis adhuc laicus, praedicationem itinerantem incepit. Apud Prémontré (Francia) coetum discipulorum, clericorum et laicorum, congregavit, ex quo Ordo Canonicorum Regularium Praemonstratensium ortus est. Archiepiscopus Magdeburgensis electus, reformationi cleri se dedit.",
         "patronage": "",
-        "main_shrine": "Monasterium Strahoviense, Praga, Res Publica Bohemica"
+        "main_shrine": "Monasterium Strahoviense (Praga, Res Publica Bohemica)"
     },
     "StAnthonyPadua_286": {
         "subject": "Sanctus Antonius Patavinus, sacerdos et doctor",
@@ -2311,8 +2311,8 @@
     },
     "StRomuald_287": {
         "subject": "Sanctus Romualdus, abbas",
-        "places": "Fabrianum (Italia); Aesis (Italia); Camaldolium, Arretium; Abbatia Sanctae Mariae de Sitria, Mons Cuculus; Vallis de Castro",
-        "place_of_death": "Abbatia Sancti Salvatoris in Valle de Castro, Ancona (Italia)",
+        "places": "Fabrianum (Italia); Aesis (Italia); Camaldolum (Arretium, Italia); Abbatia Sanctae Mariae de Sitria (Mons Cuculus, Italia); Valdicastro (Italia)",
+        "place_of_death": "Abbatia Sancti Salvatoris in Valdicastro (Ancona, Italia)",
         "place_of_birth": "Ravenna (Italia)",
         "place_of_burial": "Ecclesia Sanctorum Blasii et Romualdi Fabriani (Italia)",
         "notes": "Romualdus (Ravenna, media saec. X - Valdicastro, Ancona, 19 Iunii 1027), post brevem experientiam coenobiticam in abbatia Sancti Apollinaris in Classe, vitam eremiticam strictam iniit, suo exemplo reformationem monachismi incitans et nonnullas fundationes condidit, inter quas Camaldoli prope Arretium. Sanctus Petrus Damianus eius Vitam scripsit.",
@@ -2321,9 +2321,9 @@
     },
     "StAloysiusGonzaga_288": {
         "subject": "Sanctus Aloisius Gonzaga, religiosus",
-        "places": "Castellio Stivieri; Roma",
+        "places": "Castellio Stivieri (Mantua, Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
-        "place_of_birth": "Castellio Stivieri, Mantua (Italia)",
+        "place_of_birth": "Castellio Stivieri (Mantua, Italia)",
         "place_of_burial": "Ecclesia Sancti Ignatii de Loyola, Roma; cranium conservatur in basilica ei dicata in Castiglionis Stivieri",
         "notes": "Aloisius (Castellio Stivieri, Mantua, 9 Martii 1568 - Roma, 21 Iunii 1591), primogenitus heres marchionatus gonzaghensis urbis natalis, patris firmam oppositionem provocans, vitae et curriculo aulico renuntiavit et in Societatem Iesu ingressus est, ubi, ingenio vivo et voluntate forti praeditus, spirituali ductu sancti Roberti Bellarmini frui potuit. Generosa pauperibus et aegrotis dedicatio eius delicatam constitutionem corporis laesit et paucis annis ad mortem perduxit.",
         "patronage": "",
@@ -2344,10 +2344,10 @@
         "places": "Conimbriga (Portugallia)",
         "place_of_death": "Extremodium (Portugallia)",
         "place_of_birth": "Aragonia, Hispania",
-        "place_of_burial": "Monasterium Sanctae Clarae-a-Nova, Conimbriga (Portugallia)",
+        "place_of_burial": "Monasterium Sanctae Clarae-a-Nova (Conimbriga, Lusitania)",
         "notes": "Elisabeth (Hispania, 1269/1270 - Extremodium, Lusitania, 4 Iulii 1336), filia Petri, futuri regis Aragoniae, duodecim annos nata, nupsit Dionysio regi Lusitaniae. Fortiter sustinuit difficilem coniugalem convictum, reconciliationis operatrix facta in gravibus dissidiis quae familiam et regnum turbaverunt. Vidua facta, tertiaria Franciscana facta est, se totam orationi et caritati erga pauperes dedicavit.",
         "patronage": "",
-        "main_shrine": "Monasterium Sanctae Clarae-a-Nova, Conimbriga (Portugallia)"
+        "main_shrine": "Monasterium Sanctae Clarae-a-Nova (Conimbriga, Lusitania)"
     },
     "StAnthonyZaccaria_298": {
         "subject": "Sanctus Antonius Zaccaria, sacerdos",
@@ -2384,10 +2384,10 @@
         "places": "Bucchianicum (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Bucchianicum (Teate, Italia)",
-        "place_of_burial": "Ecclesia Sanctae Mariae Magdalenae, Roma (Italia)",
+        "place_of_burial": "Ecclesia Sanctae Mariae Magdalenae (Roma, Italia)",
         "notes": "Camillus (Bucchianicum, Chieti, 25 maii 1550 - Roma, 14 iulii 1614) iuvenis miles fortunae et aleae deditus fuit; fidem in conventu Capuccinorum Manfredoniae rediscovit; desiderans Ordinem ingredi, bis novitiatum incepit, sed ulcus incurabile in pede eum impedivit. In nosocomio Sancti Iacobi Incurabilium Romae receptus, sanctum Philippum Nerium convenit, qui eum in itinere spirituali adiuvit; postea vitam totam Christo in curandis membris eius dolentibus dedicavit. Presbyter factus, Clericos regulares infirmis ministrantes (Camillianos) fundavit.",
         "patronage": "",
-        "main_shrine": "Ecclesia Sanctae Mariae Magdalenae, Roma (Italia)"
+        "main_shrine": "Ecclesia Sanctae Mariae Magdalenae (Roma, Italia)"
     },
     "StBonaventure_303": {
         "subject": "Sanctus Bonaventura, episcopus et doctor",
@@ -2411,9 +2411,9 @@
     },
     "StBridget_307": {
         "subject": "Sancta Brigida, religiosa",
-        "places": "Ecclesia Sanctae Brigidae Vadstena, Suecia; Ecclesia Sanctae Brigidae Romae (Italia)",
+        "places": "Ecclesia Sanctae Brigidae Vadstenae (Suecia); Ecclesia Sanctae Brigidae Romae (Italia)",
         "place_of_death": "Roma (Italia)",
-        "place_of_birth": "Finsta, Suecia",
+        "place_of_birth": "Finsta (Suecia)",
         "place_of_burial": "Ecclesia Sanctae Brigidae Romae (Italia)",
         "notes": "Brigida (Finsta, Suecia, 1302/1303 - Roma, 23 Iulii 1373), ex alta nobilitate Suecica, cum marito vitam spiritualem intensam et fervidam caritativam actionem egit. Post mortem coniugis et matrimonium octo filiorum, tempus solitudinis et orationis vixit, cuius in fine Ordinem monasticum Sanctissimi Salvatoris, ramum masculinum et femininum comprehendens, fundavit. Romam translata, propter prophetias et appellationes ad reformationem Ecclesiae clara facta est, etiam pro reditu papae ab Avinione laborans. Anno 1999 sanctus Ioannes Paulus II eam patronam Europae proclamavit.",
         "patronage": "",
@@ -2421,10 +2421,10 @@
     },
     "StIgnatiusLoyola_312": {
         "subject": "Sanctus Ignatius de Loyola, sacerdos",
-        "places": "Loyola, Hispania; Roma (Italia)",
+        "places": "Loyola (Hispania); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Loyola, Hispania",
-        "place_of_burial": "Ecclesia Iesu, Roma",
+        "place_of_burial": "Ecclesia Iesu (Roma, Italia)",
         "notes": "Iñigo Lòpez (Loyola, Hispania, 1491 - Roma, 31 Iulii 1556), ex nobili familia Vasconica, in defensione urbis Pompei vulneratus est. Durante convalescentia, lectio vitae Christi et nonnullorum sanctorum initium conversionis ei fuit. Longum iter eum per tempus discretionis spiritualis et prolixam studiorum philosophicorum et theologorum periodum, quae Lutetiae culminavit, duxit. Hic coetus sociorum circa eum formatus est, cum quibus se papae Paulo III praesentavit. Ei suum idealem exposuerunt: defensionem et propagationem fidei et absolutam promptitudinem Romano Pontifici quoad quamlibet missionem quam eis pro missionaria Evangelii expansionem et reformationem Ecclesiae committeret. Spiritualitas Societatis Iesu in Exercitiis spiritualibus, quae interioris experientiae Ignatii compendium sunt, cardinem habet. Papa Gregorius XV eum inter sanctos anno 1622 adscripsit.",
         "patronage": "",
         "main_shrine": "Ecclesia Iesu, Roma"
@@ -2557,17 +2557,17 @@
         "place_of_burial": "Ecclesia Sancti Pantaleonis, Roma (Italia)",
         "notes": "Iosephus (Peralta de la Sal, Hispania, 1557 - Roma, 25 Augusti 1646), ex nobili familia, cursum ecclesiasticum iniit, Romam proficiscens quaerens aptam collocationem. Ibi multas incepta ad pauperes et aegrotos adiuvandos invenit, et cum sancto Camillo de Lellis collaboravit. Causam pauperum puerorum, qui educatione idonea carebant, suscipiens, pro eis scholas gratuitas aperuit et Congregationem Clericorum Regularium Pauperum Matris Dei Scholarum Piarum (Scolopi) fundavit.",
         "patronage": "",
-        "main_shrine": "Ecclesia Sancti Pantaleonis, Roma (Italia)"
+        "main_shrine": "Ecclesia Sancti Pantaleonis (Roma, Italia)"
     },
     "StRobertBellarmine_344": {
         "subject": "Sanctus Robertus Bellarminus, episcopus et doctor",
         "places": "non pertinet",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Montepulciano, Senae (Italia)",
-        "place_of_burial": "Ecclesia Sancti Ignatii, Roma (Italia)",
+        "place_of_burial": "Ecclesia Sancti Ignatii (Roma, Italia)",
         "notes": "Robertus (Montepulciano, Senae, 4 octobris 1542 - Roma, 17 septembris 1621), iesuita, suam insignem competentiam theologicam tam in complexis controversiis doctrinalibus (Disputationes de controversiis christianae fidei), quam in redactione catechismi popularis adhibuit. Cardinalis et archiepiscopus Capuanus, exemplarem applicationem Concilii Tridentini dedit, donec gravia munera Romana eum ad dioecesim relinquendam impulserunt ut se totum in servitium Ecclesiae universalis dedicaret.",
         "patronage": "",
-        "main_shrine": "Ecclesia Sancti Ignatii, Roma (Italia)"
+        "main_shrine": "Ecclesia Sancti Ignatii (Roma, Italia)"
     },
     "StVincentDePaul_348": {
         "subject": "Sanctus Vincentius de Paoli, sacerdos",
@@ -2614,10 +2614,10 @@
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Decimum (Lucensis) (Italia)",
-        "place_of_burial": "Ecclesia Sanctae Mariae in Campitelli, Roma (Italia)",
+        "place_of_burial": "Ecclesia Sanctae Mariae in Campitelli (Roma, Italia)",
         "notes": "Ioannes (Diecimo, Lucca, 1541 - Roma, 9 octobris 1609) se dedit institutioni religiosa puerorum, implicans laicos adultos in «Societate doctrinae christianae». Promovit renovationem cleri cum «Confraternitate sacerdotum reformatarum Beatae Virginis», postea dicti Clerici regulares Matris Dei. Romae occurrit sancto Philippo Neri et participavit missionarium fervorem temporis, cooperans in proposito futurae Congregationis de propaganda fide et collegii ad formationem missionariorum ad gentes.",
         "patronage": "",
-        "main_shrine": "Ecclesia Sanctae Mariae in Campitelli, Roma (Italia)"
+        "main_shrine": "Ecclesia Sanctae Mariae in Campitelli (Roma, Italia)"
     },
     "StTeresaJesus_360": {
         "subject": "Sancta Teresia Abulensis, virgo et doctor",
@@ -2664,10 +2664,10 @@
         "places": "Ovada, Alexandria (Italia); Mons Argentarius (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Ovada, Alexandria (Italia)",
-        "place_of_burial": "Basilica Sanctorum Ioannis et Pauli ad Caelium, Roma (Italia)",
+        "place_of_burial": "Basilica Sanctorum Ioannis et Pauli ad Caelium (Roma, Italia)",
         "notes": "Paulus Danei (Ovada, Alexandria, 3 ianuarii 1694 - Roma, 18 octobris 1775), attrahitur ad venerationem Crucifixi, se fecit paenitens in solitudine, deinde se dedit praedicationi. Congregavit circa se primum coetum «pauperum Iesu», ex quo postea orta est Congregatio Passionis Iesu Christi (Passionistarum): eius membra se obligant ad devotionem Passionis diffundendam, praesertim per missiones populares. Instituit etiam moniales passionistas, cum monasteriis quae essent scholae vitae spiritualis etiam pro aliis mulieribus. In professione assumpsit nomen Pauli a Cruce, quod bene exprimit centrum vitae et missionis suae.",
         "patronage": "",
-        "main_shrine": "Basilica Sanctorum Ioannis et Pauli ad Caelium, Roma (Italia)"
+        "main_shrine": "Basilica Sanctorum Ioannis et Pauli ad Caelium (Roma, Italia)"
     },
     "StJohnCapistrano_367": {
         "subject": "Sanctus Ioannes a Capestrano, sacerdos",
@@ -2731,13 +2731,13 @@
     },
     "StMargaretScotland_379": {
         "subject": "Sancta Margarita Scotiae",
-        "places": "Abbatia Dunfermline, Scotia; Abbatia Iona, Scotia",
+        "places": "Abbatia Dunfermlinensis (Scotia); Abbatia Ionae (Scotia)",
         "place_of_death": "Edinburgum (Regnum Unitum)",
         "place_of_birth": "Nádasd, Hungaria",
-        "place_of_burial": "Abbatia Dunfermline, Scotia",
+        "place_of_burial": "Abbatia Dunfermlinensis (Scotia)",
         "notes": "Margarita (Nádasd, Hungaria, 1045 ca. - Edimburgum, Regnum Unitum, 16 novembris 1093), uxor Malcolmi III regis Scotiae, profundam reformationem in regno et in Ecclesia promovit; abbatiae Ionae favit et ad fundationem abbatiae Dunfermline, ubi cum marito sepulta est, collaboravit.",
         "patronage": "",
-        "main_shrine": "Abbatia Dunfermline, Scotia"
+        "main_shrine": "Abbatia Dunfermlinensis (Scotia)"
     },
     "StGertrudeGreat_380": {
         "subject": "Sancta Gertrudis, virgo",
@@ -2951,7 +2951,7 @@
     },
     "StCatherineSiena_486": {
         "subject": "Sancta Catharina Senensis, virgo et doctor Ecclesiae",
-        "places": "Sena, Roma",
+        "places": "Senae (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Sena Iulia (Italia)",
         "place_of_burial": "Roma (Italia)",
@@ -3344,14 +3344,14 @@
         "places": "Cappadocia (Turcia); Constantinopolis (hodierna Istanbul, Turcia); Roma (Italia)",
         "place_of_death": "Constantinopolis (hodierna Istanbul), Turcia",
         "place_of_birth": "Nazianzus, in hodierna Turcia",
-        "place_of_burial": "Basilica Sancti Petri; prius Ecclesia Sanctae Mariae de Conceptione in Campo Martio, Roma, ubi brachium remansit",
+        "place_of_burial": "Basilica Sancti Petri (Roma, Italia); prius Ecclesia Sanctae Mariae Conceptionis in Campo Martio (Roma, Italia), ubi brachium remansit",
         "notes": "Gregorius (Nazianzus, in hodierna Turcia, 329/330 - 390) cum Basilio culturam et desiderium vitae monasticae communicavit. Patriarcha Constantinopolis electus, breve et dolens episcopatum egit, inter multos conflictus. Valens scriptor et orator, etiam poesi se dedit. Una cum Basilio ad doctrinam trinitariam evolvendam magnopere contulit. Memoria liturgica die 2 Ianuarii",
         "patronage": "",
         "main_shrine": "non pertinet"
     },
     "StAthanasius_575": {
         "subject": "Sanctus Athanasius, episcopus et doctor",
-        "places": "Alexandria Aegypti",
+        "places": "Alexandria (Aegyptus)",
         "place_of_death": "Alexandria, Aegyptus",
         "place_of_birth": "Alexandria, Aegyptus",
         "place_of_burial": "Cathedrale Copticum Sancti Marci, Alexandria, Aegyptus",
@@ -3517,17 +3517,17 @@
         "place_of_burial": "Hierapolis (hodierna Pammukale, Turcia); et Roma (Italia)",
         "notes": "Philippus, oriundus Bethsaida, a Iesu vocatur ut eum sequatur; vicissim invitat Nathanaelem ut veniat et videat Messiam (cf. Io 1, 43-46); praesens est, cum Andrea, ad multiplicationem panum (cf. Io 6, 1-15) et cum quidam Graeci, ascenderunt ad Pascha Hierosolymam, petunt videre Iesum (cf. Io 12, 20-36). Durante ultima Cena ipse rogat: «Domine, ostende nobis Patrem et sufficit nobis» (Io 14, 8). Secundum nonnullas fontes apocryphas, deinde resumptas in Legenda Aurea Iacobi de Varagine, Philippus evangelizavit per viginti annos Scythiam, cum duabus filiabus virginibus. Episcopus Hierapoleos factus est, ubi multas conversiones ad christianismum effecit. Adhaesio novae fidei uxoris proconsulis iram militari Romani attraxit, qui eum in arbore capite deorsum affixit, sicut in iconographia tradita repraesentatur. Post mortem eius in loco sepultus est. Multi viatores et religiosi sequentium saeculorum, inter quos Eusebius Caesariensis, in scriptis suis sepulcrum apostoli sanatoris citant. Reliquiae eius postea primum Constantinopolim, deinde Romam translatae sunt.",
         "patronage": "",
-        "main_shrine": "Basilica Sanctorum Apostolorum, Roma (Italia)"
+        "main_shrine": "Basilica Sanctorum Apostolorum (Roma, Italia)"
     },
     "StJamesLessApostle_591": {
         "subject": "Sanctus Iacobus Minor, apostolus",
-        "places": "Galilaea (Israel), Roma (Italia)",
+        "places": "Galilaea (Israël); Roma (Italia)",
         "place_of_death": "Hierosolyma (Israel / Palaestina)",
         "place_of_birth": "",
         "place_of_burial": "Hierosolyma (Israel / Palaestina), deinde Roma (Italia)",
         "notes": "Iacobus filius Alphaei, unus ex duodecim apostolis. Identificatur cum Iacobo Minore a Hieronymo et Papia Hierapolitano. Hieronymus eum etiam identificavit cum Iacobo 'fratre Iesu'. Consideratur primus episcopus Hierosolymae in Legenda Aurea Iacobi de Varagine, et lapidatione martyrizatus est a rege Herode Agrippa dum ibi praedicaret. Hippolytus Romanus affirmat eum sepultum esse prope templum. Postea reliquiae eius Romam translatae sunt una cum reliquiis Philippi apostoli.",
         "patronage": "",
-        "main_shrine": "Basilica Sanctorum Apostolorum, Roma (Italia)"
+        "main_shrine": "Basilica Sanctorum Apostolorum (Roma, Italia)"
     },
     "StCyprian_592": {
         "subject": "Sanctus Cyprianus, episcopus et martyr",
