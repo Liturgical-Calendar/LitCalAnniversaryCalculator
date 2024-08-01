@@ -492,7 +492,7 @@
     "StPancras_54": {
         "subject": "Sint Pancratius, martelaar",
         "places": "Rome (Italië)",
-        "place_of_death": "Clairvaux (Frankrijk); Troyes (Frankrijk)",
+        "place_of_death": "Rome (Italië)",
         "place_of_birth": "Sinnada (huidige Şuhut, Turkije)",
         "place_of_burial": "Begraafplaats van Ottavilla (Rome, Italië)",
         "notes": "Pancratius (3e of 4e eeuw), Romeins martelaar, werd begraven op de begraafplaats van Ottavilla, aan de Via Aurelia, zoals bevestigd door de cultustraditie, bevestigd door paus Symmachus (498-514) met de oprichting van een basiliek ter ere van hem op die plaats. Het oudste verslag van het martelaarschap beschrijft Pancratius als zeer jong, slechts veertien jaar oud. Hij wordt op 12 mei herdacht in het Martyrologium Hieronymianum (5e-6e eeuw).",
@@ -741,8 +741,8 @@
     },
     "FirstMartyrsRome_80": {
         "subject": "Heilige Eerste Martelaren van de Kerk van Rome",
-        "places": "Clairvaux (Frankrijk); Troyes (Frankrijk)",
-        "place_of_death": "Clairvaux (Frankrijk); Troyes (Frankrijk)",
+        "places": "Rome (Italië)",
+        "place_of_death": "Rome (Italië)",
         "place_of_birth": "n.v.t.",
         "place_of_burial": "Catacomben van Rome",
         "notes": "De Eerste Martelaren van de Kerk van Rome zijn «de grote menigte» christenen die door keizer Nero werden gedood in een poging om de verdenking van de brand van de stad (juli 64) van zichzelf af te leiden. Zoals de heidense historicus Tacitus in zijn Annalen getuigt, wekten deze onschuldigen, onderworpen aan «zeer verfijnde martelingen», «een gevoel van medelijden op, aangezien ze duidelijk niet voor het algemeen welzijn, maar voor de wreedheid van een enkeling werden geofferd».",
@@ -2142,9 +2142,9 @@
     "StFrancesRome_247": {
         "subject": "Sint-Francesca Romana, religieus",
         "places": "n.v.t.",
-        "place_of_death": "Kathedraal van Nola (Italië)",
-        "place_of_birth": "Kathedraal van Nola (Italië)",
-        "place_of_burial": "Kathedraal van Nola (Italië)",
+        "place_of_death": "Rome (Italië)",
+        "place_of_birth": "Rome (Italië)",
+        "place_of_burial": "Rome (Italië)",
         "notes": "Francesca Bussa (Rome, 1384 - 9 maart 1440), hoewel gedwongen tot een huwelijk, was een voorbeeldige echtgenote en moeder. Gesterkt door een intieme band met God, beoefende ze onvermoeibaar liefdadigheid, door armen en zieken in haar huis op te nemen. Ze stichtte in Rome de Oblaten van Tor de’ Specchi, waartoe ze zich aansloot na de dood van haar man.",
         "patronage": "",
         "main_shrine": "Basiliek Santa Francesca Romana aan het Forum Romanum"
@@ -3311,7 +3311,7 @@
     },
     "StGregoryGreat_571": {
         "subject": "Sint-Gregorius de Grote, paus en kerkleraar",
-        "places": "Clairvaux (Frankrijk); Troyes (Frankrijk)",
+        "places": "Rome (Italië)",
         "place_of_death": "Rome (Italië)",
         "place_of_birth": "Rome (Italië)",
         "place_of_burial": "Sint-Pietersbasiliek in Vaticaanstad",
