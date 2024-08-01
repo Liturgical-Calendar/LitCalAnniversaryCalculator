@@ -689,7 +689,7 @@
         "patronage": "",
         "main_shrine": "Kathedrale von Nola"
     },
-    "StsJohnFisherThomasMore_75": {
+    "StJohnFisher_75": {
         "subject": "Heilige Johannes Fisher, Bischof und Märtyrer und Thomas Morus, Märtyrer",
         "places": "London (Vereinigtes Königreich)",
         "place_of_death": "London (Vereinigtes Königreich)",
@@ -2199,16 +2199,6 @@
         "patronage": "",
         "main_shrine": "Kathedrale von Krakau"
     },
-    "StAugustineCanterbury_258": {
-        "subject": "Heiliger Anselm von Canterbury, Bischof und Kirchenlehrer",
-        "places": "N/V",
-        "place_of_death": "Canterbury (Vereinigtes Königreich)",
-        "place_of_birth": "Aosta (Italien)",
-        "place_of_burial": "Anselm starb am 21. April 1109, am Mittwoch der Karwoche, und wurde in der Kathedrale von Canterbury beigesetzt. Seine Überreste wurden jedoch während der religiösen Unruhen unter der Herrschaft von Heinrich VIII. von England exhumiert und gingen verloren.",
-        "notes": "Anselm (Aosta, 1033/1034 - Canterbury, Vereinigtes Königreich, 21. April 1109), etwa dreißig Jahre lang Mönch und Abt von Bec in der Normandie, wurde Erzbischof von Canterbury und Primas von England. Er kämpfte für die Freiheit der Kirche gegen die Einmischung der politischen Macht. Als tiefgründiger Theologe wusste er die Rolle der Vernunft bei der Vertiefung der Glaubensgeheimnisse zu schätzen.",
-        "patronage": "",
-        "main_shrine": "Kathedrale von Canterbury (Vereinigtes Königreich)"
-    },
     "StFidelisSigmaringen_260": {
         "subject": "Heiliger Fidelis von Sigmaringen, Priester und Märtyrer",
         "places": "N/V",
@@ -2959,16 +2949,6 @@
         "patronage": "",
         "main_shrine": "Basilika der Heimsuchung, Annecy (Frankreich)"
     },
-    "StAugustineCanterbury_485": {
-        "subject": "Heiliger Anselm von Canterbury, Bischof und Kirchenlehrer",
-        "places": "N/V",
-        "place_of_death": "Canterbury (Vereinigtes Königreich)",
-        "place_of_birth": "Aosta (Italien)",
-        "place_of_burial": "Anselm starb am 21. April 1109, am Mittwoch der Karwoche, und wurde in der Kathedrale von Canterbury beigesetzt. Seine Überreste wurden jedoch während der religiös motivierten Unruhen unter der Herrschaft von Heinrich VIII. von England exhumiert und gingen verloren.",
-        "notes": "Anselm (Aosta, 1033/1034 - Canterbury, Vereinigtes Königreich, 21. April 1109), war etwa dreißig Jahre lang Mönch und Abt von Bec in der Normandie, bevor er Erzbischof von Canterbury und Primas von England wurde. Er kämpfte für die Freiheit der Kirche gegen die Einmischung der politischen Macht. Als tiefgründiger Theologe wusste er die Rolle der Vernunft bei der Vertiefung der Glaubensgeheimnisse zu schätzen.",
-        "patronage": "",
-        "main_shrine": "Kathedrale von Canterbury (Vereinigtes Königreich)"
-    },
     "StCatherineSiena_486": {
         "subject": "Heilige Katharina von Siena, Jungfrau und Kirchenlehrerin",
         "places": "Siena, Rom",
@@ -3710,6 +3690,16 @@
         "main_shrine": "Kirche der Heiligen Maria von Zeitoun (Kairo, Ägypten)"
     },
     "StMarkEvangelist_608": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "StThomasMore_609": {
         "subject": "",
         "places": "",
         "place_of_death": "",

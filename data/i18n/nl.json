@@ -689,7 +689,7 @@
         "patronage": "",
         "main_shrine": "Kathedraal van Nola"
     },
-    "StsJohnFisherThomasMore_75": {
+    "StJohnFisher_75": {
         "subject": "Heiligen Johannes Fisher, bisschop en martelaar en Thomas More, martelaar",
         "places": "Londen (Verenigd Koninkrijk)",
         "place_of_death": "Londen (Verenigd Koninkrijk)",
@@ -2199,16 +2199,6 @@
         "patronage": "",
         "main_shrine": "Kathedraal van Krakau"
     },
-    "StAugustineCanterbury_258": {
-        "subject": "Sint Anselmus van Canterbury, bisschop en kerkleraar",
-        "places": "n.v.t.",
-        "place_of_death": "Canterbury (Verenigd Koninkrijk)",
-        "place_of_birth": "Aosta (Italië)",
-        "place_of_burial": "Anselmus stierf op 21 april 1109, op Witte Donderdag, en werd begraven in de kathedraal van Canterbury. Zijn stoffelijke resten werden echter opgegraven tijdens de religieuze onrust die plaatsvond tijdens het bewind van Hendrik VIII van Engeland en raakten daarna spoorloos.",
-        "notes": "Anselmus (Aosta, 1033/1034 - Canterbury, Verenigd Koninkrijk, 21 april 1109), ongeveer dertig jaar monnik en abt van Bec in Normandië, werd aartsbisschop van Canterbury en primaat van Engeland. Hij streed voor de vrijheid van de Kerk tegen de inmenging van de politieke macht. Als diepzinnig theoloog wist hij de rol van de rede te waarderen bij het verdiepen van de mysteries van het geloof.",
-        "patronage": "",
-        "main_shrine": "Kathedraal van Canterbury (Verenigd Koninkrijk)"
-    },
     "StFidelisSigmaringen_260": {
         "subject": "Sint Fidelis van Sigmaringen, priester en martelaar",
         "places": "n.v.t.",
@@ -2959,16 +2949,6 @@
         "patronage": "",
         "main_shrine": "Basiliek van de Visitatie, Annecy (Frankrijk)"
     },
-    "StAugustineCanterbury_485": {
-        "subject": "Sint Anselmus van Canterbury, bisschop en kerkleraar",
-        "places": "n.v.t.",
-        "place_of_death": "Canterbury (Verenigd Koninkrijk)",
-        "place_of_birth": "Aosta (Italië)",
-        "place_of_burial": "Anselmus stierf op 21 april 1109, op Witte Donderdag, en werd begraven in de kathedraal van Canterbury. Zijn stoffelijke resten werden echter opgegraven tijdens de religieuze onrusten die plaatsvonden tijdens het bewind van Hendrik VIII van Engeland en raakten daarna spoorloos.",
-        "notes": "Anselmus (Aosta, 1033/1034 - Canterbury, Verenigd Koninkrijk, 21 april 1109), ongeveer dertig jaar monnik en abt van Bec, in Normandië, werd aartsbisschop van Canterbury en primaat van Engeland. Hij streed voor de vrijheid van de Kerk tegen de inmenging van de politieke macht. Als diepzinnig theoloog wist hij de rol van de rede te waarderen bij het verdiepen van de mysteries van het geloof.",
-        "patronage": "",
-        "main_shrine": "Kathedraal van Canterbury (Verenigd Koninkrijk)"
-    },
     "StCatherineSiena_486": {
         "subject": "Sint Catharina van Siena, maagd en kerkleraar",
         "places": "Siena, Rome",
@@ -3710,6 +3690,16 @@
         "main_shrine": "Kerk van Sint-Maria van Zeitoun (Caïro, Egypte)"
     },
     "StMarkEvangelist_608": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "StThomasMore_609": {
         "subject": "",
         "places": "",
         "place_of_death": "",

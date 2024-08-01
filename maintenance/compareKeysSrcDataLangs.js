@@ -4,7 +4,7 @@ const readSourceData = async () => {
     const srcObjStr = await fs.readFile(`data/LITURGY__anniversaries.json`, 'utf8');
     const srcObj = JSON.parse(srcObjStr);
     if (srcObj.hasOwnProperty('anniversary_events')) {
-        console.log('retrieved srcObj.anniversary_events');
+        console.log(`retrieved srcObj.anniversary_events: counted ${srcObj.anniversary_events.length} events`);
     }
     ['it', 'en', 'fr','es','de','pt','la'].forEach(lang => {
         checkObjectKeys(srcObj.anniversary_events, lang);

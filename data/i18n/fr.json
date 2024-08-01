@@ -689,7 +689,7 @@
         "patronage": "",
         "main_shrine": "Cathédrale de Nole"
     },
-    "StsJohnFisherThomasMore_75": {
+    "StJohnFisher_75": {
         "subject": "Saints John Fisher, évêque et martyr et Thomas More, martyr",
         "places": "Londres (Royaume-Uni)",
         "place_of_death": "Londres (Royaume-Uni)",
@@ -2199,16 +2199,6 @@
         "patronage": "",
         "main_shrine": "Cathédrale de Cracovie"
     },
-    "StAugustineCanterbury_258": {
-        "subject": "Saint Anselme de Cantorbéry, évêque et docteur de l'Église",
-        "places": "N/D",
-        "place_of_death": "Cantorbéry (Royaume-Uni)",
-        "place_of_birth": "Aoste (Italie)",
-        "place_of_burial": "Anselme mourut le 21 avril 1109, mercredi saint, et fut enterré dans la cathédrale de Cantorbéry. Ses reliques furent cependant exhumées lors des troubles religieux qui eurent lieu sous le règne d'Henri VIII d'Angleterre et on en perdit la trace.",
-        "notes": "Anselme (Aoste, 1033/1034 - Canterbury, Royaume-Uni, 21 avril 1109), moine et abbé de Bec en Normandie pendant environ trente ans, devint archevêque de Canterbury et primat d'Angleterre. Il lutta pour la liberté de l'Église contre les ingérences du pouvoir politique. Profond théologien, il sut valoriser le rôle de la raison dans l'approfondissement des mystères de la foi.",
-        "patronage": "",
-        "main_shrine": "Cathédrale de Cantorbéry (Royaume-Uni)"
-    },
     "StFidelisSigmaringen_260": {
         "subject": "Saint Fidèle de Sigmaringen, prêtre et martyr",
         "places": "N/D",
@@ -2959,16 +2949,6 @@
         "patronage": "",
         "main_shrine": "Basilique de la Visitation, Annecy (France)"
     },
-    "StAugustineCanterbury_485": {
-        "subject": "Saint Anselme de Cantorbéry, évêque et docteur de l'Église",
-        "places": "N/D",
-        "place_of_death": "Cantorbéry (Royaume-Uni)",
-        "place_of_birth": "Aoste (Italie)",
-        "place_of_burial": "Anselme mourut le 21 avril 1109, mercredi saint, et fut enterré dans la cathédrale de Cantorbéry. Ses reliques furent cependant exhumées lors des troubles religieux qui eurent lieu sous le règne d'Henri VIII d'Angleterre et on en perdit la trace.",
-        "notes": "Anselme (Aoste, 1033/1034 - Cantorbéry, Royaume-Uni, 21 avril 1109), moine et abbé de Bec en Normandie pendant environ trente ans, devint archevêque de Cantorbéry et primat d'Angleterre. Il lutta pour la liberté de l'Église contre les ingérences du pouvoir politique. Profond théologien, il sut valoriser le rôle de la raison dans l'approfondissement des mystères de la foi.",
-        "patronage": "",
-        "main_shrine": "Cathédrale de Canterbury (Royaume-Uni)"
-    },
     "StCatherineSiena_486": {
         "subject": "Sainte Catherine de Sienne, vierge et docteur de l'Église",
         "places": "Sienne, Rome",
@@ -3710,6 +3690,16 @@
         "main_shrine": "Église Sainte-Marie de Zeitoun (Le Caire, Égypte)"
     },
     "StMarkEvangelist_608": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "StThomasMore_609": {
         "subject": "",
         "places": "",
         "place_of_death": "",

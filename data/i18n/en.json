@@ -689,7 +689,7 @@
         "patronage": "",
         "main_shrine": "Nola Cathedral"
     },
-    "StsJohnFisherThomasMore_75": {
+    "StJohnFisher_75": {
         "subject": "Saints John Fisher, bishop and martyr, and Thomas More, martyr",
         "places": "London (United Kingdom)",
         "place_of_death": "London (United Kingdom)",
@@ -2199,16 +2199,6 @@
         "patronage": "",
         "main_shrine": "Krakow Cathedral"
     },
-    "StAugustineCanterbury_258": {
-        "subject": "Saint Anselm of Canterbury, bishop and doctor of the Church",
-        "places": "N/A",
-        "place_of_death": "Canterbury (United Kingdom)",
-        "place_of_birth": "Aosta (Italy)",
-        "place_of_burial": "Anselm died on April 21, 1109, Holy Wednesday, and was buried in Canterbury Cathedral. However, his remains were exhumed during the religious unrest that took place during the reign of Henry VIII of England and their traces were lost.",
-        "notes": "Anselm (Aosta, 1033/1034 - Canterbury, United Kingdom, April 21, 1109), for about thirty years a monk and abbot of Bec, in Normandy, became Archbishop of Canterbury and primate of England. He fought for the freedom of the Church against the encroachments of political power. A profound theologian, he knew how to value the role of reason in deepening the mysteries of faith.",
-        "patronage": "",
-        "main_shrine": "Canterbury Cathedral (United Kingdom)"
-    },
     "StFidelisSigmaringen_260": {
         "subject": "Saint Fidelis of Sigmaringen, priest and martyr",
         "places": "N/A",
@@ -2959,16 +2949,6 @@
         "patronage": "",
         "main_shrine": "Basilica of the Visitation, Annecy (France)"
     },
-    "StAugustineCanterbury_485": {
-        "subject": "Saint Anselm of Canterbury, bishop and doctor of the Church",
-        "places": "N/A",
-        "place_of_death": "Canterbury (United Kingdom)",
-        "place_of_birth": "Aosta (Italy)",
-        "place_of_burial": "Anselm died on April 21, 1109, Holy Wednesday, and was buried in Canterbury Cathedral. However, his remains were exhumed during the religious unrest that took place during the reign of Henry VIII of England and their traces were lost.",
-        "notes": "Anselm (Aosta, 1033/1034 - Canterbury, United Kingdom, April 21, 1109), for about thirty years a monk and abbot of Bec, in Normandy, became Archbishop of Canterbury and primate of England. He fought for the freedom of the Church against the encroachments of political power. A profound theologian, he knew how to value the role of reason in deepening the mysteries of faith.",
-        "patronage": "",
-        "main_shrine": "Canterbury Cathedral (United Kingdom)"
-    },
     "StCatherineSiena_486": {
         "subject": "Saint Catherine of Siena, virgin and doctor of the Church",
         "places": "Siena, Rome",
@@ -3710,6 +3690,16 @@
         "main_shrine": "Church of Saint Mary of Zeitoun (Cairo, Egypt)"
     },
     "StMarkEvangelist_608": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "StThomasMore_609": {
         "subject": "",
         "places": "",
         "place_of_death": "",

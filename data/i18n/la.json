@@ -689,7 +689,7 @@
         "patronage": "",
         "main_shrine": "Cathedrale Nolana"
     },
-    "StsJohnFisherThomasMore_75": {
+    "StJohnFisher_75": {
         "subject": "Sancti Ioannes Fisher, episcopus et martyr et Thomas More, martyr",
         "places": "Londinium (Regnum Unitum)",
         "place_of_death": "Londinium (Regnum Unitum)",
@@ -2199,16 +2199,6 @@
         "patronage": "",
         "main_shrine": "Cathedrale Cracoviensis"
     },
-    "StAugustineCanterbury_258": {
-        "subject": "Sanctus Anselmus Cantuariensis, episcopus et Ecclesiae doctor",
-        "places": "non pertinet",
-        "place_of_death": "Cantuaria (Regnum Unitum)",
-        "place_of_birth": "Augusta Praetoria (Italia)",
-        "place_of_burial": "Anselmus obiit die 21 Aprilis 1109, feria quarta maioris hebdomadae, et sepultus est in cathedrali Cantuariensi. Eius reliquiae tamen exhumatae sunt durante tumultibus religiosis regnante Henrico VIII Angliae et amissae sunt.",
-        "notes": "Anselmus (Augusta Praetoria, 1033/1034 - Cantuaria, Regnum Unitum, 21 Aprilis 1109), per triginta annos monachus et abbas Beccensis in Normannia, archiepiscopus Cantuariensis et primas Angliae factus est. Pro libertate Ecclesiae contra politicam potestatem pugnavit. Theologus profundus, rationis munus in fidei mysteriis perscrutandis extollere valuit.",
-        "patronage": "",
-        "main_shrine": "Cathedrale Cantuariensis (Regnum Unitum)"
-    },
     "StFidelisSigmaringen_260": {
         "subject": "Sanctus Fidelis Sigmaringensis, sacerdos et martyr",
         "places": "non pertinet",
@@ -2959,16 +2949,6 @@
         "patronage": "",
         "main_shrine": "Basilica Visitationis, Annecy (Francia)"
     },
-    "StAugustineCanterbury_485": {
-        "subject": "Sanctus Anselmus Cantuariensis, episcopus et doctor Ecclesiae",
-        "places": "non pertinet",
-        "place_of_death": "Cantuaria (Regnum Unitum)",
-        "place_of_birth": "Augusta Praetoria (Italia)",
-        "place_of_burial": "Anselmus obiit die 21 Aprilis 1109, feria quarta maioris hebdomadae, et sepultus est in cathedrali Cantuariensi. Eius reliquiae tamen exhumatae sunt durante tumultibus religiosis regnante Henrico VIII Angliae et amissae sunt.",
-        "notes": "Anselmus (Augusta Praetoria, 1033/1034 - Cantuaria, Regnum Unitum, 21 Aprilis 1109), per circiter triginta annos monachus et abbas Beccensis in Normannia, archiepiscopus Cantuariensis et primas Angliae factus est. Pro libertate Ecclesiae contra politicam potestatem invasivam pugnavit. Theologus profundus, rationis munus in fidei mysteriis perscrutandis aestimare novit.",
-        "patronage": "",
-        "main_shrine": "Cathedrale Cantuariensis (Regnum Unitum)"
-    },
     "StCatherineSiena_486": {
         "subject": "Sancta Catharina Senensis, virgo et doctor Ecclesiae",
         "places": "Sena, Roma",
@@ -3710,6 +3690,16 @@
         "main_shrine": "Ecclesia Sanctae Mariae de Zeitoun (Cairo, Aegyptus)"
     },
     "StMarkEvangelist_608": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "StThomasMore_609": {
         "subject": "",
         "places": "",
         "place_of_death": "",
