@@ -91,8 +91,8 @@
     },
     "StPaulApostle_10": {
         "subject": "Saint Paul, apôtre",
-        "places": "Église de Saint-Paul-à-la-Règle, Rome; Église de Santa Maria in Via Lata, Rome; GRÈCE; TURQUIE",
-        "place_of_death": "Sanctuaire des Trois Fontaines, Rome",
+        "places": "Église Saint-Paul à la Regola (Rome, Italie); Église Sainte-Marie en Via Lata (Rome, Italie); Grèce; Turquie; Syrie",
+        "place_of_death": "Sanctuaire des Trois Fontaines (Rome, Italie)",
         "place_of_birth": "Tarse (Turquie) https://www.google.com/maps/place/36%C2%B055'00.0%22N+34%C2%B054'00.0%22E/@36.9546925,34.8770442,11.25z/data=!4m5!3m4!1s0x0:0x0!8m2!3d36.916667!4d34.9",
         "place_of_burial": "Basilique Saint-Paul-hors-les-Murs, Rome",
         "notes": "Paul de Tarse, conquis par le Christ sur le chemin de Damas (cf. Ac 9, 1-19; Ph 3, 12), consacre tout son être au service de l'intelligence et de l'annonce de la nouvelle existence qu'il vit en Christ Jésus son Seigneur (cf. Ep 3, 1-4; 1 Co 9, 16; Rm 6, 4; Ga 2, 20). Les deux apôtres, qui «de manières différentes ont rassemblé l'unique famille du Christ» (Préface), ont scellé leur témoignage au Christ par le martyre à Rome, dans les années soixante du premier siècle. Dans la Depositio martyrum (336), ils sont commémorés ensemble le 29 juin.",
@@ -567,7 +567,7 @@
         "place_of_burial": "Église Sainte-Marie in Vallicella ou \"Chiesa Nuova\" (Rome, Italie)",
         "notes": "Philippe (Florence, 21 juillet 1515 - Rome, 26 mai 1595), arrivé à Rome en jeune âge, se consacra à l'assistance des malades incurables et des pèlerins pauvres. Ordonné prêtre, il fut assidu au confessionnal et célébra l'Eucharistie avec une intense dévotion, jusqu'au transport mystique. Des rencontres périodiques avec un groupe de ses pénitents – qu'il divertissait, avec un style joyeux, en dialogues spirituels et en activités récréatives, culturelles, caritatives – naquirent l'expérience de l'«Oratoire» et la Congrégation des prêtres qui porte le même nom, reconnue par Grégoire XIII le 15 juillet 1575.",
         "patronage": "",
-        "main_shrine": "Chiesa Nuova (Rome, Italie)"
+        "main_shrine": "Église Sainte-Marie in Vallicella ou \"Chiesa Nuova\" (Rome, Italie)"
     },
     "StAugustineCanterbury_62": {
         "subject": "Saint Augustin de Cantorbéry, évêque",
@@ -1981,7 +1981,7 @@
     },
     "StGregoryNazianzen_207": {
         "subject": "Saint Grégoire de Nazianze",
-        "places": "Cappadoce, Constantinople (Turquie), Rome (Italie)",
+        "places": "Cappadoce (Turquie) ; Constantinople (actuelle Istanbul, Turquie) ; Rome (Italie)",
         "place_of_death": "Constantinople (actuelle Istanbul, Turquie)",
         "place_of_birth": "Nazianze, dans l'actuelle Turquie",
         "place_of_burial": "Basilique Saint-Pierre ; précédemment Église Sainte-Marie de la Conception à Campo Marzio, Rome, où un bras est resté",
@@ -2277,7 +2277,7 @@
         "place_of_burial": "Église Sainte-Marie in Vallicella ou \"Chiesa Nuova\" (Rome, Italie)",
         "notes": "Philippe (Florence, 21 juillet 1515 - Rome, 26 mai 1595), arrivé à Rome en jeune âge, se consacra à l'assistance des malades incurables et des pèlerins pauvres. Ordonné prêtre, il fut assidu au confessionnal et célébra l'Eucharistie avec une intense dévotion, jusqu'à l'extase mystique. Des rencontres périodiques avec un groupe de ses pénitents – qu'il divertissait, avec un style joyeux, par des dialogues spirituels et des activités récréatives, culturelles, caritatives – naquirent l'expérience de l'«Oratoire» et la Congrégation des prêtres qui porte le même nom, reconnue par Grégoire XIII le 15 juillet 1575.",
         "patronage": "",
-        "main_shrine": "Chiesa Nuova (Rome, Italie)"
+        "main_shrine": "Église Sainte-Marie in Vallicella ou \"Chiesa Nuova\" (Rome, Italie)"
     },
     "StsCharlesLwanga_281": {
         "subject": "Saints Charles Lwanga et compagnons, martyrs",
@@ -2401,7 +2401,7 @@
     },
     "StLawrenceBrindisi_305": {
         "subject": "Saint Laurent de Brindisi, prêtre et docteur",
-        "places": "Église Sainte-Marie-des-Anges, Brindisi (Italie); Lisbonne (Portugal); Villafranca del Bierzo (Espagne)",
+        "places": "Église Sainte-Marie-des-Anges (Brindisi, Italie) ; Lisbonne (Portugal) ; Villafranca del Bierzo (Espagne)",
         "place_of_death": "Lisbonne (Portugal)",
         "place_of_birth": "Brindisi (Italie)",
         "place_of_burial": "Couvent de l'Annonciation (Villafranca del Bierzo, Espagne)",
@@ -2981,7 +2981,7 @@
     },
     "StLawrenceBrindisi_492": {
         "subject": "Saint Laurent de Brindisi, prêtre et docteur",
-        "places": "Église de Sainte-Marie-des-Anges, Brindisi (Italie); Lisbonne (Portugal); Villafranca del Bierzo (Espagne)",
+        "places": "Église Sainte-Marie-des-Anges (Brindisi, Italie) ; Lisbonne (Portugal) ; Villafranca del Bierzo (Espagne)",
         "place_of_death": "Lisbonne (Portugal)",
         "place_of_birth": "Brindisi (Italie)",
         "place_of_burial": "Couvent de l'Annonciation (Villafranca del Bierzo, Espagne)",
@@ -3071,7 +3071,7 @@
     },
     "StPaulVI_545": {
         "subject": "Saint Paul VI, Pape",
-        "places": "Concesio (Italie ; Milan (Italie) ; Rome (Italie)",
+        "places": "Concesio (Italie) ; Milan (Italie) ; Rome (Italie)",
         "place_of_death": "Rome (Italie)",
         "place_of_birth": "Concesio (Italie)",
         "place_of_burial": "Basilique Saint-Pierre au Vatican",
@@ -3341,7 +3341,7 @@
     },
     "StGregoryNazianzen_574": {
         "subject": "Saint Grégoire de Nazianze",
-        "places": "Cappadoce (Turquie) ; Constantinople (Turquie) ; Rome (Italie)",
+        "places": "Cappadoce (Turquie) ; Constantinople (actuelle Istanbul, Turquie) ; Rome (Italie)",
         "place_of_death": "Constantinople (actuelle Istanbul, Turquie)",
         "place_of_birth": "Nazianze, dans l'actuelle Turquie",
         "place_of_burial": "Basilique Saint-Pierre ; précédemment Église Sainte-Marie de la Conception à Campo Marzio, Rome, où un bras est resté",
@@ -3394,7 +3394,7 @@
         "places": "France",
         "place_of_death": "Poitiers (France)",
         "place_of_birth": "Poitiers (France)",
-        "place_of_burial": "Église de Saint-Hilaire le Grand, Poitiers (site du patrimoine mondial de l'UNESCO)",
+        "place_of_burial": "Église de Saint-Hilaire le Grand (Poitiers, France) (patrimoine UNESCO)",
         "notes": "Ilario (Poitiers, France, 310/320 - 367/368), évêque de sa ville natale, a défendu avec des écrits de haut niveau (notamment le traité De Trinitate) la foi en la pleine divinité du Fils, affirmée par le Concile de Nicée (325) contre l'hérésie d'Arius. En raison de son opposition ferme aux orientations pro-ariennes de la cour impériale, il a été persécuté et exilé. Il est commémoré dans le Martyrologe de Jérôme (Ve-VIe siècle) le 13 janvier. L'église de Saint-Hilaire le Grand est une église catholique de Poitiers, dans le département de la Vienne, dédiée à saint Hilaire de Poitiers. En 1840, elle a été déclarée Monument historique de France et depuis 1998, elle est également classée au Patrimoine mondial de l'UNESCO, en tant qu'étape du Chemin de Saint-Jacques-de-Compostelle le long de la Via Turonensis.",
         "patronage": "",
         "main_shrine": "N/D"
@@ -3550,7 +3550,7 @@
         "main_shrine": "Catacombes de Calliste (Rome, Italie)"
     },
     "SantaMariaInPortico_594": {
-        "subject": "Sainte Marie en Portique",
+        "subject": "Sainte Marie en Portique (Rome, Italie)",
         "places": "Rome (Italie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
