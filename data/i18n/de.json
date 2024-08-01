@@ -91,8 +91,8 @@
     },
     "StPaulApostle_10": {
         "subject": "Heiliger Paulus, Apostel",
-        "places": "Kirche San Paolo alla Regola, Rom Kirche Santa Maria in Via Lata, Rom; GRIECHENLAND; TÜRKEI",
-        "place_of_death": "Schrein der Drei Brunnen, Rom",
+        "places": "Kirche San Paolo alla Regola (Rom, Italien); Kirche Santa Maria in Via Lata (Rom, Italien); Griechenland; Türkei; Syrien",
+        "place_of_death": "Heiligtum der Drei Brunnen (Rom, Italien)",
         "place_of_birth": "Tarsus (Türkei) https://www.google.com/maps/place/36%C2%B055'00.0%22N+34%C2%B054'00.0%22E/@36.9546925,34.8770442,11.25z/data=!4m5!3m4!1s0x0:0x0!8m2!3d36.916667!4d34.9",
         "place_of_burial": "Basilika Sankt Paul vor den Mauern, Rom",
         "notes": "Paulus von Tarsus, von Christus auf dem Weg nach Damaskus erobert (vgl. Apg 9, 1-19; Phil 3, 12), widmet sich ganz dem Dienst des Verstehens und der Verkündigung des neuen Lebens, das er in Christus Jesus, seinem Herrn, lebt (vgl. Eph 3, 1-4; 1 Kor 9, 16; Röm 6, 4; Gal 2, 20). Beide Apostel, die „auf unterschiedliche Weise die eine Familie Christi versammelt haben“ (Präfation), besiegelten ihr Zeugnis für Christus mit dem Martyrium in Rom in den sechziger Jahren des ersten Jahrhunderts. In der Depositio martyrum (336) werden sie gemeinsam am 29. Juni erwähnt.",
@@ -567,7 +567,7 @@
         "place_of_burial": "Kirche Santa Maria in Vallicella oder \"Chiesa Nuova\" (Rom, Italien)",
         "notes": "Philipp (Florenz, 21. Juli 1515 - Rom, 26. Mai 1595), der in jungen Jahren nach Rom kam, widmete sich der Betreuung unheilbar Kranker und armer Pilger. Nach seiner Priesterweihe war er häufig im Beichtstuhl und feierte die Eucharistie mit intensiver Hingabe, bis hin zur mystischen Verzückung. Aus den regelmäßigen Treffen mit einer Gruppe seiner Beichtkinder – die er in fröhlichem Stil in spirituellen Gesprächen und in Freizeit-, Kultur- und Wohltätigkeitsaktivitäten unterhielt – entstanden die Erfahrung des „Oratoriums“ und die Kongregation der Priester, die denselben Namen trägt und am 15. Juli 1575 von Gregor XIII. anerkannt wurde.",
         "patronage": "",
-        "main_shrine": "Chiesa Nuova (Rom, Italien)"
+        "main_shrine": "Kirche Santa Maria in Vallicella oder \"Chiesa Nuova\" (Rom, Italien)"
     },
     "StAugustineCanterbury_62": {
         "subject": "Heiliger Augustinus von Canterbury, Bischof",
@@ -1981,7 +1981,7 @@
     },
     "StGregoryNazianzen_207": {
         "subject": "Heiliger Gregor von Nazianz",
-        "places": "Kappadokien, Konstantinopel (Türkei), Rom (Italien)",
+        "places": "Kappadokien (Türkei); Konstantinopel (heutiges Istanbul, Türkei); Rom (Italien)",
         "place_of_death": "Konstantinopel (heutiges Istanbul, Türkei)",
         "place_of_birth": "Nazianz, im heutigen Türkei",
         "place_of_burial": "Petersdom; zuvor Kirche Santa Maria della Concezione in Campo Marzio, Rom, wo ein Arm verblieben ist",
@@ -2277,7 +2277,7 @@
         "place_of_burial": "Kirche Santa Maria in Vallicella oder \"Chiesa Nuova\" (Rom, Italien)",
         "notes": "Philipp (Florenz, 21. Juli 1515 - Rom, 26. Mai 1595), kam in jungen Jahren nach Rom und widmete sich der Betreuung unheilbar Kranker und armer Pilger. Nach seiner Priesterweihe war er eifrig im Beichtstuhl tätig und feierte die Eucharistie mit intensiver Hingabe, bis hin zur mystischen Verzückung. Aus den regelmäßigen Treffen mit einer Gruppe seiner Beichtkinder – die er in freudigem Stil in spirituellen Gesprächen und in Freizeit-, Kultur- und Wohltätigkeitsaktivitäten unterhielt – entstand die Erfahrung des „Oratoriums“ und die Kongregation der Priester, die denselben Namen trägt, anerkannt von Gregor XIII. am 15. Juli 1575.",
         "patronage": "",
-        "main_shrine": "Chiesa Nuova (Rom, Italien)"
+        "main_shrine": "Kirche Santa Maria in Vallicella oder \"Chiesa Nuova\" (Rom, Italien)"
     },
     "StsCharlesLwanga_281": {
         "subject": "Heilige Karl Lwanga und Gefährten, Märtyrer",
@@ -2401,7 +2401,7 @@
     },
     "StLawrenceBrindisi_305": {
         "subject": "Heiliger Laurentius von Brindisi, Priester und Kirchenlehrer",
-        "places": "Kirche Santa Maria degli Angeli, Brindisi (Italien); Lissabon (Portugal); Villafranca del Bierzo (Spanien)",
+        "places": "Kirche Santa Maria degli Angeli (Brindisi, Italien); Lissabon (Portugal); Villafranca del Bierzo (Spanien)",
         "place_of_death": "Lissabon (Portugal)",
         "place_of_birth": "Brindisi (Italien)",
         "place_of_burial": "Kloster der Verkündigung (Villafranca del Bierzo, Spanien)",
@@ -2981,7 +2981,7 @@
     },
     "StLawrenceBrindisi_492": {
         "subject": "San Lorenzo von Brindisi, Priester und Doktor",
-        "places": "Kirche Santa Maria degli Angeli, Brindisi (Italien); Lissabon (Portugal); Villafranca del Bierzo (Spanien)",
+        "places": "Kirche Santa Maria degli Angeli (Brindisi, Italien); Lissabon (Portugal); Villafranca del Bierzo (Spanien)",
         "place_of_death": "Lissabon (Portugal)",
         "place_of_birth": "Brindisi (Italien)",
         "place_of_burial": "Kloster der Verkündigung (Villafranca del Bierzo, Spanien)",
@@ -3341,7 +3341,7 @@
     },
     "StGregoryNazianzen_574": {
         "subject": "Heiliger Gregor von Nazianz",
-        "places": "Kappadokien (Türkei); Konstantinopel (Türkei); Rom (Italien)",
+        "places": "Kappadokien (Türkei); Konstantinopel (heutiges Istanbul, Türkei); Rom (Italien)",
         "place_of_death": "Konstantinopel (heutiges Istanbul, Türkei)",
         "place_of_birth": "Nazianz, im heutigen Türkei",
         "place_of_burial": "Basilika St. Peter; früher Kirche Santa Maria della Concezione in Campo Marzio, Rom, wo ein Arm aufbewahrt wird",
@@ -3394,7 +3394,7 @@
         "places": "Frankreich",
         "place_of_death": "Poitiers (Frankreich)",
         "place_of_birth": "Poitiers (Frankreich)",
-        "place_of_burial": "Kirche Saint-Hilaire le Grand, Poitiers (UNESCO-Welterbe)",
+        "place_of_burial": "Kirche des Heiligen Hilarius der Große (Poitiers, Frankreich) (UNESCO-Welterbe)",
         "notes": "Hilarius (Poitiers, Frankreich, 310/320 - 367/368), Bischof seiner Heimatstadt, verteidigte mit hochkarätigen Schriften (darunter vor allem der Traktat De Trinitate) den Glauben an die volle Göttlichkeit des Sohnes, wie sie vom Konzil von Nizäa (325) gegen die Arianische Häresie bekräftigt wurde. Wegen seines entschiedenen Widerstands gegen die pro-arianischen Tendenzen des kaiserlichen Hofes wurde er verfolgt und ins Exil geschickt. Er wird im Hieronymianischen Martyrologium (5.-6. Jahrhundert) am 13. Januar erwähnt. Die Kirche Saint-Hilaire le Grand ist eine katholische Kirche in Poitiers, im Département Vienne, die dem heiligen Hilarius von Poitiers gewidmet ist. 1840 wurde sie zum historischen Denkmal Frankreichs erklärt und seit 1998 ist sie auch als UNESCO-Weltkulturerbe eingestuft, da sie eine Etappe des Jakobswegs entlang der Via Turonensis ist.",
         "patronage": "",
         "main_shrine": "N/V"
@@ -3550,7 +3550,7 @@
         "main_shrine": "Katakomben von Callisto (Rom, Italien)"
     },
     "SantaMariaInPortico_594": {
-        "subject": "Santa Maria in Portico",
+        "subject": "Santa Maria in Portico (Rom, Italien)",
         "places": "Rom (Italien)",
         "place_of_death": "N/V",
         "place_of_birth": "N/V",
