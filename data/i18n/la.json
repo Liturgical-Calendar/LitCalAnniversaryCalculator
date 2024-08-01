@@ -62,7 +62,7 @@
     "StAgnes_7": {
         "subject": "Sancta Agnes, virgo et martyr",
         "places": "Roma (Italia)",
-        "place_of_death": "Basilica Sanctae Agnetis in Agonis, Roma",
+        "place_of_death": "Basilica Sanctae Agnetis in Agone (Roma, Italia)",
         "place_of_birth": "Roma (Italia)",
         "place_of_burial": "Catacombae Sanctae Agnetis extra Muros",
         "notes": "Agnes, romana, adhuc adulescens, posita in alternativa inter manere fidelis Christo et vitam suam servare, sine dubio elegit Sponsum caelestem, cum eo se coniungens per martyrium (saec. III media). Narratio de eius passione, valde popularis, a papa Damaso iam ab saeculo IV collecta est. Sanctus Ambrosius et sanctus Augustinus eam ut lucidum exemplum virginis Christianae indicaverunt. Secundum Depositio martyrum (336), eius memoria celebrabatur die 21 Ianuarii Romae in coemeterio eiusdem nominis ad viam Nomentanam. Nomen eius recolitur in Canone Romano.",
@@ -567,7 +567,7 @@
         "place_of_burial": "Ecclesia Sanctae Mariae in Vallicella seu \"Ecclesia Nova\" (Roma, Italia)",
         "notes": "Philippus (Florentia, 21 Iulii 1515 - Roma, 26 Maii 1595), adulescens Romam perveniens, incurabilibus aegrotis et pauperibus peregrinis assistentiam dedit. Presbyter ordinatus, assiduus in confessionali fuit et Eucharistiam cum intensa devotione celebravit, usque ad mysticum transportum. Ex periodicis conventibus cum coetu suorum paenitentium – quos laeto stilo in dialogis spiritualibus et in activitatibus recreativis, culturalibus, caritativis instruxit – orta est experientia «Oratorii» et Congregatio sacerdotum quae eodem nomine appellatur, a Gregorio XIII die 15 Iulii 1575 recognita.",
         "patronage": "",
-        "main_shrine": "Ecclesia Nova, Roma"
+        "main_shrine": "Ecclesia Nova (Roma, Italia)"
     },
     "StAugustineCanterbury_62": {
         "subject": "Sanctus Augustinus Cantuariensis, episcopus",
@@ -841,7 +841,7 @@
     },
     "StLawrenceBrindisi_90": {
         "subject": "Sanctus Laurentius a Brundisio, sacerdos et doctor",
-        "places": "Ecclesia Sanctae Mariae Angelorum, Brundisium (Italia); Olisipo (Portugallia); Villafranca del Bierzo, Hispania",
+        "places": "Ecclesia Sanctae Mariae Angelorum (Brundisium, Italia); Olisipo (Portugallia); Villafranca del Bierzo (Hispania)",
         "place_of_death": "Olisipo (Portugallia)",
         "place_of_birth": "Brundisium (Italia)",
         "place_of_burial": "Conventus Annuntiationis, Villafranca del Bierzo, Hispania",
@@ -2274,10 +2274,10 @@
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Florentia (Italia)",
-        "place_of_burial": "Ecclesia Nova, Roma",
+        "place_of_burial": "Ecclesia Sanctae Mariae in Vallicella seu \"Ecclesia Nova\" (Roma, Italia)",
         "notes": "Philippus (Florentia, 21 Iulii 1515 - Roma, 26 Maii 1595), adulescens Romam perveniens, incurabilibus aegrotis et pauperibus peregrinis assistentiam dedit. Presbyter ordinatus, assiduus in confessionali fuit et Eucharistiam cum intensa devotione celebravit, usque ad mysticum transportum. Ex periodicis conventibus cum coetu suorum paenitentium – quos laeto stilo in dialogis spiritualibus et in activitatibus recreativis, culturalibus, caritativis instruxit – orta est experientia «Oratorii» et Congregatio sacerdotum quae eodem nomine appellatur, a Gregorio XIII die 15 Iulii 1575 recognita.",
         "patronage": "",
-        "main_shrine": "Ecclesia Nova, Roma"
+        "main_shrine": "Ecclesia Nova (Roma, Italia)"
     },
     "StsCharlesLwanga_281": {
         "subject": "Sancti Carolus Lwanga et socii, martyres",
@@ -3311,7 +3311,7 @@
     },
     "StGregoryGreat_571": {
         "subject": "Sanctus Gregorius Magnus, papa et doctor",
-        "places": "Senenses (Italia)",
+        "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Roma (Italia)",
         "place_of_burial": "Basilica Sancti Petri in Vaticano",
