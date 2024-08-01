@@ -91,8 +91,8 @@
     },
     "StPaulApostle_10": {
         "subject": "Sint Paulus, apostel",
-        "places": "Kerk van Sint Paulus alla Regola, Rome Kerk van Santa Maria in Via Lata, Rome; GRIEKENLAND; TURKIJE",
-        "place_of_death": "Heiligdom van de Drie Fonteinen, Rome",
+        "places": "Kerk van Sint-Paulus alla Regola (Rome, Italië); Kerk van Santa Maria in Via Lata (Rome, Italië); Griekenland; Turkije; Syrië",
+        "place_of_death": "Heiligdom van de Drie Fonteinen (Rome, Italië)",
         "place_of_birth": "Tarsus (Turkije) https://www.google.com/maps/place/36%C2%B055'00.0%22N+34%C2%B054'00.0%22E/@36.9546925,34.8770442,11.25z/data=!4m5!3m4!1s0x0:0x0!8m2!3d36.916667!4d34.9",
         "place_of_burial": "Basiliek van Sint Paulus buiten de Muren, Rome",
         "notes": "Paulus van Tarsus, door Christus overwonnen op de weg naar Damascus (cf. Hand 9, 1-19; Fil 3, 12), wijdt zichzelf volledig aan de dienst van het begrip en de verkondiging van het nieuwe bestaan dat hij leeft in Christus Jezus zijn Heer (cf. Ef 3, 1-4; 1 Kor 9, 16; Rom 6, 4; Gal 2, 20). Beide apostelen, die «op verschillende manieren de ene familie van Christus hebben verzameld» (Prefatie), bezegelden hun getuigenis aan Christus met het martelaarschap in Rome, in de jaren zestig van de eerste eeuw. In de Depositio martyrum (336) worden ze samen herdacht op 29 juni.",
@@ -567,7 +567,7 @@
         "place_of_burial": "Kerk van Santa Maria in Vallicella of \"Nieuwe Kerk\" (Rome, Italië)",
         "notes": "Filippo (Florence, 21 juli 1515 - Rome, 26 mei 1595), die op jonge leeftijd naar Rome kwam, wijdde zich aan de zorg voor ongeneeslijk zieken en arme pelgrims. Na zijn priesterwijding was hij vaak in de biechtstoel te vinden en vierde hij de Eucharistie met intense devotie, tot aan mystieke vervoering toe. Uit de periodieke ontmoetingen met een groep van zijn boetelingen – die hij op een vreugdevolle manier onderhield met spirituele dialogen en recreatieve, culturele en liefdadigheidsactiviteiten – ontstonden de ervaring van het «Oratorium» en de Congregatie van priesters die dezelfde naam draagt, erkend door Gregorius XIII op 15 juli 1575.",
         "patronage": "",
-        "main_shrine": "Chiesa Nuova (Rome, Italië)"
+        "main_shrine": "Kerk van Santa Maria in Vallicella of \"Nieuwe Kerk\" (Rome, Italië)"
     },
     "StAugustineCanterbury_62": {
         "subject": "Heilige Augustinus van Canterbury, bisschop",
@@ -1981,7 +1981,7 @@
     },
     "StGregoryNazianzen_207": {
         "subject": "Sint-Gregorius van Nazianze",
-        "places": "Cappadocië, Constantinopel (Turkije), Rome (Italië)",
+        "places": "Cappadocië (Turkije); Constantinopel (huidig Istanbul, Turkije); Rome (Italië)",
         "place_of_death": "Constantinopel (huidig Istanbul, Turkije)",
         "place_of_birth": "Nazianze, in het huidige Turkije",
         "place_of_burial": "Sint-Pietersbasiliek; voorheen Kerk van Santa Maria della Concezione in Campo Marzio, Rome, waar een arm is gebleven",
@@ -2277,7 +2277,7 @@
         "place_of_burial": "Kerk van Santa Maria in Vallicella of \"Nieuwe Kerk\" (Rome, Italië)",
         "notes": "Filippo (Florence, 21 juli 1515 - Rome, 26 mei 1595), die op jonge leeftijd naar Rome kwam, wijdde zich aan de zorg voor ongeneeslijk zieken en arme pelgrims. Na zijn priesterwijding was hij vaak in de biechtstoel te vinden en vierde hij de Eucharistie met intense devotie, tot aan mystieke vervoering toe. Uit de periodieke ontmoetingen met een groep van zijn biechtelingen – die hij op een vreugdevolle manier onderhield met spirituele dialogen en recreatieve, culturele en liefdadigheidsactiviteiten – ontstonden de ervaring van de «Oratorium» en de Congregatie van priesters die dezelfde naam draagt, erkend door Gregorius XIII op 15 juli 1575.",
         "patronage": "",
-        "main_shrine": "Chiesa Nuova (Rome, Italië)"
+        "main_shrine": "Kerk van Santa Maria in Vallicella of \"Nieuwe Kerk\" (Rome, Italië)"
     },
     "StsCharlesLwanga_281": {
         "subject": "Heilige Charles Lwanga en gezellen, martelaren",
@@ -2401,7 +2401,7 @@
     },
     "StLawrenceBrindisi_305": {
         "subject": "Sint Laurentius van Brindisi, priester en doctor",
-        "places": "Kerk van Santa Maria degli Angeli, Brindisi (Italië); Lissabon (Portugal); Villafranca del Bierzo (Spanje)",
+        "places": "Kerk van Santa Maria degli Angeli (Brindisi, Italië); Lissabon (Portugal); Villafranca del Bierzo (Spanje)",
         "place_of_death": "Lissabon (Portugal)",
         "place_of_birth": "Brindisi (Italië)",
         "place_of_burial": "Klooster van de Annunciatie (Villafranca del Bierzo, Spanje)",
@@ -2981,7 +2981,7 @@
     },
     "StLawrenceBrindisi_492": {
         "subject": "Sint-Laurentius van Brindisi, priester en leraar",
-        "places": "Kerk van Santa Maria degli Angeli, Brindisi (Italië); Lissabon (Portugal); Villafranca del Bierzo (Spanje)",
+        "places": "Kerk van Santa Maria degli Angeli (Brindisi, Italië); Lissabon (Portugal); Villafranca del Bierzo (Spanje)",
         "place_of_death": "Lissabon (Portugal)",
         "place_of_birth": "Brindisi (Italië)",
         "place_of_burial": "Klooster van de Annunciatie (Villafranca del Bierzo, Spanje)",
@@ -3341,7 +3341,7 @@
     },
     "StGregoryNazianzen_574": {
         "subject": "Sint Gregorius van Nazianze",
-        "places": "Cappadocië (Turkije); Constantinopel (Turkije); Rome (Italië)",
+        "places": "Cappadocië (Turkije); Constantinopel (huidig Istanbul, Turkije); Rome (Italië)",
         "place_of_death": "Constantinopel (huidig Istanbul, Turkije)",
         "place_of_birth": "Nazianze, in het huidige Turkije",
         "place_of_burial": "Sint-Pietersbasiliek; voorheen Kerk van Santa Maria della Concezione in Campo Marzio, Rome, waar een arm is achtergebleven",
@@ -3394,7 +3394,7 @@
         "places": "Frankrijk",
         "place_of_death": "Poitiers (Frankrijk)",
         "place_of_birth": "Poitiers (Frankrijk)",
-        "place_of_burial": "Kerk van Saint-Hilaire le Grand, Poitiers (UNESCO-erfgoed)",
+        "place_of_burial": "Kerk van Sint-Hilarius de Grote (Poitiers, Frankrijk) (UNESCO-werelderfgoed)",
         "notes": "Hilarius (Poitiers, Frankrijk, 310/320 - 367/368), bisschop van zijn geboortestad, verdedigde met hoogstaande geschriften (waaronder vooral het traktaat De Trinitate) het geloof in de volledige goddelijkheid van de Zoon, zoals bevestigd door het Concilie van Nicea (325) tegen de ketterij van Arius. Vanwege zijn standvastige verzet tegen de filo-Ariaanse oriëntaties van het keizerlijk hof werd hij vervolgd en verbannen. Hij wordt herinnerd in het Jeronimiaans Martyrologium (5e-6e eeuw) op 13 januari. De kerk van Saint-Hilaire le Grand is een katholieke kerk in Poitiers, in het departement Vienne, gewijd aan Sint Hilarius van Poitiers. In 1840 werd het uitgeroepen tot Historisch Monument van Frankrijk en sinds 1998 is het ook geclassificeerd als UNESCO-werelderfgoed, als halte op de pelgrimsroute naar Santiago de Compostela langs de Via Turonensis.",
         "patronage": "",
         "main_shrine": "n.v.t."
@@ -3550,7 +3550,7 @@
         "main_shrine": "Catacomben van Callisto (Rome, Italië)"
     },
     "SantaMariaInPortico_594": {
-        "subject": "Santa Maria in Portico",
+        "subject": "Santa Maria in Portico (Rome, Italië)",
         "places": "Rome (Italië)",
         "place_of_death": "n.v.t.",
         "place_of_birth": "n.v.t.",
