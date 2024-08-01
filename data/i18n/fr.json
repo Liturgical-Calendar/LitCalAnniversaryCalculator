@@ -71,7 +71,7 @@
     },
     "StVincentDeacon_8": {
         "subject": "Saint Vincent, diacre et martyr",
-        "places": "Valence (Espagne); Lisbonne (Portugal); Acate (Raguse, Italie)",
+        "places": "Valence (Espagne) ; Lisbonne (Portugal) ; Acate (Raguse, Italie)",
         "place_of_death": "Valence (Espagne)",
         "place_of_birth": "Huesca / Valence / Saragosse (Espagne)",
         "place_of_burial": "Cathédrale de Valence (Espagne) / Cathédrale de Lisbonne (Portugal) / Acate (Raguse, Italie ; tradition populaire)",
@@ -81,7 +81,7 @@
     },
     "StFrancisDeSales_9": {
         "subject": "Saint François de Sales, évêque et docteur",
-        "places": "Château de Thorens (Thorens-Glières, France); Lyon (France); Genève (Suisse); Annecy (France)",
+        "places": "Château de Thorens (Thorens-Glières, France) ; Lyon (France) ; Genève (Suisse) ; Annecy (France)",
         "place_of_death": "Lyon (France)",
         "place_of_birth": "Salès (France)",
         "place_of_burial": "Basilique de la Visitation, Annecy (France)",
@@ -151,7 +151,7 @@
     },
     "StAnsgar_17": {
         "subject": "Saint Anschaire (Oscar), évêque",
-        "places": "France; Allemagne; Danemark; Suède",
+        "places": "France ; Allemagne ; Danemark ; Suède",
         "place_of_death": "Brême (Allemagne)",
         "place_of_birth": "Amiens (France)",
         "place_of_burial": "Hambourg (Allemagne)",
@@ -161,17 +161,17 @@
     },
     "StAgatha_18": {
         "subject": "Sainte Agathe, vierge et martyre",
-        "places": "Catane (Sicile, Italie); Rome (Italie); Église Sainte-Sophie à Constantinople (actuelle Istanbul, Turquie)",
+        "places": "Catane (Sicile, Italie) ; Rome (Italie) ; Église Sainte-Sophie à Constantinople (actuelle Istanbul, Turquie)",
         "place_of_death": "Catane (Sicile, Italie)",
         "place_of_birth": "Catane (Sicile, Italie)",
-        "place_of_burial": "Catane (Sicile, Italie); Constantinople (actuelle Istanbul, Turquie)",
+        "place_of_burial": "Catane (Sicile, Italie) ; Constantinople (actuelle Istanbul, Turquie)",
         "notes": "Agathe fut martyre à Catane, probablement pendant la persécution de Dèce (251). Son culte commença à se répandre au Ve siècle, lorsque le pape Symmaque lui dédia une basilique sur la via Aurelia. L'anniversaire de sa mort est commémoré le 5 février par le Martyrologe hiéronymien (Ve-VIe siècle) ; son nom est inscrit dans le Canon Romain. En 1040, Georges Maniakès, général envoyé par l'empereur byzantin Michel IV le Paphlagonien pour reconquérir la Sicile, qui depuis 945 était constituée en Émirat de Sicile, retire à la ville les reliques de Sainte Agathe jalousement gardées dans le temple primitif. Les reliques furent conservées dans la basilique cathédrale Sainte-Sophie et restèrent à Constantinople pendant quatre-vingt-six ans. Y a-t-il des restes de l'église dédiée par le pape Symmaque sur la Via Aurelia ? S. Agathe in Fundo Lardario Il y a une église qui lui est dédiée depuis le Ve siècle à Rome : https://it.wikipedia.org/wiki/Chiesa_di_Sant%27Agata_dei_Goti",
         "patronage": "",
         "main_shrine": "Cathédrale Sainte-Agathe à Catane (https://it.wikipedia.org/wiki/Cattedrale_di_Sant%27Agata)"
     },
     "StsPaulMiki_19": {
         "subject": "Saints Paul Miki et compagnons, martyrs",
-        "places": "Settsu (Japon); Nagasaki (Japon)",
+        "places": "Settsu (Japon) ; Nagasaki (Japon)",
         "place_of_death": "Nagasaki (Japon)",
         "place_of_birth": "Kyoto (Japon)",
         "place_of_burial": "Nagasaki (Japon)",
@@ -191,7 +191,7 @@
     },
     "StScholastica_21": {
         "subject": "Sainte Scholastique, vierge",
-        "places": "Nursie (Italie); Mont-Cassin (Italie); Subiaco (Italie)",
+        "places": "Nursie (Italie) ; Mont-Cassin (Italie) ; Subiaco (Italie)",
         "place_of_death": "Montecassino (Frosinone, Italie)",
         "place_of_birth": "Norcia (Pérouse, Italie)",
         "place_of_burial": "Abbaye de Montecassino (Italie)",
@@ -211,7 +211,7 @@
     },
     "StCyrilThessalonica_23": {
         "subject": "Saint Cyrille, moine",
-        "places": "Thessalonique (Grèce); Rome (Italie)",
+        "places": "Thessalonique (Grèce) ; Rome (Italie)",
         "place_of_death": "Rome (Italie)",
         "place_of_birth": "Thessalonique (Grèce)",
         "place_of_burial": "Basilique de Saint-Clément (Rome, Italie)",
@@ -271,7 +271,7 @@
     },
     "StJohnGod_30": {
         "subject": "Saint Jean de Dieu, religieux",
-        "places": "Montemor-o-Novo (Portugal); Grenade (Espagne)",
+        "places": "Montemor-o-Novo (Portugal) ; Grenade (Espagne)",
         "place_of_death": "Grenade (Espagne)",
         "place_of_birth": "Montemor-o-Novo (Portugal)",
         "place_of_burial": "Grenade (Espagne)",
@@ -311,7 +311,7 @@
     },
     "StJoseph_34": {
         "subject": "Saint Joseph Époux de la Bienheureuse Vierge Marie",
-        "places": "Bethléem (Palestine); Nazareth (Israël)",
+        "places": "Bethléem (Palestine) ; Nazareth (Israël)",
         "place_of_death": "Nazareth (Israël)",
         "place_of_birth": "Bethléem (Palestine)",
         "place_of_burial": "Tombe du Juste à Nazareth ?",
@@ -441,7 +441,7 @@
     },
     "StCatherineSiena_48": {
         "subject": "Sainte Catherine de Sienne, vierge et docteur de l'Église",
-        "places": "Sienne (Italie); Rome (Italie)",
+        "places": "Sienne (Italie) ; Rome (Italie)",
         "place_of_death": "Rome (Italie)",
         "place_of_birth": "Sienne (Italie)",
         "place_of_burial": "Rome (Italie)",
@@ -511,7 +511,7 @@
     },
     "StJohnIPope_56": {
         "subject": "Saint Jean Ier, pape et martyr",
-        "places": "Ravenne (Italie); Rome (Italie)",
+        "places": "Ravenne (Italie) ; Rome (Italie)",
         "place_of_death": "Ravenne (Italie)",
         "place_of_birth": "Sienne ou Chiusdino ou Anghiari, Toscane (Italie)",
         "place_of_burial": "Basilique Saint-Pierre au Vatican",
@@ -731,7 +731,7 @@
     },
     "StPeterApostle_79": {
         "subject": "Saint Pierre, apôtre",
-        "places": "Saint-Pierre-aux-Liens (Rome, Italie); Saint-Pierre-aux-Liens (Rome, Italie); Sainte-Pudentienne (Rome, Italie)",
+        "places": "Saint-Pierre en Montorio (Rome, Italie) ; Saint-Pierre-aux-Liens (Rome, Italie) ; Sainte-Pudentienne (Rome, Italie)",
         "place_of_death": "Rome",
         "place_of_birth": "Bethsaïde, Lac de Galilée, actuel Israël",
         "place_of_burial": "Basilique Saint-Pierre au Vatican",
@@ -1417,7 +1417,7 @@
         "place_of_burial": "Basilique de Saint-Clément (Rome, Italie)",
         "notes": "Ignace, évêque d'Antioche de Syrie (actuelle Antakya, Turquie), sous l'empereur Trajan (98-117), fut arrêté en tant que chrétien et conduit à Rome pour être livré aux bêtes dans le cirque. Lors de son voyage, il fut réconforté par la rencontre de certaines Églises d'Asie Mineure, auxquelles il laissa sept lettres parvenues jusqu'à nous, témoignage vivant de sa doctrine et de son souci pastoral, témoignage de son désir de suivre le Christ jusqu'au martyre. Face à certaines divisions, il invita avec insistance les communautés chrétiennes à maintenir la concorde, puisée à l'unique table eucharistique, sous la conduite de l'évêque avec son presbytère. Sa mémoire est célébrée le 17 octobre dans la tradition syriaque ; son nom fut inséré dans le Canon Romain.",
         "patronage": "",
-        "main_shrine": "Basilique de Saint Pierre (Rome, Italie); précédemment Église de Sainte Marie de la Conception à Campo Marzio (Rome, Italie), où est resté un bras"
+        "main_shrine": "Basilique de Saint-Clément (Rome, Italie)"
     },
     "StLukeEvangelist_149": {
         "subject": "Saint Luc l'Évangéliste",
@@ -1617,7 +1617,7 @@
         "place_of_burial": "mer de Crimée ; tumulus découvert par Saint Cyrille, qui le rapporta à Rome",
         "notes": "Clément pape (92-99) est essentiellement connu pour l'épître à l'Église de Corinthe, qui lui est attribuée. Face aux divisions internes de cette communauté, l'écrit envoyé de Rome exhorte à la concorde, en continuité avec le ministère de communion confié à l'apôtre Pierre, dont le martyre est rappelé, ainsi que celui de Paul et de nombreux chrétiens tués lors de la persécution de Néron. La lettre permet également de connaître certains aspects de la pensée et de la vie de la communauté de Rome. Clément est mentionné dans le Martyrologe hiéronymien (Ve-VIe siècle), dans le Canon Romain et dans tous les livres liturgiques romains.",
         "patronage": "",
-        "main_shrine": "Basilique de Saint Pierre (Rome, Italie); précédemment Église de Sainte Marie de la Conception à Campo Marzio (Rome, Italie), où est resté un bras"
+        "main_shrine": "Basilique de Saint-Clément (Rome, Italie)"
     },
     "StColumban_171": {
         "subject": "Saint Colomban, abbé",
@@ -2001,7 +2001,7 @@
     },
     "StThomasAquinas_212": {
         "subject": "Saint Thomas d'Aquin, prêtre et docteur",
-        "places": "Roccasecca (Italie); Fossanova (Italie); Toulouse (France)",
+        "places": "Roccasecca (Italie) ; Fossanova (Italie) ; Toulouse (France)",
         "place_of_death": "Abbaye de Fossanova à Priverno (Latina, Italie)",
         "place_of_birth": "Roccasecca (Frosinone, Italie)",
         "place_of_burial": "Toulouse (France)",
@@ -2031,7 +2031,7 @@
     },
     "StThomasAquinas_218": {
         "subject": "Saint Thomas d'Aquin, prêtre et docteur",
-        "places": "Roccasecca (Italie); Fossanova (Italie); Toulouse (France)",
+        "places": "Roccasecca (Italie) ; Fossanova (Italie) ; Toulouse (France)",
         "place_of_death": "Abbaye de Fossanova à Priverno (Latina, Italie)",
         "place_of_birth": "Roccasecca (Frosinone, Italie)",
         "place_of_burial": "Toulouse (France)",
@@ -2041,7 +2041,7 @@
     },
     "StThomasAquinas_219": {
         "subject": "Saint Thomas d'Aquin, prêtre et docteur",
-        "places": "Roccasecca (Italie); Fossanova (Italie); Toulouse (France)",
+        "places": "Roccasecca (Italie) ; Fossanova (Italie) ; Toulouse (France)",
         "place_of_death": "Abbaye de Fossanova à Priverno (Latina, Italie)",
         "place_of_birth": "Roccasecca (Frosinone, Italie)",
         "place_of_burial": "Toulouse (France)",
@@ -2061,7 +2061,7 @@
     },
     "StJohnBosco_221": {
         "subject": "Saint Jean Bosco, prêtre",
-        "places": "Basilique Marie Auxiliatrice (Valdocco, Turin); Basilique Sacré-Cœur (Rome)",
+        "places": "Basilique Marie Auxiliatrice (Valdocco, Turin) ; Basilique Sacré-Cœur (Rome)",
         "place_of_death": "Turin (Italie)",
         "place_of_birth": "Castelnuovo d'Asti (Italie)",
         "place_of_burial": "Basilique Marie Auxiliatrice (Turin, Italie)",
@@ -2091,7 +2091,7 @@
     },
     "StMethodiusThessalonica_224": {
         "subject": "Saint Méthode, évêque",
-        "places": "Thessalonique (Grèce); Velehrad (République tchèque)",
+        "places": "Thessalonique (Grèce) ; Velehrad (République tchèque)",
         "place_of_death": "Velehrad (République tchèque)",
         "place_of_birth": "Thessalonique (Grèce)",
         "place_of_burial": "Velehrad (République tchèque)",
@@ -2221,7 +2221,7 @@
     },
     "StCatherineSiena_263": {
         "subject": "Sainte Catherine de Sienne, vierge et docteur de l'Église",
-        "places": "Sienne (Italie); Rome (Italie)",
+        "places": "Sienne (Italie) ; Rome (Italie)",
         "place_of_death": "Rome (Italie)",
         "place_of_birth": "Sienne (Italie)",
         "place_of_burial": "Rome (Italie)",
@@ -2951,7 +2951,7 @@
     },
     "StCatherineSiena_486": {
         "subject": "Sainte Catherine de Sienne, vierge et docteur de l'Église",
-        "places": "Sienne (Italie); Rome (Italie)",
+        "places": "Sienne (Italie) ; Rome (Italie)",
         "place_of_death": "Rome (Italie)",
         "place_of_birth": "Sienne (Italie)",
         "place_of_burial": "Rome (Italie)",
@@ -3344,7 +3344,7 @@
         "places": "Cappadoce (Turquie) ; Constantinople (actuelle Istanbul, Turquie) ; Rome (Italie)",
         "place_of_death": "Constantinople (actuelle Istanbul, Turquie)",
         "place_of_birth": "Nazianze, dans l'actuelle Turquie",
-        "place_of_burial": "Basilique de Saint Pierre (Rome, Italie); précédemment Église de Sainte Marie de la Conception à Campo Marzio (Rome, Italie), où est resté un bras",
+        "place_of_burial": "Basilique de Saint Pierre (Rome, Italie) ; précédemment Église de Sainte Marie de la Conception à Campo Marzio (Rome, Italie), où est resté un bras",
         "notes": "Grégoire (Nazianze, dans l'actuelle Turquie, 329/330 - 390) partagea avec Basile la formation culturelle et le désir de la vie monastique. Élu patriarche de Constantinople, il vécut un bref et douloureux épiscopat, au milieu de nombreux conflits. Écrivain et orateur talentueux, il se consacra également à la poésie. Avec Basile, il contribua de manière significative au développement de la doctrine trinitaire. Mémoire liturgique le 2 janvier",
         "patronage": "",
         "main_shrine": "N/D"
@@ -3521,7 +3521,7 @@
     },
     "StJamesLessApostle_591": {
         "subject": "Saint Jacques le Mineur, apôtre",
-        "places": "Galilée (Israël); Rome (Italie)",
+        "places": "Galilée (Israël) ; Rome (Italie)",
         "place_of_death": "Jérusalem (Israël / Palestine)",
         "place_of_birth": "",
         "place_of_burial": "Jérusalem (Israël / Palestine), puis Rome (Italie)",
