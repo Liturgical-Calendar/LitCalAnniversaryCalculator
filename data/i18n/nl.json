@@ -26,7 +26,7 @@
         "place_of_birth": "Poitiers (Frankrijk)",
         "place_of_burial": "Kerk van Sint-Hilarius de Grote (Poitiers, Frankrijk) (UNESCO-werelderfgoed)",
         "notes": "Hilarius (Poitiers, Frankrijk, 310/320 - 367/368), bisschop van zijn geboortestad, verdedigde met hoogstaande geschriften (waaronder vooral het traktaat De Trinitate) het geloof in de volledige goddelijkheid van de Zoon, bevestigd door het Concilie van Nicea (325) tegen de ketterij van Arius. Vanwege zijn felle verzet tegen de filo-Ariaanse standpunten van het keizerlijke hof werd hij vervolgd en verbannen. Hij wordt herdacht in het Martyrologium Hieronymianum (5e-6e eeuw) op 13 januari. De kerk van Saint-Hilaire le Grand is een katholieke kerk in Poitiers, in het departement Vienne, gewijd aan Saint Hilarius van Poitiers. In 1840 werd het uitgeroepen tot Historisch Monument van Frankrijk en sinds 1998 is het ook geclassificeerd als UNESCO-werelderfgoed, als een etappe van de Camino de Santiago langs de Via Turonensis.",
-        "patronage": "kinderen die academisch achterlopen, kinderen die leren lopen, moeders en zieken, aangeroepen tegen reuma en slangenbeten",
+        "patronage": "kinderen die achterlopen op school, kinderen die leren lopen, moeders en zieken, aangeroepen tegen reuma en slangenbeten",
         "main_shrine": "Kerk van Sint-Hilarius de Grote (Poitiers, Frankrijk)"
     },
     "StAnthonyEgypt_4": {
@@ -114,10 +114,10 @@
         "places": "Desenzano sul Garda, Brescia (Italië) http://www.angelamerici.org/luoghi/ http://www.angelamerici.it/news_schede.php?testata=Casa%20di%20santa%20Angela&get_id=6",
         "place_of_death": "Brescia (Italië)",
         "place_of_birth": "Desenzano sul Garda (Italië)",
-        "place_of_burial": "Kerk van Sint Angela Merici (Sant'Afra), Brescia (Italië)",
+        "place_of_burial": "Kerk van Sint-Angela Merici (voorheen kerk van Sint-Afra) (Brescia, Italië)",
         "notes": "Angela Merici (Desenzano del Garda, 1470 - Brescia, 1540) stichtte in 1535 in Brescia de Compagnia di Sant’Orsola, een instelling van gewijd leven in de wereld, met een eigen Regel. De Ricordi en het Testament tonen een diepe evangelische geest en een intens spiritueel leven. De verspreiding van de Compagnia en de oprichting van verschillende Ursulinenkloosters hebben de verering van de heilige over de hele wereld verspreid. Ze werd in 1807 door Pius VII heilig verklaard.",
         "patronage": "",
-        "main_shrine": "Kerk van Sint Angela Merici (Sant'Afra), Brescia (Italië)"
+        "main_shrine": "Kerk van Sint-Angela Merici (voorheen kerk van Sint-Afra) (Brescia, Italië)"
     },
     "StThomasAquinas_13": {
         "subject": "Sint Thomas van Aquino, priester en leraar",
@@ -823,7 +823,7 @@
         "subject": "Sint-Bonaventura, bisschop en kerkleraar",
         "places": "Lyon (Frankrijk); Bagnoregio (Italië)",
         "place_of_death": "Lyon (Frankrijk)",
-        "place_of_birth": "Civita di Bagnoregio (Viterbo)",
+        "place_of_birth": "Civita di Bagnoregio (Viterbo, Italië)",
         "place_of_burial": "http://www.doctorseraphicus.it/images/annate/1958_67-81_Petrangeli_Papini.pdf",
         "notes": "Bonaventura (Civita di Bagnoregio, Viterbo, ca. 1217 - Lyon, Frankrijk, 15 juli 1274), trad toe tot de Orde van de Minderbroeders en studeerde in Parijs. Als theoloog wijdde hij zich aan het onderwijs en produceerde werken van wijsheid, waaronder de Itinerarium mentis in Deum. Als generaal-overste ordende hij de eerdere wetgeving en promulgeerde nieuwe Constituties (Narbonne, 1260) en stelde met zijn hagiografische werk (Legenda maior en Legenda minor, waarvan de laatste voor de liturgische dienst werd geschreven) een eenheidsvisie voor van de figuur van Sint Franciscus. Als bisschop van Albano en kardinaal nam hij deel aan het Tweede Concilie van Lyon, tijdens welk hij plotseling overging van de aardse Kerk naar de hemelse vergadering.",
         "patronage": "",
@@ -1437,7 +1437,7 @@
         "place_of_burial": "Kerk van Sint-Jozef van de jezuïetenmissie van Sainte-Marie onder de Huron (Midland, Ontario)",
         "notes": "Johannes (Condé-sur-Vire, Frankrijk, 15 maart 1594 - Midland, Canada, 16 maart 1649), jezuïetenmissionaris onder de Huron, in het huidige Canada, werd gedood bij een aanval op de missie door andere vijandige stammen. Enkele maanden later volgde zijn metgezel in de missie Isaac Jogues (Orléans, Frankrijk, 10 januari 1607 - Auriesville, VS, 18 oktober 1649) hem in het martelaarschap; met hen worden nog zes andere jezuïetenmartelaren herdacht. Ze deelden met evangelische zachtheid het leven van die bevolkingen, tot de totale gave van zichzelf.",
         "patronage": "",
-        "main_shrine": "Heiligdom van de Martelaren, Midland, Ontario, Canada; Heiligdom van Onze-Lieve-Vrouw van de Martelaren, Auriesville"
+        "main_shrine": "Heiligdom van de Martelaren van Midland (Ontario, Canada); Heiligdom van Onze-Lieve-Vrouw van de Martelaren van Auriesville (New York, VS)"
     },
     "StPaulCross_151": {
         "subject": "Sint Paulus van het Kruis, priester",
@@ -1611,8 +1611,8 @@
     },
     "StClementIPope_170": {
         "subject": "Heilige Clemens I, paus en martelaar",
-        "places": "Rome (Italië); Sebastopol - Cherson, Krim",
-        "place_of_death": "Cherson, Krim",
+        "places": "Rome (Italië); Sebastopol - Cherson (Krim)",
+        "place_of_death": "Cherson (Krim)",
         "place_of_birth": "Rome",
         "place_of_burial": "Zee van de Krim; grafheuvel ontdekt door Sint Cyrillus, die het naar Rome bracht",
         "notes": "Paus Clemens (92-99) is vooral bekend om de brief aan de Kerk van Korinthe, die aan hem wordt toegeschreven. Geconfronteerd met interne verdeeldheid in die gemeenschap, spoort de brief uit Rome aan tot eensgezindheid, in continuïteit met het ambt van gemeenschap dat aan de apostel Petrus was toevertrouwd, wiens martelaarschap wordt herdacht, samen met dat van Paulus en de vele christenen die werden gedood tijdens de vervolging van Nero. De brief biedt ook inzicht in enkele aspecten van het denken en het leven van de gemeenschap van Rome. Clemens wordt herdacht in het Jeronimiaanse Martyrologium (5e-6e eeuw), in het Romeinse Canon en in alle Romeinse liturgische boeken.",
@@ -1622,22 +1622,22 @@
     "StColumban_171": {
         "subject": "Heilige Columbanus, abt",
         "places": "Bobbio (Italië)",
-        "place_of_death": "Bobbio, Piacenza (Italië)",
-        "place_of_birth": "Monte Leinster, Ierland",
-        "place_of_burial": "Abdij van Sint-Colombanus, Bobbio (Italië)",
+        "place_of_death": "Bobbio (Piacenza, Italië)",
+        "place_of_birth": "Monte Leinster (Ierland)",
+        "place_of_burial": "Abdij van Sint-Columbanus (Bobbio, Italië)",
         "notes": "Columbanus (Ierland, ca. 543 - Bobbio, Piacenza, 23 november 615), monnik in Bangor (Noord-Ierland), verliet rond zijn vijftigste, samen met enkele metgezellen, zijn land om door Europa te pelgrimeren. Dit was oorspronkelijk een boetvaardige praktijk die feitelijk een van de kanalen van de evangelisatie van het continent vormde. Hij trok door gebieden die nu behoren tot Frankrijk, Zwitserland en Noord-Italië, en stichtte verschillende kloosters, waaronder Luxeuil (Frankrijk) en Bobbio, beroemd om de liturgische boeken die hun naam dragen. De kloosterregel geschreven door Columbanus is gekenmerkt door grote ascetische strengheid. De Ierse monastieke boetvaardige praktijk – met individuele biecht en het gebruik van «tarieven» voor verschillende zonden – had aanzienlijke invloed op de discipline van de sacramentele Verzoening in het Westen. Columbanus wordt herdacht in het Jeronimiaanse Martyrologium.",
         "patronage": "",
-        "main_shrine": "Abdij van Sint-Columbanus, Bobbio (Italië)"
+        "main_shrine": "Abdij van Sint-Columbanus (Bobbio, Italië)"
     },
     "StAndrewAp_172": {
         "subject": "Sint-Andreas apostel",
         "places": "n.v.t.",
-        "place_of_death": "Patras, Griekenland",
-        "place_of_birth": "Betsaïda, Galilea",
+        "place_of_death": "Patras (Griekenland)",
+        "place_of_birth": "Betsaïda (Galilea, Israël)",
         "place_of_burial": "Kerk van Sint-Andrea, Patras; Kathedraal van Amalfi (Italië); Sint-Pietersbasiliek in Vaticaanstad",
         "notes": "Andreas, al een discipel van Johannes de Doper, volgde Jezus toen de Voorloper Hem aanwees als het Lam van God dat de zonde van de wereld wegneemt (Joh 1, 35-40). Broer van Petrus, hij deelde de ontdekking van de Messias met hem (Joh 1, 41-42). Beiden werden door de Meester geroepen aan de oevers van het meer om vissers van mensen te worden (Mt 4, 18-19). Bij het wonder van de broodvermenigvuldiging wijst hij Jezus op de jongen met de vijf broden en twee vissen (Joh 6, 8-9). Samen met Filippus meldt hij dat enkele Grieken Jezus willen zien (Joh 12, 20-21). Volgens de traditie werd hij gekruisigd in Patras en wordt hij bijzonder vereerd in de Kerk als protocletós, de «eerste geroepene» door Jezus. Zijn nagedachtenis op 30 november wordt door alle kalenders, zowel oosterse als westerse, herdacht. Sint-Hieronymus schreef dat de relieken van Andreas in 357 op bevel van de Romeinse keizer Constantius II van Patras naar Constantinopel werden gebracht. Daar bleven ze tot 1208, toen ze door kardinaal Pietro Capuano, een inwoner van Amalfi, naar Amalfi in Italië werden gebracht. In de 15e eeuw werd het hoofd van Sint-Andreas naar Rome gebracht, waar het in een schrijn werd geplaatst in een van de vier hoofdpilaren van de Sint-Pietersbasiliek. In september 1964, als een gebaar van toenadering tot de Grieks-orthodoxe Kerk, gaf paus Paulus VI een vinger en een deel van het hoofd aan de kerk van Patras. In de 6e eeuw werden twee relieken (een hand en een arm) van Sint-Andreas door paus Gregorius I, zijn grote vriend, geschonken aan Venantius, bisschop van Luni. Volgens de traditie werd toen, en ter gelegenheid van het geschenk, de kerk van Sint-Andreas in Sarzana gebouwd, die de verblijfplaats van de reliek werd. Sindsdien werd de apostel de patroonheilige van de stad. Deze relieken worden vandaag de dag bewaard in de kathedraal van Sarzana; ze waren door een zekere Andreas, hofmeester van keizer Maurits, van Constantinopel naar Rome gebracht. In Città di Castello, in de kerk van Sint-Franciscus, wordt een reliek van een armbeen bewaard, die volgens een lokale traditie door paus Celestinus II, een inwoner van de stad en voormalig kanunnik van de kathedraal, aan een plaatselijk klooster waar zijn zus woonde, werd geschonken; in de 15e eeuw liet de gemeente een zilveren reliekschrijn maken, die nu in de Gemeentelijke Pinacotheek staat. Het hoofd van de heilige werd, samen met andere relieken (een pink en enkele kleine delen van het kruis), door Thomas Palaeologus, despoot van Morea die door de Turken was verdreven, in 1461 aan paus Pius II geschonken in ruil voor de belofte van een kruistocht om Constantinopel te heroveren. De paus accepteerde het geschenk en beloofde de relieken terug te geven wanneer Griekenland bevrijd zou zijn en stuurde de kaak, bewaard in de oude reliekschrijn, naar Pienza. Op bevel van paus Paulus VI werden in 1964 de relieken die in Rome werden bewaard, opnieuw naar Patras gestuurd in de oude Byzantijnse reliekschrijn, die tot dan toe in de kathedraal van Pienza werd bewaard; in ruil daarvoor schonk de paus de kathedraal van Pienza de borstbeeld-reliëkschrijn van het hoofd, in opdracht van Pius II aan Simone di Giovanni Ghini voor de Sint-Pietersbasiliek in Vaticaanstad. De teruggegeven relieken worden tot op de dag van vandaag bewaard in de kerk van Sint-Andreas in Patras in een speciale urn en worden aan de gelovigen getoond ter gelegenheid van het feest op 30 november.",
         "patronage": "",
-        "main_shrine": "Kerk van Sint-Andreas, Patras"
+        "main_shrine": "Kerk van Sint-Andreas (Patras, Griekenland)"
     },
     "StFrancisXavier_173": {
         "subject": "Sint-Franciscus Xaverius, priester",
@@ -1667,11 +1667,11 @@
         "place_of_burial": "n.v.t.",
         "notes": "Nicolaas (4e eeuw) was bisschop van Myra (huidige Demre, Turkije). Vanuit het Oosten verspreidde zijn cultus zich ook naar Italië, na de diefstal van zijn relieken (1087) en hun plaatsing in Bari, in de naar hem genoemde basiliek, waar ze nog steeds worden bewaard. In zijn naam bloeiden populaire tradities en liefdadigheidsinitiatieven rond Kerstmis. De herdenking van zijn dood en begrafenis wordt op 6 december gevierd in de Byzantijnse en Koptische riten.",
         "patronage": "",
-        "main_shrine": "Basiliek van Sint-Nicolaas, Bari (Italië); Kerk van San Nicolò al Lido, Venetië"
+        "main_shrine": "Basiliek van Sint-Nicolaas (Bari, Italië); Kerk van Sint-Nicolaas al Lido (Venetië, Italië)"
     },
     "StAmbrose_176": {
         "subject": "Sint Ambrosius, bisschop en leraar",
-        "places": "Trier (Duitsland), Milaan (Italië)",
+        "places": "Trier (Duitsland); Milaan (Italië)",
         "place_of_death": "Milaan (Italië)",
         "place_of_birth": "Trier (Duitsland)",
         "place_of_burial": "Basiliek van Sint-Ambrosius, Milaan (Italië)",
@@ -1701,13 +1701,13 @@
     },
     "StLucySyracuse_179": {
         "subject": "Sint Lucia, maagd en martelares",
-        "places": "Syracuse; Venetië",
-        "place_of_death": "Syracuse, Sicilië (Italië)",
-        "place_of_birth": "Syracuse, Sicilië (Italië)",
+        "places": "Syracuse (Italië); Venetië (Italië)",
+        "place_of_death": "Syracuse (Sicilië, Italië)",
+        "place_of_birth": "Syracuse (Sicilië, Italië)",
         "place_of_burial": "Kerk van de Heiligen Geremia en Lucia - Heiligdom van Lucia",
         "notes": "Lucia, waarschijnlijk gemarteld tijdens de vervolging van Diocletianus (303-305), werd begraven in Syracuse. Van daaruit verspreidde haar cultus, al in de 5e eeuw bevestigd, zich naar Rome en overal. Haar naam, die licht oproept, en de datum van haar herdenking, nabij de winterzonnewende, bevorderden haar faam als beschermster van het zicht. Ze wordt herdacht op 13 december in het Geronimian Martyrologium (5e-6e eeuw) en wordt herinnerd in het Romeinse Canon.",
         "patronage": "",
-        "main_shrine": "Heiligdom van Sint Lucia bij het Graf, Syracuse, Sicilië"
+        "main_shrine": "Heiligdom van Sint-Lucia bij het Graf (Syracuse, Italië)"
     },
     "StJohnCross_180": {
         "subject": "Sint Johannes van het Kruis, priester en doctor",
@@ -2024,10 +2024,10 @@
         "places": "Desenzano del Garda, Brescia (Italië) http://www.angelamerici.org/luoghi/ http://www.angelamerici.it/news_schede.php?testata=Casa%20di%20santa%20Angela&get_id=6",
         "place_of_death": "Brescia (Italië)",
         "place_of_birth": "Desenzano sul Garda (Italië)",
-        "place_of_burial": "Kerk van Sint-Angela Merici (Sant'Afra); Brescia (Italië)",
+        "place_of_burial": "Kerk van Sint-Angela Merici (voorheen kerk van Sint-Afra) (Brescia, Italië)",
         "notes": "Angela Merici (Desenzano del Garda, 1470 - Brescia, 1540) stichtte in 1535 in Brescia de Compagnia di sant’Orsola, een instelling van gewijd leven in de wereld, en gaf haar een eigen Regel. De Ricordi en het Testament tonen een diep evangelische geest en een intens spiritueel leven. De verspreiding van de Compagnia en de oprichting van verschillende Ursulinenkloosters hebben de verering van de heilige over de hele wereld verspreid. Ze werd in 1807 door Pius VII heilig verklaard.",
         "patronage": "",
-        "main_shrine": "Kerk van Sint-Angela Merici (Sant'Afra), Brescia (Italië)"
+        "main_shrine": "Kerk van Sint-Angela Merici (voorheen kerk van Sint-Afra) (Brescia, Italië)"
     },
     "StThomasAquinas_218": {
         "subject": "Sint-Thomas van Aquino, priester en doctor",
@@ -2393,7 +2393,7 @@
         "subject": "Sint-Bonaventura, bisschop en kerkleraar",
         "places": "Lyon (Frankrijk); Bagnoregio (Italië)",
         "place_of_death": "Gniezno (Polen); Praag, Tsjechië; Rome",
-        "place_of_birth": "Civita di Bagnoregio, Viterbo",
+        "place_of_birth": "Civita di Bagnoregio (Viterbo, Italië)",
         "place_of_burial": "http://www.doctorseraphicus.it/images/annate/1958_67-81_Petrangeli_Papini.pdf",
         "notes": "Bonaventura (Civita di Bagnoregio, Viterbo, ca. 1217 - Lyon, Frankrijk, 15 juli 1274), trad toe tot de Orde van de Minderbroeders en studeerde in Parijs. Theoloog, wijdde zich aan het onderwijs en produceerde werken van wijsheid, waaronder de Itinerarium mentis in Deum. Als generaal-overste ordende hij de eerdere wetgeving en promulgeerde nieuwe Constituties (Narbonne, 1260) en stelde met zijn hagiografische werk (Legenda maior en Legenda minor, de laatste geschreven voor de liturgische dienst) een eenheidsvisie voor van de figuur van Sint Franciscus. Bisschop van Albano en kardinaal, nam hij deel aan het Tweede Concilie van Lyon, tijdens welk hij plotseling overging van de aardse Kerk naar de hemelse vergadering.",
         "patronage": "",
@@ -2651,13 +2651,13 @@
     },
     "StsJeanBrebeuf_365": {
         "subject": "Heiligen Johannes de Brébeuf en Isaac Jogues, priesters en gezellen martelaren",
-        "places": "Midland, Canada; Auriesville, New York, VS",
-        "place_of_death": "Midland, Canada",
+        "places": "Midland (Canada); Auriesville (New York, VS)",
+        "place_of_death": "Midland (Canada)",
         "place_of_birth": "Condé-sur-Vire (Frankrijk)",
         "place_of_burial": "n.v.t.",
         "notes": "Johannes (Condé-sur-Vire, Frankrijk, 15 maart 1594 - Midland, Canada, 16 maart 1649), jezuïetenmissionaris onder de Huronen in het huidige Canada, werd gedood bij een aanval op de missie door andere vijandige stammen. Enkele maanden later volgde zijn metgezel in de missie, Isaac Jogues (Orléans, Frankrijk, 10 januari 1607 - Auriesville, VS, 18 oktober 1649), hem in het martelaarschap; met hen worden nog zes andere jezuïetenmartelaren herdacht. Ze deelden met evangelische zachtheid het leven van die bevolkingen, tot aan de totale gave van zichzelf.",
         "patronage": "",
-        "main_shrine": "Heiligdom van de Martelaren, Midland, Ontario, Canada; Heiligdom van Onze-Lieve-Vrouw van de Martelaren, Auriesville"
+        "main_shrine": "Heiligdom van de Martelaren van Midland (Ontario, Canada); Heiligdom van Onze-Lieve-Vrouw van de Martelaren van Auriesville (New York, VS)"
     },
     "StPaulCross_366": {
         "subject": "Heilige Paulus van het Kruis, priester",

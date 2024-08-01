@@ -26,7 +26,7 @@
         "place_of_birth": "Pictavium (Francia)",
         "place_of_burial": "Ecclesia Sancti Hilarii Magni (Pictavium, Gallia) (patrimonium UNESCO)",
         "notes": "Hilarius (Pictavi, Francia, 310/320 - 367/368), episcopus civitatis suae natalis, scriptis eminentibus (inter quae praesertim tractatus De Trinitate) fidem in plenam divinitatem Filii defendit, a Concilio Nicaeno (325) contra haeresim Arii affirmatam. Propter firmam oppositionem ad orientem proariarum curiae imperiali persecutionem passus est et exsulavit. In Martyrologio Hieronymiano (saec. V-VI) memoria eius celebratur die 13 Ianuarii. Ecclesia Sancti Hilarii Magni est ecclesia catholica Pictavensis, in Vienne departmento sita, sancto Hilario Pictaviensi dedicata. Anno 1840 in Monumentorum Historiarum Galliae index relata est et ab anno 1998 etiam a UNESCO ut Patrimonium Humanitatis classificata est, quippe quae in Via Turonensi, Camini Sancti Iacobi Compostellam pergentis, sita est.",
-        "patronage": "pueri academicis post, pueri ambulare discentes, matres, et infirmi, invocati contra rheumatismum et morsus serpentium",
+        "patronage": "pueri in studiis retardati, pueri qui ambulare discunt, matres et aegroti, invocatus contra rheumatismos et morsus serpentium",
         "main_shrine": "Ecclesia Sancti Hilarii Magni (Pictavi, Gallia)"
     },
     "StAnthonyEgypt_4": {
@@ -114,10 +114,10 @@
         "places": "Decentianum ad Benacum, Brixia (Italia) http://www.angelamerici.org/luoghi/ http://www.angelamerici.it/news_schede.php?testata=Casa%20di%20santa%20Angela&get_id=6",
         "place_of_death": "Brixia (Italia)",
         "place_of_birth": "Decentianum ad Benacum (Italia)",
-        "place_of_burial": "Ecclesia Sanctae Angelae Merici (Sanctae Afrae), Brixia (Italia)",
+        "place_of_burial": "Ecclesia Sanctae Angelae Merici (olim ecclesia Sanctae Aphrae) (Brixia, Italia)",
         "notes": "Angela Merici (Decentianum ad Benacum, 1470 - Brixia, 1540) instituit in Brixia anno 1535 Societatem sanctae Ursulae, institutum vitae consecratae in mundo, dotali propria Regula. Memoriae et Testamentum profundum spiritum evangelicum et intensam vitam spiritualem manifestant. Diffusio Societatis et ortus diversorum Institutorum Sororum Ursulinarum veneratiónem sanctae in mundo propagaverunt. A Pio VII anno 1807 canonizata est.",
         "patronage": "",
-        "main_shrine": "Ecclesia Sanctae Angelae Merici (Sanctae Afrae), Brixia (Italia)"
+        "main_shrine": "Ecclesia Sanctae Angelae Merici (olim ecclesia Sanctae Aphrae) (Brixia, Italia)"
     },
     "StThomasAquinas_13": {
         "subject": "Sanctus Thomas de Aquino, sacerdos et doctor",
@@ -823,7 +823,7 @@
         "subject": "Sanctus Bonaventura, episcopus et doctor",
         "places": "Lugdunum (Francia); Balneoregium (Italia)",
         "place_of_death": "Lugdunum (Francia)",
-        "place_of_birth": "Civitas Balneoregis (Viterbo)",
+        "place_of_birth": "Civitas Balneoregii (Viterbium, Italia)",
         "place_of_burial": "http://www.doctorseraphicus.it/images/annate/1958_67-81_Petrangeli_Papini.pdf",
         "notes": "Bonaventura (Civitas Balneoregiensis, Viterbium, circiter 1217 - Lugdunum, Gallia, 15 Iulii 1274), Ordinem Fratrum Minorum ingressus, studia Parisiis perfecit. Theologus, docendi se dedit, opera sapientiae inspirationis producens, inter quae Itinerarium mentis in Deum. Minister generalis, leges priores ordinavit novasque Constitutiones promulgavit (Narbonnae, 1260) et, cum sua opera hagiographica (Legenda maior et Legenda minor, haec ad officium liturgicum scripta), unitariam visionem figurae sancti Francisci proposuit. Episcopus Albanensis et cardinalis, Concilio Lugdunensi II interfuit, durante quo, subito, e Ecclesia terrestri ad coetum caelestem transivit.",
         "patronage": "",
@@ -1437,7 +1437,7 @@
         "place_of_burial": "Ecclesia Sancti Ioseph de missione Iesu Societatis Sanctae Mariae inter Hurones (Midland, Ontario)",
         "notes": "Ioannes (Condatum super Viram, Francia, 15 Martii 1594 - Midland, Canada, 16 Martii 1649), missionarius Iesuita inter Hurones, in hodierno Canada, interfectus est in impetu in missionem ab aliis tribubus hostilibus. Paucos menses post eum secutus est in martyrio socius eius in missione Isaac Jogues (Aurelianum, Francia, 10 Ianuarii 1607 - Auriesville, USA, 18 Octobris 1649); cum eis commemorantur alii sex martyres Iesuitae. Evangelica mansuetudine vitam illarum populorum communicaverunt, usque ad plenam sui donationem.",
         "patronage": "",
-        "main_shrine": "Sanctuarium Martyrum, Midland, Ontario, Canada; Sanctuarium Nostrae Dominae Martyrum, Auriesville"
+        "main_shrine": "Sanctuarium Martyrum Midland (Ontario, Canada); Sanctuarium Nostrae Dominae Martyrum Auriesville (New York, USA)"
     },
     "StPaulCross_151": {
         "subject": "Sanctus Paulus a Cruce, sacerdos",
@@ -1611,8 +1611,8 @@
     },
     "StClementIPope_170": {
         "subject": "Sanctus Clemens I, papa et martyr",
-        "places": "Roma (Italia); Sebastopolis - Chersonesus, Chersonesus Taurica",
-        "place_of_death": "Chersonesus Taurica",
+        "places": "Roma (Italia); Sebastopolis - Chersonesus (Chersonesus Taurica)",
+        "place_of_death": "Chersonesus (Chersonesus Taurica)",
         "place_of_birth": "Roma",
         "place_of_burial": "mare Chersonesi Tauricae; tumulus a Sancto Cyrillo repertus, qui eum Romam reportavit",
         "notes": "Clemens papa (92-99) notus est praecipue propter epistolam ad Ecclesiam Corinthi, ei attributam. Coram divisionibus internis illius communitatis, scriptum Roma missum ad concordiam hortatur, in continuatione ministerii communionis apostolo Petro concrediti, cuius martyrium commemoratur, una cum Pauli et multorum christianorum in persecutione Neronis occisorum. Epistola etiam permittit cognoscere nonnullos aspectus cogitationis et vitae communitatis Romanae. Clemens commemoratur in Martyrologio Hieronymiano (saec. V-VI), in Canone Romano et in omnibus libris liturgicis Romanis.",
@@ -1622,22 +1622,22 @@
     "StColumban_171": {
         "subject": "Sanctus Columbanus, abbas",
         "places": "Bobbium (Italia)",
-        "place_of_death": "Bobbium, Placentia (Italia)",
-        "place_of_birth": "Mons Leinster, Hibernia",
-        "place_of_burial": "Abbatia Sancti Columbani, Bobium (Italia)",
+        "place_of_death": "Bobbium (Placentia, Italia)",
+        "place_of_birth": "Mons Leinster (Hibernia)",
+        "place_of_burial": "Abbatia Sancti Columbani (Bobbio, Italia)",
         "notes": "Columbanus (Hibernia, circiter 543 - Bobbium, Placentia, 23 novembris 615), monachus Bangor (Hibernia Septentrionalis), circa quinquaginta annos natus, cum nonnullis sociis, terram suam reliquit ut per Europam peregrinaretur. Haec erat initio praxis paenitentialis quae re vera unum ex canalibus evangelizationis continentis constituit. Transivit per territoria hodie ad Franciam, Helvetiam et Italiam septentrionalem pertinentia, varia monasteria fundans, inter quae Luxovium (Francia) et Bobbium, celebres propter libros liturgicos quibus nomen dederunt. Regula monastica a Columbano scripta magno rigore ascetico imbuta est. Praxis paenitentialis monastica Hibernica – cum confessione individuali et usu «tariffariorum» pro diversis culpis – magnam habuit influentiam in disciplinam Reconciliationis sacramentalis in Occidente. Columbanus commemoratur in Martyrologio Hieronymiano.",
         "patronage": "",
-        "main_shrine": "Abbatia Sancti Columbani, Bobbium (Italia)"
+        "main_shrine": "Abbatia Sancti Columbani (Bobbium, Italia)"
     },
     "StAndrewAp_172": {
         "subject": "Sanctus Andreas apostolus",
         "places": "non pertinet",
-        "place_of_death": "Patras, Graecia",
-        "place_of_birth": "Bethsaida, Galilaea",
+        "place_of_death": "Patrae (Graecia)",
+        "place_of_birth": "Bethsaida (Galilaea, Israel)",
         "place_of_burial": "Ecclesia Sancti Andreae, Patras; Cathedralis Amalphitana (Italia); Basilica Sancti Petri in Vaticano",
         "notes": "Andreas, iam discipulus Ioannis Baptistae, secutus est Iesum cum Praecursor eum indicavit ut Agnum Dei qui tollit peccatum mundi (Io 1, 35-40). Frater Petri, ei nuntiavit inventum Messiam (Io 1, 41-42). Ambo vocati sunt a Magistro ad litora lacus ut fierent piscatores hominum (Mt 4, 18-19). In miraculo multiplicationis panum indicat Iesu puerum quinque panum et duorum piscium (Io 6, 8-9). Ipse una cum Philippo refert quod quidam Graeci volunt videre Iesum (Io 12, 20-21). Crucifixus Patras, secundum traditionem, peculiari modo colitur in Ecclesia ut protocletós, «primus vocatus» a Iesu. Eius memoria die 30 Novembris celebratur in omnibus calendariis, tam orientalibus quam occidentalibus. Sanctus Hieronymus scripsit reliquias Andreae translatas esse a Patras Constantinopolim iussu imperatoris Romani Constanti II anno 357. Ibi manserunt usque ad annum 1208, cum translatae sunt Amalphim, in Italia, a cardinali Petro Capuano, Amalphitano. Saeculo XV, caput sancti Andreae Romam translatum est, ubi positum est in theca in uno ex quattuor columnis principalibus basilicae Sancti Petri. Mense Septembri 1964, ut gestus aperturae erga Ecclesiam Orthodoxam Graecam, papa Paulus VI tradidit digitum et partem capitis ecclesiae Patras. Saeculo VI, duae reliquiae (manus et brachium) sancti Andreae donatae sunt Venanzio episcopo Lunae a papa Gregorio I, eius magno amico. Traditur eo tempore, et occasione doni, aedificatam esse Sarzanae ecclesiam Sancti Andreae, quae facta est domus reliquiae. Ex illo die apostolus factus est patronus urbis. Hae reliquiae hodie conservantur in cathedrali Sarzanae; translatae sunt a Constantinopoli Romam a quodam Andrea, magistro aulae imperatoris Mauricii. In Urbe Castelli, in ecclesia Sancti Francisci, conservatur reliquia ossis brachii, quae traditio localis vult donatam a papa Caelestino II, urbis indigena et olim canonicus cathedralis, monasterio locali ubi vivebat eius soror; saeculo XV, communitas fecit confici reliquiarium argenteum, hodie in Pinacotheca Communali. Caput sancti donatum est, una cum aliis reliquiis (digitus minimus et nonnullae parvae partes crucis), a Thoma Palaeologo, despota Moreae a Turcis deiecto, papae Pio II anno 1461, in commutatione pro promissione cruciatae quae recuperaret Constantinopolim. Papa accepit donum promittens restituere reliquias cum Graecia liberata esset et misit mandibulam custoditam in antiquo reliquiario Pientiam. Decreto papae Pauli VI anno 1964 reliquiae conservatae Romae missae sunt iterum Patras intra antiquum reliquiarium Byzantinum, usque ad illud tempus custoditum in cathedrali Pientina; in commutatione Papa donavit cathedrali Pientina bustum-reliquiarium capitis commissum a Pio II Simoni Ioannis Ghini pro basilica Sancti Petri in Vaticano. Reliquiae redditae hodie conservantur in ecclesia Sancti Andreae Patras in speciali urna et ostenduntur fidelibus occasione festi die 30 Novembris.",
         "patronage": "",
-        "main_shrine": "Ecclesia Sancti Andreae, Patras"
+        "main_shrine": "Ecclesia Sancti Andreae (Patrae, Graecia)"
     },
     "StFrancisXavier_173": {
         "subject": "Sanctus Franciscus Xaverius, sacerdos",
@@ -1667,11 +1667,11 @@
         "place_of_burial": "non pertinet",
         "notes": "Nicolaus (saec. IV) fuit episcopus Myrae (hodierna Demre, Turcia). Ex Oriente cultus eius etiam in Italiam diffusus est, post furtum reliquiarum eius (1087) et earum collocationem Barum, in basilica sibi dicata, ubi adhuc servantur. In eius nomine traditiones populares et caritatis incepta cum Nativitate coniuncta floruerunt. Memoria mortis et sepulturae eius indicatur die 6 Decembris in ritibus Byzantino et Copto.",
         "patronage": "",
-        "main_shrine": "Basilica Sancti Nicolai, Barium (Italia); Ecclesia Sancti Nicolai ad Litus, Venetiae"
+        "main_shrine": "Basilica Sancti Nicolai (Bari, Italia); Ecclesia Sancti Nicolai Lido (Venetia, Italia)"
     },
     "StAmbrose_176": {
         "subject": "Sanctus Ambrosius, episcopus et doctor",
-        "places": "Treveri (Germania), Mediolanum (Italia)",
+        "places": "Treveri (Germania); Mediolanum (Italia)",
         "place_of_death": "Mediolanum (Italia)",
         "place_of_birth": "Treveri (Germania)",
         "place_of_burial": "Basilica Sancti Ambrosii, Mediolanum (Italia)",
@@ -1701,13 +1701,13 @@
     },
     "StLucySyracuse_179": {
         "subject": "Sancta Lucia, virgo et martyr",
-        "places": "Syracusae; Venetiae",
-        "place_of_death": "Syracusae, Sicilia (Italia)",
-        "place_of_birth": "Syracusae, Sicilia (Italia)",
+        "places": "Syracusae (Italia); Venetiae (Italia)",
+        "place_of_death": "Syracusae (Sicilia, Italia)",
+        "place_of_birth": "Syracusae (Sicilia, Italia)",
         "place_of_burial": "Ecclesia Sanctorum Hieremiae et Luciae - Sanctuarium Luciae",
         "notes": "Lucia, martyrizzata probabiliter durante persecutione Diocletiani (303-305), sepulta est Syracusis. Inde cultus eius, iam saeculo V testatus, Romam transiit et ubique diffusus est. Nomen, lucem evocans, et dies memoriae, prope solstitium hiemale, famam eius protectricis visus foverunt. Recolitur die 13 Decembris in Martyrologio Hieronymiano (saec. V-VI) et in Canone Romano commemoratur.",
         "patronage": "",
-        "main_shrine": "Sanctuarium Sanctae Luciae ad Sepulcrum, Syracusae, Sicilia"
+        "main_shrine": "Sanctuarium Sanctae Luciae ad Sepulcrum (Syracusae, Italia)"
     },
     "StJohnCross_180": {
         "subject": "Sanctus Ioannes a Cruce, sacerdos et doctor",
@@ -2024,10 +2024,10 @@
         "places": "Desenzano ad Benacum, Brixia (Italia) http://www.angelamerici.org/luoghi/ http://www.angelamerici.it/news_schede.php?testata=Casa%20di%20sancta%20Angela&get_id=6",
         "place_of_death": "Brixia (Italia)",
         "place_of_birth": "Desenzanum ad Benacum (Italia)",
-        "place_of_burial": "Ecclesia Sanctae Angelae Merici (Sanctae Afrae); Brixia (Italia)",
+        "place_of_burial": "Ecclesia Sanctae Angelae Merici (olim ecclesia Sanctae Aphrae) (Brixia, Italia)",
         "notes": "Angela Merici (Desenzanum ad Benacum, 1470 - Brixia, 1540) condidit Brixiae anno 1535 Societatem sanctae Ursulae, institutum vitae consecratae in mundo, propriam Regulam ei tribuens. Memorabilia et Testamentum profundum spiritum evangelicum et intensam vitam spiritualem manifestant. Diffusio Societatis et ortus diversorum Institutorum sororum Ursulinarum venerationem sanctae in mundo divulgaverunt. Canonizata est a Pio VII anno 1807.",
         "patronage": "",
-        "main_shrine": "Ecclesia Sanctae Angelae Merici (Sanctae Afrae), Brixia (Italia)"
+        "main_shrine": "Ecclesia Sanctae Angelae Merici (olim ecclesia Sanctae Aphrae) (Brixia, Italia)"
     },
     "StThomasAquinas_218": {
         "subject": "Sanctus Thomas Aquinas, sacerdos et doctor",
@@ -2393,7 +2393,7 @@
         "subject": "Sanctus Bonaventura, episcopus et doctor",
         "places": "Lugdunum (Francia); Balneoregium (Italia)",
         "place_of_death": "Lugdunum (Francia)",
-        "place_of_birth": "Civitas Balneoregii, Viterbium",
+        "place_of_birth": "Civitas Balneoregii (Viterbium, Italia)",
         "place_of_burial": "http://www.doctorseraphicus.it/images/annate/1958_67-81_Petrangeli_Papini.pdf",
         "notes": "Bonaventura (Civitas Balneoregii, Viterbium, 1217 ca. - Lugdunum, Gallia, 15 iulii 1274), Ordinem Fratrum Minorum ingressus est, studiis Lutetiae perfunctus. Theologus, docendi munus exercuit, opera sapientiae inspirationis edens, inter quae Itinerarium mentis in Deum. Minister generalis, leges priores ordinavit novasque Constitutiones promulgavit (Narbo, 1260) et, opere suo hagiographico (Legenda maior et Legenda minor, haec ad usum liturgicum scripta), unitariam visionem figurae sancti Francisci proposuit. Episcopus Albanensis et cardinalis, Concilio Lugdunensi II interfuit, quo tempore, subito, e terrena Ecclesia ad caelestem coetum transivit.",
         "patronage": "",
@@ -2651,13 +2651,13 @@
     },
     "StsJeanBrebeuf_365": {
         "subject": "Sancti Ioannes Brebeuf et Isaac Jogues, sacerdotes et socii martyres",
-        "places": "Midland, Canada; Auriesville, Nova Eboracum, USA",
-        "place_of_death": "Midland, Canada",
+        "places": "Midland (Canada); Auriesville (Nova Eboracum, USA)",
+        "place_of_death": "Midland (Canada)",
         "place_of_birth": "Condé-sur-Vire (Francia)",
         "place_of_burial": "non pertinet",
         "notes": "Ioannes (Condé-sur-Vire, Gallia, 15 martii 1594 - Midland, Canada, 16 martii 1649), missionarius Iesuita inter Hurones, in hodierno Canada, in missionis impetu ab aliis tribubus hostibus occisus est. Paucis mensibus post eum in martyrio secutus est socius eius in missione Isaac Jogues (Aurelianum, Gallia, 10 ianuarii 1607 - Auriesville, USA, 18 octobris 1649); cum eis commemorantur alii sex martyres Iesuitae. Evangelica mansuetudine vitam illarum populorum communicaverunt, usque ad plenam sui donationem.",
         "patronage": "",
-        "main_shrine": "Sanctuarium Martyrum, Midland, Ontario, Canada; Sanctuarium Nostrae Dominae Martyrum, Auriesville"
+        "main_shrine": "Sanctuarium Martyrum Midland (Ontario, Canada); Sanctuarium Nostrae Dominae Martyrum Auriesville (New York, USA)"
     },
     "StPaulCross_366": {
         "subject": "Sanctus Paulus a Cruce, sacerdos",

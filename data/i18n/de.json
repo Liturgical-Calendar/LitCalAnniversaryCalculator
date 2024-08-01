@@ -26,7 +26,7 @@
         "place_of_birth": "Poitiers (Frankreich)",
         "place_of_burial": "Kirche des Heiligen Hilarius der Große (Poitiers, Frankreich) (UNESCO-Weltkulturerbe)",
         "notes": "Hilarius (Poitiers, Frankreich, 310/320 - 367/368), Bischof seiner Heimatstadt, verteidigte mit hochrangigen Schriften (darunter vor allem der Traktat De Trinitate) den Glauben an die volle Göttlichkeit des Sohnes, wie es das Konzil von Nicäa (325) gegen die Arianische Häresie bekräftigte. Wegen seines entschiedenen Widerstands gegen die pro-arianischen Tendenzen des kaiserlichen Hofes wurde er verfolgt und ins Exil geschickt. Er wird im Martyrologium Hieronymianum (5.-6. Jh.) am 13. Januar erwähnt. Die Kirche Saint-Hilaire le Grand ist eine katholische Kirche in Poitiers, im Département Vienne, die dem heiligen Hilarius von Poitiers gewidmet ist. 1840 wurde sie zum historischen Denkmal Frankreichs erklärt und seit 1998 ist sie auch als UNESCO-Welterbe eingestuft, da sie eine Etappe des Jakobswegs entlang der Via Turonensis ist.",
-        "patronage": "Kinder mit schulischen Rückständen, Kinder, die das Laufen lernen, Mütter und Kranke, angerufen gegen Rheuma und Schlangenbisse",
+        "patronage": "Kinder, die im Studium zurückbleiben, Kinder, die das Laufen lernen, Mütter und Kranke, angerufen gegen Rheuma und Schlangenbisse",
         "main_shrine": "Kirche des Heiligen Hilarius der Große (Poitiers, Frankreich)"
     },
     "StAnthonyEgypt_4": {
@@ -114,10 +114,10 @@
         "places": "Desenzano sul Garda, Brescia (Italien) http://www.angelamerici.org/luoghi/ http://www.angelamerici.it/news_schede.php?testata=Casa%20di%20santa%20Angela&get_id=6",
         "place_of_death": "Brescia (Italien)",
         "place_of_birth": "Desenzano sul Garda (Italien)",
-        "place_of_burial": "Kirche der heiligen Angela Merici (Sant'Afra), Brescia (Italien)",
+        "place_of_burial": "Civita di Bagnoregio (Viterbo, Italien)",
         "notes": "Angela Merici (Desenzano del Garda, 1470 - Brescia, 1540) gründete 1535 in Brescia die Compagnia di Sant’Orsola, eine Institution des geweihten Lebens in der Welt, und gab ihr eine eigene Regel. Die Ricordi und das Testament zeugen von tiefem evangelischem Geist und intensivem spirituellem Leben. Die Verbreitung der Compagnia und die Entstehung der verschiedenen Ursulinenorden haben die Verehrung der Heiligen in der Welt verbreitet. Sie wurde 1807 von Pius VII. heiliggesprochen.",
         "patronage": "",
-        "main_shrine": "Kirche der heiligen Angela Merici (Sant'Afra), Brescia (Italien)"
+        "main_shrine": "Kirche der Heiligen Angela Merici (ehemals Kirche der Heiligen Afra) (Brescia, Italien)"
     },
     "StThomasAquinas_13": {
         "subject": "Heiliger Thomas von Aquin, Priester und Kirchenlehrer",
@@ -823,7 +823,7 @@
         "subject": "Heiliger Bonaventura, Bischof und Kirchenlehrer",
         "places": "Lyon (Frankreich); Bagnoregio (Italien)",
         "place_of_death": "Lyon (Frankreich)",
-        "place_of_birth": "Civita di Bagnoregio (Viterbo)",
+        "place_of_birth": "Civita di Bagnoregio (Viterbo, Italien)",
         "place_of_burial": "http://www.doctorseraphicus.it/images/annate/1958_67-81_Petrangeli_Papini.pdf",
         "notes": "Bonaventura (Civita di Bagnoregio, Viterbo, ca. 1217 - Lyon, Frankreich, 15. Juli 1274) trat in den Orden der Minderbrüder ein und studierte in Paris. Als Theologe widmete er sich dem Lehramt und verfasste Werke von weisheitlicher Inspiration, darunter das \"Itinerarium mentis in Deum\". Als Generalminister ordnete er die vorherige Gesetzgebung und erließ neue Konstitutionen (Narbonne, 1260). Mit seinen hagiographischen Werken (Legenda maior und Legenda minor, letztere für den liturgischen Gebrauch geschrieben) bot er eine einheitliche Sicht auf die Figur des heiligen Franziskus. Als Bischof von Albano und Kardinal nahm er am Zweiten Konzil von Lyon teil, während dessen er plötzlich von der irdischen Kirche zur himmlischen Versammlung überging.",
         "patronage": "",
@@ -1437,7 +1437,7 @@
         "place_of_burial": "Kirche St. Josef der Jesuitenmission von Sainte-Marie unter den Huronen (Midland, Ontario)",
         "notes": "Johann (Condé-sur-Vire, Frankreich, 15. März 1594 - Midland, Kanada, 16. März 1649), Jesuitenmissionar unter den Huronen im heutigen Kanada, wurde bei einem Angriff feindlicher Stämme auf die Mission getötet. Wenige Monate später folgte ihm sein Missionsgefährte Isaak Jogues (Orléans, Frankreich, 10. Januar 1607 - Auriesville, USA, 18. Oktober 1649) ins Martyrium; mit ihnen werden sechs weitere Jesuitenmärtyrer erinnert. Sie teilten mit evangelischer Sanftmut das Leben dieser Völker bis zur völligen Hingabe.",
         "patronage": "",
-        "main_shrine": "Schrein der Märtyrer, Midland, Ontario, Kanada; Schrein Unserer Lieben Frau der Märtyrer, Auriesville"
+        "main_shrine": "Schrein der Märtyrer von Midland (Ontario, Kanada); Schrein Unserer Lieben Frau der Märtyrer von Auriesville (New York, USA)"
     },
     "StPaulCross_151": {
         "subject": "Heiliger Paul vom Kreuz, Priester",
@@ -1611,8 +1611,8 @@
     },
     "StClementIPope_170": {
         "subject": "Heiliger Clemens I., Papst und Märtyrer",
-        "places": "Rom (Italien); Sewastopol - Cherson, Krim",
-        "place_of_death": "Cherson, Krim",
+        "places": "Rom (Italien); Sewastopol - Cherson (Krim)",
+        "place_of_death": "Cherson (Krim)",
         "place_of_birth": "Rom",
         "place_of_burial": "Meer der Krim; Hügel, der von Heiligen Kyrill gefunden und nach Rom gebracht wurde",
         "notes": "Klemens Papst (92-99) ist vor allem für den Brief an die Kirche von Korinth bekannt, der ihm zugeschrieben wird. Angesichts der inneren Spaltungen in dieser Gemeinschaft ermahnt das aus Rom gesandte Schreiben zur Eintracht, in Kontinuität mit dem Dienst der Gemeinschaft, der dem Apostel Petrus anvertraut wurde, dessen Martyrium zusammen mit dem von Paulus und vielen Christen, die während der Verfolgung durch Nero getötet wurden, in Erinnerung gerufen wird. Der Brief ermöglicht es auch, einige Aspekte des Denkens und des Lebens der Gemeinde von Rom kennenzulernen. Klemens wird im Hieronymianischen Martyrologium (5.-6. Jahrhundert), im Römischen Kanon und in allen römischen liturgischen Büchern erwähnt.",
@@ -1622,22 +1622,22 @@
     "StColumban_171": {
         "subject": "Heiliger Kolumban, Abt",
         "places": "Bobbio (Italien)",
-        "place_of_death": "Bobbio, Piacenza (Italien)",
-        "place_of_birth": "Mount Leinster, Irland",
-        "place_of_burial": "Abtei des Heiligen Kolumban, Bobbio (Italien)",
+        "place_of_death": "Bobbio (Piacenza, Italien)",
+        "place_of_birth": "Mount Leinster (Irland)",
+        "place_of_burial": "Abtei von Sankt Columban (Bobbio, Italien)",
         "notes": "Kolumban (Irland, ca. 543 - Bobbio, Piacenza, 23. November 615), Mönch in Bangor (Nordirland), verließ mit etwa fünfzig Jahren zusammen mit einigen Gefährten seine Heimat, um durch Europa zu pilgern. Dies war ursprünglich eine Bußpraxis, die tatsächlich zu einem der Kanäle der Evangelisierung des Kontinents wurde. Er durchquerte Gebiete, die heute zu Frankreich, der Schweiz und Norditalien gehören, und gründete verschiedene Klöster, darunter Luxeuil (Frankreich) und Bobbio, die für die liturgischen Bücher, die sie hervorgebracht haben, berühmt sind. Die von Kolumban verfasste Klosterregel ist von großer asketischer Strenge geprägt. Die irische monastische Bußpraxis – mit der individuellen Beichte und der Verwendung von „Tarifbüchern“ für verschiedene Sünden – hatte erheblichen Einfluss auf die Disziplin der sakramentalen Versöhnung im Westen. Kolumban wird im Hieronymianischen Martyrologium erwähnt.",
         "patronage": "",
-        "main_shrine": "Abtei des Heiligen Kolumban, Bobbio (Italien)"
+        "main_shrine": "Abtei von Sankt Columban (Bobbio, Italien)"
     },
     "StAndrewAp_172": {
         "subject": "Heiliger Andreas Apostel",
         "places": "N/V",
-        "place_of_death": "Patras, Griechenland",
-        "place_of_birth": "Bethsaida, Galiläa",
+        "place_of_death": "Patras (Griechenland)",
+        "place_of_birth": "Bethsaida (Galiläa, Israel)",
         "place_of_burial": "Kirche des Heiligen Andreas, Patras; Dom von Amalfi (Italien); Petersdom im Vatikan",
         "notes": "Andreas, bereits ein Jünger von Johannes dem Täufer, folgte Jesus, als der Vorläufer ihn als das Lamm Gottes bezeichnete, das die Sünde der Welt wegnimmt (Joh 1, 35-40). Er war der Bruder von Petrus und teilte ihm die Entdeckung des Messias mit (Joh 1, 41-42). Beide wurden vom Meister am Seeufer berufen, Menschenfischer zu werden (Mt 4, 18-19). Beim Wunder der Brotvermehrung weist er Jesus auf den Jungen mit den fünf Broten und zwei Fischen hin (Joh 6, 8-9). Zusammen mit Philippus berichtet er, dass einige Griechen Jesus sehen wollen (Joh 12, 20-21). Der Überlieferung nach wurde er in Patras gekreuzigt und wird in der Kirche besonders als Protokletós, der „Erstberufene“ von Jesus, verehrt. Sein Gedenktag am 30. November wird in allen Kalendern, sowohl im Osten als auch im Westen, gefeiert. Der heilige Hieronymus schrieb, dass die Reliquien von Andreas im Jahr 357 auf Befehl des römischen Kaisers Constantius II. von Patras nach Konstantinopel gebracht wurden. Dort blieben sie bis 1208, als sie von Kardinal Pietro Capuano, einem Einheimischen von Amalfi, nach Amalfi in Italien gebracht wurden. Im 15. Jahrhundert wurde der Kopf des heiligen Andreas nach Rom gebracht, wo er in einem der vier Hauptpfeiler des Petersdoms aufbewahrt wurde. Im September 1964 übergab Papst Paul VI. als Geste der Öffnung gegenüber der griechisch-orthodoxen Kirche einen Finger und einen Teil des Kopfes an die Kirche von Patras. Im 6. Jahrhundert wurden zwei Reliquien (eine Hand und ein Arm) des heiligen Andreas von Papst Gregor I., seinem großen Freund, an Venantius, den Bischof von Luni, geschenkt. Es ist Tradition, dass zu dieser Zeit und anlässlich des Geschenks die Kirche des heiligen Andreas in Sarzana erbaut wurde, die zur Heimat der Reliquie wurde. Seitdem wurde der Apostel zum Schutzpatron der Stadt. Diese Reliquien werden heute in der Kathedrale von Sarzana aufbewahrt; sie wurden von einem gewissen Andreas, dem Haushofmeister des Kaisers Maurikios, von Konstantinopel nach Rom gebracht. In Città di Castello wird in der Kirche San Francesco eine Reliquie eines Armknochens aufbewahrt, die einer lokalen Tradition zufolge von Papst Coelestin II., einem Einheimischen der Stadt und ehemaligen Kanoniker der Kathedrale, an ein örtliches Kloster, in dem seine Schwester lebte, geschenkt wurde; im 15. Jahrhundert ließ die Gemeinde ein silbernes Reliquiar anfertigen, das heute in der städtischen Pinakothek aufbewahrt wird. Der Kopf des Heiligen wurde zusammen mit anderen Reliquien (einem kleinen Finger und einigen kleinen Teilen des Kreuzes) von Thomas Palaiologos, dem von den Türken entthronten Despoten von Morea, 1461 an Papst Pius II. geschenkt, im Austausch für das Versprechen eines Kreuzzugs zur Rückeroberung von Konstantinopel. Der Papst nahm das Geschenk an und versprach, die Reliquien zurückzugeben, wenn Griechenland befreit würde, und schickte den Kieferknochen, der im alten Reliquiar aufbewahrt wurde, nach Pienza. Auf Anordnung von Papst Paul VI. wurden die in Rom aufbewahrten Reliquien 1964 wieder nach Patras geschickt, in dem alten byzantinischen Reliquiar, das bis dahin in der Kathedrale von Pienza aufbewahrt wurde; im Gegenzug schenkte der Papst der Kathedrale von Pienza die von Pius II. bei Simone di Giovanni Ghini für den Petersdom in Auftrag gegebene Büste des Reliquiars des Kopfes. Die zurückgegebenen Reliquien werden bis heute in der Kirche des heiligen Andreas in Patras in einer speziellen Urne aufbewahrt und den Gläubigen anlässlich des Festes am 30. November gezeigt.",
         "patronage": "",
-        "main_shrine": "Kirche des Heiligen Andreas, Patras"
+        "main_shrine": "Kirche des Heiligen Andreas (Patras, Griechenland)"
     },
     "StFrancisXavier_173": {
         "subject": "Heiliger Franz Xaver, Priester",
@@ -1667,11 +1667,11 @@
         "place_of_burial": "N/V",
         "notes": "Nikolaus (4. Jh.) war Bischof von Myra (heutiges Demre, Türkei). Sein Kult verbreitete sich von Osten auch nach Italien, nachdem seine Reliquien (1087) gestohlen und in Bari in der ihm gewidmeten Basilika aufbewahrt wurden, wo sie noch heute ruhen. In seinem Namen blühten volkstümliche Traditionen und karitative Initiativen im Zusammenhang mit Weihnachten auf. Sein Tod und seine Beisetzung werden in den byzantinischen und koptischen Riten am 6. Dezember gefeiert.",
         "patronage": "",
-        "main_shrine": "Basilika San Nicola, Bari (Italien); Kirche San Nicolò al Lido, Venedig"
+        "main_shrine": "Basilika des Heiligen Nikolaus (Bari, Italien); Kirche des Heiligen Nikolaus am Lido (Venedig, Italien)"
     },
     "StAmbrose_176": {
         "subject": "Sankt Ambrosius, Bischof und Kirchenlehrer",
-        "places": "Trier (Deutschland), Mailand (Italien)",
+        "places": "Trier (Deutschland); Mailand (Italien)",
         "place_of_death": "Mailand (Italien)",
         "place_of_birth": "Trier (Deutschland)",
         "place_of_burial": "Basilika Sant'Ambrogio, Mailand (Italien)",
@@ -1701,13 +1701,13 @@
     },
     "StLucySyracuse_179": {
         "subject": "Heilige Lucia, Jungfrau und Märtyrerin",
-        "places": "Syrakus; Venedig",
-        "place_of_death": "Syrakus, Sizilien (Italien)",
-        "place_of_birth": "Syrakus, Sizilien (Italien)",
+        "places": "Syrakus (Italien); Venedig (Italien)",
+        "place_of_death": "Syrakus (Sizilien, Italien)",
+        "place_of_birth": "Syrakus (Sizilien, Italien)",
         "place_of_burial": "Kirche der Heiligen Jeremia und Lucia - Schrein der Lucia",
         "notes": "Lucia, die wahrscheinlich während der Verfolgung unter Diokletian (303-305) gemartert wurde, wurde in Syrakus beigesetzt. Von dort aus verbreitete sich ihr Kult, der bereits im 5. Jahrhundert bezeugt ist, nach Rom und überall hin. Der Name, der Licht evoziert, und das Datum ihres Gedenkens, nahe der Wintersonnenwende, förderten ihren Ruf als Beschützerin des Augenlichts. Sie wird am 13. Dezember im Hieronymianischen Martyrologium (5.-6. Jahrhundert) und im Römischen Kanon erwähnt.",
         "patronage": "",
-        "main_shrine": "Schrein der Heiligen Lucia am Grab, Syrakus, Sizilien"
+        "main_shrine": "Schrein der Heiligen Lucia am Grab (Syrakus, Italien)"
     },
     "StJohnCross_180": {
         "subject": "Heiliger Johannes vom Kreuz, Priester und Kirchenlehrer",
@@ -2024,10 +2024,10 @@
         "places": "Desenzano sul Garda, Brescia (Italien) http://www.angelamerici.org/luoghi/ http://www.angelamerici.it/news_schede.php?testata=Casa%20di%20santa%20Angela&get_id=6",
         "place_of_death": "Brescia (Italien)",
         "place_of_birth": "Desenzano sul Garda (Italien)",
-        "place_of_burial": "Kirche der Heiligen Angela Merici (Sant'Afra); Brescia (Italien)",
+        "place_of_burial": "Kirche der Heiligen Angela Merici (ehemals Kirche der Heiligen Afra) (Brescia, Italien)",
         "notes": "Angela Merici (Desenzano del Garda, 1470 - Brescia, 1540) gründete 1535 in Brescia die Gesellschaft der heiligen Ursula, eine Institution des geweihten Lebens in der Welt, und stattete sie mit einer eigenen Regel aus. Die Erinnerungen und das Testament zeugen von tiefem evangelischem Geist und intensivem spirituellem Leben. Die Verbreitung der Gesellschaft und die Entstehung der verschiedenen Ursulineninstitute haben die Verehrung der Heiligen in der Welt verbreitet. Sie wurde 1807 von Pius VII. heiliggesprochen.",
         "patronage": "",
-        "main_shrine": "Kirche der heiligen Angela Merici (Sant'Afra), Brescia (Italien)"
+        "main_shrine": "Kirche der Heiligen Angela Merici (ehemals Kirche der Heiligen Afra) (Brescia, Italien)"
     },
     "StThomasAquinas_218": {
         "subject": "Heiliger Thomas von Aquin, Priester und Kirchenlehrer",
@@ -2393,7 +2393,7 @@
         "subject": "Heiliger Bonaventura, Bischof und Kirchenlehrer",
         "places": "Lyon (Frankreich); Bagnoregio (Italien)",
         "place_of_death": "Lyon (Frankreich)",
-        "place_of_birth": "Civita di Bagnoregio, Viterbo",
+        "place_of_birth": "Civita di Bagnoregio (Viterbo, Italien)",
         "place_of_burial": "http://www.doctorseraphicus.it/images/annate/1958_67-81_Petrangeli_Papini.pdf",
         "notes": "Bonaventura (Civita di Bagnoregio, Viterbo, ca. 1217 - Lyon, Frankreich, 15. Juli 1274) trat in den Orden der Minderbrüder ein und studierte in Paris. Als Theologe widmete er sich dem Lehramt und verfasste Werke von weisheitlicher Inspiration, darunter das Itinerarium mentis in Deum. Als Generalminister ordnete er die vorherige Gesetzgebung und erließ neue Konstitutionen (Narbonne, 1260) und schlug in seinem hagiographischen Werk (Legenda maior und Legenda minor, letztere für die liturgische Feier geschrieben) eine einheitliche Sichtweise der Figur des heiligen Franziskus vor. Als Bischof von Albano und Kardinal nahm er am Zweiten Konzil von Lyon teil, während dessen er plötzlich von der irdischen Kirche zur himmlischen Versammlung überging.",
         "patronage": "",
@@ -2651,13 +2651,13 @@
     },
     "StsJeanBrebeuf_365": {
         "subject": "Heilige Johannes Brebeuf und Isaak Jogues, Priester und Gefährten Märtyrer",
-        "places": "Midland, Kanada; Auriesville, New York, USA",
-        "place_of_death": "Midland, Kanada",
+        "places": "Midland (Kanada); Auriesville (New York, USA)",
+        "place_of_death": "Midland (Kanada)",
         "place_of_birth": "Condé-sur-Vire (Frankreich)",
         "place_of_burial": "N/V",
         "notes": "Johann (Condé-sur-Vire, Frankreich, 15. März 1594 - Midland, Kanada, 16. März 1649), Jesuitenmissionar unter den Huronen im heutigen Kanada, wurde bei einem Angriff feindlicher Stämme auf die Mission getötet. Wenige Monate später folgte ihm sein Missionsgefährte Isaak Jogues (Orléans, Frankreich, 10. Januar 1607 - Auriesville, USA, 18. Oktober 1649) ins Martyrium; mit ihnen werden sechs weitere Jesuitenmärtyrer erinnert. Sie teilten mit evangelischer Sanftmut das Leben dieser Völker bis zur völligen Hingabe.",
         "patronage": "",
-        "main_shrine": "Schrein der Märtyrer, Midland, Ontario, Kanada; Schrein Unserer Lieben Frau der Märtyrer, Auriesville"
+        "main_shrine": "Schrein der Märtyrer von Midland (Ontario, Kanada); Schrein Unserer Lieben Frau der Märtyrer von Auriesville (New York, USA)"
     },
     "StPaulCross_366": {
         "subject": "Heiliger Paul vom Kreuz, Priester",

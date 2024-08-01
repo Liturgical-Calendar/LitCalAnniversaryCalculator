@@ -26,7 +26,7 @@
         "place_of_birth": "Poitiers (France)",
         "place_of_burial": "Church of Saint Hilary the Great (Poitiers, France) (UNESCO heritage)",
         "notes": "Hilary (Poitiers, France, 310/320 - 367/368), bishop of his hometown, defended faith in the full divinity of the Son, affirmed by the Council of Nicaea, with high-profile writings (including above all the treatise De Trinitate). (325) against the Arius heresy. For his firm opposition to the pro-Arian orientations of the imperial court he was persecuted and exiled. He is mentioned in the Geronian Martyrology (5th-6th century) on 13 January. The church of Saint-Hilaire le Grand is a Catholic church in Poitiers, in the Vienne department, dedicated to Saint Hilary of Poitiers. In 1840 it was declared a Historical Monument of France and since 1998 it has also been classified as a World Heritage Site by UNESCO, as a stop on the Camino de Santiago de Compostela along the Via Turonensis.",
-        "patronage": "children academically behind, children learning to walk, mothers, and the sick, invoked against rheumatism and snakebites",
+        "patronage": "children behind in their studies, children learning to walk, mothers and the sick, invoked against rheumatism and snake bites",
         "main_shrine": "Church of Saint Hilary the Great (Poitiers, France)"
     },
     "StAnthonyEgypt_4": {
@@ -114,10 +114,10 @@
         "places": "Desenzano sul Garda, Brescia (Italy) http://www.angelamerici.org/luoghi/ http://www.angelamerici.it/news_schede.php?testata=Casa%20di%20santa%20Angela&get_id=6",
         "place_of_death": "Brescia (Italy)",
         "place_of_birth": "Desenzano sul Garda (Italy)",
-        "place_of_burial": "Church of Saint Angela Merici (Saint Afra), Brescia (Italy)",
+        "place_of_burial": "Church of Saint Angela Merici (formerly Church of Saint Afra) (Brescia, Italy)",
         "notes": "Angela Merici (Desenzano del Garda, 1470 - Brescia, 1540) founded the Company of St. Ursula in Brescia in 1535, an institution of consecrated life in the world, endowing it with its own Rule. The Memories and the Testament reveal a deep evangelical spirit and intense spiritual life. The spread of the Company and the birth of the various Institutes of Ursuline Sisters have spread the veneration of the saint throughout the world. She was canonized by Pius VII in 1807.",
         "patronage": "",
-        "main_shrine": "Church of Saint Angela Merici (Saint Afra), Brescia (Italy)"
+        "main_shrine": "Church of Saint Angela Merici (formerly Church of Saint Afra) (Brescia, Italy)"
     },
     "StThomasAquinas_13": {
         "subject": "Saint Thomas Aquinas, priest and doctor",
@@ -823,7 +823,7 @@
         "subject": "Saint Bonaventure, bishop and doctor",
         "places": "Lyon (France); Bagnoregio (Italy)",
         "place_of_death": "Lyon (France)",
-        "place_of_birth": "Civita di Bagnoregio (Viterbo)",
+        "place_of_birth": "Civita di Bagnoregio (Viterbo, Italy)",
         "place_of_burial": "http://www.doctorseraphicus.it/images/annate/1958_67-81_Petrangeli_Papini.pdf",
         "notes": "Bonaventure (Civita di Bagnoregio, Viterbo, around 1217 - Lyon, France, July 15, 1274), joined the Order of Friars Minor and studied in Paris. A theologian, he dedicated himself to teaching, producing works of wisdom, including the Journey of the Mind to God. As general minister, he ordered the previous legislation by promulgating new Constitutions (Narbonne, 1260) and, with his hagiographic work (Legenda maior and Legenda minor, the latter written for the liturgical office), proposed a unified vision of the figure of Saint Francis. Bishop of Albano and cardinal, he participated in the Second Council of Lyon during which, suddenly, he passed from the earthly Church to the heavenly assembly.",
         "patronage": "",
@@ -1437,7 +1437,7 @@
         "place_of_burial": "Church of Saint Joseph of the Jesuit Mission of Sainte-Marie among the Hurons (Midland, Ontario)",
         "notes": "John (Condé-sur-Vire, France, March 15, 1594 - Midland, Canada, March 16, 1649), a Jesuit missionary among the Hurons in present-day Canada, was killed in an assault on the mission by other enemy tribes. A few months later, his mission companion Isaac Jogues (Orléans, France, January 10, 1607 - Auriesville, USA, October 18, 1649) followed him in martyrdom; they are remembered along with six other Jesuit martyrs. They shared the life of those populations with evangelical gentleness, until the total gift of themselves.",
         "patronage": "",
-        "main_shrine": "Shrine of the Martyrs, Midland, Ontario, Canada; Shrine of Our Lady of the Martyrs, Auriesville"
+        "main_shrine": "Shrine of the Martyrs of Midland (Ontario, Canada); Shrine of Our Lady of the Martyrs of Auriesville (New York, USA)"
     },
     "StPaulCross_151": {
         "subject": "Saint Paul of the Cross, priest",
@@ -1611,8 +1611,8 @@
     },
     "StClementIPope_170": {
         "subject": "Saint Clement I, pope and martyr",
-        "places": "Rome (Italy); Sevastopol - Cherson, Crimea",
-        "place_of_death": "Cherson, Crimea",
+        "places": "Rome (Italy); Sevastopol - Cherson (Crimea)",
+        "place_of_death": "Cherson (Crimea)",
         "place_of_birth": "Rome",
         "place_of_burial": "Sea of Crimea; mound discovered by Saint Cyril, who brought it back to Rome",
         "notes": "Pope Clement (92-99) is primarily known for the epistle to the Church of Corinth, attributed to him. Faced with internal divisions within that community, the letter sent from Rome urges harmony, in continuity with the ministry of communion entrusted to the apostle Peter, whose martyrdom is remembered, along with that of Paul and many Christians killed in Nero's persecution. The letter also allows us to know some aspects of the thought and life of the community of Rome. Clement is remembered in the Geronimian Martyrology (5th-6th century), in the Roman Canon and in all Roman liturgical books.",
@@ -1622,22 +1622,22 @@
     "StColumban_171": {
         "subject": "Saint Columbanus, abbot",
         "places": "Bobbio (Italy)",
-        "place_of_death": "Bobbio, Piacenza (Italy)",
-        "place_of_birth": "Mount Leinster, Ireland",
-        "place_of_burial": "Abbey of Saint Columbanus, Bobbio (Italy)",
+        "place_of_death": "Bobbio (Piacenza, Italy)",
+        "place_of_birth": "Mount Leinster (Ireland)",
+        "place_of_burial": "Abbey of Saint Columbanus (Bobbio, Italy)",
         "notes": "Colombanus (Ireland, about 543 - Bobbio, Piacenza, November 23, 615), a monk at Bangor (Northern Ireland), around the age of fifty, with some companions, left his homeland to pilgrimage in Europe. This was originally a penitential practice that effectively constituted one of the channels of the evangelization of the continent. He passed through territories now belonging to France, Switzerland and northern Italy, founding various monasteries, among which Luxeuil (France) and Bobbio, famous for the liturgical books to which they have given their name. The monastic rule written by Colombanus is marked by great ascetic rigor. The Irish monastic penitential practice - with individual confession and the use of \"tariffs\" for different sins - had a significant influence on the discipline of Sacramental Reconciliation in the West. Colombanus is remembered in the Hieronymian Martyrology.",
         "patronage": "",
-        "main_shrine": "Abbey of Saint Columbanus, Bobbio (Italy)"
+        "main_shrine": "Abbey of Saint Columbanus (Bobbio, Italy)"
     },
     "StAndrewAp_172": {
         "subject": "Saint Andrew the Apostle",
         "places": "N/A",
-        "place_of_death": "Patras, Greece",
-        "place_of_birth": "Bethsaida, Galilee",
+        "place_of_death": "Patras (Greece)",
+        "place_of_birth": "Bethsaida (Galilee, Israel)",
         "place_of_burial": "Church of Saint Andrew, Patras; Cathedral of Amalfi (Italy); Saint Peter's Basilica in the Vatican",
         "notes": "Andrew, already a disciple of John the Baptist, followed Jesus when the Precursor pointed him out as the Lamb of God who takes away the sin of the world (Jn 1, 35-40). Brother of Peter, he communicated to him the discovery of the Messiah (Jn 1, 41-42). Both were called by the Master on the shores of the lake to become fishers of men (Mt 4, 18-19). In the miracle of the multiplication of the loaves, he points out to Jesus the boy with the five loaves and two fish (Jn 6, 8-9). He himself, along with Philip, reports that some Greeks want to see Jesus (Jn 12, 20-21). Crucified in Patras, according to tradition, he is particularly venerated in the Church as protocletós, the \"first called\" by Jesus. His memory on November 30 is remembered by all calendars, both Eastern and Western. Saint Jerome wrote that Andrew's relics were brought from Patras to Constantinople by order of the Roman Emperor Constantius II in 357. Here they remained until 1208, when they were brought to Amalfi, Italy, by Cardinal Peter Capuano, a native of Amalfi. In the 15th century, the head of Saint Andrew was brought to Rome, where it was placed in a case in one of the four main pillars of Saint Peter's Basilica. In September 1964, as a gesture of openness towards the Greek Orthodox Church, Pope Paul VI delivered a finger and part of the head to the church in Patras. In the 6th century, two relics (a hand and an arm) of Saint Andrew were donated to Venanzio, bishop of Luni, by Pope Gregory I, his great friend. It is tradition that at that time, and on the occasion of the gift, the church of Saint Andrew was built in Sarzana, which became the home of the relic. From that day the apostle became the patron of the city. These relics are today preserved in the cathedral of Sarzana; they had been brought from Constantinople to Rome by a certain Andrew, majordomo of the palace of Emperor Maurice[26]. In Città di Castello, in the church of Saint Francis, a relic of the bone of an arm is preserved, which a local tradition wants donated by Pope Celestine II, a native of the city and already a canon of the cathedral, to a local monastery where his sister lived; in the 15th century the municipality had a silver reliquary made, today in the Municipal Art Gallery. The head of the saint was donated, along with other relics (a little finger and some small parts of the cross), by Thomas Palaeologus, despot of the Morea ousted by the Turks, to Pope Pius II in 1461, in exchange for the commitment to a crusade that was supposed to retake Constantinople. The Pope accepted the gift promising to return the relics when Greece had been liberated and sent the jaw kept in the ancient reliquary to Pienza. By decision of Pope Paul VI in 1964 the relics preserved in Rome were again sent to Patras inside the ancient Byzantine reliquary, until then kept in the Pienza cathedral; in exchange the Pope donated to the cathedral of Pienza the bust-reliquary of the head commissioned by Pius II from Simone di Giovanni Ghini for Saint Peter's Basilica in the Vatican. The returned relics are still today kept in the church of Saint Andrew in Patras in a special urn and are shown to the faithful on the occasion of the feast of November 30.",
         "patronage": "",
-        "main_shrine": "Church of Saint Andrew, Patras"
+        "main_shrine": "Church of Saint Andrew (Patras, Greece)"
     },
     "StFrancisXavier_173": {
         "subject": "Saint Francis Xavier, priest",
@@ -1667,11 +1667,11 @@
         "place_of_burial": "N/A",
         "notes": "Nicholas (4th century) was the bishop of Myra (now Demre, Turkey). His cult spread to Italy from the East, after his relics were stolen (1087) and placed in Bari, in the basilica named after him, where they are still kept. Popular traditions and charitable initiatives related to Christmas flourished in his name. The memory of his death and burial is marked on December 6 in the Byzantine and Coptic rites.",
         "patronage": "",
-        "main_shrine": "Basilica of Saint Nicholas, Bari (Italy); Church of Saint Nicholas at the Lido, Venice"
+        "main_shrine": "Basilica of Saint Nicholas (Bari, Italy); Church of Saint Nicholas al Lido (Venice, Italy)"
     },
     "StAmbrose_176": {
         "subject": "Saint Ambrose, bishop and doctor",
-        "places": "Trier (Germany), Milan (Italy)",
+        "places": "Trier (Germany); Milan (Italy)",
         "place_of_death": "Milan (Italy)",
         "place_of_birth": "Trier (Germany)",
         "place_of_burial": "Basilica of Saint Ambrose, Milan (Italy)",
@@ -1701,13 +1701,13 @@
     },
     "StLucySyracuse_179": {
         "subject": "Saint Lucy, virgin and martyr",
-        "places": "Syracuse; Venice",
-        "place_of_death": "Syracuse, Sicily (Italy)",
-        "place_of_birth": "Syracuse, Sicily (Italy)",
+        "places": "Syracuse (Italy); Venice (Italy)",
+        "place_of_death": "Syracuse (Sicily, Italy)",
+        "place_of_birth": "Syracuse (Sicily, Italy)",
         "place_of_burial": "Church of Saints Jeremiah and Lucy - Shrine of Lucy",
         "notes": "Lucy, probably martyred during the persecution of Diocletian (303-305), was buried in Syracuse. From there, her worship, already attested in the 5th century, passed to Rome and spread everywhere. The name, evoking light, and the date of the memory, close to the winter solstice, favored her fame as a protector of sight. She is remembered on December 13 in the Hieronymian Martyrology (5th-6th century) and is remembered in the Roman Canon.",
         "patronage": "",
-        "main_shrine": "Shrine of Saint Lucy at the Sepulchre, Syracuse, Sicily"
+        "main_shrine": "Shrine of Saint Lucy at the Tomb (Syracuse, Italy)"
     },
     "StJohnCross_180": {
         "subject": "John of the Cross, priest and doctor",
@@ -2024,10 +2024,10 @@
         "places": "Desenzano sul Garda, Brescia (Italy) http://www.angelamerici.org/luoghi/ http://www.angelamerici.it/news_schede.php?testata=Casa%20di%20santa%20Angela&get_id=6",
         "place_of_death": "Brescia (Italy)",
         "place_of_birth": "Desenzano sul Garda (Italy)",
-        "place_of_burial": "Church of Saint Angela Merici (Sant'Afra); Brescia (Italy)",
+        "place_of_burial": "Church of Saint Angela Merici (formerly Church of Saint Afra) (Brescia, Italy)",
         "notes": "Angela Merici (Desenzano del Garda, 1470 - Brescia, 1540) founded the Company of St. Ursula in Brescia in 1535, an institution of consecrated life in the world, endowing it with its own Rule. The Memories and the Testament reveal a deep evangelical spirit and intense spiritual life. The spread of the Company and the birth of the various Institutes of Ursuline Sisters have spread the veneration of the saint throughout the world. She was canonized by Pius VII in 1807.",
         "patronage": "",
-        "main_shrine": "Church of Saint Angela Merici (Saint Afra), Brescia (Italy)"
+        "main_shrine": "Church of Saint Angela Merici (formerly Church of Saint Afra) (Brescia, Italy)"
     },
     "StThomasAquinas_218": {
         "subject": "Saint Thomas Aquinas, priest and doctor",
@@ -2393,7 +2393,7 @@
         "subject": "Saint Bonaventure, bishop and doctor",
         "places": "Lyon (France); Bagnoregio (Italy)",
         "place_of_death": "Lyon (France)",
-        "place_of_birth": "Civita di Bagnoregio, Viterbo",
+        "place_of_birth": "Civita di Bagnoregio (Viterbo, Italy)",
         "place_of_burial": "http://www.doctorseraphicus.it/images/annate/1958_67-81_Petrangeli_Papini.pdf",
         "notes": "Bonaventure (Civita di Bagnoregio, Viterbo, around 1217 - Lyon, France, July 15, 1274), joined the Order of Friars Minor and studied in Paris. A theologian, he dedicated himself to teaching, producing works of wisdom, including the Journey of the Mind to God. As general minister, he ordered the previous legislation by promulgating new Constitutions (Narbonne, 1260) and, with his hagiographic work (Legenda maior and Legenda minor, the latter written for the liturgical office), proposed a unified vision of the figure of Saint Francis. Bishop of Albano and cardinal, he participated in the Second Council of Lyon during which, suddenly, he passed from the earthly Church to the heavenly assembly.",
         "patronage": "",
@@ -2651,13 +2651,13 @@
     },
     "StsJeanBrebeuf_365": {
         "subject": "Saints John Brebeuf and Isaac Jogues, priests and companion martyrs",
-        "places": "Midland, Canada; Auriesville, New York, USA",
-        "place_of_death": "Midland, Canada",
+        "places": "Midland (Canada); Auriesville (New York, USA)",
+        "place_of_death": "Midland (Canada)",
         "place_of_birth": "Condé-sur-Vire (France)",
         "place_of_burial": "N/A",
         "notes": "John (Condé-sur-Vire, France, March 15, 1594 - Midland, Canada, March 16, 1649), a Jesuit missionary among the Hurons in present-day Canada, was killed in an assault on the mission by other enemy tribes. A few months later, his mission companion Isaac Jogues (Orléans, France, January 10, 1607 - Auriesville, USA, October 18, 1649) followed him in martyrdom; they are remembered along with six other Jesuit martyrs. They shared the life of those populations with evangelical gentleness, until the total gift of themselves.",
         "patronage": "",
-        "main_shrine": "Shrine of the Martyrs, Midland, Ontario, Canada; Shrine of Our Lady of the Martyrs, Auriesville"
+        "main_shrine": "Shrine of the Martyrs of Midland (Ontario, Canada); Shrine of Our Lady of the Martyrs of Auriesville (New York, USA)"
     },
     "StPaulCross_366": {
         "subject": "Saint Paul of the Cross, priest",
