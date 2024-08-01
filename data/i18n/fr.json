@@ -1437,7 +1437,7 @@
         "place_of_burial": "Église Saint-Joseph de la mission jésuite de Sainte-Marie parmi les Hurons (Midland, Ontario)",
         "notes": "Jean (Condé-sur-Vire, France, 15 mars 1594 - Midland, Canada, 16 mars 1649), missionnaire jésuite parmi les Hurons, dans l'actuel Canada, fut tué lors d'une attaque contre la mission par d'autres tribus ennemies. Quelques mois plus tard, son compagnon de mission Isaac Jogues (Orléans, France, 10 janvier 1607 - Auriesville, USA, 18 octobre 1649) le suivit dans le martyre ; avec eux, on se souvient de six autres martyrs jésuites. Ils ont partagé avec douceur évangélique la vie de ces populations, jusqu'au don total de soi.",
         "patronage": "",
-        "main_shrine": "Sanctuaire des Martyrs de Midland (Ontario, Canada); Sanctuaire de Notre-Dame des Martyrs d'Auriesville (New York, USA)"
+        "main_shrine": "Sanctuaire des Martyrs de Midland (Ontario, Canada) ; Sanctuaire de Notre-Dame des Martyrs d'Auriesville (New York, USA)"
     },
     "StPaulCross_151": {
         "subject": "Saint Paul de la Croix, prêtre",
@@ -1671,7 +1671,7 @@
     },
     "StAmbrose_176": {
         "subject": "Saint Ambroise, évêque et docteur",
-        "places": "Trèves (Allemagne); Milan (Italie)",
+        "places": "Trèves (Allemagne) ; Milan (Italie)",
         "place_of_death": "Milan (Italie)",
         "place_of_birth": "Trèves (Allemagne)",
         "place_of_burial": "Basilique Saint-Ambroise, Milan (Italie)",
@@ -2651,7 +2651,7 @@
     },
     "StsJeanBrebeuf_365": {
         "subject": "Saints Jean de Brébeuf et Isaac Jogues, prêtres et compagnons martyrs",
-        "places": "Midland (Canada); Auriesville (New York, USA)",
+        "places": "Midland (Canada) ; Auriesville (New York, USA)",
         "place_of_death": "Midland (Canada)",
         "place_of_birth": "Condé-sur-Vire (France)",
         "place_of_burial": "N/D",
