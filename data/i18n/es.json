@@ -24,7 +24,7 @@
         "places": "Francia",
         "place_of_death": "Poitiers (Francia)",
         "place_of_birth": "Poitiers (Francia)",
-        "place_of_burial": "Iglesia de Saint-Hilaire le Grand, Poitiers (patrimonio UNESCO)",
+        "place_of_burial": "Iglesia de San Hilario el Grande (Poitiers, Francia) (patrimonio UNESCO)",
         "notes": "Hilario (Poitiers, Francia, 310/320 - 367/368), obispo de su ciudad natal, defendió con escritos de alto perfil (entre los cuales destaca el tratado De Trinitate) la fe en la plena divinidad del Hijo, afirmada por el Concilio de Nicea (325) contra la herejía de Arrio. Por su firme oposición a las orientaciones filoarianas de la corte imperial fue perseguido y exiliado. Es recordado en el Martirologio Jeronimiano (siglos V-VI) el 13 de enero. La iglesia de Saint-Hilaire le Grand es una iglesia católica de Poitiers, en el departamento de Vienne, dedicada a San Hilario de Poitiers. En 1840 fue declarada Monumento Histórico de Francia y desde 1998 también está clasificada como Patrimonio de la Humanidad por la UNESCO, como etapa del Camino de Santiago de Compostela a lo largo de la Vía Turonensis.",
         "patronage": "niños con retraso académico, niños que aprenden a caminar, madres y enfermos, invocado contra el reumatismo y las mordeduras de serpiente",
         "main_shrine": "Iglesia de San Hilario el Grande, Poitiers"
@@ -62,7 +62,7 @@
     "StAgnes_7": {
         "subject": "Santa Inés, virgen y mártir",
         "places": "Roma (Italia)",
-        "place_of_death": "Basílica de Santa Inés en Agonía, Roma",
+        "place_of_death": "Basílica de Santa Inés en Agonía (Roma, Italia)",
         "place_of_birth": "Roma (Italia)",
         "place_of_burial": "Catacumbas de Santa Inés fuera de los Muros",
         "notes": "Inés, romana, aún adolescente, puesta en la alternativa entre permanecer fiel a Cristo y salvar su propia vida, eligió sin vacilación al Esposo celestial, uniéndose a él con el martirio (mediados del siglo III). El relato de su pasión, muy popular, fue recogido desde el siglo IV por el papa Dámaso. San Ambrosio y San Agustín la señalaron como un luminoso modelo de virgen cristiana. Según la Depositio martyrum (336), su memoria se celebraba el 21 de enero en Roma en el cementerio homónimo en la vía Nomentana. Su nombre es recordado en el Canon Romano.",
@@ -91,8 +91,8 @@
     },
     "StPaulApostle_10": {
         "subject": "San Pablo, apóstol",
-        "places": "Iglesia de San Pablo alla Regola, Roma Iglesia de Santa María in Via Lata, Roma; GRECIA; TURQUÍA",
-        "place_of_death": "Santuario de las Tres Fuentes, Roma",
+        "places": "Iglesia de San Pablo alla Regola (Roma, Italia); Iglesia de Santa María in Via Lata (Roma, Italia); Grecia; Turquía; Siria",
+        "place_of_death": "Santuario de las Tres Fuentes (Roma, Italia)",
         "place_of_birth": "Tarso (Turquía) https://www.google.com/maps/place/36%C2%B055'00.0%22N+34%C2%B054'00.0%22E/@36.9546925,34.8770442,11.25z/data=!4m5!3m4!1s0x0:0x0!8m2!3d36.916667!4d34.9",
         "place_of_burial": "Basílica de San Pablo Extramuros, Roma",
         "notes": "Pablo de Tarso, conquistado por Cristo en el camino a Damasco (cf. Hch 9, 1-19; Flp 3, 12), consagra todo su ser al servicio de la inteligencia y al anuncio de la nueva existencia que él vive en Cristo Jesús su Señor (cf. Ef 3, 1-4; 1 Cor 9, 16; Rm 6, 4; Gal 2, 20). Ambos apóstoles, que «de diferentes maneras han reunido a la única familia de Cristo» (Prefacio), sellaron su testimonio a Cristo con el martirio en Roma, en los años sesenta del primer siglo. En la Depositio martyrum (336) se les recuerda juntos el 29 de junio.",
@@ -412,12 +412,12 @@
     "StFidelisSigmaringen_45": {
         "subject": "San Fidel de Sigmaringen, sacerdote y mártir",
         "places": "Austria; Suiza",
-        "place_of_death": "Seewis im Prättigau, Suiza",
+        "place_of_death": "Seewis im Prättigau (Suiza)",
         "place_of_birth": "Sigmaringen (Alemania)",
         "place_of_burial": "Su cabeza fue llevada a Feldkirch (actualmente en Austria), mientras que el resto del cuerpo fue enterrado en la Catedral de Coira (Suiza), donde aún reposan sus restos mortales.",
         "notes": "Fidel, de nombre secular Marco (Sigmaringen, Alemania, 1578 - Seewis im Prättigau, Suiza, 24 de abril de 1622), capuchino, doctor en ambos derechos, dirigió la primera misión promovida por la Congregación de Propaganda Fide, aún en fase de constitución, hacia los territorios en los que se había difundido la Reforma protestante. En el clima de fuerte tensión interna en los Grisones, agravado por las presiones políticas internacionales, la predicación de los religiosos católicos provocó reacciones violentas, ante las cuales Fidel dio testimonio de Cristo hasta la muerte.",
         "patronage": "",
-        "main_shrine": "Catedral de Coira, Suiza; Feldkirch, Austria"
+        "main_shrine": "Catedral de Coira (Suiza); Feldkirch (Austria)"
     },
     "StMarkEvangelist_46": {
         "subject": "San Marcos Evangelista",
@@ -427,7 +427,7 @@
         "place_of_burial": "Inicialmente sus restos fueron venerados en una iglesia de Alejandría construida en el lugar del mausoleo más antiguo de Alejandro Magno. En el siglo VII sus restos fueron llevados a Venecia. La catedral de San Marcos en El Cairo conserva algunas reliquias transportadas desde la Basílica de San Marcos en Venecia.",
         "notes": "Juan, llamado Marcos, es hijo de María de Jerusalén, en cuya casa se reúne la comunidad cristiana y donde Pedro encuentra refugio después de ser liberado de la cárcel (cf. Hch 12, 12). Primo de Bernabé, colabora con Pablo en el primer viaje misionero, hasta Panfilia, donde se separa de él (cf. Hch 12, 25; 15, 37-38). Discípulo predilecto de Pedro – que lo llama «mi hijo» (1 Pe 5, 13) –, aparece de nuevo al lado de Pablo en Roma (cf. Flm 24; Col 4, 10). A Marcos la tradición le ha atribuido el Evangelio que lleva su nombre y que refleja la predicación del apóstol Pedro. En él, se presenta a Jesús como el «Cristo, Hijo de Dios» (Mc 1, 1) y se proclama que el Crucificado ha resucitado (cf. Mc 16, 6). Su fiesta se celebra el 25 de abril también por los coptos y los bizantinos.",
         "patronage": "",
-        "main_shrine": "Basílica de San Marcos en Venecia, y Catedral de San Marcos en El Cairo"
+        "main_shrine": "Basílica de San Marcos (Venecia, Italia); Catedral de San Marcos (El Cairo, Egipto)"
     },
     "StPeterChanel_47": {
         "subject": "San Pedro Chanel, sacerdote y mártir",
@@ -564,10 +564,10 @@
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Florencia (Italia)",
-        "place_of_burial": "Chiesa Nuova, Roma",
+        "place_of_burial": "Iglesia de Santa María in Vallicella o \"Chiesa Nuova\" (Roma, Italia)",
         "notes": "Felipe (Florencia, 21 de julio de 1515 - Roma, 26 de mayo de 1595), llegado a Roma a una edad temprana, se dedicó a la asistencia de los enfermos incurables y de los peregrinos pobres. Ordenado presbítero, fue asiduo al confesionario y celebró la Eucaristía con intensa devoción, hasta el transporte místico. De los encuentros periódicos con un grupo de sus penitentes – que él entretenía, con estilo alegre, en diálogos espirituales y en actividades recreativas, culturales y caritativas – nacieron la experiencia del «Oratorio» y la Congregación de sacerdotes que lleva el mismo nombre, reconocida por Gregorio XIII el 15 de julio de 1575.",
         "patronage": "",
-        "main_shrine": "Chiesa Nuova (Roma, Italia)"
+        "main_shrine": "Iglesia de Santa María in Vallicella o \"Chiesa Nuova\" (Roma, Italia)"
     },
     "StAugustineCanterbury_62": {
         "subject": "San Agustín de Canterbury, obispo",
@@ -612,7 +612,7 @@
     "StBoniface_67": {
         "subject": "San Bonifacio, obispo y mártir",
         "places": "Fulda (Alemania)",
-        "place_of_death": "Dokkum, Países Bajos",
+        "place_of_death": "Dokkum (Países Bajos)",
         "place_of_birth": "Wessex (Reino Unido)",
         "place_of_burial": "Abadía de Fulda (Alemania)",
         "notes": "Winfrido, nombre que el papa Gregorio II cambió a Bonifacio (Wessex, Reino Unido, ca. 675 - Dokkum, Países Bajos, 754), fue monje en la abadía de Nursling (Reino Unido). Desde allí, según la tradición del monaquismo insular, comenzó a peregrinar por el continente europeo. Enviado por el papa como misionero entre las poblaciones germánicas, luego fue elegido arzobispo, operó en Hesse y Turingia, fundando varias diócesis y monasterios. En edad ya avanzada comenzó una misión entre los frisones, pero encontró la muerte a manos de bandidos. Fue sepultado en Fulda (Alemania).",
@@ -1085,7 +1085,7 @@
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "Fue en la edad medieval cuando se comenzó a invocar comúnmente a la Virgen María como Reina (Salve, Regina) y a representarla coronada por el Hijo, expresando así su plena participación en la realeza universal de Cristo. En esta memoria litúrgica, instituida por Pío XII en 1955 y colocada, después de la reforma seguida al Vaticano II, a la luz de la solemnidad de María asunta al cielo, la Virgen es propuesta como modelo y signo de esperanza para todos los cristianos quienes, ya revestidos de la dignidad real del Señor en el Bautismo, están llamados a reinar eternamente con él.",
+        "notes": "Fue en la edad medieval que se comenzó a invocar comúnmente a la Virgen María como Reina (Salve, Regina) y a representarla coronada por el Hijo, expresando así su plena participación en la realeza universal de Cristo. En esta memoria litúrgica, instituida por Pío XII el 11 de octubre de 1954 con la carta Encíclica Ad caeli Reginam al 31 de mayo a conclusión del mes mariano, y colocada, después de la reforma seguida al Vaticano II, en la luz de la solemnidad de María asunta al cielo el 22 de agosto, la Virgen es propuesta como modelo y signo de esperanza para todos los cristianos quienes, ya revestidos de la dignidad real del Señor en el Bautismo, son llamados a reinar eternamente con él.",
         "patronage": "",
         "main_shrine": "N/D"
     },
@@ -1141,9 +1141,9 @@
     },
     "StAugustineHippo_121": {
         "subject": "San Agustín de Hipona, obispo y doctor de la Iglesia",
-        "places": "Souk Ahras, Annaba (Argelia); Roma; sepultado en la Basílica de San Pietro in Ciel d'Oro (Pavía, Italia)",
-        "place_of_death": "Hipona, Annaba, Argelia",
-        "place_of_birth": "Tagaste (actualmente Souk Ahras, Argelia)",
+        "places": "Tagaste (actual Souk Ahras, Argelia); Hipona (actual Annaba, Argelia); Ostia antigua (Roma, Italia); Roma (Italia); Milán (Italia); Cassago Brianza (Italia); Pavía (Italia)",
+        "place_of_death": "Hipona (actual Annaba, Argelia)",
+        "place_of_birth": "Tagaste (actual Souk Ahras, Argelia)",
         "place_of_burial": "Basílica de San Pietro in Ciel d'Oro (Pavía, Italia)",
         "notes": "Agustín (Tagaste, actual Souk Ahras, Argelia, 13 de noviembre de 354 - Hipona, actual Annaba, 28 de agosto de 430), de padre pagano y madre cristiana, fue encaminado a los estudios literarios. Después de un período de desorientación juvenil, comenzó una apasionada búsqueda de la verdad, adhiriéndose a un cristianismo de estilo maniqueo. Profesor de retórica en Milán, conoció a San Ambrosio, cuya predicación escuchó y de quien recibió el Bautismo. De regreso en África y elegido obispo de Hipona, vivió con su clero en una comunidad de tipo monástico; la regla que compuso se convertirá en texto de referencia para muchísimos institutos de vida consagrada en Occidente. Al ejercicio del ministerio, en particular de la predicación, añadió un constante compromiso de profundización y defensa de la fe, produciendo un corpus de obras de tal amplitud y profundidad que constituye una de las herencias más fecundas de la tradición cristiana antigua. Sus restos mortales fueron depositados, muy probablemente, en la catedral llamada \"Basílica Pacis\" y celosamente custodiados por los cristianos de Hipona, como cuenta Possidio, su primer biógrafo, en la vida que amorosamente escribió y de la cual actualmente (desde 1955) tenemos una edición crítica, debida al profesor de literatura cristiana, hoy Cardenal Michele Pellegrino (Agostino Trapè, Bibliotheca Sanctorum, vol. 1, col. 433). Posteriormente, el cuerpo de San Agustín fue trasladado de Hipona a Cerdeña y de Cerdeña a Pavía, donde descansa hasta hoy. ¡Así que incluso los huesos del Santo obispo tuvieron su travesía! Estas dos traslaciones son certísimas y diversamente documentadas por varios autores. Más difícil es documentar las dos fechas relativas y las circunstancias particulares.",
         "patronage": "",
@@ -1175,7 +1175,7 @@
         "place_of_death": "Jerusalén",
         "place_of_birth": "Jerusalén o Séforis",
         "place_of_burial": "Monte de los Olivos",
-        "notes": "La fiesta de orígenes orientales (siglo VI), celebrando a María como aurora que anuncia la salvación (cf. Is 62, 1) y precede al «sol que nace de lo alto» (Lc 1, 78), señala el primer advenimiento de la plenitud del tiempo (cf. Gal 4, 4). Es a partir de este día que se fijó, retrocediendo nueve meses exactos, la fecha para la solemnidad de la Inmaculada Concepción de María.",
+        "notes": "La fiesta de orígenes orientales (siglo VI), celebrando a María como aurora que anuncia la salvación (cf. Is 62, 1) y precede al «sol que nace de lo alto» (Lc 1, 78), señala el primer advenimiento de la plenitud del tiempo (cf. Gal 4, 4). Es a partir de este día que se fijó, retrocediendo nueve meses exactos, la fecha para la solemnidad de la Inmaculada Concepción de María. La fiesta de la Natividad de María fue introducida por el papa Sergio I entre finales del siglo VI y principios del siglo VII, en la tradición oriental. El 20 de octubre de 1572 San Carlos Borromeo consagra la Catedral de Milán dedicada a María Naciente.",
         "patronage": "",
         "main_shrine": "Iglesia de Santa Ana, Jerusalén"
     },
@@ -1285,15 +1285,15 @@
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "Miguel («¿Quién es como Dios?»), el primero de los arcángeles, protege al pueblo de Dios (cf. Dn 10, 13.21; 12, 1) y guía a las huestes celestiales en la lucha contra el diablo (Jd 9; cf. Ap 12, 1-17). Gabriel («hombre de Dios» o «Dios es mi fuerza») es el mensajero de Dios a los hombres: explica al profeta Daniel los secretos del plan de Dios (cf. Dn 8, 16; 9, 21), anuncia a Zacarías el nacimiento de Juan Bautista (cf. Lc 1, 5-25) y a María el de Jesús (cf. Lc 1, 26-38). Rafael («Dios ha sanado») es uno de los «siete ángeles que están siempre listos para entrar en la presencia de la gloria del Señor» (Tb 12, 15; cf. Ap 8, 2), acompaña a Tobías en su viaje, le enseña cómo curar la ceguera de su padre Tobit y liberar a su esposa Sara del demonio Asmodeo (cf. Tb 3, 16-17; 6, 1). En la Eucaristía, la Iglesia ya participa en la liturgia celestial, donde «innumerables huestes de ángeles» (Plegaria Eucarística IV) aclaman a Dios y al Cordero (cf. Ap 5, 11-14). En el Martirologio Jeronimiano (siglos V-VI) se recuerda, el 29 de septiembre, la dedicación de la iglesia de San Miguel en Roma, en la vía Salaria (siglo V).",
+        "notes": "Miguel («¿Quién como Dios?»), el primero de los arcángeles, protege al pueblo de Dios (cf. Dn 10, 13.21; 12, 1) y guía a las huestes celestiales en la lucha contra el diablo (Jd 9; cf. Ap 12, 1-17). Gabriel («hombre de Dios» o «Dios es mi fuerza») es el mensajero de Dios a los hombres: explica al profeta Daniel los secretos del plan de Dios (cf. Dn 8, 16; 9, 21), anuncia a Zacarías el nacimiento de Juan Bautista (cf. Lc 1, 5-25) y a María el de Jesús (cf. Lc 1, 26-38). Rafael («Dios ha sanado») es uno de los «siete ángeles que están siempre listos para entrar en la presencia de la gloria del Señor» (Tb 12, 15; cf. Ap 8, 2), acompaña a Tobías en su viaje, le enseña cómo curar la ceguera de su padre Tobit y liberar a su esposa Sara del demonio Asmodeo (cf. Tb 3, 16-17; 6, 1). En la Eucaristía, la Iglesia ya participa en la liturgia celestial, donde «innumerables huestes de ángeles» (Plegaria Eucarística IV) aclaman a Dios y al Cordero (cf. Ap 5, 11-14). En el Martirologio jeronimiano (siglos V-VI) se recuerda, el 29 de septiembre, la dedicación de la iglesia de San Miguel en Roma, en la vía Salaria (siglo V). En 493, el Papa Gelasio instituyó la fiesta en conmemoración de dicha dedicación.",
         "patronage": "",
-        "main_shrine": "Castel Sant'Angelo, Roma; Gruta de San Miguel en Gargano (Italia); Mont Saint-Michel (Francia)"
+        "main_shrine": "Castel Sant'Angelo (Roma, Italia); Gruta de San Miguel en Gargano (Italia); Mont Saint-Michel (Francia)"
     },
     "StJerome_136": {
         "subject": "San Jerónimo, sacerdote y doctor",
-        "places": "Roma (Italia); Belén, Palestina",
-        "place_of_death": "Belén, Palestina",
-        "place_of_birth": "Stridón, antigua Dalmacia",
+        "places": "Roma (Italia); Belén (Palestina)",
+        "place_of_death": "Belén (Palestina)",
+        "place_of_birth": "Stridón (antigua Dalmacia)",
         "place_of_burial": "Basílica de Santa María la Mayor, urna bajo el altar mayor",
         "notes": "Jerónimo (Stridón, antigua Dalmacia, ca. 347 - Belén, Palestina, 30 de septiembre de 420), dotado de una vastísima cultura, después de un período de vida eremítica en Oriente, se convirtió en colaborador del papa Dámaso en Roma. Luego se estableció en Belén, dedicándose a la oración, la penitencia y la guía de cenáculos de vida ascética. Además de componer escritos de erudición y comentarios bíblicos, emprendió la grandiosa obra de revisión de la traducción de la Biblia al latín. Los textos que preparó, que confluyeron en la Vulgata, se convirtieron en parte esencial de la tradición litúrgica, teológica y jurídica de la Iglesia occidental. Se le recuerda el 30 de septiembre en el Martirologio Jeronimiano (siglos V-VI).",
         "patronage": "",
@@ -1595,7 +1595,7 @@
         "place_of_death": "Iglesia de la Dormición, Jerusalén",
         "place_of_birth": "Jerusalén / Nazaret",
         "place_of_burial": "Monte de los Olivos, Jerusalén",
-        "notes": "El episodio de la presentación de María, a la edad de tres años, en el Templo de Jerusalén, se narra en el Protoevangelio de Santiago, texto apócrifo del siglo II. El gesto, no prescrito por la Ley, indica la total pertenencia de la Virgen a Dios desde la infancia. Es una de las principales fiestas marianas de la Iglesia ortodoxa.",
+        "notes": "El episodio de la presentación de María, a la edad de tres años, en el Templo de Jerusalén, es narrado en el Protoevangelio de Santiago, texto apócrifo del siglo II. El gesto, no prescrito por la Ley, indica la total pertenencia de la Virgen a Dios desde la infancia. Es una de las principales fiestas marianas de la Iglesia ortodoxa. La fecha de la festividad, el 21 de noviembre, deriva del mismo día de consagración de la basílica de Santa María Nueva en la ciudad de Jerusalén en 543, basílica deseada por el emperador bizantino Justiniano I y completada en la época del patriarca de Jerusalén Pedro (hoy destruida).",
         "patronage": "",
         "main_shrine": "N/D"
     },
@@ -1721,23 +1721,23 @@
     },
     "StPeterCanisius_181": {
         "subject": "San Pedro Canisio, sacerdote y doctor",
-        "places": "Friburgo, Suiza",
-        "place_of_death": "Friburgo, Suiza",
-        "place_of_birth": "Nimega, Países Bajos",
-        "place_of_burial": "Colegio de San Miguel, Friburgo, Suiza",
+        "places": "Friburgo (Suiza)",
+        "place_of_death": "Friburgo (Suiza)",
+        "place_of_birth": "Nimega (Países Bajos)",
+        "place_of_burial": "Colegio de San Miguel (Friburgo, Suiza)",
         "notes": "Pedro Kanijs – latinizado en Canisius – (Nimega, Países Bajos, 8 de mayo de 1521 - Friburgo, Suiza, 21 de diciembre de 1597), jesuita, fue protagonista de la restauración del catolicismo en Alemania, después de la Reforma protestante, con iniciativas de formación y textos de catecismo, sobre todo para los jóvenes y los candidatos al ministerio. Reformador de universidades y promotor de seminarios, fue asiduo también en la predicación entre las poblaciones rurales.",
         "patronage": "",
-        "main_shrine": "Colegio de San Miguel, Friburgo, Suiza"
+        "main_shrine": "Colegio de San Miguel (Friburgo, Suiza)"
     },
     "StJohnKanty_182": {
         "subject": "San Juan de Kęty, sacerdote",
         "places": "Cracovia (Polonia)",
         "place_of_death": "Cracovia (Polonia)",
         "place_of_birth": "Kęty (Polonia)",
-        "place_of_burial": "Iglesia de Santa Ana, Cracovia",
+        "place_of_burial": "Iglesia de Santa Ana (Cracovia, Polonia)",
         "notes": "Juan (Kęty, Polonia, 1390 - Cracovia, 24 de diciembre de 1473), presbítero, filósofo y teólogo, fue profesor en la universidad de Cracovia, miembro de la Capilla musical de la colegiata de San Florián y canónigo de la catedral. Era conocido en toda la ciudad por la rectitud de vida, la inagotable bondad y la predilección hacia los pobres.",
         "patronage": "",
-        "main_shrine": "Iglesia de Santa Ana, Cracovia"
+        "main_shrine": "Iglesia de Santa Ana (Cracovia, Polonia)"
     },
     "StStephenProtomartyr_183": {
         "subject": "San Esteban, protomártir",
@@ -1795,7 +1795,7 @@
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "El culto por el nombre de Jesús surgió en la época tardomedieval, gracias a las Órdenes mendicantes, en particular con la predicación de san Bernardino de Siena (siglo XV) que difundió el monograma compuesto por las tres primeras letras griegas del nombre de Jesús (IHS), aunque este, con la transliteración latina, fue interpretado como acrónimo de la expresión Iesus Hominum Salvator. La celebración litúrgica, introducida en el siglo XVI, fue extendida a toda la Iglesia por Inocencio XIII (1721-1724). Esta devoción tiene raíces en la Sagrada Escritura. El nombre de Jesús, asignado por el Padre al Hijo hecho hombre (cf. Mt 1, 21), prefigura – según el estilo bíblico – su misión: significa, de hecho, «Dios salva». Es «en el nombre de Jesús» que los discípulos realizan prodigios (Hch 4, 10) y sufren persecución (Hch 5, 41). El mismo Jesús anima a los discípulos a orar en su nombre (Jn 14, 13-14). Ya la primera comunidad cristiana es consciente de que no hay «bajo el cielo, otro nombre dado a los hombres, en el cual está establecido que seamos salvados» (Hch 4, 12). En el himno de la carta a los Filipenses se proclama: «… Dios lo exaltó y le dio el nombre que está por encima de todo nombre, para que en el nombre de Jesús toda rodilla se doble en los cielos, en la tierra y debajo de la tierra» (Fil 2, 9-10).",
+        "notes": "El culto por el nombre de Jesús surgió en la época tardomedieval, gracias a las Órdenes mendicantes, en particular con la predicación de san Bernardino de Siena (siglo XV) que difundió el monograma compuesto por las tres primeras letras griegas del nombre de Jesús (IHS), aunque este, con la transliteración latina, fue interpretado como acrónimo de la expresión Iesus Hominum Salvator. La celebración litúrgica, introducida en el siglo XVI, fue extendida a toda la Iglesia por Inocencio XII con decreto del 11 de julio de 1722. Esta devoción tiene raíces en la Sagrada Escritura. El nombre de Jesús, asignado por el Padre al Hijo hecho hombre (cf. Mt 1, 21), prefigura – según el estilo bíblico – su misión: significa, de hecho, «Dios salva». Es «en el nombre de Jesús» que los discípulos realizan prodigios (Hch 4, 10) y sufren persecución (Hch 5, 41). Jesús mismo anima a los discípulos a orar en su nombre (Jn 14, 13-14). Ya la primera comunidad cristiana es consciente de que no hay «bajo el cielo, otro nombre dado a los hombres, en el cual está establecido que seamos salvados» (Hch 4, 12). En el himno de la carta a los Filipenses se proclama: «… Dios lo exaltó y le dio el nombre que está por encima de todo nombre, para que en el nombre de Jesús toda rodilla se doble en los cielos, en la tierra y debajo de la tierra» (Fil 2, 9-10).",
         "patronage": "",
         "main_shrine": "Iglesia del Gesù (Roma, Italia)"
     },
@@ -1841,13 +1841,13 @@
     },
     "StChristopherMagallanes_193": {
         "subject": "San Cristóbal Magallanes y compañeros mártires",
-        "places": "Jalisco, México",
-        "place_of_death": "Colotlán, México",
-        "place_of_birth": "Totatiche, México",
-        "place_of_burial": "Santuario de San Cristóbal Magallanes, Jalisco, México",
+        "places": "Jalisco (México)",
+        "place_of_death": "Colotlán (México)",
+        "place_of_birth": "Totatiche (México)",
+        "place_of_burial": "Santuario de San Cristóbal Magallanes (Jalisco, México)",
         "notes": "Cristóbal (Totatiche, México, 30 de julio de 1869 - Colotlán, 25 de mayo de 1927) fue párroco y misionero entre los indígenas. En la compleja situación local – entre la persecución del Estado contra la Iglesia católica y las consiguientes reacciones populares, a veces violentas – testificó con el sacrificio de su vida la primacía del reino de Dios. A su figura se une la memoria de otros veinticuatro mártires, sacerdotes y laicos, asesinados entre 1915 y 1937.",
         "patronage": "",
-        "main_shrine": "Santuario de San Cristóbal Magallanes, Jalisco, México"
+        "main_shrine": "Santuario de San Cristóbal Magallanes (Jalisco, México)"
     },
     "StRitaCascia_194": {
         "subject": "Santa Rita de Casia, religiosa",
@@ -1941,19 +1941,19 @@
     },
     "StAndrewKimTaegon_203": {
         "subject": "Santos Andrés Kim Taegon, sacerdote, Pablo Chong Hasang y compañeros mártires",
-        "places": "Seúl, Corea del Sur",
-        "place_of_death": "Saenamteo, Seúl, Corea del Sur",
-        "place_of_birth": "Solmoi (Seúl), Corea del Sur",
+        "places": "Seúl (Corea del Sur)",
+        "place_of_death": "Saenamteo (Seúl, Corea del Sur)",
+        "place_of_birth": "Solmoi (Seúl, Corea del Sur)",
         "place_of_burial": "Catedral de Myeongdong",
         "notes": "Andrés (1821 - Seúl, Corea del Sur, 16 de septiembre de 1846) fue el primer presbítero de la Iglesia coreana, durante más de medio siglo compuesta solo por laicos; entre ellos el catequista Pablo, víctima, diez años antes, de la persecución emprendida por los gobernantes por temor a infiltraciones extranjeras en las tradiciones culturales y religiosas locales. A la memoria de Andrés y Pablo se asocian otros ciento un mártires, incluidos dos obispos europeos, Lorenzo Imbert y Simeón Berneux. Fueron más de diez mil los cristianos que, en varias ocasiones, a lo largo del siglo XIX, fecundaron con su sangre esa joven Iglesia. Surgió hacia finales del siglo XVIII de un encuentro espontáneo con el cristianismo chino, y creció también gracias a la llegada de algunos misioneros de Occidente, en las primeras décadas del siglo XIX. La luminosa historia de la Iglesia coreana y sus mártires constituye un claro testimonio de la acción oculta pero eficaz del Espíritu Santo, incluso en las condiciones más difíciles para la comunidad cristiana.",
         "patronage": "",
-        "main_shrine": "Santuario de los Mártires de Saenamteo, Seúl, Corea del Sur"
+        "main_shrine": "Santuario de los mártires de Saenamteo (Seúl, Corea del Sur)"
     },
     "StsLawrenceRuiz_204": {
         "subject": "Santos Lorenzo Ruiz y compañeros mártires",
-        "places": "Manila, Filipinas; Nagasaki (Japón)",
+        "places": "Manila (Filipinas); Nagasaki (Japón)",
         "place_of_death": "Nagasaki (Japón)",
-        "place_of_birth": "Binondo (actual Manila), Filipinas",
+        "place_of_birth": "Binondo (actual Manila, Filipinas)",
         "place_of_burial": "Parque Nishizaka (Nagasaki, Japón)",
         "notes": "Lorenzo (Binondo, actual Manila, Filipinas, 1600 aprox. - Nagasaki, Japón, 29 de septiembre de 1637), laico y padre de familia, participó en la misión dominicana que desde Filipinas llegó a Japón, donde fue arrestado y condenado a una muerte cruel. La fe cristiana, introducida en Japón por san Francisco Javier, fue inicialmente acogida y favorecida por algunos señores locales. Después de la unificación política del país, en los primeros años del siglo XVII, los cristianos comenzaron a ser sospechados de favorecer los intereses de las potencias extranjeras, especialmente de España, que había tomado posesión de Filipinas. Junto a Lorenzo se recuerdan otros quince mártires – nueve sacerdotes y seis laicos, de diversas procedencias, todos agregados de diferentes maneras a la Orden dominicana – que fueron asesinados entre 1633 y 1637, en la misma colina que ya había visto, en 1597, la pasión de los protomártires japoneses Pablo Miki y compañeros.",
         "patronage": "",
@@ -1961,9 +1961,9 @@
     },
     "StAndrewDungLac_205": {
         "subject": "San Andrés Dung-Lac y compañeros mártires",
-        "places": "Hanói, Vietnam; Hà Nam, Vietnam",
-        "place_of_death": "Hanói, Vietnam",
-        "place_of_birth": "Bac Ninh, Vietnam",
+        "places": "Hanoi (Vietnam); Hà Nam (Vietnam)",
+        "place_of_death": "Hanoi (Vietnam)",
+        "place_of_birth": "Bac Ninh (Vietnam)",
         "place_of_burial": "Nhà Thờ Giáo Xứ Lan Mát (Basílica de la Inmaculada Concepción, Hà Nam, Vietnam)",
         "notes": "Andrea Dung († Hanoi, Vietnam, 21 de diciembre de 1839), hijo de padres paganos en extrema pobreza, fue vendido de niño a un catequista católico; bautizado e instruido en la fe, se convirtió a su vez en catequista, luego sacerdote. Arrestado una primera vez como cristiano, luego liberado, intentó ocultarse bajo el nuevo apellido Lac. Nuevamente descubierto y arrestado, testificó su fe hasta la muerte. Con él se conmemoran otros 116 mártires, entre obispos, sacerdotes y laicos, la mayoría de los cuales eran vietnamitas, víctimas de varias persecuciones entre 1745 y 1862. La Iglesia de Vietnam, surgida a raíz del primer anuncio llevado por los Jesuitas a principios del siglo XVII, tuvo un gran desarrollo pero encontró fuertes resistencias por parte de las culturas y religiones locales, convirtiéndose en objeto de repetidas oleadas de persecución, con una cantidad innumerable de mártires (estimados en 130.000).",
         "patronage": "",
@@ -1981,7 +1981,7 @@
     },
     "StGregoryNazianzen_207": {
         "subject": "San Gregorio Nacianceno",
-        "places": "Capadocia, Constantinopla (Turquía), Roma (Italia)",
+        "places": "Capadocia (Turquía); Constantinopla (actual Estambul, Turquía); Roma (Italia)",
         "place_of_death": "Constantinopla (actual Estambul, Turquía)",
         "place_of_birth": "Nacianzo, en la actual Turquía",
         "place_of_burial": "Basílica de San Pedro; anteriormente Iglesia de Santa María de la Concepción en Campo Marzio, Roma, donde quedó un brazo",
@@ -2125,7 +2125,7 @@
         "place_of_death": "Hrodna (Bielorrusia)",
         "place_of_birth": "Cracovia",
         "place_of_burial": "Vilna (Lituania)",
-        "notes": "Casimiro (Cracovia, Polonia, 3 de octubre de 1458 - Grodno, actual Hrodna, Bielorrusia, 4 de marzo de 1484), hijo del rey de Polonia y de Lituania, formado en la cultura humanística, prefirió una vida sobria y casta, dedicada a la oración y la penitencia.",
+        "notes": "Casimiro (Cracovia, Polonia, 3 de octubre de 1458 - Grodno, actual Hrodna, Bielorrusia, 4 de marzo de 1484), hijo del rey de Polonia y de Lituania, formado en la cultura humanística, prefirió una vida sobria y casta, dedicada a la oración y a la penitencia, en lugar del ejercicio del poder. Con toda probabilidad fue canonizado en 1521 por el Papa León X o en 1522 por el Papa Adriano VI, pero la canonización fue oficialmente reconfirmada en 1602 por el Papa Clemente VIII, a lo que siguió una solemne ceremonia en 1604, y en 1620 fue incluido en el Calendario Romano General.",
         "patronage": "",
         "main_shrine": "Catedral de San Casimiro en Vilna (Lituania)"
     },
@@ -2202,7 +2202,7 @@
     "StFidelisSigmaringen_260": {
         "subject": "San Fidel de Sigmaringen, sacerdote y mártir",
         "places": "N/D",
-        "place_of_death": "Seewis im Prättigau, Suiza",
+        "place_of_death": "Seewis im Prättigau (Suiza)",
         "place_of_birth": "Sigmaringen (Alemania)",
         "place_of_burial": "Su cabeza fue llevada a Feldkirch (actualmente en Austria), mientras que el resto del cuerpo fue enterrado en la Catedral de Coira (Suiza), donde aún reposan sus restos mortales.",
         "notes": "Fidel, de nombre secular Marco (Sigmaringen, Alemania, 1578 - Seewis im Prättigau, Suiza, 24 de abril de 1622), capuchino, doctor en ambos derechos, dirigió la primera misión promovida por la Congregación de Propaganda Fide, aún en fase de constitución, hacia los territorios donde se había difundido la Reforma protestante. En el clima de fuerte tensión interna en los Grisones, agravado por las presiones políticas internacionales, la predicación de los religiosos católicos provocó reacciones violentas, ante las cuales Fidel dio testimonio de Cristo hasta la muerte.",
@@ -2255,7 +2255,7 @@
         "place_of_death": "Salerno (Italia)",
         "place_of_birth": "Sovana (Italia)",
         "place_of_burial": "Catedral de Salerno (Italia)",
-        "notes": "Ildebrando (Sovana, Grosseto, 1025/1030 - Salerno, 25 de mayo de 1085), monje, llamado por el papa León IX para colaborar en la reforma de la Iglesia, asumió un papel destacado en la curia romana. Elegido papa (1073), reivindicó la autonomía del poder espiritual respecto al temporal y ejerció una constante solicitud hacia la Iglesia universal. Tras sufrir la violenta oposición de Enrique IV, rey de Alemania y emperador, murió en el exilio.",
+        "notes": "Ildebrando (Sovana, Grosseto, 1025/1030 - Salerno, 25 de mayo de 1085), monje, llamado por el papa León IX para colaborar en la reforma de la Iglesia, asumió un papel destacado en la curia romana. Elegido papa (1073), reivindicó la autonomía del poder espiritual respecto al temporal y ejerció una constante solicitud hacia la Iglesia universal. Tras sufrir la violenta oposición de Enrique IV, rey de Alemania y emperador, murió en el exilio. Fue canonizado en 1606 por el Papa Pablo V, y el culto fue reconfirmado en 1728 por el Papa Benedicto XIII.",
         "patronage": "",
         "main_shrine": "Catedral de Salerno (Italia)"
     },
@@ -2274,10 +2274,10 @@
         "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Florencia (Italia)",
-        "place_of_burial": "Chiesa Nuova, Roma",
+        "place_of_burial": "Iglesia de Santa María in Vallicella o \"Chiesa Nuova\" (Roma, Italia)",
         "notes": "Felipe (Florencia, 21 de julio de 1515 - Roma, 26 de mayo de 1595), llegado a Roma a una edad temprana, se dedicó a la asistencia de los enfermos incurables y de los peregrinos pobres. Ordenado presbítero, fue asiduo en el confesionario y celebró la Eucaristía con intensa devoción, hasta el transporte místico. De los encuentros periódicos con un grupo de sus penitentes – a quienes entretenía, con estilo alegre, en diálogos espirituales y en actividades recreativas, culturales y caritativas – nacieron la experiencia del «Oratorio» y la Congregación de sacerdotes que lleva el mismo nombre, reconocida por Gregorio XIII el 15 de julio de 1575.",
         "patronage": "",
-        "main_shrine": "Iglesia Nueva (Roma, Italia)"
+        "main_shrine": "Iglesia de Santa María in Vallicella o \"Chiesa Nuova\" (Roma, Italia)"
     },
     "StsCharlesLwanga_281": {
         "subject": "Santos Carlos Lwanga y compañeros, mártires",
@@ -2401,7 +2401,7 @@
     },
     "StLawrenceBrindisi_305": {
         "subject": "San Lorenzo de Brindisi, sacerdote y doctor",
-        "places": "Iglesia de Santa María de los Ángeles, Brindisi (Italia); Lisboa (Portugal); Villafranca del Bierzo (España)",
+        "places": "Iglesia de Santa María de los Ángeles (Brindisi, Italia); Lisboa (Portugal); Villafranca del Bierzo (España)",
         "place_of_death": "Lisboa (Portugal)",
         "place_of_birth": "Brindisi (Italia)",
         "place_of_burial": "Convento de la Anunciada (Villafranca del Bierzo, España)",
@@ -2675,7 +2675,7 @@
         "place_of_death": "Ilok, Croacia",
         "place_of_birth": "Capestrano, L'Aquila (Italia)",
         "place_of_burial": "Iglesia franciscana de San Juan de Capistrano en Ilok, Croacia",
-        "notes": "Juan (Capestrano, L’Aquila, 24 de junio de 1386 - Ilok, Croacia, 23 de octubre de 1456) dejó la actividad administrativa y política para hacerse franciscano. Desplegó un incesante ministerio de predicación en muchas naciones de Europa, a menudo junto a san Bernardino de Siena, y contribuyó a la organización de los Frailes Menores Observantes. Desempeñó actividades de inquisidor, en particular contra las franjas más radicales del franciscanismo, y realizó misiones políticas en nombre de la Santa Sede. En los últimos años de su vida se dedicó a promover una expedición militar contra el avance de los turcos, interviniendo personalmente para animar la resistencia de Belgrado, hasta su liberación (julio de 1456).",
+        "notes": "Juan (Capestrano, L’Aquila, 24 de junio de 1386 - Ilok, Croacia, 23 de octubre de 1456) dejó la actividad administrativa y política para hacerse franciscano. Desplegó un incesante ministerio de predicación en muchas naciones de Europa, a menudo junto a san Bernardino de Siena, y contribuyó a la organización de los Frailes Menores Observantes. Desempeñó actividades de inquisidor, en particular contra las franjas más radicales del franciscanismo, y realizó misiones políticas en nombre de la Santa Sede. En los últimos años de su vida estuvo comprometido en promover una expedición militar contra el avance de los turcos, interviniendo personalmente para animar la resistencia de Belgrado, hasta su liberación (julio de 1456). Su culto fue confirmado por el Papa Alejandro VIII el 16 de octubre de 1690, y confirmado por el Papa Benedicto XIII con una bula el 4 de junio de 1724.",
         "patronage": "",
         "main_shrine": "Iglesia franciscana de San Juan de Capistrano en Ilok, Croacia"
     },
@@ -2745,7 +2745,7 @@
         "place_of_death": "Monasterio de Helfta (Eisleben, Alemania)",
         "place_of_birth": "Eisleben (Alemania)",
         "place_of_burial": "Las únicas reliquias existentes, ya que escaparon a la destrucción de su sepulcro durante la Reforma Luterana, se conservan en Santa Maria di Licodia, dentro del simulacro conservado en la Chiesa Madre.",
-        "notes": "Gertrudis (6 de enero de 1256 - Eisleben, Alemania, 1301/2), llamada «la Grande», siendo aún niña fue confiada al monasterio de Helfta, donde permaneció toda su vida. En la escuela de mujeres de gran experiencia espiritual, como Matilde de Hackeborn y Matilde de Magdeburgo, alimentó su vida interior con la lectura de la Biblia y de los Padres. Escribió comentarios bíblicos en lengua vernácula para que también las personas más sencillas pudieran acceder a las Sagradas Escrituras. En otras obras, en latín, recopiló oraciones y meditaciones en las que canta el amor de Dios por la humanidad.",
+        "notes": "Gertrudis (6 de enero de 1256 - Eisleben, Alemania, 1301/2), llamada «la Grande», siendo aún niña fue confiada al monasterio de Helfta, donde permaneció toda su vida. En la escuela de mujeres de gran experiencia espiritual, como Matilde de Hackeborn y Matilde de Magdeburgo, alimentó su vida interior con la lectura de la Biblia y de los Padres. Escribió comentarios bíblicos en lengua vernácula para que también las personas más sencillas pudieran acceder a las Sagradas Escrituras. En otras obras, en latín, recopiló oraciones y meditaciones en las que canta el amor de Dios por la humanidad. Aunque nunca fue canonizada formalmente, se aprobó su oficio litúrgico en 1606; en 1677 su nombre fue inscrito en el Martirologio Romano, y su fiesta se extendió a la Iglesia universal en 1738.",
         "patronage": "",
         "main_shrine": "Monasterio de Helfta (Eisleben, Alemania)"
     },
@@ -2781,13 +2781,13 @@
     },
     "StPeterCanisius_396": {
         "subject": "San Pedro Canisio, sacerdote y doctor",
-        "places": "Friburgo, Suiza",
-        "place_of_death": "Friburgo, Suiza",
-        "place_of_birth": "Nimega, Países Bajos",
-        "place_of_burial": "Colegio de San Miguel, Friburgo, Suiza",
+        "places": "Friburgo (Suiza)",
+        "place_of_death": "Friburgo (Suiza)",
+        "place_of_birth": "Nimega (Países Bajos)",
+        "place_of_burial": "Colegio de San Miguel (Friburgo, Suiza)",
         "notes": "Pedro Canisio – latinizado en Canisius – (Nimega, Países Bajos, 8 de mayo de 1521 - Friburgo, Suiza, 21 de diciembre de 1597), jesuita, fue protagonista de la restauración del catolicismo en Alemania, después de la Reforma protestante, con iniciativas de formación y textos de catecismo, sobre todo para los jóvenes y los candidatos al ministerio. Reformador de universidades y promotor de seminarios, fue asiduo también en la predicación entre las poblaciones rurales.",
         "patronage": "",
-        "main_shrine": "Colegio de San Miguel, Friburgo, Suiza"
+        "main_shrine": "Colegio de San Miguel (Friburgo, Suiza)"
     },
     "StJohnKanty_397": {
         "subject": "San Juan de Kęty, sacerdote",
@@ -2831,13 +2831,13 @@
     },
     "StChristopherMagallanes_408": {
         "subject": "San Cristóbal Magallanes y compañeros mártires",
-        "places": "Jalisco, México",
-        "place_of_death": "Colotlán, México",
-        "place_of_birth": "Totatiche, México",
-        "place_of_burial": "Santuario de San Cristóbal Magallanes, Jalisco, México",
+        "places": "Jalisco (México)",
+        "place_of_death": "Colotlán (México)",
+        "place_of_birth": "Totatiche (México)",
+        "place_of_burial": "Santuario de San Cristóbal Magallanes (Jalisco, México)",
         "notes": "Cristóbal (Totatiche, México, 30 de julio de 1869 - Colotlán, 25 de mayo de 1927) fue párroco y misionero entre los indígenas. En la compleja situación local – entre la persecución del Estado contra la Iglesia católica y las consiguientes reacciones populares, a veces violentas – testificó con el sacrificio de su vida la primacía del reino de Dios. A su figura se une la memoria de otros veinticuatro mártires, sacerdotes y laicos, asesinados entre 1915 y 1937.",
         "patronage": "",
-        "main_shrine": "Santuario de San Cristóbal Magallanes, Jalisco, México"
+        "main_shrine": "Santuario de San Cristóbal Magallanes (Jalisco, México)"
     },
     "StRitaCascia_409": {
         "subject": "Santa Rita de Cascia, religiosa",
@@ -2911,29 +2911,29 @@
     },
     "StAndrewKimTaegon_418": {
         "subject": "Santos Andrés Kim Taegon, sacerdote, Pablo Chong Hasang y compañeros mártires",
-        "places": "Seúl, Corea del Sur",
-        "place_of_death": "Saenamteo, Seúl, Corea del Sur",
-        "place_of_birth": "Solmoi (Seúl), Corea del Sur",
-        "place_of_burial": "Catedral de Myeongdong",
+        "places": "Seúl (Corea del Sur)",
+        "place_of_death": "Saenamteo (Seúl, Corea del Sur)",
+        "place_of_birth": "Solmoi (Seúl, Corea del Sur)",
+        "place_of_burial": "Catedral de Myeongdong (Seúl, Corea del Sur)",
         "notes": "Andrés (1821 - Seúl, Corea del Sur, 16 de septiembre de 1846) fue el primer presbítero de la Iglesia coreana, durante más de medio siglo compuesta solo por laicos; entre ellos el catequista Pablo, víctima, diez años antes, de la persecución emprendida por los gobernantes por temor a infiltraciones extranjeras en las tradiciones culturales y religiosas locales. A la memoria de Andrés y Pablo se asocian otros ciento un mártires, incluidos dos obispos europeos, Lorenzo Imbert y Simeón Berneux. Fueron más de diez mil los cristianos que, en varias ocasiones, a lo largo del siglo XIX, fecundaron con su sangre esa joven Iglesia. Surgió hacia finales del siglo XVIII de un encuentro espontáneo con el cristianismo chino, y creció también gracias a la llegada de algunos misioneros de Occidente, en las primeras décadas del siglo XIX. La luminosa historia de la Iglesia coreana y sus mártires constituye un claro testimonio de la acción oculta pero eficaz del Espíritu Santo, incluso en las condiciones más difíciles para la comunidad cristiana.",
         "patronage": "",
-        "main_shrine": "Santuario de los Mártires de Saenamteo, Seúl, Corea del Sur"
+        "main_shrine": "Santuarios de los Mártires de Saenamteo (Seúl, Corea del Sur)"
     },
     "StsLawrenceRuiz_419": {
         "subject": "Santos Lorenzo Ruiz y compañeros mártires",
-        "places": "Manila, Filipinas; Nagasaki (Japón)",
+        "places": "Manila (Filipinas); Nagasaki (Japón)",
         "place_of_death": "Nagasaki (Japón)",
-        "place_of_birth": "Binondo (actual Manila), Filipinas",
-        "place_of_burial": "Parque Nishizaka, Nagasaki (Japón)",
+        "place_of_birth": "Binondo (actual Manila, Filipinas)",
+        "place_of_burial": "Parque Nishizaka (Nagasaki, Japón)",
         "notes": "Lorenzo (Binondo, actual Manila, Filipinas, 1600 aprox. - Nagasaki (Japón), 29 de septiembre de 1637), laico y padre de familia, participó en la misión dominicana que desde Filipinas llegó a Japón, donde fue arrestado y condenado a una muerte cruel. La fe cristiana, introducida en Japón por san Francisco Javier, fue inicialmente acogida y favorecida por algunos señores locales. Después de la unificación política del país, a principios del siglo XVII, los cristianos comenzaron a ser sospechados de favorecer los intereses de las potencias extranjeras, especialmente de España, que había tomado posesión de Filipinas. Junto a Lorenzo se recuerdan otros quince mártires – nueve sacerdotes y seis laicos, de diversas procedencias, todos agregados de diferentes maneras a la Orden dominicana – que fueron asesinados entre 1633 y 1637, en la misma colina que ya había visto, en 1597, la pasión de los protomártires japoneses Pablo Miki y compañeros.",
         "patronage": "",
-        "main_shrine": "Iglesia de San Felipe (Iglesia de Nishizaka), Nagasaki (Japón)"
+        "main_shrine": "Iglesia de San Felipe (Iglesia de Nishizaka, Nagasaki, Japón)"
     },
     "StAndrewDungLac_420": {
         "subject": "San Andrés Dung-Lac y compañeros mártires",
-        "places": "Hanoi, Vietnam; Hà Nam, Vietnam",
-        "place_of_death": "Hanoi, Vietnam",
-        "place_of_birth": "Bac Ninh, Vietnam",
+        "places": "Hanoi (Vietnam); Hà Nam (Vietnam)",
+        "place_of_death": "Hanoi (Vietnam)",
+        "place_of_birth": "Bac Ninh (Vietnam)",
         "place_of_burial": "Nhà Thờ Giáo Xứ Lan Mát (Basílica de la Inmaculada Concepción, Hà Nam, Vietnam)",
         "notes": "Andrés Dung († Hanoi, Vietnam, 21 de diciembre de 1839), hijo de padres paganos en extrema pobreza, fue vendido de niño a un catequista católico; bautizado e instruido en la fe, se convirtió a su vez en catequista y luego en sacerdote. Arrestado una primera vez como cristiano, luego liberado, intentó ocultarse bajo el nuevo apellido Lac. Nuevamente descubierto y arrestado, testificó su fe hasta la muerte. Con él se conmemoran otros 116 mártires, entre obispos, sacerdotes y laicos, la mayoría de ellos vietnamitas, víctimas de varias persecuciones entre 1745 y 1862. La Iglesia de Vietnam, surgida a raíz del primer anuncio llevado por los jesuitas a principios del siglo XVII, tuvo un gran desarrollo pero encontró fuertes resistencias por parte de las culturas y religiones locales, convirtiéndose en objeto de repetidas oleadas de persecución, con una cantidad innumerable de mártires (estimados en 130.000).",
         "patronage": "",
@@ -2944,10 +2944,10 @@
         "places": "N/D",
         "place_of_death": "Lyon (Francia)",
         "place_of_birth": "Sales (Francia)",
-        "place_of_burial": "Basílica de la Visitación, Annecy (Francia)",
+        "place_of_burial": "Basílica de la Visitación (Annecy, Francia)",
         "notes": "Francisco (Sales, Francia, 1567 - Lyon, 28 de diciembre de 1622), obispo de Ginebra (Suiza) con sede en Annecy (Francia), gracias a su humana dulzura y sabiduría pastoral, favoreció la unidad de la Iglesia en un territorio caracterizado por fuertes contrastes entre católicos y calvinistas. Con la Introducción a la vida devota y otras obras ascético-místicas propuso un camino de santidad accesible en todas las condiciones de vida, ya que estaba completamente basado en el amor de Dios, compendio de toda perfección. Con santa Juana Francisca Frémyot de Chantal fundó la Orden femenina de la Visitación. El día de su memoria litúrgica corresponde al de su sepultura en Annecy. Junto a San Francisco de Sales, también está sepultada Santa Juana Francisca Frémiot de Chantal en la misma iglesia de la visitación en Annecy.",
         "patronage": "",
-        "main_shrine": "Basílica de la Visitación, Annecy (Francia)"
+        "main_shrine": "Basílica de la Visitación (Annecy, Francia)"
     },
     "StCatherineSiena_486": {
         "subject": "Santa Catalina de Siena, virgen y doctora de la Iglesia",
@@ -2961,19 +2961,19 @@
     },
     "StAnthonyPadua_489": {
         "subject": "San Antonio de Padua, sacerdote y doctor",
-        "places": "Lisboa (Portugal); Ermita de Montepaolo, Forlì; Rímini; Padua",
+        "places": "Lisboa (Portugal); Ermita de Montepaolo (Forlì, Italia); Rímini (Italia); Padua (Italia)",
         "place_of_death": "Padua (Italia)",
         "place_of_birth": "Lisboa (Portugal)",
-        "place_of_burial": "Basílica de San Antonio, Padua (Italia)",
+        "place_of_burial": "Basílica de San Antonio (Padua, Italia)",
         "notes": "Antonio, de nombre secular Fernando (Lisboa, Portugal, 1190/1195 aprox. - Padua, 13 de junio de 1231), después de una intensa vida ascética con los Canónigos Regulares Agustinos de Coímbra, ingresó en los Frailes Menores con el deseo, no realizado debido a una enfermedad, de partir en misión a Marruecos. Fue el primer franciscano en enseñar teología, con el consentimiento del mismo san Francisco. De gran cultura bíblica y eficaz predicador del Evangelio, ejerció el ministerio en el norte de Italia y en el sur de Francia, suscitando numerosas conversiones. Concluyó su vida en Padua, donde contribuyó a la pacificación ciudadana: allí quedaron sus restos mortales, objeto de una veneración muy extendida.",
         "patronage": "",
-        "main_shrine": "Basílica de San Antonio, Padua (Italia)"
+        "main_shrine": "Basílica de San Antonio (Padua, Italia)"
     },
     "StBonaventure_491": {
         "subject": "San Buenaventura, obispo y doctor",
         "places": "Lyon (Francia); Bagnoregio (Italia)",
         "place_of_death": "Lyon (Francia)",
-        "place_of_birth": "Civita di Bagnoregio, Viterbo",
+        "place_of_birth": "Civita di Bagnoregio (Viterbo, Italia)",
         "place_of_burial": "http://www.doctorseraphicus.it/images/annate/1958_67-81_Petrangeli_Papini.pdf",
         "notes": "Buenaventura (Civita di Bagnoregio, Viterbo, 1217 aprox. - Lyon, Francia, 15 de julio de 1274), entró en la Orden de los Frailes Menores y estudió en París. Teólogo, se dedicó a la enseñanza, produciendo obras de inspiración sapiencial, entre ellas el Itinerario de la mente hacia Dios. Ministro general, ordenó la legislación anterior promulgando nuevas Constituciones (Narbonne, 1260) y, con su obra hagiográfica (Legenda maior y Legenda minor, escrita – esta última – para la liturgia), propuso una visión unitaria de la figura de san Francisco. Obispo de Albano y cardenal, participó en el Concilio de Lyon II durante el cual, de repente, pasó de la Iglesia terrenal a la asamblea celestial.",
         "patronage": "",
@@ -2981,7 +2981,7 @@
     },
     "StLawrenceBrindisi_492": {
         "subject": "San Lorenzo de Brindisi, sacerdote y doctor",
-        "places": "Iglesia de Santa María de los Ángeles, Brindisi (Italia); Lisboa (Portugal); Villafranca del Bierzo (España)",
+        "places": "Iglesia de Santa María de los Ángeles (Brindisi, Italia); Lisboa (Portugal); Villafranca del Bierzo (España)",
         "place_of_death": "Lisboa (Portugal)",
         "place_of_birth": "Brindisi (Italia)",
         "place_of_burial": "Convento de la Anunciada (Villafranca del Bierzo, España)",
@@ -2991,13 +2991,13 @@
     },
     "StAlphonsusMariaDeLiguori_494": {
         "subject": "San Alfonso María de Ligorio, obispo y doctor",
-        "places": "Marianella, Nápoles; Pagani, Salerno",
+        "places": "Marianella (Nápoles, Italia); Pagani (Salerno, Italia)",
         "place_of_death": "Pagani (Salerno, Italia)",
         "place_of_birth": "Marianella (Nápoles, Italia)",
         "place_of_burial": "Basílica pontificia de San Alfonso María de Ligorio, Pagani",
         "notes": "Alfonso (Marianella, Nápoles, 27 de septiembre de 1696 - Pagani, Salerno, 1 de agosto de 1787), se acercó en su juventud al Oratorio filipino y a la asistencia de los enfermos incurables, dejó la profesión forense y fue ordenado presbítero. Predicó con estilo sencillo en los barrios más pobres de Nápoles y en las comunidades rurales, promoviendo devociones ricas en sentimiento religioso. Para incrementar las misiones al pueblo, fundó la Congregación del Santísimo Redentor (Redentoristas). Obispo de Sant'Agata dei Goti (Benevento), se dedicó particularmente a la formación del clero. Con sus numerosos escritos y con cantos de dulce melodía popular alimentó la espiritualidad de los fieles y contribuyó a una equilibrada preparación teológico-moral de los confesores.",
         "patronage": "",
-        "main_shrine": "Basílica pontificia de San Alfonso María de Ligorio, Pagani"
+        "main_shrine": "Basílica pontificia de San Alfonso María de Ligorio (Pagani, Italia)"
     },
     "StBernardClairvaux_495": {
         "subject": "San Bernardo de Claraval, abad y doctor de la Iglesia",
@@ -3013,11 +3013,11 @@
         "subject": "San Roberto Belarmino, obispo y doctor",
         "places": "N/D",
         "place_of_death": "Roma (Italia)",
-        "place_of_birth": "Montepulciano, Siena (Italia)",
-        "place_of_burial": "Iglesia de San Ignacio, Roma (Italia)",
+        "place_of_birth": "Montepulciano (Siena, Italia)",
+        "place_of_burial": "Iglesia de San Ignacio (Roma, Italia)",
         "notes": "Roberto (Montepulciano, Siena, 4 de octubre de 1542 - Roma, 17 de septiembre de 1621), jesuita, empleó su notable competencia teológica tanto en complejas controversias doctrinales (Disputationes de controversiis christianae fidei), como en la redacción de un catecismo popular. Cardenal y arzobispo de Capua, dio ejemplar aplicación al Concilio de Trento, hasta que los gravosos compromisos romanos lo llevaron a dejar la diócesis para dedicarse enteramente al servicio de la Iglesia universal.",
         "patronage": "",
-        "main_shrine": "Iglesia de San Ignacio, Roma (Italia)"
+        "main_shrine": "Iglesia de San Ignacio (Roma, Italia)"
     },
     "StTeresaJesus_499": {
         "subject": "Santa Teresa de Ávila, virgen y doctora",
@@ -3051,17 +3051,17 @@
     },
     "StPeterCanisius_504": {
         "subject": "San Pedro Canisio, sacerdote y doctor",
-        "places": "Friburgo, Suiza",
-        "place_of_death": "Friburgo, Suiza",
-        "place_of_birth": "Nimega, Países Bajos",
-        "place_of_burial": "Colegio de San Miguel, Friburgo, Suiza",
+        "places": "Friburgo (Suiza)",
+        "place_of_death": "Friburgo (Suiza)",
+        "place_of_birth": "Nimega (Países Bajos)",
+        "place_of_burial": "Colegio de San Miguel (Friburgo, Suiza)",
         "notes": "Pedro Kanijs – latinizado en Canisio – (Nimega, Países Bajos, 8 de mayo de 1521 - Friburgo, Suiza, 21 de diciembre de 1597), jesuita, fue protagonista de la restauración del catolicismo en Alemania, después de la Reforma protestante, con iniciativas de formación y textos de catecismo, sobre todo para los jóvenes y los candidatos al ministerio. Reformador de universidades y promotor de seminarios, fue asiduo también en la predicación entre las poblaciones rurales.",
         "patronage": "",
-        "main_shrine": "Colegio de San Miguel, Friburgo, Suiza"
+        "main_shrine": "Colegio de San Miguel (Friburgo, Suiza)"
     },
     "StPaulVI_544": {
         "subject": "San Pablo VI, Papa",
-        "places": "Concesio, Milán, Roma",
+        "places": "Concesio (Italia); Milán (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Concesio (Italia)",
         "place_of_burial": "Basílica de San Pedro en el Vaticano",
@@ -3071,7 +3071,7 @@
     },
     "StPaulVI_545": {
         "subject": "San Pablo VI, Papa",
-        "places": "Concesio, Milán, Roma",
+        "places": "Concesio (Italia); Milán (Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Concesio (Italia)",
         "place_of_burial": "Basílica de San Pedro en el Vaticano",
@@ -3092,16 +3092,16 @@
     "StPioPietrelcina_547": {
         "subject": "San Pío de Pietrelcina (Padre Pío), presbítero",
         "places": "Pietrelcina (Italia); San Giovanni Rotondo (Italia)",
-        "place_of_death": "San Giovanni Rotondo, Foggia (Italia)",
-        "place_of_birth": "Pietrelcina, Benevento (Italia)",
+        "place_of_death": "San Giovanni Rotondo (Foggia, Italia)",
+        "place_of_birth": "Pietrelcina (Benevento, Italia)",
         "place_of_burial": "San Giovanni Rotondo (Italia)",
         "notes": "Pío, de nombre secular Francesco Forgione (Pietrelcina, Benevento, 25 de mayo de 1887 - San Giovanni Rotondo, Foggia, 23 de septiembre de 1968), capuchino y presbítero, vivió su ministerio en el convento de San Giovanni Rotondo. Aquí acompañó a muchísimas personas al encuentro con Dios en los sacramentos de la Reconciliación y la Eucaristía. Fue un padre espiritual iluminado para muchos fieles. Con la «Casa alivio del sufrimiento» quiso ofrecer ayuda y consuelo a los enfermos. Su íntima adhesión a Cristo crucificado también encontró expresión en el signo exterior de los estigmas.",
         "patronage": "",
-        "main_shrine": "Santuario de San Pío de Pietrelcina, San Giovanni Rotondo (Italia)"
+        "main_shrine": "Santuario de San Pío de Pietrelcina (San Giovanni Rotondo, Italia)"
     },
     "StJohnXXIII_548": {
         "subject": "San Juan XXIII, papa",
-        "places": "Sotto il Monte, Bérgamo (Italia); Roma (Italia)",
+        "places": "Sotto il Monte (Bérgamo, Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Sotto il Monte (Bérgamo, Italia)",
         "place_of_burial": "Basílica de San Pedro en el Vaticano",
@@ -3111,7 +3111,7 @@
     },
     "StJohnXXIII_549": {
         "subject": "San Juan XXIII, papa",
-        "places": "Sotto il Monte, Bérgamo (Italia); Roma (Italia)",
+        "places": "Sotto il Monte (Bérgamo, Italia); Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Sotto il Monte (Bérgamo, Italia)",
         "place_of_burial": "Basílica de San Pedro en el Vaticano",
@@ -3127,7 +3127,7 @@
         "place_of_burial": "Basílica de San Pedro en el Vaticano",
         "notes": "Karol Józef Wojtyła (Wadowice, Polonia, 18 de mayo de 1920 - Roma, 2 de abril de 2005), fue ordenado presbítero el 1 de noviembre de 1946. Profesor de teología moral (Lublin), fue elegido auxiliar y luego arzobispo de Cracovia (1964) en los años de la dura represión del régimen comunista. Participó en el Concilio Vaticano II. Elegido papa (1978) tras el breve pontificado de Juan Pablo I, asumió su doble nombre. A la creciente secularización contrapuso la centralidad de Cristo relanzando la misión de la Iglesia, tanto con los numerosos viajes apostólicos por todo el mundo, como con la proclamación de innumerables testigos de la fe como beatos o santos. Promovió el diálogo ecuménico y desarrolló el diálogo interreligioso. Con el Gran Jubileo del año 2000 introdujo a la Iglesia en el tercer milenio de su historia.",
         "patronage": "",
-        "main_shrine": "Basílica de San Pedro en el Vaticano; Santuario de San Juan Pablo II, Cracovia"
+        "main_shrine": "Basílica de San Pedro en el Vaticano; Santuario de San Juan Pablo II (Cracovia, Polonia)"
     },
     "StJohnPaulII_551": {
         "subject": "San Juan Pablo II, papa",
@@ -3137,27 +3137,27 @@
         "place_of_burial": "Basílica de San Pedro en el Vaticano",
         "notes": "Karol Józef Wojtyła (Wadowice, Polonia, 18 de mayo de 1920 - Roma, 2 de abril de 2005), fue ordenado presbítero el 1 de noviembre de 1946. Profesor de teología moral (Lublin), fue elegido auxiliar y luego arzobispo de Cracovia (1964) en los años de la dura represión del régimen comunista. Participó en el Concilio Vaticano II. Elegido papa (1978) tras el breve pontificado de Juan Pablo I, asumió su doble nombre. A la creciente secularización contrapuso la centralidad de Cristo relanzando la misión de la Iglesia, tanto con los numerosos viajes apostólicos por todo el mundo, como con la proclamación de innumerables testigos de la fe como beatos o santos. Promovió el diálogo ecuménico y desarrolló el diálogo interreligioso. Con el Gran Jubileo del año 2000 introdujo a la Iglesia en el tercer milenio de su historia.",
         "patronage": "",
-        "main_shrine": "Basílica de San Pedro en el Vaticano; Santuario de San Juan Pablo II, Cracovia"
+        "main_shrine": "Basílica de San Pedro en el Vaticano; Santuario de San Juan Pablo II (Cracovia, Polonia)"
     },
     "JuanDiego_552": {
         "subject": "San Juan Diego Cuauhtlatoatzin",
-        "places": "Ciudad de México, México",
-        "place_of_death": "Ciudad de México, México",
-        "place_of_birth": "Cuautitlán, México",
-        "place_of_burial": "Basílica de Nuestra Señora de Guadalupe, Ciudad de México, México",
+        "places": "Ciudad de México (México)",
+        "place_of_death": "Ciudad de México (México)",
+        "place_of_birth": "Cuautitlán (México)",
+        "place_of_burial": "Basílica de Nuestra Señora de Guadalupe (Ciudad de México, México)",
         "notes": "Juan Diego (Cuautitlán, México, 1474 - Ciudad de México 1548) fue, junto con su esposa, uno de los primeros indígenas en recibir el Bautismo a la llegada de los misioneros franciscanos. Al quedar viudo, intensificó su vida espiritual. El 9 de diciembre de 1531, en la colina de Tepeyac (hoy en Ciudad de México), tuvo una visión de la Virgen. En obediencia a la Morenita, se erigió una primera capilla cerca de la cual el vidente permaneció, dedicándose al cuidado de la iglesia y a la acogida de los numerosos peregrinos que comenzaron a llegar a ese lugar.",
         "patronage": "",
-        "main_shrine": "Basílica de Nuestra Señora de Guadalupe, Ciudad de México, México"
+        "main_shrine": "Basílica de Nuestra Señora de Guadalupe (Ciudad de México, México)"
     },
     "JuanDiego_553": {
         "subject": "San Juan Diego Cuauhtlatoatzin",
-        "places": "Ciudad de México, México",
-        "place_of_death": "Ciudad de México, México",
-        "place_of_birth": "Cuautitlán, México",
-        "place_of_burial": "Basílica de Nuestra Señora de Guadalupe, Ciudad de México, México",
+        "places": "Ciudad de México (México)",
+        "place_of_death": "Ciudad de México (México)",
+        "place_of_birth": "Cuautitlán (México)",
+        "place_of_burial": "Basílica de Nuestra Señora de Guadalupe (Ciudad de México, México)",
         "notes": "Juan Diego (Cuautitlán, México, 1474 - Ciudad de México 1548) fue, junto con su esposa, uno de los primeros indígenas en recibir el Bautismo a la llegada de los misioneros franciscanos. Al quedar viudo, intensificó su vida espiritual. El 9 de diciembre de 1531, en la colina de Tepeyac (hoy en Ciudad de México), tuvo una visión de la Virgen. En obediencia a la Morenita, se erigió una primera capilla cerca de la cual el vidente permaneció, dedicándose al cuidado de la iglesia y a la acogida de los numerosos peregrinos que comenzaron a llegar a ese lugar.",
         "patronage": "",
-        "main_shrine": "Basílica de Nuestra Señora de Guadalupe, Ciudad de México, México"
+        "main_shrine": "Basílica de Nuestra Señora de Guadalupe (Ciudad de México, México)"
     },
     "LadyLoreto_554": {
         "subject": "Beata Virgen María de Loreto",
@@ -3174,20 +3174,20 @@
         "places": "Cracovia (Polonia)",
         "place_of_death": "Cracovia (Polonia)",
         "place_of_birth": "Głogowiec (Polonia)",
-        "place_of_burial": "Santuario de la Divina Misericordia en Cracovia (Polonia)",
+        "place_of_burial": "Santuario de la Divina Misericordia (Cracovia, Polonia)",
         "notes": "Nacida en el pueblo de Głogowiec, cerca de Łódź, en Polonia en 1905, y fallecida en Cracovia en 1938, santa Faustina consumió su joven existencia entre las Hermanas de la Beata Virgen María de la Misericordia, conformándose generosamente a la vocación recibida de Dios y madurando una intensa vida espiritual, rica en dones místicos y en fiel correspondencia a ellos. El relato de cuanto el Señor ha obrado en ella en beneficio de todos, ella misma lo describió en el Diario de su alma, santuario del encuentro con el Señor Jesús: escuchando a Aquel que es el Amor y la Misericordia, comprendió que ninguna miseria humana puede compararse con la misericordia que brota inagotable del corazón de Cristo. Se convirtió así en inspiradora de un movimiento destinado a proclamar e implorar la misericordia divina para el mundo entero. Canonizada en el año 2000 por san Juan Pablo II, el nombre de santa Faustina se hizo pronto conocido en todo el mundo, promoviendo en todos los componentes del pueblo de Dios, Pastores y fieles laicos, la invocación de la divina misericordia y su creíble testimonio en la conducta de vida de los creyentes.",
         "patronage": "",
-        "main_shrine": "Santuario de la Divina Misericordia en Cracovia (Polonia)"
+        "main_shrine": "Santuario de la Divina Misericordia (Cracovia, Polonia)"
     },
     "StFaustinaKowalska_558": {
         "subject": "Santa Faustina Kowalska",
         "places": "Cracovia (Polonia)",
         "place_of_death": "Cracovia (Polonia)",
         "place_of_birth": "Głogowiec (Polonia)",
-        "place_of_burial": "Santuario de la Divina Misericordia en Cracovia (Polonia)",
+        "place_of_burial": "Santuario de la Divina Misericordia (Cracovia, Polonia)",
         "notes": "Nacida en el pueblo de Głogowiec, cerca de Łódź, en Polonia en 1905, y fallecida en Cracovia en 1938, santa Faustina consumió su joven existencia entre las Hermanas de la Beata Virgen María de la Misericordia, conformándose generosamente a la vocación recibida de Dios y madurando una intensa vida espiritual, rica en dones místicos y en fiel correspondencia a ellos. El relato de lo que el Señor obró en ella en beneficio de todos, ella misma lo describió en el Diario de su alma, santuario del encuentro con el Señor Jesús: escuchando a Aquel que es el Amor y la Misericordia, comprendió que ninguna miseria humana puede compararse con la misericordia que brota inagotable del corazón de Cristo. Se convirtió así en inspiradora de un movimiento destinado a proclamar e implorar la misericordia divina para el mundo entero. Canonizada en el año 2000 por san Juan Pablo II, el nombre de santa Faustina pronto se hizo conocido en todo el mundo, promoviendo en todos los componentes del pueblo de Dios, Pastores y fieles laicos, la invocación de la divina misericordia y su creíble testimonio en la conducta de vida de los creyentes.",
         "patronage": "",
-        "main_shrine": "Santuario de la Divina Misericordia en Cracovia (Polonia)"
+        "main_shrine": "Santuario de la Divina Misericordia (Cracovia, Polonia)"
     },
     "StGregoryNarek_559": {
         "subject": "San Gregorio de Narek",
@@ -3291,9 +3291,9 @@
     },
     "StAugustineHippo_569": {
         "subject": "San Agustín de Hipona, obispo y doctor de la Iglesia",
-        "places": "Souk Ahras, Annaba (Argelia); Roma; sepultado en la Basílica de San Pedro en Ciel d'Oro (Pavía, Italia)",
-        "place_of_death": "Hipona, Annaba, Argelia",
-        "place_of_birth": "Tagaste (actualmente Souk Ahras, Argelia)",
+        "places": "Tagaste (actual Souk Ahras, Argelia); Hipona (actual Annaba, Argelia); Ostia antigua (Roma, Italia); Roma (Italia); Milán (Italia); Cassago Brianza (Italia); Pavía (Italia)",
+        "place_of_death": "Hipona (actual Annaba, Argelia)",
+        "place_of_birth": "Tagaste (actual Souk Ahras, Argelia)",
         "place_of_burial": "Basílica de San Pedro en Ciel d'Oro (Pavía, Italia)",
         "notes": "Agustín (Tagaste, actual Souk Ahras, Argelia, 13 de noviembre de 354 - Hipona, actual Annaba, 28 de agosto de 430), de padre pagano y madre cristiana, fue encaminado a los estudios literarios. Después de un período de desorientación juvenil, comenzó una apasionada búsqueda de la verdad, adhiriéndose a un cristianismo de estilo maniqueo. Profesor de retórica en Milán, conoció a san Ambrosio, de quien escuchó la predicación y de quien recibió el Bautismo. De regreso en África y elegido obispo de Hipona, vivió con su clero en una comunidad de tipo monástico; la regla que compuso se convertirá en texto de referencia para muchísimos institutos de vida consagrada en Occidente. Al ejercicio del ministerio, en particular de la predicación, añadió un constante compromiso de profundización y defensa de la fe, produciendo un corpus de obras de tal amplitud y profundidad que constituye una de las herencias más fecundas de la tradición cristiana antigua. Sus restos mortales fueron depositados, muy probablemente, en la catedral llamada \"Basílica Pacis\" y celosamente custodiados por los cristianos de Hipona, como cuenta Possidio, su primer biógrafo, en la vida que amorosamente escribió y de la cual actualmente (desde 1955) tenemos una edición crítica, debida al profesor de literatura cristiana, hoy Card. Michele Pellegrino (Agostino Trapè, Bibliotheca Sanctorum, vol. 1, col. 433). Posteriormente, el cuerpo de S. Agustín fue trasladado de Hipona a Cerdeña y de Cerdeña a Pavía, donde descansa hasta hoy. ¡Así que incluso los huesos del Santo obispo han tenido su travesía! Estas dos traslaciones son certísimas y diversamente documentadas por varios autores. Más difícil documentar las dos fechas relativas y las circunstancias particulares.",
         "patronage": "",
@@ -3301,17 +3301,17 @@
     },
     "StJerome_570": {
         "subject": "San Jerónimo, sacerdote y doctor",
-        "places": "Roma (Italia); Belén, Palestina",
-        "place_of_death": "Belén, Palestina",
-        "place_of_birth": "Stridón, antigua Dalmacia",
+        "places": "Roma (Italia); Belén (Palestina)",
+        "place_of_death": "Belén (Palestina)",
+        "place_of_birth": "Stridón (antigua Dalmacia)",
         "place_of_burial": "Basílica de Santa María la Mayor, urna bajo el altar mayor",
         "notes": "Jerónimo (Stridón, antigua Dalmacia, 347 aprox. - Belén, Palestina, 30 de septiembre de 420), dotado de una vastísima cultura, después de un período de vida eremítica en Oriente, se convirtió en colaborador del papa Dámaso en Roma. Se estableció luego en Belén, dedicándose a la oración, la penitencia y la guía de cenáculos de vida ascética. Además de componer escritos de erudición y comentarios bíblicos, emprendió la grandiosa obra de revisión de la traducción de la Biblia al latín. Los textos que preparó, reunidos en la Vulgata, se convirtieron en parte esencial de la tradición litúrgica, teológica y jurídica de la Iglesia occidental. Es recordado el 30 de septiembre en el Martirologio jeronimiano (siglos V-VI).",
         "patronage": "",
-        "main_shrine": "Iglesia de Santa Catalina, Belén"
+        "main_shrine": "Iglesia de Santa Catalina (Belén, Palestina)"
     },
     "StGregoryGreat_571": {
         "subject": "San Gregorio Magno, papa y doctor",
-        "places": "Roma",
+        "places": "Roma (Italia)",
         "place_of_death": "Roma (Italia)",
         "place_of_birth": "Roma (Italia)",
         "place_of_burial": "Basílica de San Pedro en el Vaticano",
@@ -3341,7 +3341,7 @@
     },
     "StGregoryNazianzen_574": {
         "subject": "San Gregorio Nacianceno",
-        "places": "Capadocia (Turquía); Constantinopla (Turquía); Roma (Italia)",
+        "places": "Capadocia (Turquía); Constantinopla (actual Estambul, Turquía); Roma (Italia)",
         "place_of_death": "Constantinopla (actual Estambul, Turquía)",
         "place_of_birth": "Nazianzo, en la actual Turquía",
         "place_of_burial": "Basílica de San Pedro; anteriormente Iglesia de Santa María de la Concepción en Campo Marzio, Roma, donde se conserva un brazo",
@@ -3394,7 +3394,7 @@
         "places": "Francia",
         "place_of_death": "Poitiers (Francia)",
         "place_of_birth": "Poitiers (Francia)",
-        "place_of_burial": "Iglesia de Saint-Hilaire le Grand, Poitiers (patrimonio UNESCO)",
+        "place_of_burial": "Iglesia de San Hilario el Grande (Poitiers, Francia) (patrimonio UNESCO)",
         "notes": "Hilario (Poitiers, Francia, 310/320 - 367/368), obispo de su ciudad natal, defendió con escritos de alto perfil (entre los cuales destaca el tratado De Trinitate) la fe en la plena divinidad del Hijo, afirmada por el Concilio de Nicea (325) contra la herejía de Arrio. Por su firme oposición a las orientaciones filoarianas de la corte imperial fue perseguido y exiliado. Es recordado en el Martirologio Jeronimiano (siglos V-VI) el 13 de enero. La iglesia de Saint-Hilaire le Grand es una iglesia católica de Poitiers, en el departamento de Vienne, dedicada a San Hilario de Poitiers. En 1840 fue declarada Monumento Histórico de Francia y desde 1998 también está clasificada como Patrimonio de la Humanidad por la UNESCO, como etapa del Camino de Santiago de Compostela a lo largo de la Vía Turonensis.",
         "patronage": "",
         "main_shrine": "N/D"
@@ -3451,13 +3451,13 @@
     },
     "Guadalupe_555": {
         "subject": "Beata Virgen María de Guadalupe",
-        "places": "Ciudad de México, México",
+        "places": "Ciudad de México (México)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
         "notes": "El 9 de diciembre de 1531, Juan Diego, un indio azteca entre los primeros convertidos al cristianismo al inicio de la conquista española de México, llegó al pie de la colina de Tepeyac (hoy en Ciudad de México). Allí tuvo la visión de una «Señora bellísima», que se presentó como «la santa Virgen María, Madre del verdadero Dios» y pidió que se le erigiera una iglesia en ese lugar, prometiendo manifestar a todos su amor y su ayuda. Ante la resistencia del obispo, la Morenita el 12 de diciembre imprimió su imagen en la tilma de Juan Diego. Convencido por este signo milagroso, el obispo erigió un primer santuario (1553), llamado «de Guadalupe» como el ya existente en España desde el siglo XIV. El edificio fue repetidamente ampliado para acoger a los cada vez más numerosos peregrinos, atraídos por la imagen milagrosa. La Virgen de Guadalupe ha sido reconocida por las Iglesias de ese continente como la «gran misionera que llevó el Evangelio a nuestra América» (Documento de Aparecida, 269).",
         "patronage": "",
-        "main_shrine": "Basílica de Nuestra Señora de Guadalupe, Ciudad de México, México"
+        "main_shrine": "Basílica de Nuestra Señora de Guadalupe (Ciudad de México, México)"
     },
     "LadyLourdes_585": {
         "subject": "Bienaventurada Virgen María de Lourdes",
@@ -3550,7 +3550,7 @@
         "main_shrine": "Catacumbas de Calixto (Roma, Italia)"
     },
     "SantaMariaInPortico_594": {
-        "subject": "Santa María en Pórtico",
+        "subject": "Santa María en Portico (Roma, Italia)",
         "places": "Roma (Italia)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
@@ -3690,23 +3690,23 @@
         "main_shrine": "Iglesia de Santa María de Zeitoun (El Cairo, Egipto)"
     },
     "StMarkEvangelist_608": {
-        "subject": "",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
-        "notes": "",
+        "subject": "San Marcos Evangelista",
+        "places": "Venecia (Italia); Alejandría (Egipto); El Cairo (Egipto); Roma (Italia)",
+        "place_of_death": "Basílica de Santa María la Mayor (Roma, Italia)",
+        "place_of_birth": "Palestina o Chipre",
+        "place_of_burial": "Inicialmente sus restos fueron venerados en una iglesia de Alejandría construida en el lugar del mausoleo más antiguo de Alejandro Magno. En el siglo VII sus restos fueron llevados a Venecia. La catedral de San Marcos en El Cairo conserva algunas reliquias transportadas desde la Basílica de San Marcos en Venecia.",
+        "notes": "Juan, llamado Marcos, es hijo de María de Jerusalén, en cuya casa se reúne la comunidad cristiana y donde Pedro encuentra refugio después de ser liberado de la cárcel (cf. Hch 12, 12). Primo de Bernabé, colabora con Pablo en el primer viaje misionero, hasta Panfilia, donde se separa de él (cf. Hch 12, 25; 15, 37-38). Discípulo predilecto de Pedro – que lo llama «mi hijo» (1 Pe 5, 13) –, aparece de nuevo al lado de Pablo en Roma (cf. Flm 24; Col 4, 10). A Marcos la tradición le ha atribuido el Evangelio que lleva su nombre y que refleja la predicación del apóstol Pedro. En él, se presenta a Jesús como el «Cristo, Hijo de Dios» (Mc 1, 1) y se proclama que el Crucificado ha resucitado (cf. Mc 16, 6). Su fiesta se celebra el 25 de abril también por los coptos y los bizantinos.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Basílica de San Marcos (Venecia, Italia); Catedral de San Marcos (El Cairo, Egipto)"
     },
     "StThomasMore_609": {
-        "subject": "",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
-        "notes": "",
+        "subject": "San Tomás Moro, mártir",
+        "places": "Londres (Reino Unido)",
+        "place_of_death": "Londres (Reino Unido)",
+        "place_of_birth": "Londres (Reino Unido)",
+        "place_of_burial": "Iglesia de San Pedro ad Vincula (Londres, Reino Unido)",
+        "notes": "Tomás Moro (Londres, 7 de febrero de 1477 - 22 de junio de 1535), laico de gran cultura y experiencia política, fue canciller del reino. Junto con el obispo Juan Fisher se opuso al intento del rey Enrique VIII de obtener de Roma la disolución de su matrimonio y, sobre todo, a su pretensión de ponerse a la cabeza de la Iglesia de Inglaterra, rompiendo la comunión eclesial. Ambos fueron ejecutados por su coherente testimonio.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Iglesia de San Pedro ad Vincula (Londres, Reino Unido)"
     }
 }

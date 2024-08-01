@@ -24,7 +24,7 @@
         "places": "France",
         "place_of_death": "Poitiers (France)",
         "place_of_birth": "Poitiers (France)",
-        "place_of_burial": "Church of Saint-Hilaire le Grand, Poitiers (UNESCO World Heritage)",
+        "place_of_burial": "Church of Saint Hilary the Great (Poitiers, France) (UNESCO heritage)",
         "notes": "Hilary (Poitiers, France, 310/320 - 367/368), bishop of his hometown, defended faith in the full divinity of the Son, affirmed by the Council of Nicaea, with high-profile writings (including above all the treatise De Trinitate). (325) against the Arius heresy. For his firm opposition to the pro-Arian orientations of the imperial court he was persecuted and exiled. He is mentioned in the Geronian Martyrology (5th-6th century) on 13 January. The church of Saint-Hilaire le Grand is a Catholic church in Poitiers, in the Vienne department, dedicated to Saint Hilary of Poitiers. In 1840 it was declared a Historical Monument of France and since 1998 it has also been classified as a World Heritage Site by UNESCO, as a stop on the Camino de Santiago de Compostela along the Via Turonensis.",
         "patronage": "children academically behind, children learning to walk, mothers, and the sick, invoked against rheumatism and snakebites",
         "main_shrine": "Church of Saint Hilary the Great, Poitiers"
@@ -62,7 +62,7 @@
     "StAgnes_7": {
         "subject": "Saint Agnes, Virgin and Martyr",
         "places": "Rome (Italy)",
-        "place_of_death": "Basilica of Saint Agnes in Agone, Rome",
+        "place_of_death": "Basilica of Saint Agnes in Agone (Rome, Italy)",
         "place_of_birth": "Rome (Italy)",
         "place_of_burial": "Catacombs of Saint Agnes outside the Walls",
         "notes": "Agnes, a Roman, still an adolescent, placed in the alternative between remaining faithful to Christ and saving her life, chose the heavenly Spouse without hesitation, joining him with martyrdom (mid-3rd century). The very popular story of her passion was collected as early as the fourth century by Pope Damasus. Saint Ambrose and Saint Augustine indicated her as a shining model of a Christian virgin. According to the Depositio martyrum (336), her memory was celebrated on January 21 in Rome in the cemetery of the same name on Via Nomentana. Her name is mentioned in the Roman Canon.",
@@ -91,8 +91,8 @@
     },
     "StPaulApostle_10": {
         "subject": "Saint Paul, Apostle",
-        "places": "Church of San Paolo alla Regola, Rome; Church of Santa Maria in Via Lata, Rome; GREECE; TURKEY",
-        "place_of_death": "Shrine of the Three Fountains, Rome",
+        "places": "Church of Saint Paul alla Regola (Rome, Italy); Church of Saint Mary in Via Lata (Rome, Italy); Greece; Turkey; Syria",
+        "place_of_death": "Shrine of the Three Fountains (Rome, Italy)",
         "place_of_birth": "Tarsus (Turkey) https://www.google.com/maps/place/36%C2%B055'00.0%22N+34%C2%B054'00.0%22E/@36.9546925,34.8770442,11.25z/data=!4m5!3m4!1s0x0:0x0!8m2!3d36.916667!4d34.9",
         "place_of_burial": "Basilica of St. Paul Outside the Walls, Rome",
         "notes": "Paul of Tarsus, conquered by Christ on the road to Damascus (cf. Acts 9, 1-19; Phil 3, 12), consecrates himself entirely to the service of understanding and announcing the new existence that he lives in Christ Jesus his Lord (cf. Eph 3, 1-4; 1 Cor 9, 16; Rom 6, 4; Gal 2, 20). Both apostles, who «in different ways brought together the one family of Christ» (Preface), sealed their testimony to Christ with martyrdom in Rome in the sixties of the first century. In the Depositio martyrum ( 336) they are remembered together on 29 June.",
@@ -412,12 +412,12 @@
     "StFidelisSigmaringen_45": {
         "subject": "Saint Fidelis of Sigmaringen, priest and martyr",
         "places": "Austria; Switzerland",
-        "place_of_death": "Seewis in Prättigau, Switzerland",
+        "place_of_death": "Seewis im Prättigau (Switzerland)",
         "place_of_birth": "Sigmaringen (Germany)",
         "place_of_burial": "His head was taken to Feldkirch (currently in Austria), while the rest of the body was buried in the Cathedral of Chur (Switzerland), where his mortal remains still rest.",
         "notes": "Fidelis, whose name at birth was Marc (Sigmaringen, Germany, 1578 - Seewis im Prättigau, Switzerland, April 24, 1622), Capuchin, doctor in utroque iure, led the first mission promoted by the Congregation of propaganda fide, still in the process of being established, towards the territories in which the Protestant Reformation had spread. In the climate of strong internal tension in the Grisons, aggravated by international political pressures, the preaching of Catholic religious aroused violent reactions, in the face of which Fidelis bore witness to Christ until death.",
         "patronage": "",
-        "main_shrine": "Chur Cathedral, Switzerland; Feldkirch, Austria"
+        "main_shrine": "Cathedral of Chur (Switzerland); Feldkirch (Austria)"
     },
     "StMarkEvangelist_46": {
         "subject": "Saint Mark the Evangelist",
@@ -427,7 +427,7 @@
         "place_of_burial": "Initially, his remains were venerated in a church in Alexandria built on the site of the oldest mausoleum of Alexander the Great. In the 7th century, his remains were brought to Venice. The Cathedral of St. Mark in Cairo preserves some relics transported from the Basilica of St. Mark in Venice.",
         "notes": "John, known as Mark, is the son of Mary of Jerusalem, in whose house the Christian community gathers and where Peter finds refuge after being freed from prison (cf. Acts 12, 12). Cousin of Barnabas, he collaborates with Paul on the first missionary journey, up to Pamphylia, where he separates from him (cf. Acts 12, 25; 15, 37-38). A beloved disciple of Peter - who calls him \"my son\" (1 Pt 5, 13) -, he appears again alongside Paul in Rome (cf. Phm 24; Col 4, 10). To Mark, tradition has attributed the Gospel that bears his name and echoes the preaching of the apostle Peter. In it, Jesus is presented as the \"Christ, Son of God\" (Mk 1, 1) and it is proclaimed that the Crucified One has risen (cf. Mk 16, 6). His feast is celebrated on April 25 also by the Copts and Byzantines.",
         "patronage": "",
-        "main_shrine": "Basilica of St. Mark in Venice, and St. Mark's Cathedral in Cairo"
+        "main_shrine": "Basilica of Saint Mark (Venice, Italy); Saint Mark's Cathedral (Cairo, Egypt)"
     },
     "StPeterChanel_47": {
         "subject": "Saint Peter Chanel, priest and martyr",
@@ -564,10 +564,10 @@
         "places": "Rome (Italy)",
         "place_of_death": "Rome (Italy)",
         "place_of_birth": "Florence (Italy)",
-        "place_of_burial": "Church of Santa Maria in Vallicella aka \"New Church\", Rome",
+        "place_of_burial": "Church of Santa Maria in Vallicella or \"New Church\" (Rome, Italy)",
         "notes": "Philip (Florence, July 21, 1515 - Rome, May 26, 1595), arrived in Rome at a young age, dedicated himself to the assistance of incurable patients and poor pilgrims. Ordained a priest, he was assiduous at the confessional and celebrated the Eucharist with intense devotion, until mystical transport. From periodic meetings with a group of his penitents - whom he entertained, with a joyful style, in spiritual dialogues and in recreational, cultural, charitable activities - the experience of the \"Oratory\" and the Congregation of priests bearing the same name, recognized by Gregory XIII on July 15, 1575, were born.",
         "patronage": "",
-        "main_shrine": "Chiesa Nuova (Rome, Italy)"
+        "main_shrine": "Church of Santa Maria in Vallicella or \"New Church\" (Rome, Italy)"
     },
     "StAugustineCanterbury_62": {
         "subject": "Saint Augustine of Canterbury, bishop",
@@ -612,7 +612,7 @@
     "StBoniface_67": {
         "subject": "Saint Boniface, bishop and martyr",
         "places": "Fulda (Germany)",
-        "place_of_death": "Dokkum, Netherlands",
+        "place_of_death": "Dokkum (Netherlands)",
         "place_of_birth": "Wessex (United Kingdom)",
         "place_of_burial": "Abbey of Fulda (Germany)",
         "notes": "Winfrid, a name that Pope Gregory II changed to Boniface (Wessex, United Kingdom, around 675 - Dokkum, Netherlands, 754), was a monk in the abbey of Nursling (United Kingdom). From here, according to the tradition of insular monasticism, he began to pilgrimage throughout the European continent. Sent by the pope as a missionary among the Germanic populations, then elected archbishop, he worked in Hesse and Thuringia, founding several dioceses and monasteries. At an already advanced age, he began a mission among the Frisians, but there he found death at the hands of robbers. He was buried in Fulda (Germany).",
@@ -1085,7 +1085,7 @@
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
-        "notes": "It was in the Middle Ages that the Virgin Mary began to be commonly invoked as Queen (Hail, Holy Queen) and depicted as being crowned by her Son, thus expressing her full participation in the universal kingship of Christ. In this liturgical memory, instituted by Pius XII in 1955 and, following the reform of the Second Vatican Council, placed in light of the solemnity of Mary assumed into heaven, the Virgin is proposed as a model and sign of hope for all Christians who, already clothed with the royal dignity of the Lord in Baptism, are called to reign eternally with him.",
+        "notes": "It was in the medieval age that the Virgin Mary began to be commonly invoked as Queen (Hail, Queen) and depicted crowned by the Son, thus expressing her full participation in the universal kingship of Christ. In this liturgical memory, instituted by Pius XII on October 11, 1954, with the Encyclical Letter Ad caeli Reginam on May 31 at the conclusion of the Marian month, and placed, after the reform following Vatican II, in the light of the solemnity of Mary assumed into heaven on August 22, the Virgin is proposed as a model and sign of hope for all Christians who, already clothed with the royal dignity of the Lord in Baptism, are called to reign eternally with him.",
         "patronage": "",
         "main_shrine": "N/A"
     },
@@ -1141,9 +1141,9 @@
     },
     "StAugustineHippo_121": {
         "subject": "Saint Augustine of Hippo, bishop and doctor of the Church",
-        "places": "Souk Ahras, Annaba (Algeria); Rome; buried in the Basilica of Saint Peter \"in Ciel d'Oro\" (Pavia, Italy)",
-        "place_of_death": "Hippo, Annaba, Algeria",
-        "place_of_birth": "Tagaste (currently Souk Ahras, Algeria)",
+        "places": "Tagaste (current Souk Ahras, Algeria); Hippo (current Annaba, Algeria); Ostia Antica (Rome, Italy); Rome (Italy); Milan (Italy); Cassago Brianza (Italy); Pavia (Italy)",
+        "place_of_death": "Hippo (current Annaba, Algeria)",
+        "place_of_birth": "Tagaste (current Souk Ahras, Algeria)",
         "place_of_burial": "Basilica of Saint Peter \"in Ciel d'Oro\" (Pavia, Italy)",
         "notes": "Augustine (Tagaste, now Souk Ahras, Algeria, November 13, 354 - Hippo, now Annaba, August 28, 430), of a pagan father and Christian mother, was introduced to literary studies. After a period of youthful disorientation, he began a passionate search for truth, adhering to a Manichean form of Christianity. A professor of rhetoric in Milan, he met Saint Ambrose, whose preaching he listened to and from whom he received Baptism. Returning to Africa and elected bishop of Hippo, he lived with his own clergy in a monastic-type community; the rule he composed will become a reference text for many institutes of consecrated life in the West. To the exercise of the ministry, particularly preaching, he combined a constant commitment to deepening and defending the faith, producing a corpus of works of such breadth and depth as to constitute one of the most fruitful legacies of the ancient Christian tradition. His mortal remains are most likely deposited in the cathedral known as \"Basilica Pacis\" and jealously guarded by the Christians of Hippo as Possidius, his first biographer, tells in the life he lovingly wrote and of which we currently (since 1955) have a critical edition, due to the professor of Christian literature, today Card. Michael Pilgrim (Augustine Trapè, Bibliotheca Sanctorum, vol. 1, col. 433). Later, the body of St. Augustine was transferred from Hippo to Sardinia and from Sardinia to Pavia, where it still rests. So even the bones of the Holy Bishop have had their ordeal! These two transfers are very certain and differently documented, by various authors. It is more difficult to document the two relative dates and the particular circumstances.",
         "patronage": "",
@@ -1175,7 +1175,7 @@
         "place_of_death": "Jerusalem",
         "place_of_birth": "Jerusalem or Sepphoris",
         "place_of_burial": "Mount of Olives",
-        "notes": "A feast of Eastern origins (6th century), celebrating Mary as the dawn announcing salvation (cf. Is 62, 1) and preceding the \"sun rising from on high\" (Lk 1, 78), marks the first advent of the fullness of time (cf. Gal 4, 4). It is from this day that the date for the solemnity of the Immaculate Conception of Mary was set, going back exactly nine months.",
+        "notes": "The feast of Eastern origins (6th century), celebrating Mary as the dawn announcing salvation (cf. Is 62:1) and preceding the \"sun rising from on high\" (Lk 1:78), marks the first advent of the fullness of time (cf. Gal 4:4). It is from this day that the date for the solemnity of the Immaculate Conception of Mary was set, going back exactly nine months. The feast of the Nativity of Mary was introduced by Pope Sergius I between the end of the 6th century and the beginning of the 7th century, following the Eastern tradition. On October 20, 1572, Saint Charles Borromeo consecrated the Milan Cathedral dedicated to Mary Most Holy.",
         "patronage": "",
         "main_shrine": "Church of Saint Anne, Jerusalem"
     },
@@ -1285,15 +1285,15 @@
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
-        "notes": "Michael (\"Who is like God?\"), the first of the archangels, protects the people of God (cf. Dn 10, 13.21; 12, 1) and leads the heavenly hosts in the fight against the devil (Jd 9; cf. Ap 12, 1-17). Gabriel (\"man of God\" or \"God is my strength\") is God's messenger to men: he explains to the prophet Daniel the secrets of God's plan (cf. Dn 8, 16; 9, 21), announces to Zechariah the birth of John the Baptist (cf. Lc 1, 5-25) and to Mary that of Jesus (cf. Lc 1, 26-38). Raphael (\"God has healed\") is among the \"seven angels who are always ready to enter the presence of the glory of the Lord\" (Tb 12, 15; cf. Ap 8, 2), accompanies Tobias on the journey, teaches him how to heal his father Tobias' blindness and free his wife Sarah from the demon Asmodeus (cf. Tb 3, 16- 17; 6, 1). In the Eucharist, the Church already participates in the heavenly liturgy, where \"countless hosts of angels\" (Eucharistic Prayer IV) acclaim to God and the Lamb (cf. Ap 5, 11-14). In the Hieronymian Martyrology (5th-6th century), the dedication of the church of Saint Michael in Rome, on the Salaria road (5th century), is remembered on September 29.",
+        "notes": "Michael (\"Who is like God?\"), the first of the archangels, protects the people of God (cf. Dn 10:13, 21; 12:1) and leads the heavenly hosts in the fight against the devil (Jude 9; cf. Rev 12:1-17). Gabriel (\"man of God\" or \"God is my strength\") is God's messenger to men: he explains to the prophet Daniel the secrets of God's plan (cf. Dn 8:16; 9:21), announces to Zechariah the birth of John the Baptist (cf. Lk 1:5-25) and to Mary the birth of Jesus (cf. Lk 1:26-38). Raphael (\"God has healed\") is among the \"seven angels who are always ready to enter the presence of the glory of the Lord\" (Tob 12:15; cf. Rev 8:2), accompanies Tobias on his journey, teaches him how to heal his father Tobit's blindness, and frees his wife Sarah from the demon Asmodeus (cf. Tob 3:16-17; 6:1). In the Eucharist, the Church already participates in the heavenly liturgy, where \"countless hosts of angels\" (Eucharistic Prayer IV) acclaim God and the Lamb (cf. Rev 5:11-14). In the Jerome Martyrology (5th-6th century), the dedication of the church of Saint Michael in Rome, on the Via Salaria (5th century), is remembered on September 29. In 493, Pope Gelasius instituted the feast to commemorate this dedication.",
         "patronage": "",
-        "main_shrine": "Castel Sant'Angelo, Rome; Cave of Saint Michael at Gargano (Italy); Mont Saint-Michel (France)"
+        "main_shrine": "Castel Sant'Angelo (Rome, Italy); Cave of Saint Michael at Gargano (Italy); Mont Saint-Michel (France)"
     },
     "StJerome_136": {
         "subject": "Saint Jerome, priest and doctor",
-        "places": "Rome (Italy); Bethlehem, Palestine",
-        "place_of_death": "Bethlehem, Palestine",
-        "place_of_birth": "Stridon, ancient Dalmatia",
+        "places": "Rome (Italy); Bethlehem (Palestine)",
+        "place_of_death": "Bethlehem (Palestine)",
+        "place_of_birth": "Stridon (ancient Dalmatia)",
         "place_of_burial": "Basilica of Saint Mary Major, urn under the main altar",
         "notes": "Jerome (Stridon, ancient Dalmatia, around 347 - Bethlehem, Palestine, September 30, 420), endowed with vast culture, after a period of hermit life in the East, became a collaborator of Pope Damasus in Rome. He then settled in Bethlehem, dedicating himself to prayer, penance and the guidance of ascetic life circles. In addition to composing scholarly writings and biblical commentaries, he undertook the grandiose work of revising the translation of the Bible into Latin. The texts he prepared, which flowed into the Vulgate, became an essential part of the liturgical, theological and legal tradition of the Western Church. He is remembered on September 30 in the Hieronymian Martyrology (5th-6th century).",
         "patronage": "",
@@ -1595,7 +1595,7 @@
         "place_of_death": "Church of the Dormition, Jerusalem",
         "place_of_birth": "Jerusalem / Nazareth",
         "place_of_burial": "Mount of Olives, Jerusalem",
-        "notes": "The episode of Mary's presentation, at the age of three, at the Temple of Jerusalem, is narrated in the Protoevangelium of James, an apocryphal text from the second century. The act, not prescribed by the Law, indicates the Virgin's total belonging to God from childhood. It is among the main Marian feasts of the Orthodox Church.",
+        "notes": "The episode of the presentation of Mary, at the age of three, in the Temple of Jerusalem, is narrated in the Protoevangelium of James, an apocryphal text from the 2nd century. The gesture, not prescribed by the Law, indicates the Virgin's total belonging to God from childhood. It is among the main Marian feasts of the Orthodox Church. The date of the festivity, November 21, derives from the same day of the consecration of the Basilica of Saint Mary the New in the city of Jerusalem in 543, a basilica commissioned by the Byzantine Emperor Justinian I and completed during the time of the Patriarch of Jerusalem Peter (now destroyed).",
         "patronage": "",
         "main_shrine": "N/A"
     },
@@ -1721,23 +1721,23 @@
     },
     "StPeterCanisius_181": {
         "subject": "Saint Peter Canisius, priest and doctor",
-        "places": "Fribourg, Switzerland",
-        "place_of_death": "Fribourg, Switzerland",
-        "place_of_birth": "Nijmegen, Netherlands",
-        "place_of_burial": "St. Michael's College, Fribourg, Switzerland",
+        "places": "Fribourg (Switzerland)",
+        "place_of_death": "Fribourg (Switzerland)",
+        "place_of_birth": "Nijmegen (Netherlands)",
+        "place_of_burial": "College of Saint Michael (Fribourg, Switzerland)",
         "notes": "Peter Kanijs - Latinized as Canisius - (Nijmegen, Netherlands, May 8, 1521 - Fribourg, Switzerland, December 21, 1597), a Jesuit, was a key figure in the restoration of Catholicism in Germany, following the Protestant Reformation, with educational initiatives and catechism texts, especially for young people and ministry candidates. A reformer of universities and promoter of seminaries, he was also diligent in preaching among rural populations.",
         "patronage": "",
-        "main_shrine": "St. Michael's College, Fribourg, Switzerland"
+        "main_shrine": "College of Saint Michael (Fribourg, Switzerland)"
     },
     "StJohnKanty_182": {
         "subject": "John of Kęty, priest",
         "places": "Krakow (Poland)",
         "place_of_death": "Krakow (Poland)",
         "place_of_birth": "Kęty (Poland)",
-        "place_of_burial": "Church of Saint Anne, Krakow",
+        "place_of_burial": "Church of Saint Anne (Krakow, Poland)",
         "notes": "John (Kęty, Poland, 1390 - Krakow, December 24, 1473), priest, philosopher and theologian, was a professor at the University of Krakow, a member of the musical chapel of the collegiate church of St. Florian and a canon of the cathedral. He was known throughout the city for his upright life, inexhaustible goodness, and preference for the poor.",
         "patronage": "",
-        "main_shrine": "Church of Saint Anne, Krakow"
+        "main_shrine": "Church of Saint Anne (Krakow, Poland)"
     },
     "StStephenProtomartyr_183": {
         "subject": "Saint Stephen, Protomartyr",
@@ -1795,7 +1795,7 @@
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
-        "notes": "The worship of the name of Jesus arose in the late medieval period, thanks to the mendicant Orders, particularly through the preaching of Saint Bernardine of Siena (15th century) who spread the monogram composed of the first three Greek letters of the name of Jesus (IHS), although it, with Latin transliteration, was interpreted as an acronym for the expression Iesus Hominum Salvator. The liturgical celebration, introduced in the 16th century, was extended to the entire Church by Innocent XIII (1721-1724). This devotion has roots in the Holy Scripture. The name of Jesus, assigned by the Father to the Son made man (cf. Mt 1, 21), prefigures - according to the biblical style - the mission: it means, in fact, \"God saves\". It is \"in the name of Jesus\" that the disciples perform wonders (At 4, 10) and suffer persecution (At 5, 41). Jesus himself encourages the disciples to pray in his name (Jn 14, 13-14). Already the first Christian community is aware that there is \"under heaven, no other name given to men, in which it is established that we are saved\" (At 4, 12). In the hymn of the letter to the Philippians it is proclaimed: \"... God exalted him and gave him the name that is above every name, so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth\" (Phil 2, 9-10).",
+        "notes": "The devotion to the name of Jesus arose in the late medieval period, thanks to the Mendicant Orders, particularly with the preaching of Saint Bernardino of Siena (15th century) who spread the monogram composed of the first three Greek letters of the name of Jesus (IHS), although it was interpreted with the Latin transliteration as an acronym for the expression Iesus Hominum Salvator. The liturgical celebration, introduced in the 16th century, was extended to the whole Church by Innocent XII with a decree on July 11, 1722. This devotion has roots in Sacred Scripture. The name of Jesus, assigned by the Father to the Son made man (cf. Mt 1:21), prefigures—according to the biblical style—his mission: it means, in fact, \"God saves.\" It is \"in the name of Jesus\" that the disciples perform miracles (Acts 4:10) and suffer persecution (Acts 5:41). Jesus himself encourages the disciples to pray in his name (Jn 14:13-14). The first Christian community is already aware that there is \"no other name under heaven given to men by which we must be saved\" (Acts 4:12). In the hymn of the letter to the Philippians, it is proclaimed: \"... God exalted him and gave him the name that is above every name, that at the name of Jesus every knee should bow, in heaven and on earth and under the earth\" (Phil 2:9-10).",
         "patronage": "",
         "main_shrine": "Church of the Gesù (Rome, Italy)"
     },
@@ -1841,13 +1841,13 @@
     },
     "StChristopherMagallanes_193": {
         "subject": "Saint Christopher Magallanes and companion martyrs",
-        "places": "Jalisco, Mexico",
-        "place_of_death": "Colotlán, Mexico",
-        "place_of_birth": "Totatiche, Mexico",
-        "place_of_burial": "Shrine of Saint Christopher Magallanes, Jalisco, Mexico",
+        "places": "Jalisco (Mexico)",
+        "place_of_death": "Colotlán (Mexico)",
+        "place_of_birth": "Totatiche (Mexico)",
+        "place_of_burial": "Shrine of Saint Cristóbal Magallanes (Jalisco, Mexico)",
         "notes": "Christopher (Totatiche, Mexico, July 30, 1869 - Colotlán, May 25, 1927) was a parish priest and missionary among the indigenous people. In the complex local situation - between the state's persecution of the Catholic Church and the consequent popular reactions, sometimes even violent - he testified with the sacrifice of his life to the primacy of the kingdom of God. His figure is linked to the memory of twenty-four other martyrs, priests and laymen, killed between 1915 and 1937.",
         "patronage": "",
-        "main_shrine": "Shrine of Saint Christopher Magallanes, Jalisco, Mexico"
+        "main_shrine": "Shrine of Saint Cristóbal Magallanes (Jalisco, Mexico)"
     },
     "StRitaCascia_194": {
         "subject": "Saint Rita of Cascia, religious",
@@ -1941,29 +1941,29 @@
     },
     "StAndrewKimTaegon_203": {
         "subject": "Saints Andrew Kim Taegon, priest, Paul Chong Hasang and companion martyrs",
-        "places": "Seoul, South Korea",
-        "place_of_death": "Saenamteo, Seoul, South Korea",
-        "place_of_birth": "Solmoi (Seoul), South Korea",
+        "places": "Seoul (South Korea)",
+        "place_of_death": "Saenamteo (Seoul, South Korea)",
+        "place_of_birth": "Solmoi (Seoul, South Korea)",
         "place_of_burial": "Myeongdong Cathedral",
         "notes": "Andrew (1821 - Seoul, South Korea, September 16, 1846) was the first priest of the Korean Church, for over half a century composed only of laypeople; among these was the catechist Paul, a victim, ten years earlier, of the persecution undertaken by the rulers for fear of foreign infiltrations in local cultural and religious traditions. The memory of Andrew and Paul is associated with another one hundred and one martyrs, including two European bishops, Lawrence Imbert and Simon Berneux. There were over ten thousand Christians who, at various times, throughout the 19th century, fertilized with their blood that young Church. It had arisen towards the end of the 18th century from a spontaneous encounter with Chinese Christianity, and then it also grew thanks to the arrival of some missionaries from the West, in the early decades of the 1800s. The bright story of the Korean Church and its martyrs thus constitutes a clear testimony of the hidden but effective action of the Holy Spirit, even in the most difficult conditions for the Christian community.",
         "patronage": "",
-        "main_shrine": "Saenamteo Martyrs Shrine, Seoul, South Korea"
+        "main_shrine": "Shrine of the Martyrs of Saenamteo (Seoul, South Korea)"
     },
     "StsLawrenceRuiz_204": {
         "subject": "Saints Lorenzo Ruiz and companion martyrs",
-        "places": "Manila, Philippines; Nagasaki (Japan)",
+        "places": "Manila (Philippines); Nagasaki (Japan)",
         "place_of_death": "Nagasaki (Japan)",
-        "place_of_birth": "Binondo (current Manila), Philippines",
+        "place_of_birth": "Binondo (present-day Manila, Philippines)",
         "place_of_burial": "Nishizaka Park (Nagasaki, Japan)",
         "notes": "Lawrence (Binondo, now Manila, Philippines, around 1600 - Nagasaki, Japan, September 29, 1637), a layman and family man, participated in the Dominican mission that reached Japan from the Philippines, where he was arrested and sentenced to a cruel death. The Christian faith, introduced in Japan by Saint Francis Xavier, was initially welcomed and favored by some local lords. After the political unification of the country, in the early 1600s, Christians began to be suspected of favoring the interests of foreign powers, especially Spain, which had taken possession of the Philippines. Along with Lawrence, we remember another fifteen martyrs - nine priests and six laymen, of various origins, all associated in different ways with the Dominican Order - who were killed between 1633 and 1637, on the same hill that had already seen, in 1597, the passion of the Japanese protomartyrs Paul Miki and companions.",
         "patronage": "",
-        "main_shrine": "Saint Philip's Church (Nishizaka Church, Nagasaki, Japan)"
+        "main_shrine": "Church of Saint Philip (Nishizaka Church, Nagasaki, Japan)"
     },
     "StAndrewDungLac_205": {
         "subject": "Saint Andrew Dung-Lac and companion martyrs",
-        "places": "Hanoi, Vietnam; Ha Nam, Vietnam",
-        "place_of_death": "Hanoi, Vietnam",
-        "place_of_birth": "Bac Ninh, Vietnam",
+        "places": "Hanoi (Vietnam); Hà Nam (Vietnam)",
+        "place_of_death": "Hanoi (Vietnam)",
+        "place_of_birth": "Bac Ninh (Vietnam)",
         "place_of_burial": "Parish Church of Lan Mat (Basilica of the Immaculate Conception, Ha Nam, Vietnam)",
         "notes": "Andrew Dung († Hanoi, Vietnam, December 21, 1839), son of extremely poor pagan parents, was sold as a child to a Catholic catechist; baptized and instructed in the faith, he became a catechist himself, then a priest. Arrested once as a Christian, then released, he tried to hide under the new surname Lac. Discovered and arrested again, he testified his faith until death. Along with him, another 116 martyrs are commemorated, including bishops, priests, and laypeople, most of whom were Vietnamese, victims of various persecutions between 1745 and 1862. The Church of Vietnam, which arose following the first announcement brought by the Jesuits at the beginning of the seventeenth century, had great development but encountered strong resistance from local cultures and religions, becoming the object of repeated waves of persecution, with an innumerable number of martyrs (estimated at 130,000).",
         "patronage": "",
@@ -1981,7 +1981,7 @@
     },
     "StGregoryNazianzen_207": {
         "subject": "Saint Gregory Nazianzus",
-        "places": "Cappadocia, Constantinople (Turkey), Rome (Italy)",
+        "places": "Cappadocia (Turkey); Constantinople (now Istanbul, Turkey); Rome (Italy)",
         "place_of_death": "Constantinople (current Istanbul, Turkey)",
         "place_of_birth": "Nazianzus, in present-day Turkey",
         "place_of_burial": "Basilica of Saint Peter; previously Church of Saint Mary of the Conception in Campo Marzio, Rome, where an arm remains",
@@ -2125,7 +2125,7 @@
         "place_of_death": "Hrodna (Belarus)",
         "place_of_birth": "Krakow",
         "place_of_burial": "Vilnius (Lithuania)",
-        "notes": "Casimir (Krakow, Poland, October 3, 1458 - Grodno, now Hrodna, Belarus, March 4, 1484), son of the King of Poland and Lithuania, educated in humanistic culture, chose a sober and chaste life dedicated to prayer and penance over the exercise of power.",
+        "notes": "Casimir (Krakow, Poland, October 3, 1458 - Grodno, now Hrodna, Belarus, March 4, 1484), son of the King of Poland and Lithuania, educated in humanistic culture, preferred a sober and chaste life dedicated to prayer and penance over the exercise of power. He was most likely canonized in 1521 by Pope Leo X or in 1522 by Pope Adrian VI, but the canonization was officially reconfirmed in 1602 by Pope Clement VIII, followed by a solemn ceremony in 1604, and in 1620 he was included in the General Roman Calendar.",
         "patronage": "",
         "main_shrine": "Cathedral of St. Casimir in Vilnius (Lithuania)"
     },
@@ -2202,7 +2202,7 @@
     "StFidelisSigmaringen_260": {
         "subject": "Saint Fidelis of Sigmaringen, priest and martyr",
         "places": "N/A",
-        "place_of_death": "Seewis in Prättigau, Switzerland",
+        "place_of_death": "Seewis im Prättigau (Switzerland)",
         "place_of_birth": "Sigmaringen (Germany)",
         "place_of_burial": "His head was taken to Feldkirch (currently in Austria), while the rest of the body was buried in the Cathedral of Chur (Switzerland), where his mortal remains still rest.",
         "notes": "Fidelis, whose name at birth was Marc (Sigmaringen, Germany, 1578 - Seewis im Prättigau, Switzerland, April 24, 1622), Capuchin, doctor in utroque iure, led the first mission promoted by the Congregation of propaganda fide, still in the process of being established, towards the territories in which the Protestant Reformation had spread. In the climate of strong internal tension in the Grisons, aggravated by international political pressures, the preaching of Catholic religious aroused violent reactions, in the face of which Fidelis bore witness to Christ until death.",
@@ -2255,7 +2255,7 @@
         "place_of_death": "Salerno (Italy)",
         "place_of_birth": "Sovana (Italy)",
         "place_of_burial": "Cathedral of Salerno (Italy)",
-        "notes": "Hildebrand (Sovana, Grosseto, 1025/1030 - Salerno, May 25, 1085), a monk, was called by Pope Leo IX to collaborate on the reform of the Church, and took on a leading role in the Roman curia. Elected pope (1073), he claimed the autonomy of spiritual power over temporal power and exercised constant care for the universal Church. After suffering violent opposition from Henry IV, king of Germany and emperor, he died in exile.",
+        "notes": "Hildebrand (Sovana, Grosseto, 1025/1030 - Salerno, May 25, 1085), a monk, was called by Pope Leo IX to collaborate on the reform of the Church and took on a leading role in the Roman curia. Elected pope (1073), he claimed the autonomy of spiritual power over temporal power and exercised constant concern for the universal Church. After suffering violent opposition from Henry IV, King of Germany and Emperor, he died in exile. He was canonized in 1606 by Pope Paul V, and his cult was reconfirmed in 1728 by Pope Benedict XIII.",
         "patronage": "",
         "main_shrine": "Cathedral of Salerno (Italy)"
     },
@@ -2274,10 +2274,10 @@
         "places": "Rome (Italy)",
         "place_of_death": "Rome (Italy)",
         "place_of_birth": "Florence (Italy)",
-        "place_of_burial": "Church of Santa Maria in Vallicella aka \"New Church\", Rome",
+        "place_of_burial": "Church of Santa Maria in Vallicella or \"New Church\" (Rome, Italy)",
         "notes": "Philip (Florence, July 21, 1515 - Rome, May 26, 1595), arrived in Rome at a young age, dedicated himself to the assistance of incurable patients and poor pilgrims. Ordained a priest, he was assiduous at the confessional and celebrated the Eucharist with intense devotion, until mystical transport. From periodic meetings with a group of his penitents - whom he entertained, with a joyful style, in spiritual dialogues and in recreational, cultural, charitable activities - the experience of the \"Oratory\" and the Congregation of priests bearing the same name, recognized by Gregory XIII on July 15, 1575, were born.",
         "patronage": "",
-        "main_shrine": "Chiesa Nuova (Rome, Italy)"
+        "main_shrine": "Church of Santa Maria in Vallicella or \"New Church\" (Rome, Italy)"
     },
     "StsCharlesLwanga_281": {
         "subject": "Saints Charles Lwanga and companions, martyrs",
@@ -2401,7 +2401,7 @@
     },
     "StLawrenceBrindisi_305": {
         "subject": "Saint Lawrence of Brindisi, priest and doctor",
-        "places": "Church of Saint Mary of the Angels, Brindisi (Italy); Lisbon (Portugal); Villafranca del Bierzo (Spain)",
+        "places": "Church of Saint Mary of the Angels (Brindisi, Italy); Lisbon (Portugal); Villafranca del Bierzo (Spain)",
         "place_of_death": "Lisbon (Portugal)",
         "place_of_birth": "Brindisi (Italy)",
         "place_of_burial": "Convent of the Annunciation (Villafranca del Bierzo, Spain)",
@@ -2675,7 +2675,7 @@
         "place_of_death": "Ilok, Croatia",
         "place_of_birth": "Capestrano, L'Aquila (Italy)",
         "place_of_burial": "Franciscan Church of Saint John of Capestrano in Ilok, Croatia",
-        "notes": "John (Capestrano, L'Aquila, June 24, 1386 - Ilok, Croatia, October 23, 1456) left administrative and political activity to become a Franciscan. He carried out an unceasing ministry of preaching in many European nations, often together with Saint Bernardino of Siena, and contributed to the organization of the Observant Friars Minor. He carried out inquisitorial activities, particularly against the most radical fringes of Franciscanism, and carried out political missions on behalf of the Holy See. In the last years of his life, he was committed to promoting a military expedition against the advance of the Turks, personally intervening to animate the resistance of Belgrade, until its liberation (July 1456).",
+        "notes": "John (Capestrano, L’Aquila, June 24, 1386 - Ilok, Croatia, October 23, 1456) left administrative and political activity to become a Franciscan. He carried out an incessant ministry of preaching in many European nations, often together with Saint Bernardino of Siena, and contributed to the organization of the Observant Friars Minor. He acted as an inquisitor, particularly against the more radical fringes of Franciscanism, and undertook political missions on behalf of the Holy See. In his later years, he was engaged in promoting a military expedition against the advancing Turks, personally intervening to inspire the resistance of Belgrade until its liberation (July 1456). His cult was confirmed by Pope Alexander VIII on October 16, 1690, and reconfirmed by Pope Benedict XIII with a bull on June 4, 1724.",
         "patronage": "",
         "main_shrine": "Franciscan Church of Saint John of Capestrano in Ilok, Croatia"
     },
@@ -2745,7 +2745,7 @@
         "place_of_death": "Helfta Monastery (Eisleben, Germany)",
         "place_of_birth": "Eisleben (Germany)",
         "place_of_burial": "The only existing relics, having escaped the destruction of his tomb during the Lutheran Reformation, are preserved in Santa Maria di Licodia, inside the simulacrum kept in the Mother Church.",
-        "notes": "Gertrude (January 6, 1256 - Eisleben, Germany, 1301/2), known as \"the Great\", was entrusted to the Helfta monastery as a child, where she spent her entire life. At the school of women with great spiritual experience, such as Matilda of Hackeborn and Matilda of Magdeburg, she nourished her inner life with the reading of the Bible and the Fathers. She wrote biblical commentaries in the vernacular so that even the simplest people could access the Holy Scriptures. In other works, in Latin, she collected prayers and meditations in which she sings of God's love for humanity.",
+        "notes": "Gertrude (January 6, 1256 - Eisleben, Germany, 1301/2), called \"the Great,\" was entrusted to the monastery of Helfta as a child, where she remained all her life. Under the guidance of women with great spiritual experience, such as Mechthild of Hackeborn and Mechthild of Magdeburg, she nourished her inner life with the reading of the Bible and the Fathers. She wrote biblical commentaries in the vernacular so that even the simplest people could access the Holy Scriptures. In other works, in Latin, she collected prayers and meditations in which she sings of God's love for humanity. Although she was never formally canonized, her liturgical office was approved in 1606; in 1677 her name was inscribed in the Roman Martyrology, and her feast was extended to the universal Church in 1738.",
         "patronage": "",
         "main_shrine": "Helfta Monastery (Eisleben, Germany)"
     },
@@ -2781,13 +2781,13 @@
     },
     "StPeterCanisius_396": {
         "subject": "Saint Peter Canisius, priest and doctor",
-        "places": "Fribourg, Switzerland",
-        "place_of_death": "Fribourg, Switzerland",
-        "place_of_birth": "Nijmegen, Netherlands",
-        "place_of_burial": "St. Michael's College, Fribourg, Switzerland",
+        "places": "Fribourg (Switzerland)",
+        "place_of_death": "Fribourg (Switzerland)",
+        "place_of_birth": "Nijmegen (Netherlands)",
+        "place_of_burial": "St. Michael's College (Fribourg, Switzerland)",
         "notes": "Peter Kanijs - Latinized as Canisius - (Nijmegen, Netherlands, May 8, 1521 - Fribourg, Switzerland, December 21, 1597), a Jesuit, was a key figure in the restoration of Catholicism in Germany, following the Protestant Reformation, with educational initiatives and catechism texts, especially for young people and ministry candidates. A reformer of universities and promoter of seminaries, he was also diligent in preaching among rural populations.",
         "patronage": "",
-        "main_shrine": "St. Michael's College, Fribourg, Switzerland"
+        "main_shrine": "College of Saint Michael (Fribourg, Switzerland)"
     },
     "StJohnKanty_397": {
         "subject": "John of Kęty, priest",
@@ -2831,13 +2831,13 @@
     },
     "StChristopherMagallanes_408": {
         "subject": "Saint Christopher Magallanes and companion martyrs",
-        "places": "Jalisco, Mexico",
-        "place_of_death": "Colotlán, Mexico",
-        "place_of_birth": "Totatiche, Mexico",
-        "place_of_burial": "Shrine of Saint Christopher Magallanes, Jalisco, Mexico",
+        "places": "Jalisco (Mexico)",
+        "place_of_death": "Colotlán (Mexico)",
+        "place_of_birth": "Totatiche (Mexico)",
+        "place_of_burial": "Shrine of Saint Cristóbal Magallanes (Jalisco, Mexico)",
         "notes": "Christopher (Totatiche, Mexico, July 30, 1869 - Colotlán, May 25, 1927) was a parish priest and missionary among the indigenous people. In the complex local situation - between the state's persecution of the Catholic Church and the consequent popular reactions, sometimes even violent - he testified with the sacrifice of his life to the primacy of the kingdom of God. His figure is linked to the memory of twenty-four other martyrs, priests and laymen, killed between 1915 and 1937.",
         "patronage": "",
-        "main_shrine": "Shrine of Saint Christopher Magallanes, Jalisco, Mexico"
+        "main_shrine": "Shrine of Saint Cristóbal Magallanes (Jalisco, Mexico)"
     },
     "StRitaCascia_409": {
         "subject": "Saint Rita of Cascia, religious",
@@ -2911,29 +2911,29 @@
     },
     "StAndrewKimTaegon_418": {
         "subject": "Saints Andrew Kim Taegon, priest, Paul Chong Hasang and companion martyrs",
-        "places": "Seoul, South Korea",
-        "place_of_death": "Saenamteo, Seoul, South Korea",
-        "place_of_birth": "Solmoi (Seoul), South Korea",
-        "place_of_burial": "Myeongdong Cathedral",
+        "places": "Seoul (South Korea)",
+        "place_of_death": "Saenamteo (Seoul, South Korea)",
+        "place_of_birth": "Solmoi (Seoul, South Korea)",
+        "place_of_burial": "Myeongdong Cathedral (Seoul, South Korea)",
         "notes": "Andrew (1821 - Seoul, South Korea, September 16, 1846) was the first priest of the Korean Church, for over half a century composed only of laypeople; among these was the catechist Paul, a victim, ten years earlier, of the persecution undertaken by the rulers for fear of foreign infiltrations in local cultural and religious traditions. The memory of Andrew and Paul is associated with another one hundred and one martyrs, including two European bishops, Lawrence Imbert and Simon Berneux. There were over ten thousand Christians who, at various times, throughout the 19th century, fertilized with their blood that young Church. It had arisen towards the end of the 18th century from a spontaneous encounter with Chinese Christianity, and then it also grew thanks to the arrival of some missionaries from the West, in the early decades of the 1800s. The bright story of the Korean Church and its martyrs thus constitutes a clear testimony of the hidden but effective action of the Holy Spirit, even in the most difficult conditions for the Christian community.",
         "patronage": "",
-        "main_shrine": "Saenamteo Martyrs Shrine, Seoul, South Korea"
+        "main_shrine": "Shrines of the Martyrs of Saenamteo (Seoul, South Korea)"
     },
     "StsLawrenceRuiz_419": {
         "subject": "Saints Lawrence Ruiz and companion martyrs",
-        "places": "Manila, Philippines; Nagasaki (Japan)",
+        "places": "Manila (Philippines); Nagasaki (Japan)",
         "place_of_death": "Nagasaki (Japan)",
-        "place_of_birth": "Binondo (current Manila), Philippines",
-        "place_of_burial": "Nishizaka Park, Nagasaki (Japan)",
+        "place_of_birth": "Binondo (current Manila, Philippines)",
+        "place_of_burial": "Nishizaka Park (Nagasaki, Japan)",
         "notes": "Lorenzo (Binondo, present-day Manila, Philippines, around 1600 - Nagasaki (Japan), September 29, 1637), layman and father of a family, participated in the Dominican mission that traveled from the Philippines to Japan, where he was arrested and condemned to a cruel death. The Christian faith, introduced in Japan by Saint Francis Xavier, was initially welcomed and supported by some local lords. After the political unification of the country in the early 1600s, Christians began to be suspected of favoring the interests of foreign powers, especially Spain, which had taken possession of the Philippines. Along with Lorenzo, fifteen other martyrs are remembered – nine priests and six laypeople, from various backgrounds, all associated in different ways with the Dominican Order – who were killed between 1633 and 1637, on the same hill that had already witnessed the passion of the Japanese protomartyrs Paul Miki and companions in 1597.",
         "patronage": "",
-        "main_shrine": "Saint Philip's Church (Nishizaka Church), Nagasaki (Japan)"
+        "main_shrine": "Church of Saint Philip (Nishizaka Church, Nagasaki, Japan)"
     },
     "StAndrewDungLac_420": {
         "subject": "Saint Andrew Dung-Lac and companion martyrs",
-        "places": "Hanoi, Vietnam; Ha Nam, Vietnam",
-        "place_of_death": "Hanoi, Vietnam",
-        "place_of_birth": "Bac Ninh, Vietnam",
+        "places": "Hanoi (Vietnam); Hà Nam (Vietnam)",
+        "place_of_death": "Hanoi (Vietnam)",
+        "place_of_birth": "Bac Ninh (Vietnam)",
         "place_of_burial": "Parish Church of Lan Mat (Basilica of the Immaculate Conception, Ha Nam, Vietnam)",
         "notes": "Andrew Dung († Hanoi, Vietnam, December 21, 1839), son of extremely poor pagan parents, was sold as a child to a Catholic catechist; baptized and instructed in the faith, he became a catechist himself, then a priest. Arrested once as a Christian, then released, he tried to hide under the new surname Lac. Discovered and arrested again, he testified his faith until death. Along with him, another 116 martyrs are commemorated, including bishops, priests, and laypeople, most of whom were Vietnamese, victims of various persecutions between 1745 and 1862. The Church of Vietnam, which arose following the first announcement brought by the Jesuits at the beginning of the seventeenth century, had great development but encountered strong resistance from local cultures and religions, becoming the object of repeated waves of persecution, with an innumerable number of martyrs (estimated at 130,000).",
         "patronage": "",
@@ -2944,10 +2944,10 @@
         "places": "N/A",
         "place_of_death": "Lyon (France)",
         "place_of_birth": "Sales (France)",
-        "place_of_burial": "Basilica of the Visitation, Annecy (France)",
+        "place_of_burial": "Basilica of the Visitation (Annecy, France)",
         "notes": "Francis (Sales, France, 1567 - Lyon, December 28, 1622), bishop of Geneva (Switzerland) with his seat in Annecy (France), thanks to his human kindness and pastoral wisdom, favored the unity of the Church in a territory characterized by strong contrasts between Catholics and Calvinists. With the Introduction to the Devout Life and other ascetic-mystical works, he proposed a path of holiness accessible in all conditions of life, as it is entirely based on the love of God, compendium of all perfection. With Saint Jane Frances Frémyot de Chantal, he founded the female Order of the Visitation. The day of liturgical memory corresponds to that of his burial in Annecy. Along with Saint Francis of Sales, Saint Jane Frances Frémiot de Chantal is also buried in the same Visitation church in Annecy.",
         "patronage": "",
-        "main_shrine": "Basilica of the Visitation, Annecy (France)"
+        "main_shrine": "Basilica of the Visitation (Annecy, France)"
     },
     "StCatherineSiena_486": {
         "subject": "Saint Catherine of Siena, virgin and doctor of the Church",
@@ -2961,19 +2961,19 @@
     },
     "StAnthonyPadua_489": {
         "subject": "Saint Anthony of Padua, priest and doctor",
-        "places": "Lisbon (Portugal); Hermitage of Montepaolo, Forli'; Rimini; Padua",
+        "places": "Lisbon (Portugal); Hermitage of Montepaolo (Forlì, Italy); Rimini (Italy); Padua (Italy)",
         "place_of_death": "Padua (Italy)",
         "place_of_birth": "Lisbon (Portugal)",
-        "place_of_burial": "Basilica of Saint Anthony, Padua (Italy)",
+        "place_of_burial": "Basilica of Saint Anthony (Padua, Italy)",
         "notes": "Anthony, whose birth name was Ferdinand (Lisbon, Portugal, 1190/1195 approx. - Padua, June 13, 1231), after an intense ascetic life with the Augustinian Canons Regular of Coimbra, joined the Friars Minor with the desire, unfulfilled due to illness, to go on mission in Morocco. He was the first Franciscan to teach theology, with the consent of Saint Francis himself. Of great biblical culture and effective preacher of the Gospel, he exercised his ministry in northern Italy and southern France, causing numerous conversions. He ended his life in Padua, where he contributed to the city's pacification: there his mortal remains remained, the object of widespread veneration.",
         "patronage": "",
-        "main_shrine": "Basilica of Saint Anthony, Padua (Italy)"
+        "main_shrine": "Basilica of Saint Anthony (Padua, Italy)"
     },
     "StBonaventure_491": {
         "subject": "Saint Bonaventure, bishop and doctor",
         "places": "Lyon (France); Bagnoregio (Italy)",
         "place_of_death": "Lyon (France)",
-        "place_of_birth": "Civita di Bagnoregio, Viterbo",
+        "place_of_birth": "Civita di Bagnoregio (Viterbo, Italy)",
         "place_of_burial": "http://www.doctorseraphicus.it/images/annate/1958_67-81_Petrangeli_Papini.pdf",
         "notes": "Bonaventure (Civita di Bagnoregio, Viterbo, around 1217 - Lyon, France, July 15, 1274), joined the Order of Friars Minor and studied in Paris. A theologian, he dedicated himself to teaching, producing works of wisdom, including the Journey of the Mind to God. As general minister, he ordered the previous legislation by promulgating new Constitutions (Narbonne, 1260) and, with his hagiographic work (Legenda maior and Legenda minor, the latter written for the liturgical office), proposed a unified vision of the figure of Saint Francis. Bishop of Albano and cardinal, he participated in the Second Council of Lyon during which, suddenly, he passed from the earthly Church to the heavenly assembly.",
         "patronage": "",
@@ -2981,7 +2981,7 @@
     },
     "StLawrenceBrindisi_492": {
         "subject": "Saint Lawrence of Brindisi, priest and doctor",
-        "places": "Church of Saint Mary of the Angels, Brindisi (Italy); Lisbon (Portugal); Villafranca del Bierzo (Spain)",
+        "places": "Church of Saint Mary of the Angels (Brindisi, Italy); Lisbon (Portugal); Villafranca del Bierzo (Spain)",
         "place_of_death": "Lisbon (Portugal)",
         "place_of_birth": "Brindisi (Italy)",
         "place_of_burial": "Convent of the Annunciation (Villafranca del Bierzo, Spain)",
@@ -2991,13 +2991,13 @@
     },
     "StAlphonsusMariaDeLiguori_494": {
         "subject": "Saint Alphonsus Maria de Liguori, bishop and doctor",
-        "places": "Marianella, Naples; Pagani, Salerno",
+        "places": "Marianella (Naples, Italy); Pagani (Salerno, Italy)",
         "place_of_death": "Pagani (Salerno, Italy)",
         "place_of_birth": "Marianella (Naples, Italy)",
         "place_of_burial": "Pontifical Basilica of Saint Alphonsus Maria de' Liguori, Pagani",
         "notes": "Alphonse (Marianella, Naples, September 27, 1696 - Pagani, Salerno, August 1, 1787), drawn to the Oratory of Saint Philip Neri and the care of the incurably ill in his youth, left his legal profession and was ordained a priest. He preached in a simple style in the poorest neighborhoods of Naples and in rural communities, promoting devotions rich in religious sentiment. To increase missions to the people, he founded the Congregation of the Most Holy Redeemer (Redemptorists). As the bishop of Saint Agatha of the Goths (Benevento), he dedicated himself particularly to the training of the clergy. With his numerous writings and songs of sweet popular melody, he nourished the spirituality of the faithful and contributed to a balanced theological-moral preparation of confessors.",
         "patronage": "",
-        "main_shrine": "Pontifical Basilica of Saint Alphonsus Maria de' Liguori, Pagani"
+        "main_shrine": "Pontifical Basilica of Saint Alphonsus Maria de' Liguori (Pagani, Italy)"
     },
     "StBernardClairvaux_495": {
         "subject": "Saint Bernard of Clairvaux, abbot and doctor of the Church",
@@ -3013,11 +3013,11 @@
         "subject": "Saint Robert Bellarmine, bishop and doctor",
         "places": "N/A",
         "place_of_death": "Rome (Italy)",
-        "place_of_birth": "Montepulciano, Siena (Italy)",
-        "place_of_burial": "Church of Saint Ignatius, Rome (Italy)",
+        "place_of_birth": "Montepulciano (Siena, Italy)",
+        "place_of_burial": "Church of Saint Ignatius (Rome, Italy)",
         "notes": "Robert (Montepulciano, Siena, October 4, 1542 - Rome, September 17, 1621), a Jesuit, used his considerable theological expertise in complex doctrinal controversies (Disputations on the controversies of the Christian faith), as well as in the drafting of a popular catechism. Cardinal and Archbishop of Capua, he gave exemplary application to the Council of Trent, until the heavy Roman commitments led him to leave the diocese to devote himself entirely to the service of the universal Church.",
         "patronage": "",
-        "main_shrine": "Church of Saint Ignatius, Rome (Italy)"
+        "main_shrine": "Church of Saint Ignatius (Rome, Italy)"
     },
     "StTeresaJesus_499": {
         "subject": "Saint Teresa of Avila, virgin and doctor",
@@ -3051,17 +3051,17 @@
     },
     "StPeterCanisius_504": {
         "subject": "Saint Peter Canisius, priest and doctor",
-        "places": "Fribourg, Switzerland",
-        "place_of_death": "Fribourg, Switzerland",
-        "place_of_birth": "Nijmegen, Netherlands",
-        "place_of_burial": "St. Michael's College, Fribourg, Switzerland",
+        "places": "Fribourg (Switzerland)",
+        "place_of_death": "Fribourg (Switzerland)",
+        "place_of_birth": "Nijmegen (Netherlands)",
+        "place_of_burial": "College of Saint Michael (Fribourg, Switzerland)",
         "notes": "Peter Kanijs - Latinized as Canisius - (Nijmegen, Netherlands, May 8, 1521 - Fribourg, Switzerland, December 21, 1597), a Jesuit, was a key figure in the restoration of Catholicism in Germany, following the Protestant Reformation, with educational initiatives and catechism texts, especially for young people and ministry candidates. A reformer of universities and promoter of seminaries, he was also diligent in preaching among rural populations.",
         "patronage": "",
-        "main_shrine": "St. Michael's College, Fribourg, Switzerland"
+        "main_shrine": "College of Saint Michael (Fribourg, Switzerland)"
     },
     "StPaulVI_544": {
         "subject": "Pope Saint Paul VI",
-        "places": "Concesio, Milan, Rome",
+        "places": "Concesio (Italy); Milan (Italy); Rome (Italy)",
         "place_of_death": "Rome (Italy)",
         "place_of_birth": "Concesio (Italy)",
         "place_of_burial": "Basilica of Saint Peter in the Vatican",
@@ -3071,7 +3071,7 @@
     },
     "StPaulVI_545": {
         "subject": "Pope Saint Paul VI",
-        "places": "Concesio, Milan, Rome",
+        "places": "Concesio (Italy); Milan (Italy); Rome (Italy)",
         "place_of_death": "Rome (Italy)",
         "place_of_birth": "Concesio (Italy)",
         "place_of_burial": "Basilica of Saint Peter in the Vatican",
@@ -3092,16 +3092,16 @@
     "StPioPietrelcina_547": {
         "subject": "Saint Pio of Pietrelcina (Padre Pio), priest",
         "places": "Pietrelcina (Italy); San Giovanni Rotondo (Italy)",
-        "place_of_death": "San Giovanni Rotondo, Foggia (Italy)",
-        "place_of_birth": "Pietrelcina, Benevento (Italy)",
+        "place_of_death": "San Giovanni Rotondo (Foggia, Italy)",
+        "place_of_birth": "Pietrelcina (Benevento, Italy)",
         "place_of_burial": "San Giovanni Rotondo (Italy)",
         "notes": "Pio, born Francesco Forgione (Pietrelcina, Benevento, May 25, 1887 - San Giovanni Rotondo, Foggia, September 23, 1968), a Capuchin and priest, lived his ministry in the convent of San Giovanni Rotondo. Here he guided many people to meet God in the sacraments of Reconciliation and the Eucharist. He was an enlightened spiritual father for many faithful. With the \"Home for the Relief of Suffering\" he wanted to offer help and comfort to the sick. His intimate adherence to Christ crucified also found expression in the external sign of the stigmata.",
         "patronage": "",
-        "main_shrine": "Shrine of Saint Pio of Pietrelcina, San Giovanni Rotondo (Italy)"
+        "main_shrine": "Shrine of Saint Pio of Pietrelcina (San Giovanni Rotondo, Italy)"
     },
     "StJohnXXIII_548": {
         "subject": "Pope Saint John XXIII",
-        "places": "Sotto il Monte, Bergamo (Italy); Rome (Italy)",
+        "places": "Sotto il Monte (Bergamo, Italy); Rome (Italy)",
         "place_of_death": "Rome (Italy)",
         "place_of_birth": "Sotto il Monte (Bergamo, Italy)",
         "place_of_burial": "Basilica of Saint Peter in the Vatican",
@@ -3111,7 +3111,7 @@
     },
     "StJohnXXIII_549": {
         "subject": "Pope Saint John XXIII",
-        "places": "Sotto il Monte, Bergamo (Italy); Rome (Italy)",
+        "places": "Sotto il Monte (Bergamo, Italy); Rome (Italy)",
         "place_of_death": "Rome (Italy)",
         "place_of_birth": "Sotto il Monte (Bergamo, Italy)",
         "place_of_burial": "Basilica of Saint Peter in the Vatican",
@@ -3127,7 +3127,7 @@
         "place_of_burial": "St. Peter's Basilica in the Vatican",
         "notes": "Karol Józef Wojtyla (Wadowice, Poland, May 18, 1920 - Rome, April 2, 2005), was ordained a priest on November 1, 1946. A professor of moral theology (Lublin), he was elected auxiliary and later archbishop of Krakow (1964) during the years of harsh repression of the communist regime. He participated in the Second Vatican Council. Elected pope (1978) after the brief pontificate of John Paul I, he assumed the double name. He countered the growing secularization with the centrality of Christ by relaunching the mission of the Church, both with numerous apostolic journeys around the world, and with the proclamation of countless witnesses of faith as blessed or saints. He promoted ecumenical dialogue and developed interreligious dialogue. With the Great Jubilee of the year 2000, he introduced the Church into the third millennium of its history.",
         "patronage": "",
-        "main_shrine": "St. Peter's Basilica in the Vatican; Shrine of St. John Paul II, Krakow"
+        "main_shrine": "Saint Peter's Basilica in the Vatican; Shrine of Saint John Paul II (Krakow, Poland)"
     },
     "StJohnPaulII_551": {
         "subject": "Saint John Paul II, Pope",
@@ -3137,27 +3137,27 @@
         "place_of_burial": "St. Peter's Basilica in the Vatican",
         "notes": "Karol Józef Wojtyla (Wadowice, Poland, May 18, 1920 - Rome, April 2, 2005), was ordained a priest on November 1, 1946. A professor of moral theology (Lublin), he was elected auxiliary and later archbishop of Krakow (1964) during the years of harsh repression of the communist regime. He participated in the Second Vatican Council. Elected pope (1978) after the brief pontificate of John Paul I, he assumed the double name. He countered the growing secularization with the centrality of Christ by relaunching the mission of the Church, both with numerous apostolic journeys around the world, and with the proclamation of countless witnesses of faith as blessed or saints. He promoted ecumenical dialogue and developed interreligious dialogue. With the Great Jubilee of the year 2000, he introduced the Church into the third millennium of its history.",
         "patronage": "",
-        "main_shrine": "St. Peter's Basilica in the Vatican; Shrine of St. John Paul II, Krakow"
+        "main_shrine": "Saint Peter's Basilica in the Vatican; Shrine of Saint John Paul II (Krakow, Poland)"
     },
     "JuanDiego_552": {
         "subject": "Saint John Diego Cuauhtlatoatzin",
-        "places": "Mexico City, Mexico",
-        "place_of_death": "Mexico City, Mexico",
-        "place_of_birth": "Cuautitlán, Mexico",
-        "place_of_burial": "Basilica of Our Lady of Guadalupe, Mexico City, Mexico",
+        "places": "Mexico City (Mexico)",
+        "place_of_death": "Mexico City (Mexico)",
+        "place_of_birth": "Cuautitlán (Mexico)",
+        "place_of_burial": "Basilica of Our Lady of Guadalupe (Mexico City, Mexico)",
         "notes": "John Diego (Cuautitlán, Mexico, 1474 - Mexico City 1548) was, with his wife, among the first Indians to receive Baptism upon the arrival of the Franciscan missionaries. After becoming a widower, he intensified his spiritual life. On December 9, 1531, on the hill of Tepeyac (now in Mexico City), he had a vision of the Virgin. In obedience to the Morenita, a first chapel was erected near which the seer remained, dedicating himself to the care of the church and the reception of the numerous pilgrims who began to flock to that place.",
         "patronage": "",
-        "main_shrine": "Basilica of Our Lady of Guadalupe, Mexico City, Mexico"
+        "main_shrine": "Basilica of Our Lady of Guadalupe (Mexico City, Mexico)"
     },
     "JuanDiego_553": {
         "subject": "Saint John Diego Cuauhtlatoatzin",
-        "places": "Mexico City, Mexico",
-        "place_of_death": "Mexico City, Mexico",
-        "place_of_birth": "Cuautitlán, Mexico",
-        "place_of_burial": "Basilica of Our Lady of Guadalupe, Mexico City, Mexico",
+        "places": "Mexico City (Mexico)",
+        "place_of_death": "Mexico City (Mexico)",
+        "place_of_birth": "Cuautitlán (Mexico)",
+        "place_of_burial": "Basilica of Our Lady of Guadalupe (Mexico City, Mexico)",
         "notes": "John Diego (Cuautitlán, Mexico, 1474 - Mexico City 1548) was, with his wife, among the first Indians to receive Baptism upon the arrival of the Franciscan missionaries. After becoming a widower, he intensified his spiritual life. On December 9, 1531, on the hill of Tepeyac (now in Mexico City), he had a vision of the Virgin. In obedience to the Morenita, a first chapel was erected near which the seer remained, dedicating himself to the care of the church and the reception of the numerous pilgrims who began to flock to that place.",
         "patronage": "",
-        "main_shrine": "Basilica of Our Lady of Guadalupe, Mexico City, Mexico"
+        "main_shrine": "Basilica of Saint Mark (Venice, Italy); Saint Mark's Cathedral (Cairo, Egypt)"
     },
     "LadyLoreto_554": {
         "subject": "Blessed Virgin Mary of Loreto",
@@ -3174,20 +3174,20 @@
         "places": "Krakow (Poland)",
         "place_of_death": "Krakow (Poland)",
         "place_of_birth": "Głogowiec (Poland)",
-        "place_of_burial": "Shrine of Divine Mercy in Krakow (Poland)",
+        "place_of_burial": "Shrine of Divine Mercy (Krakow, Poland)",
         "notes": "Born in the village of Głogowiec, near Łódź, in Poland in 1905, and died in Krakow in 1938, Saint Faustina spent her young life among the Sisters of the Blessed Virgin Mary of Mercy, generously conforming to the vocation she received from God and developing an intense spiritual life, rich in mystical gifts and faithful correspondence to them. The story of what the Lord has done in her for the benefit of all, she herself described it in the Diary of her soul, a shrine of encounter with the Lord Jesus: listening to Him who is Love and Mercy, she understood that no human misery can measure up to the mercy that flows inexhaustibly from the heart of Christ. She therefore became the inspirer of a movement aimed at proclaiming and imploring divine mercy for the whole world. Canonized in the year 2000 by Saint John Paul II, the name of Saint Faustina quickly became known throughout the world, promoting in all components of the people of God, Pastors and faithful laity, the invocation of divine mercy and its credible testimony in the conduct of life of believers.",
         "patronage": "",
-        "main_shrine": "Shrine of Divine Mercy in Krakow (Poland)"
+        "main_shrine": "Shrine of Divine Mercy (Krakow, Poland)"
     },
     "StFaustinaKowalska_558": {
         "subject": "Saint Faustina Kowalska",
         "places": "Krakow (Poland)",
         "place_of_death": "Krakow (Poland)",
         "place_of_birth": "Głogowiec (Poland)",
-        "place_of_burial": "Shrine of Divine Mercy in Krakow (Poland)",
+        "place_of_burial": "Shrine of Divine Mercy (Krakow, Poland)",
         "notes": "Born in the village of Głogowiec, near Łódź, in Poland in 1905, and died in Krakow in 1938, Saint Faustina spent her young life among the Sisters of the Blessed Virgin Mary of Mercy, generously conforming to the vocation she received from God and developing an intense spiritual life, rich in mystical gifts and faithful correspondence to them. The story of what the Lord has done in her for the benefit of all, she herself described it in the Diary of her soul, a shrine of encounter with the Lord Jesus: listening to Him who is Love and Mercy, she understood that no human misery can measure up to the mercy that flows inexhaustibly from the heart of Christ. She therefore became the inspirer of a movement aimed at proclaiming and imploring divine mercy for the whole world. Canonized in the year 2000 by Saint John Paul II, the name of Saint Faustina quickly became known throughout the world, promoting in all components of the people of God, Pastors and faithful laity, the invocation of divine mercy and its credible testimony in the conduct of life of believers.",
         "patronage": "",
-        "main_shrine": "Shrine of Divine Mercy in Krakow (Poland)"
+        "main_shrine": "Shrine of Divine Mercy (Krakow, Poland)"
     },
     "StGregoryNarek_559": {
         "subject": "Saint Gregory of Narek",
@@ -3291,9 +3291,9 @@
     },
     "StAugustineHippo_569": {
         "subject": "Saint Augustine of Hippo, bishop and doctor of the Church",
-        "places": "Souk Ahras, Annaba (Algeria); Rome; buried in the Basilica of Saint Peter in Ciel d'Oro (Pavia, Italy)",
-        "place_of_death": "Hippo, Annaba, Algeria",
-        "place_of_birth": "Tagaste (currently Souk Ahras, Algeria)",
+        "places": "Tagaste (current Souk Ahras, Algeria); Hippo (current Annaba, Algeria); Ostia Antica (Rome, Italy); Rome (Italy); Milan (Italy); Cassago Brianza (Italy); Pavia (Italy)",
+        "place_of_death": "Hippo (current Annaba, Algeria)",
+        "place_of_birth": "Tagaste (current Souk Ahras, Algeria)",
         "place_of_burial": "Basilica of Saint Peter \"in Ciel d'Oro\" (Pavia, Italy)",
         "notes": "Augustine (Tagaste, now Souk Ahras, Algeria, November 13, 354 - Hippo, now Annaba, August 28, 430), of a pagan father and Christian mother, was introduced to literary studies. After a period of youthful disorientation, he began a passionate search for truth, adhering to a Manichean form of Christianity. A professor of rhetoric in Milan, he met Saint Ambrose, whose preaching he listened to and from whom he received Baptism. Returning to Africa and elected bishop of Hippo, he lived with his own clergy in a monastic-type community; the rule he composed will become a reference text for many institutes of consecrated life in the West. To the exercise of the ministry, particularly preaching, he combined a constant commitment to deepening and defending the faith, producing a corpus of works of such breadth and depth as to constitute one of the most fruitful legacies of the ancient Christian tradition. His mortal remains are most likely deposited in the cathedral known as \"Basilica Pacis\" and jealously guarded by the Christians of Hippo as Possidius, his first biographer, tells in the life he lovingly wrote and of which we currently (since 1955) have a critical edition, due to the professor of Christian literature, today Card. Michael Pilgrim (Augustine Trapè, Bibliotheca Sanctorum, vol. 1, col. 433). Later, the body of St. Augustine was transferred from Hippo to Sardinia and from Sardinia to Pavia, where it still rests. So even the bones of the Holy Bishop have had their ordeal! These two transfers are very certain and differently documented, by various authors. It is more difficult to document the two relative dates and the particular circumstances.",
         "patronage": "",
@@ -3301,17 +3301,17 @@
     },
     "StJerome_570": {
         "subject": "Saint Jerome, priest and doctor",
-        "places": "Rome (Italy); Bethlehem, Palestine",
-        "place_of_death": "Bethlehem, Palestine",
-        "place_of_birth": "Stridon, ancient Dalmatia",
+        "places": "Rome (Italy); Bethlehem (Palestine)",
+        "place_of_death": "Bethlehem (Palestine)",
+        "place_of_birth": "Stridon (ancient Dalmatia)",
         "place_of_burial": "Basilica of Saint Mary Major, urn under the main altar",
         "notes": "Jerome (Stridon, ancient Dalmatia, around 347 - Bethlehem, Palestine, September 30, 420), endowed with vast culture, after a period of hermit life in the East, became a collaborator of Pope Damasus in Rome. He then settled in Bethlehem, dedicating himself to prayer, penance and the guidance of ascetic life circles. In addition to composing scholarly writings and biblical commentaries, he undertook the grandiose work of revising the translation of the Bible into Latin. The texts he prepared, which flowed into the Vulgate, became an essential part of the liturgical, theological and legal tradition of the Western Church. He is remembered on September 30 in the Hieronymian Martyrology (5th-6th century).",
         "patronage": "",
-        "main_shrine": "Church of Saint Catherine, Bethlehem"
+        "main_shrine": "Church of Saint Catherine (Bethlehem, Palestine)"
     },
     "StGregoryGreat_571": {
         "subject": "Saint Gregory the Great, pope and doctor",
-        "places": "Rome",
+        "places": "Rome (Italy)",
         "place_of_death": "Rome (Italy)",
         "place_of_birth": "Rome (Italy)",
         "place_of_burial": "Basilica of Saint Peter in the Vatican",
@@ -3341,7 +3341,7 @@
     },
     "StGregoryNazianzen_574": {
         "subject": "Saint Gregory Nazianzus",
-        "places": "Cappadocia (Turkey); Constantinople (Turkey); Rome (Italy)",
+        "places": "Cappadocia (Turkey); Constantinople (now Istanbul, Turkey); Rome (Italy)",
         "place_of_death": "Constantinople (current Istanbul, Turkey)",
         "place_of_birth": "Nazianzus, in present-day Turkey",
         "place_of_burial": "Basilica of Saint Peter; previously Church of Saint Mary of the Conception in Campo Marzio, Rome, where an arm remains",
@@ -3394,7 +3394,7 @@
         "places": "France",
         "place_of_death": "Poitiers (France)",
         "place_of_birth": "Poitiers (France)",
-        "place_of_burial": "Church of Saint-Hilaire le Grand, Poitiers (UNESCO World Heritage)",
+        "place_of_burial": "Church of Saint Hilary the Great (Poitiers, France) (UNESCO heritage)",
         "notes": "Hilary (Poitiers, France, 310/320 - 367/368), bishop of his hometown, defended faith in the full divinity of the Son, affirmed by the Council of Nicaea, with high-profile writings (including above all the treatise De Trinitate). (325) against the Arius heresy. For his firm opposition to the pro-Arian orientations of the imperial court he was persecuted and exiled. He is mentioned in the Geronian Martyrology (5th-6th century) on 13 January. The church of Saint-Hilaire le Grand is a Catholic church in Poitiers, in the Vienne department, dedicated to Saint Hilary of Poitiers. In 1840 it was declared a Historical Monument of France and since 1998 it has also been classified as a World Heritage Site by UNESCO, as a stop on the Camino de Santiago de Compostela along the Via Turonensis.",
         "patronage": "",
         "main_shrine": "N/A"
@@ -3451,13 +3451,13 @@
     },
     "Guadalupe_555": {
         "subject": "Blessed Virgin Mary of Guadalupe",
-        "places": "Mexico City, Mexico",
+        "places": "Mexico City (Mexico)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "On December 9, 1531, John Diego, an Aztec Indian among the first converts to Christianity at the start of the Spanish conquest of Mexico, arrived at the foot of the hill of Tepeyac (now in Mexico City). Here he had the vision of a \"beautiful Lady\", who introduced herself as \"the holy Virgin Mary, Mother of the true God\" and asked that a church be erected in that place, promising to show everyone her love and her help. Faced with the bishop's resistance, the Morenita on December 12 imprinted her image on Juan Diego's tilma. Convinced by this miraculous sign, the bishop erected a first shrine (1553), called \"of Guadalupe\" like the one already existing in Spain from the 14th century. The building was repeatedly expanded to accommodate the ever-increasing number of pilgrims, attracted by the miraculous image. The Madonna of Guadalupe has been recognized by the Churches of that continent as the \"great missionary who brought the Gospel to our America\" (Aparecida Document, 269).",
         "patronage": "",
-        "main_shrine": "Basilica of Our Lady of Guadalupe, Mexico City, Mexico"
+        "main_shrine": "Basilica of Saint Mark (Venice, Italy); Saint Mark's Cathedral (Cairo, Egypt)"
     },
     "LadyLourdes_585": {
         "subject": "Blessed Virgin Mary of Lourdes",
@@ -3550,7 +3550,7 @@
         "main_shrine": "Catacombs of Callixtus (Rome, Italy)"
     },
     "SantaMariaInPortico_594": {
-        "subject": "Santa Maria in Portico",
+        "subject": "Saint Mary in Portico (Rome, Italy)",
         "places": "Rome (Italy)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
@@ -3690,23 +3690,23 @@
         "main_shrine": "Church of Saint Mary of Zeitoun (Cairo, Egypt)"
     },
     "StMarkEvangelist_608": {
-        "subject": "",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
-        "notes": "",
+        "subject": "Saint Mark the Evangelist",
+        "places": "Venice (Italy); Alexandria (Egypt); Cairo (Egypt); Rome (Italy)",
+        "place_of_death": "Alexandria (Egypt)",
+        "place_of_birth": "Palestine or Cyprus",
+        "place_of_burial": "Initially, his remains were venerated in a church in Alexandria built on the site of the oldest mausoleum of Alexander the Great. In the 7th century, his remains were brought to Venice. The Cathedral of Saint Mark in Cairo preserves some relics transported from the Basilica of Saint Mark in Venice.",
+        "notes": "John, called Mark, is the son of Mary of Jerusalem, in whose house the Christian community gathers and where Peter finds refuge after being freed from prison (cf. Acts 12:12). A cousin of Barnabas, he collaborates with Paul on the first missionary journey, up to Pamphylia, where he separates from him (cf. Acts 12:25; 15:37-38). A beloved disciple of Peter – who calls him \"my son\" (1 Pt 5:13) – he appears again alongside Paul in Rome (cf. Phm 24; Col 4:10). Tradition attributes to Mark the Gospel that bears his name and echoes the preaching of the apostle Peter. In it, Jesus is presented as the \"Christ, the Son of God\" (Mk 1:1) and it proclaims that the Crucified One has risen (cf. Mk 16:6). His feast is celebrated on April 25th by both Copts and Byzantines.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Basilica of Saint Mark (Venice, Italy); Cathedral of Saint Mark (Cairo, Egypt)"
     },
     "StThomasMore_609": {
-        "subject": "",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
-        "notes": "",
+        "subject": "Saint Thomas More, martyr",
+        "places": "London (United Kingdom)",
+        "place_of_death": "London (United Kingdom)",
+        "place_of_birth": "London (United Kingdom)",
+        "place_of_burial": "Church of Saint Peter ad Vincula (London, United Kingdom)",
+        "notes": "Thomas More (London, February 7, 1477 - June 22, 1535), a layman of great culture and political experience, was chancellor of the kingdom. Together with Bishop John Fisher, he opposed King Henry VIII's attempt to obtain from Rome the dissolution of his marriage and, above all, his claim to head the Church of England, breaking ecclesial communion. Both were put to death for their consistent testimony.",
         "patronage": "",
-        "main_shrine": ""
+        "main_shrine": "Church of Saint Peter ad Vincula (London, United Kingdom)"
     }
 }
