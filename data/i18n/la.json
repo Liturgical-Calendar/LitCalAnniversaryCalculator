@@ -127,7 +127,7 @@
         "place_of_burial": "Tolosa (Gallia)",
         "notes": "Thomas (Roccasecca apud Aquinum, Frusino, 1224/1225 - Fossanova, Latium, 7 Martii 1274), post prima institutione in monasterio Montis Cassini, discipulus factus est sancti Alberti Magni. Ingressus in Ordinem Praedicatorum (Dominicanorum), magister novator Parisiis, Romae et Neapoli fuit, methodum theologiam originalem fundans in foedere inter fidem et rationem. Inter eius multas opera, celebre est Summa theologiae, systematica et ingeniosa expositio doctrinae traditionalis. Determinans fuit eius influentia in cogitationem philosophicam et theologiam saeculorum subsequentium. Die 28 Ianuarii est dies translationis eius reliquiarum in conventum Dominicanorum Tolosae (Galliae) anno 1369.",
         "patronage": "",
-        "main_shrine": "Ecclesia Iacobitarum (Tolosa)"
+        "main_shrine": "Ecclesia Iacobinorum (Tolosa, Gallia)"
     },
     "StJohnBosco_14": {
         "subject": "Sanctus Ioannes Bosco, sacerdos",
@@ -242,8 +242,8 @@
     "StPolycarp_27": {
         "subject": "Sanctus Polycarpus, episcopus et martyr",
         "places": "Smyrna (Turcia)",
-        "place_of_death": "Smyrna, Turcia",
-        "place_of_birth": "Smyrna, Turcia",
+        "place_of_death": "Smyrna (Turcia)",
+        "place_of_birth": "Smyrna (Turcia)",
         "place_of_burial": "Sanctus Ambrosius de Maxima (Roma)",
         "notes": "Polycarpus († 23 Februarii 167), discipulus apostoli Ioannis, episcopus Smyrnae (Turcia) fuit, ubi sanctum Ignatium iter facientem Romam, urbem in qua martyrium passurus erat, excepit. Post longum episcopatum, in provecta aetate, Polycarpus propter fidem suam ad rogum damnatus est. Dies Domini erat: dum ignis eum consumebat, episcopus, orans, liturgiae eucharisticae, quam toties cum sua Ecclesia celebraverat, se coniunxit. Narratio passionis eius est antiquissimum documentum de cultu martyrum.",
         "patronage": "",
@@ -421,8 +421,8 @@
     },
     "StMarkEvangelist_46": {
         "subject": "Sanctus Marcus Evangelista",
-        "places": "Venetiae, Alexandria, Cairo, Roma",
-        "place_of_death": "Alexandria, Aegyptus",
+        "places": "Venetiae (Italia); Alexandria (Aegyptus); Cairo (Aegyptus); Roma (Italia)",
+        "place_of_death": "Alexandria (Aegyptus)",
         "place_of_birth": "Palaestina vel Cyprus",
         "place_of_burial": "Initio reliquiae eius veneratae sunt in ecclesia Alexandriae aedificata in loco antiquissimi mausolei Alexandri Magni. Saeculo VII reliquiae eius Venetias delatae sunt. Cathedrale Sancti Marci Cairo reliquias quasdam ex Basilica Sancti Marci Venetiarum translatas conservat.",
         "notes": "Ioannes, dictus Marcus, est filius Mariae Hierosolymitanae, in cuius domo communitas christiana congregatur et ubi Petrus post liberationem e carcere refugium invenit (cf. At 12, 12). Consobrinus Barnabae, cooperatur cum Paulo in primo itinere missionario, usque in Pamphyliam, ubi ab eo separatur (cf. At 12, 25; 15, 37-38). Discipulus dilectus Petri – qui eum «filium meum» appellat (1 Pt 5, 13) –, iterum ad latus Pauli Romae apparet (cf. Fm 24; Col 4, 10). Marco traditio Evangelium quod nomen eius fert attribuit, quod praedicationem apostoli Petri resonat. In eo, Iesus ut «Christus, Filius Dei» (Mc 1, 1) praesentatur et proclamatur Crucifixum resurrexisse (cf. Mc 16, 6). Festum eius celebratur die 25 Aprilis etiam a Coptis et Byzantinis.",
@@ -462,9 +462,9 @@
     "StAthanasius_51": {
         "subject": "Sanctus Athanasius, episcopus et doctor",
         "places": "Alexandria Aegypti",
-        "place_of_death": "Alexandria, Aegyptus",
-        "place_of_birth": "Alexandria, Aegyptus",
-        "place_of_burial": "Cathedrale Copticum Sancti Marci, Alexandria, Aegyptus",
+        "place_of_death": "Alexandria (Aegyptus)",
+        "place_of_birth": "Alexandria (Aegyptus)",
+        "place_of_burial": "Cathedra Coptica Sancti Marci (Alexandria, Aegyptus)",
         "notes": "Athanasius (300 circiter - 373), episcopus Alexandriae Aegypti, fuit tenax assertor plenae divinitatis Filii, a Concilio Nicaeno (325) proclamatae sed a sectatoribus Arii, saepe a curia imperiali sustentatis, diu impugnatae: propter hoc longos exilii periodos passus est. Vita sancti Antonii, ab eo composita, idealem monasticum in Occidente diffundere adiuvit.",
         "patronage": "",
         "main_shrine": "Cathedrale Copta Sancti Marci, Alexandria, Aegyptus"
@@ -1972,9 +1972,9 @@
     "StCatherineAlexandria_206": {
         "subject": "Sancta Catharina Alexandrina, virgo et martyr",
         "places": "non pertinet",
-        "place_of_death": "Alexandria, Aegyptus",
-        "place_of_birth": "Alexandria, Aegyptus",
-        "place_of_burial": "Monasterium Sanctae Catharinae ad Montem Sinai, Aegyptus",
+        "place_of_death": "Alexandria (Aegyptus)",
+        "place_of_birth": "Alexandria (Aegyptus)",
+        "place_of_burial": "Monasterium Sanctae Catharinae ad Montem Sinai (Aegyptus)",
         "notes": "Catharina Alexandrina (saec. III-IV), secundum Passionem quae tradita est (saec. VI-VIII), fidem coram quinquaginta sapientibus paganis defendit et eam martyrio testificavit. Reliquiae in monasterio ad pedes montis Sinai dicato venerantur.",
         "patronage": "",
         "main_shrine": "Monasterium Sanctae Catharinae ad Montem Sinai, Aegyptus"
@@ -2037,7 +2037,7 @@
         "place_of_burial": "Tolosa (Francia)",
         "notes": "Thomas (Roccasecca apud Aquinum, Frusino, 1224/1225 - Fossanova, Latina, 7 Martii 1274), post primam formationem in monasterio Montis Cassini, discipulus sancti Alberti Magni factus est. Ingressus Ordinem Fratrum Praedicatorum (Dominicanorum), magister innovator Parisiis, Romae et Neapoli fuit, originale methodum theologicum fundatum in foedere inter fidem et rationem formulans. Celeberrima, inter suas multiplices opera, Summa theologiae, systematica et ingeniosa doctrinae traditae praesentatione. Determinans fuit eius influxus in cogitationem philosophicam et theologicam saeculorum sequentium. Die 28 Ianuarii est dies translationis eius reliquiarum in conventum Dominicanorum Tolosanum (Francia), anno 1369.",
         "patronage": "",
-        "main_shrine": "Ecclesia Iacobinorum (Tolosa)"
+        "main_shrine": "Ecclesia Iacobinorum (Tolosa, Gallia)"
     },
     "StThomasAquinas_219": {
         "subject": "Sanctus Thomas Aquinas, sacerdos et doctor",
