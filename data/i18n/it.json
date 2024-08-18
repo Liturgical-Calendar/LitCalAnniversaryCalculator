@@ -102,7 +102,7 @@
     "StTimothy_11": {
         "subject": "San Timoteo, vescovo",
         "places": "Listra, Efeso (Turchia); Termoli (Italia)",
-        "place_of_death": "Efeso, Macedonia, Grecia",
+        "place_of_death": "Efeso (Macedonia, Grecia)",
         "place_of_birth": "Listra (vicino all'attuale Konya, antico Iconium, Turchia)",
         "place_of_burial": "Cattedrale di Termoli (Italia)",
         "notes": "Timoteo, di padre pagano e di madre giudeo-cristiana (cf. At 16, 1), è discepolo e collaboratore di Paolo, il quale dice di lui: «Non ho nessuno che condivida come lui i miei sentimenti» (Fil 2, 20). Condivide la memoria liturgica con San Tito. Anche Tito, di origine greca e pagana, è «compagno e collaboratore» dell’apostolo (2 Cor 8, 23), soprattutto a Corinto. Tre lettere paoline (dette «pastorali») sono rivolte ai due discepoli, attivi – secondo la tradizione – l’uno a Efeso, l’altro a Creta.",
@@ -121,13 +121,13 @@
     },
     "StThomasAquinas_13": {
         "subject": "San Tommaso d'Aquino, sacerdote e dottore",
-        "places": "Roccasecca, Fossanova (Italia), Tolosa (Francia)",
+        "places": "Roccasecca (Italia); Fossanova (Italia); Tolosa (Francia)",
         "place_of_death": "Abbazia di Fossanova a Priverno, Latina (Italia)",
         "place_of_birth": "Roccasecca (Frosinone, Italia)",
         "place_of_burial": "Tolosa (Francia)",
         "notes": "Tommaso (Roccasecca presso Aquino, Frosinone, 1224/1225 - Fossanova, Latina, 7 marzo 1274), dopo una prima formazione nel monastero di Montecassino, divenne discepolo di sant’Alberto Magno. Entrato nell’Ordine dei Frati Predicatori (Domenicani), fu maestro innovatore a Parigi, Roma e Napoli, formulando un originale metodo teologico fondato sull’alleanza tra fede e ragione. Celebre, tra le sue molteplici opere, la Summa theologiae, presentazione sistematica e geniale della dottrina tradizionale. Determinante fu il suo influsso sul pensiero filosofico e teologico dei secoli successivi. Il 28 gennaio è il giorno della traslazione delle sue spoglie nel convento dei Domenicani di Tolosa (Francia), nel 1369.",
         "patronage": "",
-        "main_shrine": "Chiesa dei Giacobini (Tolosa)"
+        "main_shrine": "Chiesa dei Giacobini (Tolosa, Francia)"
     },
     "StJohnBosco_14": {
         "subject": "San Giovanni Bosco, sacerdote",
@@ -242,8 +242,8 @@
     "StPolycarp_27": {
         "subject": "San Policarpo, vescovo e martire",
         "places": "Smirne (Turchia)",
-        "place_of_death": "Smirna (Turchia)",
-        "place_of_birth": "Smirna (Turchia)",
+        "place_of_death": "Smirne (Turchia)",
+        "place_of_birth": "Smirne (Turchia)",
         "place_of_burial": "Sant'Ambrogio della Massima (Roma)",
         "notes": "Policarpo († 23 febbraio 167), discepolo dell’apostolo Giovanni, fu vescovo di Smirne (Turchia), dove accolse sant’Ignazio in viaggio verso Roma, città in cui avrebbe subìto il martirio. Dopo un lungo episcopato, in età molto avanzata, Policarpo fu condannato al rogo per la sua fede. Era il giorno del Signore: mentre il fuoco lo consumava, il vescovo si univa, pregando, alla liturgia eucaristica tante volte celebrata con la sua Chiesa. Il racconto della sua passione è il più antico documento sul culto dei martiri.",
         "patronage": "",
@@ -2037,7 +2037,7 @@
         "place_of_burial": "Tolosa (Francia)",
         "notes": "Tommaso (Roccasecca presso Aquino, Frosinone, 1224/1225 - Fossanova, Latina, 7 marzo 1274), dopo una prima formazione nel monastero di Montecassino, divenne discepolo di sant’Alberto Magno. Entrato nell’Ordine dei Frati Predicatori (Domenicani), fu maestro innovatore a Parigi, Roma e Napoli, formulando un originale metodo teologico fondato sull’alleanza tra fede e ragione. Celebre, tra le sue molteplici opere, la Summa theologiae, presentazione sistematica e geniale della dottrina tradizionale. Determinante fu il suo influsso sul pensiero filosofico e teologico dei secoli successivi. Il 28 gennaio è il giorno della traslazione delle sue spoglie nel convento dei Domenicani di Tolosa (Francia), nel 1369.",
         "patronage": "",
-        "main_shrine": "Chiesa dei Giacobini (Tolosa)"
+        "main_shrine": "Chiesa dei Giacobini (Tolosa, Francia)"
     },
     "StThomasAquinas_219": {
         "subject": "San Tommaso d'Aquino, sacerdote e dottore",
@@ -2047,7 +2047,7 @@
         "place_of_burial": "Tolosa (Francia)",
         "notes": "Tommaso (Roccasecca presso Aquino, Frosinone, 1224/1225 - Fossanova, Latina, 7 marzo 1274), dopo una prima formazione nel monastero di Montecassino, divenne discepolo di sant’Alberto Magno. Entrato nell’Ordine dei Frati Predicatori (Domenicani), fu maestro innovatore a Parigi, Roma e Napoli, formulando un originale metodo teologico fondato sull’alleanza tra fede e ragione. Celebre, tra le sue molteplici opere, la Summa theologiae, presentazione sistematica e geniale della dottrina tradizionale. Determinante fu il suo influsso sul pensiero filosofico e teologico dei secoli successivi. Il 28 gennaio è il giorno della traslazione delle sue spoglie nel convento dei Domenicani di Tolosa (Francia), nel 1369.",
         "patronage": "",
-        "main_shrine": "Chiesa dei Giacobini (Tolosa)"
+        "main_shrine": "Chiesa dei Giacobini (Tolosa, Francia)"
     },
     "StFrancisDeSales_220": {
         "subject": "San Francesco di Sales, vescovo e dottore",

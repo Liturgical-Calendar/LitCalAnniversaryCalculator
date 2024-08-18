@@ -127,7 +127,7 @@
         "place_of_burial": "Toulouse (France)",
         "notes": "Thomas (Roccasecca près d'Aquino, Frosinone, 1224/1225 - Fossanova, Latina, 7 mars 1274), après une première formation au monastère de Montecassino, devint disciple de saint Albert le Grand. Entré dans l'Ordre des Frères Prêcheurs (Dominicains), il fut un maître innovateur à Paris, Rome et Naples, formulant une méthode théologique originale basée sur l'alliance entre foi et raison. Célèbre, parmi ses multiples œuvres, la Summa theologiae, présentation systématique et géniale de la doctrine traditionnelle. Son influence sur la pensée philosophique et théologique des siècles suivants fut déterminante. Le 28 janvier est le jour de la translation de ses reliques dans le couvent des Dominicains de Toulouse (France), en 1369.",
         "patronage": "",
-        "main_shrine": "Église des Jacobins (Toulouse)"
+        "main_shrine": "Église des Jacobins (Toulouse, France)"
     },
     "StJohnBosco_14": {
         "subject": "Saint Jean Bosco, prêtre",
@@ -691,7 +691,7 @@
     },
     "StJohnFisher_75": {
         "subject": "Saints John Fisher, évêque et martyr et Thomas More, martyr",
-        "places": "Londres (Royaume-Uni)",
+        "places": "Beverley (Royaume-Uni) ; Londres (Royaume-Uni)",
         "place_of_death": "Londres (Royaume-Uni)",
         "place_of_birth": "respectivement Beverley et Londres (Royaume-Uni)",
         "place_of_burial": "Église de Saint-Pierre-aux-Liens (Londres, Royaume-Uni)",
@@ -2037,7 +2037,7 @@
         "place_of_burial": "Toulouse (France)",
         "notes": "Thomas (Roccasecca près d'Aquino, Frosinone, 1224/1225 - Fossanova, Latina, 7 mars 1274), après une première formation au monastère de Montecassino, devint disciple de saint Albert le Grand. Entré dans l'Ordre des Frères Prêcheurs (Dominicains), il fut maître innovateur à Paris, Rome et Naples, formulant une méthode théologique originale fondée sur l'alliance entre foi et raison. Célèbre, parmi ses nombreuses œuvres, la Summa theologiae, présentation systématique et géniale de la doctrine traditionnelle. Son influence fut déterminante sur la pensée philosophique et théologique des siècles suivants. Le 28 janvier est le jour de la translation de ses reliques au couvent des Dominicains de Toulouse (France), en 1369.",
         "patronage": "",
-        "main_shrine": "Église des Jacobins (Toulouse)"
+        "main_shrine": "Église des Jacobins (Toulouse, France)"
     },
     "StThomasAquinas_219": {
         "subject": "Saint Thomas d'Aquin, prêtre et docteur",
@@ -2113,8 +2113,8 @@
         "subject": "Saints Sept Fondateurs des Servites de la Bienheureuse Vierge Marie",
         "places": "N/D",
         "place_of_death": "Montesenario (Italie)",
-        "place_of_birth": "Cathédrale de Salerne (Italie)",
-        "place_of_burial": "Cathédrale de Salerne (Italie)",
+        "place_of_birth": "Florence (Italie)",
+        "place_of_burial": "Florence (Italie)",
         "notes": "Voici les figures individuelles des sept saints fondateurs, dont les noms de famille furent ajoutés seulement aux XVe-XVIe siècles. Buonagiunta de Florence (Manetti), documenté le 7 octobre 1251 ; prieur général en 1256 ; décédé en 1257 ; il fut enterré à Montesenario, près du maître-autel de l'église. Buonfiglio de Florence (Monaldi), selon la tradition le premier des sept et leur chef ; prieur de Montesenario le 17 mars 1250, lorsque l'évêque de Sienne Buonfiglio accorda la licence pour la construction dans la ville de l'église et du couvent de Santa Maria di Cafaggio, aujourd'hui basilique de la Santissima Annunziata de Florence. En 1251-1252, il vécut également à Cafaggio, où il reçut dans l'Ordre le jeune Philippe Benizi. Il mourut, selon la tradition, le 1er janvier 1262 et fut enterré à Montesenario. Amadio de Florence (Amidei), qui semble avoir passé toute sa vie au couvent de Montesenario. La tradition veut qu'à sa mort en 1266, tous les Pères aient vu une flamme de feu monter en haut, signe et symbole de son amour pour Dieu, comme l'indique son nom. Manetto de Florence (dell'Antella), prieur du couvent de Lucques en 1264, fut élu en 1265 Général de l'Ordre. Il renonça au généralat en 1267 et eut pour successeur Philippe Benizi. Uguccione de Florence (Uguccioni), peut-être prieur de Montesenario en 1259, de famille à Città di Castello le 21 août 1255, et compagnon de Sostegno et de Philippe lorsque ce dernier, selon la Legenda B. Philippi du XIVe siècle, guérit un pauvre lépreux. Il mourut en 1282, à Montesenario, après être revenu du Chapitre général de Viterbe, le même jour et à la même heure que son ami Sostegno. Sostegno de Florence (Sostegni), rappelé dans la Legenda de Origine également comme oncle de frère Lapo de Florence ; peut-être vicaire général en France. Il mourut en 1282 et fut enterré avec les autres fondateurs à Montesenario. Alexis Falconieri, le plus connu des sept saints. Humble, désireux de pénitence, même dans sa vieillesse, il se consacra aux travaux matériels et à la quête (aumône de maison en maison), malgré les incommodités de l'âge et de la saison (Legenda de Origine). Il protégea les jeunes de l'Ordre et utilisa l'argent des vêtements qui lui revenaient (une coutume des Servites) pour envoyer les plus méritants d'entre eux étudier à la Sorbonne de Paris. Il vécut presque 110 ans et mourut en 1310.",
         "patronage": "",
         "main_shrine": "Église des Sept Saints Fondateurs (Florence), Basilique sanctuaire de Montesenario (Vaglia)"

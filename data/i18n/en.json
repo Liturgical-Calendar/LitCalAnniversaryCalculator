@@ -101,8 +101,8 @@
     },
     "StTimothy_11": {
         "subject": "Saint Timothy, bishop",
-        "places": "Lystra, Ephesus (Turkey); Termoli, Italy",
-        "place_of_death": "Ephesus, Macedonia, Greece",
+        "places": "Lystra, Ephesus (Turkey); Termoli (Italy)",
+        "place_of_death": "Ephesus (Macedonia, Greece)",
         "place_of_birth": "Lystra (near current Konya, ancient Iconium, Turkey)",
         "place_of_burial": "Cathedral of Termoli (Italy)",
         "notes": "Timothy, of a pagan father and Judeo-Christian mother (cf. Acts 16, 1), is a disciple and collaborator of Paul, who says of him: \"I have no one who shares my feelings like him\" (Phil 2, 20 ). He shares the liturgical memory with Saint Titus. Even Titus, of Greek and pagan origin, was the apostle's \"companion and collaborator\" (2 Cor 8:23), especially in Corinth. Three Pauline letters (called \"pastoral\") are addressed to the two disciples, active - according to tradition - one in Ephesus, the other in Crete.",
@@ -127,7 +127,7 @@
         "place_of_burial": "Toulouse (France)",
         "notes": "Tommaso (Roccasecca near Aquino, Frosinone, 1224/1225 - Fossanova, Latina, March 7, 1274), after an initial formation in the monastery of Montecassino, became a disciple of St. Albert the Great. Upon entering the Order of Preachers (Dominicans), he became an innovative teacher in Paris, Rome, and Naples, formulating an original theological method based on the alliance between faith and reason. Among his many works, the Summa Theologiae is celebrated as a systematic and ingenious presentation of traditional doctrine. His influence on philosophical and theological thought in the subsequent centuries was decisive. On January 28th, his remains were transferred to the Dominican convent in Toulouse (France) in 1369.",
         "patronage": "",
-        "main_shrine": "Church of the Jacobins (Toulouse)"
+        "main_shrine": "Church of the Jacobins (Toulouse, France)"
     },
     "StJohnBosco_14": {
         "subject": "Saint John Bosco, priest",
@@ -2037,7 +2037,7 @@
         "place_of_burial": "Toulouse (France)",
         "notes": "Tommaso (Roccasecca near Aquino, Frosinone, 1224/1225 - Fossanova, Latina, March 7, 1274), after an initial formation in the monastery of Montecassino, became a disciple of St. Albert the Great. Upon entering the Order of Preachers (Dominicans), he became an innovative teacher in Paris, Rome, and Naples, formulating an original theological method based on the alliance between faith and reason. Among his many works, the Summa Theologiae is celebrated as a systematic and ingenious presentation of traditional doctrine. His influence on philosophical and theological thought in the subsequent centuries was decisive. On January 28th, his remains were transferred to the Dominican convent in Toulouse (France) in 1369.",
         "patronage": "",
-        "main_shrine": "Church of the Jacobins (Toulouse)"
+        "main_shrine": "Church of the Jacobins (Toulouse, France)"
     },
     "StThomasAquinas_219": {
         "subject": "Saint Thomas Aquinas, priest and doctor",
@@ -2603,7 +2603,7 @@
         "subject": "Saint Bruno, priest",
         "places": "Chartreuse (Grenoble, France); Serra San Bruno (Italy)",
         "place_of_death": "Serra San Bruno, Catanzaro (Italy)",
-        "place_of_birth": "Volterra or Anghiara (Italy)",
+        "place_of_birth": "Cologne (Germany)",
         "place_of_burial": "Serra San Bruno (Italy)",
         "notes": "Bruno (Cologne, Germany, around 1030 - Serra San Bruno, Catanzaro, October 6, 1101), formerly a theology teacher and episcopal chancellor in Reims, moved to a austere hermit life on the Chartreuse massif (near Grenoble), a place that will give origin and name to the Carthusian Order, born from his experience. Called to Rome by Pope Urban II, his old disciple, he soon returned to the contemplative life, in Calabria, in the place called La Torre, where he moved from earthly contemplation to eternal vision.",
         "patronage": "",
@@ -2722,7 +2722,7 @@
     "StAlbertGreat_378": {
         "subject": "Saint Albert the Great, bishop and doctor",
         "places": "Cologne (Germany)",
-        "place_of_death": "Volterra or Anghiara (Italy)",
+        "place_of_death": "Cologne (Germany)",
         "place_of_birth": "Lauingen (Germany)",
         "place_of_burial": "Church of Saint Andrew, Cologne (Germany)",
         "notes": "Albert (Lauingen, Germany, around 1200 - Cologne, November 15, 1280), a Dominican, dedicated himself to the study and teaching of philosophy and theology. In Paris, he had Thomas Aquinas as a student, who he involved in his project of rediscovering Aristotle's philosophy, fostering a fruitful dialogue between science and faith. Elected bishop of Regensburg, after two years he was allowed to resign from his post to return to his studies.",
@@ -3031,8 +3031,8 @@
     },
     "StAlbertGreat_501": {
         "subject": "Saint Albert the Great, bishop and doctor",
-        "places": "Volterra or Anghiara (Italy)",
-        "place_of_death": "Volterra or Anghiara (Italy)",
+        "places": "Cologne (Germany)",
+        "place_of_death": "Cologne (Germany)",
         "place_of_birth": "Lauingen (Germany)",
         "place_of_burial": "Church of Saint Andrew (Cologne, Germany)",
         "notes": "Albert (Lauingen, Germany, around 1200 - Cologne, November 15, 1280), a Dominican, dedicated himself to the study and teaching of philosophy and theology. In Paris, he had Thomas Aquinas as a student, who he involved in his project of rediscovering Aristotle's philosophy, fostering a fruitful dialogue between science and faith. Elected bishop of Regensburg, after two years he was allowed to resign from his post to return to his studies.",

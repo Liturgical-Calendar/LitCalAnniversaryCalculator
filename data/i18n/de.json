@@ -114,7 +114,7 @@
         "places": "Desenzano sul Garda, Brescia (Italien) http://www.angelamerici.org/luoghi/ http://www.angelamerici.it/news_schede.php?testata=Casa%20di%20santa%20Angela&get_id=6",
         "place_of_death": "Brescia (Italien)",
         "place_of_birth": "Desenzano sul Garda (Italien)",
-        "place_of_burial": "Civita di Bagnoregio (Viterbo, Italien)",
+        "place_of_burial": "Kirche der Heiligen Angela Merici (ehemals Kirche der Heiligen Afra) (Brescia, Italien)",
         "notes": "Angela Merici (Desenzano del Garda, 1470 - Brescia, 1540) gründete 1535 in Brescia die Compagnia di Sant’Orsola, eine Institution des geweihten Lebens in der Welt, und gab ihr eine eigene Regel. Die Ricordi und das Testament zeugen von tiefem evangelischem Geist und intensivem spirituellem Leben. Die Verbreitung der Compagnia und die Entstehung der verschiedenen Ursulinenorden haben die Verehrung der Heiligen in der Welt verbreitet. Sie wurde 1807 von Pius VII. heiliggesprochen.",
         "patronage": "",
         "main_shrine": "Kirche der Heiligen Angela Merici (ehemals Kirche der Heiligen Afra) (Brescia, Italien)"
@@ -127,7 +127,7 @@
         "place_of_burial": "Toulouse (Frankreich)",
         "notes": "Thomas (Roccasecca bei Aquino, Frosinone, 1224/1225 - Fossanova, Latina, 7. März 1274), nach einer ersten Ausbildung im Kloster Montecassino, wurde Schüler von Albertus Magnus. Er trat dem Orden der Predigerbrüder (Dominikaner) bei und war ein innovativer Lehrer in Paris, Rom und Neapel, wobei er eine originelle theologische Methode entwickelte, die auf dem Bündnis zwischen Glauben und Vernunft basierte. Berühmt ist unter seinen zahlreichen Werken die Summa theologiae, eine systematische und geniale Darstellung der traditionellen Lehre. Sein Einfluss auf das philosophische und theologische Denken der nachfolgenden Jahrhunderte war entscheidend. Der 28. Januar ist der Tag der Überführung seiner Gebeine in das Dominikanerkloster von Toulouse (Frankreich) im Jahr 1369.",
         "patronage": "",
-        "main_shrine": "Jakobinerkirche (Toulouse)"
+        "main_shrine": "Jakobinerkirche (Toulouse, Frankreich)"
     },
     "StJohnBosco_14": {
         "subject": "Johannes Bosco, Priester",
@@ -691,7 +691,7 @@
     },
     "StJohnFisher_75": {
         "subject": "Heilige Johannes Fisher, Bischof und Märtyrer und Thomas Morus, Märtyrer",
-        "places": "London (Vereinigtes Königreich)",
+        "places": "Beverley (Vereinigtes Königreich); London (Vereinigtes Königreich)",
         "place_of_death": "London (Vereinigtes Königreich)",
         "place_of_birth": "jeweils Beverley und London (Vereinigtes Königreich)",
         "place_of_burial": "Kirche St. Peter ad Vincula (London, Vereinigtes Königreich)",
@@ -1924,7 +1924,7 @@
         "places": "N/V",
         "place_of_death": "Cartagena (Kolumbien)",
         "place_of_birth": "Verdú (Spanien)",
-        "place_of_burial": "Montepulciano (Siena, Italien)",
+        "place_of_burial": "Schrein des Heiligen Pedro Claver (Cartagena de Indias, Kolumbien)",
         "notes": "Peter (Verdú, Spanien, 1580 - Cartagena, Kolumbien, 8. September 1657), Jesuit, wurde für die Westindischen Inseln bestimmt. Nachdem er mit seinem Mitbruder Alonso Sandoval, der bereits im Apostolat unter den schwarzen Sklaven tätig war, zusammengearbeitet hatte, widmete er sich endgültig dem Dienst an diesen Unglücklichen, indem er sie sowohl während der beschwerlichen Reise zwischen Afrika und Amerika unterstützte als auch sie zu einem geistlichen Leben entsprechend ihrer Würde als Kinder Gottes formte.",
         "patronage": "",
         "main_shrine": "Schrein des Heiligen Pedro Claver (Cartagena de Indias, Kolumbien)"
@@ -2037,7 +2037,7 @@
         "place_of_burial": "Toulouse (Frankreich)",
         "notes": "Thomas (Roccasecca bei Aquino, Frosinone, 1224/1225 - Fossanova, Latina, 7. März 1274) wurde nach einer ersten Ausbildung im Kloster Montecassino Schüler des heiligen Albertus Magnus. Er trat in den Orden der Predigerbrüder (Dominikaner) ein und wurde ein innovativer Lehrer in Paris, Rom und Neapel, wobei er eine originelle theologische Methode entwickelte, die auf dem Bündnis zwischen Glaube und Vernunft basierte. Berühmt ist unter seinen zahlreichen Werken die Summa theologiae, eine systematische und geniale Darstellung der traditionellen Lehre. Sein Einfluss auf das philosophische und theologische Denken der folgenden Jahrhunderte war entscheidend. Der 28. Januar ist der Tag der Überführung seiner Reliquien in das Dominikanerkloster von Toulouse (Frankreich) im Jahr 1369.",
         "patronage": "",
-        "main_shrine": "Jakobinerkirche (Toulouse)"
+        "main_shrine": "Jakobinerkirche (Toulouse, Frankreich)"
     },
     "StThomasAquinas_219": {
         "subject": "Heiliger Thomas von Aquin, Priester und Kirchenlehrer",
