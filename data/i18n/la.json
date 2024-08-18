@@ -691,7 +691,7 @@
     },
     "StJohnFisher_75": {
         "subject": "Sancti Ioannes Fisher, episcopus et martyr et Thomas More, martyr",
-        "places": "Londinium (Regnum Unitum)",
+        "places": "Beverlacum (Regnum Unitum); Londinium (Regnum Unitum)",
         "place_of_death": "Londinium (Regnum Unitum)",
         "place_of_birth": "respective Beverlacum et Londinium (Regnum Unitum)",
         "place_of_burial": "Ecclesia Sancti Petri ad Vincula (Londinium, Regnum Unitum)",
@@ -1611,8 +1611,8 @@
     },
     "StClementIPope_170": {
         "subject": "Sanctus Clemens I, papa et martyr",
-        "places": "Roma (Italia); Sebastopolis - Chersonesus (Chersonesus Taurica)",
-        "place_of_death": "Chersonesus (Chersonesus Taurica)",
+        "places": "Roma (Italia); Sebastopolis (Chersonesus Taurica)",
+        "place_of_death": "(Chersonesus Taurica)",
         "place_of_birth": "Roma",
         "place_of_burial": "mare Chersonesi Tauricae; tumulus a Sancto Cyrillo repertus, qui eum Romam reportavit",
         "notes": "Clemens papa (92-99) notus est praecipue propter epistolam ad Ecclesiam Corinthi, ei attributam. Coram divisionibus internis illius communitatis, scriptum Roma missum ad concordiam hortatur, in continuatione ministerii communionis apostolo Petro concrediti, cuius martyrium commemoratur, una cum Pauli et multorum christianorum in persecutione Neronis occisorum. Epistola etiam permittit cognoscere nonnullos aspectus cogitationis et vitae communitatis Romanae. Clemens commemoratur in Martyrologio Hieronymiano (saec. V-VI), in Canone Romano et in omnibus libris liturgicis Romanis.",
@@ -3272,7 +3272,7 @@
     "StThereseChildJesus_567": {
         "subject": "Sancta Teresia a Iesu Infante, virgo",
         "places": "non pertinet",
-        "place_of_death": "Lutetia (Francia)",
+        "place_of_death": "Lexovium (Francia)",
         "place_of_birth": "Alençon (Francia)",
         "place_of_burial": "Carmelus Lutetiae (Francia)",
         "notes": "Teresia Martin (Alençon, Francia, 2 ianuarii 1873 - Lutetia, 30 septembris 1897) quindecim annos nata in Carmelum Lutetiae ingressa est. Intensa perfecti desiderium, cum mystica experientia «noctis spiritualis» coniunctum, eam ad «parvam viam» detegendam duxit, ut simplici et fiduciali modo se actioni gratuita Dei committeret. Magnus fervor apostolicus quem in se sentiebat, in communicatione doloris eorum qui a Deo longe erant et in incessanti oratione pro missionariis Evangelii se exprimebat. Electio Teresiae ut patronae missionum, a Pio XI (1927), radicem omnis fecunditatis apostolicae in amore Dei simplici corde accepto illustrat; eius proclamatio ut doctor Ecclesiae, a sancto Ioanne Paulo II (1998), fundamentale documentum quod ex parvulis secundum Evangelium emanat, revocat.",
