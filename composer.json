@@ -10,7 +10,7 @@
         "psr-4": {
             "LitCal\\": "src/"
         },
-	"files": ["src/pgettext.php"]
+        "files": ["src/pgettext.php"]
     },
     "authors": [
         {
