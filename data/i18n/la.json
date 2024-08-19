@@ -6,7 +6,7 @@
         "place_of_birth": "Caesarea Cappadociae (hodierna Kayseri, Turcia)",
         "place_of_burial": "Monasterium Magna Laura (Mons Athos, Graecia)",
         "notes": "Defunctus est die 1 Ianuarii, memoria liturgica celebratur sequenti die, id est 2 Ianuarii",
-        "patronage": "de Russia, monachorum, administratorum hospitalium, poetarum",
+        "patronage": "Cappadocia, nosocomia",
         "main_shrine": "Ptochoptopheion vel Vasiliadis (Cesarea Mazaca, nunc Kayseri, Cappadocia)"
     },
     "StRayPenyafort_2": {
@@ -96,17 +96,17 @@
         "place_of_birth": "Tarsus (Turcia) https://www.google.com/maps/place/36%C2%B055'00.0%22N+34%C2%B054'00.0%22E/@36.9546925,34.8770442,11.25z/data=!4m5!3m4!1s0x0:0x0!8m2!3d36.916667!4d34.9",
         "place_of_burial": "Basilica Sancti Pauli extra Muros (Roma, Italia)",
         "notes": "Paulus Tarsensis, a Christo in via Damascena superatus (cf. Actus Apostolorum 9, 1-19; Philippenses 3, 12), totum se ipsum consecrat ad ministerium cognitionis et nuntiationis novae vitae quam in Christo Iesu Domino suo vivit (cf. Ephesios 3, 1-4; 1 Corinthios 9, 16; Romani 6, 4; Galatae 2, 20). Ambi apostoli, qui \"diversis modis unam Christi familiam congregaverunt\" (Prefatio), suam testimonium Christo martyrio Romae signaverunt, circa annum sexagesimum primi saeculi. In Depositio martyrum (336) una cum memoria eorum fit die XXIX Iunii.",
-        "patronage": "",
+        "patronage": "missionarii, scriptores, editores, theologi",
         "main_shrine": "Basilica Sancti Pauli extra muros"
     },
     "StTimothy_11": {
         "subject": "Sanctus Timotheus, episcopus",
         "places": "Listra, Ephesus (Asia Minor); Termulum (Italia)",
-        "place_of_death": "Ephesus, Macedonia, Graecia",
+        "place_of_death": "Ephesus (Macedonia, Graecia)",
         "place_of_birth": "Lystra (prope Konyam, quae olim Iconium dicebatur, in Turcia)",
         "place_of_burial": "Basilica Cathedralis Thermularum (Italia)",
         "notes": "Timotheus, ex patre pagano et matre Iudaeo-Christianā (cf. Act 16, 1), est discipulus et adiutor Pauli, qui de illo dicit: \"Neminem habeo qui ita unā me sentiat\" (Phil 2, 20). Commemorationem liturgicam cum Sancto Tito participat. Titus quoque, ex Graecia et paganus, est \"socius et adiutor\" apostoli (2 Cor 8, 23), praesertim Corinthi. Tres epistulae Paulinae (dictae \"pastorales\") ad utrumque discipulum scriptae sunt, qui secundum traditionem, alter Ephesi, alter Cretae operantur.",
-        "patronage": "",
+        "patronage": "morbi intestinales, stomachus",
         "main_shrine": "Basilica Cathedralis Thermularum (Italia)"
     },
     "StAngelaMerici_12": {
@@ -696,7 +696,7 @@
         "place_of_birth": "respective Beverlacum et Londinium (Regnum Unitum)",
         "place_of_burial": "Ecclesia Sancti Petri ad Vincula (Londinium, Regnum Unitum)",
         "notes": "Ioannes Fisher (Beverlacum, Britannia, 1469 ca. - Londinium, 22 iunii 1535), episcopus Roffensis et cancellarius Universitatis, caritate pastorali et humanistica cultura christiana inspirata animatus fuit. Thomas More (Londinium, 7 februarii 1477 - 22 iunii 1535), laicus magnae culturae et experientiae politicae, regni cancellarius fuit. Uterque regi Henrico VIII restiterunt, qui a Roma matrimonii sui dissolutionem obtinere conatus est et, praesertim, eius praetensioni se caput Ecclesiae Anglicanae constituere, communionem ecclesiasticam frangens. Ambo propter suam constantem testimonium interfecti sunt.",
-        "patronage": "",
+        "patronage": "Dioecesis Roffensis",
         "main_shrine": "Ecclesia Sancti Petri ad Vincula (Londinium, Regnum Unitum)"
     },
     "NativityJohnBaptist_76": {
@@ -826,7 +826,7 @@
         "place_of_birth": "Civitas Balneoregii (Viterbium, Italia)",
         "place_of_burial": "http://www.doctorseraphicus.it/images/annate/1958_67-81_Petrangeli_Papini.pdf",
         "notes": "Bonaventura (Civitas Balneoregiensis, Viterbium, circiter 1217 - Lugdunum, Gallia, 15 Iulii 1274), Ordinem Fratrum Minorum ingressus, studia Parisiis perfecit. Theologus, docendi se dedit, opera sapientiae inspirationis producens, inter quae Itinerarium mentis in Deum. Minister generalis, leges priores ordinavit novasque Constitutiones promulgavit (Narbonnae, 1260) et, cum sua opera hagiographica (Legenda maior et Legenda minor, haec ad officium liturgicum scripta), unitariam visionem figurae sancti Francisci proposuit. Episcopus Albanensis et cardinalis, Concilio Lugdunensi II interfuit, durante quo, subito, e Ecclesia terrestri ad coetum caelestem transivit.",
-        "patronage": "",
+        "patronage": "Theologi, studiosi franciscani",
         "main_shrine": "Concatedralis Sancti Nicolai Bagnoregio (Italia) (custodit reliquiam brachii)"
     },
     "LadyMountCarmel_89": {
@@ -866,7 +866,7 @@
         "place_of_birth": "Finsta (Suecia)",
         "place_of_burial": "Ecclesia Sanctae Brigidae Romae (Italia)",
         "notes": "Brigida (Finsta, Suecia, 1302/1303 - Roma, 23 iulii 1373), ex alta nobilitate Suecica, cum marito ad intensam vitam spiritualem et fervidam caritativam operam se dedit. Post mortem coniugis et matrimonium octo filiorum tempus solitudinis et orationis vixit, cuius fine Ordinem monasticum Sanctissimi Salvatoris, ramum masculinum et femininum comprehendens, fundavit. Romam translata, propter prophetias suas et adhortationes ad reformationem Ecclesiae clara facta est, etiam pro reditu papae ab Avinione laborans. Anno 1999 sanctus Ioannes Paulus II eam patronam Europae proclamavit.",
-        "patronage": "",
+        "patronage": "Europa, peregrini, aegroti",
         "main_shrine": "Ecclesia Sanctae Brigidae Romae (Italia)"
     },
     "StJamesGreaterAp_93": {
@@ -956,7 +956,7 @@
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
         "notes": "Papa Callistus III instituit festum hodiernum ad commemorationem victoriae Belgradensis mense Augusto anni praeteriti. In pugna Belgradensi Jànos Hunyadi et frater Ioannes a Capestrano duxerunt cruciatam militum contra classem Turco-Ottomanam Mahometi II. In monte, in comitatu Petri, Iacobi et Ioannis, Iesus transfiguratur «coram eis» (Mt 17, 2): cadit velum ab oculis discipulorum et hi, dono Dei, vident identitatem divinam quae ex humanitate Christi elucet. Filius hominis qui iter ad crucem ingressus est (cf. Mc 8, 31-34) est Filius Dei, revelatio definitiva Patris. Lex et Prophetae ad Christum tendunt et ei Pater testimonium reddit: «Hic est Filius meus dilectus: audite illum!» (Mc 9, 7). Involutus in illa gloria quam habuit apud Patrem antequam mundus esset (cf. Gv 1, 14), Christus anticipat et praefigurat suam gloriosam adventum in ultimo die, ad transfigurandas omnes res. Fuit papa Callistus III anno 1457 qui hoc festum ad Ecclesiam universalem extendit.",
-        "patronage": "",
+        "patronage": "Contemplatio mysterii Christi",
         "main_shrine": "Mons Tabor (Israel)"
     },
     "StSixtusIIPope_103": {
@@ -1986,7 +1986,7 @@
         "place_of_birth": "Nazianzus, in hodierna Turcia",
         "place_of_burial": "Basilica Sancti Petri; prius Ecclesia Sanctae Mariae Conceptionis in Campo Martio, Roma, ubi brachium remansit",
         "notes": "Gregorius (Nazianzus, in hodierna Turcia, 329/330 - 390) cum Basilio culturam et desiderium vitae monasticae communicavit. Patriarcha Constantinopolis electus, breve et difficile episcopatum inter multas contentiones vixit. Valens scriptor et orator, etiam poesi se dedit. Una cum Basilio ad doctrinam trinitariam evolvendam magnopere contulit. Memoria liturgica die 2 Ianuarii",
-        "patronage": "",
+        "patronage": "Theologi, aegroti",
         "main_shrine": "non pertinet"
     },
     "StRayPenyafort_208": {
@@ -2236,7 +2236,7 @@
         "place_of_birth": "Bosco Marengo (Alexandria, Italia)",
         "place_of_burial": "Basilica Sanctae Mariae Maioris (Roma, Italia)",
         "notes": "Michael (saeculo Antonius) Ghislieri (Bosco Marengo, Alexandria, 17 ianuarii 1504 - Roma, 1 maii 1572), Dominicanus, papa ab anno 1566 fuit. Primum Concilii Tridentini applicationem exsecutus est, incipiens a curia romana et Urbe. Catechismum (1566) edidit, Breviarii (1568) et Missalis (1570) reformationem curavit. Fidem in Europa et Oriente diffundere promovit, et contra expansionem Ottomanicam (Lepanto, 7 octobris 1571) defendit.",
-        "patronage": "",
+        "patronage": "ordo Praedicatorum",
         "main_shrine": "Basilica Sanctae Mariae Maioris, Roma"
     },
     "StBernardineSiena_272": {
@@ -2306,7 +2306,7 @@
         "place_of_birth": "Olisipo (Portugallia)",
         "place_of_burial": "Basilica Sancti Antonii, Patavium (Italia)",
         "notes": "Antonius, saeculo Ferdinandus (Olisipo, Lusitania, 1190/1195 ca. - Patavium, 13 Iunii 1231), post intensam vitam asceticam apud Canonicos regulares Augustinianos Conimbricenses, inter Fratres Minores ingressus est cum desiderio, non impleto propter morbum, proficiscendi in missionem in Marochum. Primus franciscanus fuit qui theologiam docuit, cum consensu ipsius sancti Francisci. Magna biblica cultura et efficax Evangelii praedicator, ministerium exercuit in Italia septentrionali et in Gallia meridionali, multas conversiones excitans. Vitam suam Patavii conclusit, ubi ad pacificationem civitatis contulit: ibi reliquiae eius mortales remanserunt, magna veneratione affectae.",
-        "patronage": "",
+        "patronage": "Personae et res amissae, pauperes, viatores",
         "main_shrine": "Basilica Sancti Antonii, Patavium (Italia)"
     },
     "StRomuald_287": {
@@ -2316,7 +2316,7 @@
         "place_of_birth": "Ravenna (Italia)",
         "place_of_burial": "Ecclesia Sanctorum Blasii et Romualdi Fabriani (Italia)",
         "notes": "Romualdus (Ravenna, media saec. X - Valdicastro, Ancona, 19 Iunii 1027), post brevem experientiam coenobiticam in abbatia Sancti Apollinaris in Classe, vitam eremiticam strictam iniit, suo exemplo reformationem monachismi incitans et nonnullas fundationes condidit, inter quas Camaldoli prope Arretium. Sanctus Petrus Damianus eius Vitam scripsit.",
-        "patronage": "",
+        "patronage": "Eremitae, monachi, mystici",
         "main_shrine": "Ecclesia Sanctorum Blasii et Romualdi Fabriani (Italia); Cathedralis Aesinae reliquiarium brachii"
     },
     "StAloysiusGonzaga_288": {
@@ -2326,7 +2326,7 @@
         "place_of_birth": "Castellio Stivieri (Mantua, Italia)",
         "place_of_burial": "Ecclesia Sancti Ignatii de Loyola, Roma; cranium conservatur in basilica ei dicata in Castiglionis Stivieri",
         "notes": "Aloisius (Castellio Stivieri, Mantua, 9 Martii 1568 - Roma, 21 Iunii 1591), primogenitus heres marchionatus gonzaghensis urbis natalis, patris firmam oppositionem provocans, vitae et curriculo aulico renuntiavit et in Societatem Iesu ingressus est, ubi, ingenio vivo et voluntate forti praeditus, spirituali ductu sancti Roberti Bellarmini frui potuit. Generosa pauperibus et aegrotis dedicatio eius delicatam constitutionem corporis laesit et paucis annis ad mortem perduxit.",
-        "patronage": "",
+        "patronage": "iuventus, discipuli",
         "main_shrine": "Ecclesia Sancti Ignatii de Loyola, Roma"
     },
     "StsJohnFisherThomasMore_290": {
@@ -2556,7 +2556,7 @@
         "place_of_birth": "Peralta de la Sal, Hispania",
         "place_of_burial": "Ecclesia Sancti Pantaleonis, Roma (Italia)",
         "notes": "Iosephus (Peralta de la Sal, Hispania, 1557 - Roma, 25 Augusti 1646), ex nobili familia, cursum ecclesiasticum iniit, Romam proficiscens quaerens aptam collocationem. Ibi multas incepta ad pauperes et aegrotos adiuvandos invenit, et cum sancto Camillo de Lellis collaboravit. Causam pauperum puerorum, qui educatione idonea carebant, suscipiens, pro eis scholas gratuitas aperuit et Congregationem Clericorum Regularium Pauperum Matris Dei Scholarum Piarum (Scolopi) fundavit.",
-        "patronage": "",
+        "patronage": "Scholae populares, Scholarum Piarum, discipuli",
         "main_shrine": "Ecclesia Sancti Pantaleonis (Roma, Italia)"
     },
     "StRobertBellarmine_344": {
@@ -2696,7 +2696,7 @@
         "place_of_birth": "Lima, Peruvia",
         "place_of_burial": "Conventus Sancti Dominici, Lima, Peruvia",
         "notes": "Martinus (Lima, Peruvia, 9 decembris 1579 - 3 novembris 1639), filius naturalis equitis Hispani et ex serva nigra, vix potuit accedere, ut frater adiutor, ad conventum Dominicanorum. Generosa simplicitate, ut «barbarius chirurgus», curavit confratres et omnes qui ad ianuam pulsaverunt, testificans gratiam quam Deus humilibus concedit (cf. 1 Pt 5, 5).",
-        "patronage": "",
+        "patronage": "Misericordia, aegroti, animalia",
         "main_shrine": "Conventus Sancti Dominici, Lima, Peruvia"
     },
     "StCharlesBorromeo_373": {
@@ -2746,7 +2746,7 @@
         "place_of_birth": "Eisleben (Germania)",
         "place_of_burial": "Unicae reliquiae exstantes, cum sepulcrum eius tempore Reformationis Lutheranae destructum esset, servantur apud Sanctam Mariam de Licodia, intra simulacrum in Ecclesia Matre conservatum.",
         "notes": "Gertrudis (6 Ianuarii 1256 - Eisleben, Germania, 1301/2), dicta «Magna», adhuc puella commissa est monasterio Helfta, ubi mansit tota vita. In schola mulierum magnae experientiae spiritualis, sicut Matildis de Hackeborn et Matildis de Magdeburgo, aluit vitam suam interiorem lectione Bibliae et Patrum. Scripsit commentarios biblicos in lingua vulgari ut etiam simpliciores homines possent accedere ad Sacras Scripturas. In aliis operibus, in latino, collegit preces et meditationes in quibus cantat amorem Dei pro humanitate. Etsi numquam canonizata est formaliter, tamen approbatum est officium liturgicum eius anno 1606; anno 1677 nomen eius inscriptum est in Martyrologio Romano, et festum eius extensum est ad Ecclesiam universalem anno 1738.",
-        "patronage": "",
+        "patronage": "Animae Purgatorii, viatores",
         "main_shrine": "Monasterium Helfta (Eisleben, Germania)"
     },
     "StElizabethHungary_381": {
@@ -2756,7 +2756,7 @@
         "place_of_birth": "Hungaria",
         "place_of_burial": "Ecclesia Sanctae Elisabethae (Marburgum, Germania)",
         "notes": "Elisabeth (Hungaria, 1207 - Marburg, Germania, 17 Novembris 1231), uxor Ludovici IV, comitis Thuringiae (Germania), caritate intensa animata, miseros bonis suis sublevavit et aegrotos adiuvit. Post maturam mortem mariti, eis se totam dedicavit. Spiritu franciscano attracta, Marburgi hospitale fundavit ubi egenos recipiebat, eis personaliter inserviens.",
-        "patronage": "",
+        "patronage": "Viduae, pistores, caritas",
         "main_shrine": "Ecclesia Sanctae Elisabethae (Marburgum, Germania)"
     },
     "StFrancisXavier_388": {
@@ -3016,7 +3016,7 @@
         "place_of_birth": "Mons Politianus (Sena, Italia)",
         "place_of_burial": "Ecclesia Sancti Ignatii (Roma, Italia)",
         "notes": "Robertus (Mons Politianus, Sena, 4 Octobris 1542 - Roma, 17 Septembris 1621), iesuita, suam insignem competentiam theologicam tam in complexis controversiis doctrinalibus (Disputationes de controversiis christianae fidei), quam in catechismo populari redigendo adhibuit. Cardinalis et archiepiscopus Capuanus, exemplarem applicationem Concilii Tridentini dedit, donec gravia munera Romana eum ad dioecesim relinquendam impulerunt ut se totum Ecclesiae universali servitio dedicaret.",
-        "patronage": "",
+        "patronage": "Catechistae, confessores, canonistae",
         "main_shrine": "Ecclesia Sancti Ignatii (Roma, Italia)"
     },
     "StTeresaJesus_499": {
@@ -3026,7 +3026,7 @@
         "place_of_birth": "Abula, Hispania",
         "place_of_burial": "Basilica Sanctae Teresiae, Alba de Tormes, Hispania",
         "notes": "Teresa (Abula, Hispania, 1515 - Alba de Tormes, 15 Octobris 1582), ingressa Carmelum Abulae, reformationem Ordinis incepit, Carmelitani Discalceati originem dedit. Eius intensa activitas fundationum monasticarum per totam Hispaniam profunda experientia spirituali adiuta et sustentata est, usque ad unionem mysticam cum Christo, quae in scriptis suis (inter quae autobiographicum Liber vitae et Via perfectionis) testata est et ut essentialis dimensio pro quolibet christiano suggeritur. Prima mulier fuit quae doctor Ecclesiae proclamata est (Paulus VI, 1970).",
-        "patronage": "",
+        "patronage": "Morbi corporales, scriptores",
         "main_shrine": "Basilica Sanctae Teresiae, Alba de Tormes, Hispania"
     },
     "StAlbertGreat_501": {
@@ -3166,7 +3166,7 @@
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
         "notes": "Sancta Domus, a traditione identificata ut domus beatae Virginis Mariae, custoditur et veneratur in Laureto. Narratio hagiographica angelis tribuit mirabilem translationem nocte inter 9 et 10 Decembris 1294. Circa eam aedificatum est sanctuarium, frequentatum a multis peregrinis cupientibus confirmare fidem suam in Verbum Dei factum carnem pro nobis.",
-        "patronage": "",
+        "patronage": "Aviationes, viatores",
         "main_shrine": "Sanctuarium Sanctae Domus Lauretanae (Italia)"
     },
     "StFaustinaKowalska_557": {
@@ -3446,7 +3446,7 @@
         "place_of_birth": "Nisibi (hodierna Nusaybin, Turcia)",
         "place_of_burial": "non pertinet",
         "notes": "Ephraem (Nisibi, hodierna Nusaybin, Turcia, circiter 306 - Edessa, hodierna Şanliurfa, 9 Iunii 373) contulit ad fundationem scholae theologicae, primo in patria, deinde Edessae, ubi se contulit post transitum Nisibi sub dominio Persarum. Hymnos liturgicos composuit imaginibus et rhythmorum divites, qui eum in toto Oriente christiano clarum fecerunt. Exemplum diaconalis ministerii in docendo, in liturgica animatione et in assistentia egentibus praebuit.",
-        "patronage": "",
+        "patronage": "Cantores, musici, poetae",
         "main_shrine": "non pertinet"
     },
     "Guadalupe_555": {
@@ -3696,7 +3696,7 @@
         "place_of_birth": "Palaestina aut Cyprus",
         "place_of_burial": "Initio eius reliquiae in ecclesia Alexandriae veneratae sunt, quae in loco antiquissimi mausolei Alexandri Magni aedificata erat. Saeculo VII eius reliquiae Venetias translatae sunt. Cathedralis Sancti Marci Cairi aliquas reliquias conservat, quae ex Basilica Sancti Marci Venetiarum translatae sunt.",
         "notes": "Ioannes, dictus Marcus, est filius Mariae Hierosolymitanae, in cuius domo communitas christiana congregatur et ubi Petrus post liberationem e carcere refugium invenit (cf. At 12, 12). Consobrinus Barnabae, cooperatur cum Paulo in primo itinere missionario, usque in Pamphyliam, ubi ab eo separatur (cf. At 12, 25; 15, 37-38). Discipulus dilectus Petri – qui eum «filium meum» appellat (1 Pt 5, 13) –, iterum ad latus Pauli Romae apparet (cf. Fm 24; Col 4, 10). Marco traditio Evangelium quod nomen eius fert attribuit, quod praedicationem apostoli Petri resonat. In eo, Iesus ut «Christus, Filius Dei» (Mc 1, 1) praesentatur et proclamatur Crucifixum resurrexisse (cf. Mc 16, 6). Festum eius celebratur die 25 Aprilis etiam a Coptis et Byzantinis.",
-        "patronage": "",
+        "patronage": "notarii, scribae, Venetiae",
         "main_shrine": "Basilica Sancti Marci (Venetiae, Italia); Cathedralis Sancti Marci (Cairus, Aegyptus)"
     },
     "StThomasMore_609": {
@@ -3706,7 +3706,7 @@
         "place_of_birth": "Londinium (Regnum Unitum)",
         "place_of_burial": "Ecclesia Sancti Petri ad Vincula (Londinium, Regnum Unitum)",
         "notes": "Thomas Morus (Londinium, 7 februarii 1477 - 22 iunii 1535), laicus magnae culturae et experientiae politicae, fuit cancellarius regni. Una cum episcopo Ioanne Fisher opposuit conatum regis Henrici VIII obtinendi a Roma dissolutionem matrimonii sui et, praesertim, eius praetensionem se ponendi caput Ecclesiae Anglicanae, frangendo communionem ecclesialem. Ambo morti addicti sunt propter eorum constantem testimonium.",
-        "patronage": "",
+        "patronage": "Politici, advocati, iura religiosa",
         "main_shrine": "Ecclesia Sancti Petri ad Vincula (Londinium, Regnum Unitum)"
     }
 }
