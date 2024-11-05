@@ -1,6 +1,6 @@
 <?php
 
-namespace LitCal\AnniversaryCalculator\Enums;
+namespace LiturgicalCalendar\AnniversaryCalculator\Enums;
 
 class StatusCode
 {

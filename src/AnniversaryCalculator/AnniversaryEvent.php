@@ -1,10 +1,10 @@
 <?php
 
-namespace LitCal\AnniversaryCalculator;
+namespace LiturgicalCalendar\AnniversaryCalculator;
 
-use LitCal\AnniversaryCalculator\Enums\AnnivType;
-use LitCal\AnniversaryCalculator\Enums\AreaInterest;
-use LitCal\AnniversaryCalculator\Enums\LitCalendar;
+use LiturgicalCalendar\AnniversaryCalculator\Enums\AnnivType;
+use LiturgicalCalendar\AnniversaryCalculator\Enums\AreaInterest;
+use LiturgicalCalendar\AnniversaryCalculator\Enums\LitCalendar;
 
 class AnniversaryEvent
 {

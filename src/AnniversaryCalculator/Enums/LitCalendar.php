@@ -1,12 +1,12 @@
 <?php
 
-namespace LitCal\AnniversaryCalculator\Enums;
+namespace LiturgicalCalendar\AnniversaryCalculator\Enums;
 
 class LitCalendar
 {
     public const UNIVERSAL = "universal";
-    public const NATIONAL = "national";
-    public const DIOCESAN = "diocesan";
+    public const NATIONAL  = "national";
+    public const DIOCESAN  = "diocesan";
     public const WIDE_AREA = "wide_area";
     private array $GTXT;
 

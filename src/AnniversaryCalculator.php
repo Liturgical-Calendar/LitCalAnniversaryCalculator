@@ -1,9 +1,9 @@
 <?php
 
-namespace LitCal;
+namespace LiturgicalCalendar;
 
-use LitCal\AnniversaryCalculator\AnniversaryEvent;
-use LitCal\AnniversaryCalculator\Enums\StatusCode;
+use LiturgicalCalendar\AnniversaryCalculator\AnniversaryEvent;
+use LiturgicalCalendar\AnniversaryCalculator\Enums\StatusCode;
 
 class AnniversaryCalculator
 {
