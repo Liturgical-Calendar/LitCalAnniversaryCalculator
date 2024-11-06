@@ -8,6 +8,7 @@ class LitCalendar
     public const NATIONAL  = "national";
     public const DIOCESAN  = "diocesan";
     public const WIDE_AREA = "wide_area";
+    public const NON_LITURGICAL_EVENT = "non_liturgical_event";
     private array $GTXT;
 
     public static array $values = [
@@ -20,7 +21,8 @@ class LitCalendar
             self::UNIVERSAL         => strtoupper(_("universal")),
             self::NATIONAL          => strtoupper(_("national")),
             self::DIOCESAN          => strtoupper(_("diocesan")),
-            self::WIDE_AREA         => strtoupper(_("wide area"))
+            self::WIDE_AREA         => strtoupper(_("wide area")),
+            self::NON_LITURGICAL_EVENT => strtoupper(_("non liturgical event"))
         ];
     }
 

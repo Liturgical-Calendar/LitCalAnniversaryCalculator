@@ -3708,5 +3708,215 @@
         "notes": "Tommaso Moro (Londra, 7 febbraio 1477 - 22 giugno 1535), laico di grande cultura ed esperienza politica, fu cancelliere del regno. Insieme al vescovo Giovanni Fisher si oppose al tentativo del re Enrico VIII di ottenere da Roma lo scioglimento del proprio matrimonio e, soprattutto, alla sua pretesa di porsi a capo della Chiesa d’Inghilterra, spezzando la comunione ecclesiale. Furono messi a morte entrambi per la loro coerente testimonianza.",
         "patronage": "Politici, avvocati, diritti religiosi",
         "main_shrine": "Chiesa di San Pietro ad Vincula (Londra, Regno Unito)"
+    },
+    "CouncilOfNicea_610": {
+        "subject": "Primo Concilio di Nicea",
+        "places": "Nicaea, Bitinia (attuale İznik, Turchia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Primo Concilio di Nicea, convocato da Costantino I nel 325, fu il primo concilio ecumenico della cristianità. Vi parteciparono circa 300 vescovi, provenienti da tutto l'impero romano. La Chiesa stava attraversando un periodo di crisi, a causa delle divisioni interne e delle persecuzioni da parte dell'impero. Il concilio si riunì per rispondere all'eresia ariana, che negava la divinità di Gesù Cristo. I vescovi si riunirono per stabilire la verità della fede cristiana e per porre fine alle divisioni. Dopo un dibattito acceso e un conflitto con l'imperatore, il concilio stabilì la divinità di Gesù Cristo e condannò l'arianesimo. Fu redatto il Credo niceno-costantinopolitano, che stabilì la formula della Trinità: Dio Padre, Dio Figlio e Dio Spirito Santo. La fede cristiana fu rafforzata e l'unità della Chiesa fu ristabilita.",
+        "patronage": "N/A",
+        "main_shrine": "Chiesa di Santa Sofia (İznik, Turchia)"
+    },
+    "CouncilOfConstantinople_611": {
+        "subject": "Primo Concilio di Costantinopoli",
+        "places": "Costantinopoli, Tracia (attuale Istanbul, Turchia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Primo Concilio di Costantinopoli, convocato da Teodosio I nel 381, fu il secondo concilio ecumenico della cristianità. Vi parteciparono circa 150 vescovi, provenienti da tutto l'impero romano d'Oriente. Il concilio si riunì per porre fine alle divisioni nate nel decennio precedente, a causa dell'eresia ariana e delle controversie teologiche. Inoltre, si voleva stabilire la successione del patriarca di Costantinopoli, Demofilo, costretto a fuggire a causa delle minacce ariane. I vescovi riuniti stabilirono che il patriarca di Costantinopoli avrebbe avuto una posizione di preminenza dopo il vescovo di Roma e, inoltre, riaffermarono la divinità di Gesù Cristo, come stabilito nel Primo Concilio di Nicea. Inoltre, fu condannato l'apollinarismo, un'altra eresia che negava la divinità di Gesù Cristo. Fu redatto il Credo niceno-costantinopolitano, che stabilì la formula della Trinità: Dio Padre, Dio Figlio e Dio Spirito Santo. La fede cristiana fu rafforzata e l'unità della Chiesa fu ristabilita.",
+        "patronage": "N/A",
+        "main_shrine": "Chiesa dei Santi Apostoli (Istanbul, Turchia)"
+    },
+    "CouncilOfEphesus_612": {
+        "subject": "Concilio di Efeso",
+        "places": "Efeso (attuale Selçuk, Turchia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Concilio di Efeso, tenutosi nel 431, è stato il terzo concilio ecumenico della cristianità e ha avuto luogo nella città di Efeso, nell'attuale Turchia. Convocato dall'imperatore Teodosio II, il concilio affrontò principalmente la controversia cristologica suscitata da Nestorio, patriarca di Costantinopoli, il quale sosteneva che Maria non poteva essere chiamata 'Madre di Dio' ('Theotokos'), ma solo 'Madre di Cristo' ('Christotokos'), poiché Cristo aveva due nature separate, una umana e una divina. Questa posizione sollevò l'opposizione di Cirillo di Alessandria, che difese l'unità della persona di Cristo e l'uso del titolo 'Theotokos' per Maria. Al concilio parteciparono circa 200 vescovi, i quali, dopo accesi dibattiti, condannarono l'insegnamento di Nestorio, affermando che Cristo è una sola persona, con due nature inscindibili, e confermarono il titolo di 'Theotokos' per Maria. Il concilio sottolineò l'importanza dell'unità della Chiesa e della fede cristiana e riaffermò il credo niceno. Le decisioni di Efeso ebbero un impatto duraturo sulla teologia cristiana e contribuirono a definire la dottrina ortodossa sulla natura di Cristo e sulla venerazione di Maria.",
+        "patronage": "N/A",
+        "main_shrine": "Chiesa di San Giovanni Evangelista (Efeso, Turchia)"
+    },
+    "CouncilOfChalcedon_613": {
+        "subject": "Concilio di Caledonia",
+        "places": "Calcedonia, Bitinia (attuale Kadıköy, un distretto di Istanbul, Turchia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Concilio di Calcedonia, tenutosi nel 451, fu il quarto concilio ecumenico della cristianità e si svolse nella città di Calcedonia, in Bitinia, nell'attuale Turchia. Convocato dall'imperatore Marciano, il concilio affrontò la controversia cristologica suscitata da Eutiche, un monaco che sosteneva che Gesù Cristo avesse solo una natura divina e non umana. La posizione di Eutiche fu condannata dai vescovi partecipanti al concilio, che affermarono che Gesù Cristo è 'una sola persona con due nature inscindibili, divine e umane, unite in lui senza confusione, mutazione, divisione o separazione'. Il concilio elaborò la dottrina della duplice natura di Cristo, affermando che Gesù Cristo è 'vero Dio e vero uomo', e riaffermò la fede nicena. Le decisioni di Calcedonia ebbero un impatto duraturo sulla teologia cristiana e contribuirono a definire la dottrina ortodossa sulla natura di Cristo.",
+        "patronage": "N/A",
+        "main_shrine": "Chiesa di Santa Eufemia (Calcedonia, Turchia)"
+    },
+    "SecondCouncilOfConstantinople_614": {
+        "subject": "Secondo Concilio di Costantinopoli",
+        "places": "Costantinopoli, Tracia (attuale Istanbul, Turchia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Secondo Concilio di Costantinopoli, quinto cincilio ecumenico della cristianità, si tenne nel 553 sotto l'imperatore Giustiniano I per risolvere divisioni teologiche tra la Chiesa d'Oriente e d'Occidente, causate dal monofisismo, che sosteneva l'unica natura divina di Cristo. Giustiniano cercava di unire l'Impero riaffermando la dottrina calcedoniana delle due nature (umana e divina) di Cristo, ma con concessioni ai monofisiti. Il concilio condannò i Tre Capitoli—scritti di teologi ritenuti troppo vicini al nestorianesimo, che separava troppo le nature di Cristo—per promuovere la coesione teologica. La decisione trovò resistenze in Occidente, ma venne accettata dalla maggior parte della Chiesa. Il concilio riaffermò l'ortodossia calcedoniana.",
+        "patronage": "N/A",
+        "main_shrine": "Chiesa dei Santi Apostoli (Costantinopoli, Turchia)"
+    },
+    "ThirdCouncilOfConstantinople_615": {
+        "subject": "Terzo Concilio di Costantinopoli",
+        "places": "Costantinopoli, Tracia (attuale Istanbul, Turchia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Terzo Concilio di Costantinopoli, sesto concilio ecumenico della cristianità, si tenne dal 680 al 681 a Costantinopoli (l'odierna Istanbul, in Turchia) sotto l'egida dell'imperatore bizantino Costantino IV. Il concilio venne convocato per risolvere il dibattito teologico sul monotelismo, una dottrina che sosteneva l’esistenza di una sola volontà (thelēsis) nella persona di Cristo, pur ammettendo le sue due nature, divina e umana. La questione del monotelismo era emersa come un tentativo di mediazione tra i sostenitori del monofisismo (che affermavano l'unica natura divina di Cristo) e coloro che, secondo il Concilio di Calcedonia (451), riconoscevano in Cristo due nature, umana e divina, unite ma distinte.",
+        "patronage": "N/A",
+        "main_shrine": "Chiesa dei Santi Apostoli (Costantinopoli, Turchia)"
+    },
+    "SecondCouncilOfNicaea_616": {
+        "subject": "Secondo Concilio di Nicea",
+        "places": "Nicaea, Bitinia (attuale İznik, Turchia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Secondo Concilio di Nicea, settimo concilio ecumenico della cristianità, si tenne nel 787 per affrontare la controversia sull'iconoclastia, cioè la distruzione delle immagini sacre, che aveva diviso l'Impero bizantino. L'imperatrice Irene, reggente per il figlio Costantino VI, convocò il concilio per ripristinare la venerazione delle icone, pratica sostenuta dalla Chiesa d’Oriente e d’Occidente ma contestata dagli iconoclasti, che consideravano le immagini idolatre. Il concilio stabilì che le icone potevano essere venerate, ma non adorate come Dio stesso. Questa distinzione permise di preservare l'uso delle immagini come strumento di devozione, rafforzando la dottrina dell’incarnazione: venerare le icone significa onorare la realtà di Cristo fatto uomo. Il concilio segnò la fine ufficiale dell’iconoclastia.",
+        "patronage": "N/A",
+        "main_shrine": "Chiesa di Santa Sofia (İznik, Turchia)"
+    },
+    "FourthCouncilOfConstantinople_617": {
+        "subject": "Quarto Concilio di Costantinopoli",
+        "places": "Costantinopoli, Tracia (attuale Istanbul, Turchia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Quarto Concilio di Costantinopoli, tenutosi nell'869-870 a Costantinopoli, venne convocato dall'imperatore Basilio I e dal papa Adriano II per risolvere tensioni nella Chiesa d’Oriente. La questione principale era la deposizione del patriarca Fozio, che aveva preso il posto di Ignazio in circostanze controverse, generando un grande scisma. Il concilio dichiarò illegittima la nomina di Fozio e ristabilì Ignazio, sancendo norme sull'elezione dei patriarchi e rafforzando l’autorità papale. Il concilio fu riconosciuto come ecumenico dalla Chiesa cattolica ma non da quella ortodossa, che continuò a considerare Fozio come patriarca legittimo. Questo concilio rappresentò un tentativo di consolidare l’unità tra le chiese d’Oriente e d’Occidente, pur non riuscendo a evitare ulteriori divisioni che culmineranno nello scisma del 1054.",
+        "patronage": "N/A",
+        "main_shrine": "Chiesa dei Santi Apostoli (Costantinopoli, Turchia)"
+    },
+    "FirstLateranCouncil_618": {
+        "subject": "Primo Concilio Lateranense",
+        "places": "Roma (Italia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Primo Concilio Lateranense si tenne a Roma nel 1123, convocato da Papa Callisto II. Fu il primo concilio ecumenico svoltosi in Occidente e servì principalmente a ratificare il Concordato di Worms (1122), che aveva risolto la controversia delle investiture tra il papato e l’impero. Questo conflitto verteva sul diritto dei sovrani laici di nominare vescovi e abati, un’usanza che minava l’autorità della Chiesa. Il concilio confermò che solo il papa poteva investire i prelati e proibì l’intervento dei laici nelle nomine ecclesiastiche. Venne inoltre affrontata la questione del celibato clericale, rafforzandone l’obbligo. Questo concilio consolidò l’indipendenza della Chiesa dall’autorità secolare, segnando una tappa fondamentale nella definizione dei diritti ecclesiastici e nell’affermazione dell’autorità papale in Europa medievale.",
+        "patronage": "N/A",
+        "main_shrine": "Basilica di San Giovanni in Laterano (Roma, Italia)"
+    },
+    "SecondLateranCouncil_619": {
+        "subject": "Secondo Concilio Lateranense",
+        "places": "Roma (Italia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Secondo Concilio Lateranense si tenne a Roma nel 1139, convocato da Papa Innocenzo II per sanare le divisioni causate dallo scisma dell’antipapa Anacleto II, che si era opposto all’elezione di Innocenzo II. Una volta morto Anacleto, il concilio fu convocato per ristabilire l'unità e affrontare questioni disciplinari e morali. Tra le decisioni principali, il concilio condannò il nepotismo, la simonia (compravendita di cariche ecclesiastiche) e le ordinazioni irregolari. Rafforzò inoltre l’obbligo del celibato clericale e impose misure contro gli abusi tra il clero. Il concilio scomunicò i sostenitori dell’antipapa e rafforzò il controllo della Chiesa sulla disciplina ecclesiastica.",
+        "patronage": "N/A",
+        "main_shrine": "Basilica di San Giovanni in Laterano (Roma, Italia)"
+    },
+    "ThirdLateranCouncil_620": {
+        "subject": "Terzo Concilio Lateranense",
+        "places": "Roma (Italia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Terzo Concilio Lateranense si svolse a Roma nel 1179, convocato da Papa Alessandro III per risolvere la crisi generata dagli antipapi sostenuti dall’imperatore Federico Barbarossa e per attuare riforme nella Chiesa. Il concilio stabilì che l'elezione papale richiedesse una maggioranza di almeno due terzi dei cardinali, una misura volta a prevenire scismi. Oltre a riformare il processo elettivo, il concilio adottò provvedimenti contro la simonia, ribadì l’obbligo del celibato per il clero, e affrontò il problema delle ordinazioni abusive. Condannò inoltre eresie emergenti, come quella dei Catari e degli Albigesi, rafforzando l’ortodossia.",
+        "patronage": "N/A",
+        "main_shrine": "Basilica di San Giovanni in Laterano (Roma, Italia)"
+    },
+    "FourthLateranCouncil_621": {
+        "subject": "Quarto Concilio Lateranense",
+        "places": "Roma (Italia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Quarto Concilio Lateranense si tenne a Roma nel 1215 ed è considerato uno dei più importanti concili medievali, convocato da Papa Innocenzo III per riformare la Chiesa e affrontare questioni dottrinali. Il concilio emanò ben 70 canoni, tra cui riforme su disciplina e morale clericale, per combattere simonia e immoralità. Inoltre, introdusse l'obbligo per tutti i fedeli di confessarsi almeno una volta all’anno e di ricevere l’Eucaristia a Pasqua. Sul piano dottrinale, il concilio definì il dogma della transustanziazione, spiegando la presenza reale di Cristo nell’Eucaristia. Condannò diverse eresie, tra cui quella dei Catari e degli Albigesi, e sancì misure severe contro gli eretici.",
+        "patronage": "N/A",
+        "main_shrine": "Basilica di San Giovanni in Laterano (Roma, Italia)"
+    },
+    "FirstCouncilOfLyon_622": {
+        "subject": "Primo Concilio di Lione",
+        "places": "Lione (Francia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Primo Concilio di Lione si tenne nel 1245 a Lione, convocato da Papa Innocenzo IV per affrontare gravi questioni politiche e religiose. Il tema centrale fu il conflitto con l’imperatore del Sacro Romano Impero, Federico II, accusato di eresia, oppressione della Chiesa e violazione dei diritti papali. Il concilio portò alla sua scomunica e deposizione, evento eccezionale nella storia dell’Impero. Oltre alla questione imperiale, il concilio discusse la necessità di una crociata per recuperare Gerusalemme, caduta in mano musulmana, e approvò misure per riformare la disciplina ecclesiastica e combattere l'eresia. Tra le altre decisioni, vennero stanziate risorse per sostenere la difesa dei territori cristiani in Terra Santa.",
+        "patronage": "N/A",
+        "main_shrine": "Cattedrale di Lione (Lione, Francia)"
+    },
+    "SecondCouncilOfLyon_623": {
+        "subject": "Secondo Concilio di Lione",
+        "places": "Lione (Francia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Secondo Concilio di Lione si tenne nel 1274 a Lione, convocato da Papa Gregorio X. Il concilio affrontò questioni come l’unione con la Chiesa ortodossa, la riforma della Chiesa latina, la crociata e la guerra contro gli infedeli. Venne inoltre discusso il problema della povertà e della proprietà all’interno dell’Ordine francescano. Il concilio condannò l’eresia dei Catari e degli Albigesi e stabilì la celebrazione della Festa del Corpus Domini.",
+        "patronage": "N/A",
+        "main_shrine": "Cattedrale di Lione (Lione, Francia)"
+    },
+    "CouncilOfVienne_624": {
+        "subject": "Concilio di Vienne",
+        "places": "Vienne (Francia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Concilio di Vienne si tenne nel 1311-1312 a Vienne, in Francia, convocato da Papa Clemente V. Il concilio affrontò questioni come la soppressione dei Templari, l’accusa di eresia contro la regina di Francia Margherita di Borgogna e la crociata contro i musulmani. Venne inoltre discusso il problema della povertà e della proprietà all’interno dell’Ordine francescano. Il concilio condannò l’eresia dei Begardi e dei Beghini, che sostenevano una forma di poverismo radicale. Infine, il concilio stabilì che i vescovi dovevano avere una laurea in teologia o diritto canonico per poter essere consacrati. Il concilio rafforzò l’autorità papale e riaffermò la dottrina cattolica contro le eresie.",
+        "patronage": "N/A",
+        "main_shrine": "Cattedrale di Saint-Maurice (Vienne, Francia)"
+    },
+    "CouncilOfConstance_625": {
+        "subject": "Concilio di Costanza",
+        "places": "Costanza (Svizzera)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Concilio di Costanza (1414-1418) fu un concilio ecumenico della Chiesa cattolica che si svolse a Costanza, in Svizzera. Convocato dall'antipapa Papa Giovanni XXIII per porre fine allo Scisma d'Occidente, presieduto dal re dei Romani Sigismondo, e confermato da papa Gregorio XII, il concilio elesse Papa Martino V e condannò l'eresia di Jan Hus e di John Wyclif. Il concilio si occupò anche di questioni come la riforma della Chiesa, la lotta contro l'eresia e la crociata contro i turchi. Tra le decisioni più importanti, venne stabilito che il papa non poteva essere giudicato da nessuno, e che il concilio generale era l'unica autorità in grado di deporre un papa. Il concilio rafforzò l'autorità papale e contribuì a porre fine allo Scisma d'Occidente.",
+        "patronage": "N/A",
+        "main_shrine": "Cattedrale di Costanza (Svizzera)"
+    },
+    "CouncilOfBaselFerraraFlorence_626": {
+        "subject": "Concilio di Basilea, Ferrara e Firenze",
+        "places": "Basilea (Svizzera); Ferrara (Italia); Firenze (Italia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Concilio di Basilea, Ferrara e Firenze (1431-1445) fu un concilio ecumenico della Chiesa cattolica che si svolse in tre sedi diverse. Nato con l’intento di riformare la Chiesa e porre fine allo Scisma d’Occidente, il concilio si occupò anche di questioni come la lotta contro l'eresia, la crociata contro i turchi e la riunificazione delle Chiese d’Oriente e d’Occidente. Tra le decisioni più importanti, venne stabilita la superiorità del concilio generale sul papa, e venne tentata la riunificazione con la Chiesa ortodossa. Il concilio, tuttavia, non ebbe successo e venne infine sciolto da papa Eugenio IV.",
+        "patronage": "N/A",
+        "main_shrine": "Cattedrale di Basilea (Svizzera); Duomo di Ferrara (Italia); Duomo di Firenze (Italia)"
+    },
+    "FifthLateranCouncil_627": {
+        "subject": "Quinto Concilio Lateranense",
+        "places": "Roma (Italia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Quinto Concilio Lateranense (1512-1517) fu l'ultimo concilio ecumenico del Medioevo. Convocato da papa Giulio II per riformare la Chiesa e contrastare la Riforma protestante, il concilio si occupò principalmente di questioni disciplinari e morali. Tra le decisioni più importanti, venne stabilita la superiorità del papa sul concilio generale, e venne ribadita la dottrina cattolica sulla grazia e sulla predestinazione. Il concilio non ebbe successo nel porre fine alle divisioni nella Chiesa, e non riuscì a impedire la nascita della Riforma protestante.",
+        "patronage": "N/A",
+        "main_shrine": "Basilica di San Giovanni in Laterano (Roma, Italia)"
+    },
+    "CouncilOfTrent_628": {
+        "subject": "Concilio di Trento",
+        "places": "Roma (Italia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Concilio di Trento (1545-1563) fu il 19° concilio ecumenico della Chiesa cattolica. Convocato da papa Paolo III per contrastare la Riforma protestante, il concilio si occupò della riforma interna della Chiesa e della definizione della dottrina cattolica in opposizione alle tesi protestanti. Tra le decisioni più importanti, venne affermata la validità della tradizione e delle Scritture come fonti della rivelazione divina, e venne ribadita la dottrina cattolica sulla grazia, sulla predestinazione e sulla giustificazione. Il concilio produsse anche un importante impatto sulla vita religiosa e sulla cultura dell'epoca, promuovendo la riforma degli ordini religiosi e la creazione di nuove istituzioni per la formazione del clero.",
+        "patronage": "N/A",
+        "main_shrine": "Cattedrale di San Vigilio (Trento, Italia)"
+    },
+    "FirstVaticanCouncil_629": {
+        "subject": "Concilio Vaticano I",
+        "places": "Roma (Italia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Concilio Vaticano I (1869-1870) fu il ventesimo concilio ecumenico della Chiesa cattolica, convocato da papa Pio IX. Fu principalmente volto a rispondere alle sfide poste dal razionalismo, dal liberalismo e dal materialismo. Tra i suoi decreti più significativi vi fu la definizione del dogma dell'infallibilità papale, che afferma che il papa è infallibile quando proclama ex cathedra una dottrina di fede o morale da essere creduta da tutta la Chiesa. Il concilio fu interrotto a causa della presa di Roma e della fine dello Stato Pontificio, e non fu mai ufficialmente chiuso, lasciando molte questioni di riforma interna irrisolte.",
+        "patronage": "N/A",
+        "main_shrine": "Basilica di San Pietro in Vaticano (Città del Vaticano)"
+    },
+    "SecondVaticanCouncil_630": {
+        "subject": "Concilio Vaticano II",
+        "places": "Roma (Italia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Concilio Vaticano II (1962-1965) fu il ventunesimo concilio ecumenico della Chiesa cattolica, convocato da papa Giovanni XXIII. Fu un concilio di riforma, che si occupò di aggiornare la Chiesa per renderla più adatta alle esigenze del XX secolo. Tra i suoi documenti più importanti, vi furono la costituzione sulla Chiesa Lumen Gentium, la costituzione sulla liturgia Sacrosanctum Concilium e la dichiarazione sui rapporti con le religioni non cristiane Nostra Aetate. Il concilio produsse anche un importante impatto sulla vita religiosa e sulla cultura dell'epoca, promuovendo la riforma degli ordini religiosi e la creazione di nuove istituzioni per la formazione del clero.",
+        "patronage": "N/A",
+        "main_shrine": "Basilica di San Pietro in Vaticano (Città del Vaticano)"
     }
 }

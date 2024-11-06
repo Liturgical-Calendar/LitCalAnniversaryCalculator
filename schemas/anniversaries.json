@@ -46,12 +46,12 @@
                     "maximum": 12
                 },
                 "memorial_day": {
-                    "type": "integer",
+                    "type": ["integer", "null"],
                     "minimum": 1,
                     "maximum": 31
                 },
                 "memorial_month": {
-                    "type": "integer",
+                    "type": ["integer", "null"],
                     "minimum": 1,
                     "maximum": 12
                 },
@@ -64,7 +64,8 @@
                         "universal",
                         "national",
                         "diocesan",
-                        "wider_area"
+                        "wider_area",
+                        "non_liturgical_event"
                     ]
                 },
                 "calendar_area": {
