@@ -3837,7 +3837,7 @@
         "place_of_burial": "Bâle (Suisse) ; Ferrare (Italie) ; Florence (Italie)",
         "notes": "Le Premier Concile de Lyon s'est tenu en 1245 à Lyon, convoqué par le pape Innocent IV pour aborder de graves questions politiques et religieuses. Le thème central était le conflit avec l'empereur du Saint-Empire romain germanique, Frédéric II, accusé d'hérésie, d'oppression de l'Église et de violation des droits pontificaux. Le concile a conduit à son excommunication et à sa déposition, un événement exceptionnel dans l'histoire de l'Empire. Outre la question impériale, le concile a discuté de la nécessité d'une croisade pour récupérer Jérusalem, tombée aux mains des musulmans, et a approuvé des mesures pour réformer la discipline ecclésiastique et combattre l'hérésie. Parmi les autres décisions, des ressources ont été allouées pour soutenir la défense des territoires chrétiens en Terre Sainte.",
         "patronage": "Bâle (Suisse) ; Ferrare (Italie) ; Florence (Italie)",
-        "main_shrine": ""
+        "main_shrine": "Cathédrale de Lyon (Lyon, France)"
     },
     "SecondCouncilOfLyon_623": {
         "subject": "Deuxième Concile de Lyon",
@@ -3847,7 +3847,7 @@
         "place_of_burial": "Bâle (Suisse) ; Ferrare (Italie) ; Florence (Italie)",
         "notes": "Le Deuxième Concile de Lyon s'est tenu en 1274 à Lyon, convoqué par le pape Grégoire X. Le concile a abordé des questions telles que l'union avec l'Église orthodoxe, la réforme de l'Église latine, la croisade et la guerre contre les infidèles. Le problème de la pauvreté et de la propriété au sein de l'Ordre franciscain a également été discuté. Le concile a condamné l'hérésie des Cathares et des Albigeois et a établi la célébration de la Fête-Dieu.",
         "patronage": "Lyon (France)",
-        "main_shrine": ""
+        "main_shrine": "Cathédrale de Lyon (Lyon, France)"
     },
     "CouncilOfVienne_624": {
         "subject": "Concile de Vienne",
@@ -3907,7 +3907,7 @@
         "place_of_burial": "Constance (Suisse)",
         "notes": "Le Concile Vatican I (1869-1870) fut le vingtième concile œcuménique de l'Église catholique, convoqué par le pape Pie IX. Il visait principalement à répondre aux défis posés par le rationalisme, le libéralisme et le matérialisme. Parmi ses décrets les plus significatifs, il y eut la définition du dogme de l'infaillibilité papale, qui affirme que le pape est infaillible lorsqu'il proclame ex cathedra une doctrine de foi ou de morale à croire par toute l'Église. Le concile fut interrompu en raison de la prise de Rome et de la fin de l'État pontifical, et ne fut jamais officiellement clos, laissant de nombreuses questions de réforme interne non résolues.",
         "patronage": "Lyon (France)",
-        "main_shrine": ""
+        "main_shrine": "Basilique Saint-Pierre au Vatican (Cité du Vatican)"
     },
     "SecondVaticanCouncil_630": {
         "subject": "Concile Vatican II",
@@ -3917,6 +3917,6 @@
         "place_of_burial": "Bâle (Suisse) ; Ferrare (Italie) ; Florence (Italie)",
         "notes": "Le Concile Vatican II (1962-1965) fut le vingt-et-unième concile œcuménique de l'Église catholique, convoqué par le pape Jean XXIII. Ce fut un concile de réforme, qui s'occupa de mettre à jour l'Église pour la rendre plus adaptée aux besoins du XXe siècle. Parmi ses documents les plus importants, il y eut la constitution sur l'Église Lumen Gentium, la constitution sur la liturgie Sacrosanctum Concilium et la déclaration sur les relations avec les religions non chrétiennes Nostra Aetate. Le concile eut également un impact important sur la vie religieuse et la culture de l'époque, promouvant la réforme des ordres religieux et la création de nouvelles institutions pour la formation du clergé.",
         "patronage": "Lyon (France)",
-        "main_shrine": ""
+        "main_shrine": "Basilique Saint-Pierre au Vatican (Cité du Vatican)"
     }
 }
