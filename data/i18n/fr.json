@@ -3725,13 +3725,13 @@
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
-        "patronage": "",
-        "main_shrine": ""
+        "notes": "Le Premier Concile de Constantinople, convoqué par Théodose Ier en 381, fut le deuxième concile œcuménique de la chrétienté. Environ 150 évêques y participèrent, venant de tout l'Empire romain d'Orient. Le concile se réunit pour mettre fin aux divisions nées dans la décennie précédente, en raison de l'hérésie arienne et des controverses théologiques. De plus, il s'agissait de régler la succession du patriarche de Constantinople, Démophile, contraint de fuir à cause des menaces ariennes. Les évêques réunis décidèrent que le patriarche de Constantinople aurait une position de prééminence après l'évêque de Rome et, en outre, réaffirmèrent la divinité de Jésus-Christ, comme établi au Premier Concile de Nicée. De plus, l'apollinarisme, une autre hérésie niant la divinité de Jésus-Christ, fut condamné. Le Credo nicéno-constantinopolitain fut rédigé, établissant la formule de la Trinité : Dieu le Père, Dieu le Fils et Dieu le Saint-Esprit. La foi chrétienne fut renforcée et l'unité de l'Église fut rétablie.",
+        "patronage": "N/A",
+        "main_shrine": "Église des Saints-Apôtres (Istanbul, Turquie)"
     },
     "CouncilOfEphesus_612": {
-        "subject": "",
-        "places": "",
+        "subject": "Concile d'Éphèse",
+        "places": "Éphèse (actuelle Selçuk, Turquie)",
         "place_of_death": "",
         "place_of_birth": "",
         "place_of_burial": "",
