@@ -3710,21 +3710,21 @@
         "main_shrine": "Église Saint-Pierre-aux-Liens (Londres, Royaume-Uni)"
     },
     "CouncilOfNicea_610": {
-        "subject": "",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
-        "notes": "",
-        "patronage": "",
-        "main_shrine": ""
+        "subject": "Premier Concile de Nicée",
+        "places": "Nicée, Bithynie (actuelle İznik, Turquie)",
+        "place_of_death": "N/D",
+        "place_of_birth": "N/D",
+        "place_of_burial": "N/D",
+        "notes": "Le premier concile de Nicée, convoqué par Constantin Ier en 325, fut le premier concile œcuménique de la chrétienté. Environ 300 évêques y participèrent, venant de tout l'empire romain. L'Église traversait une période de crise, en raison des divisions internes et des persécutions de l'empire. Le concile se réunit pour répondre à l'hérésie arienne, qui niait la divinité de Jésus-Christ. Les évêques se réunirent pour établir la vérité de la foi chrétienne et mettre fin aux divisions. Après un débat animé et un conflit avec l'empereur, le concile établit la divinité de Jésus-Christ et condamna l'arianisme. Le Credo de Nicée-Constantinople fut rédigé, établissant la formule de la Trinité : Dieu le Père, Dieu le Fils et Dieu le Saint-Esprit. La foi chrétienne fut renforcée et l'unité de l'Église rétablie.",
+        "patronage": "N/D",
+        "main_shrine": "Église Sainte-Sophie (İznik, Turquie)"
     },
     "CouncilOfConstantinople_611": {
-        "subject": "",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "subject": "Premier Concile de Constantinople",
+        "places": "Constantinople, Thrace (actuelle Istanbul, Turquie)",
+        "place_of_death": "N/D",
+        "place_of_birth": "N/D",
+        "place_of_burial": "N/D",
         "notes": "",
         "patronage": "",
         "main_shrine": ""
