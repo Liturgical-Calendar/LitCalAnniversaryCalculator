@@ -2,13 +2,14 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Emaer1916 <SzC87@wp.pl>, 2024.
+# Weblate Admin <admin@example.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-19 23:06+0000\n"
-"PO-Revision-Date: 2024-10-13 22:40+0000\n"
-"Last-Translator: Emaer1916 <SzC87@wp.pl>\n"
+"PO-Revision-Date: 2024-11-06 22:48+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://translate.johnromanodorazio.com/projects/"
 "liturgical-calendar/anniversary-calculator/pl/>\n"
 "Language: pl\n"
@@ -56,6 +57,7 @@ msgstr ""
 #, php-format
 msgid "%1$d localized data events were loaded from the translation file %2$s."
 msgstr ""
+"Dane lokalizacyjne wydarzeń %1$d zostały załadowane z pliku tłumaczeń %2$s."
 
 #. translators: 1. filename, 2. language
 #: src/AnniversaryCalculator.php:325
@@ -74,6 +76,9 @@ msgid ""
 "tranlsation file %1$s, which is needed as a backup for any possible missing "
 "strings in the translation for %2$s: %3$s."
 msgstr ""
+"Wystąpił następujący błąd podczas dekodowania danych z angielskiego pliku "
+"tłumaczeń %1$s, który jest potrzebny jako kopia zapasowa dla ewentualnych "
+"brakujących ciągów w tłumaczeniu dla %2$s: %3$s."
 
 #. translators: 1. count, 2. filename, 3. language
 #: src/AnniversaryCalculator.php:347
@@ -83,10 +88,13 @@ msgid ""
 "is needed as a backup for any possible missing strings in the translation "
 "for %3$s."
 msgstr ""
+"Dane wydarzeń %1$d zostały załadowane z angielskiego pliku tłumaczeń %2$s, "
+"który jest potrzebny jako kopia zapasowa na wypadek brakujących ciągów w "
+"tłumaczeniu dla %3$s."
 
 #. translators: 1. filename, 2. count, 3. filename, 4. count
 #: src/AnniversaryCalculator.php:368
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "Events count from the translation file %1$s (%2$d) does not match the events "
 "count from the base data file %3$s (%4$d)."
@@ -109,6 +117,8 @@ msgstr ""
 #, php-format
 msgid "%1$d liturgical anniversary events were calculated for the year %2$d."
 msgstr ""
+"Wydarzenia liturgiczne związane z rocznicą %1$d zostały obliczone na rok "
+"%2$d."
 
 #. translators: 1. language
 #: src/AnniversaryCalculator.php:459
@@ -286,4 +296,4 @@ msgstr "diecezjalny"
 
 #: src/AnniversaryCalculator/Enums/LitCalendar.php:23
 msgid "wide area"
-msgstr ""
+msgstr "szeroki obszar"

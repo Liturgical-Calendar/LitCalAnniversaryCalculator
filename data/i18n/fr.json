@@ -3501,7 +3501,7 @@
     },
     "StIrenaeus_589": {
         "subject": "Saint Irénée, évêque et martyr",
-        "places": "Lyon, France",
+        "places": "Lyon (France)",
         "place_of_death": "Lyon, France",
         "place_of_birth": "Smyrne, Turquie",
         "place_of_burial": "Lyon, France",
@@ -3710,213 +3710,213 @@
         "main_shrine": "Église Saint-Pierre-aux-Liens (Londres, Royaume-Uni)"
     },
     "CouncilOfNicea_610": {
-        "subject": "",
-        "places": "",
+        "subject": "Premier Concile de Nicée",
+        "places": "Nicée, Bithynie (actuelle İznik, Turquie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le premier concile de Nicée, convoqué par Constantin Ier en 325, fut le premier concile œcuménique de la chrétienté. Environ 300 évêques y participèrent, venant de tout l'empire romain. L'Église traversait une période de crise, en raison des divisions internes et des persécutions de l'empire. Le concile se réunit pour répondre à l'hérésie arienne, qui niait la divinité de Jésus-Christ. Les évêques se réunirent pour établir la vérité de la foi chrétienne et mettre fin aux divisions. Après un débat animé et un conflit avec l'empereur, le concile établit la divinité de Jésus-Christ et condamna l'arianisme. Le Credo de Nicée-Constantinople fut rédigé, établissant la formule de la Trinité : Dieu le Père, Dieu le Fils et Dieu le Saint-Esprit. La foi chrétienne fut renforcée et l'unité de l'Église rétablie.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Église Sainte-Sophie (İznik, Turquie)"
     },
     "CouncilOfConstantinople_611": {
-        "subject": "",
-        "places": "",
+        "subject": "Premier Concile de Constantinople",
+        "places": "Constantinople, Thrace (actuelle Istanbul, Turquie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Premier Concile de Constantinople, convoqué par Théodose Ier en 381, fut le deuxième concile œcuménique de la chrétienté. Environ 150 évêques y participèrent, venant de tout l'Empire romain d'Orient. Le concile se réunit pour mettre fin aux divisions nées dans la décennie précédente, en raison de l'hérésie arienne et des controverses théologiques. De plus, il s'agissait de régler la succession du patriarche de Constantinople, Démophile, contraint de fuir à cause des menaces ariennes. Les évêques réunis décidèrent que le patriarche de Constantinople aurait une position de prééminence après l'évêque de Rome et, en outre, réaffirmèrent la divinité de Jésus-Christ, comme établi au Premier Concile de Nicée. De plus, l'apollinarisme, une autre hérésie niant la divinité de Jésus-Christ, fut condamné. Le Credo nicéno-constantinopolitain fut rédigé, établissant la formule de la Trinité : Dieu le Père, Dieu le Fils et Dieu le Saint-Esprit. La foi chrétienne fut renforcée et l'unité de l'Église fut rétablie.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Église des Saints-Apôtres (Istanbul, Turquie)"
     },
     "CouncilOfEphesus_612": {
-        "subject": "",
-        "places": "",
+        "subject": "Concile d'Éphèse",
+        "places": "Éphèse (actuelle Selçuk, Turquie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Concile d'Éphèse, tenu en 431, fut le troisième concile œcuménique de la chrétienté et eut lieu dans la ville d'Éphèse, dans l'actuelle Turquie. Convoqué par l'empereur Théodose II, le concile aborda principalement la controverse christologique suscitée par Nestorius, patriarche de Constantinople, qui soutenait que Marie ne pouvait être appelée 'Mère de Dieu' ('Theotokos'), mais seulement 'Mère du Christ' ('Christotokos'), car le Christ avait deux natures séparées, une humaine et une divine. Cette position souleva l'opposition de Cyrille d'Alexandrie, qui défendit l'unité de la personne du Christ et l'usage du titre 'Theotokos' pour Marie. Environ 200 évêques participèrent au concile et, après des débats animés, condamnèrent l'enseignement de Nestorius, affirmant que le Christ est une seule personne, avec deux natures indissociables, et confirmèrent le titre de 'Theotokos' pour Marie. Le concile souligna l'importance de l'unité de l'Église et de la foi chrétienne et réaffirma le credo nicéen. Les décisions d'Éphèse eurent un impact durable sur la théologie chrétienne et contribuèrent à définir la doctrine orthodoxe sur la nature du Christ et la vénération de Marie.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Église de Saint Jean l'Évangéliste (Éphèse, Turquie)"
     },
     "CouncilOfChalcedon_613": {
-        "subject": "",
-        "places": "",
+        "subject": "Concile de Chalcédoine",
+        "places": "Chalcédoine, Bithynie (actuel Kadıköy, un district d'Istanbul, Turquie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Concile de Chalcédoine, tenu en 451, fut le quatrième concile œcuménique de la chrétienté et se déroula dans la ville de Chalcédoine, en Bithynie, dans l'actuelle Turquie. Convoqué par l'empereur Marcien, le concile aborda la controverse christologique suscitée par Eutychès, un moine qui soutenait que Jésus-Christ n'avait qu'une nature divine et non humaine. La position d'Eutychès fut condamnée par les évêques participants au concile, qui affirmèrent que Jésus-Christ est 'une seule personne avec deux natures indissociables, divine et humaine, unies en lui sans confusion, mutation, division ou séparation'. Le concile élabora la doctrine de la double nature du Christ, affirmant que Jésus-Christ est 'vrai Dieu et vrai homme', et réaffirma la foi nicéenne. Les décisions de Chalcédoine eurent un impact durable sur la théologie chrétienne et contribuèrent à définir la doctrine orthodoxe sur la nature du Christ.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Église de Sainte-Euphémie (Chalcédoine, Turquie)"
     },
     "SecondCouncilOfConstantinople_614": {
-        "subject": "",
-        "places": "",
+        "subject": "Deuxième Concile de Constantinople",
+        "places": "Constantinople, Thrace (actuelle Istanbul, Turquie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Deuxième Concile de Constantinople, cinquième concile œcuménique de la chrétienté, se tint en 553 sous l'empereur Justinien I pour résoudre les divisions théologiques entre l'Église d'Orient et d'Occident, causées par le monophysisme, qui soutenait l'unique nature divine du Christ. Justinien cherchait à unir l'Empire en réaffirmant la doctrine chalcédonienne des deux natures (humaine et divine) du Christ, mais avec des concessions aux monophysites. Le concile condamna les Trois Chapitres—écrits de théologiens jugés trop proches du nestorianisme, qui séparait trop les natures du Christ—pour promouvoir la cohésion théologique. La décision rencontra des résistances en Occident, mais fut acceptée par la majorité de l'Église. Le concile réaffirma l'orthodoxie chalcédonienne.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Église des Saints-Apôtres (Constantinople, Turquie)"
     },
     "ThirdCouncilOfConstantinople_615": {
-        "subject": "",
-        "places": "",
+        "subject": "Troisième Concile de Constantinople",
+        "places": "Constantinople, Thrace (actuelle Istanbul, Turquie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Troisième Concile de Constantinople, sixième concile œcuménique de la chrétienté, se tint de 680 à 681 à Constantinople (l'actuelle Istanbul, en Turquie) sous l'égide de l'empereur byzantin Constantin IV. Le concile fut convoqué pour résoudre le débat théologique sur le monothélisme, une doctrine qui soutenait l’existence d’une seule volonté (thelēsis) dans la personne du Christ, tout en admettant ses deux natures, divine et humaine. La question du monothélisme avait émergé comme une tentative de médiation entre les partisans du monophysisme (qui affirmaient l'unique nature divine du Christ) et ceux qui, selon le Concile de Chalcédoine (451), reconnaissaient en Christ deux natures, humaine et divine, unies mais distinctes.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Église des Saints Apôtres (Constantinople, Turquie)"
     },
     "SecondCouncilOfNicaea_616": {
-        "subject": "",
-        "places": "",
+        "subject": "Deuxième Concile de Nicée",
+        "places": "Nicée, Bithynie (actuel İznik, Turquie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Deuxième Concile de Nicée, septième concile œcuménique de la chrétienté, s'est tenu en 787 pour aborder la controverse de l'iconoclasme, c'est-à-dire la destruction des images sacrées, qui avait divisé l'Empire byzantin. L'impératrice Irène, régente pour son fils Constantin VI, convoqua le concile pour rétablir la vénération des icônes, pratique soutenue par l'Église d'Orient et d'Occident mais contestée par les iconoclastes, qui considéraient les images comme idolâtres. Le concile établit que les icônes pouvaient être vénérées, mais non adorées comme Dieu lui-même. Cette distinction permit de préserver l'usage des images comme instrument de dévotion, renforçant la doctrine de l'incarnation : vénérer les icônes signifie honorer la réalité du Christ fait homme. Le concile marqua la fin officielle de l'iconoclasme.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Église Sainte-Sophie (İznik, Turquie)"
     },
     "FourthCouncilOfConstantinople_617": {
-        "subject": "",
-        "places": "",
+        "subject": "Quatrième Concile de Constantinople",
+        "places": "Constantinople, Thrace (actuelle Istanbul, Turquie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Quatrième Concile de Constantinople, tenu en 869-870 à Constantinople, fut convoqué par l'empereur Basile I et le pape Adrien II pour résoudre les tensions dans l'Église d'Orient. La question principale était la déposition du patriarche Photius, qui avait pris la place d'Ignace dans des circonstances controversées, générant un grand schisme. Le concile déclara illégitime la nomination de Photius et rétablit Ignace, établissant des normes sur l'élection des patriarches et renforçant l'autorité papale. Le concile fut reconnu comme œcuménique par l'Église catholique mais pas par l'Église orthodoxe, qui continua à considérer Photius comme patriarche légitime. Ce concile représenta une tentative de consolider l'unité entre les Églises d'Orient et d'Occident, bien qu'il n'ait pas réussi à éviter de nouvelles divisions qui culmineront dans le schisme de 1054.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Église des Saints-Apôtres (Constantinople, Turquie)"
     },
     "FirstLateranCouncil_618": {
-        "subject": "",
-        "places": "",
+        "subject": "Premier Concile du Latran",
+        "places": "Rome (Italie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Premier Concile du Latran s'est tenu à Rome en 1123, convoqué par le pape Calixte II. Ce fut le premier concile œcuménique tenu en Occident et servit principalement à ratifier le Concordat de Worms (1122), qui avait résolu la querelle des investitures entre la papauté et l'empire. Ce conflit portait sur le droit des souverains laïcs de nommer évêques et abbés, une pratique qui sapait l'autorité de l'Église. Le concile confirma que seul le pape pouvait investir les prélats et interdit l'intervention des laïcs dans les nominations ecclésiastiques. La question du célibat clérical fut également abordée, renforçant son obligation. Ce concile consolida l'indépendance de l'Église vis-à-vis de l'autorité séculière, marquant une étape fondamentale dans la définition des droits ecclésiastiques et dans l'affirmation de l'autorité papale en Europe médiévale.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Basilique Saint-Jean-de-Latran (Rome, Italie)"
     },
     "SecondLateranCouncil_619": {
-        "subject": "",
-        "places": "",
+        "subject": "Deuxième Concile du Latran",
+        "places": "Rome (Italie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Deuxième Concile du Latran s'est tenu à Rome en 1139, convoqué par le pape Innocent II pour apaiser les divisions causées par le schisme de l'antipape Anaclet II, qui s'était opposé à l'élection d'Innocent II. Une fois Anaclet mort, le concile fut convoqué pour rétablir l'unité et aborder des questions disciplinaires et morales. Parmi les décisions principales, le concile condamna le népotisme, la simonie (achat et vente de charges ecclésiastiques) et les ordinations irrégulières. Il renforça également l'obligation du célibat clérical et imposa des mesures contre les abus parmi le clergé. Le concile excommunia les partisans de l'antipape et renforça le contrôle de l'Église sur la discipline ecclésiastique.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Basilique Saint-Jean-de-Latran (Rome, Italie)"
     },
     "ThirdLateranCouncil_620": {
-        "subject": "",
-        "places": "",
+        "subject": "Troisième Concile du Latran",
+        "places": "Rome (Italie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Troisième Concile du Latran s'est tenu à Rome en 1179, convoqué par le pape Alexandre III pour résoudre la crise générée par les antipapes soutenus par l'empereur Frédéric Barberousse et pour mettre en œuvre des réformes dans l'Église. Le concile établit que l'élection papale nécessitait une majorité d'au moins deux tiers des cardinaux, une mesure visant à prévenir les schismes. En plus de réformer le processus électoral, le concile adopta des mesures contre la simonie, réaffirma l'obligation du célibat pour le clergé, et aborda le problème des ordinations abusives. Il condamna également les hérésies émergentes, comme celle des Cathares et des Albigeois, renforçant l'orthodoxie.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Basilique Saint-Jean-de-Latran (Rome, Italie)"
     },
     "FourthLateranCouncil_621": {
-        "subject": "",
-        "places": "",
+        "subject": "Quatrième Concile du Latran",
+        "places": "Rome (Italie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Quatrième Concile du Latran s'est tenu à Rome en 1215 et est considéré comme l'un des plus importants conciles médiévaux, convoqué par le pape Innocent III pour réformer l'Église et aborder des questions doctrinales. Le concile a émis pas moins de 70 canons, dont des réformes sur la discipline et la morale cléricale, pour combattre la simonie et l'immoralité. De plus, il a introduit l'obligation pour tous les fidèles de se confesser au moins une fois par an et de recevoir l'Eucharistie à Pâques. Sur le plan doctrinal, le concile a défini le dogme de la transsubstantiation, expliquant la présence réelle du Christ dans l'Eucharistie. Il a condamné diverses hérésies, dont celle des Cathares et des Albigeois, et a sanctionné des mesures sévères contre les hérétiques.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Basilique Saint-Jean-de-Latran (Rome, Italie)"
     },
     "FirstCouncilOfLyon_622": {
-        "subject": "",
-        "places": "",
+        "subject": "Premier Concile de Lyon",
+        "places": "Lyon (France)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Premier Concile de Lyon s'est tenu en 1245 à Lyon, convoqué par le pape Innocent IV pour aborder de graves questions politiques et religieuses. Le thème central était le conflit avec l'empereur du Saint-Empire romain germanique, Frédéric II, accusé d'hérésie, d'oppression de l'Église et de violation des droits pontificaux. Le concile a conduit à son excommunication et à sa déposition, un événement exceptionnel dans l'histoire de l'Empire. Outre la question impériale, le concile a discuté de la nécessité d'une croisade pour récupérer Jérusalem, tombée aux mains des musulmans, et a approuvé des mesures pour réformer la discipline ecclésiastique et combattre l'hérésie. Parmi les autres décisions, des ressources ont été allouées pour soutenir la défense des territoires chrétiens en Terre Sainte.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Cathédrale de Lyon (Lyon, France)"
     },
     "SecondCouncilOfLyon_623": {
-        "subject": "",
-        "places": "",
+        "subject": "Deuxième Concile de Lyon",
+        "places": "Lyon (France)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Deuxième Concile de Lyon s'est tenu en 1274 à Lyon, convoqué par le pape Grégoire X. Le concile a abordé des questions telles que l'union avec l'Église orthodoxe, la réforme de l'Église latine, la croisade et la guerre contre les infidèles. Le problème de la pauvreté et de la propriété au sein de l'Ordre franciscain a également été discuté. Le concile a condamné l'hérésie des Cathares et des Albigeois et a établi la célébration de la Fête-Dieu.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Cathédrale de Lyon (Lyon, France)"
     },
     "CouncilOfVienne_624": {
-        "subject": "",
-        "places": "",
+        "subject": "Concile de Vienne",
+        "places": "Vienne (France)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Concile de Vienne s'est tenu en 1311-1312 à Vienne, en France, convoqué par le pape Clément V. Le concile a abordé des questions telles que la suppression des Templiers, l'accusation d'hérésie contre la reine de France Marguerite de Bourgogne et la croisade contre les musulmans. Le problème de la pauvreté et de la propriété au sein de l'Ordre franciscain a également été discuté. Le concile a condamné l'hérésie des Béguards et des Béguines, qui soutenaient une forme de pauvreté radicale. Enfin, le concile a établi que les évêques devaient avoir un diplôme en théologie ou en droit canonique pour pouvoir être consacrés. Le concile a renforcé l'autorité papale et réaffirmé la doctrine catholique contre les hérésies.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Cathédrale Saint-Maurice (Vienne, France)"
     },
     "CouncilOfConstance_625": {
-        "subject": "",
-        "places": "",
+        "subject": "Concile de Constance",
+        "places": "Constance (Suisse)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Concile de Constance (1414-1418) fut un concile œcuménique de l'Église catholique qui se déroula à Constance, en Suisse. Convoqué par l'antipape Jean XXIII pour mettre fin au Grand Schisme d'Occident, présidé par le roi des Romains Sigismond, et confirmé par le pape Grégoire XII, le concile élut le pape Martin V et condamna l'hérésie de Jan Hus et de John Wyclif. Le concile traita également de questions telles que la réforme de l'Église, la lutte contre l'hérésie et la croisade contre les Turcs. Parmi les décisions les plus importantes, il fut établi que le pape ne pouvait être jugé par personne, et que le concile général était la seule autorité capable de déposer un pape. Le concile renforça l'autorité papale et contribua à mettre fin au Grand Schisme d'Occident.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Cathédrale de Constance (Suisse)"
     },
     "CouncilOfBaselFerraraFlorence_626": {
-        "subject": "",
-        "places": "",
+        "subject": "Concile de Bâle, Ferrare et Florence",
+        "places": "Bâle (Suisse) ; Ferrare (Italie) ; Florence (Italie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Concile de Bâle, Ferrare et Florence (1431-1445) fut un concile œcuménique de l'Église catholique qui se déroula en trois lieux différents. Né avec l'intention de réformer l'Église et de mettre fin au Grand Schisme d'Occident, le concile traita également de questions telles que la lutte contre l'hérésie, la croisade contre les Turcs et la réunification des Églises d'Orient et d'Occident. Parmi les décisions les plus importantes, la supériorité du concile général sur le pape fut établie, et une tentative de réunification avec l'Église orthodoxe fut entreprise. Le concile, cependant, n'eut pas de succès et fut finalement dissous par le pape Eugène IV.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Cathédrale de Bâle (Suisse) ; Cathédrale de Ferrare (Italie) ; Cathédrale de Florence (Italie)"
     },
     "FifthLateranCouncil_627": {
-        "subject": "",
-        "places": "",
+        "subject": "Cinquième Concile du Latran",
+        "places": "Rome (Italie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Cinquième Concile du Latran (1512-1517) fut le dernier concile œcuménique du Moyen Âge. Convoqué par le pape Jules II pour réformer l'Église et contrer la Réforme protestante, le concile se concentra principalement sur des questions disciplinaires et morales. Parmi les décisions les plus importantes, la supériorité du pape sur le concile général fut établie, et la doctrine catholique sur la grâce et la prédestination fut réaffirmée. Le concile n'eut pas de succès pour mettre fin aux divisions dans l'Église, et ne parvint pas à empêcher la naissance de la Réforme protestante.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Basilique Saint-Jean-de-Latran (Rome, Italie)"
     },
     "CouncilOfTrent_628": {
-        "subject": "",
-        "places": "",
+        "subject": "Concile de Trente",
+        "places": "Rome (Italie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Concile de Trente (1545-1563) fut le 19e concile œcuménique de l'Église catholique. Convoqué par le pape Paul III pour contrer la Réforme protestante, le concile se consacra à la réforme interne de l'Église et à la définition de la doctrine catholique en opposition aux thèses protestantes. Parmi les décisions les plus importantes, la validité de la tradition et des Écritures comme sources de la révélation divine fut affirmée, et la doctrine catholique sur la grâce, la prédestination et la justification fut réaffirmée. Le concile eut également un impact important sur la vie religieuse et la culture de l'époque, en promouvant la réforme des ordres religieux et la création de nouvelles institutions pour la formation du clergé.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Cathédrale de San Vigilio (Trente, Italie)"
     },
     "FirstVaticanCouncil_629": {
-        "subject": "",
-        "places": "",
+        "subject": "Concile Vatican I",
+        "places": "Rome (Italie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Concile Vatican I (1869-1870) fut le vingtième concile œcuménique de l'Église catholique, convoqué par le pape Pie IX. Il visait principalement à répondre aux défis posés par le rationalisme, le libéralisme et le matérialisme. Parmi ses décrets les plus significatifs, il y eut la définition du dogme de l'infaillibilité papale, qui affirme que le pape est infaillible lorsqu'il proclame ex cathedra une doctrine de foi ou de morale à croire par toute l'Église. Le concile fut interrompu en raison de la prise de Rome et de la fin de l'État pontifical, et ne fut jamais officiellement clos, laissant de nombreuses questions de réforme interne non résolues.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Basilique Saint-Pierre au Vatican (Cité du Vatican)"
     },
     "SecondVaticanCouncil_630": {
-        "subject": "",
-        "places": "",
+        "subject": "Concile Vatican II",
+        "places": "Rome (Italie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Concile Vatican II (1962-1965) fut le vingt-et-unième concile œcuménique de l'Église catholique, convoqué par le pape Jean XXIII. Ce fut un concile de réforme, qui s'occupa de mettre à jour l'Église pour la rendre plus adaptée aux besoins du XXe siècle. Parmi ses documents les plus importants, il y eut la constitution sur l'Église Lumen Gentium, la constitution sur la liturgie Sacrosanctum Concilium et la déclaration sur les relations avec les religions non chrétiennes Nostra Aetate. Le concile eut également un impact important sur la vie religieuse et la culture de l'époque, promouvant la réforme des ordres religieux et la création de nouvelles institutions pour la formation du clergé.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Basilique Saint-Pierre au Vatican (Cité du Vatican)"
     }
 }
