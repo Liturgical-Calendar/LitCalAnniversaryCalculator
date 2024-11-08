@@ -15,8 +15,8 @@ const elaborateSourceData = async () => {
 
     let untranslatedEnStrings = {};
 
-    Object.entries(itObj).forEach(([key,value]) => {
-        Object.entries(value).forEach(([key2,value2]) => {
+    Object.entries(itObj).forEach(([key, value]) => {
+        Object.entries(value).forEach(([key2, value2]) => {
             if(false === enObj.hasOwnProperty(key)) {
                 console.log(`enObj does not have key <${key}>`);
                 return;
