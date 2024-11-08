@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-19 23:06+0000\n"
-"PO-Revision-Date: 2024-07-19 22:40+0000\n"
+"POT-Creation-Date: 2024-11-08 14:14+0000\n"
+"PO-Revision-Date: 2024-11-08 14:33+0000\n"
 "Last-Translator: \"John R. D'Orazio\" <priest@johnromanodorazio.com>\n"
 "Language-Team: German <https://translate.johnromanodorazio.com/projects/"
 "liturgical-calendar/anniversary-calculator/de/>\n"
@@ -21,13 +21,13 @@ msgstr ""
 "X-Generator: Weblate 5.6.1\n"
 
 #. translators: filename
-#: src/AnniversaryCalculator.php:259
+#: src/AnniversaryCalculator.php:353
 #, php-format
 msgid "Data file %s is missing."
 msgstr "Die Datei %s fehlt."
 
 #. translators: 1. filename, 2. error messag
-#: src/AnniversaryCalculator.php:270
+#: src/AnniversaryCalculator.php:364
 #, php-format
 msgid ""
 "The following error occurred while decoding the base data file %1$s: %2$s."
@@ -36,19 +36,19 @@ msgstr ""
 "aufgetreten: %2$s."
 
 #. translators: 1. count, 2. filename
-#: src/AnniversaryCalculator.php:280
+#: src/AnniversaryCalculator.php:374
 #, php-format
 msgid "%1$d events were loaded from the base data file %2$s."
 msgstr "%1$d Ereignisse wurden aus der Basisdatendatei %2$s geladen."
 
 #. translators: filename
-#: src/AnniversaryCalculator.php:292
+#: src/AnniversaryCalculator.php:399
 #, php-format
 msgid "Translation file %s is missing."
 msgstr "Übersetzungsdatei %s fehlt."
 
 #. translators: 1. filename, 2. error message
-#: src/AnniversaryCalculator.php:303
+#: src/AnniversaryCalculator.php:410
 #, php-format
 msgid "The following error occurred decoding the translation file %1$s: %2$s."
 msgstr ""
@@ -56,7 +56,7 @@ msgstr ""
 "aufgetreten: %2$s."
 
 #. translators: 1. count, 2. filename
-#: src/AnniversaryCalculator.php:313
+#: src/AnniversaryCalculator.php:420
 #, php-format
 msgid "%1$d localized data events were loaded from the translation file %2$s."
 msgstr ""
@@ -64,7 +64,7 @@ msgstr ""
 "geladen."
 
 #. translators: 1. filename, 2. language
-#: src/AnniversaryCalculator.php:325
+#: src/AnniversaryCalculator.php:445
 #, php-format
 msgid ""
 "The English translation file %1$s, which is needed as a backup for any "
@@ -73,7 +73,7 @@ msgstr ""
 "Die englische Übersetzungsdatei %1$s, die als Backup für eventuell fehlende "
 "Strings in der Übersetzung für %2$s benötigt wird, fehlt."
 
-#: src/AnniversaryCalculator.php:335
+#: src/AnniversaryCalculator.php:455
 #, php-format
 msgid ""
 "The following error was produced while decoding data from the English "
@@ -85,7 +85,7 @@ msgstr ""
 "der Übersetzung für %2$s benötigt wird: %3$s."
 
 #. translators: 1. count, 2. filename, 3. language
-#: src/AnniversaryCalculator.php:347
+#: src/AnniversaryCalculator.php:467
 #, php-format
 msgid ""
 "%1$d data events were loaded from the English translation file %2$s, which "
@@ -97,7 +97,7 @@ msgstr ""
 "für %3$s benötigt wird."
 
 #. translators: 1. filename, 2. count, 3. filename, 4. count
-#: src/AnniversaryCalculator.php:368
+#: src/AnniversaryCalculator.php:498
 #, php-format
 msgid ""
 "Events count from the translation file %1$s (%2$d) does not match the events "
@@ -107,7 +107,7 @@ msgstr ""
 "mit der Anzahl der Ereignisse in der Basisdatei %3$s (%4$d) überein."
 
 #. translators: 1. filename, 2. count, 3. filename, 4. count
-#: src/AnniversaryCalculator.php:386
+#: src/AnniversaryCalculator.php:516
 #, php-format
 msgid ""
 "Events count from the English translation file %1$s (%2$d) does not match "
@@ -118,14 +118,14 @@ msgstr ""
 "(%4$d) überein."
 
 #. translators: 1. count, 2. year
-#: src/AnniversaryCalculator.php:452
+#: src/AnniversaryCalculator.php:582
 #, php-format
 msgid "%1$d liturgical anniversary events were calculated for the year %2$d."
 msgstr ""
 "%1$d Liturgische Jubiläumsveranstaltungen wurden für das Jahr %2$d berechnet."
 
 #. translators: 1. language
-#: src/AnniversaryCalculator.php:459
+#: src/AnniversaryCalculator.php:589
 #, php-format
 msgid ""
 "English translation strings were used because the translation for %1$s was "
@@ -267,41 +267,45 @@ msgstr "Enzyklika"
 msgid "other"
 msgstr "Sonstiges"
 
-#: src/AnniversaryCalculator/Enums/AreaInterest.php:21
+#: src/AnniversaryCalculator/Enums/AreaInterest.php:28
 msgid "rome"
 msgstr "Rom"
 
-#: src/AnniversaryCalculator/Enums/AreaInterest.php:22
+#: src/AnniversaryCalculator/Enums/AreaInterest.php:29
 msgid "italy"
 msgstr "Italien"
 
-#: src/AnniversaryCalculator/Enums/AreaInterest.php:23
+#: src/AnniversaryCalculator/Enums/AreaInterest.php:30
 msgid "world"
 msgstr "Welt"
 
-#: src/AnniversaryCalculator/Enums/AreaInterest.php:24
+#: src/AnniversaryCalculator/Enums/AreaInterest.php:31
 msgid "biblical"
 msgstr "biblisch"
 
-#: src/AnniversaryCalculator/Enums/AreaInterest.php:25
+#: src/AnniversaryCalculator/Enums/AreaInterest.php:32
 msgid "marian"
 msgstr "Marianer"
 
-#: src/AnniversaryCalculator/Enums/LitCalendar.php:20
+#: src/AnniversaryCalculator/Enums/LitCalendar.php:21
 msgid "universal"
 msgstr "Universal"
 
-#: src/AnniversaryCalculator/Enums/LitCalendar.php:21
+#: src/AnniversaryCalculator/Enums/LitCalendar.php:22
 msgid "national"
 msgstr "National"
 
-#: src/AnniversaryCalculator/Enums/LitCalendar.php:22
+#: src/AnniversaryCalculator/Enums/LitCalendar.php:23
 msgid "diocesan"
 msgstr "diözesan"
 
-#: src/AnniversaryCalculator/Enums/LitCalendar.php:23
+#: src/AnniversaryCalculator/Enums/LitCalendar.php:24
 msgid "wide area"
 msgstr "erweitertes gebiet"
+
+#: src/AnniversaryCalculator/Enums/LitCalendar.php:25
+msgid "non liturgical event"
+msgstr "nicht-liturgische Veranstaltung"
 
 #~ msgid "%d data rows calculated"
 #~ msgstr "%d Datenzeilen berechnet"
