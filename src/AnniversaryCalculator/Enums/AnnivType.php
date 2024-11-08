@@ -28,7 +28,7 @@ class AnnivType
         "dogma",
         "apparition",
         "pontifical_incoronation",
-        "ecumenical_council",
+        "church_council",
         "encyclical",
         "other"
     ];
