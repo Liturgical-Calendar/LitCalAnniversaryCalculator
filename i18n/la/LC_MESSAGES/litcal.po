@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-08 14:14+0000\n"
-"PO-Revision-Date: 2024-07-19 22:40+0000\n"
+"PO-Revision-Date: 2024-11-08 14:33+0000\n"
 "Last-Translator: \"John R. D'Orazio\" <priest@johnromanodorazio.com>\n"
 "Language-Team: Latin <https://translate.johnromanodorazio.com/projects/"
 "liturgical-calendar/anniversary-calculator/la/>\n"
@@ -298,7 +298,7 @@ msgstr "latissima regio"
 
 #: src/AnniversaryCalculator/Enums/LitCalendar.php:25
 msgid "non liturgical event"
-msgstr ""
+msgstr "non liturgicum eventum"
 
 #~ msgid "%d data rows calculated"
 #~ msgstr "%d ordinum data computata"
