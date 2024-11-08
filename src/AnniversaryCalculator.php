@@ -11,7 +11,7 @@ class AnniversaryCalculator
     public const ALLOWED_ACCEPT_HEADERS             = [ "application/json", "application/yaml", "application/xml", "text/html" ];
     public const ALLOWED_REQUEST_CONTENT_TYPES      = [ "application/json", "application/yaml", "application/x-www-form-urlencoded" ];
     public const ALLOWED_REQUEST_METHODS            = [ "GET", "POST", "OPTIONS" ];
-    public const ALLOWED_LOCALES                    = [ "en", "it", "fr", "es", "de", "pt", "nl" ];
+    public const ALLOWED_LOCALES                    = [ "en", "it", "fr", "es", "de", "pt", "nl", "sk" ];
 
     public const RECURRING = [
         "ALUMINUM",
@@ -32,19 +32,36 @@ class AnniversaryCalculator
     private static ?string $acceptHeader        = null;
     private array $parameterData                = [];
     private array $requestHeaders               = [];
-    private object $RESPONSE;
+    private object $response;
 
+    /**
+     * Instantiates the AnniversaryCalculator and sets up some properties.
+     *
+     * Initializes the {@see $requestHeaders} property with the result of
+     * {@see getallheaders()}, and the {@see $acceptHeader} property with the
+     * value of the "Accept" header if it is in the list of allowed values.
+     *
+     * Also sets up the {@see $response} property with an object containing an
+     * empty array for anniversary events and a message indicating that the
+     * AnniversaryCalculator has been instantiated.
+     */
     public function __construct()
     {
         $this->requestHeaders = getallheaders();
         self::$acceptHeader = isset($this->requestHeaders["Accept"]) && in_array($this->requestHeaders["Accept"], self::ALLOWED_ACCEPT_HEADERS)
             ? (string) $this->requestHeaders["Accept"]
             : "";
-        $this->RESPONSE = new \stdClass();
-        $this->RESPONSE->anniversary_events = [];
-        $this->RESPONSE->messages = [ "Anniversary Calculator instantiated" ];
+        $this->response = new \stdClass();
+        $this->response->anniversary_events = [];
+        $this->response->messages = [ "Anniversary Calculator instantiated" ];
     }
 
+    /**
+     * Initializes the AnniversaryCalculator by setting up CORS, validating
+     * request headers, initializing parameter data, preparing localization,
+     * setting the response content type header, and reading the data.
+     * Finally, it produces the response.
+     */
     public function init()
     {
         self::allowFromAnyOrigin();
@@ -58,6 +75,17 @@ class AnniversaryCalculator
         $this->produceResponse();
     }
 
+    /**
+     * Sets the Access-Control-Allow-Origin header to the same value as the Origin
+     * request header, effectively allowing any origin to access the API.
+     *
+     * Note that this is not a recommended security practice, as it opens the API to
+     * cross-site request forgery attacks. However, it's currently needed to ensure
+     * that the API can be accessed from anywhere.
+     *
+     * @see https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+     * @see https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Origin
+     */
     private static function allowFromAnyOrigin()
     {
         if (isset($_SERVER['HTTP_ORIGIN'])) {
@@ -67,6 +95,14 @@ class AnniversaryCalculator
         }
     }
 
+    /**
+     * Handle CORS pre-flight OPTIONS request.
+     *
+     * @link https://developer.mozilla.org/en-US/docs/Glossary/Preflight_request
+     * @see https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/OPTIONS
+     * @see https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Methods
+     * @see https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Headers
+     */
     private static function setAccessControlAllowMethods()
     {
         if (isset($_SERVER['REQUEST_METHOD'])) {
@@ -79,6 +115,14 @@ class AnniversaryCalculator
         }
     }
 
+    /**
+     * Validates the Content-Type request header against the list of allowed Content-Types.
+     *
+     * If the Content-Type is not in the list, an error response is produced with a 415 status code.
+     *
+     * @see https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/415
+     * @see https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
+     */
     private static function validateRequestContentType()
     {
         if (
@@ -91,6 +135,15 @@ class AnniversaryCalculator
         }
     }
 
+    /**
+     * Validates the Content-Type request header against the list of allowed Content-Types,
+     * and sets the response Content-Type depending on the request Content-Type.
+     *
+     * If the Content-Type is not in the list, an error response is produced with a 415 status code.
+     *
+     * @see https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/415
+     * @see https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
+     */
     private function initParameterData()
     {
         if (isset($_SERVER['CONTENT_TYPE']) && $_SERVER['CONTENT_TYPE'] === 'application/json') {
@@ -155,14 +208,14 @@ class AnniversaryCalculator
             );
         if (isset($this->parameterData["RETURN"])) {
             $message = 'Return parameter set to \'%1$s\', response content type set to \'%2$s\'';
-            $this->RESPONSE->messages[] = sprintf(
+            $this->response->messages[] = sprintf(
                 $message,
                 $this->parameterData["RETURN"],
                 self::$responseContentType
             );
         } else {
             $message = 'No return parameter received in the request, response content type set to \'%1$s\'';
-            $this->RESPONSE->messages[] = sprintf(
+            $this->response->messages[] = sprintf(
                 $message,
                 self::$responseContentType
             );
@@ -171,7 +224,7 @@ class AnniversaryCalculator
         if (!isset($this->parameterData["YEAR"]) || $this->parameterData["YEAR"] === "") {
             $this->parameterData["YEAR"] = (int)date("Y");
         }
-        $this->RESPONSE->messages[] = sprintf(
+        $this->response->messages[] = sprintf(
             'Year set to %d',
             $this->parameterData["YEAR"]
         );
@@ -180,7 +233,7 @@ class AnniversaryCalculator
             $this->parameterData["LOCALE"] = \Locale::canonicalize($this->parameterData["LOCALE"]);
             $this->parameterData["BASE_LOCALE"] = \Locale::getPrimaryLanguage($this->parameterData["LOCALE"]);
             if (false === in_array($this->parameterData["BASE_LOCALE"], self::ALLOWED_LOCALES)) {
-                $this->RESPONSE->messages[] = sprintf(
+                $this->response->messages[] = sprintf(
                     'Allowed base locales are: \'%1$s\'; but base locale requested was \'%2$s\'',
                     implode(', ', self::ALLOWED_LOCALES),
                     $this->parameterData["BASE_LOCALE"]
@@ -192,19 +245,38 @@ class AnniversaryCalculator
             $this->parameterData["LOCALE"] = "en_US";
             $this->parameterData["BASE_LOCALE"] = \Locale::getPrimaryLanguage($this->parameterData["LOCALE"]);
         }
-        $this->RESPONSE->messages[] = sprintf(
+        $this->response->messages[] = sprintf(
             'Locale set to \'%1$s\', base locale set to \'%2$s\'',
             $this->parameterData["LOCALE"],
             $this->parameterData["BASE_LOCALE"]
         );
-        $this->RESPONSE->messages[] = "parameter data initialized";
+        $this->response->messages[] = "parameter data initialized";
     }
 
+/**
+ * Custom error handler that throws an Exception for warnings.
+ *
+ * @param int $errno The error number
+ * @param string $errstr The error message
+ *
+ * @throws \Exception Thrown with the error message and number
+ */
     private static function warningHandler($errno, $errstr)
     {
         throw new \Exception($errstr, $errno);
     }
 
+    /**
+     * Prepares localization settings for the application.
+     *
+     * Sets the locale based on the `LOCALE` and `BASE_LOCALE` parameters
+     * provided in `parameterData`, using various UTF-8 and non-UTF-8
+     * combinations. Binds the text domain to the "i18n" directory for
+     * translation purposes and sets the text domain to "litcal".
+     * 
+     * This function logs the locale, text domain path, and text domain
+     * settings to the response messages.
+     */
     private function prepareL10N(): void
     {
         $localeArray = [
@@ -221,7 +293,7 @@ class AnniversaryCalculator
         $locale = setlocale(LC_ALL, $localeArray);
         $textdomainpath = bindtextdomain("litcal", "i18n");
         $textdomain = textdomain("litcal");
-        $this->RESPONSE->messages[] = sprintf(
+        $this->response->messages[] = sprintf(
             'PHP setlocale set to locale %1$s, text domain path set to %2$s, text domain set to %3$s',
             $locale ? $locale : 'false',
             $textdomainpath,
@@ -229,6 +301,14 @@ class AnniversaryCalculator
         );
     }
 
+    /**
+     * Sets the HTTP response Content-Type header based on the response type.
+     *
+     * This function determines the appropriate Content-Type header value
+     * by inspecting the `responseContentType` property and sets it for the
+     * HTTP response. Supported content types include XML, JSON, YAML, and HTML.
+     * Defaults to JSON if the content type is not recognized.
+     */
     private static function setReponseContentTypeHeader()
     {
         $header = null;
@@ -251,6 +331,20 @@ class AnniversaryCalculator
         header($header);
     }
 
+    /**
+     * Loads and parses source data from a specified JSON file.
+     *
+     * This function checks if the specified source data file exists. If not, it
+     * produces an error response indicating the file is missing. It reads the
+     * contents of the file and decodes it from JSON format. If there is an error
+     * during decoding, it produces an error response with the error message.
+     * Upon successful loading and decoding, a message is added to the response
+     * indicating the number of events loaded from the file.
+     *
+     * @param string $sourceDataFile The path to the source data JSON file.
+     * @return object The decoded JSON data as an object.
+     * @throws Exception If the file is missing or cannot be decoded.
+     */
     private function loadSourceData(string $sourceDataFile): object
     {
         if (false === file_exists($sourceDataFile)) {
@@ -275,7 +369,7 @@ class AnniversaryCalculator
         }
 
         // if all went well
-        $this->RESPONSE->messages[] = sprintf(
+        $this->response->messages[] = sprintf(
             /**translators: 1. count, 2. filename */
             _('%1$d events were loaded from the base data file %2$s.'),
             count($sourceData->anniversary_events),
@@ -284,6 +378,19 @@ class AnniversaryCalculator
         return $sourceData;
     }
 
+    /**
+     * Loads and decodes JSON translation data from a specified file.
+     *
+     * Checks if the translation file exists and decodes its contents.
+     * If the file is missing or cannot be decoded, an error response
+     * is produced. Upon successful loading, a message indicating the
+     * number of localized data events loaded from the file is added
+     * to the response.
+     *
+     * @param string $translationFile The path to the translation JSON file.
+     * @return object The decoded JSON translation data as an object.
+     * @throws Exception If the file is missing or cannot be decoded.
+     */
     private function loadTranslationData(string $translationFile): object
     {
         if (false === file_exists($translationFile)) {
@@ -308,7 +415,7 @@ class AnniversaryCalculator
         }
 
         // if all went well
-        $this->RESPONSE->messages[] = sprintf(
+        $this->response->messages[] = sprintf(
             /**translators: 1. count, 2. filename */
             _('%1$d localized data events were loaded from the translation file %2$s.'),
             count(get_object_vars($translationData)),
@@ -317,6 +424,19 @@ class AnniversaryCalculator
         return $translationData;
     }
 
+    /**
+     * Loads and decodes JSON translation data from a specified English translation file.
+     *
+     * Checks if the English translation file exists and decodes its contents.
+     * If the file is missing or cannot be decoded, an error response
+     * is produced. Upon successful loading, a message indicating the
+     * number of localized data events loaded from the file is added
+     * to the response.
+     *
+     * @param string $englishTranslationFile The path to the English translation JSON file.
+     * @return object The decoded JSON English translation data as an object.
+     * @throws Exception If the file is missing or cannot be decoded.
+     */
     private function loadEnglishTranslationData(string $englishTranslationFile): object
     {
         if (false === file_exists($englishTranslationFile)) {
@@ -342,7 +462,7 @@ class AnniversaryCalculator
         }
 
         // if all went well
-        $this->RESPONSE->messages[] = sprintf(
+        $this->response->messages[] = sprintf(
             /**translators: 1. count, 2. filename, 3. language */
             _('%1$d data events were loaded from the English translation file %2$s, which is needed as a backup for any possible missing strings in the translation for %3$s.'),
             count(get_object_vars($translationDataEnglish)),
@@ -352,6 +472,16 @@ class AnniversaryCalculator
         return $translationDataEnglish;
     }
 
+    /**
+     * Loads the base data and translation data and merges the two.
+     *
+     * Loads the base data file and the translation file for the requested
+     * language. Checks that the two files have the same number of events.
+     * If the translation file is incomplete, English translation strings are
+     * used as a backup.
+     *
+     * @return void
+     */
     private function readData()
     {
         $sourceDataFile = "data/LITURGY__anniversaries.json";
@@ -408,7 +538,7 @@ class AnniversaryCalculator
                 ) {
                     $englishResultsUsed = true;
                     $rowLocalizedData->$rowProperty = $translationDataEnglish->$label->$rowProperty;
-                    $this->RESPONSE->messages[] = "Using English translation for $label.$rowProperty";
+                    $this->response->messages[] = "Using English translation for $label.$rowProperty";
                 }
             }
 
@@ -416,7 +546,7 @@ class AnniversaryCalculator
                 if ($item->event_key === $event_key && $item->event_idx === intval($event_idx)) {
                     $anniversaryEvent = new AnniversaryEvent(array_merge((array) $item, (array) $rowLocalizedData));
                     if ($anniversaryEvent->event_year !== null && $this->isAnniversary($anniversaryEvent)) {
-                        $this->RESPONSE->anniversary_events[] = $anniversaryEvent;
+                        $this->response->anniversary_events[] = $anniversaryEvent;
                     }
                 }
             }
@@ -427,7 +557,7 @@ class AnniversaryCalculator
                 "memorial_month" => 2,
                 "memorial_day"   => 1
             ];
-            usort($this->RESPONSE->anniversary_events, function ($a, $b) use ($props) {
+            usort($this->response->anniversary_events, function ($a, $b) use ($props) {
                 foreach ($props as $key => $val) {
                     // if event A's memorialMonth is equal to event B's memorialMonth,
                     // or event B's memorialDay is equal to event B's memorial Day,
@@ -447,22 +577,29 @@ class AnniversaryCalculator
             });
         }
 
-        $this->RESPONSE->messages[] = sprintf(
+        $this->response->messages[] = sprintf(
             /**translators: 1. count, 2. year */
             _('%1$d liturgical anniversary events were calculated for the year %2$d.'),
-            count($this->RESPONSE->anniversary_events),
+            count($this->response->anniversary_events),
             $this->parameterData["YEAR"]
         );
         if ($englishResultsUsed) {
-            $this->RESPONSE->messages[] = sprintf(
+            $this->response->messages[] = sprintf(
                 /**translators: 1. language */
                 _('English translation strings were used because the translation for %1$s was incomplete.'),
                 \Locale::getDisplayLanguage($this->parameterData["BASE_LOCALE"], $this->parameterData["BASE_LOCALE"])
             );
-            $this->RESPONSE->incomplete_translation = true;
+            $this->response->incomplete_translation = true;
         }
     }
 
+    /**
+     * Given an AnniversaryEvent object, determines whether the given year is an anniversary
+     * of the event according to the rules defined in AnniversaryEvent::ANNIVERSARY
+     *
+     * @param AnniversaryEvent $anniversaryEvent
+     * @return bool
+     */
     private function isAnniversary(AnniversaryEvent $anniversaryEvent): bool
     {
         $yearDiff = $this->parameterData["YEAR"] - $anniversaryEvent->event_year;
@@ -494,6 +631,14 @@ class AnniversaryCalculator
         return false;
     }
 
+    /**
+     * Outputs an error response with the given $statusCode and $description.
+     * If the response Content-Type header has not yet been set, attempts to set it
+     * by inspecting the value of the Accept header sent by the client,
+     * and dies after outputting the error response.
+     * @param int $statusCode
+     * @param string $description
+     */
     private static function produceErrorResponse(int $statusCode, string $description): void
     {
         // if $responseContentType is null, we probably haven't set the response Content-Type header yet
@@ -528,11 +673,23 @@ class AnniversaryCalculator
         die();
     }
 
+    /**
+     * Outputs the response to the client in the format requested by the client,
+     * determined by the Accept header, or the default if none is specified.
+     * The response is encoded according to the following rules:
+     * - JSON: pretty-printed, with unescaped unicode characters
+     * - YAML: with UTF-8 encoding
+     * - XML: NOT YET SUPPORTED
+     * - HTML: NOT YET SUPPORTED
+     *
+     * This method is called automatically after the calculation of anniversaries
+     * is complete, and after any error responses have been produced.
+     */
     private function produceResponse()
     {
         switch (self::$responseContentType) {
             case 'yaml':
-                $responseObj = json_decode(json_encode($this->RESPONSE), true);
+                $responseObj = json_decode(json_encode($this->response), true);
                 echo yaml_emit($responseObj, YAML_UTF8_ENCODING);
                 break;
             case 'xml':
@@ -541,7 +698,7 @@ class AnniversaryCalculator
                 break;
             case 'json':
             default:
-                echo json_encode($this->RESPONSE, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
+                echo json_encode($this->response, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
                 break;
         }
         exit(0);
