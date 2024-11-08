@@ -12,7 +12,7 @@ class LitCalendar
     private array $GTXT;
 
     public static array $values = [
-        "universal", "national", "diocesan", "wide_area"
+        "universal", "national", "diocesan", "wide_area", "non_liturgical_event"
     ];
 
     public function __construct()
