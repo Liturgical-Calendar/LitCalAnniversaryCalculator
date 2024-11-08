@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-19 23:06+0000\n"
+"POT-Creation-Date: 2024-11-08 14:14+0000\n"
 "PO-Revision-Date: 2024-09-29 21:24+0000\n"
 "Last-Translator: Milan Šalka <salka.milan@googlemail.com>\n"
 "Language-Team: Slovak <https://translate.johnromanodorazio.com/projects/"
@@ -19,13 +19,13 @@ msgstr ""
 "X-Generator: Weblate 5.6.1\n"
 
 #. translators: filename
-#: src/AnniversaryCalculator.php:259
+#: src/AnniversaryCalculator.php:353
 #, php-format
 msgid "Data file %s is missing."
 msgstr "Súbor údajov %s chýba."
 
 #. translators: 1. filename, 2. error messag
-#: src/AnniversaryCalculator.php:270
+#: src/AnniversaryCalculator.php:364
 #, php-format
 msgid ""
 "The following error occurred while decoding the base data file %1$s: %2$s."
@@ -34,32 +34,32 @@ msgstr ""
 "%2$s."
 
 #. translators: 1. count, 2. filename
-#: src/AnniversaryCalculator.php:280
+#: src/AnniversaryCalculator.php:374
 #, php-format
 msgid "%1$d events were loaded from the base data file %2$s."
 msgstr "Udalosti %1$d boli načítané zo základného dátového súboru %2$s."
 
 #. translators: filename
-#: src/AnniversaryCalculator.php:292
+#: src/AnniversaryCalculator.php:399
 #, php-format
 msgid "Translation file %s is missing."
 msgstr "Súbor prekladu %s chýba."
 
 #. translators: 1. filename, 2. error message
-#: src/AnniversaryCalculator.php:303
+#: src/AnniversaryCalculator.php:410
 #, php-format
 msgid "The following error occurred decoding the translation file %1$s: %2$s."
 msgstr ""
 "Pri dekódovaní prekladového súboru %1$s došlo k nasledujúcej chybe: %2$s."
 
 #. translators: 1. count, 2. filename
-#: src/AnniversaryCalculator.php:313
+#: src/AnniversaryCalculator.php:420
 #, php-format
 msgid "%1$d localized data events were loaded from the translation file %2$s."
 msgstr "Údaje o udalostiach %1$d boli načítané z prekladového súboru %2$s."
 
 #. translators: 1. filename, 2. language
-#: src/AnniversaryCalculator.php:325
+#: src/AnniversaryCalculator.php:445
 #, php-format
 msgid ""
 "The English translation file %1$s, which is needed as a backup for any "
@@ -68,7 +68,7 @@ msgstr ""
 "Súbor anglického prekladu %1$s, ktorý je potrebný ako záloha pre akékoľvek "
 "možné chýbajúce reťazce v preklade pre %2$s, chýba."
 
-#: src/AnniversaryCalculator.php:335
+#: src/AnniversaryCalculator.php:455
 #, php-format
 msgid ""
 "The following error was produced while decoding data from the English "
@@ -80,19 +80,19 @@ msgstr ""
 "došlo k nasledujúcej chybe: %3$s."
 
 #. translators: 1. count, 2. filename, 3. language
-#: src/AnniversaryCalculator.php:347
+#: src/AnniversaryCalculator.php:467
 #, php-format
 msgid ""
 "%1$d data events were loaded from the English translation file %2$s, which "
 "is needed as a backup for any possible missing strings in the translation "
 "for %3$s."
 msgstr ""
-"Údaje o udalostiach %1$d boli načítané z anglického prekladového súboru %2$"
-"s, ktorý je potrebný ako záloha pre prípad chýbajúcich reťazcov v preklade "
-"pre %3$s."
+"Údaje o udalostiach %1$d boli načítané z anglického prekladového súboru "
+"%2$s, ktorý je potrebný ako záloha pre prípad chýbajúcich reťazcov v "
+"preklade pre %3$s."
 
 #. translators: 1. filename, 2. count, 3. filename, 4. count
-#: src/AnniversaryCalculator.php:368
+#: src/AnniversaryCalculator.php:498
 #, php-format
 msgid ""
 "Events count from the translation file %1$s (%2$d) does not match the events "
@@ -102,7 +102,7 @@ msgstr ""
 "udalostí v základnom dátovom súbore %3$s (%4$d)."
 
 #. translators: 1. filename, 2. count, 3. filename, 4. count
-#: src/AnniversaryCalculator.php:386
+#: src/AnniversaryCalculator.php:516
 #, php-format
 msgid ""
 "Events count from the English translation file %1$s (%2$d) does not match "
@@ -112,13 +112,13 @@ msgstr ""
 "počtom udalostí zo základného dátového súboru %3$s (%4$d)."
 
 #. translators: 1. count, 2. year
-#: src/AnniversaryCalculator.php:452
+#: src/AnniversaryCalculator.php:582
 #, php-format
 msgid "%1$d liturgical anniversary events were calculated for the year %2$d."
 msgstr "%1$d liturgické výročné udalosti boli vypočítané na rok %2$d."
 
 #. translators: 1. language
-#: src/AnniversaryCalculator.php:459
+#: src/AnniversaryCalculator.php:589
 #, php-format
 msgid ""
 "English translation strings were used because the translation for %1$s was "
@@ -260,38 +260,42 @@ msgstr "encyklika"
 msgid "other"
 msgstr "iný"
 
-#: src/AnniversaryCalculator/Enums/AreaInterest.php:21
+#: src/AnniversaryCalculator/Enums/AreaInterest.php:28
 msgid "rome"
 msgstr "Rím"
 
-#: src/AnniversaryCalculator/Enums/AreaInterest.php:22
+#: src/AnniversaryCalculator/Enums/AreaInterest.php:29
 msgid "italy"
 msgstr "Taliansko"
 
-#: src/AnniversaryCalculator/Enums/AreaInterest.php:23
+#: src/AnniversaryCalculator/Enums/AreaInterest.php:30
 msgid "world"
 msgstr "svet"
 
-#: src/AnniversaryCalculator/Enums/AreaInterest.php:24
+#: src/AnniversaryCalculator/Enums/AreaInterest.php:31
 msgid "biblical"
 msgstr "biblický"
 
-#: src/AnniversaryCalculator/Enums/AreaInterest.php:25
+#: src/AnniversaryCalculator/Enums/AreaInterest.php:32
 msgid "marian"
 msgstr "mariánsky"
 
-#: src/AnniversaryCalculator/Enums/LitCalendar.php:20
+#: src/AnniversaryCalculator/Enums/LitCalendar.php:21
 msgid "universal"
 msgstr "univerzálny"
 
-#: src/AnniversaryCalculator/Enums/LitCalendar.php:21
+#: src/AnniversaryCalculator/Enums/LitCalendar.php:22
 msgid "national"
 msgstr "národný"
 
-#: src/AnniversaryCalculator/Enums/LitCalendar.php:22
+#: src/AnniversaryCalculator/Enums/LitCalendar.php:23
 msgid "diocesan"
 msgstr "diecézny"
 
-#: src/AnniversaryCalculator/Enums/LitCalendar.php:23
+#: src/AnniversaryCalculator/Enums/LitCalendar.php:24
 msgid "wide area"
 msgstr "široká oblasť"
+
+#: src/AnniversaryCalculator/Enums/LitCalendar.php:25
+msgid "non liturgical event"
+msgstr ""

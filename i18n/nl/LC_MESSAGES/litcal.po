@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-19 23:06+0000\n"
+"POT-Creation-Date: 2024-11-08 14:14+0000\n"
 "PO-Revision-Date: 2024-07-19 22:40+0000\n"
 "Last-Translator: \"John R. D'Orazio\" <priest@johnromanodorazio.com>\n"
 "Language-Team: Dutch <https://translate.johnromanodorazio.com/projects/"
@@ -20,13 +20,13 @@ msgstr ""
 "X-Generator: Weblate 5.6.1\n"
 
 #. translators: filename
-#: src/AnniversaryCalculator.php:259
+#: src/AnniversaryCalculator.php:353
 #, php-format
 msgid "Data file %s is missing."
 msgstr "Gegevensbestand %s ontbreekt."
 
 #. translators: 1. filename, 2. error messag
-#: src/AnniversaryCalculator.php:270
+#: src/AnniversaryCalculator.php:364
 #, php-format
 msgid ""
 "The following error occurred while decoding the base data file %1$s: %2$s."
@@ -35,26 +35,26 @@ msgstr ""
 "%1$s: %2$s."
 
 #. translators: 1. count, 2. filename
-#: src/AnniversaryCalculator.php:280
+#: src/AnniversaryCalculator.php:374
 #, php-format
 msgid "%1$d events were loaded from the base data file %2$s."
 msgstr "%1$d evenementen zijn geladen uit het basisgegevensbestand %2$s."
 
 #. translators: filename
-#: src/AnniversaryCalculator.php:292
+#: src/AnniversaryCalculator.php:399
 #, php-format
 msgid "Translation file %s is missing."
 msgstr "Vertaalbestand %s ontbreekt."
 
 #. translators: 1. filename, 2. error message
-#: src/AnniversaryCalculator.php:303
+#: src/AnniversaryCalculator.php:410
 #, php-format
 msgid "The following error occurred decoding the translation file %1$s: %2$s."
 msgstr ""
 "De volgende fout trad op bij het decoderen van het vertaalbestand %1$s: %2$s."
 
 #. translators: 1. count, 2. filename
-#: src/AnniversaryCalculator.php:313
+#: src/AnniversaryCalculator.php:420
 #, php-format
 msgid "%1$d localized data events were loaded from the translation file %2$s."
 msgstr ""
@@ -62,7 +62,7 @@ msgstr ""
 "vertaalbestand %2$s."
 
 #. translators: 1. filename, 2. language
-#: src/AnniversaryCalculator.php:325
+#: src/AnniversaryCalculator.php:445
 #, php-format
 msgid ""
 "The English translation file %1$s, which is needed as a backup for any "
@@ -71,7 +71,7 @@ msgstr ""
 "Het Engelse vertaalbestand %1$s, dat nodig is als back-up voor eventuele "
 "ontbrekende strings in de vertaling voor %2$s, ontbreekt."
 
-#: src/AnniversaryCalculator.php:335
+#: src/AnniversaryCalculator.php:455
 #, php-format
 msgid ""
 "The following error was produced while decoding data from the English "
@@ -83,7 +83,7 @@ msgstr ""
 "strings in de vertaling voor %2$s: %3$s."
 
 #. translators: 1. count, 2. filename, 3. language
-#: src/AnniversaryCalculator.php:347
+#: src/AnniversaryCalculator.php:467
 #, php-format
 msgid ""
 "%1$d data events were loaded from the English translation file %2$s, which "
@@ -95,7 +95,7 @@ msgstr ""
 "vertaling voor %3$s."
 
 #. translators: 1. filename, 2. count, 3. filename, 4. count
-#: src/AnniversaryCalculator.php:368
+#: src/AnniversaryCalculator.php:498
 #, php-format
 msgid ""
 "Events count from the translation file %1$s (%2$d) does not match the events "
@@ -105,7 +105,7 @@ msgstr ""
 "met het aantal evenementen in het basisgegevensbestand %3$s (%4$d)."
 
 #. translators: 1. filename, 2. count, 3. filename, 4. count
-#: src/AnniversaryCalculator.php:386
+#: src/AnniversaryCalculator.php:516
 #, php-format
 msgid ""
 "Events count from the English translation file %1$s (%2$d) does not match "
@@ -115,14 +115,14 @@ msgstr ""
 "overeen met het aantal evenementen in het basisgegevensbestand %3$s (%4$d)."
 
 #. translators: 1. count, 2. year
-#: src/AnniversaryCalculator.php:452
+#: src/AnniversaryCalculator.php:582
 #, php-format
 msgid "%1$d liturgical anniversary events were calculated for the year %2$d."
 msgstr ""
 "%1$d liturgische jubileumevenementen werden berekend voor het jaar %2$d."
 
 #. translators: 1. language
-#: src/AnniversaryCalculator.php:459
+#: src/AnniversaryCalculator.php:589
 #, php-format
 msgid ""
 "English translation strings were used because the translation for %1$s was "
@@ -264,41 +264,45 @@ msgstr "encycliek"
 msgid "other"
 msgstr "ander"
 
-#: src/AnniversaryCalculator/Enums/AreaInterest.php:21
+#: src/AnniversaryCalculator/Enums/AreaInterest.php:28
 msgid "rome"
 msgstr "Rome"
 
-#: src/AnniversaryCalculator/Enums/AreaInterest.php:22
+#: src/AnniversaryCalculator/Enums/AreaInterest.php:29
 msgid "italy"
 msgstr "Italië"
 
-#: src/AnniversaryCalculator/Enums/AreaInterest.php:23
+#: src/AnniversaryCalculator/Enums/AreaInterest.php:30
 msgid "world"
 msgstr "wereld"
 
-#: src/AnniversaryCalculator/Enums/AreaInterest.php:24
+#: src/AnniversaryCalculator/Enums/AreaInterest.php:31
 msgid "biblical"
 msgstr "bijbels"
 
-#: src/AnniversaryCalculator/Enums/AreaInterest.php:25
+#: src/AnniversaryCalculator/Enums/AreaInterest.php:32
 msgid "marian"
 msgstr "Mariaans"
 
-#: src/AnniversaryCalculator/Enums/LitCalendar.php:20
+#: src/AnniversaryCalculator/Enums/LitCalendar.php:21
 msgid "universal"
 msgstr "universeel"
 
-#: src/AnniversaryCalculator/Enums/LitCalendar.php:21
+#: src/AnniversaryCalculator/Enums/LitCalendar.php:22
 msgid "national"
 msgstr "nationaal"
 
-#: src/AnniversaryCalculator/Enums/LitCalendar.php:22
+#: src/AnniversaryCalculator/Enums/LitCalendar.php:23
 msgid "diocesan"
 msgstr "diocesaan"
 
-#: src/AnniversaryCalculator/Enums/LitCalendar.php:23
+#: src/AnniversaryCalculator/Enums/LitCalendar.php:24
 msgid "wide area"
 msgstr "uitgestrekt gebied"
+
+#: src/AnniversaryCalculator/Enums/LitCalendar.php:25
+msgid "non liturgical event"
+msgstr ""
 
 #~ msgid "%d data rows calculated"
 #~ msgstr "%d datarijen berekend"
