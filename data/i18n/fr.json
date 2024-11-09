@@ -3920,22 +3920,22 @@
         "main_shrine": "Basilique Saint-Pierre au Vatican (Cité du Vatican)"
     },
     "EdictSerdica_631": {
-        "subject": "",
-        "places": "",
+        "subject": "Édit de Serdica",
+        "places": "Sofia (Bulgarie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "L'Édit de Serdica, émis le 30 avril 311, fut un décret de tolérance religieuse promulgué par Galère, empereur romain d'Orient, qui mit fin aux persécutions contre les chrétiens initiées par Dioclétien en 303. L'édit permettait aux chrétiens de se réunir et de posséder des églises et des cimetières, à condition de ne pas troubler l'ordre public. Cependant, l'interdiction de professer la foi chrétienne et de construire de nouvelles églises restait en vigueur. La tolérance permit aux chrétiens d'émerger comme une communauté organisée et de participer à la vie publique. L'édit fut une étape importante vers la paix constantinienne de 313, qui rendit le christianisme une religion licite dans l'Empire romain.",
         "patronage": "N/D",
         "main_shrine": "N/D"
     },
     "EdictMilan_632": {
-        "subject": "",
-        "places": "",
+        "subject": "Édit de Milan",
+        "places": "Mediolanum (actuelle Milan, Italie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "L'Édit de Milan, signé le 13 juin 313 par Constantin I et Licinius, fut un décret impérial qui rendit le christianisme une religion licite dans l'Empire romain. L'édit reconnaissait la liberté de culte et la propriété privée des églises, permettant aux chrétiens de professer leur foi sans persécutions. La paix constantinienne représenta un changement significatif dans la politique impériale, car pour la première fois un empereur romain reconnaissait la validité de la religion chrétienne. L'édit eut un impact immédiat sur la vie religieuse et sociale de l'Empire, permettant aux chrétiens de construire des églises et des cimetières et de participer à la vie publique.",
         "patronage": "N/D",
         "main_shrine": "N/D"
     },
@@ -3947,7 +3947,7 @@
         "place_of_burial": "N/D",
         "notes": "",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Église Sainte-Sophie (Sofia, Bulgarie)"
     },
     "CouncilJerusalem_634": {
         "subject": "",
@@ -3955,7 +3955,7 @@
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Concile de Sardique, tenu en 343-344, fut convoqué par Constance et Constance II dans le but de résoudre les disputes entre les ariens et les nicéens. Tenu dans la ville de Serdica (actuelle Sofia, Bulgarie), il fut une tentative d'établir un terrain d'entente entre les deux factions chrétiennes qui s'étaient divisées en raison des controverses sur la nature du Christ. Malgré les espoirs de réconciliation, le concile se conclut sans succès, car les évêques ariens se retirèrent et tinrent un concile séparé à Philippopolis (aujourd'hui Plovdiv, Bulgarie). Cependant, le Concile de Sardique est important pour avoir tenté d'établir une forme d'appel à l'évêque de Rome, anticipant ainsi la primauté papale. Ce concile souligna l'importance de l'unité de l'Église et de la foi chrétienne, même si les divisions entre les deux factions restèrent non résolues pendant de nombreuses années.",
         "patronage": "N/D",
         "main_shrine": ""
     }

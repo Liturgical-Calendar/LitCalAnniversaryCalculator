@@ -3920,22 +3920,22 @@
         "main_shrine": "Basílica de San Pedro en el Vaticano (Ciudad del Vaticano)"
     },
     "EdictSerdica_631": {
-        "subject": "",
-        "places": "",
+        "subject": "Edicto de Serdica",
+        "places": "Sofía (Bulgaria)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "El Edicto de Serdica, emitido el 30 de abril de 311, fue un decreto de tolerancia religiosa promulgado por Galerio, emperador romano de Oriente, que puso fin a las persecuciones contra los cristianos iniciadas por Diocleciano en 303. El edicto permitía a los cristianos reunirse y poseer iglesias y cementerios, siempre que no alteraran el orden público. Sin embargo, seguía vigente la prohibición de profesar la fe cristiana y de construir nuevas iglesias. La tolerancia permitió a los cristianos emerger como una comunidad organizada y participar en la vida pública. El edicto fue un paso importante hacia la paz constantiniana de 313, que hizo del cristianismo una religión lícita en el Imperio Romano.",
         "patronage": "N/D",
         "main_shrine": "N/D"
     },
     "EdictMilan_632": {
-        "subject": "",
-        "places": "",
+        "subject": "Edicto de Milán",
+        "places": "Mediolanum (actual Milán, Italia)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "El Edicto de Milán, firmado el 13 de junio de 313 por Constantino I y Licinio, fue un decreto imperial que hizo del cristianismo una religión lícita en el Imperio Romano. El edicto reconoció la libertad de culto y la propiedad privada de las iglesias, permitiendo a los cristianos profesar su fe sin persecuciones. La paz constantiniana representó un cambio significativo en la política imperial, ya que por primera vez un emperador romano reconoció la validez de la religión cristiana. El edicto tuvo un impacto inmediato en la vida religiosa y social del Imperio, permitiendo a los cristianos construir iglesias y cementerios y participar en la vida pública.",
         "patronage": "N/D",
         "main_shrine": "N/D"
     },
@@ -3947,7 +3947,7 @@
         "place_of_burial": "N/D",
         "notes": "",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Iglesia de Santa Sofía (Sofía, Bulgaria)"
     },
     "CouncilJerusalem_634": {
         "subject": "",
@@ -3955,7 +3955,7 @@
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "El Concilio de Sardica, celebrado en 343-344, fue convocado por Constante y Constancio II en un intento de resolver las disputas entre los arrianos y los nicenos. Celebrado en la ciudad de Serdica (actual Sofía, Bulgaria), fue un intento de establecer un terreno común entre las dos facciones cristianas que se habían dividido debido a las controversias sobre la naturaleza de Cristo. A pesar de las esperanzas de reconciliación, el concilio concluyó sin éxito, ya que los obispos arrianos se retiraron y celebraron un concilio separado en Filipópolis (actual Plovdiv, Bulgaria). Sin embargo, el Concilio de Sardica es importante por haber intentado establecer una forma de apelación al obispo de Roma, anticipando así el primado papal. Este concilio subrayó la importancia de la unidad de la Iglesia y de la fe cristiana, aunque las divisiones entre las dos facciones permanecieron sin resolver durante muchos años.",
         "patronage": "N/D",
         "main_shrine": ""
     }

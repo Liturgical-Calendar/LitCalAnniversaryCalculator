@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-08 14:14+0000\n"
-"PO-Revision-Date: 2024-11-08 14:33+0000\n"
-"Last-Translator: \"John R. D'Orazio\" <priest@johnromanodorazio.com>\n"
+"POT-Creation-Date: 2024-11-09 11:41+0000\n"
+"PO-Revision-Date: 2024-11-09 11:48+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Latin <https://translate.johnromanodorazio.com/projects/"
 "liturgical-calendar/anniversary-calculator/la/>\n"
 "Language: la\n"
@@ -211,52 +211,60 @@ msgstr "LIGNUM"
 msgid "PAPER"
 msgstr "CHARTA"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:39
+#: src/AnniversaryCalculator/Enums/AnnivType.php:43
 msgid "birth"
 msgstr "nativitas"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:40
+#: src/AnniversaryCalculator/Enums/AnnivType.php:44
 msgid "death"
 msgstr "mors"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:41
+#: src/AnniversaryCalculator/Enums/AnnivType.php:45
 msgid "canonization"
 msgstr "canonizatio"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:42
+#: src/AnniversaryCalculator/Enums/AnnivType.php:46
 msgid "doctor"
 msgstr "doctor"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:43
+#: src/AnniversaryCalculator/Enums/AnnivType.php:47
 msgid "dedication"
 msgstr "dedicatio"
 
-#. translators: term "translation" refers to the transferral of the relics of a saint
-#: src/AnniversaryCalculator/Enums/AnnivType.php:45
+#. translators: the term 'translation' refers to the transferral of the relics of a saint
+#: src/AnniversaryCalculator/Enums/AnnivType.php:49
 msgid "translation"
 msgstr "translatio"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:46
+#: src/AnniversaryCalculator/Enums/AnnivType.php:50
 msgid "dogma"
 msgstr "dogma"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:47
+#: src/AnniversaryCalculator/Enums/AnnivType.php:51
 msgid "apparition"
 msgstr "apparitio"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:48
+#: src/AnniversaryCalculator/Enums/AnnivType.php:52
 msgid "pontifical incoronation"
 msgstr "incoronatio pontificalis"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:49
+#: src/AnniversaryCalculator/Enums/AnnivType.php:53
 msgid "ecumenical council"
 msgstr "concilium oecumenicum"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:50
+#: src/AnniversaryCalculator/Enums/AnnivType.php:54
+msgid "church council"
+msgstr "concilium ecclesiae"
+
+#: src/AnniversaryCalculator/Enums/AnnivType.php:55
+msgid "imperial edict"
+msgstr "imperiale edictum"
+
+#: src/AnniversaryCalculator/Enums/AnnivType.php:56
 msgid "encyclical"
 msgstr "encyclica"
 
-#: src/AnniversaryCalculator/Enums/AnnivType.php:51
+#: src/AnniversaryCalculator/Enums/AnnivType.php:57
 msgid "other"
 msgstr "alius"
 

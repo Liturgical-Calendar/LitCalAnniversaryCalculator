@@ -7,10 +7,11 @@ const NA2LANGS = {
     "de": "N/V",
     "pt": "N/D",
     "la": "non pertinet",
-    "nl": "n.v.t."
+    "nl": "n.v.t.",
+    "sk": "n/u"
 }
 
-const langs = ['en', 'fr','es','de','pt','la','nl'];
+const langs = ['en', 'fr','es','de','pt','la','nl','sk'];
 const langsFiles = {
     en: 'data/i18n/en.json',
     fr: 'data/i18n/fr.json',
@@ -18,7 +19,8 @@ const langsFiles = {
     de: 'data/i18n/de.json',
     pt: 'data/i18n/pt.json',
     la: 'data/i18n/la.json',
-    nl: 'data/i18n/nl.json'
+    nl: 'data/i18n/nl.json',
+    sk: 'data/i18n/sk.json'
 };
 
 let srcLanguageObj = null;

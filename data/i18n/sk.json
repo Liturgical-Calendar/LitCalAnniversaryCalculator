@@ -202,9 +202,9 @@
     "LadyLourdes_22": {
         "subject": "Blahoslavená Panna Mária Lurdská",
         "places": "Lurdy (Francúzsko)",
-        "place_of_death": "Svätý Vavrinec z Brindisi, kňaz a učiteľ",
-        "place_of_birth": "Kostol svätého Pantalea (Rím, Taliansko)",
-        "place_of_burial": "N/A",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Prvé zjavenie Panny Márie Bernadette. Táto spomienka sa viaže na mystickú skúsenosť Bernadette Soubirous, ktorá osemnásťkrát, medzi 11. februárom a 16. júlom 1858, v jaskyni Massabielle pri Lurdoch (Francúzsko), stretla Pannu Máriu. Vyhlásila, že je „Nepoškvrnené počatie“, vyzývajúc ľudí k modlitbe a obráteniu. Svätyňa postavená na tomto mieste, na pozvanie Panny Márie, sa stala cieľom neustálych púti, najmä pre chorých.",
         "patronage": "Chorí, chudobní, väzni, ľudia hľadajúci zázraky",
         "main_shrine": "Svätyňa Našej Pani z Lúrd (Francúzsko)"
@@ -221,7 +221,7 @@
     },
     "SevenHolyFounders_24": {
         "subject": "Svätí siedmi zakladatelia služobníkov Panny Márie",
-        "places": "N/A",
+        "places": "n/u",
         "place_of_death": "Montesenario (Taliansko)",
         "place_of_birth": "Florencia",
         "place_of_burial": "Florencia",
@@ -231,7 +231,7 @@
     },
     "StPeterDamian_25": {
         "subject": "Svätý Peter Damiani, biskup a učiteľ Cirkvi",
-        "places": "N/A",
+        "places": "n/u",
         "place_of_death": "Faenza (Taliansko)",
         "place_of_birth": "Park Nishizaka (Nagasaki, Japonsko)",
         "place_of_burial": "Benediktínsky kláštor Santa Maria Fuori le Mura (Faenza)",
@@ -251,7 +251,7 @@
     },
     "StCasimir_28": {
         "subject": "Svätý Kazimír",
-        "places": "Svätý Rajmund z Peñafortu, kňaz",
+        "places": "n/u",
         "place_of_death": "Hrodna (Bielorusko)",
         "place_of_birth": "Svätá Faustína Kowalská",
         "place_of_burial": "Vilnius (Litva)",
@@ -261,7 +261,7 @@
     },
     "StsPerpetuaFelicity_29": {
         "subject": "Sväté Perpetua a Felicita, mučeníčky",
-        "places": "lekárnici, klobučníci, Uruguaj",
+        "places": "n/u",
         "place_of_death": "Kartágo - Tunis (Tunisko)",
         "place_of_birth": "Kartágo - Tunis (Tunisko)",
         "place_of_burial": "Kostol Notre Dame vo Vierzone (Francúzsko)",
@@ -307,7 +307,7 @@
         "place_of_burial": "Kostol Učeníkov (alebo Apoštolov) na Eleone, Olivová hora (Jeruzalem, Izrael / Palestína)",
         "notes": "Cyril (ca. 315 - 387), biskup Jeruzalema, bol dramaticky zapojený do hlbokých rozdelení Cirkvi svojej doby: ohováraný a viackrát vyhnaný, zostal verný doktríne vyhlásenej na Nicejskom koncile (325). Jemu sa pripisujú niektoré slávne krstné katechézy.",
         "patronage": "teológovia katechéti, exorcisti",
-        "main_shrine": "Bazilika svätej Márie Magdalény v Saint-Maximin-la-Sainte-Baume (Francúzsko)"
+        "main_shrine": "n/u"
     },
     "StJoseph_34": {
         "subject": "Svätý Jozef, ženích Blahoslavenej Panny Márie",
@@ -483,7 +483,7 @@
         "subject": "Svätí Nereus a Achilleus, mučeníci",
         "places": "Rím (Taliansko)",
         "place_of_death": "Bekaa Kafra (Libanon)",
-        "place_of_birth": "Svätý Rajmund z Peñafortu, kňaz",
+        "place_of_birth": "n/u",
         "place_of_burial": "Katakomby Domitilly",
         "notes": "Nereus a Achilleus boli podľa tradície dvaja vojaci, ktorých k viere priviedol príklad sily kresťanov mučených a vedených k mučeníctvu. Boli sťatí na ceste Ardeatina a pochovaní na cintoríne Domitilla. O ich mučeníctve, ktoré sa pravdepodobne odohralo počas prvej Diokleciánovej perzekúcie (303-305), píše pápež Damasus v nápise, ktorý umiestnil na ich hrob. Títo dvaja mučeníci, ktorých kult je doložený už od 6. storočia, sú spomínaní 12. mája v Jeronýmskom martyrológiu (5.-6. storočie). V roku 1215 boli ich relikvie uložené v kostole svätého Adriána na Fóre (Curia Iulia) na Rímskom fóre, potom v roku 1597 boli tieto relikvie spolu s tými, ktoré by mali byť relikviami Flavie Domitilly, s najväčšou slávnosťou prenesené z tohto kostola do kostola svätých Nerea a Achillea na Celio.",
         "patronage": "Telesní strážcovia, vojaci",
@@ -637,7 +637,7 @@
         "place_of_burial": "Edessa (dnešná Şanlıurfa, Turecko)",
         "notes": "Efrém (Nisibi, súčasný Nusaybin, Turecko, cca 306 - Edessa, súčasný Şanliurfa, 9. júna 373) prispel k založeniu teologickej školy, najprv vo svojej vlasti, potom v Edese, kam sa presťahoval po tom, čo Nisibi prešla pod perzskú nadvládu. Skladal liturgické hymny bohaté na obrazy a rytmy, ktoré ho preslávili v celom kresťanskom Východe. Vynikal v diakonskej službe v oblasti vyučovania, liturgickej animácie a pomoci núdznym.",
         "patronage": "Speváci, hudobníci, básnici",
-        "main_shrine": "Kostol svätého Pantalea (Rím, Taliansko)"
+        "main_shrine": "n/u"
     },
     "StBarnabasAp_70": {
         "subject": "Svätý Barnabáš, apoštol",
@@ -714,10 +714,10 @@
         "places": "Teodosia (súčasné el-Mahalla el-Kubra, Egypt); Alexandria (Egypt)",
         "place_of_death": "Alexandria (Egypt)",
         "place_of_birth": "Teodosia (súčasný el-Mahalla el-Kubra, Egypt)",
-        "place_of_burial": "Kostol svätého Pantalea (Rím, Taliansko)",
+        "place_of_burial": "n/u",
         "notes": "Cyril, biskup Alexandrie v Egypte od roku 412 do 444, energicky obhajoval čistotu viery v Krista. Autor mnohých teologických spisov, pevne podporoval uznanie Márie ako Matky Božej, najmä na koncile v Efeze (431). Jeho pamiatka sa v tento deň slávi aj medzi Koptmi a Byzantíncami.",
         "patronage": "Ekumenizmus, teológovia",
-        "main_shrine": "Svätý Rajmund z Peñafortu, kňaz"
+        "main_shrine": "n/u"
     },
     "StIrenaeus_78": {
         "subject": "Svätý Irenej, biskup a mučeník",
@@ -743,11 +743,11 @@
         "subject": "Svätí Prví mučeníci Rímskej cirkvi",
         "places": "Svätá Cecília, panna a mučenica",
         "place_of_death": "Bekaa Kafra (Libanon)",
-        "place_of_birth": "Svätý Rajmund z Peñafortu, kňaz",
+        "place_of_birth": "n/u",
         "place_of_burial": "Katakomby v Ríme",
         "notes": "Prví mučeníci Rímskej Cirkvi sú „veľký zástup“ kresťanov, ktorých dal zabiť cisár Nero, aby odvrátil podozrenia od seba za požiar Ríma (júl 64). Ako dosvedčuje pohanský historik Tacitus vo svojich Annáloch, títo nevinní, podrobení „rafinovaným mučeniam“, vzbudili „pocit súcitu, pretože boli evidentne obetovaní nie pre verejné dobro, ale pre krutosť jedného človeka“.",
         "patronage": "Prenasledovaní pre vieru",
-        "main_shrine": "Svätý Rajmund z Peñafortu, kňaz"
+        "main_shrine": "n/u"
     },
     "StThomasAp_81": {
         "subject": "Svätý Tomáš Apoštol",
@@ -832,9 +832,9 @@
     "LadyMountCarmel_89": {
         "subject": "Blahoslavená Panna Mária z hory Karmel",
         "places": "Hora Karmel (dnešná Haifa, Izrael)",
-        "place_of_death": "Svätý Rajmund z Peñafortu, kňaz",
-        "place_of_birth": "Svätý Vavrinec z Brindisi, kňaz a učiteľ",
-        "place_of_burial": "Svätý Vavrinec z Brindisi, kňaz a učiteľ",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "V 12. storočí sa niekoľko pútnikov uchýlilo na horu Karmel v Palestíne, kde Eliáš bojoval proti kňazom Baala za vernosť Izraela jedinému Pánovi (porov. 1 Kr 18, 20-40). Tam sa vytvorila komunita kontemplatívnych oddaných Márii, modelu bezpodmienečného odovzdania sa Bohu. Táto komunita bola pôvodom Karmelitánskeho rádu a mnohých laických bratstiev, ktoré šírili kult Panny Márie Karmelskej (alebo Karmelskej). Karmelitánsky rád začal sláviť sviatok zasvätený Blahoslavenej Panne \"z hory Karmel\" v Anglicku od druhej polovice 14. storočia každý 17. júla, s odkazom na dátum posledného zasadania Lyonu (1274), na ktorom rád získal schválenie, ktoré ho zachránilo pred zrušením; bol ustanovený s cieľom poďakovať Panne Márii za všetky dobrodenia udelené rádu, ako ochrankyni a advokátke. Neskôr, najmä v 16. storočí, sa primárny význam pripisoval Škapuliaru, ktorý sa stal najbezprostrednejším dôvodom na poďakovanie a vyjadrenie lásky k Matke Božej. Preto bola jeho oslava presunutá na 16. júla, s odkazom na deň, kedy sa podľa tradície Panna Mária zjavila svätému Šimonovi Stockovi a odovzdala mu Škapuliar (1251). Tento sviatok sa rýchlo rozšíri po celom svete, až do tej miery, že pápež Pavol VI. ho vo svojej apoštolskej exhortácii \"Marialis Cultus\" zaradil medzi sviatky \"pôvodne slávené konkrétnymi náboženskými rodinami, ale dnes, pre dosiahnuté rozšírenie, môžu byť skutočne považované za cirkevné\".",
         "patronage": "Karmelitáni, duše v očistci",
         "main_shrine": "Kostol \"Stella Maris\" na hore Karmel (súčasný Haifa, Izrael)"
@@ -942,9 +942,9 @@
     "DedicationStMaryMajor_101": {
         "subject": "Zasvätenie Baziliky Santa Maria Maggiore",
         "places": "Rím",
-        "place_of_death": "N/A",
-        "place_of_birth": "N/A",
-        "place_of_burial": "Betsaida (Rímska Palestína)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Bazilika Santa Maria Maggiore bola postavená na Esquilinskom pahorku v Ríme pápežom Sixtom III. (432-440). Bola zasvätená Panne Márii, ktorú ekumenický koncil v Efeze v roku 431 uznal za „Bohorodičku“. Bola to prvá mariánska svätyňa na Západe, podľa ktorej bolo zasvätených nespočetné množstvo ďalších kostolov Panne Márii. Zasvätenie baziliky 5. augusta je zaznamenané v Jeronýmskom martyrológiu (5.-6. storočie).",
         "patronage": "Matka kresťanského ľudu",
         "main_shrine": "Bazilika Santa Maria Maggiore"
@@ -952,9 +952,9 @@
     "Transfiguration_102": {
         "subject": "Premenenie Pána",
         "places": "Hora Tabor (Izrael)",
-        "place_of_death": "N/A",
-        "place_of_birth": "N/A",
-        "place_of_burial": "lekárnici, klobučníci, Uruguaj",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Pápež Kalixt III. ustanovil dnešný sviatok na pamiatku víťazstva pri Belehrade v auguste predchádzajúceho roka. V bitke pri Belehrade János Hunyadi a brat Giovanni da Capestrano viedli krížovú výpravu vojakov proti turecko-osmanskej flotile Mehmeda II. Na hore, v spoločnosti Petra, Jakuba a Jána, sa Ježiš premenil „pred nimi“ (Mt 17, 2): závoj padá z očí učeníkov a títo, darom od Boha, vidia božskú identitu, ktorá presvitá z ľudskosti Krista. Syn človeka, ktorý sa vydal na cestu ku krížu (porov. Mk 8, 31-34), je Synom Božím, definitívnym zjavením Otca. Zákon a Proroci smerujú ku Kristovi a Otec mu vydáva svedectvo: „Toto je môj milovaný Syn: počúvajte ho!“ (Mk 9, 7). Obklopený tou slávou, ktorú mal u Otca predtým, než bol svet (porov. Jn 1, 14), Kristus predznamenáva a predpovedá svoj slávny príchod v posledný deň, aby premenil všetky veci. Bol to pápež Kalixt III., ktorý v roku 1457 rozšíril tento sviatok na celú univerzálnu Cirkev.",
         "patronage": "Kontemplácia Kristovho tajomstva",
         "main_shrine": "Hora Tabor (Izrael)"
@@ -1081,13 +1081,13 @@
     },
     "QueenshipMary_115": {
         "subject": "Blahoslavená Panna Mária Kráľovná",
-        "places": "Betsaida (Rímska Palestína)",
-        "place_of_death": "Kostol svätého Pantalea (Rím, Taliansko)",
-        "place_of_birth": "N/A",
-        "place_of_burial": "Kostol svätého Pantalea (Rím, Taliansko)",
+        "places": "n/u",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "V stredoveku sa začalo bežne vzývať Pannu Máriu ako Kráľovnú (Salve, Regina) a zobrazovať ju korunovanú Synom, čím sa vyjadrovala jej plná účasť na univerzálnom kráľovstve Krista. V tejto liturgickej spomienke, ktorú ustanovil Pius XII. 11. októbra 1954 encyklikou Ad caeli Reginam na 31. mája na záver mariánskeho mesiaca, a ktorá bola po reforme po Druhom vatikánskom koncile umiestnená do svetla slávnosti Nanebovzatia Panny Márie na 22. augusta, je Panna Mária predstavená ako vzor a znamenie nádeje pre všetkých kresťanov, ktorí sú už v krste oblečení do kráľovskej dôstojnosti Pána a sú povolaní vládnuť s ním večne.",
         "patronage": "Regina nebies, patrónka kresťanov",
-        "main_shrine": "Svätý Vavrinec z Brindisi, kňaz a učiteľ"
+        "main_shrine": "n/u"
     },
     "StRoseLima_116": {
         "subject": "Svätá Ružena z Limy, panna",
@@ -1192,19 +1192,19 @@
     "ExaltationCross_126": {
         "subject": "Povýšenie Svätého Kríža",
         "places": "Jeruzalem (Izrael / Palestína); Konštantínopol (dnešný Istanbul, Turecko); Rím (Taliansko)",
-        "place_of_death": "N/A",
-        "place_of_birth": "Bazilika svätej Márie Magdalény v Saint-Maximin-la-Sainte-Baume (Francúzsko)",
-        "place_of_burial": "Betsaida (Rímska Palestína)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Tento sviatok sa zrodil v Jeruzaleme, pri príležitosti výročia zasvätenia, ktoré sa konalo 14. septembra 335, dvoch bazilík postavených Konštantínom, jednej na Golgote (ad Martyrium) a druhej pri svätom hrobe (Anastasis), aj v dôsledku nájdenia relikvií kríža Helenou, matkou cisára. Kríž, ktorý bol už nástrojom najstrašnejšieho trestu, ktorý Konštantín v roku 320 zakázal používať, je pre kresťana stromom života, lôžkom, trónom, oltárom Novej zmluvy: z Krista, nového Adama, ktorý zaspal na kríži, vytryskol obdivuhodný sviatosť celej Cirkvi. Kríž je znakom Kristovej vlády nad tými, ktorí sú v krste s ním stotožnení v smrti a sláve (porov. Rm 6, 5).",
         "patronage": "Križiaci, misionári",
         "main_shrine": "Bazilika Svätého hrobu, Kaplnka Kalvárie, Jeruzalem"
     },
     "LadySorrows_127": {
         "subject": "Blahoslavená Panna Mária Bolestná",
-        "places": "N/A",
-        "place_of_death": "N/A",
-        "place_of_birth": "lekárnici, klobučníci, Uruguaj",
-        "place_of_burial": "N/A",
+        "places": "n/u",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Úcta k Bolestnej Panne Márii sa výrazne rozvinula v posledných storočiach stredoveku, prejavujúc sa v náboženskej poézii (Stabat Mater) aj v zobrazení Pieta. Liturgická pamiatka bola zavedená Piom VII v roku 1814, aj s ohľadom na trápenia, ktoré v tých rokoch cirkev prežívala. Prostredníctvom intímneho spojenia so Synom sa materstvo Márie rozširuje na celé ľudstvo vykúpené Kristom na kríži (porov. Jn 19, 25-27). Úcta k Bolestnej Panne Márii sa rozvíja od konca 11. storočia, s prvým zmienkou o oslavách jej 5 radostí a 5 bolestí, symbolizovaných 5 mečmi, ktoré predchádzali neskoršiu liturgickú oslavu. Keď neznámy autor napísal Liber de passione Christi et dolore et planctu Matris eius, začali sa skladby na tému Plaču Panny Márie. V 12. storočí, aj v dôsledku zjavení Panny Márie, došlo k nárastu tohto kultu a k zloženiu Stabat Mater, pripisovaného Jacoponovi da Todi. Ale jeho história má presný začiatok: 15. augusta 1233, keď sedem šľachticov z Florencie, zapísaných do Cechu obchodníkov a básnikov-hercov spoločnosti Laudesi, zvyklo vyjadrovať svoju lásku k Márii v chválach pred obrazom namaľovaným na stene ulice, ako to robili žongléri s milovanou ženou. Náhle videli, ako sa obraz oživil, objavil sa smutný a oblečený v smútočnom rúchu pre bratovražednú nenávisť, ktorá rozdeľovala Florenciu. Títo mladíci odhodili zbrane, obliekli si smútočné rúcho, založili spoločnosť Bolestnej Panny Márie, nazývanú Serviti, a uchýlili sa do pokánia a modlitby na Monte Sanario. S plynutím storočí vznikli rôzne prejavy úcty: Panna Mária pod krížom; Spoločnosť rúcha; Bratstvo Siedmich bolestí, schválené Rímom v roku 1645; Tretí rád; Koruna Bolestnej Panny Márie; rôzne ženské kongregácie k Bolestnej Panne Márii atď. Medzi rokmi 1668 a 1690 iniciatívy kultu zo strany Služobníkov Márie podporili šírenie kultu Panny Márie Bolestnej. Medzitým 9. júna 1668 S. Kongregácia rít povolila rádu sláviť votívnu omšu Siedmich bolestí Blahoslavenej Panny Márie. V príslušnom dekréte sa spomínalo, že Služobníci Márie nosili čierne rúcho na pamiatku vdovstva Márie a bolestí, ktoré prežila počas utrpenia Syna. Spočiatku bol kult Bolestnej Panny Márie spojený s Veľkým týždňom, potom vznikol jej sviatok, pôvodne slávený v piatok pred Veľkým týždňom alebo po Veľkej noci a nakoniec 15. septembra, v súvislosti so sviatkom Povýšenia svätého kríža, sláveným deň predtým. Ešte dnes sa na niektorých miestach oslavuje v starých dátumoch. Kult Bolestnej Panny Márie je tiež zdôraznený šírením modlitieb k Bolestnej Panne Márii a recitáciou ruženca siedmich bolestí, najmä počas Veľkého týždňa.",
         "patronage": "Matky, bolesti, trpiaci ľudia",
         "main_shrine": "Kaplnka Kalvárie, Bazilika Svätého hrobu, Jeruzalem"
@@ -1282,9 +1282,9 @@
     "StsArchangels_135": {
         "subject": "Svätí Michal, Gabriel a Rafael, archanjeli",
         "places": "Castel Sant'Angelo (Rím, Taliansko); Nazaret (Izrael); Mosul (Irak)",
-        "place_of_death": "N/A",
-        "place_of_birth": "Svätý Rajmund z Peñafortu, kňaz",
-        "place_of_burial": "Bazilika svätej Márie Magdalény v Saint-Maximin-la-Sainte-Baume (Francúzsko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Mikuláš («Kto je ako Boh?»), prvý z archanjelov, chráni Boží ľud (porov. Dn 10, 13.21; 12, 1) a vedie nebeské zástupy v boji proti diablovi (Jd 9; porov. Zjv 12, 1-17). Gabriel («muž Boží» alebo «Boh je moja sila») je Boží posol k ľuďom: vysvetľuje prorokovi Danielovi tajomstvá Božieho plánu (porov. Dn 8, 16; 9, 21), oznamuje Zachariášovi narodenie Jána Krstiteľa (porov. Lk 1, 5-25) a Márii narodenie Ježiša (porov. Lk 1, 26-38). Rafael («Boh uzdravil») je medzi «siedmimi anjelmi, ktorí sú vždy pripravení vstúpiť do prítomnosti slávy Pána» (Tob 12, 15; porov. Zjv 8, 2), sprevádza Tobiáša na ceste, učí ho, ako vyliečiť slepotu otca Tobiho a oslobodiť manželku Sáru od démona Asmodea (porov. Tob 3, 16-17; 6, 1). V Eucharistii sa Cirkev už zúčastňuje na nebeskej liturgii, kde «nespočetné zástupy anjelov» (Eucharistická modlitba IV) oslavujú Boha a Baránka (porov. Zjv 5, 11-14). V Jeronýmovom martyrológiu (5.-6. storočie) je 29. septembra spomínaná posviacka kostola svätého Michala v Ríme na Via Salaria (5. storočie). V roku 493 pápež Gelasius ustanovil sviatok na pamiatku tejto posviacky.",
         "patronage": "Ochrana, uzdravenie, komunikácia",
         "main_shrine": "Castel Sant'Angelo (Rím, Taliansko); Jaskyňa svätého Michala na Gargane (Taliansko); Mont Saint-Michel (Francúzsko)"
@@ -1311,13 +1311,13 @@
     },
     "GuardianAngels_138": {
         "subject": "Svätí Anjeli Strážcovia",
-        "places": "Betsaida (Rímska Palestína)",
-        "place_of_death": "Kostol svätého Pantalea (Rím, Taliansko)",
-        "place_of_birth": "Svätý Rajmund z Peñafortu, kňaz",
-        "place_of_burial": "N/A",
+        "places": "n/u",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Kult anjelov siaha do prvých čias Cirkvi a oslavuje Božiu nežnosť, ktorý, tvorca všetkých viditeľných a neviditeľných vecí, dal život duchovným bytostiam, poslom, ktorí sprevádzajú človeka, aby „každý veriaci mal po svojom boku anjela ako ochrancu a pastiera, aby ho viedol k životu“ (Bazil Veľký), od detstva (porov. Mt 18, 10) až po smrť (porov. Lk 16, 22). Až do piateho storočia nebol žiadny konkrétny deň venovaný anjelom strážcom, ktorých úrad pripadal na 29. september, v súvislosti so sviatkom svätého Michala archanjela. Používanie osobitného sviatku vzniklo vo Valencii v roku 1411, keď bol ustanovený sviatok pre anjela ochrancu mesta. Podobná iniciatíva bola aj vo Francúzsku. Počas nasledujúceho storočia sa myšlienka rozšírila zo Španielska do Portugalska a potom do Rakúska a do talianskych regiónov, ktoré boli viac ovplyvnené Habsburgovcami. Už v šestnástom storočí vznikli prvé „Spoločnosti anjela strážcu“, ktoré sa široko rozšírili na začiatku sedemnásteho storočia pod vplyvom publikácie rôznych teologických traktátov (porov. nižšie uvedenú bibliografiu) a podnetu rôznych rehoľných rádov, medzi ktorými napríklad Somaschi. Rozhodujúci impulz dal pápež Pavol V., ktorý v bule z roku 1614 pridelil špecifické odpustky členom spoločností anjela strážcu pridružených k Arcibratstvu v Ríme a ktorí vykonávali konkrétne záslužné skutky. Súbežne s rozšírením ľudovej zbožnosti došlo k liturgickému uznaniu sviatku. V „Rímskom misáli“ pápeža Pia V. (1570) boli uvedené štyri sviatky výslovne zasvätené anjelom, a to sviatky anjelov strážcov (2. októbra), archanjela Gabriela, archanjela Michala a archanjela Rafaela. Zrušený Piom V., sviatok na počesť anjelov strážcov bol obnovený v roku 1608 Pavlom V. a rozšírený na celú univerzálnu Cirkev. V roku 1670 ho Klement X. urobil povinným pre celú latinskú Cirkev, vždy na dátum 2. októbra.",
         "patronage": "Deti, cestovatelia, polícia",
-        "main_shrine": "Svätý Rajmund z Peñafortu, kňaz"
+        "main_shrine": "n/u"
     },
     "StFrancisAssisi_139": {
         "subject": "Svätý František z Assisi",
@@ -1342,9 +1342,9 @@
     "OurLadyRosary_141": {
         "subject": "Blahoslavená Panna Mária Ružencová",
         "places": "Pompeje (Taliansko)",
-        "place_of_death": "N/A",
-        "place_of_birth": "Svätý Rajmund z Peñafortu, kňaz",
-        "place_of_burial": "Svätý Vavrinec z Brindisi, kňaz a učiteľ",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Praktizovanie ruženca, rozšírené dominikánmi (15. storočie), podporilo vznik mnohých laických bratstiev. Pre tieto bratstvá bola ustanovená (16. storočie) liturgická pamiatka blahoslavenej Panny Márie Ružencovej, prvú nedeľu v októbri, neskôr (17. storočie) spojená s víťazstvom kresťanstva proti osmanskému postupu (Lepanto, 7. októbra 1571).",
         "patronage": "Proti herézam, Ruženec",
         "main_shrine": "Bazilika Blahoslavenej Panny Márie Ružencovej, Pompeje (Taliansko)"
@@ -1502,9 +1502,9 @@
     "DedicationLateran_159": {
         "subject": "Posviacka Lateránskej baziliky",
         "places": "Rím (Taliansko)",
-        "place_of_death": "N/A",
-        "place_of_birth": "Kostol svätého Pantalea (Rím, Taliansko)",
-        "place_of_burial": "lekárnici, klobučníci, Uruguaj",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Výročie posvätenia baziliky, postavenej cisárom Konštantínom, sa pravdepodobne oslavovalo už od 12. storočia 9. novembra. Spočiatku to bol sviatok len pre mesto Rím. Neskôr sa oslava rozšírila na všetky cirkvi rímskeho rítu na počesť baziliky nazývanej materský kostol všetkých kostolov v meste a na svete a ako znak lásky a jednoty voči Petrovmu stolcu.",
         "patronage": "Jednota Cirkvi, Rím",
         "main_shrine": "Bazilika svätého Jána v Lateráne (Rím, Taliansko)"
@@ -1582,9 +1582,9 @@
     "DedicationStsPeterPaul_167": {
         "subject": "Zasvätenie bazilík svätých Petra a Pavla, apoštolov",
         "places": "Svätá Cecília, panna a mučenica",
-        "place_of_death": "Svätý Vavrinec z Brindisi, kňaz a učiteľ",
-        "place_of_birth": "Svätý Rajmund z Peñafortu, kňaz",
-        "place_of_burial": "Betsaida (Rímska Palestína)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Boli postavené na miestach mučeníctva Petra a Pavla – na Vatikánskom vrchu a pozdĺž cesty Ostiense –, dve baziliky zdôrazňujú neporovnateľnú dôstojnosť Rímskej cirkvi vďaka dvojitej svedectve prvého a posledného z apoštolov (porov. Mt 10, 2; 1 Kor 15, 8). Dátum vybraný pre tento sviatok je dátum zasvätenia baziliky svätého Petra po renesančnej prestavbe (18. november 1636).",
         "patronage": "Jednota Cirkvi, Rím",
         "main_shrine": "Baziliky svätých Petra a Pavla (Rím, Taliansko)"
@@ -1597,7 +1597,7 @@
         "place_of_burial": "Olivová hora, Jeruzalem",
         "notes": "Epizóda o predstavení Márie, vo veku troch rokov, v chráme v Jeruzaleme, je rozprávaná v Protoevanjeliu Jakuba, apokryfnom texte z 2. storočia. Tento čin, ktorý nebol predpísaný Zákonom, naznačuje úplnú príslušnosť Panny Márie k Bohu už od detstva. Je to jedna z hlavných mariánskych sviatkov pravoslávnej cirkvi. Dátum sviatku, 21. november, pochádza z toho istého dňa zasvätenia baziliky Santa Maria Nuova v meste Jeruzalem v roku 543, baziliky, ktorú chcel byzantský cisár Justinián I. a ktorá bola dokončená za patriarchu Jeruzalema Petra (dnes zničená).",
         "patronage": "Zasvätený život",
-        "main_shrine": "N/A"
+        "main_shrine": "n/u"
     },
     "StCecilia_169": {
         "subject": "Svätá Cecília, panna a mučenica",
@@ -1631,7 +1631,7 @@
     },
     "StAndrewAp_172": {
         "subject": "Svätý Andrej apoštol",
-        "places": "Kostol svätého Pantalea (Rím, Taliansko)",
+        "places": "n/u",
         "place_of_death": "Patras (Grécko)",
         "place_of_birth": "Betsaida (Galilea, Izrael)",
         "place_of_burial": "Kostol svätého Ondreja, Patras; Katedrála v Amalfi (Taliansko); Bazilika svätého Petra vo Vatikáne",
@@ -1664,7 +1664,7 @@
         "places": "Bari; Benátky",
         "place_of_death": "Myra (súčasný Demre, Turecko)",
         "place_of_birth": "Patara v Lycii (Turecko)",
-        "place_of_burial": "Svätý Rajmund z Peñafortu, kňaz",
+        "place_of_burial": "n/u",
         "notes": "Mikuláš (4. storočie) bol biskupom Myry (dnešný Demre, Turecko). Z Východu sa jeho kult rozšíril aj do Talianska po odcudzení jeho relikvií (1087) a ich umiestnení v Bari, v bazilike, ktorá je mu zasvätená, kde sú dodnes uchovávané. V jeho mene rozkvitli ľudové tradície a charitatívne iniciatívy spojené s Vianocami. Spomienka na jeho smrť a pohreb je uvedená na 6. decembra v byzantskom a koptskom obrade.",
         "patronage": "Deti, námorníci, obchodníci",
         "main_shrine": "Bazilika svätého Mikuláša (Bari, Taliansko); Kostol svätého Mikuláša na Lide (Benátky, Taliansko)"
@@ -1681,13 +1681,13 @@
     },
     "ImmaculateConception_177": {
         "subject": "Nepoškvrnené počatie Panny Márie",
-        "places": "Svätý Rajmund z Peñafortu, kňaz",
-        "place_of_death": "Svätý Rajmund z Peñafortu, kňaz",
-        "place_of_birth": "Svätý Rajmund z Peñafortu, kňaz",
-        "place_of_burial": "Bazilika svätej Márie Magdalény v Saint-Maximin-la-Sainte-Baume (Francúzsko)",
+        "places": "n/u",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Od 7.-8. storočia na Východe, presne deväť mesiacov pred sviatkom Narodenia (8. september), sa slávil sviatok „počatia“ Márie. Neskôr sa slávil aj na Západe od 11. storočia, táto slávnosť sa vkladá do kontextu Adventu-Vianoc, spájajúc mesiášske očakávanie a slávnostný návrat Krista s obdivuhodnou spomienkou na Matku. V tomto zmysle by toto liturgické obdobie malo byť považované za zvlášť vhodné pre kult Matky Pána (porov. Pavol VI, Marialis cultus, 4). Mária je Všetkosvätá, bez akejkoľvek škvrny hriechu, takmer tvarovaná a obnovená Duchom Svätým (porov. Lumen gentium, 56). Už prorocky naznačená v prísľube danom prarodičom o víťazstve nad hadom, Mária je Panna, ktorá počne a porodí syna, ktorého meno bude Emanuel. Dogma o Nepoškvrnenom Počatí bola vyhlásená Piom IX v roku 1854.",
         "patronage": "Spojené štáty, Španielsko, Filipíny",
-        "main_shrine": "Betsaida (Rímska Palestína)"
+        "main_shrine": "n/u"
     },
     "StDamasusIPope_178": {
         "subject": "Svätý Damasus I., pápež",
@@ -1741,17 +1741,17 @@
     },
     "StStephenProtomartyr_183": {
         "subject": "Svätý Štefan, prvý mučeník",
-        "places": "Svätý Rajmund z Peñafortu, kňaz",
+        "places": "n/u",
         "place_of_death": "Jeruzalem",
-        "place_of_birth": "Svätý Rajmund z Peñafortu, kňaz",
-        "place_of_burial": "Svätý Vavrinec z Brindisi, kňaz a učiteľ",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Štefan, „plný viery a Ducha Svätého“ (Sk 6, 5), je vybraný s ďalšími šiestimi mužmi, „dobrého mena, plní Ducha a múdrosti“ na službu prvej kresťanskej komunite (porov. Sk 6, 1-6). V tej istej knihe Skutkov sa rozpráva, že Štefan (ktorého meno znamená „koruna“) je odsúdený na ukameňovanie, ktoré prijíma s pokojnou silou. Prvý autentický svedok, teda mučeník Krista, „zabitý verejne a korunovaný tajne“ (Augustín), kontempluje slávu Zmŕtvychvstalého, vyhlasuje jeho božstvo, zveruje mu svojho ducha, napodobňuje ho modlitbou za svojich vrahov (porov. Sk 7, 55-60). Jeho pamiatka 26. decembra je zaznamenaná v tzv. Sýrskej breviárii zo 4. storočia a v Jeronýmskom martyrológiu (5.-6. storočie). Spomína ho aj Rímsky kánon. Pápež Honorius I. daroval v roku 628 časť relikvií svätého Štefana (predlaktie uložené v byzantskej striebornej truhlici) opátstvu svätého Kolumbána v Bobbiu. Relikvia bola potom v roku 1217 darovaná opátstvu svätého Štefana v Janove. V Benátkach v kostole svätého Štefana sa uctieva celé telo svätého. V Konštantínopole, Neapole, Besançone, Ravenne… V Svätyni Materdomini v Nocera Superiore niektoré relikvie svätého potom ukradnuté. V Ríme v bazilike svätého Pavla za hradbami, jedno rameno v kostole svätého Iva v Sapienze, druhé rameno v kostole svätého Ľudovíta Francúzskeho, tretie rameno v bazilike svätej Cecílie v Trastevere; okrem toho takmer celé telo v bazilike svätého Vavrinca za hradbami. Časť týchto relikvií bola prenesená na Menorku, na Baleárske ostrovy. Je zaznamenaný aj prenos niektorých pozostatkov (fragment lebky) do mestečka Putignano (Bari), prenos uskutočnený opátstvom v Monopoli. K nájdeniu relikvií svätého Štefana je tiež spojené zasvätenie druhej katedrály v Concordia Sagittaria. Teraz je lebka svätého uchovávaná v múzeu dómu v Caorle, kam ju pravdepodobne preniesli obyvatelia neďalekej Concordia Sagittaria, ktorí sa uchýlili do lagúny Caorlotta.",
         "patronage": "Diakoni, murári, kone",
         "main_shrine": "Kláštor svätého Štefana, blízko Levovej brány, Jeruzalem; Kostol Saint Etienne pri École biblique et archéologique française"
     },
     "StJohnEvangelist_184": {
         "subject": "Svätý Ján apoštol a evanjelista",
-        "places": "Kostol svätého Pantalea (Rím, Taliansko)",
+        "places": "n/u",
         "place_of_death": "Efez",
         "place_of_birth": "Betsaida",
         "place_of_burial": "Na mieste v Efeze, považovanom za hrobku Jána, bola v 6. storočí postavená bazilika pod cisárom Justiniánom, z ktorej dnes zostali len stopy.",
@@ -1761,10 +1761,10 @@
     },
     "HolyInnocents_185": {
         "subject": "Svätí Neviniatka, mučeníci",
-        "places": "Bamberg (Nemecko)",
-        "place_of_death": "Svätý Rajmund z Peñafortu, kňaz",
-        "place_of_birth": "Kostol svätého Pantalea (Rím, Taliansko)",
-        "place_of_burial": "lekárnici, klobučníci, Uruguaj",
+        "places": "n/u",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Herodes Veľký sa obáva, že príchod Krista ohrozí jeho moc, a posiela zabiť „všetky deti, ktoré boli v Betleheme a v celom jeho okolí a mali menej ako dva roky“ (Mt 2, 16), čím napĺňa proroctvo Jeremiáša (porov. Jer 31, 15). Od 5. storočia je pamiatka týchto nevinných a nevedomých obetí spojená s Narodením Pána; dátum 28. decembra je uvedený v Jeronýmskom martyrológiu (5.-6. storočie).",
         "patronage": "Deti, obete potratu",
         "main_shrine": "Jaskyňa neviniatok, krypta Baziliky svätej Kataríny v Betleheme"
@@ -1781,27 +1781,27 @@
     },
     "StSylvesterIPope_187": {
         "subject": "Svätý Silvester I., pápež",
-        "places": "Kostol svätého Pantalea (Rím, Taliansko)",
+        "places": "n/u",
         "place_of_death": "Bekaa Kafra (Libanon)",
-        "place_of_birth": "N/A",
+        "place_of_birth": "n/u",
         "place_of_burial": "Katakomby Priscilly (Rím, Taliansko)",
         "notes": "Silvester bol pápežom (314-335) v rokoch, keď Cirkev začala s Konštantínom byť podporovaná cisárskou mocou a mesto Rím sa obohacovalo o prvé veľké kresťanské baziliky. Počas jeho pontifikátu sa v Nicei (dnešný Íznik, Turecko) konal prvý ekumenický koncil v histórii (325). Veľké zhromaždenie, na ktoré Silvester poslal dvoch legátov, vyhlásilo proti Áriovej heréze plnú božskosť Syna, „jednobytného s Otcom“. Jeho smrť je pripomínaná 31. decembra v Depositio episcoporum z roku 336. Bol pochovaný na cintoríne Priscilly na Via Salaria.",
         "patronage": "Domáce zvieratá",
-        "main_shrine": "N/A"
+        "main_shrine": "n/u"
     },
     "NameJesus_188": {
         "subject": "Najsvätejšie Meno Ježišovo",
-        "places": "Kostol svätého Pantalea (Rím, Taliansko)",
-        "place_of_death": "Svätý Rajmund z Peñafortu, kňaz",
-        "place_of_birth": "Paríž (Francúzsko)",
-        "place_of_burial": "Svätý Rajmund z Peñafortu, kňaz",
+        "places": "n/u",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Kult mena Ježiš vznikol v neskorom stredoveku vďaka žobravým rádom, najmä kázaniu svätého Bernardína Sienského (15. storočie), ktorý šíril monogram zložený z prvých troch gréckych písmen mena Ježiš (IHS), hoci ten bol s latinskou transliteráciou interpretovaný ako akronym výrazu Iesus Hominum Salvator. Liturgická oslava, zavedená v 16. storočí, bola rozšírená na celú Cirkev Inocentom XII. dekrétom z 11. júla 1722. Táto oddanosť má korene v Svätom písme. Meno Ježiš, pridelené Otcom Synovi, ktorý sa stal človekom (porov. Mt 1, 21), predznamenáva – podľa biblického štýlu – jeho poslanie: znamená totiž „Boh zachraňuje“. Je to „v mene Ježiša“, že učeníci konajú zázraky (Sk 4, 10) a trpia prenasledovanie (Sk 5, 41). Ježiš sám povzbudzuje učeníkov, aby sa modlili v jeho mene (Jn 14, 13-14). Už prvá kresťanská komunita si uvedomuje, že „pod nebom nie je iné meno dané ľuďom, v ktorom by sme mali byť spasení“ (Sk 4, 12). V hymne listu Filipanom sa vyhlasuje: „... Boh ho povýšil a dal mu meno, ktoré je nad každé meno, aby sa v mene Ježiša sklonilo každé koleno na nebi, na zemi a pod zemou“ (Flp 2, 9-10).",
         "patronage": "Proti rúhaniu",
         "main_shrine": "Kostol Gesù (Rím, Taliansko)"
     },
     "StJosephineBakhita_189": {
         "subject": "Svätá Jozefína Bakhita, panna",
-        "places": "Bazilika svätej Kláry, Assisi (Taliansko)",
+        "places": "n/u",
         "place_of_death": "Schio (Vicenza, Taliansko)",
         "place_of_birth": "Dárfúr (Sudán)",
         "place_of_burial": "Kláštor Kanosiánok v Schio (Vicenza, Taliansko)",
@@ -1832,9 +1832,9 @@
     "LadyFatima_192": {
         "subject": "Blahoslavená Panna Mária z Fatimy",
         "places": "Fatima (Portugalsko)",
-        "place_of_death": "lekárnici, klobučníci, Uruguaj",
-        "place_of_birth": "Svätý Rajmund z Peñafortu, kňaz",
-        "place_of_burial": "lekárnici, klobučníci, Uruguaj",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Prvé zjavenie Panny Márie trom pastierikom. Od 13. mája do 13. októbra 1917, raz mesačne, na mieste Cova da Iria pri Fatime (Portugalsko), Lucia dos Santos, František a Hyacinta Marto – traja miestni pastierikovia – mali videnie Panny Márie. Okrem toho, že pripomínala potrebu modlitby a pokánia pre spásu sveta, Panna odporúčala recitáciu ruženca a oddanosť jej Nepoškvrnenému Srdcu. Panna Mária z Fatimy bola drahá viacerým pápežom, najmä Piovi XII., svätému Pavlovi VI. – prvému pápežovi, ktorý sa vydal na púť (13. mája 1967) – a svätému Jánovi Pavlovi II., ktorý uznal jej materinskú ochranu počas atentátu na námestí svätého Petra 13. mája 1981.",
         "patronage": "Portugalsko, proti komunizmu",
         "main_shrine": "Bazilika vo Fatime (Portugalsko)"
@@ -1864,7 +1864,7 @@
         "places": "Hongkong (Čína)",
         "place_of_death": "Chengdu (Čína)",
         "place_of_birth": "Wuchuan (Čína)",
-        "place_of_burial": "Kostol svätého Pantalea (Rím, Taliansko)",
+        "place_of_burial": "n/u",
         "notes": "Augustín (Wuchuan, Čína, 1746 - Chengdu, 1815), strážca poverený eskortovaním niektorých kresťanov odsúdených na smrť, zasiahnutý ich vytrvalosťou, otvoril sa viere a bol vysvätený za kňaza, vykonávajúc službu tajne. Po odhalení a uväznení sám trpel mučeníctvo pre Krista, zomrel v dôsledku utrpených mučení. S ním je v jednej spomienke uctievaných 119 biskupov, kňazov, rehoľníkov a laikov, ktorí v rôznych obdobiach (1648-1930) hojne oplodnili čínsku zem semenom určeným, aby po smrti prinieslo veľa ovocia (porov. Jn 12, 24).",
         "patronage": "Čína",
         "main_shrine": "Katedrála Nepoškvrneného Počatia (Hongkong, Čína)"
@@ -1904,7 +1904,7 @@
         "places": "Kolín (Nemecko); Auschwitz (Poľsko)",
         "place_of_death": "Auschwitz (Poľsko)",
         "place_of_birth": "Wrocław (Poľsko)",
-        "place_of_burial": "lekárnici, klobučníci, Uruguaj",
+        "place_of_burial": "n/u",
         "notes": "Edith Stein (Breslau, Poľsko, 12. október 1891 - Auschwitz, 9. august 1942), židovka, sa s vášňou, vynikajúcimi výsledkami a prestížnymi oceneniami venovala filozofickému výskumu a vyučovaniu. Po konverzii na kresťanstvo sa stala mníškou v Karmeli v Kolíne, s menom Terézia Benedikta od Kríža. Keď sa začalo nacistické prenasledovanie Židov, bola z opatrnosti presunutá do kláštora v Echt (Holandsko). Keď Hitler v reakcii na protest holandských biskupov nariadil zatknutie a deportáciu aj kresťanov židovského pôvodu, Terézia spolu so svojou sestrou, tiež mníškou, bola zatknutá a deportovaná do Auschwitzu, kde zomrela v plynových komorách. Tam, spojená s Kristovým krížom, obetovala svoj život za svoj ľud. V roku 1999 ju svätý Ján Pavol II. vyhlásil za patrónku Európy.",
         "patronage": "Európa, mučeníci, filozofi",
         "main_shrine": "Kláštor karmelitánok v Kolíne (Nemecko)"
@@ -1914,14 +1914,14 @@
         "places": "Auschwitz; Niepokalanow (Poľsko); Nagasaki (Japonsko); Rím (Taliansko)",
         "place_of_death": "Auschwitz (Poľsko)",
         "place_of_birth": "Zduńska Wola (Poľsko)",
-        "place_of_burial": "Betsaida (Rímska Palestína)",
+        "place_of_burial": "n/u",
         "notes": "Maximilián Mária, občianskym menom Raimond (Zduńska Wola, Poľsko, 8. januára 1894 - Auschwitz, 14. augusta 1941), vstúpil medzi Menších bratov františkánov a bol vysvätený za kňaza, založil pod názvom „Milícia Nepoškvrnenej Panny Márie“ zbožné združenie apoštolátu charakterizované šírením mariánskeho kultu v Európe a Ázii prostredníctvom publikácií a sociálnej pomoci. Zatknutý počas nacistickej okupácie Poľska, bol poslaný na nútené práce do tábora Auschwitz. Tu sa ponúkol, že nahradí spoluväzňa, otca rodiny, odsúdeného na smrť spolu s ďalšími deviatimi, ako odvetu za útek väzňa. Veľkorysá obeta Maximiliána, po viac ako dvoch týždňoch v bunkri hladu, sa naplnila v predvečer sviatku Nanebovzatia Panny Márie. Svetlo bratstva v jednom z najtemnejších momentov ľudskej histórie.",
         "patronage": "Väzni, novinári, rodiny",
         "main_shrine": "Niepokalanów (Poľsko)"
     },
     "StPeterClaver_201": {
         "subject": "Svätý Peter Claver, kňaz",
-        "places": "lekárnici, klobučníci, Uruguaj",
+        "places": "n/u",
         "place_of_death": "Cartagena (Kolumbia)",
         "place_of_birth": "Verdú (Španielsko)",
         "place_of_burial": "Svätyňa svätého Petra Clavera (Cartagena de Indias, Kolumbia)",
@@ -1931,10 +1931,10 @@
     },
     "HolyNameMary_202": {
         "subject": "Najsvätejšie Meno Márie",
-        "places": "Bazilika svätej Márie Magdalény v Saint-Maximin-la-Sainte-Baume (Francúzsko)",
-        "place_of_death": "Bamberg (Nemecko)",
-        "place_of_birth": "Kostol svätého Pantalea (Rím, Taliansko)",
-        "place_of_burial": "Kostol svätého Pantalea (Rím, Taliansko)",
+        "places": "n/u",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Úcta k menu Mária vznikla v stredoveku spolu s úctou k menu Ježiš. Liturgický sviatok zaviedol v celej západnej Cirkvi Inocent XI. po víťazstve nad Turkami vo Viedni, ktoré sa odohralo 12. septembra 1683. Meno v Biblii označuje identitu a poslanie osoby. Ak je meno Mária možno egyptského pôvodu, obsahuje koreň slovesa „milovať“. Ona je teda Milovaná, v ktorej niet chyby (porov. Pies 4, 7), „plná milosti“, ako ju nazýva anjel Gabriel (Lk 1, 28). Mária je preto obrazom a prvotinou Cirkvi, Nevesty, ktorú Božia milosť premenila z „nemilovanej“ na „milovanú“ (porov. Oz 1, 6; 2, 3).",
         "patronage": "Proti útokom nepriateľov",
         "main_shrine": "Kostol Najsvätejšieho Mena Márie (Rím, Taliansko)"
@@ -1971,7 +1971,7 @@
     },
     "StCatherineAlexandria_206": {
         "subject": "Svätá Katarína Alexandrijská, panna a mučenica",
-        "places": "N/A",
+        "places": "n/u",
         "place_of_death": "Alexandria (Egypt)",
         "place_of_birth": "Alexandria (Egypt)",
         "place_of_burial": "Kláštor svätej Kataríny na hore Sinaj (Egypt)",
@@ -1987,7 +1987,7 @@
         "place_of_burial": "Bazilika svätého Petra; predtým Kostol Santa Maria della Concezione in Campo Marzio, Rím, kde zostala jedna ruka",
         "notes": "Gregor (Nazianzo, v dnešnom Turecku, 329/330 - 390) zdieľal s Bazilom kultúrne vzdelanie a túžbu po mníšskom živote. Zvolený za patriarchu Konštantínopolu, prežil krátke a bolestné biskupstvo, uprostred mnohých konfliktov. Vynikajúci spisovateľ a rečník, venoval sa aj poézii. Spolu s Bazilom významne prispel k rozvoju trinitárnej doktríny. Liturgická spomienka 2. januára",
         "patronage": "Teológovia, chorí",
-        "main_shrine": "Kostol svätého Pantalea (Rím, Taliansko)"
+        "main_shrine": "n/u"
     },
     "StRayPenyafort_208": {
         "subject": "Svätý Rajmund z Peñafortu, kňaz",
@@ -1997,7 +1997,7 @@
         "place_of_burial": "Katedrála svätého Kríža a svätej Eulálie (Barcelona, Španielsko)",
         "notes": "Liturgická spomienka je stanovená na nasledujúci deň 7. januára",
         "patronage": "Právnici, spovedníci",
-        "main_shrine": "Kostol svätého Pantalea (Rím, Taliansko)"
+        "main_shrine": "n/u"
     },
     "StThomasAquinas_212": {
         "subject": "Svätý Tomáš Akvinský, kňaz a doktor",
@@ -2013,7 +2013,7 @@
         "subject": "Svätý Titus, biskup",
         "places": "Kréta",
         "place_of_death": "Gortyna (Kréta)",
-        "place_of_birth": "Bazilika svätej Márie Magdalény v Saint-Maximin-la-Sainte-Baume (Francúzsko)",
+        "place_of_birth": "n/u",
         "place_of_burial": "Gortyna (Kréta)",
         "notes": "Spomienka spolu so svätým Timotejom. Aj Titus, gréckeho a pohanského pôvodu, je „spoločníkom a spolupracovníkom“ apoštola (2 Kor 8, 23), najmä v Korinte. Tri Pavlove listy (nazývané „pastorálne“) sú adresované týmto dvom učeníkom, ktorí boli podľa tradície aktívni – jeden v Efeze, druhý na Kréte. Zomreli po roku 69. Nie je presne známe kedy.",
         "patronage": "Biskupi, Kréta",
@@ -2051,7 +2051,7 @@
     },
     "StFrancisDeSales_220": {
         "subject": "Svätý František Saleský, biskup a učiteľ",
-        "places": "Bamberg (Nemecko)",
+        "places": "n/u",
         "place_of_death": "Lyon (Francúzsko)",
         "place_of_birth": "Sales (Francúzsko)",
         "place_of_burial": "Bazilika Navštívenia (Annecy, Francúzsko)",
@@ -2071,17 +2071,17 @@
     },
     "StsPaulMiki_222": {
         "subject": "Svätý Pavol Miki a spoločníci, mučeníci",
-        "places": "Bamberg (Nemecko)",
+        "places": "n/u",
         "place_of_death": "Nagasaki (Japonsko)",
         "place_of_birth": "Kjóto (Japonsko)",
-        "place_of_burial": "Betsaida (Rímska Palestína)",
+        "place_of_burial": "n/u",
         "notes": "Pavol Miki (Kyoto, Japonsko, 1556 - Nagasaki, 5. februára 1597), jezuita, bol obeťou prenasledovania, ktoré japonský cisár nariadil proti kresťanom, obávajúc sa, že ich nárast predstavuje nebezpečenstvo pre autonómiu krajiny. Spolu s ním bolo ukrižovaných ďalších dvadsaťpäť kresťanov, laikov a rehoľníkov (jezuitov a menších bratov).",
         "patronage": "Japonsko, prenasledovaní veriaci",
         "main_shrine": "https://it.wikipedia.org/wiki/Basilica_dei_Ventisei_Santi_Martiri_del_Giappone; Múzeum a pamätník dvadsiatich šiestich mučeníkov v Nagasaki https://travel.at-nagasaki.jp/it/s/what-to-see/30/ https://en.wikipedia.org/wiki/Twenty-Six_Martyrs_Museum_and_Monument"
     },
     "StJeromeEmiliani_223": {
         "subject": "Svätý Hieronym Emiliani",
-        "places": "Betsaida (Rímska Palestína)",
+        "places": "n/u",
         "place_of_death": "Somasca (Lecco, Taliansko)",
         "place_of_birth": "Benátky (Taliansko)",
         "place_of_burial": "Svätyňa svätého Hieronyma Emilianiho vo Vercurago di Somasca (Lecco, Taliansko)",
@@ -2101,7 +2101,7 @@
     },
     "StPeterDamian_225": {
         "subject": "Svätý Peter Damiani, biskup a učiteľ Cirkvi",
-        "places": "N/A",
+        "places": "n/u",
         "place_of_death": "Faenza (Taliansko)",
         "place_of_birth": "Park Nishizaka (Nagasaki, Japonsko)",
         "place_of_burial": "Benediktínsky kláštor Santa Maria Fuori le Mura (Faenza, Taliansko)",
@@ -2111,7 +2111,7 @@
     },
     "SevenHolyFounders_240": {
         "subject": "Svätí Siedmi zakladatelia Služobníkov Panny Márie",
-        "places": "Paríž (Francúzsko)",
+        "places": "n/u",
         "place_of_death": "Montesenario (Taliansko)",
         "place_of_birth": "Florencia (Taliansko)",
         "place_of_burial": "Florencia (Taliansko)",
@@ -2121,7 +2121,7 @@
     },
     "StCasimir_244": {
         "subject": "Svätý Kazimír",
-        "places": "Bamberg (Nemecko)",
+        "places": "n/u",
         "place_of_death": "Hrodna (Bielorusko)",
         "place_of_birth": "Krakov (Poľsko)",
         "place_of_burial": "Vilnius (Litva)",
@@ -2131,7 +2131,7 @@
     },
     "StJohnGod_246": {
         "subject": "Svätý Ján z Boha, rehoľník",
-        "places": "Svätý Vavrinec z Brindisi, kňaz a učiteľ",
+        "places": "n/u",
         "place_of_death": "Granada (Španielsko)",
         "place_of_birth": "Montemor-o-Novo (Portugalsko)",
         "place_of_burial": "Granada (Španielsko)",
@@ -2141,7 +2141,7 @@
     },
     "StFrancesRome_247": {
         "subject": "Svätá Františka Rímska, rehoľníčka",
-        "places": "lekárnici, klobučníci, Uruguaj",
+        "places": "n/u",
         "place_of_death": "Bekaa Kafra (Libanon)",
         "place_of_birth": "Bekaa Kafra (Libanon)",
         "place_of_burial": "Svätá Cecília, panna a mučenica",
@@ -2151,7 +2151,7 @@
     },
     "StTuribius_251": {
         "subject": "Svätý Turibius z Mogroveja, biskup",
-        "places": "lekárnici, klobučníci, Uruguaj",
+        "places": "n/u",
         "place_of_death": "Zaña (Peru)",
         "place_of_birth": "Mayorga (Španielsko)",
         "place_of_burial": "Lima (Peru)",
@@ -2161,7 +2161,7 @@
     },
     "StFrancisPaola_252": {
         "subject": "Svätý František z Paoly, pustovník",
-        "places": "Svätý Rajmund z Peñafortu, kňaz",
+        "places": "n/u",
         "place_of_death": "Hrad Plessis-lez-Tours (La Riche, Francúzsko)",
         "place_of_birth": "Paola (Cosenza)",
         "place_of_burial": "La Riche, Francúzsko (bola začatá výstavba svätyne nad hrobom, postavená bola len apsida)",
@@ -2171,7 +2171,7 @@
     },
     "StVincentFerrer_254": {
         "subject": "Svätý Vincent Ferrer, kňaz",
-        "places": "Svätý Rajmund z Peñafortu, kňaz",
+        "places": "n/u",
         "place_of_death": "Vannes (Francúzsko)",
         "place_of_birth": "València (Španielsko)",
         "place_of_burial": "Katedrála svätého Petra vo Vannes (Francúzsko)",
@@ -2181,7 +2181,7 @@
     },
     "StJohnBaptistDeLaSalle_255": {
         "subject": "Svätý Ján Krstiteľ de la Salle, kňaz",
-        "places": "Svätý Rajmund z Peñafortu, kňaz",
+        "places": "n/u",
         "place_of_death": "Saint Yon pri Rouene (Francúzsko)",
         "place_of_birth": "Reims (Francúzsko)",
         "place_of_burial": "Ján Krstiteľ de La Salle bol pochovaný v kostole Saint-Sever, v štvrti Rouen. V roku 1734 bolo jeho telo prenesené do kaplnky jeho penziónu v Saint-Yon, potom v roku 1835 do kaplnky Normálnej školy v Rouen. V Remeši bol v roku 1898 postavený kostol zasvätený jemu. V roku 1937 boli jeho relikvie prenesené do Ríma.",
@@ -2191,7 +2191,7 @@
     },
     "StStanislaus_256": {
         "subject": "Svätý Stanislav, biskup a mučeník",
-        "places": "Bamberg (Nemecko)",
+        "places": "n/u",
         "place_of_death": "Krakov (Poľsko)",
         "place_of_birth": "Szczepanowice (Poľsko)",
         "place_of_burial": "Katedrála v Krakove (Poľsko)",
@@ -2201,23 +2201,23 @@
     },
     "StFidelisSigmaringen_260": {
         "subject": "Svätý Fidelis zo Sigmaringenu, kňaz a mučeník",
-        "places": "lekárnici, klobučníci, Uruguaj",
+        "places": "n/u",
         "place_of_death": "Seewis im Prättigau (Švajčiarsko)",
         "place_of_birth": "Sigmaringen (Nemecko)",
         "place_of_burial": "Jeho hlava bola prenesená do Feldkirchu (dnes Rakúsko), zatiaľ čo zvyšok tela bol pochovaný v Katedrále v Chure (Švajčiarsko), kde jeho pozostatky stále odpočívajú.",
         "notes": "Fidelis, občianskym menom Marko (Sigmaringen, Nemecko, 1578 - Seewis im Prättigau, Švajčiarsko, 24. apríla 1622), kapucín, doktor oboch práv, viedol prvú misiu podporovanú Kongregáciou pre šírenie viery, ktorá bola ešte v procese zakladania, do území, kde sa šírila protestantská reformácia. V atmosfére silného vnútorného napätia v Grizone, zhoršenej medzinárodným politickým tlakom, katolícke kázanie vyvolalo násilné reakcie, pred ktorými Fidelis svedčil o Kristovi až do smrti.",
         "patronage": "advokáti, misionári",
-        "main_shrine": "Bamberg (Nemecko)"
+        "main_shrine": "n/u"
     },
     "StPeterChanel_262": {
         "subject": "Svätý Peter Chanel, kňaz a mučeník",
-        "places": "Svätý Rajmund z Peñafortu, kňaz",
+        "places": "n/u",
         "place_of_death": "Futuna (Francúzska Oceánia)",
         "place_of_birth": "Montrevel-en-Bresse (Francúzsko)",
         "place_of_burial": "Pozostatky misionára, narýchlo pochované, boli neskôr nárokované M. Lavauxom, francúzskym veliteľom námornej stanice na Tahiti, a v roku 1842 prevezené do Francúzska vládnym dopravným prostriedkom.",
         "notes": "Peter (Montrevel-en-Bresse, Francúzsko, 12. júla 1803 - Futuna, Francúzska Oceánia, 28. apríla 1841), kňaz Spoločnosti Márie (Maristi), bol jedným z prvých misionárov v západnej Oceánii. Po niekoľkých úspechoch v evanjelizácii sa stal obeťou nepriateľstva miestnych náboženských vodcov. Jeho mučeníctvo prispelo k priblíženiu obyvateľov ostrova Futuna k viere.",
         "patronage": "Oceánia",
-        "main_shrine": "lekárnici, klobučníci, Uruguaj"
+        "main_shrine": "n/u"
     },
     "StCatherineSiena_263": {
         "subject": "Svätá Katarína Sienská, panna a učiteľka Cirkvi",
@@ -2231,7 +2231,7 @@
     },
     "StPiusV_264": {
         "subject": "Svätý Pius V, pápež",
-        "places": "Bazilika svätej Márie Magdalény v Saint-Maximin-la-Sainte-Baume (Francúzsko)",
+        "places": "n/u",
         "place_of_death": "Bekaa Kafra (Libanon)",
         "place_of_birth": "Bosco Marengo (Alessandria, Taliansko)",
         "place_of_burial": "Bazilika Santa Maria Maggiore (Rím, Taliansko)",
@@ -2283,7 +2283,7 @@
         "subject": "Svätý Karol Lwanga a spoločníci, mučeníci",
         "places": "Namugongo (Uganda)",
         "place_of_death": "Kampala (Uganda)",
-        "place_of_birth": "Svätý Rajmund z Peñafortu, kňaz",
+        "place_of_birth": "n/u",
         "place_of_burial": "Bazilika svätých mučeníkov Ugandy, Namugongo, Uganda",
         "notes": "Karol Lwanga († Kampala, Uganda, 3. júna 1886), vedúci pážat Mutesa I., kráľa Bugandy (v dnešnej Ugande), bol obvinený spolu s ďalšími hodnostármi kráľovstva, že kvôli svojej viere v Krista privolali pomstu duchov. Bol odsúdený na upálenie spolu s ďalšími dvadsiatimi jedným spoločníkmi, väčšinou veľmi mladými. Spolu s týmito prvými katolíckymi mučeníkmi čiernej Afriky obetovali svoj život za Krista aj niektorí anglikánski kresťania.",
         "patronage": "Mladí, africkí katolíci, ugandskí mučeníci",
@@ -2407,7 +2407,7 @@
         "place_of_burial": "Kláštor Zvestovania (Villafranca del Bierzo, Španielsko)",
         "notes": "Vavrinec (Brindisi, 22. júl 1559 - Lisabon, Portugalsko, 22. júl 1619), kapucínsky rehoľník, vynikal znalosťou jazykov a Svätého písma. Zapojený do rozsiahlej kazateľskej činnosti po celej Európe, často poverený diplomatickými misiami v mene Svätej stolice, pestoval horlivý duchovný život, najmä v zbožnom a dlhom slávení Eucharistie. Kostol Santa Maria degli Angeli v Brindisi bol postavený svätým Vavrincom z Brindisi na jeho vlastných pozemkoch.",
         "patronage": "Vojenskí kapláni",
-        "main_shrine": "Betsaida (Rímska Palestína)"
+        "main_shrine": "n/u"
     },
     "StBridget_307": {
         "subject": "Sv. Brigita, rehoľníčka",
@@ -2521,7 +2521,7 @@
     },
     "StPiusX_329": {
         "subject": "Svätý Pius X., pápež",
-        "places": "N/A",
+        "places": "n/u",
         "place_of_death": "Rím (Taliansko)",
         "place_of_birth": "Riese, Treviso (Taliansko)",
         "place_of_burial": "Bazilika svätého Petra vo Vatikáne",
@@ -2531,7 +2531,7 @@
     },
     "StRoseLima_331": {
         "subject": "Svätá Ružena z Limy, panna",
-        "places": "Svätý Vavrinec z Brindisi, kňaz a učiteľ",
+        "places": "n/u",
         "place_of_death": "Lima, Peru",
         "place_of_birth": "Lima, Peru",
         "place_of_burial": "Kláštor Santo Domingo v Lime, Peru",
@@ -2561,7 +2561,7 @@
     },
     "StRobertBellarmine_344": {
         "subject": "Svätý Robert Bellarmino, biskup a doktor",
-        "places": "Svätý Vavrinec z Brindisi, kňaz a učiteľ",
+        "places": "n/u",
         "place_of_death": "Svätá Cecília, panna a mučenica",
         "place_of_birth": "Montepulciano, Siena (Taliansko)",
         "place_of_burial": "Kostol svätého Ignáca (Rím, Taliansko)",
@@ -2581,13 +2581,13 @@
     },
     "StThereseChildJesus_352": {
         "subject": "Svätá Terézia od Dieťaťa Ježiša, panna",
-        "places": "Kostol svätého Pantalea (Rím, Taliansko)",
+        "places": "n/u",
         "place_of_death": "Lisieux (Francúzsko)",
         "place_of_birth": "Alençon (Francúzsko)",
         "place_of_burial": "Karmel v Lisieux (Francúzsko)",
         "notes": "Terézia Martin (Alençon, Francúzsko, 2. januára 1873 - Lisieux, 30. septembra 1897) vo veku pätnástich rokov vstúpila do Karmelu v Lisieux. Intenzívna túžba po dokonalosti, spojená s mystickou skúsenosťou „duchovnej noci“, ju priviedla k objaveniu „malej cesty“, ako odovzdania sa v jednoduchosti a dôvere do bezplatného pôsobenia Boha. Veľká apoštolská horlivosť, ktorú cítila v sebe, sa prejavila v zdieľaní utrpenia tých, ktorí sú ďaleko od Boha, a v neustálej modlitbe za misionárov Evanjelia. Výber Terézie ako patrónky misií pápežom Piom XI. (1927) zdôrazňuje koreň každej apoštolskej plodnosti v láske k Bohu prijatej v jednoduchosti srdca; jej vyhlásenie za učiteľku Cirkvi svätým Jánom Pavlom II. (1998) pripomína základné učenie, ktoré vychádza z malých podľa Evanjelia.",
         "patronage": "Misionári, Francúzsko, pestovatelia kvetov",
-        "main_shrine": "Svätý Rajmund z Peñafortu, kňaz"
+        "main_shrine": "n/u"
     },
     "StFrancisAssisi_354": {
         "subject": "Svätý František z Assisi",
@@ -2654,7 +2654,7 @@
         "places": "Midland (Kanada); Auriesville (New York, USA)",
         "place_of_death": "Midland (Kanada)",
         "place_of_birth": "Condé-sur-Vire (Francúzsko)",
-        "place_of_burial": "lekárnici, klobučníci, Uruguaj",
+        "place_of_burial": "n/u",
         "notes": "Ján (Condé-sur-Vire, Francúzsko, 15. marec 1594 - Midland, Kanada, 16. marec 1649), jezuitský misionár medzi Hurónmi, v dnešnej Kanade, bol zabitý pri útoku na misiu inými nepriateľskými kmeňmi. O niekoľko mesiacov neskôr ho nasledoval v mučeníctve jeho spoločník na misii Izák Jogues (Orléans, Francúzsko, 10. január 1607 - Auriesville, USA, 18. október 1649); s nimi sa spomína ďalších šesť jezuitských mučeníkov. S evanjelickou miernosťou zdieľali život týchto národov až do úplného darovania seba.",
         "patronage": "Kanada, misionári",
         "main_shrine": "Svätyňa Mučeníkov z Midlandu (Ontario, Kanada); Svätyňa Našej Panej Mučeníkov z Auriesville (New York, USA)"
@@ -2711,7 +2711,7 @@
     },
     "StJosaphat_377": {
         "subject": "Svätý Jozafát, biskup a mučeník",
-        "places": "Svätý Rajmund z Peñafortu, kňaz",
+        "places": "n/u",
         "place_of_death": "Vicebsk, Bielorusko",
         "place_of_birth": "Volodymyr-Volynskyj, Ukrajina",
         "place_of_burial": "Bazilika svätého Petra vo Vatikáne",
@@ -2741,7 +2741,7 @@
     },
     "StGertrudeGreat_380": {
         "subject": "Svätá Gertrúda, panna",
-        "places": "Kostol svätého Pantalea (Rím, Taliansko)",
+        "places": "n/u",
         "place_of_death": "Kláštor Helfta (Eisleben, Nemecko)",
         "place_of_birth": "Eisleben (Nemecko)",
         "place_of_burial": "Jediné existujúce relikvie, pretože unikli zničeniu jeho hrobu počas Luteránskej reformácie, sa uchovávajú v Santa Maria di Licodia, vo vnútri sochy uchovávanej v Chiesa Madre.",
@@ -2811,7 +2811,7 @@
     },
     "StJosephineBakhita_404": {
         "subject": "Svätá Giuseppina Bakhita, panna",
-        "places": "Bazilika svätej Márie Magdalény v Saint-Maximin-la-Sainte-Baume (Francúzsko)",
+        "places": "n/u",
         "place_of_death": "Schio (Vicenza, Taliansko)",
         "place_of_birth": "Dárfúr (Sudán)",
         "place_of_burial": "Kláštor Canossianiek v Schio (Vicenza, Taliansko)",
@@ -2854,7 +2854,7 @@
         "places": "Hongkong (Čína)",
         "place_of_death": "Chengdu (Čína)",
         "place_of_birth": "Wuchuan (Čína)",
-        "place_of_burial": "Kostol svätého Pantalea (Rím, Taliansko)",
+        "place_of_burial": "n/u",
         "notes": "Augustín (Wuchuan, Čína, 1746 - Chengdu, 1815), strážca poverený eskortovaním niektorých kresťanov odsúdených na smrť, zasiahnutý ich vytrvalosťou, otvoril sa viere a bol vysvätený za kňaza, vykonávajúc službu tajne. Objavený a uväznený, sám trpel mučeníctvo pre Krista, zomrel v dôsledku utrpenia. S ním sú v jedinej spomienke uctievaní 119 biskupov, kňazov, rehoľníkov a laikov, ktorí v rôznych obdobiach (1648-1930) hojne oplodnili čínsku zem semenom, ktoré, keď zomrelo, prinieslo veľa ovocia (porov. Jn 12, 24).",
         "patronage": "Čína",
         "main_shrine": "Katedrála Nepoškvrneného Počatia (Hongkong, Čína)"
@@ -2884,7 +2884,7 @@
         "places": "Kolín nad Rýnom (Nemecko); Osvienčim (Poľsko)",
         "place_of_death": "Auschwitz (Poľsko)",
         "place_of_birth": "Vroclav (Poľsko)",
-        "place_of_burial": "Bazilika svätej Márie Magdalény v Saint-Maximin-la-Sainte-Baume (Francúzsko)",
+        "place_of_burial": "n/u",
         "notes": "Edith Stein (Breslavia, Poľsko, 12. októbra 1891 - Auschwitz, 9. augusta 1942), židovka, sa s vášňou, vynikajúcimi výsledkami a prestížnymi oceneniami venovala výskumu a filozofickému učeniu. Po konverzii na kresťanstvo sa stala mníškou v Karmeli v Kolíne, s menom Terézia Benedikta od Kríža. Keď začalo nacistické prenasledovanie Židov, bola z opatrnosti prevezená do kláštora v Echt (Holandsko). Keď Hitler v reakcii na protest holandských biskupov nariadil zatknutie a deportáciu aj kresťanov židovského pôvodu, Terézia spolu so svojou sestrou, tiež mníškou, bola zatknutá a deportovaná do Auschwitzu, kde zomrela v plynových komorách. Tam, spojená s Kristovým krížom, obetovala svoj život za svoj ľud. V roku 1999 ju svätý Ján Pavol II. vyhlásil za patrónku Európy.",
         "patronage": "Európa, mučeníci, filozofi",
         "main_shrine": "Kláštor karmelitánok v Kolíne (Nemecko)"
@@ -2894,14 +2894,14 @@
         "places": "Auschwitz; Niepokalanow (Poľsko); Nagasaki (Japonsko); Rím (Taliansko)",
         "place_of_death": "Auschwitz (Poľsko)",
         "place_of_birth": "Zduńska Wola (Poľsko)",
-        "place_of_burial": "Betsaida (Rímska Palestína)",
+        "place_of_burial": "n/u",
         "notes": "Maximilián Mária, rodným menom Raimondo (Zduńska Wola, Poľsko, 8. januára 1894 - Auschwitz, 14. augusta 1941), vstúpil medzi Menších bratov františkánov a bol vysvätený za kňaza, založil pod názvom „Milícia Nepoškvrnenej Panny Márie“ zbožné združenie apoštolátu charakterizované šírením mariánskeho kultu v Európe a Ázii prostredníctvom publikácií a sociálnej pomoci. Počas nacistickej okupácie Poľska bol zatknutý a poslaný na nútené práce do tábora Auschwitz. Tu sa ponúkol, že nahradí spoluväzňa, otca rodiny, odsúdeného na smrť spolu s ďalšími deviatimi ako odplatu za útek väzňa. Veľkorysá obeta Maximiliána, po viac ako dvoch týždňoch v hladovom bunkri, sa naplnila v predvečer sviatku Nanebovzatia Panny Márie. Svetlo bratstva v jednom z najtemnejších momentov ľudskej histórie.",
         "patronage": "Väzni, novinári, rodiny",
         "main_shrine": "Niepokalanów (Poľsko)"
     },
     "StPeterClaver_416": {
         "subject": "Svätý Peter Claver, kňaz",
-        "places": "Bamberg (Nemecko)",
+        "places": "n/u",
         "place_of_death": "Cartagena (Kolumbia)",
         "place_of_birth": "Verdú (Španielsko)",
         "place_of_burial": "Svätyňa svätého Petra Clavera (Cartagena de Indias, Kolumbia)",
@@ -2941,7 +2941,7 @@
     },
     "StFrancisDeSales_482": {
         "subject": "Svätý František Saleský, biskup a učiteľ",
-        "places": "Kostol svätého Pantalea (Rím, Taliansko)",
+        "places": "n/u",
         "place_of_death": "Lyon (Francúzsko)",
         "place_of_birth": "Sales (Francúzsko)",
         "place_of_burial": "Bazilika Navštívenia (Annecy, Francúzsko)",
@@ -2987,7 +2987,7 @@
         "place_of_burial": "Kláštor Zvestovania (Villafranca del Bierzo, Španielsko)",
         "notes": "Lorenzo (Brindisi, 22. júla 1559 - Lisabon, Portugalsko, 22. júla 1619), kapucínsky rehoľník, vynikal znalosťou jazykov a Svätého písma. Bol zapojený do rozsiahlej kazateľskej činnosti po celej Európe, často poverovaný diplomatickými misiami v mene Svätej stolice, a pestoval horlivý duchovný život, najmä v oddanej a predĺženej oslave Eucharistie. Kostol Santa Maria degli Angeli v Brindisi dal postaviť svätý Lorenzo z Brindisi na svojom pozemku.",
         "patronage": "Vojenskí kapláni",
-        "main_shrine": "Svätý Rajmund z Peñafortu, kňaz"
+        "main_shrine": "n/u"
     },
     "StAlphonsusMariaDeLiguori_494": {
         "subject": "Svätý Alfonz Mária de Liguori, biskup a doktor",
@@ -3011,7 +3011,7 @@
     },
     "StRobertBellarmine_497": {
         "subject": "Svätý Robert Bellarmino, biskup a doktor",
-        "places": "Bazilika svätej Kláry, Assisi (Taliansko)",
+        "places": "n/u",
         "place_of_death": "Bekaa Kafra (Libanon)",
         "place_of_birth": "Montepulciano (Siena, Taliansko)",
         "place_of_burial": "Kostol svätého Ignáca (Rím, Taliansko)",
@@ -3162,9 +3162,9 @@
     "LadyLoreto_554": {
         "subject": "Blahoslavená Panna Mária z Loreta",
         "places": "Loreto (Taliansko)",
-        "place_of_death": "Svätý Rajmund z Peñafortu, kňaz",
-        "place_of_birth": "Betsaida (Rímska Palestína)",
-        "place_of_burial": "N/A",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Svätý dom, identifikovaný tradíciou ako dom blahoslavenej Panny Márie, je uchovávaný a uctievaný v Lorete. Hagiografický príbeh pripisuje anjelom zázračný prenos v noci z 9. na 10. decembra 1294. Okolo neho bol postavený chrám, ktorý navštevuje mnoho pútnikov túžiacich potvrdiť svoju vieru v Božie Slovo, ktoré sa pre nás stalo telom.",
         "patronage": "Letecká doprava, cestovatelia",
         "main_shrine": "Svätyňa Svätej Domu v Lorete (Taliansko)"
@@ -3271,13 +3271,13 @@
     },
     "StThereseChildJesus_567": {
         "subject": "Svätá Terézia od Dieťaťa Ježiša, panna",
-        "places": "Svätý Vavrinec z Brindisi, kňaz a učiteľ",
+        "places": "n/u",
         "place_of_death": "Lisieux (Francúzsko)",
         "place_of_birth": "Alençon (Francúzsko)",
         "place_of_burial": "Karmel v Lisieux (Francúzsko)",
         "notes": "Terézia Martinová (Alençon, Francúzsko, 2. januára 1873 - Lisieux, 30. septembra 1897) vstúpila do Karmelu v Lisieux už vo veku pätnástich rokov. Intenzívna túžba po dokonalosti, spojená s mystickou skúsenosťou „duchovnej noci“, ju priviedla k objaveniu „malej cesty“, ktorá spočíva v jednoduchom a dôvernom odovzdaní sa bezplatnému pôsobeniu Boha. Veľké apoštolské nadšenie, ktoré cítila v sebe, sa prejavilo v zdieľaní utrpenia tých, ktorí sú ďaleko od Boha, a v neustálej modlitbe za misionárov evanjelia. Výber Terézie ako patrónky misií pápežom Piom XI. (1927) zdôrazňuje koreň každej apoštolskej plodnosti v láske k Bohu prijatej s jednoduchosťou srdca; jej vyhlásenie za učiteľku Cirkvi svätým Jánom Pavlom II. (1998) pripomína základné učenie, ktoré vychádza z malých podľa evanjelia.",
         "patronage": "Misionári, Francúzsko, pestovatelia kvetov",
-        "main_shrine": "Kostol svätého Pantalea (Rím, Taliansko)"
+        "main_shrine": "n/u"
     },
     "StAmbrose_568": {
         "subject": "Svätý Ambróz, biskup a učiteľ",
@@ -3337,7 +3337,7 @@
         "place_of_burial": "Kláštor Veľká Laura (Hora Athos, Grécko)",
         "notes": "Zomrel 1. januára, liturgická spomienka je nasledujúci deň 2. januára",
         "patronage": "Kapadócia, nemocnice",
-        "main_shrine": "Bazilika svätej Márie Magdalény v Saint-Maximin-la-Sainte-Baume (Francúzsko)"
+        "main_shrine": "n/u"
     },
     "StGregoryNazianzen_574": {
         "subject": "Svätý Gregor Nazianzský",
@@ -3347,7 +3347,7 @@
         "place_of_burial": "Bazilika svätého Petra (Rím, Taliansko); predtým Kostol Panny Márie Nepoškvrnenej v Campo Marzio (Rím, Taliansko), kde zostala jedna ruka",
         "notes": "Gregor (Nazianzo, v dnešnom Turecku, 329/330 - 390) zdieľal s Bazilom kultúrne vzdelanie a túžbu po mníšskom živote. Zvolený za patriarchu Konštantínopolu, prežil krátke a bolestné biskupstvo, uprostred mnohých konfliktov. Vynikajúci spisovateľ a rečník, venoval sa aj poézii. Spolu s Bazilom významne prispel k rozvoju trinitárnej doktríny. Liturgická pamiatka 2. januára",
         "patronage": "Teológovia, chorí",
-        "main_shrine": "N/A"
+        "main_shrine": "n/u"
     },
     "StAthanasius_575": {
         "subject": "Svätý Atanáz, biskup a učiteľ",
@@ -3361,7 +3361,7 @@
     },
     "StIsidore_576": {
         "subject": "Svätý Izidor, biskup a učiteľ Cirkvi",
-        "places": "N/A",
+        "places": "n/u",
         "place_of_death": "Sevilla (Španielsko)",
         "place_of_birth": "Cartagena (Španielsko)",
         "place_of_burial": "Real Colegiata Basílica de San Isidoro (León, Španielsko)",
@@ -3371,7 +3371,7 @@
     },
     "StPeterChrysologus_577": {
         "subject": "Svätý Peter Chryzológ, biskup a doktor",
-        "places": "Kostol svätého Pantalea (Rím, Taliansko)",
+        "places": "n/u",
         "place_of_death": "Ravenna (Taliansko)",
         "place_of_birth": "Imola (Taliansko)",
         "place_of_burial": "Katedrála svätého Kasiána v Imole (Taliansko)",
@@ -3397,27 +3397,27 @@
         "place_of_burial": "Kostol svätého Hilaria Veľkého (Poitiers, Francúzsko) (UNESCO dedičstvo)",
         "notes": "Hilár (Poitiers, Francúzsko, 310/320 - 367/368), biskup svojho rodného mesta, obhajoval s vysokoprofilovými spismi (najmä traktát De Trinitate) vieru v plnú božskosť Syna, potvrdenú Nicejským koncilom (325) proti Ariovej heréze. Pre svoj pevný odpor voči filoariánskym tendenciám cisárskeho dvora bol prenasledovaný a vyhnaný. Je pripomínaný v Jeronýmskom martyrológiu (5.-6. storočie) 13. januára. Kostol Saint-Hilaire le Grand je katolícky kostol v Poitiers, v departemente Vienne, zasvätený svätému Hilárovi z Poitiers. V roku 1840 bol vyhlásený za historickú pamiatku Francúzska a od roku 1998 je tiež zaradený do zoznamu svetového dedičstva UNESCO ako zastávka na Ceste svätého Jakuba do Compostely po Via Turonensis.",
         "patronage": "Proti herézam, bolesť hlavy",
-        "main_shrine": "Svätý Vavrinec z Brindisi, kňaz a učiteľ"
+        "main_shrine": "n/u"
     },
     "StCyrilAlexandria_580": {
         "subject": "Svätý Cyril Alexandrijský, biskup a doktor",
-        "places": "Betsaida (Rímska Palestína)",
+        "places": "n/u",
         "place_of_death": "Alexandria (Egypt)",
         "place_of_birth": "Teodózia (súčasný el-Mahalla el-Kubra, Egypt)",
-        "place_of_burial": "Bamberg (Nemecko)",
+        "place_of_burial": "n/u",
         "notes": "Cyril, biskup Alexandrie v Egypte od roku 412 do 444, energicky obhajoval čistotu viery v Krista. Autor mnohých teologických spisov, pevne podporoval uznanie Márie ako Matky Božej, najmä na koncile v Efeze (431). Jeho pamiatka sa dnes slávi aj medzi Koptmi a Byzantíncami.",
         "patronage": "Ekumenizmus, teológovia",
-        "main_shrine": "Bazilika svätej Márie Magdalény v Saint-Maximin-la-Sainte-Baume (Francúzsko)"
+        "main_shrine": "n/u"
     },
     "StCyrilJerusalem_581": {
         "subject": "Svätý Cyril Jeruzalemský, biskup a doktor",
-        "places": "Bazilika svätej Márie Magdalény v Saint-Maximin-la-Sainte-Baume (Francúzsko)",
+        "places": "n/u",
         "place_of_death": "Jeruzalem",
         "place_of_birth": "Jeruzalem",
-        "place_of_burial": "lekárnici, klobučníci, Uruguaj",
+        "place_of_burial": "n/u",
         "notes": "Cyril (okolo 315 - 387), biskup Jeruzalema, bol dramaticky zapojený do hlbokých rozdelení Cirkvi svojej doby: ohováraný a viackrát vyhnaný, zostal verný doktríne vyhlásenej na Nicejskom koncile (325). Jemu sa pripisujú niektoré slávne krstné katechézy.",
         "patronage": "teológovia katechéti, exorcisti",
-        "main_shrine": "Svätý Rajmund z Peñafortu, kňaz"
+        "main_shrine": "n/u"
     },
     "StJohnDamascene_582": {
         "subject": "Svätý Ján Damascénsky, kňaz a učiteľ",
@@ -3441,20 +3441,20 @@
     },
     "StEphrem_584": {
         "subject": "Svätý Efrém, diakon a učiteľ",
-        "places": "Betsaida (Rímska Palestína)",
+        "places": "n/u",
         "place_of_death": "Edessa (súčasný Şanliurfa, Turecko)",
         "place_of_birth": "Nisibi (súčasný Nusaybin, Turecko)",
-        "place_of_burial": "Svätý Rajmund z Peñafortu, kňaz",
+        "place_of_burial": "n/u",
         "notes": "Efrém (Nisibi, dnešný Nusaybin, Turecko, okolo 306 - Edessa, dnešný Şanliurfa, 9. júna 373) prispel k založeniu teologickej školy, najprv vo svojej vlasti, potom v Edese, kam sa presťahoval po tom, čo Nisibi prešla pod perzskú nadvládu. Skladal liturgické hymny bohaté na obrazy a rytmy, ktoré ho preslávili v celom kresťanskom Východe. Vynikal v diakonskej službe v učení, liturgickej animácii a pomoci núdznym.",
         "patronage": "Speváci, hudobníci, básnici",
-        "main_shrine": "N/A"
+        "main_shrine": "n/u"
     },
     "Guadalupe_555": {
         "subject": "Blahoslavená Panna Mária Guadalupská",
         "places": "Mexiko City (Mexiko)",
-        "place_of_death": "lekárnici, klobučníci, Uruguaj",
-        "place_of_birth": "N/A",
-        "place_of_burial": "Bamberg (Nemecko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "9. decembra 1531 prišiel Juan Diego, aztécky indián medzi prvými konvertitmi na kresťanstvo na začiatku španielskeho dobytia Mexika, k úpätiu kopca Tepeyac (dnes v Mexico City). Tu mal videnie „nádhernej Pani“, ktorá sa predstavila ako „svätá Panna Mária, Matka pravého Boha“ a požiadala, aby jej na tom mieste postavili kostol, sľubujúc, že všetkým prejaví svoju lásku a pomoc. Napriek odporu biskupa, Morenita 12. decembra vtlačila svoj obraz na Juanovu tilmu. Presvedčený týmto zázračným znamením, biskup postavil prvú svätyňu (1553), nazvanú „Guadalupe“ ako tá, ktorá už existovala v Španielsku od 14. storočia. Budova bola opakovane rozširovaná, aby prijala čoraz viac pútnikov, priťahovaných zázračným obrazom. Panna Mária z Guadalupe bola uznaná cirkvami tohto kontinentu ako „veľká misionárka, ktorá priniesla evanjelium do našej Ameriky“ (Dokument z Aparecidy, 269).",
         "patronage": "Ameriky, nenarodené deti",
         "main_shrine": "Bazilika Našej Pani z Guadalupe (Mexiko City, Mexiko)"
@@ -3462,9 +3462,9 @@
     "LadyLourdes_585": {
         "subject": "Blahoslavená Panna Mária Lurdská",
         "places": "Lurdy (Francúzsko)",
-        "place_of_death": "Paríž (Francúzsko)",
-        "place_of_birth": "Bamberg (Nemecko)",
-        "place_of_burial": "N/A",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Posledné zjavenie Blahoslavenej Panny Márie Bernadette. Táto spomienka sa viaže na mystickú skúsenosť Bernadette Soubirous, ktorá osemnásťkrát, medzi 11. februárom a 16. júlom 1858, v jaskyni Massabielle pri Lurdoch (Francúzsko), stretla Pannu Máriu. Povedala jej, že je „Nepoškvrnené Počatie“, vyzývajúc ľudí k modlitbe a obráteniu. Svätyňa postavená na tom mieste, na pozvanie Panny Márie, sa stala cieľom neustálych púti, najmä pre chorých.",
         "patronage": "Chorí, chudobní, väzni, ľudia hľadajúci zázraky",
         "main_shrine": "Lurdy (Francúzsko)"
@@ -3472,9 +3472,9 @@
     "LadyFatima_586": {
         "subject": "Blahoslavená Panna Mária z Fatimy",
         "places": "Fatima (Portugalsko)",
-        "place_of_death": "Svätý Rajmund z Peñafortu, kňaz",
-        "place_of_birth": "N/A",
-        "place_of_burial": "Bamberg (Nemecko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Posledné zjavenie Panny Márie trom pastierikom. Od 13. mája do 13. októbra 1917, raz mesačne, v lokalite Cova da Iria, pri Fatime (Portugalsko), Lucia dos Santos, František a Hyacinta Marto – traja pastierikovia z miesta – mali videnie Panny Márie. Okrem toho, že pripomínala potrebu modlitby a pokánia pre spásu sveta, Panna Mária odporúčala modlitbu ruženca a oddanosť jej Nepoškvrnenému Srdcu. Panna Mária z Fatimy bola drahá viacerým pápežom, najmä Piovi XII., svätému Pavlovi VI. – prvému pápežovi, ktorý sa vydal na púť (13. mája 1967) – a svätému Jánovi Pavlovi II., ktorý uznal jej materinskú ochranu počas atentátu, ktorý utrpel na námestí svätého Petra 13. mája 1981.",
         "patronage": "Portugalsko, proti komunizmu",
         "main_shrine": "Bazilika Fatimy (Portugalsko)"
@@ -3492,9 +3492,9 @@
     "DedicationHolySepulchre_588": {
         "subject": "Posviacka Baziliky Svätého Hrobu",
         "places": "Jeruzalem (Izrael / Palestína)",
-        "place_of_death": "Bamberg (Nemecko)",
-        "place_of_birth": "Bazilika svätej Márie Magdalény v Saint-Maximin-la-Sainte-Baume (Francúzsko)",
-        "place_of_burial": "Kostol svätého Pantalea (Rím, Taliansko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Bolo 15. júla 1149, keď križiaci po desaťročiach prác a štrukturálnych úprav oficiálne zasvätili novú baziliku pri päťdesiatom výročí dobytia Jeruzalema.",
         "patronage": "Kresťanstvo, pútnici",
         "main_shrine": "Bazilika Svätého hrobu v Jeruzaleme"
@@ -3552,9 +3552,9 @@
     "SantaMariaInPortico_594": {
         "subject": "Santa Maria in Portico (Rím, Taliansko)",
         "places": "Bekaa Kafra (Libanon)",
-        "place_of_death": "Betsaida (Rímska Palestína)",
-        "place_of_birth": "Betsaida (Rímska Palestína)",
-        "place_of_burial": "N/A",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Panne Márii sa mala zjaviť svätá Galla, keď sa venovala svojim obvyklým charitatívnym činnostiam. Tento zázračný jav pripomína vzácne dielo z 11. storočia v kostole S. Maria in Portico in Campitelli. Spomienkový sviatok tohto zjavenia sa v Ríme slávi 17. júla na základe povolenia Kongregácie pre obrady, zatiaľ čo svätá Galla je v Rímskom martyrológiu spomínaná 5. októbra.",
         "patronage": "Rím",
         "main_shrine": "Kostol Santa Maria in Portico in Campitelli (Rím, Taliansko)"
@@ -3562,9 +3562,9 @@
     "OurLadyLaSalette_595": {
         "subject": "Naša Pani z La Salette",
         "places": "La Salette (Francúzsko)",
-        "place_of_death": "Bamberg (Nemecko)",
-        "place_of_birth": "Bazilika svätej Márie Magdalény v Saint-Maximin-la-Sainte-Baume (Francúzsko)",
-        "place_of_burial": "N/A",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "19. septembra 1846, okolo tretej popoludní, na hore blízko dediny La Salette-Fallavaux, dvaja mladí pastieri, pätnásťročná pastierka menom Mélanie Calvat a jedenásťročný pastier menom Maximin Giraud, pri pasení kráv, zažili zjavenie Panny Márie, ktorá sa sťažovala na hriechy ľudí a oznamovala odpustenie tým, ktorí sa obrátia.",
         "patronage": "Obrátenie hriešnikov, zmierenie",
         "main_shrine": "Svätyňa Našej Panej z La Salette (Francúzsko)"
@@ -3572,9 +3572,9 @@
     "OurLadyMiracle_596": {
         "subject": "Panna Mária Zázračná",
         "places": "Rím (Taliansko)",
-        "place_of_death": "Kostol svätého Pantalea (Rím, Taliansko)",
-        "place_of_birth": "lekárnici, klobučníci, Uruguaj",
-        "place_of_burial": "N/A",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "20. januára 1842 sa Panna Mária zjavila alsaskému židovi Alfonzovi Ratisbonnovi, ktorý bol takmer náhodou na návšteve Ríma. Mladý advokát a bankár, silne nepriateľský voči katolíckemu náboženstvu, nosil na posmech Zázračnú medailu, ktorú mu s vierou darovali niektorí priatelia. Keď vstúpil do kostola, jasne videl Ženu v kaplnke, ktorá bola vtedy zasvätená archanjelovi Michalovi, ktorá mu prstom naznačila, aby si kľakol. Výsledkom tohto gesta bolo okamžité obrátenie muža, ktorý sa len čo sa spamätal z úžasu, požiadal o možnosť vyspovedať sa a pokrstiť. Neskôr bol Alfonz vysvätený za kňaza a pripojil sa k svojmu bratovi Theodorovi, tiež kňazovi, v hnutí Rehoľníkov Našej Pani zo Sionu na obrátenie židov a moslimov, ktoré ho priviedlo až do Palestíny, kde založili sídlo v blízkosti starého Pilátovho pretorium. Zomrel v Ein Kerem v roku 1884.",
         "patronage": "Obrátenie, ochrana",
         "main_shrine": "Bazilika svätého Ondreja delle Fratte (Rím, Taliansko)"
@@ -3582,9 +3582,9 @@
     "OurLadyPontmain_597": {
         "subject": "Naša Pani z Pontmain",
         "places": "Pontmain (Francúzsko)",
-        "place_of_death": "N/A",
-        "place_of_birth": "lekárnici, klobučníci, Uruguaj",
-        "place_of_burial": "Betsaida (Rímska Palestína)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Večer 17. januára 1871 Eugène Barbedette, dvanásťročný chlapec, pomáhal svojmu otcovi v stodole mlátiť metlu, používanú ako krmivo pre zvieratá; aj jeho desaťročný brat Joseph bol s nimi. Eugène vyšiel von, aby zistil, aké je počasie, a nad domom oproti by videl nádhernú dámu v šatách ozdobených hviezdami, ktorá by dala posolstvo: \"ALE MODLITE SA, MOJE DETI. BOH VÁM ODPOVIE VEĽMI SKORO. MÔJ SYN DOVOĽUJE, ABY SA JEHO SRDCE DOTKLO.\"",
         "patronage": "Pace, Francúzsko",
         "main_shrine": "Bazilika Našej Pani z Pontmain (Francúzsko)"
@@ -3592,9 +3592,9 @@
     "MiraculousMedal_598": {
         "subject": "Naša Pani Zázračnej Medaily",
         "places": "Paríž (Francúzsko)",
-        "place_of_death": "Kostol svätého Pantalea (Rím, Taliansko)",
-        "place_of_birth": "lekárnici, klobučníci, Uruguaj",
-        "place_of_burial": "Kostol svätého Pantalea (Rím, Taliansko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Od júna do decembra 1830 sestra Katarína Labouré, mladá novicka Dcér lásky, dostáva obrovskú milosť, keď sa trikrát stretáva s Pannou Máriou. Dňa 27. novembra má videnie Blahoslavenej Panny Márie, ktorá inšpiruje Zázračnú medailu.",
         "patronage": "Vďaky, obrátenia",
         "main_shrine": "Svätyňa Našej Pani Zázračnej Medaily na Rue du Bac (Paríž, Francúzsko)"
@@ -3602,9 +3602,9 @@
     "SacredHeart_599": {
         "subject": "Zjavenia Najsvätejšieho Srdca svätej Margite Márii Alacoque",
         "places": "Paray-le-Monial (Francúzsko)",
-        "place_of_death": "N/A",
-        "place_of_birth": "Svätý Rajmund z Peñafortu, kňaz",
-        "place_of_burial": "lekárnici, klobučníci, Uruguaj",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Od 27. decembra 1673 dostávala Margita, rehoľníčka Rádu Navštívenia, počas 17 rokov zjavenia Najsvätejšieho Srdca Ježišovho. Liturgická spomienka svätice pripadá na 16. októbra.",
         "patronage": "Oddanosť k Najsvätejšiemu Srdcu",
         "main_shrine": "Bazilika Najsvätejšieho Srdca Ježišovho (Paray-le-Monial, Francúzsko)"
@@ -3612,9 +3612,9 @@
     "OurLadySilenceKnock_600": {
         "subject": "Naša Pani ticha z Knocku",
         "places": "Knock (Írsko)",
-        "place_of_death": "Svätý Rajmund z Peñafortu, kňaz",
-        "place_of_birth": "lekárnici, klobučníci, Uruguaj",
-        "place_of_burial": "Kostol svätého Pantalea (Rím, Taliansko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Tiché zjavenie Panny Márie so svätým Jozefom a svätým Jánom Evanjelistom, obrátení k oltáru, nad ktorým bol baránok a kríž. Stalo sa to 21. augusta 1879 v Knocku, malom mestečku v írskom grófstve Mayo, v provincii Connact, Mary McLoughlin a Mary Byrne.",
         "patronage": "Ticho, kontemplácia",
         "main_shrine": "Svätyňa Našej Pani Ticha (Knock, Írsko)"
@@ -3622,9 +3622,9 @@
     "OurLadyBeauraing_601": {
         "subject": "Naša Pani z Beauraing",
         "places": "Beauraing (Belgicko)",
-        "place_of_death": "Kostol svätého Pantalea (Rím, Taliansko)",
-        "place_of_birth": "Svätý Rajmund z Peñafortu, kňaz",
-        "place_of_burial": "N/A",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "V Beauraingu, 29. novembra 1932, Fernande (15 rokov) a Albert (11 rokov) Voisin spolu s priateľkami Andrée (14 rokov) a Gilberte (9 rokov) Degeimbre prijali zjavenie Blahoslavenej Panny Márie \"so Zlatým Srdcom\". Zjavenia pokračovali v nasledujúcich dňoch: bolo ich celkom 33 a skončili sa 3. januára 1933.",
         "patronage": "Belgicko, katechizmus",
         "main_shrine": "Svätyňa Panny Márie so Zlatým Srdcom (Beauraing, Belgicko)"
@@ -3632,9 +3632,9 @@
     "OurLadyAkita_602": {
         "subject": "Naša Pani z Akity",
         "places": "Akita (Japonsko)",
-        "place_of_death": "Kostol svätého Pantalea (Rím, Taliansko)",
-        "place_of_birth": "Svätý Rajmund z Peñafortu, kňaz",
-        "place_of_burial": "Bamberg (Nemecko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "12. júna 1973 sestra Agnes Katsuko Sasagawa, z kongregácie \"Služobníc Eucharistie\", videla jasné svetlo vychádzajúce z tabernákula kostola jej kláštora, spolu s anjelmi v adorácii. 28. júna sa na ľavej ruke sestry objavila stigma v tvare kríža. 6. júla nasledovalo prvé z troch mariánskych zjavení, sprevádzané posolstvami. Medzi 4. januárom 1975 a 15. septembrom 1981 sestra Agnes tiež uviedla, že bola svedkom 101 sĺz, vrátane krvi, zo sochy Panny Márie.",
         "patronage": "Japonsko, choroby",
         "main_shrine": "Svätyňa Našej Pani z Akity (Japonsko)"
@@ -3642,9 +3642,9 @@
     "OurLadyKibeho_603": {
         "subject": "Naša Pani z Kibeho",
         "places": "Kibeho (Rwanda)",
-        "place_of_death": "Bazilika svätej Márie Magdalény v Saint-Maximin-la-Sainte-Baume (Francúzsko)",
-        "place_of_birth": "Kostol svätého Pantalea (Rím, Taliansko)",
-        "place_of_burial": "Betsaida (Rímska Palestína)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "V internáte v Kibeho, ktorý spravovali sestry a navštevovalo ho asi sto dievčat z okolia, v sobotu 28. novembra 1981, okolo 12:35, šestnásťročná Alphonsine Mumureke bola v jedálni so svojimi spolužiačkami, keď podľa jej denníka počula hlas, ktorý ju volal: keď sa dostala na chodbu vedľa jedálne, videla ženu mimoriadnej krásy, oblečenú v bielom, so zopnutými rukami. Keď sa Alphonsine spýtala, kto je, odpovedala: „Ja som Matka Slova.“",
         "patronage": "Rwanda, mier",
         "main_shrine": "Svätyňa Našej Pani Bolestnej (Kibeho, Rwanda)"
@@ -3652,9 +3652,9 @@
     "OurLadyGietrzwałd_604": {
         "subject": "Naša Pani z Gietrzwałdu",
         "places": "Gietrzwałd (Poľsko)",
-        "place_of_death": "Svätý Rajmund z Peñafortu, kňaz",
-        "place_of_birth": "Svätý Vavrinec z Brindisi, kňaz a učiteľ",
-        "place_of_burial": "Kostol svätého Pantalea (Rím, Taliansko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "V poľskej obci Gietrzwałd sa medzi 27. júnom a 16. septembrom 1877 mala Panna Mária zjaviť 166-krát dvom dievčatám, Justyne Szafrańskej a Barbare Samulowskej.",
         "patronage": "Poľsko",
         "main_shrine": "Svätyňa v Gietrzwałde (Poľsko)"
@@ -3662,9 +3662,9 @@
     "OurLadyLaus_605": {
         "subject": "Naša Pani z Laus",
         "places": "Laus (Francúzsko)",
-        "place_of_death": "Kostol svätého Pantalea (Rím, Taliansko)",
-        "place_of_birth": "Kostol svätého Pantalea (Rím, Taliansko)",
-        "place_of_burial": "Kostol svätého Pantalea (Rím, Taliansko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Benedetta Rencurel (1647-1718), ktorú si Panna Mária vybrala, aby jej zverila veľmi delikátnu misiu: modliť sa a trpieť za spásu hriešnikov. Bolo to v nešpecifikovaný deň v máji 1664, keď sedemnásťročná Benedetta, pasúc ovce v údolí Vallone dei Forni, videla Pannu Máriu s dieťaťom Ježišom. Odvtedy sa jej Panna Mária zjavovala počas 54 rokov, od 1664 do 1718.",
         "patronage": "Obrátenie, zmierenie",
         "main_shrine": "Svätyňa Našej Pani z Laus (Francúzsko)"
@@ -3672,9 +3672,9 @@
     "OurLadyRosary_606": {
         "subject": "Naša Pani Ružencová",
         "places": "Prouille (Francúzsko)",
-        "place_of_death": "lekárnici, klobučníci, Uruguaj",
-        "place_of_birth": "N/A",
-        "place_of_burial": "Paríž (Francúzsko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Zatiaľ čo svätý Dominik bojoval proti albigénskej heréze na juhu Francúzska, Panna Mária sa mu zjavila v roku 1208 a darovala mu duchovnú zbraň, ruženec. Toto zjavenie sa odohralo na juhu Francúzska, v malom zabudnutom mieste známom ako Prouilhe v regióne Languedoc.",
         "patronage": "Ruženec, bitky",
         "main_shrine": "Bazilika Panny Márie Ružencovej (Prouilhe, Francúzsko)"
@@ -3682,9 +3682,9 @@
     "OurLadyZeitoun_607": {
         "subject": "Naša Pani zo Zeitounu",
         "places": "Káhira (Egypt)",
-        "place_of_death": "Kostol svätého Pantalea (Rím, Taliansko)",
-        "place_of_birth": "Bamberg (Nemecko)",
-        "place_of_burial": "Bazilika svätej Kláry, Assisi (Taliansko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Prvé zjavenie Panny Márie v Zeitoune bolo zaznamenané večer 2. apríla 1968, keď moslimský autobusový mechanik menom Farouk Mohammed Atwa si myslel, že videl ženu na vrchole budovy. O týždeň neskôr, 9. apríla, sa fenomén zopakoval, opäť trvajúc len niekoľko minút. Po tomto období sa zjavenia stali častejšími, aj dvakrát alebo trikrát týždenne, počas niekoľkých rokov, až do roku 1971. Podľa koptskej tradície je Zeitoun blízko jedného z miest, kde Svätá rodina zostala počas úteku do Egypta. Dňa 12. mája 2018 koptská cirkev oslávila zlaté jubileum tejto udalosti.",
         "patronage": "Koptskí kresťania, konverzia",
         "main_shrine": "Kostol Panny Márie v Zeitoune (Káhira, Egypt)"
@@ -3712,251 +3712,251 @@
     "CouncilOfNicea_610": {
         "subject": "Prvý nicejský koncil",
         "places": "Nikaia, Bitýnia (dnešný İznik, Turecko)",
-        "place_of_death": "n.d.",
-        "place_of_birth": "n.d.",
-        "place_of_burial": "n.d.",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Prvý nicejský koncil, zvolaný Konštantínom I. v roku 325, bol prvým ekumenickým koncilom kresťanstva. Zúčastnilo sa ho približne 300 biskupov z celého Rímskeho impéria. Cirkev prechádzala obdobím krízy kvôli vnútorným rozdeleniam a prenasledovaniu zo strany impéria. Koncil sa zišiel, aby reagoval na ariánsku herézu, ktorá popierala božstvo Ježiša Krista. Biskupi sa zišli, aby stanovili pravdu kresťanskej viery a ukončili rozdelenia. Po búrlivej diskusii a konflikte s cisárom koncil stanovil božstvo Ježiša Krista a odsúdil arianizmus. Bol vypracovaný Nicejsko-konštantínopolský krédo, ktoré stanovilo formulu Trojice: Boh Otec, Boh Syn a Boh Duch Svätý. Kresťanská viera bola posilnená a jednota Cirkvi bola obnovená.",
-        "patronage": "n.d.",
+        "patronage": "n/u",
         "main_shrine": "Kostol svätej Sofie (İznik, Turecko)"
     },
     "CouncilOfConstantinople_611": {
         "subject": "Prvý koncil v Konštantínopole",
         "places": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
-        "place_of_death": "n.d.",
-        "place_of_birth": "n.d.",
-        "place_of_burial": "n.d.",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Prvý koncil v Konštantínopole, zvolaný Teodóziom I. v roku 381, bol druhým ekumenickým koncilom kresťanstva. Zúčastnilo sa ho približne 150 biskupov z celého východného Rímskeho impéria. Koncil sa zišiel, aby ukončil rozdelenia vzniknuté v predchádzajúcom desaťročí kvôli ariánskej heréze a teologickým sporom. Okrem toho sa chceli dohodnúť na nástupníctve patriarchu Konštantínopolu, Demofila, ktorý bol nútený utiecť kvôli ariánskym hrozbám. Zhromaždení biskupi stanovili, že patriarcha Konštantínopolu bude mať prednosť po biskupovi Ríma a tiež potvrdili božstvo Ježiša Krista, ako bolo stanovené na Prvom nicejskom koncile. Okrem toho bol odsúdený apollinarizmus, ďalšia heréza, ktorá popierala božstvo Ježiša Krista. Bol vypracovaný Nicejsko-konštantínopolský krédo, ktoré stanovilo formulu Trojice: Boh Otec, Boh Syn a Boh Duch Svätý. Kresťanská viera bola posilnená a jednota Cirkvi bola obnovená.",
-        "patronage": "n.d.",
+        "patronage": "n/u",
         "main_shrine": "Kostol svätých apoštolov (Istanbul, Turecko)"
     },
     "CouncilOfEphesus_612": {
         "subject": "Koncil v Efeze",
         "places": "Efez (dnešný Selçuk, Turecko)",
-        "place_of_death": "n.d.",
-        "place_of_birth": "n.d.",
-        "place_of_burial": "n.d.",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Efezský koncil, ktorý sa konal v roku 431, bol tretím ekumenickým koncilom kresťanstva a uskutočnil sa v meste Efez, v dnešnom Turecku. Zvolal ho cisár Teodózius II. a koncil sa zaoberal hlavne kristologickou kontroverziou vyvolanou Nestoriom, patriarchom Konštantínopolu, ktorý tvrdil, že Mária nemôže byť nazývaná 'Matkou Božou' ('Theotokos'), ale iba 'Matkou Krista' ('Christotokos'), pretože Kristus mal dve oddelené prirodzenosti, jednu ľudskú a jednu božskú. Tento postoj vyvolal opozíciu Cyrila Alexandrijského, ktorý obhajoval jednotu Kristovej osoby a používanie titulu 'Theotokos' pre Máriu. Koncilu sa zúčastnilo asi 200 biskupov, ktorí po vášnivých debatách odsúdili Nestoriovo učenie, vyhlásili, že Kristus je jedna osoba s dvoma neoddeliteľnými prirodzenosťami, a potvrdili titul 'Theotokos' pre Máriu. Koncil zdôraznil dôležitosť jednoty Cirkvi a kresťanskej viery a znovu potvrdil nicejské vyznanie viery. Rozhodnutia Efezu mali trvalý vplyv na kresťanskú teológiu a prispeli k definovaniu ortodoxnej doktríny o Kristovej prirodzenosti a uctievaní Márie.",
-        "patronage": "n.d.",
+        "patronage": "n/u",
         "main_shrine": "Kostol svätého Jána Evanjelistu (Efez, Turecko)"
     },
     "CouncilOfChalcedon_613": {
         "subject": "Koncil v Chalcedóne",
         "places": "Chalcedónia, Bitýnia (dnešný Kadıköy, okres Istanbulu, Turecko)",
-        "place_of_death": "n.d.",
-        "place_of_birth": "n.d.",
-        "place_of_burial": "n.d.",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Koncil v Chalcedóne, ktorý sa konal v roku 451, bol štvrtým ekumenickým koncilom kresťanstva a prebiehal v meste Chalcedónia v Bitýnii, v dnešnom Turecku. Zvolaný cisárom Marcianom, koncil riešil kristologický spor vyvolaný Eutychom, mníchom, ktorý tvrdil, že Ježiš Kristus má len božskú a nie ľudskú prirodzenosť. Eutychova pozícia bola odsúdená biskupmi zúčastnenými na koncile, ktorí vyhlásili, že Ježiš Kristus je 'jedna osoba s dvoma nerozlučnými prirodzenosťami, božskou a ľudskou, spojenými v ňom bez zmätku, zmeny, rozdelenia alebo oddelenia'. Koncil vypracoval doktrínu dvojitej prirodzenosti Krista, vyhlasujúc, že Ježiš Kristus je 'pravý Boh a pravý človek', a znovu potvrdil nicejskú vieru. Rozhodnutia Chalcedónu mali trvalý vplyv na kresťanskú teológiu a prispeli k definovaniu ortodoxnej doktríny o Kristovej prirodzenosti.",
-        "patronage": "n.d.",
+        "patronage": "n/u",
         "main_shrine": "Kostol svätej Eufémie (Chalkedon, Turecko)"
     },
     "SecondCouncilOfConstantinople_614": {
         "subject": "Druhý konštantínopolský koncil",
         "places": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
-        "place_of_death": "n.d.",
-        "place_of_birth": "n.d.",
-        "place_of_burial": "n.d.",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Druhý koncil v Konštantínopole, piaty ekumenický koncil kresťanstva, sa konal v roku 553 pod cisárom Justiniánom I. s cieľom vyriešiť teologické rozdelenia medzi Východnou a Západnou cirkvou, spôsobené monofyzitizmom, ktorý tvrdil jedinú božskú prirodzenosť Krista. Justinián sa snažil zjednotiť ríšu znovu potvrdením chalcedónskej doktríny dvoch prirodzeností (ľudskej a božskej) Krista, ale s ústupkami monofyzitom. Koncil odsúdil Tri kapitoly—spisy teológov považovaných za príliš blízkych nestoriánstvu, ktoré príliš oddeľovalo Kristove prirodzenosti—na podporu teologickej súdržnosti. Rozhodnutie narazilo na odpor na Západe, ale bolo prijaté väčšinou cirkvi. Koncil znovu potvrdil chalcedónsku ortodoxiu.",
-        "patronage": "n.d.",
+        "patronage": "n/u",
         "main_shrine": "Kostol svätých apoštolov (Konštantínopol, Turecko)"
     },
     "ThirdCouncilOfConstantinople_615": {
         "subject": "Tretí koncil v Konštantínopole",
         "places": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
-        "place_of_death": "n.d.",
-        "place_of_birth": "n.d.",
-        "place_of_burial": "n.d.",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Tretia koncilia v Konštantínopole, šiesta ekumenická koncilia kresťanstva, sa konala v rokoch 680 až 681 v Konštantínopole (dnešný Istanbul, Turecko) pod záštitou byzantského cisára Konštantína IV. Koncil bol zvolaný na vyriešenie teologickej debaty o monotelizme, doktríne, ktorá tvrdila existenciu jedinej vôle (thelēsis) v osobe Krista, pričom uznávala jeho dve prirodzenosti, božskú a ľudskú. Otázka monotelizmu vznikla ako pokus o sprostredkovanie medzi stúpencami monofyzitizmu (ktorí tvrdili, že Kristus má len jednu božskú prirodzenosť) a tými, ktorí podľa Chalcedónskeho koncilu (451) uznávali v Kristovi dve prirodzenosti, ľudskú a božskú, spojené, ale odlišné.",
-        "patronage": "n.d.",
+        "patronage": "n/u",
         "main_shrine": "Kostol svätých apoštolov (Konštantínopol, Turecko)"
     },
     "SecondCouncilOfNicaea_616": {
         "subject": "Druhá koncilia v Nicei",
         "places": "Nicea, Bitýnia (dnešný İznik, Turecko)",
-        "place_of_death": "n.d.",
-        "place_of_birth": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
-        "place_of_burial": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Druhá koncilia v Nicei, siedma ekumenická koncilia kresťanstva, sa konala v roku 787, aby riešila spor o ikonoklazmus, teda ničenie posvätných obrazov, ktoré rozdelilo Byzantskú ríšu. Cisárovná Irena, regentka za svojho syna Konštantína VI., zvolala koncil, aby obnovila uctievanie ikon, prax podporovanú Východnou a Západnou cirkvou, ale spochybňovanú ikonoklastmi, ktorí považovali obrazy za modlárske. Koncil stanovil, že ikony môžu byť uctievané, ale nie zbožňované ako samotný Boh. Toto rozlíšenie umožnilo zachovať používanie obrazov ako nástroja oddanosti, posilňujúc doktrínu vtelenia: uctievanie ikon znamená ctiť si realitu Krista, ktorý sa stal človekom. Koncil znamenal oficiálny koniec ikonoklazmu.",
-        "patronage": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
+        "patronage": "n/u",
         "main_shrine": "Kostol svätej Sofie (İznik, Turecko)"
     },
     "FourthCouncilOfConstantinople_617": {
         "subject": "Štvrtá koncilia v Konštantínopole",
         "places": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
-        "place_of_death": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
-        "place_of_birth": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
-        "place_of_burial": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Štvrtý koncil v Konštantínopole, ktorý sa konal v rokoch 869-870 v Konštantínopole, zvolal cisár Bazil I. a pápež Hadrián II. na vyriešenie napätia v Cirkvi na Východe. Hlavnou otázkou bola zosadenie patriarchu Fócia, ktorý zaujal miesto Ignáca za kontroverzných okolností, čo vyvolalo veľkú schizmu. Koncil vyhlásil Fóciovu nomináciu za nelegitímnu a obnovil Ignáca, stanovil normy pre voľbu patriarchov a posilnil pápežskú autoritu. Koncil bol uznaný ako ekumenický katolíckou cirkvou, ale nie pravoslávnou, ktorá naďalej považovala Fócia za legitímneho patriarchu. Tento koncil predstavoval pokus o konsolidáciu jednoty medzi cirkvami Východu a Západu, aj keď sa mu nepodarilo zabrániť ďalším rozdeleniam, ktoré vyvrcholili schizmatom v roku 1054.",
-        "patronage": "n.d.",
+        "patronage": "n/u",
         "main_shrine": "Kostol svätých apoštolov (Konštantínopol, Turecko)"
     },
     "FirstLateranCouncil_618": {
         "subject": "Prvá lateránska koncilia",
         "places": "Rím (Taliansko)",
-        "place_of_death": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
-        "place_of_birth": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
-        "place_of_burial": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Prvý lateránsky koncil sa konal v Ríme v roku 1123, zvolaný pápežom Kalixtom II. Bol to prvý ekumenický koncil, ktorý sa konal na Západe a slúžil hlavne na ratifikáciu Wormského konkordátu (1122), ktorý vyriešil spor o investitúry medzi pápežstvom a ríšou. Tento konflikt sa týkal práva svetských panovníkov menovať biskupov a opátov, čo podkopávalo autoritu Cirkvi. Koncil potvrdil, že iba pápež môže investovať prelátov a zakázal zásahy laikov do cirkevných nominácií. Riešila sa aj otázka kňazského celibátu, posilňujúc jeho povinnosť. Tento koncil upevnil nezávislosť Cirkvi od svetskej autority, znamenajúc dôležitý krok v definovaní cirkevných práv a v potvrdení pápežskej autority v stredovekej Európe.",
-        "patronage": "n.d.",
+        "patronage": "n/u",
         "main_shrine": "Bazilika svätého Jána v Lateráne (Rím, Taliansko)"
     },
     "SecondLateranCouncil_619": {
         "subject": "Druhá lateránska koncilia",
         "places": "Rím (Taliansko)",
-        "place_of_death": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
-        "place_of_birth": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
-        "place_of_burial": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Druhý lateránsky koncil sa konal v Ríme v roku 1139, zvolaný pápežom Inocentom II. na uzdravenie rozdelení spôsobených schizmatom protipápeža Anacleta II., ktorý sa postavil proti voľbe Inocenta II. Po Anacletovej smrti bol koncil zvolaný na obnovenie jednoty a riešenie disciplinárnych a morálnych otázok. Medzi hlavné rozhodnutia koncilu patrilo odsúdenie nepotizmu, simónie (kupovanie a predávanie cirkevných úradov) a nelegálnych vysviacok. Posilnil tiež povinnosť kňazského celibátu a zaviedol opatrenia proti zneužívaniu medzi klérom. Koncil exkomunikoval podporovateľov protipápeža a posilnil kontrolu Cirkvi nad cirkevnou disciplínou.",
-        "patronage": "n.d.",
+        "patronage": "n/u",
         "main_shrine": "Bazilika svätého Jána v Lateráne (Rím, Taliansko)"
     },
     "ThirdLateranCouncil_620": {
         "subject": "Tretí lateránsky koncil",
         "places": "Rím (Taliansko)",
-        "place_of_death": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
-        "place_of_birth": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
-        "place_of_burial": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Tretí lateránsky koncil sa konal v Ríme v roku 1179, zvolaný pápežom Alexandrom III. na vyriešenie krízy spôsobenej protipápežmi podporovanými cisárom Fridrichom Barbarossom a na uskutočnenie reforiem v Cirkvi. Koncil stanovil, že pápežská voľba si vyžaduje väčšinu aspoň dvoch tretín kardinálov, čo bolo opatrenie na predchádzanie schizmatom. Okrem reformy volebného procesu koncil prijal opatrenia proti simónii, potvrdil povinnosť celibátu pre klérus a riešil problém nelegálnych vysviacok. Odsúdil tiež vznikajúce herézy, ako boli katari a albigénci, posilňujúc ortodoxiu.",
-        "patronage": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
+        "patronage": "n/u",
         "main_shrine": "Bazilika svätého Jána v Lateráne (Rím, Taliansko)"
     },
     "FourthLateranCouncil_621": {
         "subject": "Štvrtý lateránsky koncil",
         "places": "Rím (Taliansko)",
-        "place_of_death": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
-        "place_of_birth": "n.d.",
-        "place_of_burial": "n.d.",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Štvrtý lateránsky koncil sa konal v Ríme v roku 1215 a je považovaný za jeden z najdôležitejších stredovekých koncilov, zvolaný pápežom Inocentom III. na reformu Cirkvi a riešenie doktrinálnych otázok. Koncil vydal až 70 kánonov, vrátane reforiem týkajúcich sa disciplíny a morálky kléru, na boj proti simónii a nemorálnosti. Okrem toho zaviedol povinnosť pre všetkých veriacich spovedať sa aspoň raz ročne a prijímať Eucharistiu na Veľkú noc. Na doktrinálnej úrovni koncil definoval dogmu transsubstanciácie, vysvetľujúc skutočnú prítomnosť Krista v Eucharistii. Odsúdil rôzne herézy, vrátane katarov a albigéncov, a stanovil prísne opatrenia proti heretikom.",
-        "patronage": "n.d.",
+        "patronage": "n/u",
         "main_shrine": "Bazilika svätého Jána v Lateráne (Rím, Taliansko)"
     },
     "FirstCouncilOfLyon_622": {
         "subject": "Prvý lyonský koncil",
         "places": "Lyon (Francúzsko)",
-        "place_of_death": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
-        "place_of_birth": "Konštantínopol, Trácia (dnešný Istanbul, Turecko)",
-        "place_of_burial": "Lyon (Francúzsko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Prvý lyonský koncil sa konal v roku 1245 v Lyone, zvolaný pápežom Inocentom IV., aby riešil vážne politické a náboženské otázky. Hlavnou témou bol konflikt s cisárom Svätej rímskej ríše Fridrichom II., obvineným z herézy, útlaku Cirkvi a porušovania pápežských práv. Koncil viedol k jeho exkomunikácii a zosadeniu, čo bolo výnimočnou udalosťou v dejinách ríše. Okrem cisárskej otázky koncil diskutoval o potrebe križiackej výpravy na znovuzískanie Jeruzalema, ktorý padol do rúk moslimov, a schválil opatrenia na reformu cirkevnej disciplíny a boj proti heréze. Medzi ďalšími rozhodnutiami boli vyčlenené zdroje na podporu obrany kresťanských území vo Svätej zemi.",
-        "patronage": "Lyon (Francúzsko)",
+        "patronage": "n/u",
         "main_shrine": "Katedrála v Lyone (Lyon, Francúzsko)"
     },
     "SecondCouncilOfLyon_623": {
         "subject": "Druhý lyonský koncil",
         "places": "Lyon (Francúzsko)",
-        "place_of_death": "Lyon (Francúzsko)",
-        "place_of_birth": "Lyon (Francúzsko)",
-        "place_of_burial": "Lyon (Francúzsko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Druhý lyonský koncil sa konal v roku 1274 v Lyone, zvolaný pápežom Gregorom X. Koncil sa zaoberal otázkami ako zjednotenie s pravoslávnou cirkvou, reforma latinskej cirkvi, križiacka výprava a vojna proti neveriacim. Diskutovalo sa aj o probléme chudoby a vlastníctva v rámci františkánskeho rádu. Koncil odsúdil herézu Katarov a Albigéncov a ustanovil slávenie sviatku Božieho Tela.",
-        "patronage": "Lyon (Francúzsko)",
+        "patronage": "n/u",
         "main_shrine": "Katedrála v Lyone (Lyon, Francúzsko)"
     },
     "CouncilOfVienne_624": {
         "subject": "Viedenský koncil",
         "places": "Viedeň (Francúzsko)",
-        "place_of_death": "Lyon (Francúzsko)",
-        "place_of_birth": "Lyon (Francúzsko)",
-        "place_of_burial": "Lyon (Francúzsko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Viedenský koncil sa konal v rokoch 1311-1312 vo Viedni, vo Francúzsku, zvolaný pápežom Klementom V. Koncil sa zaoberal otázkami ako zrušenie templárov, obvinenie z herézy proti francúzskej kráľovnej Margaréte Burgundskej a križiacka výprava proti moslimom. Diskutovalo sa aj o probléme chudoby a vlastníctva v rámci františkánskeho rádu. Koncil odsúdil herézu Begardov a Beghínov, ktorí podporovali formu radikálnej chudoby. Nakoniec koncil ustanovil, že biskupi musia mať titul z teológie alebo kánonického práva, aby mohli byť vysvätení. Koncil posilnil pápežskú autoritu a potvrdil katolícku doktrínu proti herézam.",
-        "patronage": "Lyon (Francúzsko)",
+        "patronage": "n/u",
         "main_shrine": "Katedrála svätého Maurícia (Viedeň, Francúzsko)"
     },
     "CouncilOfConstance_625": {
         "subject": "Koncil v Kostnici",
         "places": "Kostnica (Švajčiarsko)",
-        "place_of_death": "Lyon (Francúzsko)",
-        "place_of_birth": "Lyon (Francúzsko)",
-        "place_of_burial": "Lyon (Francúzsko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Koncil v Kostnici (1414-1418) bol ekumenický koncil Katolíckej cirkvi, ktorý sa konal v Kostnici, vo Švajčiarsku. Zvolaný protipápežom Jánom XXIII. s cieľom ukončiť Západnú schizmu, predsedal mu rímsky kráľ Žigmund a potvrdil ho pápež Gregor XII. Koncil zvolil pápeža Martina V. a odsúdil herézu Jána Husa a Johna Wyclifa. Koncil sa zaoberal aj otázkami ako reforma Cirkvi, boj proti heréze a križiacka výprava proti Turkom. Medzi najdôležitejšie rozhodnutia patrilo, že pápež nemohol byť súdený nikým a že všeobecný koncil bol jedinou autoritou schopnou zosadiť pápeža. Koncil posilnil pápežskú autoritu a prispel k ukončeniu Západnej schizmy.",
-        "patronage": "Lyon (Francúzsko)",
+        "patronage": "n/u",
         "main_shrine": "Katedrála v Kostnici (Švajčiarsko)"
     },
     "CouncilOfBaselFerraraFlorence_626": {
         "subject": "Koncil v Bazileji, Ferrara a Florencii",
         "places": "Bazilej (Švajčiarsko); Ferrara (Taliansko); Florencia (Taliansko)",
-        "place_of_death": "n.d.",
-        "place_of_birth": "n.d.",
-        "place_of_burial": "n.d.",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Koncil v Bazileji, Ferrara a Florencii (1431-1445) bol ekumenický koncil Katolíckej cirkvi, ktorý sa konal na troch rôznych miestach. Vznikol s cieľom reformovať Cirkev a ukončiť Západnú schizmu, koncil sa zaoberal aj otázkami ako boj proti heréze, križiacka výprava proti Turkom a zjednotenie Východnej a Západnej cirkvi. Medzi najdôležitejšie rozhodnutia patrilo ustanovenie nadradenosti všeobecného koncilu nad pápežom a pokus o zjednotenie s pravoslávnou cirkvou. Koncil však nebol úspešný a nakoniec ho rozpustil pápež Eugen IV.",
-        "patronage": "n.d.",
+        "patronage": "n/u",
         "main_shrine": "Katedrála v Bazileji (Švajčiarsko); Katedrála vo Ferrare (Taliansko); Katedrála vo Florencii (Taliansko)"
     },
     "FifthLateranCouncil_627": {
         "subject": "Piaty lateránsky koncil",
         "places": "Rím (Taliansko)",
-        "place_of_death": "Lyon (Francúzsko)",
-        "place_of_birth": "Lyon (Francúzsko)",
-        "place_of_burial": "Lyon (Francúzsko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Piaty lateránsky koncil (1512-1517) bol posledným ekumenickým koncilom stredoveku. Zvolaný pápežom Júliusom II. s cieľom reformovať Cirkev a čeliť protestantskej reformácii, koncil sa zaoberal hlavne disciplinárnymi a morálnymi otázkami. Medzi najdôležitejšie rozhodnutia patrilo ustanovenie nadradenosti pápeža nad všeobecným koncilom a potvrdenie katolíckej doktríny o milosti a predurčení. Koncil nebol úspešný v ukončení rozdelení v Cirkvi a nepodarilo sa mu zabrániť vzniku protestantskej reformácie.",
-        "patronage": "Lyon (Francúzsko)",
+        "patronage": "n/u",
         "main_shrine": "Bazilika svätého Jána v Lateráne (Rím, Taliansko)"
     },
     "CouncilOfTrent_628": {
         "subject": "Tridentský koncil",
         "places": "Rím (Taliansko)",
-        "place_of_death": "Lyon (Francúzsko)",
-        "place_of_birth": "Lyon (Francúzsko)",
-        "place_of_burial": "Lyon (Francúzsko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Tridentský koncil (1545-1563) bol 19. ekumenický koncil Katolíckej cirkvi. Zvolaný pápežom Pavlom III. na boj proti protestantskej reformácii, koncil sa zaoberal vnútornou reformou Cirkvi a definíciou katolíckej doktríny v opozícii voči protestantským tézam. Medzi najdôležitejšie rozhodnutia patrilo potvrdenie platnosti tradície a Písma ako zdrojov božského zjavenia a opätovné potvrdenie katolíckej doktríny o milosti, predurčení a ospravedlnení. Koncil mal tiež významný vplyv na náboženský a kultúrny život tej doby, podporujúc reformu rehoľných rádov a vytváranie nových inštitúcií na vzdelávanie kléru.",
-        "patronage": "Lyon (Francúzsko)",
+        "patronage": "n/u",
         "main_shrine": "Katedrála svätého Vigília (Trento, Taliansko)"
     },
     "FirstVaticanCouncil_629": {
         "subject": "Prvý vatikánsky koncil",
         "places": "Rím (Taliansko)",
-        "place_of_death": "n.d.",
-        "place_of_birth": "n.d.",
-        "place_of_burial": "n.d.",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Prvý vatikánsky koncil (1869-1870) bol dvadsiatym ekumenickým koncilom Katolíckej cirkvi, zvolaný pápežom Piom IX. Bol zameraný hlavne na odpoveď na výzvy racionalizmu, liberalizmu a materializmu. Medzi jeho najvýznamnejšie dekréty patrila definícia dogmy o pápežskej neomylnosti, ktorá tvrdí, že pápež je neomylný, keď ex cathedra vyhlasuje doktrínu viery alebo morálky, ktorú má veriť celá Cirkev. Koncil bol prerušený kvôli dobytiu Ríma a koncu Pápežského štátu a nikdy nebol oficiálne uzavretý, čo zanechalo mnoho otázok vnútornej reformy nevyriešených.",
-        "patronage": "n.d.",
+        "patronage": "n/u",
         "main_shrine": "Bazilika svätého Petra vo Vatikáne (Vatikán)"
     },
     "SecondVaticanCouncil_630": {
         "subject": "Druhý vatikánsky koncil",
         "places": "Rím (Taliansko)",
-        "place_of_death": "n.d.",
-        "place_of_birth": "n.d.",
-        "place_of_burial": "n.d.",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "Druhý vatikánsky koncil (1962-1965) bol dvadsiatym prvým ekumenickým koncilom Katolíckej cirkvi, zvolaným pápežom Jánom XXIII. Bol to koncil reformy, ktorý sa zaoberal aktualizáciou Cirkvi, aby bola vhodnejšia pre potreby 20. storočia. Medzi jeho najdôležitejšie dokumenty patrili konštitúcia o Cirkvi Lumen Gentium, konštitúcia o liturgii Sacrosanctum Concilium a vyhlásenie o vzťahoch s nekresťanskými náboženstvami Nostra Aetate. Koncil mal tiež významný vplyv na náboženský život a kultúru tej doby, podporujúc reformu rehoľných rádov a vytváranie nových inštitúcií pre formáciu kňazov.",
-        "patronage": "n.d.",
+        "patronage": "n/u",
         "main_shrine": "Bazilika svätého Petra vo Vatikáne (Vatikán)"
     },
     "EdictSerdica_631": {
-        "subject": "",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
-        "notes": "",
-        "patronage": "",
-        "main_shrine": ""
+        "subject": "Edikt zo Serdiky",
+        "places": "Sofia (Bulharsko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
+        "notes": "Edikt zo Serdiky, vydaný 30. apríla 311, bol dekrétom o náboženskej tolerancii vydaným Galeriom, východným rímskym cisárom, ktorý ukončil prenasledovanie kresťanov začaté Diokleciánom v roku 303. Edikt umožňoval kresťanom zhromažďovať sa a vlastniť kostoly a cintoríny, pokiaľ nenarušovali verejný poriadok. Stále však platil zákaz vyznávať kresťanskú vieru a stavať nové kostoly. Tolerancia umožnila kresťanom vystúpiť ako organizovaná komunita a zúčastňovať sa na verejnom živote. Edikt bol dôležitým krokom k konštantínskej mierovej dohode z roku 313, ktorá urobila kresťanstvo legálnym náboženstvom v Rímskej ríši.",
+        "patronage": "n/u",
+        "main_shrine": "n/u"
     },
     "EdictMilan_632": {
-        "subject": "",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
-        "notes": "",
-        "patronage": "",
-        "main_shrine": ""
+        "subject": "Edikt z Milána",
+        "places": "Mediolanum (dnešné Miláno, Taliansko)",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
+        "notes": "Edikt z Milána, podpísaný 13. júna 313 Konštantínom I. a Liciniom, bol cisárskym dekrétom, ktorý urobil kresťanstvo legálnym náboženstvom v Rímskej ríši. Edikt uznal slobodu uctievania a súkromné vlastníctvo kostolov, čo umožnilo kresťanom vyznávať svoju vieru bez prenasledovania. Konštantínska mierová dohoda predstavovala významnú zmenu v cisárskej politike, pretože po prvýkrát rímsky cisár uznal platnosť kresťanského náboženstva. Edikt mal okamžitý dopad na náboženský a spoločenský život ríše, umožňujúc kresťanom stavať kostoly a cintoríny a zúčastňovať sa na verejnom živote.",
+        "patronage": "n/u",
+        "main_shrine": "n/u"
     },
     "CouncilSardica_633": {
         "subject": "",
         "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "",
-        "patronage": "",
+        "patronage": "n/u",
         "main_shrine": ""
     },
     "CouncilJerusalem_634": {
         "subject": "",
         "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "place_of_death": "n/u",
+        "place_of_birth": "n/u",
+        "place_of_burial": "n/u",
         "notes": "",
-        "patronage": "",
+        "patronage": "n/u",
         "main_shrine": ""
     }
 }
