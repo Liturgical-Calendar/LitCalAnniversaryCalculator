@@ -3920,33 +3920,33 @@
         "main_shrine": "St. Peter's Basilica in Vatican City (Vatican City)"
     },
     "EdictSerdica_631": {
-        "subject": "",
-        "places": "",
+        "subject": "Edict of Serdica",
+        "places": "Sofia (Bulgaria)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
-        "notes": "",
+        "notes": "The Edict of Serdica, issued on April 30, 311, was a decree of religious tolerance enacted by Galerius, the Roman Emperor of the East, which ended the persecutions against Christians initiated by Diocletian in 303. The edict allowed Christians to gather and own churches and cemeteries, provided they did not disturb public order. However, the ban on professing the Christian faith and building new churches was still in effect. The tolerance allowed Christians to emerge as an organized community and participate in public life. The edict was an important step towards the Constantinian peace of 313, which made Christianity a lawful religion in the Roman Empire.",
         "patronage": "N/A",
         "main_shrine": "N/A"
     },
     "EdictMilan_632": {
-        "subject": "",
-        "places": "",
+        "subject": "Edict of Milan",
+        "places": "Mediolanum (present-day Milan, Italy)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
-        "notes": "",
+        "notes": "The Edict of Milan, signed on June 13, 313, by Constantine I and Licinius, was an imperial decree that made Christianity a lawful religion in the Roman Empire. The edict recognized freedom of worship and private ownership of churches, allowing Christians to profess their faith without persecution. The Constantinian peace represented a significant change in imperial policy, as for the first time a Roman emperor recognized the validity of the Christian religion. The edict had an immediate impact on the religious and social life of the Empire, allowing Christians to build churches and cemeteries and participate in public life.",
         "patronage": "N/A",
         "main_shrine": "N/A"
     },
     "CouncilSardica_633": {
-        "subject": "",
-        "places": "",
+        "subject": "Council of Sardica",
+        "places": "Sofia (Bulgaria)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
-        "notes": "",
+        "notes": "The Council of Sardica, held in 343-344, was convened by Constans and Constantius II in an attempt to resolve disputes between the Arians and the Nicenes. Held in the city of Serdica (present-day Sofia, Bulgaria), it was an attempt to establish common ground between the two Christian factions that had divided over controversies regarding the nature of Christ. Despite hopes for reconciliation, the council ended unsuccessfully, as the Arian bishops withdrew and held a separate council in Philippopolis (modern-day Plovdiv, Bulgaria). However, the Council of Sardica is important for attempting to establish a form of appeal to the Bishop of Rome, thus anticipating papal primacy. This council emphasized the importance of the unity of the Church and the Christian faith, although the divisions between the two factions remained unresolved for many years.",
         "patronage": "N/A",
-        "main_shrine": ""
+        "main_shrine": "Church of Saint Sophia (Sofia, Bulgaria)"
     }
 }
