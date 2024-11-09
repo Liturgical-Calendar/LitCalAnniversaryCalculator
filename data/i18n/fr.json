@@ -3940,23 +3940,23 @@
         "main_shrine": "N/D"
     },
     "CouncilSardica_633": {
-        "subject": "",
-        "places": "",
+        "subject": "Concile de Sardique",
+        "places": "Sofia (Bulgarie)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "Le Concile de Sardique, tenu en 343-344, fut convoqué par Constance et Constance II dans le but de résoudre les disputes entre les ariens et les nicéens. Tenu dans la ville de Serdica (actuelle Sofia, Bulgarie), il fut une tentative d'établir un terrain d'entente entre les deux factions chrétiennes qui s'étaient divisées en raison des controverses sur la nature du Christ. Malgré les espoirs de réconciliation, le concile se termina sans succès, car les évêques ariens se retirèrent et tinrent un concile séparé à Philippopolis (aujourd'hui Plovdiv, Bulgarie). Cependant, le Concile de Sardique est important pour avoir tenté d'établir une forme d'appel à l'évêque de Rome, anticipant ainsi la primauté papale. Ce concile souligna l'importance de l'unité de l'Église et de la foi chrétienne, même si les divisions entre les deux factions restèrent non résolues pendant de nombreuses années.",
         "patronage": "N/D",
         "main_shrine": "Église Sainte-Sophie (Sofia, Bulgarie)"
     },
     "CouncilJerusalem_634": {
-        "subject": "",
-        "places": "",
+        "subject": "Concile de Jérusalem",
+        "places": "Jérusalem (Israël / Palestine)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
         "notes": "Le Concile de Sardique, tenu en 343-344, fut convoqué par Constance et Constance II dans le but de résoudre les disputes entre les ariens et les nicéens. Tenu dans la ville de Serdica (actuelle Sofia, Bulgarie), il fut une tentative d'établir un terrain d'entente entre les deux factions chrétiennes qui s'étaient divisées en raison des controverses sur la nature du Christ. Malgré les espoirs de réconciliation, le concile se conclut sans succès, car les évêques ariens se retirèrent et tinrent un concile séparé à Philippopolis (aujourd'hui Plovdiv, Bulgarie). Cependant, le Concile de Sardique est important pour avoir tenté d'établir une forme d'appel à l'évêque de Rome, anticipant ainsi la primauté papale. Ce concile souligna l'importance de l'unité de l'Église et de la foi chrétienne, même si les divisions entre les deux factions restèrent non résolues pendant de nombreuses années.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Salle de la Dernière Cène ou Maison de Jean Marc (Jérusalem, Israël)"
     }
 }

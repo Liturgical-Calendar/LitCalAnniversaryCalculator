@@ -3940,23 +3940,23 @@
         "main_shrine": "N/A"
     },
     "CouncilSardica_633": {
-        "subject": "",
-        "places": "",
+        "subject": "Council of Sardica",
+        "places": "Sofia (Bulgaria)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
-        "notes": "",
+        "notes": "The Council of Sardica, held in 343-344, was convened by Constans and Constantius II in an attempt to resolve the disputes between the Arians and the Nicenes. Held in the city of Serdica (now Sofia, Bulgaria), it was an attempt to establish common ground between the two Christian factions that had split due to controversies over the nature of Christ. Despite hopes for reconciliation, the council ended unsuccessfully, as the Arian bishops withdrew and held a separate council in Philippopolis (modern Plovdiv, Bulgaria). However, the Council of Sardica is important for attempting to establish a form of appeal to the Bishop of Rome, thus anticipating papal primacy. This council emphasized the importance of the unity of the Church and the Christian faith, even though the divisions between the two factions remained unresolved for many years.",
         "patronage": "N/A",
         "main_shrine": "Church of Saint Sophia (Sofia, Bulgaria)"
     },
     "CouncilJerusalem_634": {
-        "subject": "",
-        "places": "",
+        "subject": "Council of Jerusalem",
+        "places": "Jerusalem (Israel / Palestine)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "The Council of Sardica, held in 343-344, was convened by Constans and Constantius II in an attempt to resolve disputes between the Arians and the Nicenes. Held in the city of Serdica (present-day Sofia, Bulgaria), it was an attempt to establish common ground between the two Christian factions that had divided over controversies regarding the nature of Christ. Despite hopes for reconciliation, the council ended unsuccessfully, as the Arian bishops withdrew and held a separate council in Philippopolis (modern-day Plovdiv, Bulgaria). However, the Council of Sardica is important for attempting to establish a form of appeal to the Bishop of Rome, thus anticipating papal primacy. This council emphasized the importance of the unity of the Church and the Christian faith, although the divisions between the two factions remained unresolved for many years.",
         "patronage": "N/A",
-        "main_shrine": ""
+        "main_shrine": "Upper Room or House of John Mark (Jerusalem, Israel)"
     }
 }
