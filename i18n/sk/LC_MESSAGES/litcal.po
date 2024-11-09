@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Milan Šalka <salka.milan@googlemail.com>, 2024.
 # "John R. D'Orazio" <priest@johnromanodorazio.com>, 2024.
+# Weblate Admin <admin@example.com>, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-09 11:41+0000\n"
-"PO-Revision-Date: 2024-11-08 14:33+0000\n"
-"Last-Translator: \"John R. D'Orazio\" <priest@johnromanodorazio.com>\n"
+"PO-Revision-Date: 2024-11-09 11:48+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Slovak <https://translate.johnromanodorazio.com/projects/"
 "liturgical-calendar/anniversary-calculator/sk/>\n"
 "Language: sk\n"
@@ -254,14 +255,12 @@ msgid "ecumenical council"
 msgstr "ekumenický koncil"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:54
-#, fuzzy
-#| msgid "ecumenical council"
 msgid "church council"
-msgstr "ekumenický koncil"
+msgstr "cirkevná rada"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:55
 msgid "imperial edict"
-msgstr ""
+msgstr "cisársky edikt"
 
 #: src/AnniversaryCalculator/Enums/AnnivType.php:56
 msgid "encyclical"
