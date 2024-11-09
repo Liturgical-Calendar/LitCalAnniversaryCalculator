@@ -3920,33 +3920,33 @@
         "main_shrine": "Bazilika svätého Petra vo Vatikáne (Vatikán)"
     },
     "EdictSerdica_631": {
-        "subject": "",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
-        "notes": "",
-        "patronage": "",
-        "main_shrine": ""
+        "subject": "Edikt zo Serdiky",
+        "places": "Sofia (Bulharsko)",
+        "place_of_death": "Lyon (Francúzsko)",
+        "place_of_birth": "Lyon (Francúzsko)",
+        "place_of_burial": "Lyon (Francúzsko)",
+        "notes": "Edikt zo Serdiky, vydaný 30. apríla 311, bol dekrétom o náboženskej tolerancii vydaným Galeriom, východným rímskym cisárom, ktorý ukončil prenasledovanie kresťanov začaté Diokleciánom v roku 303. Edikt umožňoval kresťanom zhromažďovať sa a vlastniť kostoly a cintoríny, pokiaľ nenarušovali verejný poriadok. Stále však platil zákaz vyznávať kresťanskú vieru a stavať nové kostoly. Tolerancia umožnila kresťanom vystúpiť ako organizovaná komunita a zúčastňovať sa na verejnom živote. Edikt bol dôležitým krokom k konštantínskej mierovej dohode z roku 313, ktorá urobila kresťanstvo legálnym náboženstvom v Rímskej ríši.",
+        "patronage": "Lyon (Francúzsko)",
+        "main_shrine": "Lyon (Francúzsko)"
     },
     "EdictMilan_632": {
-        "subject": "",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
-        "notes": "",
-        "patronage": "",
-        "main_shrine": ""
+        "subject": "Edikt z Milána",
+        "places": "Mediolanum (dnešné Miláno, Taliansko)",
+        "place_of_death": "Lyon (Francúzsko)",
+        "place_of_birth": "Lyon (Francúzsko)",
+        "place_of_burial": "Lyon (Francúzsko)",
+        "notes": "Edikt z Milána, podpísaný 13. júna 313 Konštantínom I. a Liciniom, bol cisárskym dekrétom, ktorý urobil kresťanstvo legálnym náboženstvom v Rímskej ríši. Edikt uznal slobodu uctievania a súkromné vlastníctvo kostolov, čo umožnilo kresťanom vyznávať svoju vieru bez prenasledovania. Konštantínska mierová dohoda predstavovala významnú zmenu v cisárskej politike, pretože po prvýkrát rímsky cisár uznal platnosť kresťanského náboženstva. Edikt mal okamžitý dopad na náboženský a spoločenský život ríše, umožňujúc kresťanom stavať kostoly a cintoríny a zúčastňovať sa na verejnom živote.",
+        "patronage": "Lyon (Francúzsko)",
+        "main_shrine": "Lyon (Francúzsko)"
     },
     "CouncilSardica_633": {
-        "subject": "",
-        "places": "",
-        "place_of_death": "",
-        "place_of_birth": "",
-        "place_of_burial": "",
-        "notes": "",
-        "patronage": "",
-        "main_shrine": ""
+        "subject": "Koncil v Sardike",
+        "places": "Sofia (Bulharsko)",
+        "place_of_death": "Lyon (Francúzsko)",
+        "place_of_birth": "Lyon (Francúzsko)",
+        "place_of_burial": "Koncil v Sardike",
+        "notes": "Sardický koncil, ktorý sa konal v rokoch 343-344, bol zvolaný Konstantom a Konštantínom II. v snahe vyriešiť spory medzi ariánmi a nicejskými. Konal sa v meste Serdica (dnešná Sofia, Bulharsko) a bol pokusom o nájdenie spoločného základu medzi dvoma kresťanskými frakciami, ktoré sa rozdelili kvôli sporom o Kristovu povahu. Napriek nádejam na zmierenie sa koncil skončil neúspešne, pretože ariánski biskupi sa stiahli a usporiadali samostatný koncil vo Filipopoli (dnešný Plovdiv, Bulharsko). Napriek tomu je Sardický koncil dôležitý pre pokus o zavedenie formy odvolania k rímskemu biskupovi, čím predznamenal pápežský primát. Tento koncil zdôraznil dôležitosť jednoty Cirkvi a kresťanskej viery, aj keď rozdelenia medzi dvoma frakciami zostali nevyriešené po mnoho rokov.",
+        "patronage": "Koncil v Sardike",
+        "main_shrine": "Kostol svätej Sofie (Sofia, Bulharsko)"
     }
 }
