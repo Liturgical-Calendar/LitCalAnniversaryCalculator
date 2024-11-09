@@ -3940,23 +3940,23 @@
         "main_shrine": "n/u"
     },
     "CouncilSardica_633": {
-        "subject": "",
-        "places": "",
+        "subject": "Sardický koncil",
+        "places": "Sofia (Bulharsko)",
         "place_of_death": "n/u",
         "place_of_birth": "n/u",
         "place_of_burial": "n/u",
-        "notes": "",
+        "notes": "Sardický koncil, ktorý sa konal v rokoch 343-344, bol zvolaný Konštantom a Konštantínom II. v snahe vyriešiť spory medzi ariánmi a nicejskými. Konal sa v meste Serdica (dnešná Sofia, Bulharsko) a bol pokusom o nájdenie spoločného základu medzi dvoma kresťanskými frakciami, ktoré sa rozdelili kvôli sporom o Kristovu povahu. Napriek nádejam na zmierenie sa koncil skončil neúspešne, pretože ariánski biskupi sa stiahli a usporiadali samostatný koncil vo Filipopoli (dnešný Plovdiv, Bulharsko). Napriek tomu je Sardický koncil dôležitý pre pokus o zavedenie formy odvolania k rímskemu biskupovi, čím predznamenal pápežský primát. Tento koncil zdôraznil dôležitosť jednoty Cirkvi a kresťanskej viery, aj keď rozdelenia medzi dvoma frakciami zostali nevyriešené po mnoho rokov.",
         "patronage": "n/u",
-        "main_shrine": ""
+        "main_shrine": "Kostol svätej Sofie (Sofia, Bulharsko)"
     },
     "CouncilJerusalem_634": {
-        "subject": "",
-        "places": "",
+        "subject": "Jeruzalemský koncil",
+        "places": "Jeruzalem (Izrael / Palestína)",
         "place_of_death": "n/u",
         "place_of_birth": "n/u",
         "place_of_burial": "n/u",
-        "notes": "",
+        "notes": "Jeruzalemský koncil (konaný medzi rokmi 48 a 50 n.l.) bol zásadným stretnutím pre ranú Cirkev, zvolaným na riešenie debaty o potrebe, aby pohania konvertovaní na kresťanstvo dodržiavali Mojžišov zákon. Apoštoli a starší sa zišli, aby prediskutovali túto otázku, pričom apoštol Peter zdôraznil, že Boh už prejavil prijatie pohanov, keď im udelil Ducha Svätého bez dodržiavania zákona. Nakoniec, s príspevkom Jakuba, bolo rozhodnuté, že konvertovaní pohania nemusia byť zaťažení celým Mojžišovým zákonom, ale mali by sa zdržať len niektorých konkrétnych praktík, ako je konzumácia krvi, mäsa zo zvierat uškrtených alebo obetovaných modlám, a nelegitímnych zväzkov. Tento koncil bol kľúčový pre rozšírenie kresťanstva za židovské hranice, čím stanovil precedens pre inkluzívnosť a prispôsobivosť kresťanskej viery rôznym kultúram.",
         "patronage": "n/u",
-        "main_shrine": ""
+        "main_shrine": "Sieň Poslednej večere alebo Dom Jána Marka (Jeruzalem, Izrael)"
     }
 }
