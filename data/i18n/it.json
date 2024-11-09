@@ -3948,5 +3948,15 @@
         "notes": "Il Concilio di Sardica, tenutosi nel 343-344, fu convocato da Costante e Costanzo II nel tentativo di risolvere le dispute tra gli ariani e i niceni. Svolto nella città di Serdica (attuale Sofia, Bulgaria), fu un tentativo di stabilire un terreno comune tra le due fazioni cristiane che si erano divise a causa delle controversie sulla natura di Cristo. Nonostante le speranze di riconciliazione, il concilio si concluse senza successo, poiché i vescovi ariani si ritirarono e tennero un concilio separato a Filippopoli (odierna Plovdiv, Bulgaria). Tuttavia, il Concilio di Sardica è importante per aver tentato di stabilire una forma di appello al vescovo di Roma, anticipando così il primato papale. Questo concilio sottolineò l'importanza dell'unità della Chiesa e della fede cristiana, anche se le divisioni tra le due fazioni rimasero irrisolte per molti anni.",
         "patronage": "N/A",
         "main_shrine": "Chiesa di Santa Sofia (Sofia, Bulgaria)"
+    },
+    "CouncilJerusalem_634": {
+        "subject": "Concilio di Gerusalemme",
+        "places": "Gerusalemme (Israele / Palestina)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Concilio di Gerusalemme (tenutosi tra il 48 ed il 50 d.C.) fu un incontro fondamentale per la Chiesa primitiva, convocato per affrontare il dibattito sulla necessità per i gentili convertiti al cristianesimo di seguire la legge mosaica. Gli apostoli e gli anziani si riunirono per discutere la questione, con l'apostolo Pietro che sottolineò come Dio avesse già mostrato accoglienza verso i gentili, concedendo loro lo Spirito Santo senza l'osservanza della legge. Alla fine, con il contributo di Giacomo, fu deciso che i convertiti gentili non dovevano essere gravati con l'intera legge mosaica ma dovevano astenersi solo da alcune pratiche specifiche, come il consumo di sangue, carne di animali strangolati o offerti agli idoli, e dalle unioni illegittime. Questo concilio fu cruciale per l'espansione del cristianesimo oltre l'ambito ebraico, stabilendo un precedente per l'inclusività e l'adattabilità della fede cristiana alle diverse culture.",
+        "patronage": "N/A",
+        "main_shrine": "Sala dell'Ultima Cena oppure Casa di Giovanni Marco (Gerusalemme, Israele)"
     }
 }

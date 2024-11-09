@@ -5151,6 +5151,19 @@
             "memorial_day": null,
             "area": "world",
             "calendar": "non_liturgical_event"
+        },
+        {
+            "event_idx": 634,
+            "event_key": "CouncilJerusalem",
+            "anniversary": "church_council",
+            "event_date": "0048-01-01",
+            "event_year": 48,
+            "event_month": null,
+            "event_day": null,
+            "memorial_month": null,
+            "memorial_day": null,
+            "area": "world",
+            "calendar": "non_liturgical_event"
         }
     ]
 }
