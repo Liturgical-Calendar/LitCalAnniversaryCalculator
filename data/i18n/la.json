@@ -3918,5 +3918,35 @@
         "notes": "Concilium Vaticanum II (1962-1965) fuit vicesimum primum concilium oecumenicum Ecclesiae catholicae, convocatum a papa Ioanne XXIII. Fuit concilium reformationis, quod Ecclesiam adaequare curavit ut aptior esset necessitatibus saeculi XX. Inter eius documenta maximi momenti fuerunt constitutio de Ecclesia Lumen Gentium, constitutio de liturgia Sacrosanctum Concilium et declaratio de relationibus cum religionibus non christianis Nostra Aetate. Concilium etiam magnum momentum habuit in vita religiosa et cultura illius temporis, promovens reformationem ordinum religiosorum et creationem novarum institutionum ad clerum formandum.",
         "patronage": "non pertinet",
         "main_shrine": "Basilica Sancti Petri in Vaticano (Civitas Vaticana)"
+    },
+    "EdictSerdica_631": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "non pertinet",
+        "place_of_birth": "non pertinet",
+        "place_of_burial": "non pertinet",
+        "notes": "",
+        "patronage": "non pertinet",
+        "main_shrine": "non pertinet"
+    },
+    "EdictMilan_632": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "non pertinet",
+        "place_of_birth": "non pertinet",
+        "place_of_burial": "non pertinet",
+        "notes": "",
+        "patronage": "non pertinet",
+        "main_shrine": "non pertinet"
+    },
+    "CouncilSardica_633": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "non pertinet",
+        "place_of_birth": "non pertinet",
+        "place_of_burial": "non pertinet",
+        "notes": "",
+        "patronage": "non pertinet",
+        "main_shrine": ""
     }
 }

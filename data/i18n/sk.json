@@ -3918,5 +3918,35 @@
         "notes": "Druhý vatikánsky koncil (1962-1965) bol dvadsiatym prvým ekumenickým koncilom Katolíckej cirkvi, zvolaným pápežom Jánom XXIII. Bol to koncil reformy, ktorý sa zaoberal aktualizáciou Cirkvi, aby bola vhodnejšia pre potreby 20. storočia. Medzi jeho najdôležitejšie dokumenty patrili konštitúcia o Cirkvi Lumen Gentium, konštitúcia o liturgii Sacrosanctum Concilium a vyhlásenie o vzťahoch s nekresťanskými náboženstvami Nostra Aetate. Koncil mal tiež významný vplyv na náboženský život a kultúru tej doby, podporujúc reformu rehoľných rádov a vytváranie nových inštitúcií pre formáciu kňazov.",
         "patronage": "n.d.",
         "main_shrine": "Bazilika svätého Petra vo Vatikáne (Vatikán)"
+    },
+    "EdictSerdica_631": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "EdictMilan_632": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "CouncilSardica_633": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
     }
 }

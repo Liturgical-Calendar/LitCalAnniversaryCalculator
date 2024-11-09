@@ -25,6 +25,6 @@ const checkObjectKeys = async (lang = '') => {
     //fs.writeFile(`data/i18n/${lang}.json`, JSON.stringify(langObj, null, 4), 'utf8');
 }
 
-['fr','es','de','pt','la'].forEach(lang => {
+['de', 'en', 'es', 'fr', 'la', 'nl', 'pt', 'sk'].forEach(lang => {
     checkObjectKeys(lang);
 });

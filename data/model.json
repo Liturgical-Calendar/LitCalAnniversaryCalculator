@@ -3918,5 +3918,35 @@
         "notes": "",
         "patronage": "",
         "main_shrine": ""
+    },
+    "EdictSerdica_631": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "EdictMilan_632": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
+    },
+    "CouncilSardica_633": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "",
+        "place_of_birth": "",
+        "place_of_burial": "",
+        "notes": "",
+        "patronage": "",
+        "main_shrine": ""
     }
 }

@@ -3918,5 +3918,35 @@
         "notes": "The Second Vatican Council (1962-1965) was the twenty-first ecumenical council of the Catholic Church, convened by Pope John XXIII. It was a reform council, aimed at updating the Church to make it more suitable for the needs of the 20th century. Among its most important documents were the constitution on the Church Lumen Gentium, the constitution on the liturgy Sacrosanctum Concilium, and the declaration on relations with non-Christian religions Nostra Aetate. The council also had a significant impact on the religious life and culture of the time, promoting the reform of religious orders and the creation of new institutions for clergy formation.",
         "patronage": "N/A",
         "main_shrine": "St. Peter's Basilica in Vatican City (Vatican City)"
+    },
+    "EdictSerdica_631": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "",
+        "patronage": "N/A",
+        "main_shrine": "N/A"
+    },
+    "EdictMilan_632": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "",
+        "patronage": "N/A",
+        "main_shrine": "N/A"
+    },
+    "CouncilSardica_633": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "",
+        "patronage": "N/A",
+        "main_shrine": ""
     }
 }

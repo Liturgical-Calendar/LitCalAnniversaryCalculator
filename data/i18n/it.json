@@ -3918,5 +3918,35 @@
         "notes": "Il Concilio Vaticano II (1962-1965) fu il ventunesimo concilio ecumenico della Chiesa cattolica, convocato da papa Giovanni XXIII. Fu un concilio di riforma, che si occupò di aggiornare la Chiesa per renderla più adatta alle esigenze del XX secolo. Tra i suoi documenti più importanti, vi furono la costituzione sulla Chiesa Lumen Gentium, la costituzione sulla liturgia Sacrosanctum Concilium e la dichiarazione sui rapporti con le religioni non cristiane Nostra Aetate. Il concilio produsse anche un importante impatto sulla vita religiosa e sulla cultura dell'epoca, promuovendo la riforma degli ordini religiosi e la creazione di nuove istituzioni per la formazione del clero.",
         "patronage": "N/A",
         "main_shrine": "Basilica di San Pietro in Vaticano (Città del Vaticano)"
+    },
+    "EdictSerdica_631": {
+        "subject": "Editto di Serdica",
+        "places": "Sofia (Bulgaria)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "L'Editto di Serdica, emesso il 30 aprile 311, fu un decreto di tolleranza religiosa emanato da Galerio, imperatore romano d'Oriente, che mise fine alle persecuzioni contro i cristiani iniziate da Diocleziano nel 303. L'editto consentiva ai cristiani di riunirsi e di possedere chiese e cimiteri, purché non turbassero l'ordine pubblico. Era però ancora valido il divieto di professare la fede cristiana e di costruire nuove chiese. La tolleranza permise ai cristiani di emergere come una comunità organizzata e di partecipare alla vita pubblica. L'editto fu un passo importante verso la pace costantiniana del 313, che rese il cristianesimo una religione lecita nell'Impero Romano.",
+        "patronage": "N/A",
+        "main_shrine": "N/A"
+    },
+    "EdictMilan_632": {
+        "subject": "Editto di Milano",
+        "places": "Mediolanum (attuale Milano, Italia)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "L'Editto di Milano, firmato il 13 giugno 313 da Costantino I e Licinio, fu un decreto imperiale che rese il cristianesimo una religione lecita nell'Impero Romano. L'editto riconobbe la libertà di culto e la proprietà privata delle chiese, permettendo ai cristiani di professare la loro fede senza persecuzioni. La pace costantiniana rappresentò un cambiamento significativo nella politica imperiale, poiché per la prima volta un imperatore romano riconobbe la validità della religione cristiana. L'editto ebbe un impatto immediato sulla vita religiosa e sociale dell'Impero, permettendo ai cristiani di costruire chiese e cimiteri e di partecipare alla vita pubblica.",
+        "patronage": "N/A",
+        "main_shrine": "N/A"
+    },
+    "CouncilSardica_633": {
+        "subject": "Concilio di Sardica",
+        "places": "Sofia (Bulgaria)",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
+        "notes": "Il Concilio di Sardica, tenutosi nel 343-344, fu convocato da Costante e Costanzo II nel tentativo di risolvere le dispute tra gli ariani e i niceni. Svolto nella città di Serdica (attuale Sofia, Bulgaria), fu un tentativo di stabilire un terreno comune tra le due fazioni cristiane che si erano divise a causa delle controversie sulla natura di Cristo. Nonostante le speranze di riconciliazione, il concilio si concluse senza successo, poiché i vescovi ariani si ritirarono e tennero un concilio separato a Filippopoli (odierna Plovdiv, Bulgaria). Tuttavia, il Concilio di Sardica è importante per aver tentato di stabilire una forma di appello al vescovo di Roma, anticipando così il primato papale. Questo concilio sottolineò l'importanza dell'unità della Chiesa e della fede cristiana, anche se le divisioni tra le due fazioni rimasero irrisolte per molti anni.",
+        "patronage": "N/A",
+        "main_shrine": "Chiesa di Santa Sofia (Sofia, Bulgaria)"
     }
 }

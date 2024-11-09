@@ -3918,5 +3918,35 @@
         "notes": "Das Zweite Vatikanische Konzil (1962-1965) war das einundzwanzigste ökumenische Konzil der katholischen Kirche, einberufen von Papst Johannes XXIII. Es war ein Reformkonzil, das sich mit der Aktualisierung der Kirche befasste, um sie den Anforderungen des 20. Jahrhunderts anzupassen. Zu seinen wichtigsten Dokumenten gehörten die Kirchenkonstitution Lumen Gentium, die Liturgiekonstitution Sacrosanctum Concilium und die Erklärung über die Beziehungen zu nichtchristlichen Religionen Nostra Aetate. Das Konzil hatte auch einen bedeutenden Einfluss auf das religiöse Leben und die Kultur der Zeit, indem es die Reform der Ordensgemeinschaften förderte und neue Institutionen für die Ausbildung des Klerus schuf.",
         "patronage": "N/V",
         "main_shrine": "Petersbasilika im Vatikan (Vatikanstadt)"
+    },
+    "EdictSerdica_631": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/V",
+        "place_of_birth": "N/V",
+        "place_of_burial": "N/V",
+        "notes": "",
+        "patronage": "N/V",
+        "main_shrine": "N/V"
+    },
+    "EdictMilan_632": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/V",
+        "place_of_birth": "N/V",
+        "place_of_burial": "N/V",
+        "notes": "",
+        "patronage": "N/V",
+        "main_shrine": "N/V"
+    },
+    "CouncilSardica_633": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/V",
+        "place_of_birth": "N/V",
+        "place_of_burial": "N/V",
+        "notes": "",
+        "patronage": "N/V",
+        "main_shrine": ""
     }
 }

@@ -3918,5 +3918,35 @@
         "notes": "O Concílio Vaticano II (1962-1965) foi o vigésimo primeiro concílio ecumênico da Igreja Católica, convocado pelo Papa João XXIII. Foi um concílio de reforma, que se ocupou de atualizar a Igreja para torná-la mais adequada às necessidades do século XX. Entre seus documentos mais importantes, estavam a constituição sobre a Igreja Lumen Gentium, a constituição sobre a liturgia Sacrosanctum Concilium e a declaração sobre as relações com as religiões não cristãs Nostra Aetate. O concílio também teve um impacto significativo na vida religiosa e na cultura da época, promovendo a reforma das ordens religiosas e a criação de novas instituições para a formação do clero.",
         "patronage": "N/D",
         "main_shrine": "Basílica de São Pedro no Vaticano (Cidade do Vaticano)"
+    },
+    "EdictSerdica_631": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/D",
+        "place_of_birth": "N/D",
+        "place_of_burial": "N/D",
+        "notes": "",
+        "patronage": "N/D",
+        "main_shrine": "N/D"
+    },
+    "EdictMilan_632": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/D",
+        "place_of_birth": "N/D",
+        "place_of_burial": "N/D",
+        "notes": "",
+        "patronage": "N/D",
+        "main_shrine": "N/D"
+    },
+    "CouncilSardica_633": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/D",
+        "place_of_birth": "N/D",
+        "place_of_burial": "N/D",
+        "notes": "",
+        "patronage": "N/D",
+        "main_shrine": ""
     }
 }

@@ -3918,5 +3918,35 @@
         "notes": "Le Concile Vatican II (1962-1965) fut le vingt-et-unième concile œcuménique de l'Église catholique, convoqué par le pape Jean XXIII. Ce fut un concile de réforme, qui s'occupa de mettre à jour l'Église pour la rendre plus adaptée aux besoins du XXe siècle. Parmi ses documents les plus importants, il y eut la constitution sur l'Église Lumen Gentium, la constitution sur la liturgie Sacrosanctum Concilium et la déclaration sur les relations avec les religions non chrétiennes Nostra Aetate. Le concile eut également un impact important sur la vie religieuse et la culture de l'époque, promouvant la réforme des ordres religieux et la création de nouvelles institutions pour la formation du clergé.",
         "patronage": "N/D",
         "main_shrine": "Basilique Saint-Pierre au Vatican (Cité du Vatican)"
+    },
+    "EdictSerdica_631": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/D",
+        "place_of_birth": "N/D",
+        "place_of_burial": "N/D",
+        "notes": "",
+        "patronage": "N/D",
+        "main_shrine": "N/D"
+    },
+    "EdictMilan_632": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/D",
+        "place_of_birth": "N/D",
+        "place_of_burial": "N/D",
+        "notes": "",
+        "patronage": "N/D",
+        "main_shrine": "N/D"
+    },
+    "CouncilSardica_633": {
+        "subject": "",
+        "places": "",
+        "place_of_death": "N/D",
+        "place_of_birth": "N/D",
+        "place_of_burial": "N/D",
+        "notes": "",
+        "patronage": "N/D",
+        "main_shrine": ""
     }
 }
