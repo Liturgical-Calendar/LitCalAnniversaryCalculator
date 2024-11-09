@@ -3920,33 +3920,33 @@
         "main_shrine": "Basilica Sancti Petri in Vaticano (Civitas Vaticana)"
     },
     "EdictSerdica_631": {
-        "subject": "",
-        "places": "",
+        "subject": "Edictum Serdicense",
+        "places": "Serdica (Bulgaria)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
-        "notes": "",
+        "notes": "Edictum Serdicense, die 30 Aprilis 311 emissum, fuit decretum de tolerantia religiosa a Galerio, imperatore Romano Orientis, promulgatum, quod persecutiones in Christianos a Diocletiano anno 303 inceptas finivit. Edictum Christianis permittebat congregari et ecclesias ac coemeteria possidere, dummodo ordinem publicum non turbarent. Tamen adhuc vigebat interdictum de fide Christiana profitenda et de novis ecclesiis aedificandis. Tolerantia Christianis permisit ut communitas ordinata emergerent et in vita publica participarent. Edictum fuit gradus magni momenti ad pacem Constantinianam anni 313, quae Christianismum religionem licitam in Imperio Romano fecit.",
         "patronage": "non pertinet",
         "main_shrine": "non pertinet"
     },
     "EdictMilan_632": {
-        "subject": "",
-        "places": "",
+        "subject": "Edictum Mediolanense",
+        "places": "Mediolanum (hodierna Mediolanum, Italia)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
-        "notes": "",
+        "notes": "Edictum Mediolanense, die 13 Iunii 313 a Constantino I et Licinio signatum, fuit decretum imperiale quod Christianismum religionem licitam in Imperio Romano fecit. Edictum libertatem cultus et proprietatem privatarum ecclesiarum agnovit, Christianis permittens ut fidem suam sine persecutionibus profiterentur. Pax Constantiniana mutationem significantem in politica imperiali repraesentavit, cum primum imperator Romanus validitatem religionis Christianae agnovit. Edictum effectum immediatum in vita religiosa et sociali Imperii habuit, Christianis permittens ut ecclesias et coemeteria aedificarent et in vita publica participarent.",
         "patronage": "non pertinet",
         "main_shrine": "non pertinet"
     },
     "CouncilSardica_633": {
-        "subject": "",
-        "places": "",
+        "subject": "Concilium Sardicense",
+        "places": "Serdica (Bulgaria)",
         "place_of_death": "non pertinet",
         "place_of_birth": "non pertinet",
         "place_of_burial": "non pertinet",
-        "notes": "",
+        "notes": "Concilium Sardicense, anno 343-344 habitum, a Constante et Constantius II convocatum est in conatu componendi controversias inter Arianos et Nicenos. In urbe Serdica (hodierna Sofia, Bulgaria) habitum, fuit conatus ad communem terram inter duas factiones Christianas, quae propter controversias de natura Christi divisae erant, stabiliendam. Quamvis spes reconciliationis essent, concilium sine successu conclusum est, cum episcopi Ariani secesserunt et concilium separatum in Philippopoli (hodierna Plovdiv, Bulgaria) tenuerunt. Nihilominus, Concilium Sardicense est magni momenti quod conatum est formam appellationis ad episcopum Romae stabilire, sic primatum papalem anticipans. Hoc concilium unitatem Ecclesiae et fidei Christianae momentum sublineavit, quamvis divisiones inter duas factiones per multos annos irremissae manserint.",
         "patronage": "non pertinet",
-        "main_shrine": ""
+        "main_shrine": "Ecclesia Sanctae Sophiae (Sofia, Bulgaria)"
     }
 }
