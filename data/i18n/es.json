@@ -3940,23 +3940,23 @@
         "main_shrine": "N/D"
     },
     "CouncilSardica_633": {
-        "subject": "",
-        "places": "",
+        "subject": "Concilio de Sardica",
+        "places": "Sofía (Bulgaria)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
-        "notes": "",
+        "notes": "El Concilio de Sardica, celebrado en 343-344, fue convocado por Constante y Constancio II en un intento de resolver las disputas entre los arrianos y los nicenos. Realizado en la ciudad de Serdica (actual Sofía, Bulgaria), fue un intento de establecer un terreno común entre las dos facciones cristianas que se habían dividido debido a las controversias sobre la naturaleza de Cristo. A pesar de las esperanzas de reconciliación, el concilio concluyó sin éxito, ya que los obispos arrianos se retiraron y celebraron un concilio separado en Filipópolis (actual Plovdiv, Bulgaria). Sin embargo, el Concilio de Sardica es importante por haber intentado establecer una forma de apelación al obispo de Roma, anticipando así el primado papal. Este concilio subrayó la importancia de la unidad de la Iglesia y de la fe cristiana, aunque las divisiones entre las dos facciones permanecieron sin resolver durante muchos años.",
         "patronage": "N/D",
         "main_shrine": "Iglesia de Santa Sofía (Sofía, Bulgaria)"
     },
     "CouncilJerusalem_634": {
-        "subject": "",
-        "places": "",
+        "subject": "Concilio de Jerusalén",
+        "places": "Jerusalén (Israel / Palestina)",
         "place_of_death": "N/D",
         "place_of_birth": "N/D",
         "place_of_burial": "N/D",
         "notes": "El Concilio de Sardica, celebrado en 343-344, fue convocado por Constante y Constancio II en un intento de resolver las disputas entre los arrianos y los nicenos. Celebrado en la ciudad de Serdica (actual Sofía, Bulgaria), fue un intento de establecer un terreno común entre las dos facciones cristianas que se habían dividido debido a las controversias sobre la naturaleza de Cristo. A pesar de las esperanzas de reconciliación, el concilio concluyó sin éxito, ya que los obispos arrianos se retiraron y celebraron un concilio separado en Filipópolis (actual Plovdiv, Bulgaria). Sin embargo, el Concilio de Sardica es importante por haber intentado establecer una forma de apelación al obispo de Roma, anticipando así el primado papal. Este concilio subrayó la importancia de la unidad de la Iglesia y de la fe cristiana, aunque las divisiones entre las dos facciones permanecieron sin resolver durante muchos años.",
         "patronage": "N/D",
-        "main_shrine": ""
+        "main_shrine": "Sala de la Última Cena o Casa de Juan Marcos (Jerusalén, Israel)"
     }
 }
