@@ -203,8 +203,8 @@
         "subject": "Boldogságos Szűz Mária Lourdes-i",
         "places": "",
         "place_of_death": "N/A",
-        "place_of_birth": "",
-        "place_of_burial": "",
+        "place_of_birth": "N/A",
+        "place_of_burial": "N/A",
         "notes": "A Boldogságos Szűz Mária első megjelenése Bernadette-nek. Ez az emléknap Bernadette Soubirous misztikus élményéhez kapcsolódik, aki tizennyolc alkalommal, 1858. február 11. és július 16. között, a Massabielle-barlangban, Lourdes közelében (Franciaország), találkozott a Szűz Máriával. Azt mondta neki, hogy ő a „Szeplőtelen Fogantatás”, és imára és megtérésre hívta az embereket. Az ott, a Szűzanya kérésére emelt szentély zarándoklatok célpontjává vált, különösen a betegek számára.",
         "patronage": "Betegek, szegények, foglyok, csodát keresők",
         "main_shrine": "Lourdes-i Miasszonyunk szentély (Franciaország)"
@@ -307,7 +307,7 @@
         "place_of_burial": "A Tanítványok (vagy Apostolok) temploma az Eleonán, Olajfák hegye (Jeruzsálem, Izrael / Palesztina)",
         "notes": "Ciril (kb. 315 - 387), Jeruzsálem püspöke, drámai módon részt vett korának egyházszakadásaiban: rágalmazták és többször száműzték, de hű maradt a niceai zsinaton (325) kihirdetett tanításhoz. Neki tulajdonítanak néhány híres keresztelési katekézist.",
         "patronage": "teológusok, kateketák, ördögűzők",
-        "main_shrine": ""
+        "main_shrine": "N/A"
     },
     "StJoseph_34": {
         "subject": "Szent József, a Boldogságos Szűz Mária jegyese",
@@ -450,12 +450,12 @@
         "main_shrine": ""
     },
     "StPiusV_49": {
-        "subject": "",
+        "subject": "Szent V. Piusz, pápa",
         "places": "Bosco Marengo (Olaszország); Róma (Olaszország)",
         "place_of_death": "Róma (Olaszország)",
-        "place_of_birth": "",
+        "place_of_birth": "Bosco Marengo, Alessandria (Olaszország)",
         "place_of_burial": "Santa Maria Maggiore-bazilika (Róma, Olaszország)",
-        "notes": "Mihály (született Antonio) Ghislieri (Bosco Marengo, Alessandria, 1504. január 17. - Róma, 1572. május 1.), domonkos, 1566-tól pápa volt. A tridenti zsinat első alkalmazását hajtotta végre, kezdve a római kúriával és az Urbs-szal. Kiadta a Katekizmust (1566), gondozta a Breviárium (1568) és a Misekönyv (1570) reformját. Előmozdította a hit terjesztését Európában és Keleten, és védelmezte azt az oszmán terjeszkedés ellen (Lepanto, 1571. október 7.).",
+        "notes": "Michele (született Antonio) Ghislieri (Bosco Marengo, Alessandria, 1504. január 17. – Róma, 1572. május 1.), domonkos, 1566-tól pápa. Végrehajtotta a tridenti zsinat első alkalmazását, kezdve a római kúriával és Róma városával. Kiadta a katekizmust (1566), gondozta a breviárium (1568) és a misekönyv (1570) reformját. Előmozdította a hit terjesztését Európában és Keleten, és védelmezte azt az oszmán terjeszkedés ellen (Lepanto, 1571. október 7.).",
         "patronage": "domonkos rend",
         "main_shrine": "Santa Maria Maggiore-bazilika (Róma, Olaszország)"
     },
@@ -834,7 +834,7 @@
         "places": "Kármel-hegy (jelenlegi Haifa, Izrael)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
-        "place_of_burial": "",
+        "place_of_burial": "N/A",
         "notes": "A XII. században néhány zarándok visszavonult a palesztinai Kármel-hegyre, ahol Illés harcolt Baál papjai ellen Izrael hűségéért az egyetlen Úrhoz (vö. 1 Kir 18, 20-40). Ott egy Máriának szentelt kontemplatív közösség alakult, aki a feltétel nélküli Istenhez való ragaszkodás mintaképe. Ez a közösség volt a Kármelita Rend és számos világi testvérület eredete, amelyek elterjesztették a Kármel (vagy Kármelhegyi) Szűz tiszteletét. A Kármel Rend Angliában kezdte ünnepelni a \"Kármelhegyi Boldogasszony\" ünnepét a 14. század második felétől minden július 17-én, utalva a lyoni zsinat (1274) utolsó ülésének dátumára, amelyen a Rend jóváhagyást kapott, megmentve ezzel a megszüntetéstől; az ünnepet azzal a céllal hozták létre, hogy megköszönjék Szűz Máriának az összes jótéteményt, amelyet a Rendnek nyújtott, mint védelmező és pártfogó. Később, különösen a 16. században, elsődleges fontosságot kapott a skapuláré, amely a legközvetlenebb ok lett arra, hogy kifejezzék hálájukat és szeretetüket Isten Anyja iránt. Ezért az ünneplést előrehozták július 16-ra, utalva arra a napra, amikor a hagyomány szerint a Szűzanya megjelent Szent Simon Stocknak, és átadta neki a skapulárét (1251). Ez az ünnep gyorsan elterjedt az egész világon, olyannyira, hogy VI. Pál pápa a \"Marialis Cultus\" apostoli buzdításban a \"kezdetben különleges vallási családok által ünnepelt, de ma már az elterjedtségük miatt valóban egyházi ünnepek\" közé sorolja.",
         "patronage": "Karmeliták, a purgatórium lelkei",
         "main_shrine": "\"Stella Maris\" templom a Kármel-hegyen (jelenlegi Haifa, Izrael)"
@@ -1201,7 +1201,7 @@
     },
     "LadySorrows_127": {
         "subject": "Fájdalmas Szűzanya",
-        "places": "",
+        "places": "N/A",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
@@ -1314,10 +1314,10 @@
         "places": "N/A",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
-        "place_of_burial": "",
+        "place_of_burial": "N/A",
         "notes": "Az angyalok tisztelete az egyház korai időszakára nyúlik vissza, és Isten gyengédségét ünnepli, aki minden látható és láthatatlan dolog teremtője, és szellemi lényeket hozott létre, akik kísérik az embert, hogy „minden hívő mellett legyen egy angyal, mint védelmező és pásztor, hogy az életre vezesse” (Nagy Szent Bazil), a gyermekkor (vö. Mt 18, 10) és a halál (vö. Lk 16, 22) között. Az ötödik századig nem volt külön nap az őrangyaloknak szentelve, akiknek ünnepe szeptember 29-re esett, Szent Mihály arkangyal ünnepével egybeesve. Az őrangyalok külön ünnepének szokása Valenciában született 1411-ben, amikor a város védőangyalának ünnepét megalapították. Franciaországban is volt hasonló kezdeményezés. A következő évszázadban az ötlet Spanyolországból Portugáliába, majd Ausztriába és az osztrák befolyás alatt álló olasz régiókba terjedt. Már az 1500-as években megszülettek az első „Őrangyal Társaságok”, amelyek a 1600-as évek elején széles körben elterjedtek, különböző teológiai értekezések (lásd az alábbi bibliográfiát) és különböző vallási rendek, például a Szomaszkai Atyák hatására. A döntő lökést V. Pál pápa adta, aki 1614-ben egy bullában különleges búcsúkat rendelt az őrangyal társaságok tagjainak, akik az Arci Testvérülethez csatlakoztak Rómában, és különleges érdemeket szereztek. A népi jámborság terjedésével párhuzamosan a liturgikus elismerés is megtörtént. V. Piusz pápa 1570-es „Római misekönyvében” négy ünnepet jelöltek ki kifejezetten az angyaloknak, az őrangyaloknak (október 2-án), Gábriel arkangyalnak, Mihály arkangyalnak és Rafael arkangyalnak szentelve. V. Piusz eltörölte, de V. Pál 1608-ban visszaállította az őrangyalok tiszteletére szentelt ünnepet, és kiterjesztette az egyetemes egyházra. X. Kelemen 1670-ben kötelezővé tette az egész latin egyház számára, mindig október 2-án.",
         "patronage": "Gyerekek, utazók, rendőrség",
-        "main_shrine": ""
+        "main_shrine": "N/A"
     },
     "StFrancisAssisi_139": {
         "subject": "Szent Ferenc Assisiből",
@@ -1582,7 +1582,7 @@
     "DedicationStsPeterPaul_167": {
         "subject": "Szent Péter és Pál apostolok bazilikáinak felszentelése",
         "places": "Róma (Olaszország)",
-        "place_of_death": "",
+        "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "Péter és Pál vértanúságának helyén emelték – a Vatikáni dombon és az Ostiense úton –, a két bazilika kiemeli a római egyház páratlan méltóságát, az első és az utolsó apostol kettős tanúságtétele révén (vö. Mt 10, 2; 1 Kor 15, 8). Az ünnep dátuma a Szent Péter-bazilika reneszánsz újjáépítése utáni felszentelésének napja (1636. november 18.).",
@@ -1744,7 +1744,7 @@
         "places": "N/A",
         "place_of_death": "Jeruzsálem",
         "place_of_birth": "N/A",
-        "place_of_burial": "",
+        "place_of_burial": "N/A",
         "notes": "István, „hittel és Szentlélekkel teljes” (ApCsel 6, 5), másik hat férfival együtt kiválasztásra kerül, „jó hírű, Lélekkel és bölcsességgel teljes” a korai keresztény közösség szolgálatára (vö. ApCsel 6, 1-6). Az Apostolok Cselekedetei könyvében elmesélik, hogy Istvánt (akinek neve „koronát” jelent) megkövezésre ítélik, amit nyugodt erővel fogad. Az első hiteles tanú, vagyis Krisztus vértanúja, „nyilvánosan megölték és titokban megkoronázták” (Ágoston), szemléli a Feltámadott dicsőségét, hirdeti isteni mivoltát, lelkét rábízza, és imádkozik gyilkosaiért (vö. ApCsel 7, 55-60). Emlékezetét december 26-án a IV. századi úgynevezett szír Breviáriumban és a jeronimiánus Martirológiában (V-VI. század) is megemlítik. A Római Kánon is említi. I. Honorius pápa 628-ban Szent István ereklyéinek egy részét (egy bizánci ezüstládában lévő alkar) adományozta a bobbiói Szent Kolumbán apátságnak. Az ereklyét később, 1217-ben a genovai Szent István apátságnak adományozták. Velencében a Szent István templomban az egész szent testet tisztelik. Konstantinápolyban, Nápolyban, Besançonban, Ravennában... A Nocera Superiore-i Materdomini szentélyben néhány ereklyét később elloptak. Rómában a falakon kívüli Szent Pál bazilikában, egy kar a Sant'Ivo alla Sapienza templomban, egy második kar a San Luigi dei Francesi templomban, egy harmadik kar a Santa Cecilia in Trastevere bazilikában; továbbá szinte az egész test a falakon kívüli Szent Lőrinc bazilikában. Ezen ereklyék egy részét Minorcára, a Baleár-szigetekre vitték. A Szent István ereklyék átszállítása (koponyatöredék) Putignano (Bari) városába is dokumentált, amelyet a monopoli apátság hajtott végre. A Szent István ereklyék felfedezéséhez kapcsolódik a concordiai Sagittaria második katedrálisának felszentelése is. Most a Szent koponyája a caorlei dóm múzeumában van megőrizve, ahová valószínűleg a közeli Concordia Sagittaria lakói szállították, mivel a caorlei lagúnába menekültek.",
         "patronage": "Diakónusok, kőművesek, lovak",
         "main_shrine": ""
@@ -1793,7 +1793,7 @@
         "subject": "Legszentebb Jézus Neve",
         "places": "N/A",
         "place_of_death": "N/A",
-        "place_of_birth": "",
+        "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "A Jézus név tisztelete a késő középkorban alakult ki, a kolduló rendeknek köszönhetően, különösen Sienai Szent Bernardin (XV. sz.) prédikációi révén, aki elterjesztette a Jézus nevének első három görög betűjéből álló monogramot (IHS), bár ezt a latin átírásban a Iesus Hominum Salvator kifejezés rövidítéseként értelmezték. A liturgikus ünneplést a XVI. században vezették be, és XII. Ince 1722. július 11-i rendeletével az egész Egyházra kiterjesztették. Ez a tisztelet a Szentírásban gyökerezik. A Jézus nevet az Atya adta az emberré lett Fiúnak (vö. Mt 1, 21), amely – a bibliai stílus szerint – küldetését előrevetíti: jelentése „Isten megment”. „Jézus nevében” tesznek csodákat a tanítványok (ApCsel 4, 10) és szenvednek üldöztetést (ApCsel 5, 41). Jézus maga bátorítja a tanítványokat, hogy az ő nevében imádkozzanak (Jn 14, 13-14). Az első keresztény közösség már tudatában van annak, hogy „az ég alatt nincs más név, amelyet az embereknek adtak, amelyben meg kellene menekülnünk” (ApCsel 4, 12). A filippiekhez írt levél himnuszában így hangzik: „… Isten felmagasztalta őt, és megadta neki a nevet, amely minden név fölött van, hogy Jézus nevére minden térd meghajoljon a mennyben, a földön és a föld alatt” (Fil 2, 9-10).",
         "patronage": "Káromkodások ellen",
@@ -2013,7 +2013,7 @@
         "subject": "Szent Titusz, püspök",
         "places": "Kréta",
         "place_of_death": "",
-        "place_of_birth": "",
+        "place_of_birth": "N/A",
         "place_of_burial": "Gortina (Kréta)",
         "notes": "Emléknap Szent Timóteussal közösen. Titusz, aki görög és pogány származású, az apostol „társa és munkatársa” (2 Kor 8, 23), különösen Korinthusban. Három páli levél (úgynevezett „pásztori levelek”) szól a két tanítványhoz, akik a hagyomány szerint egyikük Efezusban, másikuk Krétán tevékenykedett. 69 után haltak meg. Pontosan nem tudni mikor.",
         "patronage": "Püspökök, Kréta",
@@ -2111,7 +2111,7 @@
     },
     "SevenHolyFounders_240": {
         "subject": "",
-        "places": "",
+        "places": "N/A",
         "place_of_death": "Montesenario (Olaszország)",
         "place_of_birth": "Firenze (Olaszország)",
         "place_of_burial": "Firenze (Olaszország)",
@@ -2131,7 +2131,7 @@
     },
     "StJohnGod_246": {
         "subject": "Szent Isten János, szerzetes",
-        "places": "",
+        "places": "N/A",
         "place_of_death": "Granada (Spanyolország)",
         "place_of_birth": "Montemor-o-Novo (Portugália)",
         "place_of_burial": "Granada (Spanyolország)",
@@ -2231,11 +2231,11 @@
     },
     "StPiusV_264": {
         "subject": "Szent V. Piusz, pápa",
-        "places": "",
+        "places": "N/A",
         "place_of_death": "Róma (Olaszország)",
         "place_of_birth": "Bosco Marengo (Alessandria, Olaszország)",
         "place_of_burial": "Santa Maria Maggiore-bazilika (Róma, Olaszország)",
-        "notes": "Mihály (született Antonio) Ghislieri (Bosco Marengo, Alessandria, 1504. január 17. - Róma, 1572. május 1.), domonkos, 1566-tól pápa volt. A tridenti zsinat első alkalmazását hajtotta végre, kezdve a római kúriával és az Urbs-szal. Kiadta a Katekizmust (1566), gondozta a Breviárium (1568) és a Misekönyv (1570) reformját. Előmozdította a hit terjesztését Európában és Keleten, és védelmezte azt az oszmán terjeszkedés ellen (Lepanto, 1571. október 7.).",
+        "notes": "Michele (született Antonio) Ghislieri (Bosco Marengo, Alessandria, 1504. január 17. – Róma, 1572. május 1.), domonkos, 1566-tól pápa. Végrehajtotta a tridenti zsinat első alkalmazását, kezdve a római kúriával és Róma városával. Kiadta a katekizmust (1566), gondozta a breviárium (1568) és a misekönyv (1570) reformját. Előmozdította a hit terjesztését Európában és Keleten, és védelmezte azt az oszmán terjeszkedés ellen (Lepanto, 1571. október 7.).",
         "patronage": "domonkos rend",
         "main_shrine": "Santa Maria Maggiore-bazilika (Róma, Olaszország)"
     },
@@ -2391,7 +2391,7 @@
     },
     "StBonaventure_303": {
         "subject": "Szent Bonaventura, püspök és egyháztanító",
-        "places": "Lione (Francia); Bagnoregio (Italia)",
+        "places": "Lyon (Franciaország); Bagnoregio (Olaszország)",
         "place_of_death": "Lyon (Franciaország)",
         "place_of_birth": "Civita di Bagnoregio (Viterbo, Olaszország)",
         "place_of_burial": "http://www.doctorseraphicus.it/images/annate/1958_67-81_Petrangeli_Papini.pdf",
@@ -2531,7 +2531,7 @@
     },
     "StRoseLima_331": {
         "subject": "",
-        "places": "",
+        "places": "N/A",
         "place_of_death": "Lima, Peru",
         "place_of_birth": "Lima, Peru",
         "place_of_burial": "Santo Domingo kolostor Limában, Peruban",
@@ -2543,7 +2543,7 @@
         "subject": "Szent IX. Lajos",
         "places": "Monreale, Szicília (Olaszország); Saint-Denis (Franciaország)",
         "place_of_death": "Tunisz, Tunézia",
-        "place_of_birth": "Poissy; Francia",
+        "place_of_birth": "Poissy; Franciaország",
         "place_of_burial": "Monreale katedrális, Szicília; Saint-Denis-bazilika (Franciaország)",
         "notes": "IX. Lajos (vagy Ludovico) (Poissy, Franciaország, 1214 - Tunisz, 1270. augusztus 25.), Franciaország királya, igazságosan uralkodott, elnyomva a hivatalnokok visszaéléseit és békét teremtve számos konfliktusban. Sok időt szentelt az imádságnak, gyakorolta a bűnbánatot és a jótékonyságot a szegények és betegek iránt. Pestisben halt meg a Jeruzsálem felszabadítására indított keresztes hadjárat során.",
         "patronage": "Franciaország, foglyok, templomépítés",
@@ -2581,7 +2581,7 @@
     },
     "StThereseChildJesus_352": {
         "subject": "Kis Jézusról nevezett Szent Teréz, szűz",
-        "places": "",
+        "places": "N/A",
         "place_of_death": "Lisieux (Franciaország)",
         "place_of_birth": "",
         "place_of_burial": "Lisieux-i Kármel (Franciaország)",
@@ -2741,7 +2741,7 @@
     },
     "StGertrudeGreat_380": {
         "subject": "",
-        "places": "",
+        "places": "N/A",
         "place_of_death": "Helfta kolostor (Eisleben, Németország)",
         "place_of_birth": "Eisleben (Németország)",
         "place_of_burial": "Az egyetlen létező ereklyék, mivel megmenekültek a sírjának pusztulásától a reformáció idején, Santa Maria di Licodiában találhatók, a Chiesa Madre-ban őrzött szobor belsejében.",
@@ -2971,7 +2971,7 @@
     },
     "StBonaventure_491": {
         "subject": "",
-        "places": "Lione (Francia); Bagnoregio (Italia)",
+        "places": "Lyon (Franciaország); Bagnoregio (Olaszország)",
         "place_of_death": "Lyon (Franciaország)",
         "place_of_birth": "",
         "place_of_burial": "http://www.doctorseraphicus.it/images/annate/1958_67-81_Petrangeli_Papini.pdf",
@@ -3174,7 +3174,7 @@
         "places": "Mexikóváros (Mexikó)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
-        "place_of_burial": "",
+        "place_of_burial": "N/A",
         "notes": "1531. december 9-én Juan Diego, egy az első keresztény hitre tért azték indián a spanyol hódítás kezdetén Mexikóban, a Tepeyac domb lábához érkezett (ma Mexikóváros). Itt megjelent neki egy „gyönyörű hölgy”, aki „a szent Szűz Máriaként, az igaz Isten anyjaként” mutatkozott be, és kérte, hogy építsenek neki egy templomot ezen a helyen, megígérve, hogy mindenkinek megmutatja szeretetét és segítségét. A püspök ellenállásával szemben a Morenita december 12-én Juan Diego tilmájára nyomta képét. A csodás jel hatására a püspök felépíttette az első szentélyt (1553), amelyet „Guadalupe”-nak neveztek el, mint a már a XIV. század óta létező spanyol szentélyt. Az épületet többször kibővítették, hogy befogadhassa az egyre növekvő számú zarándokokat, akiket a csodás kép vonzott. Guadalupe-i Szűz Máriát az amerikai kontinens egyházai „a nagy misszionáriusként ismerték el, aki elhozta az Evangéliumot Amerikánkba” (Aparecida Dokumentum, 269).",
         "patronage": "Amerikák, meg nem született gyermekek",
         "main_shrine": "Guadalupe Miasszonyunk Bazilika (Mexikóváros, Mexikó)"
@@ -3381,7 +3381,7 @@
     },
     "StPeterChrysologus_577": {
         "subject": "Szent Péter Krizológus, püspök és egyháztanító",
-        "places": "",
+        "places": "N/A",
         "place_of_death": "Ravenna (Olaszország)",
         "place_of_birth": "Imola (Olaszország)",
         "place_of_burial": "San Cassiano székesegyház, Imola (Olaszország)",
@@ -3572,7 +3572,7 @@
     "OurLadyMiracle_596": {
         "subject": "",
         "places": "Róma (Olaszország)",
-        "place_of_death": "",
+        "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "1842. január 20-án, amikor a Szűz megjelent az elzászi zsidó Alfonso Ratisbonne-nak, aki szinte véletlenül látogatott Rómába. A fiatal ügyvéd és bankár, aki erősen ellenséges volt a katolikus vallással szemben, gúnyból viselte a csodás érmet, amelyet néhány barátja hittel ajándékozott neki. Amikor belépett a templomba, világosan látott egy Asszonyt a kápolnában, amely akkoriban Mihály arkangyalnak volt szentelve, aki ujjával jelezte neki, hogy térdeljen le. Ennek a gesztusnak az eredménye az ember azonnali megtérése volt, aki alig tért magához a döbbenettől, kérte, hogy gyónhasson és megkeresztelkedhessen. Később Alfonso pappá szentelték, és csatlakozott testvéréhez, Theodore-hoz, aki szintén pap volt, a Sion Miasszonyunk vallási mozgalomhoz a zsidók és a muszlimok megtéréséért, amely Palesztinába vezette őt, ahol egy központot alapítottak Pilátus egykori praetoriumának közelében. 1884-ben halt meg Ein Keremben.",
@@ -3593,7 +3593,7 @@
         "subject": "A Csodás Érem Miasszonyunk",
         "places": "Párizs (Franciaország)",
         "place_of_death": "N/A",
-        "place_of_birth": "",
+        "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "1830 júniusa és decembere között Laboure Katalin nővér, a Szeretet Leányai fiatal novíciája, háromszor is megkapja azt a hatalmas kegyelmet, hogy találkozhat a Szűz Máriával. November 27-én látomása van a Boldogságos Szűz Máriáról, aki megihleti a Csodás Érmet.",
         "patronage": "Köszönöm, megtérések",
@@ -3622,7 +3622,7 @@
     "OurLadyBeauraing_601": {
         "subject": "Beauraing-i Miasszonyunk",
         "places": "Beauraing (Belgium)",
-        "place_of_death": "",
+        "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "Beauraingban, 1932. november 29-én Fernande (15 éves) és Albert (11 éves) Voisin, valamint barátaik, Andrée (14 éves) és Gilberte (9 éves) Degeimbre megkapták a \"Arany Szívű\" Boldogságos Szűz Mária jelenését. A jelenések a következő napokban folytatódtak: összesen 33 volt, és 1933. január 3-án fejeződtek be.",
@@ -3634,7 +3634,7 @@
         "places": "Akita (Japán)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
-        "place_of_burial": "",
+        "place_of_burial": "N/A",
         "notes": "1973. június 12-én Agnese Katsuko Sasagawa nővér, az \"Eucharisztia szolgálói\" kongregáció tagja, ragyogó fényt látott a kolostorának templomában lévő tabernákulumból, angyalokkal együtt, akik imádták. Június 28-án egy kereszt alakú stigma jelent meg a nővér bal kezén. Július 6-án következett az első a három Mária-jelenés közül, amelyeket üzenetek kísértek. 1975. január 4. és 1981. szeptember 15. között Agnese nővér arról számolt be, hogy 101 alkalommal látott könnyeket, sőt vért is hullatni egy Mária-szobor.",
         "patronage": "Japán, betegségek",
         "main_shrine": "Akita Miasszonyunk szentélye (Japán)"
@@ -3642,8 +3642,8 @@
     "OurLadyKibeho_603": {
         "subject": "Kibehoi Miasszonyunk",
         "places": "Kibeho (Ruanda)",
-        "place_of_death": "",
-        "place_of_birth": "",
+        "place_of_death": "N/A",
+        "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "Egy Kibeho-i kollégiumban, amelyet apácák vezettek és amelyet körülbelül száz helyi lány látogatott, 1981. november 28-án, szombaton, 12:35 körül, a tizenhat éves Alphonsine Mumureke az ebédlőben tartózkodott társaival, amikor naplójának beszámolója szerint egy hangot hallott, amely őt szólította: a refektórium melletti folyosóra ment, ahol egy rendkívüli szépségű, fehérbe öltözött, összekulcsolt kezű nőt látott. Amikor Alphonsine megkérdezte, ki ő, azt válaszolta: „Én vagyok az Ige Anyja.”",
         "patronage": "Ruanda, béke",
@@ -3672,9 +3672,9 @@
     "OurLadyRosary_606": {
         "subject": "A miasszonyunk, a Rózsafüzér Királynője",
         "places": "Prouilhe (Franciaország)",
-        "place_of_death": "",
+        "place_of_death": "N/A",
         "place_of_birth": "N/A",
-        "place_of_burial": "",
+        "place_of_burial": "N/A",
         "notes": "Miközben Szent Domonkos az albigensek eretneksége ellen harcolt Dél-Franciaországban, a Szűzanya megjelent neki 1208-ban, és egy lelki fegyvert, a rózsafüzért adta neki. Ez a jelenés Dél-Franciaországban történt, egy eldugott kis helyen, amelyet Prouilhe néven ismernek, a Languedoc régióban.",
         "patronage": "Rózsafüzér, csaták",
         "main_shrine": "Rózsafüzér Királynője-bazilika (Prouilhe, Franciaország)"
@@ -3683,7 +3683,7 @@
         "subject": "Zeitouni Miasszonyunk",
         "places": "",
         "place_of_death": "N/A",
-        "place_of_birth": "",
+        "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "A Szűz Mária első megjelenése Zeitounban 1968. április 2-án este történt, amikor egy muszlim buszmechanikus, Farouk Mohammed Atwa, azt hitte, hogy egy nőt lát az épület tetején. Egy héttel később, április 9-én a jelenség megismétlődött, ismét csak néhány percig tartott. Ezt követően a jelenések gyakoribbá váltak, hetente két-három alkalommal is előfordultak, több éven át, egészen 1971-ig. A kopt hagyomány szerint Zeitoun közel van ahhoz a helyhez, ahol a Szent Család Egyiptomba menekülése során megszállt. 2018. május 12-én a kopt egyház megünnepelte az esemény aranyjubileumát.",
         "patronage": "Kopt keresztények, megtérés",
@@ -3722,7 +3722,7 @@
     "CouncilOfConstantinople_611": {
         "subject": "Első Konstantinápolyi Zsinat",
         "places": "Konstantinápoly, Trákia (jelenlegi Isztambul, Törökország)",
-        "place_of_death": "",
+        "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "Az első konstantinápolyi zsinatot I. Theodosius hívta össze 381-ben, és ez volt a kereszténység második egyetemes zsinata. Körülbelül 150 püspök vett részt rajta, akik a kelet-római birodalom egész területéről érkeztek. A zsinat célja az előző évtizedben az ariánus eretnekség és a teológiai viták miatt kialakult megosztottság megszüntetése volt. Emellett meg akarták határozni a konstantinápolyi pátriárka, Demophilosz utódlását, aki az ariánus fenyegetések miatt kénytelen volt elmenekülni. Az összegyűlt püspökök megállapították, hogy a konstantinápolyi pátriárka a római püspök után következik a rangsorban, és megerősítették Jézus Krisztus istenségét, ahogyan azt az első niceai zsinat is kimondta. Ezenkívül elítélték az apollinarizmust, egy másik eretnekséget, amely tagadta Jézus Krisztus istenségét. Megfogalmazták a niceai-konstantinápolyi hitvallást, amely meghatározta a Szentháromság formuláját: Isten Atya, Isten Fiú és Isten Szentlélek. A keresztény hit megerősödött, és az egyház egysége helyreállt.",
@@ -3764,7 +3764,7 @@
         "places": "Konstantinápoly, Trákia (jelenlegi Isztambul, Törökország)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
-        "place_of_burial": "",
+        "place_of_burial": "N/A",
         "notes": "A harmadik konstantinápolyi zsinat, a kereszténység hatodik egyetemes zsinata, 680-tól 681-ig tartott Konstantinápolyban (a mai Isztambul, Törökország) a bizánci császár, IV. Konstantin védnöksége alatt. A zsinatot a monotelitizmus teológiai vitájának megoldására hívták össze, amely egy olyan tan volt, amely Krisztus személyében egyetlen akarat (thelēsis) létezését hirdette, miközben elismerte két természetét, az istenit és az emberit. A monotelitizmus kérdése a monofizitizmus hívei (akik Krisztus egyetlen isteni természetét állították) és azok között merült fel, akik a kalcedoni zsinat (451) szerint Krisztusban két természetet, emberit és istenit, egyesítve, de megkülönböztetve ismertek el.",
         "patronage": "N/A",
         "main_shrine": "Szent Apostolok temploma (Konstantinápoly, Törökország)"
@@ -3786,7 +3786,7 @@
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "A negyedik konstantinápolyi zsinatot 869-870-ben Konstantinápolyban tartották, I. Bazil császár és II. Hadrian pápa hívta össze, hogy megoldják a keleti egyházban fennálló feszültségeket. A fő kérdés Fótiusz pátriárka leváltása volt, aki vitatott körülmények között vette át Ignác helyét, nagy szakadást okozva. A zsinat törvénytelennek nyilvánította Fótiusz kinevezését, és visszaállította Ignácot, szabályokat hozva a pátriárkák megválasztására és megerősítve a pápai hatalmat. A zsinatot a katolikus egyház ökumenikusnak ismerte el, de az ortodox egyház nem, amely továbbra is Fótiuszt tekintette törvényes pátriárkának. Ez a zsinat kísérletet tett a keleti és nyugati egyházak egységének megszilárdítására, bár nem sikerült elkerülni a további megosztottságokat, amelyek az 1054-es szakadásban csúcsosodtak ki.",
-        "patronage": "",
+        "patronage": "N/A",
         "main_shrine": "Szent Apostolok temploma (Konstantinápoly, Törökország)"
     },
     "FirstLateranCouncil_618": {
@@ -3796,14 +3796,14 @@
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "",
-        "patronage": "",
+        "patronage": "N/A",
         "main_shrine": "Lateráni Szent János-bazilika (Róma, Olaszország)"
     },
     "SecondLateranCouncil_619": {
         "subject": "Második lateráni zsinat",
         "places": "Róma (Olaszország)",
         "place_of_death": "N/A",
-        "place_of_birth": "",
+        "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "A Második Lateráni Zsinatot 1139-ben tartották Rómában, II. Ince pápa hívta össze, hogy orvosolja az Anacletus II ellenpápa által okozott megosztottságot, aki II. Ince megválasztása ellen lépett fel. Anacletus halála után a zsinatot az egység helyreállítása és fegyelmi, erkölcsi kérdések megvitatása céljából hívták össze. A zsinat fő döntései között elítélte a nepotizmust, a szimóniát (egyházi tisztségek adásvételét) és a szabálytalan felszenteléseket. Továbbá megerősítette a papi cölibátus kötelezettségét és intézkedéseket hozott a papság körében előforduló visszaélések ellen. A zsinat kiközösítette az ellenpápa támogatóit és megerősítette az egyház fegyelmi ellenőrzését.",
         "patronage": "N/A",
@@ -3843,7 +3843,7 @@
         "subject": "Második lyoni zsinat",
         "places": "Lyon (Franciaország)",
         "place_of_death": "N/A",
-        "place_of_birth": "",
+        "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "A második lyoni zsinatot 1274-ben tartották Lyonban, X. Gergely pápa összehívására. A zsinat olyan kérdésekkel foglalkozott, mint az ortodox egyházzal való egyesülés, a latin egyház reformja, a keresztes hadjárat és a hitetlenek elleni háború. Továbbá megvitatták a szegénység és a tulajdon kérdését a ferences rendben. A zsinat elítélte a katarok és az albigensek eretnekségét, és elrendelte az Úr Teste ünnepének megünneplését.",
         "patronage": "N/A",
@@ -3852,7 +3852,7 @@
     "CouncilOfVienne_624": {
         "subject": "Vienne-i zsinat",
         "places": "",
-        "place_of_death": "",
+        "place_of_death": "N/A",
         "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "A bécsi zsinatot 1311-1312-ben tartották Bécsben, Franciaországban, V. Kelemen pápa hívta össze. A zsinat olyan kérdésekkel foglalkozott, mint a templomosok feloszlatása, a francia királynő, Burgundiai Margit elleni eretnekségi vád és a muszlimok elleni keresztes hadjárat. Továbbá megvitatták a szegénység és a tulajdon kérdését a ferences rendben. A zsinat elítélte a begárdok és begínák eretnekségét, akik radikális szegénységet hirdettek. Végül a zsinat megállapította, hogy a püspököknek teológiai vagy kánonjogi diplomával kell rendelkezniük a felszenteléshez. A zsinat megerősítette a pápai hatalmat és megerősítette a katolikus tanítást az eretnekségek ellen.",
@@ -3884,16 +3884,16 @@
         "places": "Róma (Olaszország)",
         "place_of_death": "N/A",
         "place_of_birth": "N/A",
-        "place_of_burial": "",
+        "place_of_burial": "N/A",
         "notes": "Az Ötödik Lateráni Zsinat (1512-1517) volt a középkor utolsó egyetemes zsinata. II. Gyula pápa hívta össze az egyház reformálására és a protestáns reformáció elleni küzdelemre, a zsinat főként fegyelmi és erkölcsi kérdésekkel foglalkozott. A legfontosabb döntések között szerepelt a pápa fölényének megállapítása az általános zsinat felett, valamint a katolikus tanítás megerősítése a kegyelemről és az eleve elrendelésről. A zsinat nem volt sikeres az egyház megosztottságának megszüntetésében, és nem tudta megakadályozni a protestáns reformáció megszületését.",
-        "patronage": "",
+        "patronage": "N/A",
         "main_shrine": "Lateráni Szent János-bazilika (Róma, Olaszország)"
     },
     "CouncilOfTrent_628": {
         "subject": "Tridenti zsinat",
         "places": "Róma (Olaszország)",
         "place_of_death": "N/A",
-        "place_of_birth": "",
+        "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "A tridenti zsinat (1545-1563) a katolikus egyház 19. egyetemes zsinata volt. III. Pál pápa hívta össze a protestáns reformáció ellensúlyozására, a zsinat az egyház belső reformjával és a katolikus tanítás meghatározásával foglalkozott a protestáns tézisekkel szemben. A legfontosabb döntések között megerősítették a hagyomány és a Szentírás érvényességét mint az isteni kinyilatkoztatás forrásait, és megerősítették a katolikus tanítást a kegyelemről, az eleve elrendelésről és a megigazulásról. A zsinat jelentős hatást gyakorolt a kor vallási életére és kultúrájára is, előmozdítva a szerzetesrendek reformját és új intézmények létrehozását a papság képzésére.",
         "patronage": "N/A",
@@ -3903,10 +3903,10 @@
         "subject": "Első Vatikáni Zsinat",
         "places": "Róma (Olaszország)",
         "place_of_death": "N/A",
-        "place_of_birth": "",
+        "place_of_birth": "N/A",
         "place_of_burial": "N/A",
         "notes": "Az I. Vatikáni Zsinat (1869-1870) a katolikus egyház huszadik egyetemes zsinata volt, amelyet IX. Piusz pápa hívott össze. Elsősorban a racionalizmus, a liberalizmus és a materializmus által felvetett kihívásokra kívánt válaszolni. Legjelentősebb határozatai közé tartozott a pápai tévedhetetlenség dogmájának meghatározása, amely kimondja, hogy a pápa tévedhetetlen, amikor ex cathedra hirdet egy hit- vagy erkölcstani tanítást, amelyet az egész egyháznak hinnie kell. A zsinatot megszakította Róma elfoglalása és a Pápai Állam vége, és soha nem zárták le hivatalosan, így sok belső reformkérdés megoldatlan maradt.",
-        "patronage": "",
+        "patronage": "N/A",
         "main_shrine": "Szent Péter-bazilika a Vatikánban (Vatikánváros)"
     },
     "SecondVaticanCouncil_630": {
