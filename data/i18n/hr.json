@@ -1817,13 +1817,13 @@
         "place_of_burial": "Poljski vojvoda Boleslav I. otkupio je tijelo po težini zlata i prenio ga u katedralu u Gnieznu. Prijenos se obilježava u poljskoj Crkvi 20. listopada. Godine 998. njemački car Oton III. sagradio je crkvu svetog Bartolomeja u Rimu kako bi primio ostatke dvojice mučenika: svetog Bartolomeja apostola, čije je tijelo pohranjeno u glavnom oltaru, i svetog Adalberta, biskupa Praga, koji je ubijen 997. dok je evangelizirao poganske narode na krajnjoj sjevernoj granici kršćanske Europe.",
         "notes": "Adalbert (Libice nad Cidlinou, Češka Republika, oko 956. - Tenkitten, današnji Beregowoje, Rusija, 23. travnja 997.) izabran je za biskupa Praga 983. godine. Obeshrabren otporom stanovništva i klera prema njegovom pastoralnom djelovanju, povukao se u Rim, u samostan svetih Bonifacija i Aleksija na Aventinu. Vrativši se u Prag, posvetio se misijskom radu, tijekom kojeg je ubijen od strane skupine pogana. Njegove relikvije štuju se u Gnieznu i Pragu, gdje su prenesene 1039. godine.",
         "patronage": "Poljska, Češka, Pruska",
-        "main_shrine": ""
+        "main_shrine": "Katedrala u Gnieznu (Poljska)"
     },
     "StLouisGrignionMontfort_191": {
         "subject": "Sveti Ljudevit Grignion de Montfort",
         "places": "Francuska",
         "place_of_death": "Saint-Laurent-sur-Sèvre (Francuska)",
-        "place_of_birth": "",
+        "place_of_birth": "Montfort-sur-Meu (Francuska)",
         "place_of_burial": "Saint-Laurent-sur-Sèvre (Francuska)",
         "notes": "Lujo Marija (Montfort-sur-Meu, Francuska, 31. siječnja 1673. - Saint-Laurent-sur-Sèvre, 28. travnja 1716.) posvetio je svoj život evanđeoskoj misiji, propovijedajući misterij vječne Mudrosti, utjelovljenog i raspetog Krista, te promičući marijansku pobožnost kao put koji vodi k Isusu; borio se protiv vjerskog neznanja putem kateheze siromašnima u urbanim periferijama i na selu te pučkih misija. Osnovao je Družbu Marijinu (Monfortanci) i ženski institut Kćeri Mudrosti, kojem je povjerio zadatak donošenja božanske Mudrosti među siromašne, u bolnice i škole milosrđa. Njegovi spisi, uključujući Raspravu o pravoj pobožnosti prema svetoj Djevici, ocrtavaju čovjekovo zvanje, od ropstva grijeha do oslobađajućeg prianjanja uz Krista.",
         "patronage": "Misionari, propovjednici",
@@ -1833,14 +1833,14 @@
         "subject": "Blažena Djevica Marija od Fatime",
         "places": "Fatima (Portugal)",
         "place_of_death": "Bazilika Svete Klare, Asiz (Italija)",
-        "place_of_birth": "",
+        "place_of_birth": "N/A",
         "place_of_burial": "Bazilika Svete Klare, Asiz (Italija)",
         "notes": "Prvo ukazanje Blažene Djevice Marije trojici pastira. Od 13. svibnja do 13. listopada 1917., jednom mjesečno, na mjestu Cova da Iria, blizu Fatime (Portugal), Lucija dos Santos, Franjo i Jacinta Marto – troje pastira iz tog kraja – imali su viđenje Presvete Marije. Osim što je naglasila potrebu za molitvom i pokorom za spas svijeta, Djevica je preporučila molitvu krunice i pobožnost prema svom Bezgrešnom Srcu. Gospa Fatimska bila je draga raznim papama, posebno Piju XII., svetom Pavlu VI. – prvom papi koji je otišao na hodočašće (13. svibnja 1967.) – i svetom Ivanu Pavlu II., koji je priznao njezinu majčinsku zaštitu tijekom atentata na Trgu svetog Petra 13. svibnja 1981.",
         "patronage": "Portugal, protiv komunizma",
         "main_shrine": "Bazilika u Fatimi (Portugal)"
     },
     "StChristopherMagallanes_193": {
-        "subject": "",
+        "subject": "Sveti Cristoforo Magallanes i drugovi mučenici",
         "places": "Jalisco (Meksiko)",
         "place_of_death": "Colotlán (Meksiko)",
         "place_of_birth": "Totatiche (Meksiko)",
@@ -1852,15 +1852,15 @@
     "StRitaCascia_194": {
         "subject": "Sveta Rita iz Cascije, redovnica",
         "places": "Cascia (Italija)",
-        "place_of_death": "",
+        "place_of_death": "Cascia (Italija)",
         "place_of_birth": "Roccaporena (Italija)",
         "place_of_burial": "Bazilika svete Rite, Cascia (Italija)",
         "notes": "Rita (Cascia, Perugia, kraj 14. st. - sredina 15. st.), usmjerena prema posvećenom životu, bila je prisiljena udati se za nasilnog muškarca. Nakon što je s primjerom strpljenja, dugi niz godina, podnosila teški bračni život, uspjela je postići obraćenje muža neposredno prije nego što je ubijen. Izgubivši nekoliko mjeseci kasnije i svoja dva sina blizanca, Rita je ušla u augustinski samostan u Casciji; imala je brojne mistične doživljaje koji su oko nje izazvali intenzivnu pučku pobožnost još od njezine smrti.",
-        "patronage": "",
-        "main_shrine": ""
+        "patronage": "Nemogući slučajevi, teški brakovi",
+        "main_shrine": "Bazilika svete Rite, Cascia (Italija)"
     },
     "StAugustineZhaoRong_195": {
-        "subject": "",
+        "subject": "Sveti Augustin Zhao Rong i drugovi mučenici",
         "places": "Hong Kong (Kina)",
         "place_of_death": "Chengdu (Kina)",
         "place_of_birth": "Wuchuan (Kina)",
@@ -1873,7 +1873,7 @@
         "subject": "Sveti Apolinar, biskup i mučenik",
         "places": "Sveti Apolinar u Classe; Sveti Apolinar Novi, Ravenna; Apollinariskirche u Remagenu (Njemačka); Crkva svetog Lamberta u Düsseldorfu (Njemačka)",
         "place_of_death": "Classe (Ravenna, Italija)",
-        "place_of_birth": "",
+        "place_of_birth": "Antiohija u Siriji",
         "place_of_burial": "Apollinariskirche (Remagen, Njemačka); Bazilika sv. Lamberta, Düsseldorf (Njemačka)",
         "notes": "Apollinarije (druga polovica 2. stoljeća) bio je prvi biskup Ravenne i jedan od prvih pastira cijele sjeverne Italije. Bio je i mučenik za vjeru, kako svjedoči jedan od njegovih nasljednika, sveti Petar Krizolog (5. stoljeće). Na njegovom grobu izgrađena je bazilika Sant'Apollinare in Classe (6. stoljeće). Na mjestu mučeništva, u Civitas Classis, u 6. stoljeću podignuta je crkva Sant'Apollinare. Relikvije sveca prenesene su u 9. stoljeću u grad, u crkvu koja je od tada nosila ime Sant'Apollinare Nuovo. Kasnije su kosti prenesene u Njemačku, gdje se i danas nalaze. U Ravenni su ostali glava i desna ruka, koje se od 1874. čuvaju u katedrali.",
         "patronage": "Liječnici, zubari, bolesti očiju",
@@ -1891,10 +1891,10 @@
     },
     "StPeterJulianEymard_198": {
         "subject": "Sveti Petar Julijan Eymard, svećenik",
-        "places": "",
+        "places": "https://eymardianplaces.com/",
         "place_of_death": "La Mure (Francuska)",
         "place_of_birth": "La Mure (Francuska)",
-        "place_of_burial": "",
+        "place_of_burial": "Crkva Presvetog Sakramenta, 23 avenue de Friedland, Pariz (Francuska)",
         "notes": "Pjer Julijan (La Mure, Francuska, 4. veljače 1811. - 1. kolovoza 1868.), dijecezanski svećenik predan propovijedanju, pridružio se Družbi Marijinoj (Maristi), posvećujući se pučkim misijama. Suočen s raširenom religijskom ravnodušnošću, u urbanim periferijama kao i na selu, naglašavao je središnju ulogu Euharistije kao izvora kršćanskog života. Promicao je praksu euharistijskog klanjanja i čestu pričest. U tu svrhu osnovao je Kongregaciju Presvetog Sakramenta (1856.), kojoj je pridružio Dame Presvetog Sakramenta (1859.). https://www.ssscongregatio.org/it/chi-siamo/il-fondatore/luoghi-eymardiani.html",
         "patronage": "Euharistijsko klanjanje",
         "main_shrine": "Crkva Presvetog Sakramenta, 23 avenue de Friedland, Pariz (Francuska)"
@@ -1904,7 +1904,7 @@
         "places": "Köln (Njemačka); Auschwitz (Poljska)",
         "place_of_death": "Auschwitz (Poljska)",
         "place_of_birth": "Wrocław (Poljska)",
-        "place_of_burial": "",
+        "place_of_burial": "N/A",
         "notes": "Edith Stein (Breslau, Poljska, 12. listopada 1891. - Auschwitz, 9. kolovoza 1942.), Židovka, posvetila se s velikom strašću, izvrsnim rezultatima i prestižnim priznanjima istraživanju i poučavanju filozofije. Preobratila se na kršćanstvo i postala redovnica u Karmelu u Kölnu, pod imenom Terezija Benedikta od Križa. Kada je započeo nacistički progon Židova, premještena je iz opreza u samostan u Echtu (Nizozemska). Kada je, kao odgovor na protest nizozemskih biskupa, Hitler naredio uhićenje i deportaciju i kršćana židovskog podrijetla, Terezija je zajedno sa svojom sestrom, također redovnicom, uhićena i deportirana u Auschwitz, gdje je umrla u plinskim komorama. Tamo, pridružujući se Kristovu križu, ponudila je svoj život za svoj narod. Godine 1999. sveti Ivan Pavao II. proglasio ju je zaštitnicom Europe.",
         "patronage": "Europa, mučenici, filozofi",
         "main_shrine": "Samostan karmelićanki u Kölnu (Njemačka)"
@@ -1917,7 +1917,7 @@
         "place_of_burial": "Latinska Amerika, biskupi misionari",
         "notes": "Maksimilijan Marija, u svijetu Raimondo (Zduńska Wola, Poljska, 8. siječnja 1894. - Auschwitz, 14. kolovoza 1941.), ušao je među Franjevce Manje Konventualce i zaređen za svećenika, osnovao je, pod imenom \"Milicija Bezgrešne Marije\", pobožnu udrugu apostolata karakteriziranu širenjem marijanskog kulta, u Europi i Aziji, putem publikacija i socijalnih djela. Uhićen tijekom nacističke okupacije Poljske, poslan je na prisilni rad u logor Auschwitz. Tamo se ponudio zamijeniti suzatvorenika, oca obitelji, osuđenog na smrt, s još devetoricom, kao odmazdu nakon bijega jednog zatvorenika. Velikodušna žrtva Maksimilijana, nakon više od dva tjedna u bunkeru gladi, ostvarila se uoči blagdana Uznesenja Marijina na nebo. Svjetlo bratstva u jednom od najmračnijih trenutaka ljudske povijesti.",
         "patronage": "Zatvorenici, novinari, obitelji",
-        "main_shrine": ""
+        "main_shrine": "Niepokalanów (Poljska)"
     },
     "StPeterClaver_201": {
         "subject": "Sveti Petar Claver, svećenik",
@@ -1926,7 +1926,7 @@
         "place_of_birth": "Verdú (Španjolska)",
         "place_of_burial": "Svetište svetog Pedra Clavera (Cartagena de Indias, Kolumbija)",
         "notes": "Petar (Verdú, Španjolska, 1580. - Cartagena, Kolumbija, 8. rujna 1657.), isusovac, bio je poslan u Zapadnu Indiju. Nakon suradnje s bratom Alonsom Sandovalom, koji je već bio aktivan u apostolatu među crnim robovima, posvetio se službi tih nesretnika, pomažući im tijekom teškog putovanja između Afrike i Amerike, te ih poučavajući duhovnom životu koji odgovara njihovom dostojanstvu kao Božje djece.",
-        "patronage": "",
+        "patronage": "Robovi, misionari, ljudska prava",
         "main_shrine": "Svetište San Pedro Claver (Cartagena de Indias, Kolumbija)"
     },
     "HolyNameMary_202": {
@@ -1936,14 +1936,14 @@
         "place_of_birth": "Prevoditelji, knjižničari, znanstvenici",
         "place_of_burial": "Prevoditelji, knjižničari, znanstvenici",
         "notes": "Pobožnost prema imenu Marije nastala je u srednjem vijeku, zajedno s pobožnošću prema imenu Isusa. Liturgijski blagdan uveo je u cijelu zapadnu Crkvu Inocent XI. nakon pobjede nad Turcima u Beču, koja se dogodila 12. rujna 1683. Ime u Bibliji označava identitet i misiju osobe. Sada, ako je Marijino ime možda egipatskog podrijetla, ono sadrži korijen glagola \"voljeti\". Ona je dakle Ljubljena u kojoj nema mane (usp. Pj 4, 7), \"puna milosti\", kako je naziva anđeo Gabrijel (Lk 1, 28). Marija je stoga slika i prvina Crkve, Zaručnice koju je Božja milost preobrazila iz \"nevoljene\" u \"voljenu\" (usp. Hoš 1, 6; 2, 3).",
-        "patronage": "",
+        "patronage": "Protiv napada neprijatelja",
         "main_shrine": "Crkva Presvetog Imena Marijina (Rim, Italija)"
     },
     "StAndrewKimTaegon_203": {
         "subject": "Sveti Andrija Kim Taegon, svećenik, Pavao Chong Hasang i drugovi mučenici",
         "places": "Seul (Južna Koreja)",
         "place_of_death": "Saenamteo (Seoul, Južna Koreja)",
-        "place_of_birth": "",
+        "place_of_birth": "Solmoi (Seul, Južna Koreja)",
         "place_of_burial": "Katedrala Myeongdong",
         "notes": "Andrija (1821 - Seul, Južna Koreja, 16. rujna 1846.) bio je prvi svećenik Korejske Crkve, koja je više od pola stoljeća bila sastavljena samo od laika; među njima je bio i katehist Pavao, žrtva progona deset godina ranije, kojeg su pokrenuli vladari zbog straha od stranih utjecaja na lokalne kulturne i vjerske tradicije. U sjećanje na Andriju i Pavla povezano je još sto jedan mučenik, uključujući dva europska biskupa, Lovru Imberta i Šimuna Berneuxa. Više od deset tisuća kršćana, u različitim razdobljima tijekom 19. stoljeća, oplodilo je krvlju tu mladu Crkvu. Ona je nastala krajem 18. stoljeća iz spontanog susreta s kineskim kršćanstvom, a zatim je rasla zahvaljujući dolasku nekih misionara sa Zapada u prvim desetljećima 19. stoljeća. Sjajna povijest Korejske Crkve i njezinih mučenika predstavlja jasan dokaz skrivene, ali učinkovite akcije Duha Svetoga, čak i u najtežim uvjetima za kršćansku zajednicu.",
         "patronage": "Koreja, progonjeni katolici",
@@ -1954,7 +1954,7 @@
         "places": "Manila (Filipini); Nagasaki (Japan)",
         "place_of_death": "Nagasaki (Japan)",
         "place_of_birth": "Binondo (današnja Manila, Filipini)",
-        "place_of_burial": "",
+        "place_of_burial": "Park Nishizaka (Nagasaki, Japan)",
         "notes": "Lorenzo (Binondo, današnja Manila, Filipini, oko 1600. - Nagasaki, Japan, 29. rujna 1637.), laik i otac obitelji, sudjelovao je u dominikanskoj misiji koja je s Filipina stigla u Japan, gdje je bio uhićen i osuđen na okrutnu smrt. Kršćanska vjera, koju je u Japan uveo sveti Franjo Ksaverski, isprva je bila prihvaćena i poticana od strane nekih lokalnih gospodara. Nakon političkog ujedinjenja zemlje, početkom 17. stoljeća, kršćani su počeli biti sumnjičeni da favoriziraju interese stranih sila, posebno Španjolske, koja je zauzela Filipine. Uz Lorenza se spominje još petnaest mučenika – devet svećenika i šest laika, različitog podrijetla, svi na različite načine povezani s Dominikanskim redom – koji su ubijeni između 1633. i 1637. godine, na istoj brdu koje je već 1597. godine svjedočilo stradanju japanskih protomučenika Pavla Mikija i drugova.",
         "patronage": "Filipini",
         "main_shrine": "Crkva svetog Filipa (Crkva Nishizaka, Nagasaki, Japan)"
@@ -1972,8 +1972,8 @@
     "StCatherineAlexandria_206": {
         "subject": "Sveta Katarina Aleksandrijska, djevica i mučenica",
         "places": "katehisti, sjemeništa",
-        "place_of_death": "",
-        "place_of_birth": "",
+        "place_of_death": "Aleksandrija (Egipat)",
+        "place_of_birth": "Aleksandrija (Egipat)",
         "place_of_burial": "Samostan Svete Katarine na Sinaju (Egipat)",
         "notes": "Katarina Aleksandrijska (III-IV st.), prema predaji koja je prenesena (VI-VIII st.), branila je vjeru pred pedeset poganskih mudraca i svjedočila je mučeništvom. Relikvije se štuju u samostanu nazvanom po njoj u podnožju Sinajske gore.",
         "patronage": "Filozofi, studenti, knjižnice",
@@ -1982,7 +1982,7 @@
     "StGregoryNazianzen_207": {
         "subject": "Sveti Grgur Nazijanski",
         "places": "Kapadokija (Turska); Konstantinopol (današnji Istanbul, Turska); Rim (Italija)",
-        "place_of_death": "",
+        "place_of_death": "Konstantinopol (današnji Istanbul, Turska)",
         "place_of_birth": "Nazianz, u današnjoj Turskoj",
         "place_of_burial": "Bazilika svetog Petra; prethodno Crkva svete Marije od Bezgrešnog Začeća u Campo Marzio, Rim, gdje je ostala jedna ruka",
         "notes": "Grgur (Nazianz, u današnjoj Turskoj, 329/330 - 390) dijelio je s Bazilijem kulturnu formaciju i želju za monaškim životom. Izabran za patrijarha Carigrada, proživio je kratko i teško biskupstvo, usred mnogih sukoba. Vješt pisac i govornik, posvetio se i poeziji. Zajedno s Bazilijem značajno je pridonio razvoju trinitarne doktrine. Liturgijsko sjećanje 2. siječnja",
